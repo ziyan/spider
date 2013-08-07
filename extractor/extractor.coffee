@@ -5,6 +5,7 @@ url = 'http://www.theverge.com/2013/8/6/4594158/fitness-tracker-quantified-self-
 #url = 'http://news.163.com/13/0807/11/95M23SMI0001124J.html'
 url = 'http://coffeescriptcookbook.com/chapters/classes_and_objects/class-methods-and-instance-methods'
 url = 'http://localhost:8888/'
+url = 'http://www.wired.com/business/2013/06/meditation-mindfulness-silicon-valley/'
 
 page = require('webpage').create()
 
