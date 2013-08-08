@@ -1,4 +1,4 @@
-url = 'http://www.theverge.com/2013/8/6/4594158/fitness-tracker-quantified-self-workout'
+#url = 'http://www.theverge.com/2013/8/6/4594158/fitness-tracker-quantified-self-workout'
 #url = 'http://www.amazon.com/gp/product/B004X1V1CS/ref=s9_simh_gw_p351_d0_i2?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-2&pf_rd_r=1AZ2019VKPDJGBSYZG8T&pf_rd_t=101&pf_rd_p=1389517282&pf_rd_i=507846'
 #url = 'http://news.163.com/13/0807/09/95LRCHP20001124J.html'
 #url = 'http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/the-role-of-table-layouts-in-responsive-web-design/'
@@ -7,23 +7,53 @@ url = 'http://www.theverge.com/2013/8/6/4594158/fitness-tracker-quantified-self-
 #url = 'http://localhost:8888/'
 #url = 'http://www.wired.com/business/2013/06/meditation-mindfulness-silicon-valley/'
 
+system = require('system')
 page = require('webpage').create()
 
+page.viewportSize =
+    width: 1600
+    height: 4000
+
 page.onResourceRequested = (request) ->
-    #console.log 'Request ' + JSON.stringify request, undefined, 2
+    system.stderr.write JSON.stringify request, undefined, 2
+    system.stderr.write '\n\n'
 
 page.onResourceReceived = (response) ->
-    #console.log 'Receive ' + JSON.stringify response, undefined, 2
+    system.stderr.write JSON.stringify response, undefined, 2
+    system.stderr.write '\n\n'
 
-page.open url, ->
-    links = page.evaluate ->
-        (link.href for link in document.querySelectorAll('a[href]'))
+page.onConsoleMessage = (message) ->
+    system.stderr.write message
+    system.stderr.write '\n\n'
 
-    nodes = page.evaluate ->
-        try
-            String.prototype.trim = -> @replace /^\s+|\s+$/g, ''
+page.onLoadFinished = (status) ->
+    # bail on network issue
+    return phantom.exit() if status is not 'success'
 
-            build_tag_path = (element) ->
+    # inject javascripts helpers needed
+    page.evaluate ->
+        String.prototype.trim = -> @replace /^\s+|\s+$/g, ''
+
+        ((window) ->
+            'use strict'
+
+            window.__slice = [].slice
+
+            namespace = (target, name, block) ->
+                [target, name, block] = [window, arguments...] if arguments.length < 3
+                top = target
+                target = target[item] or= {} for item in name.split '.'
+                block target, top
+
+            namespace 'spider', (exports, top) ->
+                exports.namespace = namespace
+
+        )(window)
+
+        spider.namespace 'spider.utils', (exports) ->
+            'use strcit'
+
+            exports.path = (element) ->
                 path = []
                 while element
                     name = element.tagName.toLowerCase()
@@ -37,66 +67,117 @@ page.open url, ->
                     element = element.parentElement
                 return path
 
-            nodes = []
+            exports.bound = (element) ->
+                scrollTop = document.documentElement.scrollTop or document.body.scrollTop
+                scrollLeft = document.documentElement.scrollLeft or document.body.scrollLeft
+                rect = element.getBoundingClientRect()
+                bound =
+                    width: rect.width
+                    height: rect.height
+                    left: rect.left + scrollLeft
+                    top: rect.top + scrollTop 
+                return bound
 
-            # walk over all text in the page
-            walker = document.createTreeWalker document.body, NodeFilter.SHOW_TEXT, null, false
-            while text = walker.nextNode()
-                continue unless text.nodeValue.trim().length > 0
+            exports.computed = (element) ->
+                computed = document.defaultView.getComputedStyle(element)
+                data =
+                    width: computed.width
+                    height: computed.height
+                    color: computed.color
+                    lineHeight: computed.lineHeight
+                    fontSize: computed.fontSize
+                    fontWeight: computed.fontWeight
+                    fontFamily: computed.fontFamily
+                    fontStyle: computed.fontStyle
+                    opacity: computed.opacity
+                return data
 
-                # container node
-                node = text.parentElement
-                continue unless node.offsetWidth * node.offsetHeight > 0
+    # extract basic data
+    data = page.evaluate ->
+        data =
+            url: window.location.href
+            body:
+                scroll:
+                    top: document.documentElement.scrollTop or document.body.scrollTop
+                    left: document.documentElement.scrollLeft or document.body.scrollLeft
+                bound: spider.utils.bound(document.body)
+                computed: spider.utils.computed(document.body)
+        return data
 
-                # find the parent node that is a block
-                while node
-                    computed = document.defaultView.getComputedStyle(node)
-                    width = parseInt(computed.width)
-                    height = parseInt(computed.height)
-                    break if width * height > 0
-                    node = node.parentElement
-                continue unless node
+    # extract links
+    links = page.evaluate ->
+        (link.href for link in document.querySelectorAll('a[href]'))
 
-                # have we seen this node?
-                if node.spider
-                    node.spider.text.push text.nodeValue
-                    continue
+    # extract data
+    texts = page.evaluate ->
+        texts = []
 
-                # collect features
-                path = build_tag_path(node)
+        # walk over all text in the page
+        walker = document.createTreeWalker document.body, NodeFilter.SHOW_TEXT, null, false
+        while text = walker.nextNode()
+            continue unless text.nodeValue.trim().length > 0
+
+            # container node
+            node = text.parentElement
+            bound = spider.utils.bound(node)
+            continue unless bound.width * bound.height > 0
+
+            # find the parent node that is a block
+            while node
                 computed = document.defaultView.getComputedStyle(node)
+                break if parseInt(computed.width) * parseInt(computed.height) > 0
+                node = node.parentElement
+            continue unless node
 
-                node.spider =
-                    node: path[path.length - 1]
-                    path: path
-                    text: [text.nodeValue]
-                    html: node.innerHTML
-                    offset:
-                        width: node.offsetWidth
-                        height: node.offsetHeight
-                        top: node.offsetTop
-                        left: node.offsetLeft
-                    computed:
-                        width: computed.width
-                        height: computed.height
-                        color: computed.color
-                        lineHeight: computed.lineHeight
-                        fontSize: computed.fontSize
-                        fontWeight: computed.fontWeight
-                        fontFamily: computed.fontFamily
-                        fontStyle: computed.fontStyle
-                        opacity: computed.opacity
-                nodes.push node.spider
+            # have we seen this node?
+            if node.spider
+                node.spider.text.push text.nodeValue
+                continue
 
-                node.style.border = '1px solid red'
+            # collect features
+            path = spider.utils.path(node)
 
-            return nodes
+            node.spider =
+                element: path[path.length - 1]
+                path: path
+                text: [text.nodeValue]
+                html: node.innerHTML
+                bound: spider.utils.bound(node)
+                computed: spider.utils.computed(node)
+            texts.push node.spider
 
-        catch e
-            return e
+            # debug
+            node.style.border = '1px solid red'
 
+        return texts
+
+    # extract images
+    images = page.evaluate ->
+        images = []
+        for image in document.querySelectorAll('img[src]')
+            bound = spider.utils.bound(image)
+            continue unless bound.width * bound.height > 0
+            path = spider.utils.path(image)
+            images.push
+                src: image.src
+                element: path[path.length - 1]
+                path: path
+                bound: bound
+                computed: spider.utils.computed(image)
+        return images
+
+    data.links = links
+    data.texts = texts
+    data.images = images
+
+    # debug
+    console.log JSON.stringify data, undefined, 2
+    #console.log JSON.stringify data
+
+    # debug
     page.render('test.jpg')
 
-    console.log JSON.stringify nodes, undefined, 2
-
     phantom.exit()
+
+# load page
+page.open system.args[1]
