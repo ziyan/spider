@@ -51,7 +51,7 @@ page.onLoadFinished = (status) ->
         )(window)
 
         spider.namespace 'spider.utils', (exports) ->
-            'use strcit'
+            'use strict'
 
             exports.path = (element) ->
                 path = []
@@ -105,11 +105,11 @@ page.onLoadFinished = (status) ->
         return data
 
     # extract links
-    links = page.evaluate ->
+    data.links = page.evaluate ->
         (link.href for link in document.querySelectorAll('a[href]'))
 
     # extract data
-    texts = page.evaluate ->
+    data.texts = page.evaluate ->
         texts = []
 
         # walk over all text in the page
@@ -152,7 +152,7 @@ page.onLoadFinished = (status) ->
         return texts
 
     # extract images
-    images = page.evaluate ->
+    data.images = page.evaluate ->
         images = []
         for image in document.querySelectorAll('img[src]')
             bound = spider.utils.bound(image)
@@ -166,16 +166,12 @@ page.onLoadFinished = (status) ->
                 computed: spider.utils.computed(image)
         return images
 
-    data.links = links
-    data.texts = texts
-    data.images = images
-
     # debug
     console.log JSON.stringify data, undefined, 2
     #console.log JSON.stringify data
 
     # debug
-    page.render('test.jpg')
+    page.render('test.png')
 
     phantom.exit()
 
