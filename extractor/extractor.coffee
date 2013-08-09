@@ -1,32 +1,30 @@
-#url = 'http://www.theverge.com/2013/8/6/4594158/fitness-tracker-quantified-self-workout'
-#url = 'http://www.amazon.com/gp/product/B004X1V1CS/ref=s9_simh_gw_p351_d0_i2?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-2&pf_rd_r=1AZ2019VKPDJGBSYZG8T&pf_rd_t=101&pf_rd_p=1389517282&pf_rd_i=507846'
-#url = 'http://news.163.com/13/0807/09/95LRCHP20001124J.html'
-#url = 'http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/the-role-of-table-layouts-in-responsive-web-design/'
-#url = 'http://news.163.com/13/0807/11/95M23SMI0001124J.html'
-#url = 'http://coffeescriptcookbook.com/chapters/classes_and_objects/class-methods-and-instance-methods'
-#url = 'http://localhost:8888/'
-#url = 'http://www.wired.com/business/2013/06/meditation-mindfulness-silicon-valley/'
-
 system = require('system')
 page = require('webpage').create()
 
+# set a big enough viewport size,
+# this needs to be static
 page.viewportSize =
     width: 1600
     height: 4000
 
+# debug info
 page.onResourceRequested = (request) ->
     system.stderr.write JSON.stringify request, undefined, 2
     system.stderr.write '\n\n'
 
+# debug info
 page.onResourceReceived = (response) ->
     system.stderr.write JSON.stringify response, undefined, 2
     system.stderr.write '\n\n'
 
+# debug info
 page.onConsoleMessage = (message) ->
     system.stderr.write message
     system.stderr.write '\n\n'
 
+# handle page loadd
 page.onLoadFinished = (status) ->
+
     # bail on network issue
     return phantom.exit() if status is not 'success'
 
@@ -34,6 +32,7 @@ page.onLoadFinished = (status) ->
     page.evaluate ->
         String.prototype.trim = -> @replace /^\s+|\s+$/g, ''
 
+        # namespace creation
         ((window) ->
             'use strict'
 
@@ -50,23 +49,31 @@ page.onLoadFinished = (status) ->
 
         )(window)
 
+        # spider.utils
         spider.namespace 'spider.utils', (exports) ->
             'use strict'
 
+            # get element description
+            exports.element = (element) ->
+                name = element.tagName.toLowerCase()
+                classes = (c for c in element.classList)
+                id = element.id
+                data =
+                    name: name
+                    classes: classes
+                    id: id
+                return data
+
+            # generate tag path
             exports.path = (element) ->
                 path = []
                 while element
-                    name = element.tagName.toLowerCase()
-                    classes = (c for c in element.classList)
-                    id = element.id
-                    path.splice 0, 0,
-                        name: name
-                        classes: classes
-                        id: id
+                    path.splice 0, 0, exports.element(element)
                     break if element is document.body
                     element = element.parentElement
                 return path
 
+            # calculate block bound
             exports.bound = (element) ->
                 scrollTop = document.documentElement.scrollTop or document.body.scrollTop
                 scrollLeft = document.documentElement.scrollLeft or document.body.scrollLeft
@@ -78,6 +85,7 @@ page.onLoadFinished = (status) ->
                     top: rect.top + scrollTop 
                 return bound
 
+            # calculate computed css
             exports.computed = (element) ->
                 computed = document.defaultView.getComputedStyle(element)
                 data =
@@ -92,7 +100,7 @@ page.onLoadFinished = (status) ->
                     opacity: computed.opacity
                 return data
 
-    # extract basic data
+    # extract page basic data
     data = page.evaluate ->
         data =
             url: window.location.href
@@ -135,10 +143,11 @@ page.onLoadFinished = (status) ->
                 continue
 
             # collect features
+            element = spider.utils.element(node)
             path = spider.utils.path(node)
 
             node.spider =
-                element: path[path.length - 1]
+                element: element
                 path: path
                 text: [text.nodeValue]
                 html: node.innerHTML
@@ -157,10 +166,12 @@ page.onLoadFinished = (status) ->
         for image in document.querySelectorAll('img[src]')
             bound = spider.utils.bound(image)
             continue unless bound.width * bound.height > 0
+            element = spider.utils.element(image)
             path = spider.utils.path(image)
+            
             images.push
                 src: image.src
-                element: path[path.length - 1]
+                element: element
                 path: path
                 bound: bound
                 computed: spider.utils.computed(image)
@@ -171,9 +182,16 @@ page.onLoadFinished = (status) ->
     #console.log JSON.stringify data
 
     # debug
-    page.render('test.png')
+    page.render(system.args[2] + '.png')
 
+    # done
+    phantom.exit()
+
+# argument check
+unless system.args.length is 3
+    system.stderr.write 'Usage: phantomjs ' + system.args[0] + ' <url> <label>\n\n'
     phantom.exit()
 
 # load page
 page.open system.args[1]
+
