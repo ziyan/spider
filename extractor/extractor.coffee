@@ -57,22 +57,19 @@ page.onLoadFinished = (status) ->
             # get element description
             exports.element = (element) ->
                 name = element.tagName.toLowerCase()
-                classes = (c for c in element.classList)
-                id = element.id
-                data =
-                    name: name
-                    classes: classes
-                    id: id
-                return data
+                #classes = ('.' + c for c in (c for c in element.classList).sort()).join('')
+                #id = if element.id then '#' + element.id else ''
+                return name
 
             # generate tag path
             exports.path = (element) ->
                 path = []
-                while element
-                    path.splice 0, 0, exports.element(element)
-                    break if element is document.body
+                while true
                     element = element.parentElement
-                return path
+                    break if not element
+                    break if element is document.body
+                    path.splice 0, 0, exports.element(element)
+                return path.join(' > ')
 
             # calculate block bound
             exports.bound = (element) ->
@@ -89,16 +86,13 @@ page.onLoadFinished = (status) ->
             # calculate computed css
             exports.computed = (element) ->
                 computed = document.defaultView.getComputedStyle(element)
-                data =
-                    width: computed.width
-                    height: computed.height
-                    color: computed.color
-                    lineHeight: computed.lineHeight
-                    fontSize: computed.fontSize
-                    fontWeight: computed.fontWeight
-                    fontFamily: computed.fontFamily
-                    fontStyle: computed.fontStyle
-                    opacity: computed.opacity
+                data = {}
+                for key in computed
+                    # don't care about dimension, let bound track that
+                    continue if key in ['width', 'height', 'top', 'left', 'right', 'bottom']
+                    # don't care about webkit specific
+                    continue if key.charAt(0) is '-'
+                    data[key] = computed[key]
                 return data
 
     # extract page basic data
@@ -157,7 +151,7 @@ page.onLoadFinished = (status) ->
             texts.push node.spider
 
             # debug
-            node.style.border = '1px solid red'
+            # node.style.border = '1px solid red'
 
         return texts
 
@@ -182,7 +176,7 @@ page.onLoadFinished = (status) ->
     fs.write(system.args[2] + '.json', JSON.stringify(data, undefined, 2))
 
     # debug
-    page.render(system.args[2] + '.png')
+    # page.render(system.args[2] + '.png')
 
     # done
     phantom.exit()

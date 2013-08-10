@@ -24,23 +24,23 @@ def main(args):
     path = get_data_path(args.site[0])
     urls = load_urls(path)
 
-    texts = []
-    datas = []
-
+    # load data
+    data = []
     for id, url in enumerate(urls):
-        data = load_data(path, id)
-        preprocessor = preprocessors.Preprocessor(data)
-        nodes, features = preprocessor.process_texts()
-        datas.append(features)
-        texts += nodes
+        data.append(load_data(path, id))
 
-    data = np.vstack(datas)
+    # process data
+    preprocessor = preprocessors.Preprocessor(data)
+    datapoints, features = preprocessor.extract()
+
+    # cluster
     clusterer = clusterers.DBSCAN()
-    db = clusterer.cluster(data)
+    db = clusterer.cluster(features)
 
+    # debug
     clusters = collections.defaultdict(list)
     for id, label in enumerate(db.labels_):
-        clusters[int(label)].append(texts[id]['html'])
+        clusters[int(label)].append(datapoints[id]['html'])
 
     print json.dumps(clusters, indent=2)
 
