@@ -4,6 +4,11 @@ from sklearn.preprocessing import StandardScaler
 class DBSCAN(object):
 
     def cluster(self, data):
-        data = StandardScaler().fit_transform(data)
-        db = cluster.DBSCAN(eps=0.5, min_samples=5).fit(data)
+        # data = StandardScaler().fit_transform(data)
+        db = cluster.DBSCAN(eps=0.1, min_samples=5).fit(data)
         return db
+
+class AffinityPropagation(object):
+    def cluster(self, data):
+        af = cluster.AffinityPropagation().fit(data)
+        return af

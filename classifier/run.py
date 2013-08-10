@@ -34,12 +34,13 @@ def main(args):
     datapoints, features = preprocessor.extract()
 
     # cluster
+    # clusterer = clusterers.AffinityPropagation()
     clusterer = clusterers.DBSCAN()
-    db = clusterer.cluster(features)
+    result = clusterer.cluster(features)
 
     # debug
     clusters = collections.defaultdict(list)
-    for id, label in enumerate(db.labels_):
+    for id, label in enumerate(result.labels_):
         clusters[int(label)].append(datapoints[id]['html'])
 
     print json.dumps(clusters, indent=2)
