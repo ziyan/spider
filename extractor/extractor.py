@@ -27,7 +27,7 @@ def main(args):
             continue
 
         print '[extractor] #%03d: %s' % (id, url)
-        subprocess.call('cd "%(path)s" && phantomjs "%(extractor)s" "%(url)s" "%(label)03d" > "%(label)03d.json" 2> "%(label)03d.log"' % {
+        subprocess.call('cd "%(path)s" && phantomjs "%(extractor)s" "%(url)s" "%(label)03d" > "%(label)03d.log" 2>&1' % {
             'path': path,
             'extractor': extractor,
             'url': url,

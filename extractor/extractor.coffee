@@ -1,4 +1,5 @@
 system = require('system')
+fs = require('fs')
 page = require('webpage').create()
 
 # set a big enough viewport size,
@@ -177,9 +178,8 @@ page.onLoadFinished = (status) ->
                 computed: spider.utils.computed(image)
         return images
 
-    # debug
-    console.log JSON.stringify data, undefined, 2
-    #console.log JSON.stringify data
+    # write json
+    fs.write(system.args[2] + '.json', JSON.stringify(data, undefined, 2))
 
     # debug
     page.render(system.args[2] + '.png')

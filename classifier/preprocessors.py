@@ -1,5 +1,4 @@
 import numpy as np
-from sklearn.preprocessing import StandardScaler
 
 class Preprocessor(object):
 
@@ -28,5 +27,4 @@ class Preprocessor(object):
                 for key, process in self.TEXT_PROCESSORS.iteritems()
             ])
         data = np.array(data).astype(np.float32)
-        #return texts, data
-        return texts, StandardScaler().fit_transform(data)
+        return texts, data
