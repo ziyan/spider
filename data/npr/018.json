@@ -140,6 +140,14 @@
       "top": 0
     }
   },
+  "descriptions": [
+    "Eighteen of the 19 embassies and consulates will reopen, the State Department said. The U.S. embassy in Yemen will remain closed.",
+    "Eighteen of the 19 embassies and consulates will reopen, the State Department said. The U.S. embassy in Yemen will remain closed."
+  ],
+  "titles": [
+    "U.S. To Open Most Embassies Shuttered By Terrorist Threat : The Two-Way : NPR",
+    "U.S. To Open Most Embassies Shuttered By Terrorist Threat : NPR"
+  ],
   "url": "http://www.npr.org/blogs/thetwo-way/2013/08/09/210610991/u-s-to-open-most-embassies-shuttered-by-terrorist-threat",
   "links": [
     "http://www.npr.org/blogs/thetwo-way/2013/08/09/210610991/u-s-to-open-most-embassies-shuttered-by-terrorist-threat#mainContent",
@@ -218,10 +226,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fthetwo-way%2F2013%2F08%2F09%2F210610991%2Fu-s-to-open-most-embassies-shuttered-by-terrorist-threat",
     "http://www.npr.org/about/place/corpsupport/",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/09/210610991/u-s-to-open-most-embassies-shuttered-by-terrorist-threat",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/09/210590409/5-things-to-know-about-the-legal-reasoning-for-surveillance",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/09/210566486/ncaa-will-stop-selling-player-jerseys-takes-web-shop-down",
+    "http://www.npr.org/blogs/thetwo-way/2013/08/10/210870653/wave-of-ramadan-bombings-kill-dozens-in-iraq",
+    "http://www.npr.org/blogs/thetwo-way/2013/08/10/210837966/russia-invites-u-s-to-a-tank-biathlon",
+    "http://www.npr.org/blogs/thetwo-way/2013/08/10/210835919/volcanic-eruption-in-indonesia-kills-six",
+    "http://www.npr.org/blogs/thetwo-way/2013/08/10/210810080/massive-hunt-for-calif-girl-and-her-alleged-kidnapper-continues",
     "http://www.npr.org/blogs/thetwo-way/",
     "http://www.npr.org/blogs/thetwo-way/2013/08/09/210610991/u-s-to-open-most-embassies-shuttered-by-terrorist-threat#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -4308,6 +4316,149 @@
     },
     {
       "bound": {
+        "height": 22,
+        "left": 1159,
+        "top": 3850,
+        "width": 22
+      },
+      "computed": {
+        "alignment-baseline": "auto",
+        "background-attachment": "scroll",
+        "background-clip": "border-box",
+        "background-color": "rgb(188, 202, 229)",
+        "background-image": "none",
+        "background-origin": "padding-box",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "background-size": "auto auto",
+        "baseline-shift": "baseline",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-bottom-left-radius": "11px",
+        "border-bottom-right-radius": "11px",
+        "border-bottom-style": "none",
+        "border-bottom-width": "0px",
+        "border-collapse": "separate",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "none",
+        "border-left-width": "0px",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-right-style": "none",
+        "border-right-width": "0px",
+        "border-top-color": "rgb(255, 255, 255)",
+        "border-top-left-radius": "11px",
+        "border-top-right-radius": "11px",
+        "border-top-style": "none",
+        "border-top-width": "0px",
+        "box-shadow": "none",
+        "box-sizing": "border-box",
+        "caption-side": "top",
+        "clear": "none",
+        "clip": "auto",
+        "clip-path": "none",
+        "clip-rule": "nonzero",
+        "color": "rgb(255, 255, 255)",
+        "color-interpolation": "srgb",
+        "color-interpolation-filters": "linearrgb",
+        "color-rendering": "auto",
+        "cursor": "auto",
+        "direction": "ltr",
+        "display": "block",
+        "dominant-baseline": "auto",
+        "empty-cells": "show",
+        "fill": "#000000",
+        "fill-opacity": "1",
+        "fill-rule": "nonzero",
+        "filter": "none",
+        "float": "none",
+        "flood-color": "rgb(0, 0, 0)",
+        "flood-opacity": "1",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "10px",
+        "font-style": "normal",
+        "font-variant": "normal",
+        "font-weight": "bold",
+        "glyph-orientation-horizontal": "0deg",
+        "glyph-orientation-vertical": "auto",
+        "image-rendering": "auto",
+        "kerning": "0",
+        "letter-spacing": "normal",
+        "lighting-color": "rgb(255, 255, 255)",
+        "line-height": "22px",
+        "list-style-image": "none",
+        "list-style-position": "outside",
+        "list-style-type": "none",
+        "margin-bottom": "0px",
+        "margin-left": "-29px",
+        "margin-right": "5px",
+        "margin-top": "10px",
+        "marker-end": "none",
+        "marker-mid": "none",
+        "marker-start": "none",
+        "mask": "none",
+        "max-height": "none",
+        "max-width": "none",
+        "min-height": "0px",
+        "min-width": "22px",
+        "opacity": "1",
+        "orphans": "2",
+        "outline-color": "rgb(255, 255, 255)",
+        "outline-style": "none",
+        "outline-width": "0px",
+        "overflow-x": "visible",
+        "overflow-y": "visible",
+        "padding-bottom": "0px",
+        "padding-left": "5px",
+        "padding-right": "5px",
+        "padding-top": "0px",
+        "page-break-after": "auto",
+        "page-break-before": "auto",
+        "page-break-inside": "auto",
+        "pointer-events": "auto",
+        "position": "absolute",
+        "resize": "none",
+        "shape-rendering": "auto",
+        "speak": "normal",
+        "stop-color": "rgb(0, 0, 0)",
+        "stop-opacity": "1",
+        "stroke": "none",
+        "stroke-dasharray": "none",
+        "stroke-dashoffset": "0",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke-miterlimit": "4",
+        "stroke-opacity": "1",
+        "stroke-width": "1",
+        "table-layout": "auto",
+        "text-align": "center",
+        "text-anchor": "start",
+        "text-decoration": "none",
+        "text-indent": "0px",
+        "text-overflow": "clip",
+        "text-rendering": "auto",
+        "text-shadow": "none",
+        "text-transform": "none",
+        "unicode-bidi": "normal",
+        "vector-effect": "none",
+        "vertical-align": "baseline",
+        "visibility": "visible",
+        "white-space": "normal",
+        "widows": "2",
+        "word-break": "normal",
+        "word-spacing": "0px",
+        "word-wrap": "normal",
+        "writing-mode": "lr-tb",
+        "z-index": "auto",
+        "zoom": "1"
+      },
+      "element": "span",
+      "html": "18",
+      "path": "div > div > section > article > div > ul > li > a",
+      "text": [
+        "18"
+      ]
+    },
+    {
+      "bound": {
         "height": 44,
         "left": 1165,
         "top": 3840,
@@ -4443,7 +4594,7 @@
         "zoom": "1"
       },
       "element": "a",
-      "html": "<span class=\"count\"></span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\">18</span><span class=\"name\">Comment</span>",
       "path": "div > div > section > article > div > ul > li",
       "text": [
         "Comment"
@@ -8179,10 +8330,10 @@
         "zoom": "1"
       },
       "element": "h2",
-      "html": "Technology",
+      "html": "The Two-Way",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "Technology"
+        "The Two-Way"
       ]
     },
     {
@@ -8322,10 +8473,10 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "ITC Says Samsung Infringed On Apple Patents",
+      "html": "Wave Of Bombings At Ramadan's End Kills Dozens In Iraq",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "ITC Says Samsung Infringed On Apple Patents"
+        "Wave Of Bombings At Ramadan's End Kills Dozens In Iraq"
       ]
     },
     {
@@ -8465,15 +8616,15 @@
         "zoom": "1"
       },
       "element": "h2",
-      "html": "News",
+      "html": "National Security",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "News"
+        "National Security"
       ]
     },
     {
       "bound": {
-        "height": 72,
+        "height": 36,
         "left": 1303,
         "top": 407,
         "width": 158
@@ -8608,17 +8759,17 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "5 Things To Know About The Legal Reasoning For Surveillance",
+      "html": "Russia Invites U.S. To A 'Tank Biathlon'",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "5 Things To Know About The Legal Reasoning For Surveillance"
+        "Russia Invites U.S. To A 'Tank Biathlon'"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 524,
+        "top": 506,
         "width": 158
       },
       "computed": {
@@ -8751,17 +8902,17 @@
         "zoom": "1"
       },
       "element": "h2",
-      "html": "Sports",
+      "html": "Asia",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "Sports"
+        "Asia"
       ]
     },
     {
       "bound": {
-        "height": 54,
+        "height": 36,
         "left": 1303,
-        "top": 551,
+        "top": 533,
         "width": 158
       },
       "computed": {
@@ -8894,17 +9045,17 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "NCAA Will Stop Selling Player Jerseys, Takes Web Shop Down",
+      "html": "Volcanic Eruption In Indonesia Kills Six",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "NCAA Will Stop Selling Player Jerseys, Takes Web Shop Down"
+        "Volcanic Eruption In Indonesia Kills Six"
       ]
     },
     {
       "bound": {
         "height": 16,
         "left": 1273,
-        "top": 666,
+        "top": 648,
         "width": 299
       },
       "computed": {
@@ -12025,11 +12176,11 @@
       },
       "element": "img",
       "path": "div > div > div > div > section > div > article > a > div",
-      "src": "http://media.npr.org/assets/img/2013/08/09/167183137_sq-22b10c647fb8eabd9a5b42d216d0d20b0873872f.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/10/ap104260274799_sq-e50973de7b6f4adeac69ced676f9db8734691a0f.jpg?s=16"
     },
     {
       "bound": {
-        "height": 63,
+        "height": 62,
         "left": 1491,
         "top": 399,
         "width": 63
@@ -12165,13 +12316,13 @@
       },
       "element": "img",
       "path": "div > div > div > div > section > div > article > a > div",
-      "src": "http://media.npr.org/assets/img/2013/08/09/96263974_sq-760afc597899e4a08fca310f1b2ebcfbd5e20c55.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/10/russiatanks_sq-37bd8d610598957c205747898ec60b1547e438ec.jpg?s=16"
     },
     {
       "bound": {
         "height": 63,
         "left": 1491,
-        "top": 543,
+        "top": 525,
         "width": 63
       },
       "computed": {
@@ -12305,7 +12456,7 @@
       },
       "element": "img",
       "path": "div > div > div > div > section > div > article > a > div",
-      "src": "http://media.npr.org/assets/img/2013/08/09/manziel_sq-7272be04c25fb585ff39801e17a18fefd219b428.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/10/ap516406806287_sq-e137a13d1b697d3b7f2d2f999cf7c1ce4a53d8bd.jpg?s=16"
     },
     {
       "bound": {

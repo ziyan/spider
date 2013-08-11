@@ -140,6 +140,14 @@
       "top": 0
     }
   },
+  "descriptions": [
+    "Tyson Foods said it will stop using the controversial drug, which fattens cattle, because of potential animal welfare issues. But many in the beef industry say the company is just interested in boosting exports to countries like China and the European Union, where growth-promoting drugs for meat production are banned.",
+    "Tyson Foods said it will stop using the controversial drug, which fattens cattle, because of potential animal welfare issues. But many in the beef industry say the company is just interested in boosting exports to countries like China and the European Union, where growth-promoting drugs for meat production are banned."
+  ],
+  "titles": [
+    "Did Tyson Ban Doping Cows With Zilmax To Boost Foreign Sales? : The Salt : NPR",
+    "Did Tyson Ban Doping Cows With Zilmax To Boost Foreign Sales? : NPR"
+  ],
   "url": "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers",
   "links": [
     "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers#mainContent",
@@ -8191,10 +8199,10 @@
         "zoom": "1"
       },
       "element": "span",
-      "html": "14",
+      "html": "21",
       "path": "div > div > section > article > div > ul > li > a",
       "text": [
-        "14"
+        "21"
       ]
     },
     {
@@ -8334,7 +8342,7 @@
         "zoom": "1"
       },
       "element": "a",
-      "html": "<span class=\"count\">14</span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\">21</span><span class=\"name\">Comment</span>",
       "path": "div > div > section > article > div > ul > li",
       "text": [
         "Comment"

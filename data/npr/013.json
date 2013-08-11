@@ -140,6 +140,14 @@
       "top": 0
     }
   },
+  "descriptions": [
+    "Even as the gender divide in some areas of science has diminished, a stubborn gap has persisted in high school physics. A new study finds that girls are more likely to take physics if they see women in their communities working in science, technology, engineering and math.",
+    "Even as the gender divide in some areas of science has diminished, a stubborn gap has persisted in high school physics. A new study finds that girls are more likely to take physics if they see women in their communities working in science, technology, engineering and math."
+  ],
+  "titles": [
+    "Why Aren't More Girls Attracted To Physics? : All Tech Considered : NPR",
+    "Why Aren't More Girls Attracted To Physics? : NPR"
+  ],
   "url": "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics",
   "links": [
     "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics#mainContent",
@@ -7492,10 +7500,10 @@
         "zoom": "1"
       },
       "element": "span",
-      "html": "355",
+      "html": "385",
       "path": "div > div > section > article > div > ul > li > a",
       "text": [
-        "355"
+        "385"
       ]
     },
     {
@@ -7635,7 +7643,7 @@
         "zoom": "1"
       },
       "element": "a",
-      "html": "<span class=\"count\">355</span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\">385</span><span class=\"name\">Comment</span>",
       "path": "div > div > section > article > div > ul > li",
       "text": [
         "Comment"

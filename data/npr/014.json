@@ -140,6 +140,14 @@
       "top": 0
     }
   },
+  "descriptions": [
+    "Researchers found a fivefold increase in cases of kids being treated for injuries from swallowed magnets between 2002 and 2011. Small children were tempted by tiny, ball-shaped magnets. Older kids ran into trouble using magnets to simulate body piercings.",
+    "Researchers found a fivefold increase in cases of kids being treated for injuries from swallowed magnets between 2002 and 2011. Small children were tempted by tiny, ball-shaped magnets. Older kids ran into trouble using magnets to simulate body piercings."
+  ],
+  "titles": [
+    "Swallowing Tiny Magnets Can Lead To Big Trouble For Kids : Shots - Health News : NPR",
+    "Swallowing Tiny Magnets Can Lead To Big Trouble For Kids : NPR"
+  ],
   "url": "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids",
   "links": [
     "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids#mainContent",
@@ -235,10 +243,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fhealth%2F2013%2F08%2F08%2F210200382%2Fswallowing-tiny-magnets-can-lead-to-big-trouble-for-kids",
     "http://www.npr.org/about/place/corpsupport/",
+    "http://www.npr.org/blogs/health/2013/08/10/209272926/booze-restores-vigor-9-of-10-charlatans-agree",
     "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter",
     "http://www.npr.org/blogs/health/2013/08/08/210192722/camels-may-be-a-source-of-the-middle-east-coronavirus",
     "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids",
-    "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial",
     "http://www.npr.org/blogs/health/",
     "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -9489,10 +9497,10 @@
         "zoom": "1"
       },
       "element": "span",
-      "html": "41",
+      "html": "42",
       "path": "div > div > section > article > div > ul > li > a",
       "text": [
-        "41"
+        "42"
       ]
     },
     {
@@ -9632,7 +9640,7 @@
         "zoom": "1"
       },
       "element": "a",
-      "html": "<span class=\"count\">41</span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\">42</span><span class=\"name\">Comment</span>",
       "path": "div > div > section > article > div > ul > li",
       "text": [
         "Comment"
@@ -13513,15 +13521,15 @@
         "zoom": "1"
       },
       "element": "h2",
-      "html": "Health",
+      "html": "News",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "Health"
+        "News"
       ]
     },
     {
       "bound": {
-        "height": 36,
+        "height": 54,
         "left": 1303,
         "top": 280,
         "width": 158
@@ -13656,10 +13664,10 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "'Aetna, I'm Glad I Met Ya!' — On Twitter",
+      "html": "Booze Restores Vigor, 9 Of 10 Charlatans Agree",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "'Aetna, I'm Glad I Met Ya!' — On Twitter"
+        "Booze Restores Vigor, 9 Of 10 Charlatans Agree"
       ]
     },
     {
@@ -13807,7 +13815,7 @@
     },
     {
       "bound": {
-        "height": 54,
+        "height": 36,
         "left": 1303,
         "top": 407,
         "width": 158
@@ -13942,17 +13950,17 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "Camels May Be A Source Of The Middle East Coronavirus",
+      "html": "'Aetna, I'm Glad I Met Ya!' — On Twitter",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "Camels May Be A Source Of The Middle East Coronavirus"
+        "'Aetna, I'm Glad I Met Ya!' — On Twitter"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 506,
+        "top": 507,
         "width": 158
       },
       "computed": {
@@ -14095,7 +14103,7 @@
       "bound": {
         "height": 54,
         "left": 1303,
-        "top": 533,
+        "top": 534,
         "width": 158
       },
       "computed": {
@@ -14228,10 +14236,10 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "Experimental Malaria Vaccine Shows Promise In Human Test",
+      "html": "Camels May Be A Source Of The Middle East Coronavirus",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "Experimental Malaria Vaccine Shows Promise In Human Test"
+        "Camels May Be A Source Of The Middle East Coronavirus"
       ]
     },
     {
@@ -17499,11 +17507,11 @@
       },
       "element": "img",
       "path": "div > div > div > div > section > div > article > a > div",
-      "src": "http://media.npr.org/assets/img/2013/08/09/aetna_sq-feecd4a812fad2861db1892c1c0d61f5fc29961b.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/06/cocainetoothdrops_sq-dfd9854f5c858cc725a3dc0080113ca2ecfd2d1e.jpg?s=16"
     },
     {
       "bound": {
-        "height": 62,
+        "height": 63,
         "left": 1491,
         "top": 399,
         "width": 63
@@ -17639,13 +17647,13 @@
       },
       "element": "img",
       "path": "div > div > div > div > section > div > article > a > div",
-      "src": "http://media.npr.org/assets/img/2013/08/09/83259680_sq-169798d69b2c3f6957d775b3081ec1219604da6e.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/09/aetna_sq-feecd4a812fad2861db1892c1c0d61f5fc29961b.jpg?s=16"
     },
     {
       "bound": {
-        "height": 63,
+        "height": 62,
         "left": 1491,
-        "top": 525,
+        "top": 526,
         "width": 63
       },
       "computed": {
@@ -17779,7 +17787,7 @@
       },
       "element": "img",
       "path": "div > div > div > div > section > div > article > a > div",
-      "src": "http://media.npr.org/assets/img/2013/08/08/seder2hr_sq-a02ce6d6e2846cd039cca1750e9879520a7794a6.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/09/83259680_sq-169798d69b2c3f6957d775b3081ec1219604da6e.jpg?s=16"
     },
     {
       "bound": {

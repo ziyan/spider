@@ -1,11 +1,12 @@
 from sklearn import cluster
 from sklearn.preprocessing import StandardScaler
+import numpy as np
 
 class DBSCAN(object):
 
     def cluster(self, data):
-        # data = StandardScaler().fit_transform(data)
-        db = cluster.DBSCAN(eps=0.1, min_samples=5).fit(data)
+        data = StandardScaler().fit_transform(data)
+        db = cluster.DBSCAN().fit(data)
         return db
 
 class AffinityPropagation(object):

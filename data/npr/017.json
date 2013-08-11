@@ -140,6 +140,14 @@
       "top": 0
     }
   },
+  "descriptions": [
+    "When you're a teenager, there are many things you desperately want to find: friends, fun, a future, freedom. In American Graffiti, the iconic movie about teenagers set in 1962, the kids find all of that just by getting in their cars. But today, teens say they don't see cars the same way.",
+    "When you're a teenager, there are many things you desperately want to find: friends, fun, a future, freedom. In American Graffiti, the iconic movie about teenagers set in 1962, the kids find all of that just by getting in their cars. But today, teens say they don't see cars the same way."
+  ],
+  "titles": [
+    "The Changing Story Of Teens And Cars : NPR",
+    "The Changing Story Of Teens And Cars : NPR"
+  ],
   "url": "http://www.npr.org/2013/08/09/210253451/the-changing-story-of-teens-and-cars",
   "links": [
     "http://www.npr.org/2013/08/09/210253451/the-changing-story-of-teens-and-cars#mainContent",
@@ -201,10 +209,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2F2013%2F08%2F09%2F210253451%2Fthe-changing-story-of-teens-and-cars",
     "http://www.npr.org/about/place/corpsupport/",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents",
-    "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers",
-    "http://www.npr.org/blogs/money/2013/08/09/210490760/the-raisin-outlaw-of-kerman-california",
-    "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods",
+    "http://www.npr.org/2013/08/10/210864109/the-tricky-business-of-predicting-where-media-will-go-next",
+    "http://www.npr.org/2013/08/10/210759502/rise-of-the-new-american-barons",
+    "http://www.npr.org/templates/story/story.php?storyId=210759498",
+    "http://www.npr.org/blogs/parallels/2013/08/10/209938806/russian-vodka-made-in-latvia-and-other-national-products",
     "http://www.npr.org/sections/business/",
     "http://www.npr.org/2013/08/09/210253451/the-changing-story-of-teens-and-cars#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -7584,10 +7592,10 @@
         "zoom": "1"
       },
       "element": "span",
-      "html": "133",
+      "html": "146",
       "path": "div > div > section > article > div > ul > li > a",
       "text": [
-        "133"
+        "146"
       ]
     },
     {
@@ -7727,7 +7735,7 @@
         "zoom": "1"
       },
       "element": "a",
-      "html": "<span class=\"count\">133</span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\">146</span><span class=\"name\">Comment</span>",
       "path": "div > div > section > article > div > ul > li",
       "text": [
         "Comment"
@@ -9454,10 +9462,10 @@
         "zoom": "1"
       },
       "element": "h2",
-      "html": "Technology",
+      "html": "Media",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "Technology"
+        "Media"
       ]
     },
     {
@@ -9597,10 +9605,10 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "ITC Says Samsung Infringed On Apple Patents",
+      "html": "The Tricky Business Of Predicting Where Media Will Go Next",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "ITC Says Samsung Infringed On Apple Patents"
+        "The Tricky Business Of Predicting Where Media Will Go Next"
       ]
     },
     {
@@ -9608,7 +9616,7 @@
         "height": 12,
         "left": 1303,
         "top": 352,
-        "width": 158
+        "width": 252
       },
       "computed": {
         "alignment-baseline": "auto",
@@ -9740,18 +9748,18 @@
         "zoom": "1"
       },
       "element": "h2",
-      "html": "Food",
+      "html": "Economy",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "Food"
+        "Economy"
       ]
     },
     {
       "bound": {
-        "height": 54,
+        "height": 18,
         "left": 1303,
         "top": 379,
-        "width": 158
+        "width": 252
       },
       "computed": {
         "alignment-baseline": "auto",
@@ -9883,18 +9891,18 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "Did Tyson Ban Doping Cows With Zilmax To Boost Foreign Sales?",
+      "html": "Rise Of The New American Barons",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "Did Tyson Ban Doping Cows With Zilmax To Boost Foreign Sales?"
+        "Rise Of The New American Barons"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 479,
-        "width": 158
+        "top": 442,
+        "width": 252
       },
       "computed": {
         "alignment-baseline": "auto",
@@ -10026,18 +10034,18 @@
         "zoom": "1"
       },
       "element": "h2",
-      "html": "Business",
+      "html": "Economy",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "Business"
+        "Economy"
       ]
     },
     {
       "bound": {
         "height": 36,
         "left": 1303,
-        "top": 506,
-        "width": 158
+        "top": 469,
+        "width": 252
       },
       "computed": {
         "alignment-baseline": "auto",
@@ -10169,17 +10177,17 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "The Raisin Outlaw Of Kerman, Calif. ",
+      "html": "Housing Market Shows More Signs Of Life",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "The Raisin Outlaw Of Kerman, Calif. "
+        "Housing Market Shows More Signs Of Life"
       ]
     },
     {
       "bound": {
         "height": 16,
         "left": 1273,
-        "top": 621,
+        "top": 565,
         "width": 299
       },
       "computed": {
@@ -13160,287 +13168,7 @@
       },
       "element": "img",
       "path": "div > div > div > div > section > div > article > a > div",
-      "src": "http://media.npr.org/assets/img/2013/08/09/167183137_sq-22b10c647fb8eabd9a5b42d216d0d20b0873872f.jpg?s=16"
-    },
-    {
-      "bound": {
-        "height": 63,
-        "left": 1491,
-        "top": 371,
-        "width": 63
-      },
-      "computed": {
-        "alignment-baseline": "auto",
-        "background-attachment": "scroll",
-        "background-clip": "border-box",
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-image": "none",
-        "background-origin": "padding-box",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "background-size": "auto auto",
-        "baseline-shift": "baseline",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-bottom-left-radius": "0px",
-        "border-bottom-right-radius": "0px",
-        "border-bottom-style": "none",
-        "border-bottom-width": "0px",
-        "border-collapse": "separate",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-left-style": "none",
-        "border-left-width": "0px",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-right-style": "none",
-        "border-right-width": "0px",
-        "border-top-color": "rgb(109, 138, 196)",
-        "border-top-left-radius": "0px",
-        "border-top-right-radius": "0px",
-        "border-top-style": "none",
-        "border-top-width": "0px",
-        "box-shadow": "none",
-        "box-sizing": "border-box",
-        "caption-side": "top",
-        "clear": "none",
-        "clip": "auto",
-        "clip-path": "none",
-        "clip-rule": "nonzero",
-        "color": "rgb(109, 138, 196)",
-        "color-interpolation": "srgb",
-        "color-interpolation-filters": "linearrgb",
-        "color-rendering": "auto",
-        "cursor": "auto",
-        "direction": "ltr",
-        "display": "block",
-        "dominant-baseline": "auto",
-        "empty-cells": "show",
-        "fill": "#000000",
-        "fill-opacity": "1",
-        "fill-rule": "nonzero",
-        "filter": "none",
-        "float": "left",
-        "flood-color": "rgb(0, 0, 0)",
-        "flood-opacity": "1",
-        "font-family": "Helvetica, Arial, sans-serif",
-        "font-size": "14px",
-        "font-style": "normal",
-        "font-variant": "normal",
-        "font-weight": "normal",
-        "glyph-orientation-horizontal": "0deg",
-        "glyph-orientation-vertical": "auto",
-        "image-rendering": "auto",
-        "kerning": "0",
-        "letter-spacing": "normal",
-        "lighting-color": "rgb(255, 255, 255)",
-        "line-height": "14px",
-        "list-style-image": "none",
-        "list-style-position": "outside",
-        "list-style-type": "disc",
-        "margin-bottom": "0px",
-        "margin-left": "0px",
-        "margin-right": "0px",
-        "margin-top": "0px",
-        "marker-end": "none",
-        "marker-mid": "none",
-        "marker-start": "none",
-        "mask": "none",
-        "max-height": "none",
-        "max-width": "100%",
-        "min-height": "0px",
-        "min-width": "0px",
-        "opacity": "1",
-        "orphans": "2",
-        "outline-color": "rgb(109, 138, 196)",
-        "outline-style": "none",
-        "outline-width": "0px",
-        "overflow-x": "visible",
-        "overflow-y": "visible",
-        "padding-bottom": "0px",
-        "padding-left": "0px",
-        "padding-right": "0px",
-        "padding-top": "0px",
-        "page-break-after": "auto",
-        "page-break-before": "auto",
-        "page-break-inside": "auto",
-        "pointer-events": "auto",
-        "position": "static",
-        "resize": "none",
-        "shape-rendering": "auto",
-        "speak": "normal",
-        "stop-color": "rgb(0, 0, 0)",
-        "stop-opacity": "1",
-        "stroke": "none",
-        "stroke-dasharray": "none",
-        "stroke-dashoffset": "0",
-        "stroke-linecap": "butt",
-        "stroke-linejoin": "miter",
-        "stroke-miterlimit": "4",
-        "stroke-opacity": "1",
-        "stroke-width": "1",
-        "table-layout": "auto",
-        "text-align": "-webkit-auto",
-        "text-anchor": "start",
-        "text-decoration": "none",
-        "text-indent": "0px",
-        "text-overflow": "clip",
-        "text-rendering": "auto",
-        "text-shadow": "none",
-        "text-transform": "none",
-        "unicode-bidi": "normal",
-        "vector-effect": "none",
-        "vertical-align": "baseline",
-        "visibility": "visible",
-        "white-space": "normal",
-        "widows": "2",
-        "word-break": "normal",
-        "word-spacing": "0px",
-        "word-wrap": "normal",
-        "writing-mode": "lr-tb",
-        "z-index": "auto",
-        "zoom": "1"
-      },
-      "element": "img",
-      "path": "div > div > div > div > section > div > article > a > div",
-      "src": "http://media.npr.org/assets/img/2013/08/09/feedlot_sq-089775eb1698c405d7240e8c2977dce4f8727ca2.jpg?s=16"
-    },
-    {
-      "bound": {
-        "height": 63,
-        "left": 1491,
-        "top": 498,
-        "width": 63
-      },
-      "computed": {
-        "alignment-baseline": "auto",
-        "background-attachment": "scroll",
-        "background-clip": "border-box",
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-image": "none",
-        "background-origin": "padding-box",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "background-size": "auto auto",
-        "baseline-shift": "baseline",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-bottom-left-radius": "0px",
-        "border-bottom-right-radius": "0px",
-        "border-bottom-style": "none",
-        "border-bottom-width": "0px",
-        "border-collapse": "separate",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-left-style": "none",
-        "border-left-width": "0px",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-right-style": "none",
-        "border-right-width": "0px",
-        "border-top-color": "rgb(109, 138, 196)",
-        "border-top-left-radius": "0px",
-        "border-top-right-radius": "0px",
-        "border-top-style": "none",
-        "border-top-width": "0px",
-        "box-shadow": "none",
-        "box-sizing": "border-box",
-        "caption-side": "top",
-        "clear": "none",
-        "clip": "auto",
-        "clip-path": "none",
-        "clip-rule": "nonzero",
-        "color": "rgb(109, 138, 196)",
-        "color-interpolation": "srgb",
-        "color-interpolation-filters": "linearrgb",
-        "color-rendering": "auto",
-        "cursor": "auto",
-        "direction": "ltr",
-        "display": "block",
-        "dominant-baseline": "auto",
-        "empty-cells": "show",
-        "fill": "#000000",
-        "fill-opacity": "1",
-        "fill-rule": "nonzero",
-        "filter": "none",
-        "float": "left",
-        "flood-color": "rgb(0, 0, 0)",
-        "flood-opacity": "1",
-        "font-family": "Helvetica, Arial, sans-serif",
-        "font-size": "14px",
-        "font-style": "normal",
-        "font-variant": "normal",
-        "font-weight": "normal",
-        "glyph-orientation-horizontal": "0deg",
-        "glyph-orientation-vertical": "auto",
-        "image-rendering": "auto",
-        "kerning": "0",
-        "letter-spacing": "normal",
-        "lighting-color": "rgb(255, 255, 255)",
-        "line-height": "14px",
-        "list-style-image": "none",
-        "list-style-position": "outside",
-        "list-style-type": "disc",
-        "margin-bottom": "0px",
-        "margin-left": "0px",
-        "margin-right": "0px",
-        "margin-top": "0px",
-        "marker-end": "none",
-        "marker-mid": "none",
-        "marker-start": "none",
-        "mask": "none",
-        "max-height": "none",
-        "max-width": "100%",
-        "min-height": "0px",
-        "min-width": "0px",
-        "opacity": "1",
-        "orphans": "2",
-        "outline-color": "rgb(109, 138, 196)",
-        "outline-style": "none",
-        "outline-width": "0px",
-        "overflow-x": "visible",
-        "overflow-y": "visible",
-        "padding-bottom": "0px",
-        "padding-left": "0px",
-        "padding-right": "0px",
-        "padding-top": "0px",
-        "page-break-after": "auto",
-        "page-break-before": "auto",
-        "page-break-inside": "auto",
-        "pointer-events": "auto",
-        "position": "static",
-        "resize": "none",
-        "shape-rendering": "auto",
-        "speak": "normal",
-        "stop-color": "rgb(0, 0, 0)",
-        "stop-opacity": "1",
-        "stroke": "none",
-        "stroke-dasharray": "none",
-        "stroke-dashoffset": "0",
-        "stroke-linecap": "butt",
-        "stroke-linejoin": "miter",
-        "stroke-miterlimit": "4",
-        "stroke-opacity": "1",
-        "stroke-width": "1",
-        "table-layout": "auto",
-        "text-align": "-webkit-auto",
-        "text-anchor": "start",
-        "text-decoration": "none",
-        "text-indent": "0px",
-        "text-overflow": "clip",
-        "text-rendering": "auto",
-        "text-shadow": "none",
-        "text-transform": "none",
-        "unicode-bidi": "normal",
-        "vector-effect": "none",
-        "vertical-align": "baseline",
-        "visibility": "visible",
-        "white-space": "normal",
-        "widows": "2",
-        "word-break": "normal",
-        "word-spacing": "0px",
-        "word-wrap": "normal",
-        "writing-mode": "lr-tb",
-        "z-index": "auto",
-        "zoom": "1"
-      },
-      "element": "img",
-      "path": "div > div > div > div > section > div > article > a > div",
-      "src": "http://media.npr.org/assets/img/2013/08/09/ap060410025203_sq-5fd90f21ac5429f6a7540dde35b8a51e7162dcfd.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/10/521895951_17007905_sq-12200d779d5df176c4278d1fe1728583ebd50839.jpg?s=16"
     },
     {
       "bound": {

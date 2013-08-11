@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 8602,
+      "height": 6385,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -140,6 +140,14 @@
       "top": 0
     }
   },
+  "descriptions": [
+    "What's not to love about photos of babies dressed in watermelons? Amid a record-setting summer heat wave, Chinese netizens embrace the art of the fruit baby.",
+    "What's not to love about photos of babies dressed in watermelons? Amid a record-setting summer heat wave, Chinese netizens embrace the art of the fruit baby."
+  ],
+  "titles": [
+    "Watermelon Babies Of China: Your Friday Moment Of Zen : The Salt : NPR",
+    "Watermelon Babies Of China: Your Friday Moment Of Zen : NPR"
+  ],
   "url": "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen",
   "links": [
     "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen#mainContent",
@@ -6041,10 +6049,10 @@
         "zoom": "1"
       },
       "element": "span",
-      "html": "23",
+      "html": "25",
       "path": "div > div > section > article > div > ul > li > a",
       "text": [
-        "23"
+        "25"
       ]
     },
     {
@@ -6184,7 +6192,7 @@
         "zoom": "1"
       },
       "element": "a",
-      "html": "<span class=\"count\">23</span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\">25</span><span class=\"name\">Comment</span>",
       "path": "div > div > section > article > div > ul > li",
       "text": [
         "Comment"
@@ -7063,7 +7071,7 @@
       "bound": {
         "height": 12,
         "left": 160,
-        "top": 8023,
+        "top": 5806,
         "width": 145
       },
       "computed": {
@@ -7206,7 +7214,7 @@
       "bound": {
         "height": 22,
         "left": 30,
-        "top": 8072,
+        "top": 5855,
         "width": 365
       },
       "computed": {
@@ -7349,7 +7357,7 @@
       "bound": {
         "height": 108,
         "left": 60,
-        "top": 8108,
+        "top": 5891,
         "width": 320
       },
       "computed": {
@@ -7500,7 +7508,7 @@
       "bound": {
         "height": 22,
         "left": 443,
-        "top": 8072,
+        "top": 5855,
         "width": 365
       },
       "computed": {
@@ -7643,7 +7651,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 8108,
+        "top": 5891,
         "width": 365
       },
       "computed": {
@@ -7786,7 +7794,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 8156,
+        "top": 5939,
         "width": 365
       },
       "computed": {
@@ -7929,7 +7937,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 8204,
+        "top": 5987,
         "width": 365
       },
       "computed": {
@@ -8072,7 +8080,7 @@
       "bound": {
         "height": 22,
         "left": 858,
-        "top": 8072,
+        "top": 5855,
         "width": 366
       },
       "computed": {
@@ -8215,7 +8223,7 @@
       "bound": {
         "height": 21,
         "left": 873,
-        "top": 8267,
+        "top": 6050,
         "width": 334
       },
       "computed": {
@@ -10646,7 +10654,7 @@
       "bound": {
         "height": 26,
         "left": 15,
-        "top": 8375,
+        "top": 6158,
         "width": 1570
       },
       "computed": {
@@ -10789,7 +10797,7 @@
       "bound": {
         "height": 22,
         "left": 15,
-        "top": 8401,
+        "top": 6184,
         "width": 1570
       },
       "computed": {
@@ -10932,7 +10940,7 @@
       "bound": {
         "height": 52,
         "left": 46,
-        "top": 8540,
+        "top": 6323,
         "width": 30
       },
       "computed": {
@@ -11075,7 +11083,7 @@
       "bound": {
         "height": 52,
         "left": 107,
-        "top": 8540,
+        "top": 6323,
         "width": 55
       },
       "computed": {
@@ -11218,7 +11226,7 @@
       "bound": {
         "height": 52,
         "left": 193,
-        "top": 8540,
+        "top": 6323,
         "width": 35
       },
       "computed": {
@@ -11361,7 +11369,7 @@
       "bound": {
         "height": 52,
         "left": 259,
-        "top": 8540,
+        "top": 6323,
         "width": 56
       },
       "computed": {
@@ -11504,7 +11512,7 @@
       "bound": {
         "height": 52,
         "left": 346,
-        "top": 8540,
+        "top": 6323,
         "width": 31
       },
       "computed": {
@@ -11647,7 +11655,7 @@
       "bound": {
         "height": 52,
         "left": 408,
-        "top": 8540,
+        "top": 6323,
         "width": 32
       },
       "computed": {
@@ -11790,7 +11798,7 @@
       "bound": {
         "height": 52,
         "left": 1519,
-        "top": 8540,
+        "top": 6323,
         "width": 66
       },
       "computed": {
@@ -11933,7 +11941,7 @@
       "bound": {
         "height": 52,
         "left": 1106,
-        "top": 8540,
+        "top": 6323,
         "width": 42
       },
       "computed": {
@@ -12076,7 +12084,7 @@
       "bound": {
         "height": 52,
         "left": 1163,
-        "top": 8540,
+        "top": 6323,
         "width": 72
       },
       "computed": {
@@ -12219,7 +12227,7 @@
       "bound": {
         "height": 52,
         "left": 1250,
-        "top": 8540,
+        "top": 6323,
         "width": 40
       },
       "computed": {
@@ -12362,7 +12370,7 @@
       "bound": {
         "height": 52,
         "left": 1305,
-        "top": 8540,
+        "top": 6323,
         "width": 117
       },
       "computed": {
@@ -12505,7 +12513,7 @@
       "bound": {
         "height": 52,
         "left": 1437,
-        "top": 8540,
+        "top": 6323,
         "width": 52
       },
       "computed": {
@@ -13350,7 +13358,7 @@
       "bound": {
         "height": 33,
         "left": 30,
-        "top": 8006,
+        "top": 5789,
         "width": 130
       },
       "computed": {
@@ -13490,7 +13498,7 @@
       "bound": {
         "height": 133,
         "left": 973,
-        "top": 8123,
+        "top": 5906,
         "width": 133
       },
       "computed": {
@@ -14050,7 +14058,7 @@
       "bound": {
         "height": 150,
         "left": 15,
-        "top": 8375,
+        "top": 6158,
         "width": 300
       },
       "computed": {

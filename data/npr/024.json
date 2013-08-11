@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 9466,
+      "height": 3544,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -140,6 +140,14 @@
       "top": 0
     }
   },
+  "descriptions": [
+    "Sen. Mitch McConnell surely had no illusions that he would be the ideal candidate of Tea Party conservatives. Still, the Republican leader in the Senate couldn't have expected what sounds like disdain from his own campaign manager.",
+    "Sen. Mitch McConnell surely had no illusions that he would be the ideal candidate of Tea Party conservatives. Still, the Republican leader in the Senate couldn't have expected what sounds like disdain from his own campaign manager."
+  ],
+  "titles": [
+    "As McConnell Aide Holds His Nose, The Senator Stays His Hand : It's All Politics : NPR",
+    "As McConnell Aide Holds His Nose, The Senator Stays His Hand : NPR"
+  ],
   "url": "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand",
   "links": [
     "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand#mainContent",
@@ -220,10 +228,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fitsallpolitics%2F2013%2F08%2F08%2F210280271%2Fas-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand",
     "http://www.npr.org/about/place/corpsupport/",
+    "http://www.npr.org/blogs/itsallpolitics/2013/08/10/210250253/2014-senate-math-favors-republicans-but-primary-battles-loom",
     "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to",
     "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand",
     "http://www.npr.org/blogs/itsallpolitics/2013/08/07/209925569/hubbub-over-hillary-clinton-movies-a-dress-rehearsal-for-2016",
-    "http://www.npr.org/blogs/itsallpolitics/2013/08/07/209919206/5-memorable-moments-when-town-hall-meetings-turned-to-rage",
     "http://www.npr.org/blogs/itsallpolitics/",
     "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -6180,149 +6188,6 @@
     },
     {
       "bound": {
-        "height": 22,
-        "left": 1159,
-        "top": 3850,
-        "width": 22
-      },
-      "computed": {
-        "alignment-baseline": "auto",
-        "background-attachment": "scroll",
-        "background-clip": "border-box",
-        "background-color": "rgb(188, 202, 229)",
-        "background-image": "none",
-        "background-origin": "padding-box",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "background-size": "auto auto",
-        "baseline-shift": "baseline",
-        "border-bottom-color": "rgb(255, 255, 255)",
-        "border-bottom-left-radius": "11px",
-        "border-bottom-right-radius": "11px",
-        "border-bottom-style": "none",
-        "border-bottom-width": "0px",
-        "border-collapse": "separate",
-        "border-left-color": "rgb(255, 255, 255)",
-        "border-left-style": "none",
-        "border-left-width": "0px",
-        "border-right-color": "rgb(255, 255, 255)",
-        "border-right-style": "none",
-        "border-right-width": "0px",
-        "border-top-color": "rgb(255, 255, 255)",
-        "border-top-left-radius": "11px",
-        "border-top-right-radius": "11px",
-        "border-top-style": "none",
-        "border-top-width": "0px",
-        "box-shadow": "none",
-        "box-sizing": "border-box",
-        "caption-side": "top",
-        "clear": "none",
-        "clip": "auto",
-        "clip-path": "none",
-        "clip-rule": "nonzero",
-        "color": "rgb(255, 255, 255)",
-        "color-interpolation": "srgb",
-        "color-interpolation-filters": "linearrgb",
-        "color-rendering": "auto",
-        "cursor": "auto",
-        "direction": "ltr",
-        "display": "block",
-        "dominant-baseline": "auto",
-        "empty-cells": "show",
-        "fill": "#000000",
-        "fill-opacity": "1",
-        "fill-rule": "nonzero",
-        "filter": "none",
-        "float": "none",
-        "flood-color": "rgb(0, 0, 0)",
-        "flood-opacity": "1",
-        "font-family": "Helvetica, Arial, sans-serif",
-        "font-size": "10px",
-        "font-style": "normal",
-        "font-variant": "normal",
-        "font-weight": "bold",
-        "glyph-orientation-horizontal": "0deg",
-        "glyph-orientation-vertical": "auto",
-        "image-rendering": "auto",
-        "kerning": "0",
-        "letter-spacing": "normal",
-        "lighting-color": "rgb(255, 255, 255)",
-        "line-height": "22px",
-        "list-style-image": "none",
-        "list-style-position": "outside",
-        "list-style-type": "none",
-        "margin-bottom": "0px",
-        "margin-left": "-29px",
-        "margin-right": "5px",
-        "margin-top": "10px",
-        "marker-end": "none",
-        "marker-mid": "none",
-        "marker-start": "none",
-        "mask": "none",
-        "max-height": "none",
-        "max-width": "none",
-        "min-height": "0px",
-        "min-width": "22px",
-        "opacity": "1",
-        "orphans": "2",
-        "outline-color": "rgb(255, 255, 255)",
-        "outline-style": "none",
-        "outline-width": "0px",
-        "overflow-x": "visible",
-        "overflow-y": "visible",
-        "padding-bottom": "0px",
-        "padding-left": "5px",
-        "padding-right": "5px",
-        "padding-top": "0px",
-        "page-break-after": "auto",
-        "page-break-before": "auto",
-        "page-break-inside": "auto",
-        "pointer-events": "auto",
-        "position": "absolute",
-        "resize": "none",
-        "shape-rendering": "auto",
-        "speak": "normal",
-        "stop-color": "rgb(0, 0, 0)",
-        "stop-opacity": "1",
-        "stroke": "none",
-        "stroke-dasharray": "none",
-        "stroke-dashoffset": "0",
-        "stroke-linecap": "butt",
-        "stroke-linejoin": "miter",
-        "stroke-miterlimit": "4",
-        "stroke-opacity": "1",
-        "stroke-width": "1",
-        "table-layout": "auto",
-        "text-align": "center",
-        "text-anchor": "start",
-        "text-decoration": "none",
-        "text-indent": "0px",
-        "text-overflow": "clip",
-        "text-rendering": "auto",
-        "text-shadow": "none",
-        "text-transform": "none",
-        "unicode-bidi": "normal",
-        "vector-effect": "none",
-        "vertical-align": "baseline",
-        "visibility": "visible",
-        "white-space": "normal",
-        "widows": "2",
-        "word-break": "normal",
-        "word-spacing": "0px",
-        "word-wrap": "normal",
-        "writing-mode": "lr-tb",
-        "z-index": "auto",
-        "zoom": "1"
-      },
-      "element": "span",
-      "html": "61",
-      "path": "div > div > section > article > div > ul > li > a",
-      "text": [
-        "61"
-      ]
-    },
-    {
-      "bound": {
         "height": 44,
         "left": 1165,
         "top": 3840,
@@ -6458,7 +6323,7 @@
         "zoom": "1"
       },
       "element": "a",
-      "html": "<span class=\"count\">61</span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\"></span><span class=\"name\">Comment</span>",
       "path": "div > div > section > article > div > ul > li",
       "text": [
         "Comment"
@@ -7337,7 +7202,7 @@
       "bound": {
         "height": 12,
         "left": 254,
-        "top": 8953,
+        "top": 3031,
         "width": 167
       },
       "computed": {
@@ -7480,7 +7345,7 @@
       "bound": {
         "height": 22,
         "left": 30,
-        "top": 9002,
+        "top": 3080,
         "width": 365
       },
       "computed": {
@@ -7623,7 +7488,7 @@
       "bound": {
         "height": 90,
         "left": 60,
-        "top": 9038,
+        "top": 3116,
         "width": 320
       },
       "computed": {
@@ -7771,7 +7636,7 @@
       "bound": {
         "height": 22,
         "left": 443,
-        "top": 9002,
+        "top": 3080,
         "width": 365
       },
       "computed": {
@@ -7914,7 +7779,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 9038,
+        "top": 3116,
         "width": 365
       },
       "computed": {
@@ -8057,7 +7922,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 9086,
+        "top": 3164,
         "width": 365
       },
       "computed": {
@@ -8200,7 +8065,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 9134,
+        "top": 3212,
         "width": 365
       },
       "computed": {
@@ -8343,7 +8208,7 @@
       "bound": {
         "height": 22,
         "left": 858,
-        "top": 9002,
+        "top": 3080,
         "width": 366
       },
       "computed": {
@@ -8486,7 +8351,7 @@
       "bound": {
         "height": 54,
         "left": 858,
-        "top": 9038,
+        "top": 3116,
         "width": 351
       },
       "computed": {
@@ -8629,7 +8494,7 @@
       "bound": {
         "height": 18,
         "left": 858,
-        "top": 9110,
+        "top": 3188,
         "width": 351
       },
       "computed": {
@@ -10200,7 +10065,7 @@
     },
     {
       "bound": {
-        "height": 54,
+        "height": 72,
         "left": 1303,
         "top": 280,
         "width": 158
@@ -10335,17 +10200,17 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "Obama's Challenge: Answer Snowden Without Seeming To",
+      "html": "2014 Senate Math Favors Republicans But Primary Battles Loom",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "Obama's Challenge: Answer Snowden Without Seeming To"
+        "2014 Senate Math Favors Republicans But Primary Battles Loom"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 380,
+        "top": 397,
         "width": 158
       },
       "computed": {
@@ -10486,9 +10351,9 @@
     },
     {
       "bound": {
-        "height": 72,
+        "height": 54,
         "left": 1303,
-        "top": 407,
+        "top": 424,
         "width": 158
       },
       "computed": {
@@ -10621,10 +10486,10 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "Hubbub Over Hillary Clinton Movies: A Dress Rehearsal For 2016",
+      "html": "Obama's Challenge: Answer Snowden Without Seeming To",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "Hubbub Over Hillary Clinton Movies: A Dress Rehearsal For 2016"
+        "Obama's Challenge: Answer Snowden Without Seeming To"
       ]
     },
     {
@@ -10907,10 +10772,10 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "5 Memorable Moments When Town Hall Meetings Turned To Rage",
+      "html": "Hubbub Over Hillary Clinton Movies: A Dress Rehearsal For 2016",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "5 Memorable Moments When Town Hall Meetings Turned To Rage"
+        "Hubbub Over Hillary Clinton Movies: A Dress Rehearsal For 2016"
       ]
     },
     {
@@ -11060,7 +10925,7 @@
       "bound": {
         "height": 26,
         "left": 15,
-        "top": 9239,
+        "top": 3317,
         "width": 1570
       },
       "computed": {
@@ -11203,7 +11068,7 @@
       "bound": {
         "height": 22,
         "left": 15,
-        "top": 9265,
+        "top": 3343,
         "width": 1570
       },
       "computed": {
@@ -11346,7 +11211,7 @@
       "bound": {
         "height": 52,
         "left": 46,
-        "top": 9404,
+        "top": 3482,
         "width": 30
       },
       "computed": {
@@ -11489,7 +11354,7 @@
       "bound": {
         "height": 52,
         "left": 107,
-        "top": 9404,
+        "top": 3482,
         "width": 55
       },
       "computed": {
@@ -11632,7 +11497,7 @@
       "bound": {
         "height": 52,
         "left": 193,
-        "top": 9404,
+        "top": 3482,
         "width": 35
       },
       "computed": {
@@ -11775,7 +11640,7 @@
       "bound": {
         "height": 52,
         "left": 259,
-        "top": 9404,
+        "top": 3482,
         "width": 56
       },
       "computed": {
@@ -11918,7 +11783,7 @@
       "bound": {
         "height": 52,
         "left": 346,
-        "top": 9404,
+        "top": 3482,
         "width": 31
       },
       "computed": {
@@ -12061,7 +11926,7 @@
       "bound": {
         "height": 52,
         "left": 408,
-        "top": 9404,
+        "top": 3482,
         "width": 32
       },
       "computed": {
@@ -12204,7 +12069,7 @@
       "bound": {
         "height": 52,
         "left": 1519,
-        "top": 9404,
+        "top": 3482,
         "width": 66
       },
       "computed": {
@@ -12347,7 +12212,7 @@
       "bound": {
         "height": 52,
         "left": 1106,
-        "top": 9404,
+        "top": 3482,
         "width": 42
       },
       "computed": {
@@ -12490,7 +12355,7 @@
       "bound": {
         "height": 52,
         "left": 1163,
-        "top": 9404,
+        "top": 3482,
         "width": 72
       },
       "computed": {
@@ -12633,7 +12498,7 @@
       "bound": {
         "height": 52,
         "left": 1250,
-        "top": 9404,
+        "top": 3482,
         "width": 40
       },
       "computed": {
@@ -12776,7 +12641,7 @@
       "bound": {
         "height": 52,
         "left": 1305,
-        "top": 9404,
+        "top": 3482,
         "width": 117
       },
       "computed": {
@@ -12919,7 +12784,7 @@
       "bound": {
         "height": 52,
         "left": 1437,
-        "top": 9404,
+        "top": 3482,
         "width": 52
       },
       "computed": {
@@ -13624,7 +13489,7 @@
       "bound": {
         "height": 33,
         "left": 30,
-        "top": 8936,
+        "top": 3014,
         "width": 224
       },
       "computed": {
@@ -13764,7 +13629,7 @@
       "bound": {
         "height": 60,
         "left": 1149,
-        "top": 9038,
+        "top": 3116,
         "width": 60
       },
       "computed": {
@@ -13902,9 +13767,149 @@
     },
     {
       "bound": {
-        "height": 63,
+        "height": 62,
         "left": 1491,
         "top": 272,
+        "width": 63
+      },
+      "computed": {
+        "alignment-baseline": "auto",
+        "background-attachment": "scroll",
+        "background-clip": "border-box",
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-origin": "padding-box",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "background-size": "auto auto",
+        "baseline-shift": "baseline",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-bottom-left-radius": "0px",
+        "border-bottom-right-radius": "0px",
+        "border-bottom-style": "none",
+        "border-bottom-width": "0px",
+        "border-collapse": "separate",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-left-style": "none",
+        "border-left-width": "0px",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-right-style": "none",
+        "border-right-width": "0px",
+        "border-top-color": "rgb(109, 138, 196)",
+        "border-top-left-radius": "0px",
+        "border-top-right-radius": "0px",
+        "border-top-style": "none",
+        "border-top-width": "0px",
+        "box-shadow": "none",
+        "box-sizing": "border-box",
+        "caption-side": "top",
+        "clear": "none",
+        "clip": "auto",
+        "clip-path": "none",
+        "clip-rule": "nonzero",
+        "color": "rgb(109, 138, 196)",
+        "color-interpolation": "srgb",
+        "color-interpolation-filters": "linearrgb",
+        "color-rendering": "auto",
+        "cursor": "auto",
+        "direction": "ltr",
+        "display": "block",
+        "dominant-baseline": "auto",
+        "empty-cells": "show",
+        "fill": "#000000",
+        "fill-opacity": "1",
+        "fill-rule": "nonzero",
+        "filter": "none",
+        "float": "left",
+        "flood-color": "rgb(0, 0, 0)",
+        "flood-opacity": "1",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "14px",
+        "font-style": "normal",
+        "font-variant": "normal",
+        "font-weight": "normal",
+        "glyph-orientation-horizontal": "0deg",
+        "glyph-orientation-vertical": "auto",
+        "image-rendering": "auto",
+        "kerning": "0",
+        "letter-spacing": "normal",
+        "lighting-color": "rgb(255, 255, 255)",
+        "line-height": "14px",
+        "list-style-image": "none",
+        "list-style-position": "outside",
+        "list-style-type": "disc",
+        "margin-bottom": "0px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "0px",
+        "marker-end": "none",
+        "marker-mid": "none",
+        "marker-start": "none",
+        "mask": "none",
+        "max-height": "none",
+        "max-width": "100%",
+        "min-height": "0px",
+        "min-width": "0px",
+        "opacity": "1",
+        "orphans": "2",
+        "outline-color": "rgb(109, 138, 196)",
+        "outline-style": "none",
+        "outline-width": "0px",
+        "overflow-x": "visible",
+        "overflow-y": "visible",
+        "padding-bottom": "0px",
+        "padding-left": "0px",
+        "padding-right": "0px",
+        "padding-top": "0px",
+        "page-break-after": "auto",
+        "page-break-before": "auto",
+        "page-break-inside": "auto",
+        "pointer-events": "auto",
+        "position": "static",
+        "resize": "none",
+        "shape-rendering": "auto",
+        "speak": "normal",
+        "stop-color": "rgb(0, 0, 0)",
+        "stop-opacity": "1",
+        "stroke": "none",
+        "stroke-dasharray": "none",
+        "stroke-dashoffset": "0",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke-miterlimit": "4",
+        "stroke-opacity": "1",
+        "stroke-width": "1",
+        "table-layout": "auto",
+        "text-align": "-webkit-auto",
+        "text-anchor": "start",
+        "text-decoration": "none",
+        "text-indent": "0px",
+        "text-overflow": "clip",
+        "text-rendering": "auto",
+        "text-shadow": "none",
+        "text-transform": "none",
+        "unicode-bidi": "normal",
+        "vector-effect": "none",
+        "vertical-align": "baseline",
+        "visibility": "visible",
+        "white-space": "normal",
+        "widows": "2",
+        "word-break": "normal",
+        "word-spacing": "0px",
+        "word-wrap": "normal",
+        "writing-mode": "lr-tb",
+        "z-index": "auto",
+        "zoom": "1"
+      },
+      "element": "img",
+      "path": "div > div > div > div > section > div > article > a > div",
+      "src": "http://media.npr.org/assets/img/2013/08/09/ap95940868223_sq-a12216fed60a4dcaf52a6b28f0319349199ad9d2.jpg?s=16"
+    },
+    {
+      "bound": {
+        "height": 63,
+        "left": 1491,
+        "top": 416,
         "width": 63
       },
       "computed": {
@@ -14044,7 +14049,7 @@
       "bound": {
         "height": 63,
         "left": 1491,
-        "top": 399,
+        "top": 543,
         "width": 63
       },
       "computed": {
@@ -14182,149 +14187,9 @@
     },
     {
       "bound": {
-        "height": 63,
-        "left": 1491,
-        "top": 543,
-        "width": 63
-      },
-      "computed": {
-        "alignment-baseline": "auto",
-        "background-attachment": "scroll",
-        "background-clip": "border-box",
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-image": "none",
-        "background-origin": "padding-box",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "background-size": "auto auto",
-        "baseline-shift": "baseline",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-bottom-left-radius": "0px",
-        "border-bottom-right-radius": "0px",
-        "border-bottom-style": "none",
-        "border-bottom-width": "0px",
-        "border-collapse": "separate",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-left-style": "none",
-        "border-left-width": "0px",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-right-style": "none",
-        "border-right-width": "0px",
-        "border-top-color": "rgb(109, 138, 196)",
-        "border-top-left-radius": "0px",
-        "border-top-right-radius": "0px",
-        "border-top-style": "none",
-        "border-top-width": "0px",
-        "box-shadow": "none",
-        "box-sizing": "border-box",
-        "caption-side": "top",
-        "clear": "none",
-        "clip": "auto",
-        "clip-path": "none",
-        "clip-rule": "nonzero",
-        "color": "rgb(109, 138, 196)",
-        "color-interpolation": "srgb",
-        "color-interpolation-filters": "linearrgb",
-        "color-rendering": "auto",
-        "cursor": "auto",
-        "direction": "ltr",
-        "display": "block",
-        "dominant-baseline": "auto",
-        "empty-cells": "show",
-        "fill": "#000000",
-        "fill-opacity": "1",
-        "fill-rule": "nonzero",
-        "filter": "none",
-        "float": "left",
-        "flood-color": "rgb(0, 0, 0)",
-        "flood-opacity": "1",
-        "font-family": "Helvetica, Arial, sans-serif",
-        "font-size": "14px",
-        "font-style": "normal",
-        "font-variant": "normal",
-        "font-weight": "normal",
-        "glyph-orientation-horizontal": "0deg",
-        "glyph-orientation-vertical": "auto",
-        "image-rendering": "auto",
-        "kerning": "0",
-        "letter-spacing": "normal",
-        "lighting-color": "rgb(255, 255, 255)",
-        "line-height": "14px",
-        "list-style-image": "none",
-        "list-style-position": "outside",
-        "list-style-type": "disc",
-        "margin-bottom": "0px",
-        "margin-left": "0px",
-        "margin-right": "0px",
-        "margin-top": "0px",
-        "marker-end": "none",
-        "marker-mid": "none",
-        "marker-start": "none",
-        "mask": "none",
-        "max-height": "none",
-        "max-width": "100%",
-        "min-height": "0px",
-        "min-width": "0px",
-        "opacity": "1",
-        "orphans": "2",
-        "outline-color": "rgb(109, 138, 196)",
-        "outline-style": "none",
-        "outline-width": "0px",
-        "overflow-x": "visible",
-        "overflow-y": "visible",
-        "padding-bottom": "0px",
-        "padding-left": "0px",
-        "padding-right": "0px",
-        "padding-top": "0px",
-        "page-break-after": "auto",
-        "page-break-before": "auto",
-        "page-break-inside": "auto",
-        "pointer-events": "auto",
-        "position": "static",
-        "resize": "none",
-        "shape-rendering": "auto",
-        "speak": "normal",
-        "stop-color": "rgb(0, 0, 0)",
-        "stop-opacity": "1",
-        "stroke": "none",
-        "stroke-dasharray": "none",
-        "stroke-dashoffset": "0",
-        "stroke-linecap": "butt",
-        "stroke-linejoin": "miter",
-        "stroke-miterlimit": "4",
-        "stroke-opacity": "1",
-        "stroke-width": "1",
-        "table-layout": "auto",
-        "text-align": "-webkit-auto",
-        "text-anchor": "start",
-        "text-decoration": "none",
-        "text-indent": "0px",
-        "text-overflow": "clip",
-        "text-rendering": "auto",
-        "text-shadow": "none",
-        "text-transform": "none",
-        "unicode-bidi": "normal",
-        "vector-effect": "none",
-        "vertical-align": "baseline",
-        "visibility": "visible",
-        "white-space": "normal",
-        "widows": "2",
-        "word-break": "normal",
-        "word-spacing": "0px",
-        "word-wrap": "normal",
-        "writing-mode": "lr-tb",
-        "z-index": "auto",
-        "zoom": "1"
-      },
-      "element": "img",
-      "path": "div > div > div > div > section > div > article > a > div",
-      "src": "http://media.npr.org/assets/img/2013/08/07/ap090811065698_sq-032b3d233837d657c8fb158bc7c6315d3f5ae1de.jpg?s=16"
-    },
-    {
-      "bound": {
         "height": 150,
         "left": 15,
-        "top": 9239,
+        "top": 3317,
         "width": 300
       },
       "computed": {

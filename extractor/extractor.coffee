@@ -97,8 +97,23 @@ page.onLoadFinished = (status) ->
 
     # extract page basic data
     data = page.evaluate ->
+        
+        # find title and description
+        titles = (title.innerText for title in document.querySelectorAll('title'))
+        descriptions = (meta.content for meta in document.querySelectorAll('meta[name="description"]'))
+        
+        # open graph title and description
+        titles.push (meta.content for meta in document.querySelectorAll('meta[name="og:title"], meta[property="og:title"]'))...
+        descriptions.push (meta.content for meta in document.querySelectorAll('meta[name="og:description"], meta[property="og:description"]'))...
+        
+        # twitter title and description
+        titles.push (meta.content for meta in document.querySelectorAll('meta[name="twitter:title"], meta[property="twitter:title"]'))...
+        descriptions.push (meta.content for meta in document.querySelectorAll('meta[name="twitter:description"], meta[property="twitter:description"]'))...
+
         data =
             url: window.location.href
+            titles: titles
+            descriptions: descriptions
             body:
                 scroll:
                     top: document.documentElement.scrollTop or document.body.scrollTop

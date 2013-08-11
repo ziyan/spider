@@ -43,7 +43,8 @@ def main(args):
     for id, label in enumerate(result.labels_):
         clusters[int(label)].append(datapoints[id]['html'])
 
-    print json.dumps(clusters, indent=2)
+    output = json.dumps(clusters, indent=2, ensure_ascii=False)
+    print output.encode('utf8')
 
 def parse_args():
     """

@@ -37,8 +37,8 @@ class Preprocessor(object):
 
                 # discrete features
                 discrete_feature = dict(datapoint['computed'].items())
-                discrete_feature['path'] = datapoint['path']
-                discrete_feature['element'] = datapoint['element']
+                #discrete_feature['path'] = datapoint['path']
+                #discrete_feature['element'] = datapoint['element']
                 discrete_features.append(discrete_feature)
 
         # build numpy array

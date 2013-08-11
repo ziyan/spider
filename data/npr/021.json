@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 10033,
+      "height": 4456,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -140,6 +140,14 @@
       "top": 0
     }
   },
+  "descriptions": [
+    "American military advisers in Cairo say the U.S. should stop sending F-16s to Egypt. Military contractors disagree.",
+    "American military advisers in Cairo say the U.S. should stop sending F-16s to Egypt. Military contractors disagree."
+  ],
+  "titles": [
+    "Egypt May Not Need Fighter Jets, But The U.S. Keeps Sending Them Anyway : Planet Money : NPR",
+    "Egypt May Not Need Fighter Jets, But The U.S. Keeps Sending Them Anyway : NPR"
+  ],
   "url": "http://www.npr.org/blogs/money/2013/08/08/209878158/egypt-may-not-need-fighter-jets-but-u-s-keeps-sending-them-anyway",
   "links": [
     "http://www.npr.org/blogs/money/2013/08/08/209878158/egypt-may-not-need-fighter-jets-but-u-s-keeps-sending-them-anyway#mainContent",
@@ -6445,10 +6453,10 @@
         "zoom": "1"
       },
       "element": "span",
-      "html": "184",
+      "html": "188",
       "path": "div > div > section > article > div > ul > li > a",
       "text": [
-        "184"
+        "188"
       ]
     },
     {
@@ -6588,7 +6596,7 @@
         "zoom": "1"
       },
       "element": "a",
-      "html": "<span class=\"count\">184</span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\">188</span><span class=\"name\">Comment</span>",
       "path": "div > div > section > article > div > ul > li",
       "text": [
         "Comment"
@@ -7467,7 +7475,7 @@
       "bound": {
         "height": 12,
         "left": 418,
-        "top": 9393,
+        "top": 3816,
         "width": 160
       },
       "computed": {
@@ -7610,7 +7618,7 @@
       "bound": {
         "height": 22,
         "left": 30,
-        "top": 9471,
+        "top": 3894,
         "width": 365
       },
       "computed": {
@@ -7753,7 +7761,7 @@
       "bound": {
         "height": 126,
         "left": 60,
-        "top": 9507,
+        "top": 3930,
         "width": 320
       },
       "computed": {
@@ -7904,7 +7912,7 @@
       "bound": {
         "height": 22,
         "left": 443,
-        "top": 9471,
+        "top": 3894,
         "width": 365
       },
       "computed": {
@@ -8047,7 +8055,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 9507,
+        "top": 3930,
         "width": 365
       },
       "computed": {
@@ -8190,7 +8198,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 9555,
+        "top": 3978,
         "width": 365
       },
       "computed": {
@@ -8333,7 +8341,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 9603,
+        "top": 4026,
         "width": 365
       },
       "computed": {
@@ -8476,7 +8484,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 9651,
+        "top": 4074,
         "width": 365
       },
       "computed": {
@@ -8619,7 +8627,7 @@
       "bound": {
         "height": 22,
         "left": 858,
-        "top": 9471,
+        "top": 3894,
         "width": 366
       },
       "computed": {
@@ -8762,7 +8770,7 @@
       "bound": {
         "height": 36,
         "left": 858,
-        "top": 9507,
+        "top": 3930,
         "width": 351
       },
       "computed": {
@@ -8905,7 +8913,7 @@
       "bound": {
         "height": 18,
         "left": 858,
-        "top": 9554,
+        "top": 3977,
         "width": 351
       },
       "computed": {
@@ -11336,7 +11344,7 @@
       "bound": {
         "height": 26,
         "left": 15,
-        "top": 9806,
+        "top": 4229,
         "width": 1570
       },
       "computed": {
@@ -11479,7 +11487,7 @@
       "bound": {
         "height": 22,
         "left": 15,
-        "top": 9832,
+        "top": 4255,
         "width": 1570
       },
       "computed": {
@@ -11622,7 +11630,7 @@
       "bound": {
         "height": 52,
         "left": 46,
-        "top": 9971,
+        "top": 4394,
         "width": 30
       },
       "computed": {
@@ -11765,7 +11773,7 @@
       "bound": {
         "height": 52,
         "left": 107,
-        "top": 9971,
+        "top": 4394,
         "width": 55
       },
       "computed": {
@@ -11908,7 +11916,7 @@
       "bound": {
         "height": 52,
         "left": 193,
-        "top": 9971,
+        "top": 4394,
         "width": 35
       },
       "computed": {
@@ -12051,7 +12059,7 @@
       "bound": {
         "height": 52,
         "left": 259,
-        "top": 9971,
+        "top": 4394,
         "width": 56
       },
       "computed": {
@@ -12194,7 +12202,7 @@
       "bound": {
         "height": 52,
         "left": 346,
-        "top": 9971,
+        "top": 4394,
         "width": 31
       },
       "computed": {
@@ -12337,7 +12345,7 @@
       "bound": {
         "height": 52,
         "left": 408,
-        "top": 9971,
+        "top": 4394,
         "width": 32
       },
       "computed": {
@@ -12480,7 +12488,7 @@
       "bound": {
         "height": 52,
         "left": 1519,
-        "top": 9971,
+        "top": 4394,
         "width": 66
       },
       "computed": {
@@ -12623,7 +12631,7 @@
       "bound": {
         "height": 52,
         "left": 1106,
-        "top": 9971,
+        "top": 4394,
         "width": 42
       },
       "computed": {
@@ -12766,7 +12774,7 @@
       "bound": {
         "height": 52,
         "left": 1163,
-        "top": 9971,
+        "top": 4394,
         "width": 72
       },
       "computed": {
@@ -12909,7 +12917,7 @@
       "bound": {
         "height": 52,
         "left": 1250,
-        "top": 9971,
+        "top": 4394,
         "width": 40
       },
       "computed": {
@@ -13052,7 +13060,7 @@
       "bound": {
         "height": 52,
         "left": 1305,
-        "top": 9971,
+        "top": 4394,
         "width": 117
       },
       "computed": {
@@ -13195,7 +13203,7 @@
       "bound": {
         "height": 52,
         "left": 1437,
-        "top": 9971,
+        "top": 4394,
         "width": 52
       },
       "computed": {
@@ -13900,7 +13908,7 @@
       "bound": {
         "height": 105,
         "left": 30,
-        "top": 9333,
+        "top": 3756,
         "width": 150
       },
       "computed": {
@@ -14040,7 +14048,7 @@
       "bound": {
         "height": 33,
         "left": 180,
-        "top": 9376,
+        "top": 3799,
         "width": 238
       },
       "computed": {
@@ -14180,7 +14188,7 @@
       "bound": {
         "height": 227,
         "left": 858,
-        "top": 9507,
+        "top": 3930,
         "width": 115
       },
       "computed": {
@@ -14740,7 +14748,7 @@
       "bound": {
         "height": 150,
         "left": 15,
-        "top": 9806,
+        "top": 4229,
         "width": 300
       },
       "computed": {

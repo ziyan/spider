@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 8560,
+      "height": 3170,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -140,6 +140,14 @@
       "top": 0
     }
   },
+  "descriptions": [
+    "The offices of the San Bernardino County Sexual Assault Services agency were broken into. Computers and other valuables were taken. But whoever was responsible apparently had a change of heart after learning what the agency does. The goods were returned along with a note.",
+    "The offices of the San Bernardino County Sexual Assault Services agency were broken into. Computers and other valuables were taken. But whoever was responsible apparently had a change of heart after learning what the agency does. The goods were returned along with a note."
+  ],
+  "titles": [
+    "Burglars Return Loot To Group That Helps Sex Assault Victims : The Two-Way : NPR",
+    "Burglars Return Loot To Group That Helps Sex Assault Victims : NPR"
+  ],
   "url": "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims",
   "links": [
     "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims#mainContent",
@@ -232,10 +240,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fthetwo-way%2F2013%2F08%2F08%2F210092385%2Fburglars-return-loot-to-group-that-helps-sex-assault-victims",
     "http://www.npr.org/about/place/corpsupport/",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/09/210610991/u-s-to-open-most-embassies-shuttered-by-terrorist-threat",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/09/210590409/5-things-to-know-about-the-legal-reasoning-for-surveillance",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/09/210566486/ncaa-will-stop-selling-player-jerseys-takes-web-shop-down",
+    "http://www.npr.org/blogs/thetwo-way/2013/08/10/210870653/wave-of-ramadan-bombings-kill-dozens-in-iraq",
+    "http://www.npr.org/blogs/thetwo-way/2013/08/10/210837966/russia-invites-u-s-to-a-tank-biathlon",
+    "http://www.npr.org/blogs/thetwo-way/2013/08/10/210835919/volcanic-eruption-in-indonesia-kills-six",
+    "http://www.npr.org/blogs/thetwo-way/2013/08/10/210810080/massive-hunt-for-calif-girl-and-her-alleged-kidnapper-continues",
     "http://www.npr.org/blogs/thetwo-way/",
     "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -6330,10 +6338,10 @@
         "zoom": "1"
       },
       "element": "span",
-      "html": "72",
+      "html": "73",
       "path": "div > div > section > article > div > ul > li > a",
       "text": [
-        "72"
+        "73"
       ]
     },
     {
@@ -6473,7 +6481,7 @@
         "zoom": "1"
       },
       "element": "a",
-      "html": "<span class=\"count\">72</span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\">73</span><span class=\"name\">Comment</span>",
       "path": "div > div > section > article > div > ul > li",
       "text": [
         "Comment"
@@ -7352,7 +7360,7 @@
       "bound": {
         "height": 12,
         "left": 311,
-        "top": 7971,
+        "top": 2581,
         "width": 168
       },
       "computed": {
@@ -7495,7 +7503,7 @@
       "bound": {
         "height": 22,
         "left": 30,
-        "top": 8030,
+        "top": 2640,
         "width": 365
       },
       "computed": {
@@ -7638,7 +7646,7 @@
       "bound": {
         "height": 108,
         "left": 60,
-        "top": 8066,
+        "top": 2676,
         "width": 320
       },
       "computed": {
@@ -7788,7 +7796,7 @@
       "bound": {
         "height": 22,
         "left": 443,
-        "top": 8030,
+        "top": 2640,
         "width": 365
       },
       "computed": {
@@ -7931,7 +7939,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 8066,
+        "top": 2676,
         "width": 365
       },
       "computed": {
@@ -8074,7 +8082,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 8114,
+        "top": 2724,
         "width": 365
       },
       "computed": {
@@ -8217,7 +8225,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 8162,
+        "top": 2772,
         "width": 365
       },
       "computed": {
@@ -8360,7 +8368,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 8210,
+        "top": 2820,
         "width": 365
       },
       "computed": {
@@ -8503,7 +8511,7 @@
       "bound": {
         "height": 22,
         "left": 858,
-        "top": 8030,
+        "top": 2640,
         "width": 366
       },
       "computed": {
@@ -8646,7 +8654,7 @@
       "bound": {
         "height": 21,
         "left": 873,
-        "top": 8225,
+        "top": 2835,
         "width": 334
       },
       "computed": {
@@ -10077,292 +10085,6 @@
         "height": 12,
         "left": 1303,
         "top": 253,
-        "width": 252
-      },
-      "computed": {
-        "alignment-baseline": "auto",
-        "background-attachment": "scroll",
-        "background-clip": "border-box",
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-image": "none",
-        "background-origin": "padding-box",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "background-size": "auto auto",
-        "baseline-shift": "baseline",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-bottom-left-radius": "0px",
-        "border-bottom-right-radius": "0px",
-        "border-bottom-style": "none",
-        "border-bottom-width": "0px",
-        "border-collapse": "separate",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-left-style": "none",
-        "border-left-width": "0px",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-right-style": "none",
-        "border-right-width": "0px",
-        "border-top-color": "rgb(188, 202, 229)",
-        "border-top-left-radius": "0px",
-        "border-top-right-radius": "0px",
-        "border-top-style": "none",
-        "border-top-width": "0px",
-        "box-shadow": "none",
-        "box-sizing": "border-box",
-        "caption-side": "top",
-        "clear": "none",
-        "clip": "auto",
-        "clip-path": "none",
-        "clip-rule": "nonzero",
-        "color": "rgb(188, 202, 229)",
-        "color-interpolation": "srgb",
-        "color-interpolation-filters": "linearrgb",
-        "color-rendering": "auto",
-        "cursor": "auto",
-        "direction": "ltr",
-        "display": "block",
-        "dominant-baseline": "auto",
-        "empty-cells": "show",
-        "fill": "#000000",
-        "fill-opacity": "1",
-        "fill-rule": "nonzero",
-        "filter": "none",
-        "float": "none",
-        "flood-color": "rgb(0, 0, 0)",
-        "flood-opacity": "1",
-        "font-family": "Helvetica, Arial, sans-serif",
-        "font-size": "12px",
-        "font-style": "normal",
-        "font-variant": "normal",
-        "font-weight": "bold",
-        "glyph-orientation-horizontal": "0deg",
-        "glyph-orientation-vertical": "auto",
-        "image-rendering": "auto",
-        "kerning": "0",
-        "letter-spacing": "normal",
-        "lighting-color": "rgb(255, 255, 255)",
-        "line-height": "12px",
-        "list-style-image": "none",
-        "list-style-position": "outside",
-        "list-style-type": "disc",
-        "margin-bottom": "15px",
-        "margin-left": "0px",
-        "margin-right": "0px",
-        "margin-top": "5px",
-        "marker-end": "none",
-        "marker-mid": "none",
-        "marker-start": "none",
-        "mask": "none",
-        "max-height": "none",
-        "max-width": "none",
-        "min-height": "0px",
-        "min-width": "0px",
-        "opacity": "1",
-        "orphans": "2",
-        "outline-color": "rgb(188, 202, 229)",
-        "outline-style": "none",
-        "outline-width": "0px",
-        "overflow-x": "visible",
-        "overflow-y": "visible",
-        "padding-bottom": "0px",
-        "padding-left": "0px",
-        "padding-right": "0px",
-        "padding-top": "0px",
-        "page-break-after": "auto",
-        "page-break-before": "auto",
-        "page-break-inside": "auto",
-        "pointer-events": "auto",
-        "position": "static",
-        "resize": "none",
-        "shape-rendering": "auto",
-        "speak": "normal",
-        "stop-color": "rgb(0, 0, 0)",
-        "stop-opacity": "1",
-        "stroke": "none",
-        "stroke-dasharray": "none",
-        "stroke-dashoffset": "0",
-        "stroke-linecap": "butt",
-        "stroke-linejoin": "miter",
-        "stroke-miterlimit": "4",
-        "stroke-opacity": "1",
-        "stroke-width": "1",
-        "table-layout": "auto",
-        "text-align": "-webkit-auto",
-        "text-anchor": "start",
-        "text-decoration": "none",
-        "text-indent": "0px",
-        "text-overflow": "clip",
-        "text-rendering": "auto",
-        "text-shadow": "none",
-        "text-transform": "lowercase",
-        "unicode-bidi": "normal",
-        "vector-effect": "none",
-        "vertical-align": "baseline",
-        "visibility": "visible",
-        "white-space": "normal",
-        "widows": "2",
-        "word-break": "normal",
-        "word-spacing": "0px",
-        "word-wrap": "normal",
-        "writing-mode": "lr-tb",
-        "z-index": "auto",
-        "zoom": "1"
-      },
-      "element": "h2",
-      "html": "News",
-      "path": "div > div > div > div > section > div > article > a > div",
-      "text": [
-        "News"
-      ]
-    },
-    {
-      "bound": {
-        "height": 36,
-        "left": 1303,
-        "top": 280,
-        "width": 252
-      },
-      "computed": {
-        "alignment-baseline": "auto",
-        "background-attachment": "scroll",
-        "background-clip": "border-box",
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-image": "none",
-        "background-origin": "padding-box",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "background-size": "auto auto",
-        "baseline-shift": "baseline",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-bottom-left-radius": "0px",
-        "border-bottom-right-radius": "0px",
-        "border-bottom-style": "none",
-        "border-bottom-width": "0px",
-        "border-collapse": "separate",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-left-style": "none",
-        "border-left-width": "0px",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-right-style": "none",
-        "border-right-width": "0px",
-        "border-top-color": "rgb(0, 0, 0)",
-        "border-top-left-radius": "0px",
-        "border-top-right-radius": "0px",
-        "border-top-style": "none",
-        "border-top-width": "0px",
-        "box-shadow": "none",
-        "box-sizing": "border-box",
-        "caption-side": "top",
-        "clear": "none",
-        "clip": "auto",
-        "clip-path": "none",
-        "clip-rule": "nonzero",
-        "color": "rgb(0, 0, 0)",
-        "color-interpolation": "srgb",
-        "color-interpolation-filters": "linearrgb",
-        "color-rendering": "auto",
-        "cursor": "auto",
-        "direction": "ltr",
-        "display": "block",
-        "dominant-baseline": "auto",
-        "empty-cells": "show",
-        "fill": "#000000",
-        "fill-opacity": "1",
-        "fill-rule": "nonzero",
-        "filter": "none",
-        "float": "none",
-        "flood-color": "rgb(0, 0, 0)",
-        "flood-opacity": "1",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "font-style": "normal",
-        "font-variant": "normal",
-        "font-weight": "normal",
-        "glyph-orientation-horizontal": "0deg",
-        "glyph-orientation-vertical": "auto",
-        "image-rendering": "auto",
-        "kerning": "0",
-        "letter-spacing": "normal",
-        "lighting-color": "rgb(255, 255, 255)",
-        "line-height": "18px",
-        "list-style-image": "none",
-        "list-style-position": "outside",
-        "list-style-type": "disc",
-        "margin-bottom": "10px",
-        "margin-left": "0px",
-        "margin-right": "0px",
-        "margin-top": "0px",
-        "marker-end": "none",
-        "marker-mid": "none",
-        "marker-start": "none",
-        "mask": "none",
-        "max-height": "none",
-        "max-width": "none",
-        "min-height": "0px",
-        "min-width": "0px",
-        "opacity": "1",
-        "orphans": "2",
-        "outline-color": "rgb(0, 0, 0)",
-        "outline-style": "none",
-        "outline-width": "0px",
-        "overflow-x": "visible",
-        "overflow-y": "visible",
-        "padding-bottom": "0px",
-        "padding-left": "0px",
-        "padding-right": "0px",
-        "padding-top": "0px",
-        "page-break-after": "auto",
-        "page-break-before": "auto",
-        "page-break-inside": "auto",
-        "pointer-events": "auto",
-        "position": "static",
-        "resize": "none",
-        "shape-rendering": "auto",
-        "speak": "normal",
-        "stop-color": "rgb(0, 0, 0)",
-        "stop-opacity": "1",
-        "stroke": "none",
-        "stroke-dasharray": "none",
-        "stroke-dashoffset": "0",
-        "stroke-linecap": "butt",
-        "stroke-linejoin": "miter",
-        "stroke-miterlimit": "4",
-        "stroke-opacity": "1",
-        "stroke-width": "1",
-        "table-layout": "auto",
-        "text-align": "-webkit-auto",
-        "text-anchor": "start",
-        "text-decoration": "none",
-        "text-indent": "0px",
-        "text-overflow": "clip",
-        "text-rendering": "auto",
-        "text-shadow": "none",
-        "text-transform": "none",
-        "unicode-bidi": "normal",
-        "vector-effect": "none",
-        "vertical-align": "baseline",
-        "visibility": "visible",
-        "white-space": "normal",
-        "widows": "2",
-        "word-break": "normal",
-        "word-spacing": "0px",
-        "word-wrap": "normal",
-        "writing-mode": "lr-tb",
-        "z-index": "auto",
-        "zoom": "1"
-      },
-      "element": "h3",
-      "html": "U.S. To Open Most Embassies Shuttered By Terrorist Threat",
-      "path": "div > div > div > div > section > div > article > a > div",
-      "text": [
-        "U.S. To Open Most Embassies Shuttered By Terrorist Threat"
-      ]
-    },
-    {
-      "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 361,
         "width": 158
       },
       "computed": {
@@ -10495,17 +10217,17 @@
         "zoom": "1"
       },
       "element": "h2",
-      "html": "Technology",
+      "html": "The Two-Way",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "Technology"
+        "The Two-Way"
       ]
     },
     {
       "bound": {
         "height": 54,
         "left": 1303,
-        "top": 388,
+        "top": 280,
         "width": 158
       },
       "computed": {
@@ -10638,17 +10360,17 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "ITC Says Samsung Infringed On Apple Patents",
+      "html": "Wave Of Bombings At Ramadan's End Kills Dozens In Iraq",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "ITC Says Samsung Infringed On Apple Patents"
+        "Wave Of Bombings At Ramadan's End Kills Dozens In Iraq"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 488,
+        "top": 380,
         "width": 158
       },
       "computed": {
@@ -10781,17 +10503,17 @@
         "zoom": "1"
       },
       "element": "h2",
-      "html": "News",
+      "html": "National Security",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "News"
+        "National Security"
       ]
     },
     {
       "bound": {
-        "height": 72,
+        "height": 36,
         "left": 1303,
-        "top": 515,
+        "top": 407,
         "width": 158
       },
       "computed": {
@@ -10924,17 +10646,303 @@
         "zoom": "1"
       },
       "element": "h3",
-      "html": "5 Things To Know About The Legal Reasoning For Surveillance",
+      "html": "Russia Invites U.S. To A 'Tank Biathlon'",
       "path": "div > div > div > div > section > div > article > a > div",
       "text": [
-        "5 Things To Know About The Legal Reasoning For Surveillance"
+        "Russia Invites U.S. To A 'Tank Biathlon'"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 1303,
+        "top": 506,
+        "width": 158
+      },
+      "computed": {
+        "alignment-baseline": "auto",
+        "background-attachment": "scroll",
+        "background-clip": "border-box",
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-origin": "padding-box",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "background-size": "auto auto",
+        "baseline-shift": "baseline",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-bottom-left-radius": "0px",
+        "border-bottom-right-radius": "0px",
+        "border-bottom-style": "none",
+        "border-bottom-width": "0px",
+        "border-collapse": "separate",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-left-style": "none",
+        "border-left-width": "0px",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-right-style": "none",
+        "border-right-width": "0px",
+        "border-top-color": "rgb(188, 202, 229)",
+        "border-top-left-radius": "0px",
+        "border-top-right-radius": "0px",
+        "border-top-style": "none",
+        "border-top-width": "0px",
+        "box-shadow": "none",
+        "box-sizing": "border-box",
+        "caption-side": "top",
+        "clear": "none",
+        "clip": "auto",
+        "clip-path": "none",
+        "clip-rule": "nonzero",
+        "color": "rgb(188, 202, 229)",
+        "color-interpolation": "srgb",
+        "color-interpolation-filters": "linearrgb",
+        "color-rendering": "auto",
+        "cursor": "auto",
+        "direction": "ltr",
+        "display": "block",
+        "dominant-baseline": "auto",
+        "empty-cells": "show",
+        "fill": "#000000",
+        "fill-opacity": "1",
+        "fill-rule": "nonzero",
+        "filter": "none",
+        "float": "none",
+        "flood-color": "rgb(0, 0, 0)",
+        "flood-opacity": "1",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "12px",
+        "font-style": "normal",
+        "font-variant": "normal",
+        "font-weight": "bold",
+        "glyph-orientation-horizontal": "0deg",
+        "glyph-orientation-vertical": "auto",
+        "image-rendering": "auto",
+        "kerning": "0",
+        "letter-spacing": "normal",
+        "lighting-color": "rgb(255, 255, 255)",
+        "line-height": "12px",
+        "list-style-image": "none",
+        "list-style-position": "outside",
+        "list-style-type": "disc",
+        "margin-bottom": "15px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "5px",
+        "marker-end": "none",
+        "marker-mid": "none",
+        "marker-start": "none",
+        "mask": "none",
+        "max-height": "none",
+        "max-width": "none",
+        "min-height": "0px",
+        "min-width": "0px",
+        "opacity": "1",
+        "orphans": "2",
+        "outline-color": "rgb(188, 202, 229)",
+        "outline-style": "none",
+        "outline-width": "0px",
+        "overflow-x": "visible",
+        "overflow-y": "visible",
+        "padding-bottom": "0px",
+        "padding-left": "0px",
+        "padding-right": "0px",
+        "padding-top": "0px",
+        "page-break-after": "auto",
+        "page-break-before": "auto",
+        "page-break-inside": "auto",
+        "pointer-events": "auto",
+        "position": "static",
+        "resize": "none",
+        "shape-rendering": "auto",
+        "speak": "normal",
+        "stop-color": "rgb(0, 0, 0)",
+        "stop-opacity": "1",
+        "stroke": "none",
+        "stroke-dasharray": "none",
+        "stroke-dashoffset": "0",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke-miterlimit": "4",
+        "stroke-opacity": "1",
+        "stroke-width": "1",
+        "table-layout": "auto",
+        "text-align": "-webkit-auto",
+        "text-anchor": "start",
+        "text-decoration": "none",
+        "text-indent": "0px",
+        "text-overflow": "clip",
+        "text-rendering": "auto",
+        "text-shadow": "none",
+        "text-transform": "lowercase",
+        "unicode-bidi": "normal",
+        "vector-effect": "none",
+        "vertical-align": "baseline",
+        "visibility": "visible",
+        "white-space": "normal",
+        "widows": "2",
+        "word-break": "normal",
+        "word-spacing": "0px",
+        "word-wrap": "normal",
+        "writing-mode": "lr-tb",
+        "z-index": "auto",
+        "zoom": "1"
+      },
+      "element": "h2",
+      "html": "Asia",
+      "path": "div > div > div > div > section > div > article > a > div",
+      "text": [
+        "Asia"
+      ]
+    },
+    {
+      "bound": {
+        "height": 36,
+        "left": 1303,
+        "top": 533,
+        "width": 158
+      },
+      "computed": {
+        "alignment-baseline": "auto",
+        "background-attachment": "scroll",
+        "background-clip": "border-box",
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-origin": "padding-box",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "background-size": "auto auto",
+        "baseline-shift": "baseline",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-bottom-left-radius": "0px",
+        "border-bottom-right-radius": "0px",
+        "border-bottom-style": "none",
+        "border-bottom-width": "0px",
+        "border-collapse": "separate",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-left-style": "none",
+        "border-left-width": "0px",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-right-style": "none",
+        "border-right-width": "0px",
+        "border-top-color": "rgb(0, 0, 0)",
+        "border-top-left-radius": "0px",
+        "border-top-right-radius": "0px",
+        "border-top-style": "none",
+        "border-top-width": "0px",
+        "box-shadow": "none",
+        "box-sizing": "border-box",
+        "caption-side": "top",
+        "clear": "none",
+        "clip": "auto",
+        "clip-path": "none",
+        "clip-rule": "nonzero",
+        "color": "rgb(0, 0, 0)",
+        "color-interpolation": "srgb",
+        "color-interpolation-filters": "linearrgb",
+        "color-rendering": "auto",
+        "cursor": "auto",
+        "direction": "ltr",
+        "display": "block",
+        "dominant-baseline": "auto",
+        "empty-cells": "show",
+        "fill": "#000000",
+        "fill-opacity": "1",
+        "fill-rule": "nonzero",
+        "filter": "none",
+        "float": "none",
+        "flood-color": "rgb(0, 0, 0)",
+        "flood-opacity": "1",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "font-style": "normal",
+        "font-variant": "normal",
+        "font-weight": "normal",
+        "glyph-orientation-horizontal": "0deg",
+        "glyph-orientation-vertical": "auto",
+        "image-rendering": "auto",
+        "kerning": "0",
+        "letter-spacing": "normal",
+        "lighting-color": "rgb(255, 255, 255)",
+        "line-height": "18px",
+        "list-style-image": "none",
+        "list-style-position": "outside",
+        "list-style-type": "disc",
+        "margin-bottom": "10px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "0px",
+        "marker-end": "none",
+        "marker-mid": "none",
+        "marker-start": "none",
+        "mask": "none",
+        "max-height": "none",
+        "max-width": "none",
+        "min-height": "0px",
+        "min-width": "0px",
+        "opacity": "1",
+        "orphans": "2",
+        "outline-color": "rgb(0, 0, 0)",
+        "outline-style": "none",
+        "outline-width": "0px",
+        "overflow-x": "visible",
+        "overflow-y": "visible",
+        "padding-bottom": "0px",
+        "padding-left": "0px",
+        "padding-right": "0px",
+        "padding-top": "0px",
+        "page-break-after": "auto",
+        "page-break-before": "auto",
+        "page-break-inside": "auto",
+        "pointer-events": "auto",
+        "position": "static",
+        "resize": "none",
+        "shape-rendering": "auto",
+        "speak": "normal",
+        "stop-color": "rgb(0, 0, 0)",
+        "stop-opacity": "1",
+        "stroke": "none",
+        "stroke-dasharray": "none",
+        "stroke-dashoffset": "0",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke-miterlimit": "4",
+        "stroke-opacity": "1",
+        "stroke-width": "1",
+        "table-layout": "auto",
+        "text-align": "-webkit-auto",
+        "text-anchor": "start",
+        "text-decoration": "none",
+        "text-indent": "0px",
+        "text-overflow": "clip",
+        "text-rendering": "auto",
+        "text-shadow": "none",
+        "text-transform": "none",
+        "unicode-bidi": "normal",
+        "vector-effect": "none",
+        "vertical-align": "baseline",
+        "visibility": "visible",
+        "white-space": "normal",
+        "widows": "2",
+        "word-break": "normal",
+        "word-spacing": "0px",
+        "word-wrap": "normal",
+        "writing-mode": "lr-tb",
+        "z-index": "auto",
+        "zoom": "1"
+      },
+      "element": "h3",
+      "html": "Volcanic Eruption In Indonesia Kills Six",
+      "path": "div > div > div > div > section > div > article > a > div",
+      "text": [
+        "Volcanic Eruption In Indonesia Kills Six"
       ]
     },
     {
       "bound": {
         "height": 16,
         "left": 1273,
-        "top": 647,
+        "top": 648,
         "width": 299
       },
       "computed": {
@@ -11077,7 +11085,7 @@
       "bound": {
         "height": 26,
         "left": 15,
-        "top": 8333,
+        "top": 2943,
         "width": 1570
       },
       "computed": {
@@ -11220,7 +11228,7 @@
       "bound": {
         "height": 22,
         "left": 15,
-        "top": 8359,
+        "top": 2969,
         "width": 1570
       },
       "computed": {
@@ -11363,7 +11371,7 @@
       "bound": {
         "height": 52,
         "left": 46,
-        "top": 8498,
+        "top": 3108,
         "width": 30
       },
       "computed": {
@@ -11506,7 +11514,7 @@
       "bound": {
         "height": 52,
         "left": 107,
-        "top": 8498,
+        "top": 3108,
         "width": 55
       },
       "computed": {
@@ -11649,7 +11657,7 @@
       "bound": {
         "height": 52,
         "left": 193,
-        "top": 8498,
+        "top": 3108,
         "width": 35
       },
       "computed": {
@@ -11792,7 +11800,7 @@
       "bound": {
         "height": 52,
         "left": 259,
-        "top": 8498,
+        "top": 3108,
         "width": 56
       },
       "computed": {
@@ -11935,7 +11943,7 @@
       "bound": {
         "height": 52,
         "left": 346,
-        "top": 8498,
+        "top": 3108,
         "width": 31
       },
       "computed": {
@@ -12078,7 +12086,7 @@
       "bound": {
         "height": 52,
         "left": 408,
-        "top": 8498,
+        "top": 3108,
         "width": 32
       },
       "computed": {
@@ -12221,7 +12229,7 @@
       "bound": {
         "height": 52,
         "left": 1519,
-        "top": 8498,
+        "top": 3108,
         "width": 66
       },
       "computed": {
@@ -12364,7 +12372,7 @@
       "bound": {
         "height": 52,
         "left": 1106,
-        "top": 8498,
+        "top": 3108,
         "width": 42
       },
       "computed": {
@@ -12507,7 +12515,7 @@
       "bound": {
         "height": 52,
         "left": 1163,
-        "top": 8498,
+        "top": 3108,
         "width": 72
       },
       "computed": {
@@ -12650,7 +12658,7 @@
       "bound": {
         "height": 52,
         "left": 1250,
-        "top": 8498,
+        "top": 3108,
         "width": 40
       },
       "computed": {
@@ -12793,7 +12801,7 @@
       "bound": {
         "height": 52,
         "left": 1305,
-        "top": 8498,
+        "top": 3108,
         "width": 117
       },
       "computed": {
@@ -12936,7 +12944,7 @@
       "bound": {
         "height": 52,
         "left": 1437,
-        "top": 8498,
+        "top": 3108,
         "width": 52
       },
       "computed": {
@@ -13641,7 +13649,7 @@
       "bound": {
         "height": 57,
         "left": 30,
-        "top": 7942,
+        "top": 2552,
         "width": 65
       },
       "computed": {
@@ -13781,7 +13789,7 @@
       "bound": {
         "height": 33,
         "left": 95,
-        "top": 7954,
+        "top": 2564,
         "width": 216
       },
       "computed": {
@@ -13921,7 +13929,7 @@
       "bound": {
         "height": 133,
         "left": 973,
-        "top": 8081,
+        "top": 2691,
         "width": 133
       },
       "computed": {
@@ -14061,7 +14069,7 @@
       "bound": {
         "height": 63,
         "left": 1491,
-        "top": 380,
+        "top": 272,
         "width": 63
       },
       "computed": {
@@ -14195,13 +14203,153 @@
       },
       "element": "img",
       "path": "div > div > div > div > section > div > article > a > div",
-      "src": "http://media.npr.org/assets/img/2013/08/09/167183137_sq-22b10c647fb8eabd9a5b42d216d0d20b0873872f.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/10/ap104260274799_sq-e50973de7b6f4adeac69ced676f9db8734691a0f.jpg?s=16"
+    },
+    {
+      "bound": {
+        "height": 62,
+        "left": 1491,
+        "top": 399,
+        "width": 63
+      },
+      "computed": {
+        "alignment-baseline": "auto",
+        "background-attachment": "scroll",
+        "background-clip": "border-box",
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-origin": "padding-box",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "background-size": "auto auto",
+        "baseline-shift": "baseline",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-bottom-left-radius": "0px",
+        "border-bottom-right-radius": "0px",
+        "border-bottom-style": "none",
+        "border-bottom-width": "0px",
+        "border-collapse": "separate",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-left-style": "none",
+        "border-left-width": "0px",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-right-style": "none",
+        "border-right-width": "0px",
+        "border-top-color": "rgb(109, 138, 196)",
+        "border-top-left-radius": "0px",
+        "border-top-right-radius": "0px",
+        "border-top-style": "none",
+        "border-top-width": "0px",
+        "box-shadow": "none",
+        "box-sizing": "border-box",
+        "caption-side": "top",
+        "clear": "none",
+        "clip": "auto",
+        "clip-path": "none",
+        "clip-rule": "nonzero",
+        "color": "rgb(109, 138, 196)",
+        "color-interpolation": "srgb",
+        "color-interpolation-filters": "linearrgb",
+        "color-rendering": "auto",
+        "cursor": "auto",
+        "direction": "ltr",
+        "display": "block",
+        "dominant-baseline": "auto",
+        "empty-cells": "show",
+        "fill": "#000000",
+        "fill-opacity": "1",
+        "fill-rule": "nonzero",
+        "filter": "none",
+        "float": "left",
+        "flood-color": "rgb(0, 0, 0)",
+        "flood-opacity": "1",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "14px",
+        "font-style": "normal",
+        "font-variant": "normal",
+        "font-weight": "normal",
+        "glyph-orientation-horizontal": "0deg",
+        "glyph-orientation-vertical": "auto",
+        "image-rendering": "auto",
+        "kerning": "0",
+        "letter-spacing": "normal",
+        "lighting-color": "rgb(255, 255, 255)",
+        "line-height": "14px",
+        "list-style-image": "none",
+        "list-style-position": "outside",
+        "list-style-type": "disc",
+        "margin-bottom": "0px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "0px",
+        "marker-end": "none",
+        "marker-mid": "none",
+        "marker-start": "none",
+        "mask": "none",
+        "max-height": "none",
+        "max-width": "100%",
+        "min-height": "0px",
+        "min-width": "0px",
+        "opacity": "1",
+        "orphans": "2",
+        "outline-color": "rgb(109, 138, 196)",
+        "outline-style": "none",
+        "outline-width": "0px",
+        "overflow-x": "visible",
+        "overflow-y": "visible",
+        "padding-bottom": "0px",
+        "padding-left": "0px",
+        "padding-right": "0px",
+        "padding-top": "0px",
+        "page-break-after": "auto",
+        "page-break-before": "auto",
+        "page-break-inside": "auto",
+        "pointer-events": "auto",
+        "position": "static",
+        "resize": "none",
+        "shape-rendering": "auto",
+        "speak": "normal",
+        "stop-color": "rgb(0, 0, 0)",
+        "stop-opacity": "1",
+        "stroke": "none",
+        "stroke-dasharray": "none",
+        "stroke-dashoffset": "0",
+        "stroke-linecap": "butt",
+        "stroke-linejoin": "miter",
+        "stroke-miterlimit": "4",
+        "stroke-opacity": "1",
+        "stroke-width": "1",
+        "table-layout": "auto",
+        "text-align": "-webkit-auto",
+        "text-anchor": "start",
+        "text-decoration": "none",
+        "text-indent": "0px",
+        "text-overflow": "clip",
+        "text-rendering": "auto",
+        "text-shadow": "none",
+        "text-transform": "none",
+        "unicode-bidi": "normal",
+        "vector-effect": "none",
+        "vertical-align": "baseline",
+        "visibility": "visible",
+        "white-space": "normal",
+        "widows": "2",
+        "word-break": "normal",
+        "word-spacing": "0px",
+        "word-wrap": "normal",
+        "writing-mode": "lr-tb",
+        "z-index": "auto",
+        "zoom": "1"
+      },
+      "element": "img",
+      "path": "div > div > div > div > section > div > article > a > div",
+      "src": "http://media.npr.org/assets/img/2013/08/10/russiatanks_sq-37bd8d610598957c205747898ec60b1547e438ec.jpg?s=16"
     },
     {
       "bound": {
         "height": 63,
         "left": 1491,
-        "top": 507,
+        "top": 525,
         "width": 63
       },
       "computed": {
@@ -14335,13 +14483,13 @@
       },
       "element": "img",
       "path": "div > div > div > div > section > div > article > a > div",
-      "src": "http://media.npr.org/assets/img/2013/08/09/96263974_sq-760afc597899e4a08fca310f1b2ebcfbd5e20c55.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/10/ap516406806287_sq-e137a13d1b697d3b7f2d2f999cf7c1ce4a53d8bd.jpg?s=16"
     },
     {
       "bound": {
         "height": 150,
         "left": 15,
-        "top": 8333,
+        "top": 2943,
         "width": 300
       },
       "computed": {
