@@ -330,10 +330,22 @@
         "overflow-y": "hidden",
         "position": "absolute"
       },
-      "element": "a#skiplink:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "skiplink",
+        "name": "a"
+      },
       "html": "Skip to Main Content",
-      "path": "a",
-      "selector": "a#skiplink:nth-of-type(1)",
+      "path": [
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "skiplink",
+          "name": "a"
+        }
+      ],
       "text": [
         "Skip to Main Content"
       ]
@@ -360,10 +372,42 @@
         "text-align": "left",
         "text-indent": "-139986px"
       },
-      "element": "a.search-toggle:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "search-toggle"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Toggle search",
-      "path": "header > div > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > a.search-toggle:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "search-toggle"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Toggle search"
       ]
@@ -391,10 +435,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Stations",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.stations:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "stations"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Stations"
       ]
@@ -422,10 +516,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Donate",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.donate:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "donate"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Donate"
       ]
@@ -453,10 +597,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Shop",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.nprshop:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "nprshop"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Shop"
       ]
@@ -483,10 +677,61 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Sign In/Register",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.loggedOut.login-reg:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "loggedOut",
+            "login-reg"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Sign In/Register"
       ]
@@ -514,10 +759,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.news:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "news"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -545,10 +840,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.artslife:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "artslife"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -576,10 +921,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.music:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "music"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -607,10 +1002,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.listen:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "listen"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -637,10 +1082,68 @@
         "text-transform": "uppercase",
         "vertical-align": "middle"
       },
-      "element": "span.tag:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "tag"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "The Economy Explained",
-      "path": "div > div > section > header > div > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > div.branding:nth-of-type(2) > a:nth-of-type(1) > span.tag:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "tag"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "The Economy Explained"
       ]
@@ -669,10 +1172,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "About",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId135599807:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId135599807"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "About"
       ]
@@ -703,10 +1266,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Podcast",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId127413729:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId127413729"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Podcast"
       ]
@@ -737,10 +1360,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Radio",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId135511603:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId135511603"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Radio"
       ]
@@ -771,10 +1454,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "This American Life",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId135573355:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId135573355"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "This American Life"
       ]
@@ -804,10 +1547,55 @@
         "text-transform": "lowercase",
         "z-index": "0"
       },
-      "element": "p.category:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "category"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "<a href=\"http://www.npr.org/blogs/money/135511603/radio\">Radio</a>",
-      "path": "div > div > section > article > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > p.category:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "category"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Radio"
       ]
@@ -828,10 +1616,59 @@
         "margin-top": "15px",
         "position": "static"
       },
-      "element": "h1:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h1"
+      },
       "html": "Egypt May Not Need Fighter Jets, But The U.S. Keeps Sending Them Anyway",
-      "path": "div > div > section > article > div > h1",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.storytitle:nth-of-type(1) > h1:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "storytitle"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        }
+      ],
       "text": [
         "Egypt May Not Need Fighter Jets, But The U.S. Keeps Sending Them Anyway"
       ]
@@ -855,10 +1692,78 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "p.byline:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "byline"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "by <span>Julia Simon</span>",
-      "path": "div > div > section > article > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#story-meta:nth-of-type(2) > div#storybyline.linkLocation:nth-of-type(1) > div#res209878276.bucketwrap.byline:nth-of-type(1) > p.byline:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "story-meta",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "linkLocation"
+          ],
+          "id": "storybyline",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "byline"
+          ],
+          "id": "res209878276",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "byline"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "by ",
         "Julia Simon"
@@ -883,10 +1788,61 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "div.dateblock:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "dateblock"
+        ],
+        "id": "",
+        "name": "div"
+      },
       "html": "\n            <time datetime=\"2013-08-08\"><span class=\"date\">August 08, 2013</span><span class=\"time\"> 3:13 AM</span></time>\n   ",
-      "path": "div > div > section > article > div > div",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#story-meta:nth-of-type(2) > div.dateblock:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "story-meta",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "dateblock"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
       "text": [
         "August 08, 2013",
         " 3:13 AM"
@@ -915,10 +1871,90 @@
         "overflow-x": "hidden",
         "overflow-y": "hidden"
       },
-      "element": "h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
       "html": "Audio Unavailable",
-      "path": "div > div > section > article > div > div > div > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#primaryaudio.linkLocation.storylocation:nth-of-type(3) > div#res210063629.bucketwrap.medium.primary.resaudio:nth-of-type(1) > div.audio.enhance-replace.resaudio:nth-of-type(1) > div.avcontent.listen:nth-of-type(2) > h3:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation"
+          ],
+          "id": "primaryaudio",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "medium",
+            "primary",
+            "resaudio"
+          ],
+          "id": "res210063629",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "audio",
+            "enhance-replace",
+            "resaudio"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "avcontent",
+            "listen"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "Audio Unavailable"
       ]
@@ -942,10 +1978,90 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Try one of our other <a href=\"/listen\">listening options</a>",
-      "path": "div > div > section > article > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#primaryaudio.linkLocation.storylocation:nth-of-type(3) > div#res210063629.bucketwrap.medium.primary.resaudio:nth-of-type(1) > div.audio.enhance-replace.resaudio:nth-of-type(1) > div.avcontent.listen:nth-of-type(2) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation"
+          ],
+          "id": "primaryaudio",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "medium",
+            "primary",
+            "resaudio"
+          ],
+          "id": "res210063629",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "audio",
+            "enhance-replace",
+            "resaudio"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "avcontent",
+            "listen"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Try one of our other ",
         "listening options"
@@ -974,10 +2090,87 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "An American F-16 fighter plane arrives at an airbase in Egypt on March 27, 1982.",
-      "path": "div > div > section > article > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res209881889.bucketwrap.image.large:nth-of-type(1) > div.captionwrap:nth-of-type(2) > div.caption:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res209881889",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "An American F-16 fighter plane arrives at an airbase in Egypt on March 27, 1982."
       ]
@@ -1005,10 +2198,75 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "span.creditwrap:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "creditwrap"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "<span class=\"credit\">Foley</span>/<span class=\"rightsnotice\">AP</span>",
-      "path": "div > div > section > article > div > div > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res209881889.bucketwrap.image.large:nth-of-type(1) > span.creditwrap:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res209881889",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "creditwrap"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "Foley",
         "/",
@@ -1040,10 +2298,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Every year, the U.S. Congress appropriates more than $1 billion in military aid to Egypt. But that money never gets to Egypt. It goes to the Federal Reserve Bank of New York, then to a trust fund at the Treasury and, finally, out to U.S. military contractors that make the tanks and fighter jets that ultimately get sent to Egypt.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Every year, the U.S. Congress appropriates more than $1 billion in military aid to Egypt. But that money never gets to Egypt. It goes to the Federal Reserve Bank of New York, then to a trust fund at the Treasury and, finally, out to U.S. military contractors that make the tanks and fighter jets that ultimately get sent to Egypt."
       ]
@@ -1073,10 +2382,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(2)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "The U.S. started sending M1A1 Abrams tanks to Egypt in the late '80s. In all, the U.S. sent more than 1,000 tanks to Egypt since then — valued at some $3.9 billion — which Egypt maintains along with several thousand Soviet-era tanks.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "The U.S. started sending M1A1 Abrams tanks to Egypt in the late '80s. In all, the U.S. sent more than 1,000 tanks to Egypt since then — valued at some $3.9 billion — which Egypt maintains along with several thousand Soviet-era tanks."
       ]
@@ -1106,10 +2466,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(3)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"There's no conceivable scenario in which they'd need all those tanks short of an alien invasion,\" Shana Marshall of the Institute of Middle East Studies at George Washington University, told me.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(3)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"There's no conceivable scenario in which they'd need all those tanks short of an alien invasion,\" Shana Marshall of the Institute of Middle East Studies at George Washington University, told me."
       ]
@@ -1139,10 +2550,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(4)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "A thousand tanks would be helpful for large land battles, but not for the threats facing Egypt today, such as terrorism and border security in the Sinai Peninsula, according to Robert Springborg, an expert on the Egyptian military at the Naval Postgraduate School in Monterey, Calif. In fact, he said, at least 200 of the tanks the U.S. has sent to Egypt have never been used.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(4)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "A thousand tanks would be helpful for large land battles, but not for the threats facing Egypt today, such as terrorism and border security in the Sinai Peninsula, according to Robert Springborg, an expert on the Egyptian military at the Naval Postgraduate School in Monterey, Calif. In fact, he said, at least 200 of the tanks the U.S. has sent to Egypt have never been used."
       ]
@@ -1172,10 +2634,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(5)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"They are crated up and then they sit in deep storage, and that's where they remain,\" he told me.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(5)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"They are crated up and then they sit in deep storage, and that's where they remain,\" he told me."
       ]
@@ -1205,10 +2718,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(6)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "The story with F-16 fighter jets is similar. Since 1980, we've sent Egypt 221 fighter jets, valued at $8 billion. \"Our American military advisers in Cairo have for many years been advising against further acquisitions of F-16s,\" Springborg said. Egypt already has more F-16s than it needs, he said.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(6)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "The story with F-16 fighter jets is similar. Since 1980, we've sent Egypt 221 fighter jets, valued at $8 billion. \"Our American military advisers in Cairo have for many years been advising against further acquisitions of F-16s,\" Springborg said. Egypt already has more F-16s than it needs, he said."
       ]
@@ -1238,10 +2802,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(7)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "I asked the State Department why the U.S. is giving Egypt weapons against the advice of its own military personnel. (The State Department, along with Congress, gives final approval on the weapons we send to Egypt.) Regarding those unused tanks, an official told me via email, it's not usual for a country to \"maintain a portion of its equipment in reserve in the event of security contingencies.\" The U.S. decides which weapons to send to countries like Egypt \"in consultation with our partners' own determination of their strategic and force structure requirements,\" the email added.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(7)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "I asked the State Department why the U.S. is giving Egypt weapons against the advice of its own military personnel. (The State Department, along with Congress, gives final approval on the weapons we send to Egypt.) Regarding those unused tanks, an official told me via email, it's not usual for a country to \"maintain a portion of its equipment in reserve in the event of security contingencies.\" The U.S. decides which weapons to send to countries like Egypt \"in consultation with our partners' own determination of their strategic and force structure requirements,\" the email added."
       ]
@@ -1271,10 +2886,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(8)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "I met with a high-ranking official in the Egyptian military who confirmed that the Egyptian military does request those tanks and fighter jets because it believes they're crucial for Egypt's security. And, he said, \"the U.S. wouldn't have given us weapons they didn't want us to have.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(8)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "I met with a high-ranking official in the Egyptian military who confirmed that the Egyptian military does request those tanks and fighter jets because it believes they're crucial for Egypt's security. And, he said, \"the U.S. wouldn't have given us weapons they didn't want us to have.\""
       ]
@@ -1304,10 +2970,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(9)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "The U.S. wants Egypt to have them in part because of people like Bruce Baron, president of Baron Industries, a small business in Oxford, Mich. \"The aid that we give to Egypt is coming back to the U.S. and keeping 30 of my people working,\" Baron told me. Specifically, he said, 30 of his 57 employees are working on parts for the M1A1 Abrams tanks that we give to Egypt.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(9)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "The U.S. wants Egypt to have them in part because of people like Bruce Baron, president of Baron Industries, a small business in Oxford, Mich. \"The aid that we give to Egypt is coming back to the U.S. and keeping 30 of my people working,\" Baron told me. Specifically, he said, 30 of his 57 employees are working on parts for the M1A1 Abrams tanks that we give to Egypt."
       ]
@@ -1337,10 +3054,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(10)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Every March for the past few years, Baron says, he and other small-business owners have gone to Capitol Hill at the invitation of General Dynamics, a big contractor. They visit their congressmen and \"let them know of our support for these programs and also the impact that these programs have on employment,\" he says.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(10)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Every March for the past few years, Baron says, he and other small-business owners have gone to Capitol Hill at the invitation of General Dynamics, a big contractor. They visit their congressmen and \"let them know of our support for these programs and also the impact that these programs have on employment,\" he says."
       ]
@@ -1370,10 +3138,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(11)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Former Republican congressman Jim Kolbe often received visits from military contractors like Baron. Before he retired in 2007, Kolbe was the chairman of the appropriations subcommittee that approves the military aid we give to Egypt. But when I talked to Kolbe recently, he said that \"legitimate questions need to be asked of the Egyptian military.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(11)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Former Republican congressman Jim Kolbe often received visits from military contractors like Baron. Before he retired in 2007, Kolbe was the chairman of the appropriations subcommittee that approves the military aid we give to Egypt. But when I talked to Kolbe recently, he said that \"legitimate questions need to be asked of the Egyptian military.\""
       ]
@@ -1403,10 +3222,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(12)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"What is the objective of of the military these days? What do you see as the real threat?\" he said.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(12)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"What is the objective of of the military these days? What do you see as the real threat?\" he said."
       ]
@@ -1436,10 +3306,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(13)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "In a perfect world, he said, the U.S. wouldn't be sending more F-16s and M1A1s to Egypt. \"I think the Egyptian military needs to be doing more hard thinking about some of those things,\" Kolbe said. \"Big toys are things that generals and military people like to have around.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(13)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "In a perfect world, he said, the U.S. wouldn't be sending more F-16s and M1A1s to Egypt. \"I think the Egyptian military needs to be doing more hard thinking about some of those things,\" Kolbe said. \"Big toys are things that generals and military people like to have around.\""
       ]
@@ -1469,10 +3390,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(14)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "But, Kolbe said, the State Department doesn't want to upset the status quo, the Defense Department doesn't want to upset a valuable ally in the region, and, of course, defense contractors want to keep their contracts.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(14)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "But, Kolbe said, the State Department doesn't want to upset the status quo, the Defense Department doesn't want to upset a valuable ally in the region, and, of course, defense contractors want to keep their contracts."
       ]
@@ -1500,10 +3472,78 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.sharemaintab:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "sharemaintab"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Share",
-      "path": "div > div > section > article > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > a.sharemaintab:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharemaintab"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Share"
       ]
@@ -1534,10 +3574,102 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.facebook.fbStory209878158:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "facebook",
+          "fbStory209878158"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"name\">Facebook</span>",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.facebookLi:nth-of-type(1) > a.facebook.fbStory209878158:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "facebookLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "facebook",
+            "fbStory209878158"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Facebook"
       ]
@@ -1568,10 +3700,104 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.retweetStory.story209878158.twitter:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "retweetStory",
+          "story209878158",
+          "twitter"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"name\">Twitter</span>",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.twitterLi:nth-of-type(2) > a.retweetStory.story209878158.twitter:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "twitterLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "retweetStory",
+            "story209878158",
+            "twitter"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Twitter"
       ]
@@ -1602,10 +3828,104 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Google+",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > div > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.googlePlusLi:nth-of-type(3) > div.g-interactivepost:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "googlePlusLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "g-interactivepost"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Google+"
       ]
@@ -1636,10 +3956,102 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.eaf_link.email:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "eaf_link",
+          "email"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Email",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.email:nth-of-type(4) > a.eaf_link.email:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "email"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "eaf_link",
+            "email"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Email"
       ]
@@ -1676,10 +4088,87 @@
         "position": "absolute",
         "text-align": "center"
       },
-      "element": "span.count:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "count"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "193",
-      "path": "div > div > section > article > div > ul > li > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.comment:nth-of-type(2) > a.comment-count.multiple-comments:nth-of-type(1) > span.count:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "comment"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "comment-count",
+            "multiple-comments"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "count"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "193"
       ]
@@ -1707,10 +4196,80 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.comment-count.multiple-comments:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "comment-count",
+          "multiple-comments"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"count\">193</span><span class=\"name\">Comment</span>",
-      "path": "div > div > section > article > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.comment:nth-of-type(2) > a.comment-count.multiple-comments:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "comment"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "comment-count",
+            "multiple-comments"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Comment"
       ]
@@ -1745,10 +4304,63 @@
         "padding-right": "15px",
         "padding-top": "30px"
       },
-      "element": "a#prev_nav.prev:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "prev"
+        ],
+        "id": "prev_nav",
+        "name": "a"
+      },
       "html": "NYT Excerpt: The Case For Simple Bank Rules<span class=\"date\">August 7, 2013</span><span class=\"icon\"></span>",
-      "path": "div > div > section > article > div > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.pnnavwrap:nth-of-type(6) > a#prev_nav.prev:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "prev"
+          ],
+          "id": "prev_nav",
+          "name": "a"
+        }
+      ],
       "text": [
         "NYT Excerpt: The Case For Simple Bank Rules"
       ]
@@ -1772,10 +4384,71 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "absolute"
       },
-      "element": "span.date:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "date"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "August 7, 2013",
-      "path": "div > div > section > article > div > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.pnnavwrap:nth-of-type(6) > a#prev_nav.prev:nth-of-type(1) > span.date:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "prev"
+          ],
+          "id": "prev_nav",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "date"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "August 7, 2013"
       ]
@@ -1811,10 +4484,63 @@
         "padding-top": "30px",
         "text-align": "right"
       },
-      "element": "a#next_nav.next:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "next"
+        ],
+        "id": "next_nav",
+        "name": "a"
+      },
       "html": "Tourre Juror: 'We Saw Goldman As The Bigger Problem'<span class=\"date\">August 9, 2013</span><span class=\"icon\"></span>",
-      "path": "div > div > section > article > div > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.pnnavwrap:nth-of-type(6) > a#next_nav.next:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "next"
+          ],
+          "id": "next_nav",
+          "name": "a"
+        }
+      ],
       "text": [
         "Tourre Juror: 'We Saw Goldman As The Bigger Problem'"
       ]
@@ -1839,10 +4565,71 @@
         "position": "absolute",
         "text-align": "right"
       },
-      "element": "span.date:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "date"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "August 9, 2013",
-      "path": "div > div > section > article > div > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.pnnavwrap:nth-of-type(6) > a#next_nav.next:nth-of-type(2) > span.date:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "next"
+          ],
+          "id": "next_nav",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "date"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "August 9, 2013"
       ]
@@ -1860,10 +4647,67 @@
         "margin-bottom": "11px",
         "position": "static"
       },
-      "element": "h5#login-overlay-link.commentBoxNotLoggedIn:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "commentBoxNotLoggedIn"
+        ],
+        "id": "login-overlay-link",
+        "name": "h5"
+      },
       "html": "You must be signed in to leave a comment. <a href=\"/templates/reg/login.php?returnUrl=%2Fblogs%2Fmoney%2F2013%2F08%2F08%2F209878158%2Fegypt-may-not-need-fighter-jets-but-u-s-keeps-sending-them-anyway%23commentBlock\">Sign In / Register</a>",
-      "path": "div > div > section > article > div > div > h5",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#commentBlock:nth-of-type(7) > div#disqus-npr:nth-of-type(1) > h5#login-overlay-link.commentBoxNotLoggedIn:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "h5"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "commentBlock",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "disqus-npr",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "commentBoxNotLoggedIn"
+          ],
+          "id": "login-overlay-link",
+          "name": "h5"
+        }
+      ],
       "text": [
         "You must be signed in to leave a comment. ",
         "Sign In / Register"
@@ -1889,10 +4733,63 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Please keep your community civil. All comments must follow the <a href=\"http://npr.org/discussionrules\" target=\"new\">NPR.org Community rules</a> and <a href=\"http://www.npr.org/about/termsofuse.html\" target=\"new\">terms of use</a>, and will be moderated prior to posting. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the <a href=\"http://www.npr.org/about/termsofuse.html\" target=\"new\">Terms of Use</a>, <a href=\"http://www.npr.org/about/privacypolicy.html\" target=\"new\">Privacy Policy</a> and <a href=\"http://npr.org/communityfaq\" target=\"new\">Community FAQ</a>.",
-      "path": "div > div > section > article > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#commentBlock:nth-of-type(7) > div#disqus-npr:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "commentBlock",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "disqus-npr",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Please keep your community civil. All comments must follow the ",
         "NPR.org Community rules",
@@ -1928,10 +4825,66 @@
         "text-transform": "uppercase",
         "vertical-align": "middle"
       },
-      "element": "span.tag:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "tag"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "The Economy Explained",
-      "path": "div > div > section > footer > div > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.branding:nth-of-type(1) > a:nth-of-type(1) > span.tag:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "tag"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "The Economy Explained"
       ]
@@ -1956,10 +4909,71 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "About",
-      "path": "div > div > section > footer > div > div > h3 > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.first.module:nth-of-type(1) > h3:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "first",
+            "module"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "About"
       ]
@@ -1984,10 +4998,91 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Imagine you could call up a friend and say, \"Meet me at the bar and tell me what's going on with the economy.\" Now imagine that's actually a fun evening. That's what we're going for at <em>Planet Money</em>. Want to know more? <a href=\"http://www.npr.org/blogs/money/2011/04/27/135599807/about-planet-money\">Check out our \"about\" page</a>. Want to connect with the <em>Planet Money</em> team? <a href=\"https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=planetmoney@npr.org\">Send us an email</a>.",
-      "path": "div > div > section > footer > div > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.first.module:nth-of-type(1) > div#footer_module.agglocation.linkLocation:nth-of-type(1) > div#res163939331.bucketwrap.listtext:nth-of-type(1) > div.bucket:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "first",
+            "module"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "agglocation",
+            "linkLocation"
+          ],
+          "id": "footer_module",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "listtext"
+          ],
+          "id": "res163939331",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Imagine you could call up a friend and say, \"Meet me at the bar and tell me what's going on with the economy.\" Now imagine that's actually a fun evening. That's what we're going for at ",
         "Planet Money",
@@ -2020,10 +5115,71 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Subscribe",
-      "path": "div > div > section > footer > div > div > h3 > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > h3:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Subscribe"
       ]
@@ -2052,10 +5208,87 @@
         "padding-left": "60px",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Podcast",
-      "path": "div > div > section > footer > div > div > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > div:nth-of-type(1) > ul.subscribe:nth-of-type(1) > li.podcast:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subscribe"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "podcast"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Podcast"
       ]
@@ -2084,10 +5317,87 @@
         "padding-left": "60px",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "RSS",
-      "path": "div > div > section > footer > div > div > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > div:nth-of-type(1) > ul.subscribe:nth-of-type(1) > li.rss:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subscribe"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "rss"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "RSS"
       ]
@@ -2116,10 +5426,87 @@
         "padding-left": "60px",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "@planetmoney",
-      "path": "div > div > section > footer > div > div > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > div:nth-of-type(1) > ul.subscribe:nth-of-type(1) > li.twitter:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subscribe"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "twitter"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "@planetmoney"
       ]
@@ -2148,10 +5535,87 @@
         "padding-left": "60px",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Facebook",
-      "path": "div > div > section > footer > div > div > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > div:nth-of-type(1) > ul.subscribe:nth-of-type(1) > li.facebook:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subscribe"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "facebook"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Facebook"
       ]
@@ -2176,10 +5640,71 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Planet Money App",
-      "path": "div > div > section > footer > div > div > h3 > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.third:nth-of-type(3) > h3:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Planet Money App"
       ]
@@ -2205,10 +5730,75 @@
         "outline-color": "rgb(51, 51, 51)",
         "position": "static"
       },
-      "element": "h4:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
       "html": "A Pocketful of Planet Money",
-      "path": "div > div > section > footer > div > div > div > h4",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.third:nth-of-type(3) > div.app-promo.money-promo.promo-bucket:nth-of-type(1) > h4:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "app-promo",
+            "money-promo",
+            "promo-bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
       "text": [
         "A Pocketful of Planet Money"
       ]
@@ -2232,10 +5822,79 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "p.more:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "more"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "<a href=\"https://itunes.apple.com/us/app/planet-money/id529827672?mt=8\">Get the app</a>",
-      "path": "div > div > section > footer > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.third:nth-of-type(3) > div.app-promo.money-promo.promo-bucket:nth-of-type(1) > p.more:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "app-promo",
+            "money-promo",
+            "promo-bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "more"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Get the app"
       ]
@@ -2256,10 +5915,58 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "div.ad-88-text:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "ad-88-text"
+        ],
+        "id": "",
+        "name": "div"
+      },
       "html": "Support comes from:",
-      "path": "div > div > section > div > div > div",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > div#ad-88-wrap:nth-of-type(1) > div#ad-88:nth-of-type(1) > div.ad-88-text:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "ad-88-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-88",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad-88-text"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
       "text": [
         "Support comes from:"
       ]
@@ -2289,10 +5996,64 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "NPR Home",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li.home:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "home"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "NPR Home"
       ]
@@ -2324,10 +6085,64 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li.active:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "active"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -2357,10 +6172,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -2390,10 +6257,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -2423,10 +6342,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -2454,10 +6425,44 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p.left:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "left"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "NPR thanks our sponsors",
-      "path": "div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#ad-desktop-wrap:nth-of-type(1) > p.left:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-desktop-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "NPR thanks our sponsors"
       ]
@@ -2479,10 +6484,44 @@
         "margin-top": "11px",
         "position": "static"
       },
-      "element": "p.right:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "right"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "<a href=\"/about/place/corpsupport/\">Become an NPR sponsor</a>",
-      "path": "div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#ad-desktop-wrap:nth-of-type(1) > p.right:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-desktop-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "right"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Become an NPR sponsor"
       ]
@@ -2510,10 +6549,52 @@
         "padding-top": "44px",
         "position": "static"
       },
-      "element": "h4:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
       "html": "More From Planet Money",
-      "path": "div > div > div > div > section > h4",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > h4:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
       "text": [
         "More From Planet Money"
       ]
@@ -2541,10 +6622,89 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
       "html": "Planet Money",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211755766.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211755766",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
         "Planet Money"
       ]
@@ -2570,10 +6730,85 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
       "html": "Airline Chart Calls Mergers 'The New Holy Grail' ",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211755766.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211755766",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "Airline Chart Calls Mergers 'The New Holy Grail' "
       ]
@@ -2601,10 +6836,89 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
       "html": "Planet Money",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211807706.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211807706",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
         "Planet Money"
       ]
@@ -2630,10 +6944,85 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
       "html": "Episode 479: Behind The Label ",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211807706.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211807706",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "Episode 479: Behind The Label "
       ]
@@ -2661,10 +7050,89 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
       "html": "Planet Money",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210550830.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story210550830",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
         "Planet Money"
       ]
@@ -2690,10 +7158,85 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
       "html": "Episode 478: Rocky Pipkin, Private Eye Vs. The Raisin Outlaw",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210550830.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story210550830",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "Episode 478: Rocky Pipkin, Private Eye Vs. The Raisin Outlaw"
       ]
@@ -2723,10 +7266,60 @@
         "position": "static",
         "text-align": "right"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "More From Planet Money",
-      "path": "div > div > div > div > section > p > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > p.more:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "p",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "more"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "More From Planet Money"
       ]
@@ -2746,10 +7339,51 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "h4:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
       "html": "<a href=\"http://shop.npr.org/?utm_source=Banners&amp;utm_medium=ResponsiveAd&amp;utm_content=General&amp;utm_campaign=300x150\">NPR Shop</a>",
-      "path": "div > div > div > div > h4",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
       "text": [
         "NPR Shop"
       ]
@@ -2775,10 +7409,51 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Support The Programs You Love",
-      "path": "div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Support The Programs You Love"
       ]
@@ -2804,10 +7479,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.news:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "news"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -2833,10 +7556,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.artslife:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "artslife"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -2862,10 +7633,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.music:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "music"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -2891,10 +7710,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Programs",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.programs:nth-of-type(5) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "programs"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Programs"
       ]
@@ -2920,10 +7787,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.listen:nth-of-type(6) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "listen"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -2949,10 +7864,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "About",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.about:nth-of-type(7) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "about"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "About"
       ]
@@ -2978,10 +7941,48 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p.copyright:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "copyright"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "©2013 NPR",
-      "path": "footer > div > div > p",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > p.copyright:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "copyright"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "©2013 NPR"
       ]
@@ -3009,10 +8010,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li#footerContact:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "footerContact",
+        "name": "li"
+      },
       "html": "<a href=\"http://help.npr.org/npr/wf/m/index.aspx\">Contact</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li#footerContact:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "footerContact",
+          "name": "li"
+        }
+      ],
       "text": [
         "Contact"
       ]
@@ -3040,10 +8081,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(2)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179876898/terms-of-use\">Terms of Use</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Terms of Use"
       ]
@@ -3071,10 +8152,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(3)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179878450/privacy-policy\">Privacy</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Privacy"
       ]
@@ -3101,10 +8222,54 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li.sponsorship-choices:nth-of-type(4)",
+      "element": {
+        "classes": [
+          "sponsorship-choices"
+        ],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons\">Sponsorship Choices</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li.sponsorship-choices:nth-of-type(4)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "sponsorship-choices"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Sponsorship Choices"
       ]
@@ -3132,10 +8297,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(5)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"http://thin.npr.org/\">Text-Only</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Text-Only"
       ]
@@ -3160,9 +8365,37 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "header > a > img",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > a.nprhome:nth-of-type(2) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "header",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "nprhome"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/chrome/news/nprlogo_138x46.gif"
     },
     {
@@ -3186,9 +8419,67 @@
         "position": "absolute",
         "vertical-align": "middle"
       },
-      "element": "img.icon:nth-of-type(1)",
-      "path": "div > div > section > header > div > a > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > div.branding:nth-of-type(2) > a:nth-of-type(1) > img.icon:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "icon"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "icon"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/branding/blogs/money/branding_icon-2049217818157ac661fee05d42b0e8b6894aeaaa.png"
     },
     {
@@ -3214,9 +8505,67 @@
         "position": "static",
         "vertical-align": "middle"
       },
-      "element": "img.main:nth-of-type(2)",
-      "path": "div > div > section > header > div > a > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > div.branding:nth-of-type(2) > a:nth-of-type(1) > img.main:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "main"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/branding/blogs/money/branding_main-62f6743a845d787a40b91f03029c8a19b0edfcba.png"
     },
     {
@@ -3230,9 +8579,84 @@
         "background-color": "rgba(0, 0, 0, 0)",
         "position": "static"
       },
-      "element": "img.img.lazyOnLoad:nth-of-type(1)",
-      "path": "div > div > section > article > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res209881889.bucketwrap.image.large:nth-of-type(1) > div.imagewrap:nth-of-type(1) > img.img.lazyOnLoad:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "img",
+          "lazyOnLoad"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res209881889",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "imagewrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "img",
+            "lazyOnLoad"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/07/ap8203270726-a67e34d56e59348d73a2c0cc85ea98feda368a78-s6-c30.jpg"
     },
     {
@@ -3257,9 +8681,65 @@
         "position": "static",
         "vertical-align": "middle"
       },
-      "element": "img.icon:nth-of-type(1)",
-      "path": "div > div > section > footer > div > a > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.branding:nth-of-type(1) > a:nth-of-type(1) > img.icon:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "icon"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "icon"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/branding/blogs/money/branding_icon-2049217818157ac661fee05d42b0e8b6894aeaaa.png"
     },
     {
@@ -3285,9 +8765,65 @@
         "position": "static",
         "vertical-align": "middle"
       },
-      "element": "img.main:nth-of-type(2)",
-      "path": "div > div > section > footer > div > a > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.branding:nth-of-type(1) > a:nth-of-type(1) > img.main:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "main"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/branding/blogs/money/branding_main-62f6743a845d787a40b91f03029c8a19b0edfcba.png"
     },
     {
@@ -3311,9 +8847,80 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > section > footer > div > div > div > a > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.third:nth-of-type(3) > div.app-promo.money-promo.promo-bucket:nth-of-type(1) > a:nth-of-type(1) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "app-promo",
+            "money-promo",
+            "promo-bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/images/planet-money-app-blog-promo.png"
     },
     {
@@ -3335,9 +8942,84 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > section > div > article > a > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211755766.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.storyimg:nth-of-type(2) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211755766",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/13/holy_grail_sq-d320804d6adae6fcebcbd545b21ad18352c63335.jpg?s=16"
     },
     {
@@ -3359,9 +9041,84 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > section > div > article > a > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211807706.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.storyimg:nth-of-type(2) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211807706",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/13/ap091215023358_sq-de9fd10491b657752af5f7d925b11c04961ff69f.jpg?s=16"
     },
     {
@@ -3383,9 +9140,84 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > section > div > article > a > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210550830.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyimg:nth-of-type(2) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story210550830",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/09/ap060410025294_sq-fb4ba46c596ec1accf669b2beb47241049503403.jpg?s=16"
     },
     {
@@ -3403,9 +9235,50 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/images/shop_300x150-04.jpg"
     }
   ]

@@ -246,10 +246,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fthesalt%2F2013%2F08%2F09%2F210567774%2Fwatermelon-babies-of-china-your-friday-moment-of-zen",
     "http://www.npr.org/about/place/corpsupport/",
+    "http://www.npr.org/blogs/thesalt/2013/08/15/212342707/can-quinoa-farming-go-global-without-leaving-andeans-behind",
+    "http://www.npr.org/blogs/thesalt/2013/08/14/212024490/even-carnivores-are-putting-more-fake-meat-on-their-plates",
+    "http://www.npr.org/blogs/thesalt/2013/08/12/211399891/if-you-liked-that-wine-you-shouldve-put-a-ring-on-it",
     "http://www.npr.org/blogs/thesalt/2013/08/12/211372152/how-a-seed-saver-discovered-one-of-our-favorite-tomatoes",
-    "http://www.npr.org/blogs/thesalt/2013/08/14/211784739/listeria-outbreak-still-haunts-colorados-cantaloupe-growers",
-    "http://www.npr.org/blogs/thesalt/2013/08/13/211717907/chipotle-changes-antibiotic-free-policy-oops-no-it-doesnt",
-    "http://www.npr.org/blogs/thesalt/2013/08/13/211685454/in-iraq-laying-claim-to-the-kebab",
     "http://www.npr.org/blogs/thesalt/",
     "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -345,10 +345,22 @@
         "overflow-y": "hidden",
         "position": "absolute"
       },
-      "element": "a#skiplink:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "skiplink",
+        "name": "a"
+      },
       "html": "Skip to Main Content",
-      "path": "a",
-      "selector": "a#skiplink:nth-of-type(1)",
+      "path": [
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "skiplink",
+          "name": "a"
+        }
+      ],
       "text": [
         "Skip to Main Content"
       ]
@@ -375,10 +387,42 @@
         "text-align": "left",
         "text-indent": "-139986px"
       },
-      "element": "a.search-toggle:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "search-toggle"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Toggle search",
-      "path": "header > div > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > a.search-toggle:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "search-toggle"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Toggle search"
       ]
@@ -406,10 +450,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Stations",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.stations:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "stations"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Stations"
       ]
@@ -437,10 +531,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Donate",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.donate:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "donate"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Donate"
       ]
@@ -468,10 +612,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Shop",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.nprshop:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "nprshop"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Shop"
       ]
@@ -498,10 +692,61 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Sign In/Register",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.loggedOut.login-reg:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "loggedOut",
+            "login-reg"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Sign In/Register"
       ]
@@ -529,10 +774,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.news:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "news"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -560,10 +855,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.artslife:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "artslife"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -591,10 +936,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.music:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "music"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -622,10 +1017,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.listen:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "listen"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -652,10 +1097,68 @@
         "text-transform": "uppercase",
         "vertical-align": "middle"
       },
-      "element": "span.tag:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "tag"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "What's On Your Plate",
-      "path": "div > div > section > header > div > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > div.branding:nth-of-type(2) > a:nth-of-type(1) > span.tag:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "tag"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "What's On Your Plate"
       ]
@@ -684,10 +1187,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Eating And Health",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId161357410:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId161357410"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Eating And Health"
       ]
@@ -718,10 +1281,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Foodways",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId161357400:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId161357400"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Foodways"
       ]
@@ -752,10 +1375,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Producers",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId161357402:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId161357402"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Producers"
       ]
@@ -786,10 +1469,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Food For Thought",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId161357412:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId161357412"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Food For Thought"
       ]
@@ -820,10 +1563,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "For Foodies",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId161357398:nth-of-type(5) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId161357398"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "For Foodies"
       ]
@@ -853,10 +1656,55 @@
         "text-transform": "lowercase",
         "z-index": "0"
       },
-      "element": "p.category:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "category"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "<a href=\"http://www.npr.org/blogs/thesalt/161357412/food-for-thought\">Food For Thought</a>",
-      "path": "div > div > section > article > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > p.category:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "category"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Food For Thought"
       ]
@@ -877,10 +1725,59 @@
         "margin-top": "15px",
         "position": "static"
       },
-      "element": "h1:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h1"
+      },
       "html": "Watermelon Babies Of China: Your Friday Moment Of Zen",
-      "path": "div > div > section > article > div > h1",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.storytitle:nth-of-type(1) > h1:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "storytitle"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        }
+      ],
       "text": [
         "Watermelon Babies Of China: Your Friday Moment Of Zen"
       ]
@@ -904,10 +1801,78 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "p.byline:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "byline"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "by <span>Maria  Godoy</span>",
-      "path": "div > div > section > article > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#story-meta:nth-of-type(2) > div#storybyline.linkLocation:nth-of-type(1) > div#res210567776.bucketwrap.byline:nth-of-type(1) > p.byline:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "story-meta",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "linkLocation"
+          ],
+          "id": "storybyline",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "byline"
+          ],
+          "id": "res210567776",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "byline"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "by ",
         "Maria  Godoy"
@@ -932,10 +1897,61 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "div.dateblock:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "dateblock"
+        ],
+        "id": "",
+        "name": "div"
+      },
       "html": "\n            <time datetime=\"2013-08-09\"><span class=\"date\">August 09, 2013</span><span class=\"time\"> 5:32 PM</span></time>\n   ",
-      "path": "div > div > section > article > div > div",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#story-meta:nth-of-type(2) > div.dateblock:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "story-meta",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "dateblock"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
       "text": [
         "August 09, 2013",
         " 5:32 PM"
@@ -964,10 +1980,87 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<strong>Mom, I'm not so sure about this: </strong>An example of the photos of babies dressed as watermelons being shared by Chinese Internet users.",
-      "path": "div > div > section > article > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210575055.bucketwrap.image.large:nth-of-type(1) > div.captionwrap:nth-of-type(2) > div.caption:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210575055",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Mom, I'm not so sure about this: ",
         "An example of the photos of babies dressed as watermelons being shared by Chinese Internet users."
@@ -996,10 +2089,75 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "span.creditwrap:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "creditwrap"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "<span class=\"rightsnotice\"><a href=\"http://www.dx365.cc/forum.php?mod=viewthread&amp;tid=3368\">dx365</a></span>",
-      "path": "div > div > section > article > div > div > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210575055.bucketwrap.image.large:nth-of-type(1) > span.creditwrap:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210575055",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "creditwrap"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "dx365"
       ]
@@ -1029,10 +2187,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Babies come in pretty cute packaging — we're pretty sure it has something to do with Mother Nature wanting you to coo over a burping, pooping little freeloader. But now Chinese Internet users have found a way to one-up nature: They're wrapping those already adorable babes in watermelons.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Babies come in pretty cute packaging — we're pretty sure it has something to do with Mother Nature wanting you to coo over a burping, pooping little freeloader. But now Chinese Internet users have found a way to one-up nature: They're wrapping those already adorable babes in watermelons."
       ]
@@ -1062,10 +2271,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(2)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Yep, watermelons.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Yep, watermelons."
       ]
@@ -1095,10 +2355,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(3)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Apparently, the melon children meme started circulating in July, when <a href=\"http://english.sina.com/china/p/2013/0721/610768.html\">this little guy</a> dressed in watermelon overalls showed up on the streets of Wenzhou, a city in Zhejiang province, the Chinese news agency Xinhua reports.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(3)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Apparently, the melon children meme started circulating in July, when ",
         "this little guy",
@@ -1128,10 +2439,87 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Wenzhou's little trendsetter",
-      "path": "div > div > section > article > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210584960.bucketwrap.image.large:nth-of-type(2) > div.captionwrap:nth-of-type(2) > div.caption:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210584960",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Wenzhou's little trendsetter"
       ]
@@ -1159,10 +2547,75 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "span.creditwrap:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "creditwrap"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "<span class=\"rightsnotice\"><a href=\"http://news.xinhuanet.com/english/photo/2013-07/21/c_132559935_2.htm\">Screengrab from Xinhuanet</a></span>",
-      "path": "div > div > section > article > div > div > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210584960.bucketwrap.image.large:nth-of-type(2) > span.creditwrap:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210584960",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "creditwrap"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "Screengrab from Xinhuanet"
       ]
@@ -1192,10 +2645,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(4)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Photos of the tiny Wenzhou watermelon fashionista soon inspired a wave of online imitators, many looking dapper in melon caps, including this swashbuckling little tyke, according to Chinese media reports.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(4)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Photos of the tiny Wenzhou watermelon fashionista soon inspired a wave of online imitators, many looking dapper in melon caps, including this swashbuckling little tyke, according to Chinese media reports."
       ]
@@ -1223,10 +2727,87 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Warrior melon ...",
-      "path": "div > div > section > article > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210586624.bucketwrap.image.large:nth-of-type(3) > div.captionwrap:nth-of-type(2) > div.caption:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210586624",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Warrior melon ..."
       ]
@@ -1254,10 +2835,75 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "span.creditwrap:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "creditwrap"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "<span class=\"rightsnotice\"><a href=\"http://roll.sohu.com/20130805/n383365096.shtml\">Weibo/roll.sohu.com</a></span>",
-      "path": "div > div > section > article > div > div > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210586624.bucketwrap.image.large:nth-of-type(3) > span.creditwrap:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210586624",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "creditwrap"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "Weibo/roll.sohu.com"
       ]
@@ -1287,10 +2933,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(5)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "(In the middle of a record-setting summer <a href=\"http://www.torontosun.com/2013/08/08/heat-wave-in-china\">heat wave</a>, Chinese parents have to find something to amuse themselves, right?)",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(5)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "(In the middle of a record-setting summer ",
         "heat wave",
@@ -1322,10 +3019,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(6)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "As Brian Ashcraft <a href=\"http://kotaku.com/these-are-chinas-watermelon-kids-1076489968\">writes</a> over at Kotaku, \"not all parents in China are dressing their kids in melon wear, and there isn't an army of watermelon children roaming the street. However, this does seem to be a thing.\" Duly noted.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(6)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "As Brian Ashcraft ",
         "writes",
@@ -1357,10 +3105,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(7)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Of course, the concept of photographing produce-wrapped bundles of joy is hardly new. Photographer Anne Geddes became famous (and rich) with her iconic images of infants as pumpkins, <a href=\"http://farm4.static.flickr.com/3271/2844497791_8bf515f443.jpg\">peas in a pod</a> and, you guessed it, <a href=\"http://www.wallcoo.net/photography/anne_geddes/%5bwallcoo.com%5d_baby_clothes_baby_pictures_012.html\"> watermelon babies.</a> Perhaps Geddes will consider the current Chinese meme a more appropriate tribute to her art than this <a href=\"http://www.vice.com/en_uk/read/a-tribute-to-the-worlds-greatest-photographer-anne-geddes\">Vice spoof</a>. (Oof!)",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(7)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Of course, the concept of photographing produce-wrapped bundles of joy is hardly new. Photographer Anne Geddes became famous (and rich) with her iconic images of infants as pumpkins, ",
         "peas in a pod",
@@ -1395,10 +3194,71 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "food art",
-      "path": "div > div > section > article > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.tags:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "tags"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "food art"
       ]
@@ -1426,10 +3286,78 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.sharemaintab:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "sharemaintab"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Share",
-      "path": "div > div > section > article > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > a.sharemaintab:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharemaintab"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Share"
       ]
@@ -1460,10 +3388,102 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.facebook.fbStory210567774:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "facebook",
+          "fbStory210567774"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"name\">Facebook</span>",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.facebookLi:nth-of-type(1) > a.facebook.fbStory210567774:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "facebookLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "facebook",
+            "fbStory210567774"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Facebook"
       ]
@@ -1494,10 +3514,104 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.retweetStory.story210567774.twitter:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "retweetStory",
+          "story210567774",
+          "twitter"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"name\">Twitter</span>",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.twitterLi:nth-of-type(2) > a.retweetStory.story210567774.twitter:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "twitterLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "retweetStory",
+            "story210567774",
+            "twitter"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Twitter"
       ]
@@ -1528,10 +3642,96 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Google+",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.googlePlusLi:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "googlePlusLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Google+"
       ]
@@ -1562,10 +3762,102 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.eaf_link.email:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "eaf_link",
+          "email"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Email",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.email:nth-of-type(4) > a.eaf_link.email:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "email"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "eaf_link",
+            "email"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Email"
       ]
@@ -1602,10 +3894,87 @@
         "position": "absolute",
         "text-align": "center"
       },
-      "element": "span.count:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "count"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "29",
-      "path": "div > div > section > article > div > ul > li > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.comment:nth-of-type(2) > a.comment-count.multiple-comments:nth-of-type(1) > span.count:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "comment"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "comment-count",
+            "multiple-comments"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "count"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "29"
       ]
@@ -1633,10 +4002,80 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.comment-count.multiple-comments:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "comment-count",
+          "multiple-comments"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"count\">29</span><span class=\"name\">Comment</span>",
-      "path": "div > div > section > article > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.comment:nth-of-type(2) > a.comment-count.multiple-comments:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "comment"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "comment-count",
+            "multiple-comments"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Comment"
       ]
@@ -1671,10 +4110,63 @@
         "padding-right": "15px",
         "padding-top": "30px"
       },
-      "element": "a#prev_nav.prev:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "prev"
+        ],
+        "id": "prev_nav",
+        "name": "a"
+      },
       "html": "Wine Waste Finds Sweet Afterlife In Baked Goods<span class=\"date\">August 9, 2013</span><span class=\"icon\"></span>",
-      "path": "div > div > section > article > div > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.pnnavwrap:nth-of-type(6) > a#prev_nav.prev:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "prev"
+          ],
+          "id": "prev_nav",
+          "name": "a"
+        }
+      ],
       "text": [
         "Wine Waste Finds Sweet Afterlife In Baked Goods"
       ]
@@ -1698,10 +4190,71 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "absolute"
       },
-      "element": "span.date:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "date"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "August 9, 2013",
-      "path": "div > div > section > article > div > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.pnnavwrap:nth-of-type(6) > a#prev_nav.prev:nth-of-type(1) > span.date:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "prev"
+          ],
+          "id": "prev_nav",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "date"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "August 9, 2013"
       ]
@@ -1737,10 +4290,63 @@
         "padding-top": "30px",
         "text-align": "right"
       },
-      "element": "a#next_nav.next:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "next"
+        ],
+        "id": "next_nav",
+        "name": "a"
+      },
       "html": "Did Tyson Ban Doping Cows With Zilmax To Boost Foreign Sales?<span class=\"date\">August 9, 2013</span><span class=\"icon\"></span>",
-      "path": "div > div > section > article > div > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.pnnavwrap:nth-of-type(6) > a#next_nav.next:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "next"
+          ],
+          "id": "next_nav",
+          "name": "a"
+        }
+      ],
       "text": [
         "Did Tyson Ban Doping Cows With Zilmax To Boost Foreign Sales?"
       ]
@@ -1765,10 +4371,71 @@
         "position": "absolute",
         "text-align": "right"
       },
-      "element": "span.date:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "date"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "August 9, 2013",
-      "path": "div > div > section > article > div > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.pnnavwrap:nth-of-type(6) > a#next_nav.next:nth-of-type(2) > span.date:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "next"
+          ],
+          "id": "next_nav",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "date"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "August 9, 2013"
       ]
@@ -1786,10 +4453,67 @@
         "margin-bottom": "11px",
         "position": "static"
       },
-      "element": "h5#login-overlay-link.commentBoxNotLoggedIn:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "commentBoxNotLoggedIn"
+        ],
+        "id": "login-overlay-link",
+        "name": "h5"
+      },
       "html": "You must be signed in to leave a comment. <a href=\"/templates/reg/login.php?returnUrl=%2Fblogs%2Fthesalt%2F2013%2F08%2F09%2F210567774%2Fwatermelon-babies-of-china-your-friday-moment-of-zen%23commentBlock\">Sign In / Register</a>",
-      "path": "div > div > section > article > div > div > h5",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#commentBlock:nth-of-type(7) > div#disqus-npr:nth-of-type(1) > h5#login-overlay-link.commentBoxNotLoggedIn:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "h5"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "commentBlock",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "disqus-npr",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "commentBoxNotLoggedIn"
+          ],
+          "id": "login-overlay-link",
+          "name": "h5"
+        }
+      ],
       "text": [
         "You must be signed in to leave a comment. ",
         "Sign In / Register"
@@ -1815,10 +4539,63 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Please keep your community civil. All comments must follow the <a href=\"http://npr.org/discussionrules\" target=\"new\">NPR.org Community rules</a> and <a href=\"http://www.npr.org/about/termsofuse.html\" target=\"new\">Terms of Use</a>. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the <a href=\"http://www.npr.org/about/termsofuse.html\" target=\"new\">Terms of Use</a>, <a href=\"http://www.npr.org/about/privacypolicy.html\" target=\"new\">Privacy Policy</a> and <a href=\"http://npr.org/communityfaq\" target=\"new\">Community FAQ</a>.",
-      "path": "div > div > section > article > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#commentBlock:nth-of-type(7) > div#disqus-npr:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "commentBlock",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "disqus-npr",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Please keep your community civil. All comments must follow the ",
         "NPR.org Community rules",
@@ -1854,10 +4631,66 @@
         "text-transform": "uppercase",
         "vertical-align": "middle"
       },
-      "element": "span.tag:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "tag"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "What's On Your Plate",
-      "path": "div > div > section > footer > div > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.branding:nth-of-type(1) > a:nth-of-type(1) > span.tag:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "tag"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "What's On Your Plate"
       ]
@@ -1882,10 +4715,71 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "About",
-      "path": "div > div > section > footer > div > div > h3 > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.first.module:nth-of-type(1) > h3:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "first",
+            "module"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "About"
       ]
@@ -1910,10 +4804,91 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "With a pinch of skepticism and a dash of fun, <em>The Salt </em>covers food news from the farm to the plate and beyond. You can connect with senior editor and host Maria Godoy — and the rest of <em>The Salt</em> team — <a href=\"http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx?sid=70\">via our contact form</a> or directly by <a href=\"https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=thesalt@npr.org\">email</a>.",
-      "path": "div > div > section > footer > div > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.first.module:nth-of-type(1) > div#footer_module.agglocation.linkLocation:nth-of-type(1) > div#res163939792.bucketwrap.listtext:nth-of-type(1) > div.bucket:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "first",
+            "module"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "agglocation",
+            "linkLocation"
+          ],
+          "id": "footer_module",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "listtext"
+          ],
+          "id": "res163939792",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "With a pinch of skepticism and a dash of fun, ",
         "The Salt ",
@@ -1946,10 +4921,71 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Subscribe",
-      "path": "div > div > section > footer > div > div > h3 > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > h3:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Subscribe"
       ]
@@ -1978,10 +5014,87 @@
         "padding-left": "60px",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "RSS",
-      "path": "div > div > section > footer > div > div > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > div:nth-of-type(1) > ul.subscribe:nth-of-type(1) > li.rss:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subscribe"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "rss"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "RSS"
       ]
@@ -2010,10 +5123,87 @@
         "padding-left": "60px",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "@NPRFood",
-      "path": "div > div > section > footer > div > div > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > div:nth-of-type(1) > ul.subscribe:nth-of-type(1) > li.twitter:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subscribe"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "twitter"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "@NPRFood"
       ]
@@ -2042,10 +5232,87 @@
         "padding-left": "60px",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "@mgodoyh",
-      "path": "div > div > section > footer > div > div > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > div:nth-of-type(1) > ul.subscribe:nth-of-type(1) > li.twitter:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subscribe"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "twitter"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "@mgodoyh"
       ]
@@ -2070,10 +5337,71 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "NPR Food Twitter",
-      "path": "div > div > section > footer > div > div > h3 > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.third:nth-of-type(3) > h3:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "NPR Food Twitter"
       ]
@@ -2100,10 +5428,74 @@
         "position": "static",
         "text-align": "center"
       },
-      "element": "h4:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
       "html": "<a href=\"http://twitter.com/NPRFood\" title=\"Follow @NPRFood\">Follow @NPRFood</a>",
-      "path": "div > div > section > footer > div > div > div > h4",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.third:nth-of-type(3) > div.promo-bucket.twitter-promo:nth-of-type(1) > h4:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "promo-bucket",
+            "twitter-promo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
       "text": [
         "Follow @NPRFood"
       ]
@@ -2124,10 +5516,58 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "div.ad-88-text:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "ad-88-text"
+        ],
+        "id": "",
+        "name": "div"
+      },
       "html": "Support comes from:",
-      "path": "div > div > section > div > div > div",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > div#ad-88-wrap:nth-of-type(1) > div#ad-88:nth-of-type(1) > div.ad-88-text:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "ad-88-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-88",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad-88-text"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
       "text": [
         "Support comes from:"
       ]
@@ -2157,10 +5597,64 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "NPR Home",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li.home:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "home"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "NPR Home"
       ]
@@ -2192,10 +5686,64 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li.active:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "active"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -2225,10 +5773,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -2258,10 +5858,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -2291,10 +5943,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -2322,10 +6026,44 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p.left:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "left"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "NPR thanks our sponsors",
-      "path": "div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#ad-desktop-wrap:nth-of-type(1) > p.left:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-desktop-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "NPR thanks our sponsors"
       ]
@@ -2347,10 +6085,44 @@
         "margin-top": "11px",
         "position": "static"
       },
-      "element": "p.right:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "right"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "<a href=\"/about/place/corpsupport/\">Become an NPR sponsor</a>",
-      "path": "div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#ad-desktop-wrap:nth-of-type(1) > p.right:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-desktop-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "right"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Become an NPR sponsor"
       ]
@@ -2378,10 +6150,52 @@
         "padding-top": "44px",
         "position": "static"
       },
-      "element": "h4:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
       "html": "More From The Salt",
-      "path": "div > div > div > div > section > h4",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > h4:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
       "text": [
         "More From The Salt"
       ]
@@ -2409,10 +6223,89 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
       "html": "Food",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211372152.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212342707",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
         "Food"
       ]
@@ -2438,19 +6331,94 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
-      "html": "How A Seed Saver Discovered One Of Our Favorite Tomatoes",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211372152.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Can Quinoa Farming Go Global Without Leaving Andeans Behind?",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212342707",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
-        "How A Seed Saver Discovered One Of Our Favorite Tomatoes"
+        "Can Quinoa Farming Go Global Without Leaving Andeans Behind?"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 352,
+        "top": 351,
         "width": 158
       },
       "computed": {
@@ -2469,10 +6437,89 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
       "html": "Food",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211784739.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212024490",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
         "Food"
       ]
@@ -2481,7 +6528,7 @@
       "bound": {
         "height": 54,
         "left": 1303,
-        "top": 379,
+        "top": 378,
         "width": 158
       },
       "computed": {
@@ -2498,19 +6545,94 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
-      "html": "Listeria Outbreak Still Haunts Colorado's Cantaloupe Growers",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211784739.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Even Carnivores Are Putting More Fake Meat On Their Plates",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212024490",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
-        "Listeria Outbreak Still Haunts Colorado's Cantaloupe Growers"
+        "Even Carnivores Are Putting More Fake Meat On Their Plates"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 479,
+        "top": 478,
         "width": 158
       },
       "computed": {
@@ -2529,19 +6651,98 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
-      "html": "Business",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211717907.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Food",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211399891",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
-        "Business"
+        "Food"
       ]
     },
     {
       "bound": {
         "height": 54,
         "left": 1303,
-        "top": 506,
+        "top": 505,
         "width": 158
       },
       "computed": {
@@ -2558,12 +6759,87 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
-      "html": "Chipotle Is Keeping Its Meat Antibiotic-Free After All",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211717907.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "If You Liked That Wine, You Should've Put A Ring On It",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211399891",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
-        "Chipotle Is Keeping Its Meat Antibiotic-Free After All"
+        "If You Liked That Wine, You Should've Put A Ring On It"
       ]
     },
     {
@@ -2591,10 +6867,60 @@
         "position": "static",
         "text-align": "right"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "More From The Salt",
-      "path": "div > div > div > div > section > p > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > p.more:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "p",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "more"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "More From The Salt"
       ]
@@ -2614,10 +6940,51 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "h4:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
       "html": "<a href=\"http://shop.npr.org/?utm_source=Banners&amp;utm_medium=ResponsiveAd&amp;utm_content=General&amp;utm_campaign=300x150\">NPR Shop</a>",
-      "path": "div > div > div > div > h4",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
       "text": [
         "NPR Shop"
       ]
@@ -2643,10 +7010,51 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Support The Programs You Love",
-      "path": "div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Support The Programs You Love"
       ]
@@ -2672,10 +7080,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.news:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "news"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -2701,10 +7157,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.artslife:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "artslife"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -2730,10 +7234,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.music:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "music"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -2759,10 +7311,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Programs",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.programs:nth-of-type(5) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "programs"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Programs"
       ]
@@ -2788,10 +7388,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.listen:nth-of-type(6) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "listen"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -2817,10 +7465,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "About",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.about:nth-of-type(7) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "about"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "About"
       ]
@@ -2846,10 +7542,48 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p.copyright:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "copyright"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "©2013 NPR",
-      "path": "footer > div > div > p",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > p.copyright:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "copyright"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "©2013 NPR"
       ]
@@ -2877,10 +7611,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li#footerContact:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "footerContact",
+        "name": "li"
+      },
       "html": "<a href=\"http://help.npr.org/npr/wf/m/index.aspx\">Contact</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li#footerContact:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "footerContact",
+          "name": "li"
+        }
+      ],
       "text": [
         "Contact"
       ]
@@ -2908,10 +7682,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(2)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179876898/terms-of-use\">Terms of Use</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Terms of Use"
       ]
@@ -2939,10 +7753,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(3)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179878450/privacy-policy\">Privacy</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Privacy"
       ]
@@ -2969,10 +7823,54 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li.sponsorship-choices:nth-of-type(4)",
+      "element": {
+        "classes": [
+          "sponsorship-choices"
+        ],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons\">Sponsorship Choices</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li.sponsorship-choices:nth-of-type(4)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "sponsorship-choices"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Sponsorship Choices"
       ]
@@ -3000,10 +7898,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(5)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"http://thin.npr.org/\">Text-Only</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Text-Only"
       ]
@@ -3028,9 +7966,37 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "header > a > img",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > a.nprhome:nth-of-type(2) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "header",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "nprhome"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/chrome/news/nprlogo_138x46.gif"
     },
     {
@@ -3056,9 +8022,67 @@
         "position": "static",
         "vertical-align": "middle"
       },
-      "element": "img.main:nth-of-type(1)",
-      "path": "div > div > section > header > div > a > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > div.branding:nth-of-type(2) > a:nth-of-type(1) > img.main:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "main"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/branding/blogs/thesalt/branding_main-acad775dfe0e9c57c9d75d810e5ae323c1497660.png"
     },
     {
@@ -3072,9 +8096,84 @@
         "background-color": "rgba(0, 0, 0, 0)",
         "position": "static"
       },
-      "element": "img.img.lazyOnLoad:nth-of-type(1)",
-      "path": "div > div > section > article > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210575055.bucketwrap.image.large:nth-of-type(1) > div.imagewrap:nth-of-type(1) > img.img.lazyOnLoad:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "img",
+          "lazyOnLoad"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210575055",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "imagewrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "img",
+            "lazyOnLoad"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/09/t_20130729124053_1300_custom-0912a3a232ed28b5f8b14389972da34f82ff8b84-s6-c30.jpg"
     },
     {
@@ -3088,9 +8187,84 @@
         "background-color": "rgba(0, 0, 0, 0)",
         "position": "static"
       },
-      "element": "img.img.lazyOnLoad:nth-of-type(1)",
-      "path": "div > div > section > article > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210584960.bucketwrap.image.large:nth-of-type(2) > div.imagewrap:nth-of-type(1) > img.img.lazyOnLoad:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "img",
+          "lazyOnLoad"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210584960",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "imagewrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "img",
+            "lazyOnLoad"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/09/firstbaby-copy-aa3bbe150b63f7dfa2bf2fb29894c3b4b27bd8a2-s6-c30.jpg"
     },
     {
@@ -3104,9 +8278,84 @@
         "background-color": "rgba(0, 0, 0, 0)",
         "position": "static"
       },
-      "element": "img.img.lazyOnLoad:nth-of-type(1)",
-      "path": "div > div > section > article > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210586624.bucketwrap.image.large:nth-of-type(3) > div.imagewrap:nth-of-type(1) > img.img.lazyOnLoad:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "img",
+          "lazyOnLoad"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210586624",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "imagewrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "img",
+            "lazyOnLoad"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/09/sword_custom-5cbfd8c04c6ae3613ce2ed1d44f4c708ad6a9d9a-s6-c30.jpg"
     },
     {
@@ -3131,9 +8380,65 @@
         "position": "static",
         "vertical-align": "middle"
       },
-      "element": "img.main:nth-of-type(1)",
-      "path": "div > div > section > footer > div > a > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.branding:nth-of-type(1) > a:nth-of-type(1) > img.main:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "main"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/branding/blogs/thesalt/branding_main-acad775dfe0e9c57c9d75d810e5ae323c1497660.png"
     },
     {
@@ -3155,14 +8460,88 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img.twitter-bird:nth-of-type(1)",
-      "path": "div > div > section > footer > div > div > div > a > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.third:nth-of-type(3) > div.promo-bucket.twitter-promo:nth-of-type(1) > a:nth-of-type(1) > img.twitter-bird:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "twitter-bird"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "promo-bucket",
+            "twitter-promo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "twitter-bird"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/images/twitter-bird-light-bgs.png"
     },
     {
       "bound": {
-        "height": 63,
+        "height": 62,
         "left": 1491,
         "top": 244,
         "width": 63
@@ -3179,16 +8558,91 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > section > div > article > a > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211372152.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.storyimg:nth-of-type(2) > img:nth-of-type(1)",
-      "src": "http://media.npr.org/assets/img/2013/08/12/cherokee_purple_sliced_sq-5ed00d90e911c14960bfa0b9d74c11c552f2e9bf.jpg?s=16"
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212342707",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/assets/img/2013/08/15/ap101025151289_sq-fb1f5913cd1a5fafcb11b5dae68ac80c70b6a339.jpg?s=16"
     },
     {
       "bound": {
         "height": 63,
         "left": 1491,
-        "top": 371,
+        "top": 370,
         "width": 63
       },
       "computed": {
@@ -3203,16 +8657,91 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > section > div > article > a > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211784739.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.storyimg:nth-of-type(2) > img:nth-of-type(1)",
-      "src": "http://media.npr.org/assets/img/2013/08/13/dsc_0270_sq-9931b4bee0677da3fbda7421c8c02c92bb53cc9a.jpg?s=16"
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212024490",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/assets/img/2013/08/14/photo-4-1-_sq-f0d9320743c35c9f98bea90b72c607a94027e8ed.jpg?s=16"
     },
     {
       "bound": {
-        "height": 62,
+        "height": 63,
         "left": 1491,
-        "top": 498,
+        "top": 497,
         "width": 63
       },
       "computed": {
@@ -3227,10 +8756,85 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > section > div > article > a > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211717907.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyimg:nth-of-type(2) > img:nth-of-type(1)",
-      "src": "http://media.npr.org/assets/img/2013/08/13/chip2_sq-990d3543e289cf62dca6c26cf4e4eab3652e243b.jpg?s=16"
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211399891",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/assets/img/2013/08/13/lollipop_sq-e6d59ef9f760f92cfc488841a0031fbbef9d67a8.jpg?s=16"
     },
     {
       "bound": {
@@ -3247,9 +8851,50 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/images/shop_300x150-04.jpg"
     }
   ]

@@ -206,10 +206,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2F2013%2F08%2F09%2F210286841%2Fsusan-rices-first-month-on-the-job-has-been-a-doozy",
     "http://www.npr.org/about/place/corpsupport/",
-    "http://www.npr.org/templates/story/story.php?storyId=210871635",
-    "http://www.npr.org/2013/08/10/210871531/al-qaida-today-evolution-of-a-terrorist-organization",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/10/210837966/russia-invites-u-s-to-a-tank-biathlon",
-    "http://www.npr.org/templates/story/story.php?storyId=210759510",
+    "http://www.npr.org/2013/08/15/212160911/private-bradley-manning-apologizes-faces-90-years-in-prison",
+    "http://www.npr.org/2013/08/15/212198327/how-drones-fundamentally-alters-the-nature-of-conflict",
+    "http://www.npr.org/2013/08/15/212198325/drone-manufacturers-confident-industry-will-grow",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/15/212079908/the-next-disaster-scenario-power-companies-are-preparing-for",
     "http://www.npr.org/sections/national-security/",
     "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -305,10 +305,22 @@
         "overflow-y": "hidden",
         "position": "absolute"
       },
-      "element": "a#skiplink:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "skiplink",
+        "name": "a"
+      },
       "html": "Skip to Main Content",
-      "path": "a",
-      "selector": "a#skiplink:nth-of-type(1)",
+      "path": [
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "skiplink",
+          "name": "a"
+        }
+      ],
       "text": [
         "Skip to Main Content"
       ]
@@ -335,10 +347,42 @@
         "text-align": "left",
         "text-indent": "-139986px"
       },
-      "element": "a.search-toggle:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "search-toggle"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Toggle search",
-      "path": "header > div > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > a.search-toggle:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "search-toggle"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Toggle search"
       ]
@@ -366,10 +410,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Stations",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.stations:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "stations"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Stations"
       ]
@@ -397,10 +491,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Donate",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.donate:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "donate"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Donate"
       ]
@@ -428,10 +572,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Shop",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.nprshop:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "nprshop"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Shop"
       ]
@@ -458,10 +652,61 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Sign In/Register",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.loggedOut.login-reg:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "loggedOut",
+            "login-reg"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Sign In/Register"
       ]
@@ -489,10 +734,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.news:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "news"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -520,10 +815,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.artslife:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "artslife"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -551,10 +896,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.music:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "music"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -582,10 +977,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.listen:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "listen"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -617,10 +1062,54 @@
         "text-transform": "lowercase",
         "z-index": "0"
       },
-      "element": "ul.breadcrumb:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "breadcrumb"
+        ],
+        "id": "",
+        "name": "ul"
+      },
       "html": "\n      <li><a href=\"http://www.npr.org/sections/news/\">News</a> <span class=\"arrow\">&gt;</span></li>\n   \n   <li><a href=\"http://www.npr.org/sections/us/\">U.S.</a> <span class=\"arrow\">&gt;</span></li>\n   \n   <li class=\"last\"><a href=\"http://www.npr.org/sections/national-security/\">National Security</a></li>\n   \n",
-      "path": "div > div > section > article > ul",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > ul.breadcrumb:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "breadcrumb"
+          ],
+          "id": "",
+          "name": "ul"
+        }
+      ],
       "text": [
         "News",
         "U.S.",
@@ -643,10 +1132,58 @@
         "margin-top": "15px",
         "position": "static"
       },
-      "element": "h1:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h1"
+      },
       "html": "Susan Rice's First Month On The Job Has Been A Doozy",
-      "path": "div > div > section > article > div > h1",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.storytitle:nth-of-type(1) > h1:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "storytitle"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        }
+      ],
       "text": [
         "Susan Rice's First Month On The Job Has Been A Doozy"
       ]
@@ -670,10 +1207,77 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "p.byline:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "byline"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "by <a rel=\"author\" href=\"http://www.npr.org/people/2101154/ari-shapiro\"><span>Ari Shapiro</span></a>",
-      "path": "div > div > section > article > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#story-meta:nth-of-type(2) > div#storybyline.linkLocation:nth-of-type(1) > div#res210290093.bucketwrap.byline:nth-of-type(1) > p.byline:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "story-meta",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "linkLocation"
+          ],
+          "id": "storybyline",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "byline"
+          ],
+          "id": "res210290093",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "byline"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "by ",
         "Ari Shapiro"
@@ -698,10 +1302,60 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "div.dateblock:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "dateblock"
+        ],
+        "id": "",
+        "name": "div"
+      },
       "html": "\n            <time datetime=\"2013-08-09\"><span class=\"date\">August 09, 2013</span><span class=\"time\"> 4:24 PM</span></time>\n   ",
-      "path": "div > div > section > article > div > div",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#story-meta:nth-of-type(2) > div.dateblock:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "story-meta",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "dateblock"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
       "text": [
         "August 09, 2013",
         " 4:24 PM"
@@ -730,10 +1384,89 @@
         "overflow-x": "hidden",
         "overflow-y": "hidden"
       },
-      "element": "h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
       "html": "Audio Unavailable",
-      "path": "div > div > section > article > div > div > div > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#primaryaudio.linkLocation.storylocation:nth-of-type(3) > div#res210570905.bucketwrap.medium.primary.resaudio:nth-of-type(1) > div.audio.enhance-replace.resaudio:nth-of-type(1) > div.avcontent.listen:nth-of-type(2) > h3:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation"
+          ],
+          "id": "primaryaudio",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "medium",
+            "primary",
+            "resaudio"
+          ],
+          "id": "res210570905",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "audio",
+            "enhance-replace",
+            "resaudio"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "avcontent",
+            "listen"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "Audio Unavailable"
       ]
@@ -757,10 +1490,89 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Try one of our other <a href=\"/listen\">listening options</a>",
-      "path": "div > div > section > article > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#primaryaudio.linkLocation.storylocation:nth-of-type(3) > div#res210570905.bucketwrap.medium.primary.resaudio:nth-of-type(1) > div.audio.enhance-replace.resaudio:nth-of-type(1) > div.avcontent.listen:nth-of-type(2) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation"
+          ],
+          "id": "primaryaudio",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "medium",
+            "primary",
+            "resaudio"
+          ],
+          "id": "res210570905",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "audio",
+            "enhance-replace",
+            "resaudio"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "avcontent",
+            "listen"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Try one of our other ",
         "listening options"
@@ -789,10 +1601,86 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Susan Rice was the U.S. ambassador to the United Nations before taking over as President Obama's national security adviser.",
-      "path": "div > div > section > article > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210577939.bucketwrap.image.large:nth-of-type(1) > div.captionwrap:nth-of-type(2) > div.caption:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210577939",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Susan Rice was the U.S. ambassador to the United Nations before taking over as President Obama's national security adviser."
       ]
@@ -820,10 +1708,74 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "span.creditwrap:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "creditwrap"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "<span class=\"credit\">Charles Dharapak</span>/<span class=\"rightsnotice\">AP</span>",
-      "path": "div > div > section > article > div > div > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210577939.bucketwrap.image.large:nth-of-type(1) > span.creditwrap:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210577939",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "creditwrap"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "Charles Dharapak",
         "/",
@@ -855,10 +1807,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "People have been talking a lot lately about the National Security Agency. But there's another important \"NSA\" in the federal government — the president's national security adviser.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "People have been talking a lot lately about the National Security Agency. But there's another important \"NSA\" in the federal government — the president's national security adviser."
       ]
@@ -888,10 +1890,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(2)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "That person is a sort of funnel — gathering information from the military, the intelligence community, the State Department — and channeling it all to the president.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "That person is a sort of funnel — gathering information from the military, the intelligence community, the State Department — and channeling it all to the president."
       ]
@@ -921,10 +1973,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(3)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Susan Rice has been in the job for only a month — but it's been one heck of a month. The day Rice started her new job, Egypt's military overthrew the Egyptian government. Then, the controversy surrounding leaker Edward Snowden blew up. And last week, with both of those fires still raging, another crisis pulled Rice and the national security team into the White House Situation Room: a terrorist threat that led to the closing of U.S. embassies and consulates in the Middle East and North Africa.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(3)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Susan Rice has been in the job for only a month — but it's been one heck of a month. The day Rice started her new job, Egypt's military overthrew the Egyptian government. Then, the controversy surrounding leaker Edward Snowden blew up. And last week, with both of those fires still raging, another crisis pulled Rice and the national security team into the White House Situation Room: a terrorist threat that led to the closing of U.S. embassies and consulates in the Middle East and North Africa."
       ]
@@ -954,10 +2056,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(4)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "This latest threat has deep personal significance for the new national security adviser. Fifteen years ago this week, Rice was the State Department's undersecretary for African affairs when terrorists blew up two U.S. embassies in East Africa. Hundreds of people were killed and thousands wounded.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(4)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "This latest threat has deep personal significance for the new national security adviser. Fifteen years ago this week, Rice was the State Department's undersecretary for African affairs when terrorists blew up two U.S. embassies in East Africa. Hundreds of people were killed and thousands wounded."
       ]
@@ -987,10 +2139,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(5)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Prudence Bushnell, who was the American ambassador to Kenya at the time, says the attack had \"a huge impact\" on Rice.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(5)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Prudence Bushnell, who was the American ambassador to Kenya at the time, says the attack had \"a huge impact\" on Rice."
       ]
@@ -1020,10 +2222,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(6)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"I know it did because she came to visit a few months afterward,\" Bushnell says. \"You couldn't have been in the Department of State without having been impacted — and certainly not in African affairs.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(6)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"I know it did because she came to visit a few months afterward,\" Bushnell says. \"You couldn't have been in the Department of State without having been impacted — and certainly not in African affairs.\""
       ]
@@ -1053,10 +2305,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(7)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Last year, Rice was ambassador to the United Nations when terrorists struck again — this time in Benghazi, Libya. Four Americans were killed.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(7)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Last year, Rice was ambassador to the United Nations when terrorists struck again — this time in Benghazi, Libya. Four Americans were killed."
       ]
@@ -1086,10 +2388,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(8)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Following that attack, Rice used talking points that were wrong on Sunday morning news shows. That mistake may have kept her from being nominated for secretary of state.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(8)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Following that attack, Rice used talking points that were wrong on Sunday morning news shows. That mistake may have kept her from being nominated for secretary of state."
       ]
@@ -1119,10 +2471,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(9)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"Susan Rice should have known better,\" Republican Sen. John McCain said on Fox News, \"and if she didn't know better, she's not qualified.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(9)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"Susan Rice should have known better,\" Republican Sen. John McCain said on Fox News, \"and if she didn't know better, she's not qualified.\""
       ]
@@ -1154,10 +2556,82 @@
         "text-indent": "100%",
         "white-space": "nowrap"
       },
-      "element": "a.enlargebtn:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "enlargebtn"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Enlarge image",
-      "path": "div > div > section > article > div > div > div > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210290717.bucketwrap.image.medium:nth-of-type(2) > div.imagewrap:nth-of-type(1) > a.enlargebtn:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "medium"
+          ],
+          "id": "res210290717",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "imagewrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "enlargebtn"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Enlarge image"
       ]
@@ -1185,10 +2659,86 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Rice talks with Yousef Al Otaiba, the United Arab Emirates' ambassador to the United States, before the start of a dinner celebrating Ramadan at the White House last month.",
-      "path": "div > div > section > article > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210290717.bucketwrap.image.medium:nth-of-type(2) > div.captionwrap:nth-of-type(2) > div.caption:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "medium"
+          ],
+          "id": "res210290717",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Rice talks with Yousef Al Otaiba, the United Arab Emirates' ambassador to the United States, before the start of a dinner celebrating Ramadan at the White House last month."
       ]
@@ -1216,10 +2766,74 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "span.creditwrap:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "creditwrap"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "<span class=\"credit\">Carolyn Kaster</span>/<span class=\"rightsnotice\">AP</span>",
-      "path": "div > div > section > article > div > div > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210290717.bucketwrap.image.medium:nth-of-type(2) > span.creditwrap:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "medium"
+          ],
+          "id": "res210290717",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "creditwrap"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "Carolyn Kaster",
         "/",
@@ -1251,10 +2865,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(10)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Rice did not need Senate confirmation to be President Obama's national security adviser.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(10)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Rice did not need Senate confirmation to be President Obama's national security adviser."
       ]
@@ -1284,10 +2948,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(11)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Those crucible experiences shape the person Rice is today. She painfully learned the cost of not doing enough.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(11)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Those crucible experiences shape the person Rice is today. She painfully learned the cost of not doing enough."
       ]
@@ -1317,10 +3031,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(12)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Ben Rhodes works closely with Rice as deputy national security adviser at the White House, where, he says, \"there's definitely a lean toward action because there's an understanding that there's really no margin for error.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(12)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Ben Rhodes works closely with Rice as deputy national security adviser at the White House, where, he says, \"there's definitely a lean toward action because there's an understanding that there's really no margin for error.\""
       ]
@@ -1350,10 +3114,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(13)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"Action\" is a word that comes up a lot when people talk about Rice.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(13)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"Action\" is a word that comes up a lot when people talk about Rice."
       ]
@@ -1383,10 +3197,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(14)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Her predecessor, Tom Donilon, was extremely low-key. Nobody would describe Rice that way.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(14)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Her predecessor, Tom Donilon, was extremely low-key. Nobody would describe Rice that way."
       ]
@@ -1416,10 +3280,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(15)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Instead, people call her style \"energetic,\" \"no-nonsense\" or \"rigorous.\" At the White House, her meetings start and end on time.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(15)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Instead, people call her style \"energetic,\" \"no-nonsense\" or \"rigorous.\" At the White House, her meetings start and end on time."
       ]
@@ -1449,10 +3363,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(16)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Bruce Riedel of the Brookings Institution has known Rice for 20 years.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(16)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Bruce Riedel of the Brookings Institution has known Rice for 20 years."
       ]
@@ -1482,10 +3446,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(17)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"If someone from an agency is giving her an inadequate answer or giving her the runaround, Susan's going to cut to the chase and say, 'Look, this is what I need to know,' \" he says.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(17)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"If someone from an agency is giving her an inadequate answer or giving her the runaround, Susan's going to cut to the chase and say, 'Look, this is what I need to know,' \" he says."
       ]
@@ -1515,10 +3529,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(18)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Tommy Vietor, who was a White House national security spokesman during Obama's first term, says Rice gets \"into the weeds.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(18)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Tommy Vietor, who was a White House national security spokesman during Obama's first term, says Rice gets \"into the weeds.\""
       ]
@@ -1548,10 +3612,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(19)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"She knows the details. She is tough and smart and will get your attention if you're slipping,\" Vietor says.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(19)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"She knows the details. She is tough and smart and will get your attention if you're slipping,\" Vietor says."
       ]
@@ -1581,10 +3695,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(20)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "When Rice arrived at the White House a month ago, she made a point to meet each person who works on the National Security Council, Rhodes says.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(20)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "When Rice arrived at the White House a month ago, she made a point to meet each person who works on the National Security Council, Rhodes says."
       ]
@@ -1614,10 +3778,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(21)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"And she's gone out of her way to make people know that their work is going to reach the president, and their voice is going to reach the president,\" he says.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(21)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"And she's gone out of her way to make people know that their work is going to reach the president, and their voice is going to reach the president,\" he says."
       ]
@@ -1647,10 +3861,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(22)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "That's one reason national security adviser is such a powerful job: She hears from everyone with a stake in the argument, but the president may hear only from her.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(22)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "That's one reason national security adviser is such a powerful job: She hears from everyone with a stake in the argument, but the president may hear only from her."
       ]
@@ -1680,10 +3944,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(23)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Vietor describes how a typical decision might play out — say, to close embassies around the world.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(23)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Vietor describes how a typical decision might play out — say, to close embassies around the world."
       ]
@@ -1713,10 +4027,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(24)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"The national security adviser is convening the broader national security apparatus and saying: FBI, CIA, State, Defense, come to the table and let's discuss this. Let's figure out all the implications of these decisions and then let's vote,\" he explains.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(24)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"The national security adviser is convening the broader national security apparatus and saying: FBI, CIA, State, Defense, come to the table and let's discuss this. Let's figure out all the implications of these decisions and then let's vote,\" he explains."
       ]
@@ -1746,10 +4110,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(25)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "And, he says, they do literally take a vote. \"The president gets a number of decisions every day that are unanimous, and he gets many others that are divided.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(25)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "And, he says, they do literally take a vote. \"The president gets a number of decisions every day that are unanimous, and he gets many others that are divided.\""
       ]
@@ -1779,10 +4193,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(26)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Some national security advisers weigh in at stakeholder meetings, while others hold their counsel for the president. People in these meetings say, not surprisingly, that Rice expresses a strong view.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(26)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Some national security advisers weigh in at stakeholder meetings, while others hold their counsel for the president. People in these meetings say, not surprisingly, that Rice expresses a strong view."
       ]
@@ -1812,10 +4276,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(27)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "During this harried month, folks at the White House say they have more than once heard the president joke with Rice about whether she's sure she wants the job.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(27)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "During this harried month, folks at the White House say they have more than once heard the president joke with Rice about whether she's sure she wants the job."
       ]
@@ -1845,10 +4359,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(28)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "It's not too late to back out, he tells her. She always replies: Happy to be here.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(28)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "It's not too late to back out, he tells her. She always replies: Happy to be here."
       ]
@@ -1876,10 +4440,77 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.sharemaintab:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "sharemaintab"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Share",
-      "path": "div > div > section > article > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > a.sharemaintab:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharemaintab"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Share"
       ]
@@ -1910,10 +4541,101 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.facebook.fbStory210286841:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "facebook",
+          "fbStory210286841"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"name\">Facebook</span>",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.facebookLi:nth-of-type(1) > a.facebook.fbStory210286841:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "facebookLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "facebook",
+            "fbStory210286841"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Facebook"
       ]
@@ -1944,10 +4666,103 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.retweetStory.story210286841.twitter:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "retweetStory",
+          "story210286841",
+          "twitter"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"name\">Twitter</span>",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.twitterLi:nth-of-type(2) > a.retweetStory.story210286841.twitter:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "twitterLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "retweetStory",
+            "story210286841",
+            "twitter"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Twitter"
       ]
@@ -1978,10 +4793,103 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Google+",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > div > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.googlePlusLi:nth-of-type(3) > div.g-interactivepost:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "googlePlusLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "g-interactivepost"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Google+"
       ]
@@ -2012,10 +4920,101 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.eaf_link.email:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "eaf_link",
+          "email"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Email",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.email:nth-of-type(4) > a.eaf_link.email:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "email"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "eaf_link",
+            "email"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Email"
       ]
@@ -2052,10 +5051,86 @@
         "position": "absolute",
         "text-align": "center"
       },
-      "element": "span.count:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "count"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "41",
-      "path": "div > div > section > article > div > ul > li > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.comment:nth-of-type(2) > a.comment-count.multiple-comments:nth-of-type(1) > span.count:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "comment"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "comment-count",
+            "multiple-comments"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "count"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "41"
       ]
@@ -2083,10 +5158,79 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.comment-count.multiple-comments:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "comment-count",
+          "multiple-comments"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"count\">41</span><span class=\"name\">Comment</span>",
-      "path": "div > div > section > article > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.comment:nth-of-type(2) > a.comment-count.multiple-comments:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "comment"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "comment-count",
+            "multiple-comments"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Comment"
       ]
@@ -2104,10 +5248,66 @@
         "margin-bottom": "11px",
         "position": "static"
       },
-      "element": "h5#login-overlay-link.commentBoxNotLoggedIn:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "commentBoxNotLoggedIn"
+        ],
+        "id": "login-overlay-link",
+        "name": "h5"
+      },
       "html": "You must be signed in to leave a comment. <a href=\"/templates/reg/login.php?returnUrl=%2F2013%2F08%2F09%2F210286841%2Fsusan-rices-first-month-on-the-job-has-been-a-doozy%23commentBlock\">Sign In / Register</a>",
-      "path": "div > div > section > article > div > div > h5",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#commentBlock:nth-of-type(6) > div#disqus-npr:nth-of-type(1) > h5#login-overlay-link.commentBoxNotLoggedIn:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "h5"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "commentBlock",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "disqus-npr",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "commentBoxNotLoggedIn"
+          ],
+          "id": "login-overlay-link",
+          "name": "h5"
+        }
+      ],
       "text": [
         "You must be signed in to leave a comment. ",
         "Sign In / Register"
@@ -2133,10 +5333,62 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Please keep your community civil. All comments must follow the <a href=\"http://npr.org/discussionrules\" target=\"new\">NPR.org Community rules</a> and <a href=\"http://www.npr.org/about/termsofuse.html\" target=\"new\">terms of use</a>, and will be moderated prior to posting. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the <a href=\"http://www.npr.org/about/termsofuse.html\" target=\"new\">Terms of Use</a>, <a href=\"http://www.npr.org/about/privacypolicy.html\" target=\"new\">Privacy Policy</a> and <a href=\"http://npr.org/communityfaq\" target=\"new\">Community FAQ</a>.",
-      "path": "div > div > section > article > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#commentBlock:nth-of-type(6) > div#disqus-npr:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "commentBlock",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "disqus-npr",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Please keep your community civil. All comments must follow the ",
         "NPR.org Community rules",
@@ -2167,10 +5419,58 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "div.ad-88-text:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "ad-88-text"
+        ],
+        "id": "",
+        "name": "div"
+      },
       "html": "Support comes from:",
-      "path": "div > div > section > div > div > div",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > div#ad-88-wrap:nth-of-type(1) > div#ad-88:nth-of-type(1) > div.ad-88-text:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "ad-88-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-88",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad-88-text"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
       "text": [
         "Support comes from:"
       ]
@@ -2200,10 +5500,64 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "NPR Home",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li.home:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "home"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "NPR Home"
       ]
@@ -2235,10 +5589,64 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li.active:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "active"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -2268,10 +5676,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -2301,10 +5761,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -2334,10 +5846,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -2365,10 +5929,44 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p.left:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "left"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "NPR thanks our sponsors",
-      "path": "div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#ad-desktop-wrap:nth-of-type(1) > p.left:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-desktop-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "NPR thanks our sponsors"
       ]
@@ -2390,10 +5988,44 @@
         "margin-top": "11px",
         "position": "static"
       },
-      "element": "p.right:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "right"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "<a href=\"/about/place/corpsupport/\">Become an NPR sponsor</a>",
-      "path": "div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#ad-desktop-wrap:nth-of-type(1) > p.right:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-desktop-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "right"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Become an NPR sponsor"
       ]
@@ -2421,19 +6053,166 @@
         "padding-top": "44px",
         "position": "static"
       },
-      "element": "h4:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
       "html": "More From National Security",
-      "path": "div > div > div > div > section > h4",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > h4:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
       "text": [
         "More From National Security"
       ]
     },
     {
       "bound": {
+        "height": 36,
+        "left": 1303,
+        "top": 263,
+        "width": 252
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Private Bradley Manning Apologizes, Faces 90 Years In Prison",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212160911",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "noimg",
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Private Bradley Manning Apologizes, Faces 90 Years In Prison"
+      ]
+    },
+    {
+      "bound": {
         "height": 12,
         "left": 1303,
-        "top": 253,
+        "top": 344,
         "width": 252
       },
       "computed": {
@@ -2452,10 +6231,90 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
       "html": "National Security",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210871635.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.noimg.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212198327",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "noimg",
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
         "National Security"
       ]
@@ -2464,7 +6323,7 @@
       "bound": {
         "height": 36,
         "left": 1303,
-        "top": 280,
+        "top": 371,
         "width": 252
       },
       "computed": {
@@ -2481,19 +6340,95 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
-      "html": "Diplomatic Security In An Age Of Terror Threats",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210871635.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.noimg.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "How Drones Fundamentally Alter The Nature Of Conflict",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212198327",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "noimg",
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
-        "Diplomatic Security In An Age Of Terror Threats"
+        "How Drones Fundamentally Alter The Nature Of Conflict"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 361,
+        "top": 452,
         "width": 252
       },
       "computed": {
@@ -2512,10 +6447,90 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
       "html": "National Security",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210871531.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.noimg.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212198325",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "noimg",
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
         "National Security"
       ]
@@ -2524,7 +6539,7 @@
       "bound": {
         "height": 36,
         "left": 1303,
-        "top": 388,
+        "top": 479,
         "width": 252
       },
       "computed": {
@@ -2541,79 +6556,95 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
-      "html": "Al-Qaida Today: Evolution Of A Terrorist Organization",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210871531.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.noimg.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Drone Manufacturers Confident Domestic Industry Will Grow",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212198325",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "noimg",
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
-        "Al-Qaida Today: Evolution Of A Terrorist Organization"
-      ]
-    },
-    {
-      "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 469,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-top-color": "rgb(188, 202, 229)",
-        "color": "rgb(188, 202, 229)",
-        "font-size": "12px",
-        "font-weight": "bold",
-        "line-height": "12px",
-        "margin-bottom": "15px",
-        "margin-top": "5px",
-        "outline-color": "rgb(188, 202, 229)",
-        "position": "static",
-        "text-transform": "lowercase"
-      },
-      "element": "h2.slug:nth-of-type(1)",
-      "html": "National Security",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210837966.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
-      "text": [
-        "National Security"
-      ]
-    },
-    {
-      "bound": {
-        "height": 36,
-        "left": 1303,
-        "top": 496,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-top-color": "rgb(0, 0, 0)",
-        "color": "rgb(0, 0, 0)",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "line-height": "18px",
-        "margin-bottom": "10px",
-        "outline-color": "rgb(0, 0, 0)",
-        "position": "static"
-      },
-      "element": "h3:nth-of-type(1)",
-      "html": "Russia Invites U.S. To A 'Tank Biathlon'",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210837966.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
-      "text": [
-        "Russia Invites U.S. To A 'Tank Biathlon'"
+        "Drone Manufacturers Confident Domestic Industry Will Grow"
       ]
     },
     {
       "bound": {
         "height": 16,
         "left": 1273,
-        "top": 610,
+        "top": 575,
         "width": 299
       },
       "computed": {
@@ -2634,10 +6665,60 @@
         "position": "static",
         "text-align": "right"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "More From National Security",
-      "path": "div > div > div > div > section > p > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > p.more:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "p",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "more"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "More From National Security"
       ]
@@ -2657,10 +6738,51 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "h4:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
       "html": "<a href=\"http://shop.npr.org/?utm_source=Banners&amp;utm_medium=ResponsiveAd&amp;utm_content=General&amp;utm_campaign=300x150\">NPR Shop</a>",
-      "path": "div > div > div > div > h4",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
       "text": [
         "NPR Shop"
       ]
@@ -2686,10 +6808,51 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Support The Programs You Love",
-      "path": "div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Support The Programs You Love"
       ]
@@ -2715,10 +6878,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.news:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "news"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -2744,10 +6955,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.artslife:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "artslife"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -2773,10 +7032,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.music:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "music"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -2802,10 +7109,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Programs",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.programs:nth-of-type(5) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "programs"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Programs"
       ]
@@ -2831,10 +7186,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.listen:nth-of-type(6) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "listen"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -2860,10 +7263,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "About",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.about:nth-of-type(7) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "about"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "About"
       ]
@@ -2889,10 +7340,48 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p.copyright:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "copyright"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "©2013 NPR",
-      "path": "footer > div > div > p",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > p.copyright:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "copyright"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "©2013 NPR"
       ]
@@ -2920,10 +7409,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li#footerContact:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "footerContact",
+        "name": "li"
+      },
       "html": "<a href=\"http://help.npr.org/npr/wf/m/index.aspx\">Contact</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li#footerContact:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "footerContact",
+          "name": "li"
+        }
+      ],
       "text": [
         "Contact"
       ]
@@ -2951,10 +7480,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(2)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179876898/terms-of-use\">Terms of Use</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Terms of Use"
       ]
@@ -2982,10 +7551,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(3)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179878450/privacy-policy\">Privacy</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Privacy"
       ]
@@ -3012,10 +7621,54 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li.sponsorship-choices:nth-of-type(4)",
+      "element": {
+        "classes": [
+          "sponsorship-choices"
+        ],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons\">Sponsorship Choices</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li.sponsorship-choices:nth-of-type(4)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "sponsorship-choices"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Sponsorship Choices"
       ]
@@ -3043,10 +7696,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(5)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"http://thin.npr.org/\">Text-Only</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Text-Only"
       ]
@@ -3071,9 +7764,37 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "header > a > img",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > a.nprhome:nth-of-type(2) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "header",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "nprhome"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/chrome/news/nprlogo_138x46.gif"
     },
     {
@@ -3087,9 +7808,83 @@
         "background-color": "rgba(0, 0, 0, 0)",
         "position": "static"
       },
-      "element": "img.img.lazyOnLoad:nth-of-type(1)",
-      "path": "div > div > section > article > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210577939.bucketwrap.image.large:nth-of-type(1) > div.imagewrap:nth-of-type(1) > img.img.lazyOnLoad:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "img",
+          "lazyOnLoad"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210577939",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "imagewrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "img",
+            "lazyOnLoad"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/09/SusanRice-1_wide-85a4b351809096caa05f08fcd6b68b5aa0f00162-s6-c30.jpg"
     },
     {
@@ -3103,34 +7898,84 @@
         "background-color": "rgba(0, 0, 0, 0)",
         "position": "static"
       },
-      "element": "img.img.lazyOnLoad:nth-of-type(1)",
-      "path": "div > div > section > article > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210290717.bucketwrap.image.medium:nth-of-type(2) > div.imagewrap:nth-of-type(1) > img.img.lazyOnLoad:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "img",
+          "lazyOnLoad"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "medium"
+          ],
+          "id": "res210290717",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "imagewrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "img",
+            "lazyOnLoad"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/08/ap741420833092-682a6115b2f5ac9d5082ba2a4eb42e84c0bc764a-s6-c30.jpg"
-    },
-    {
-      "bound": {
-        "height": 62,
-        "left": 1491,
-        "top": 488,
-        "width": 63
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-top-color": "rgb(109, 138, 196)",
-        "color": "rgb(109, 138, 196)",
-        "float": "left",
-        "max-width": "100%",
-        "outline-color": "rgb(109, 138, 196)",
-        "position": "static"
-      },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > section > div > article > a > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210837966.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyimg:nth-of-type(2) > img:nth-of-type(1)",
-      "src": "http://media.npr.org/assets/img/2013/08/10/russiatanks_sq-37bd8d610598957c205747898ec60b1547e438ec.jpg?s=16"
     },
     {
       "bound": {
@@ -3147,9 +7992,50 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/images/shop_300x150-04.jpg"
     }
   ]

@@ -234,10 +234,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fitsallpolitics%2F2013%2F08%2F08%2F210280271%2Fas-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand",
     "http://www.npr.org/about/place/corpsupport/",
+    "http://www.npr.org/blogs/itsallpolitics/2013/08/15/212283267/semantic-gymnastics-gop-in-tug-of-war-over-delegate-rule",
     "http://www.npr.org/blogs/itsallpolitics/2013/08/14/212055218/a-lover-of-horse-races-and-horses-remembering-jack-germond",
     "http://www.npr.org/blogs/itsallpolitics/2013/08/14/211972651/gop-debate-is-obamacare-fight-worth-a-government-shutdown",
     "http://www.npr.org/blogs/itsallpolitics/2013/08/13/211663932/star-making-turn-as-newark-mayor-launches-booker-toward-d-c",
-    "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210481146/for-democrats-and-republicans-its-happily-n-ever-after",
     "http://www.npr.org/blogs/itsallpolitics/",
     "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -333,10 +333,22 @@
         "overflow-y": "hidden",
         "position": "absolute"
       },
-      "element": "a#skiplink:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "skiplink",
+        "name": "a"
+      },
       "html": "Skip to Main Content",
-      "path": "a",
-      "selector": "a#skiplink:nth-of-type(1)",
+      "path": [
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "skiplink",
+          "name": "a"
+        }
+      ],
       "text": [
         "Skip to Main Content"
       ]
@@ -363,10 +375,42 @@
         "text-align": "left",
         "text-indent": "-139986px"
       },
-      "element": "a.search-toggle:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "search-toggle"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Toggle search",
-      "path": "header > div > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > a.search-toggle:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "search-toggle"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Toggle search"
       ]
@@ -394,10 +438,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Stations",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.stations:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "stations"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Stations"
       ]
@@ -425,10 +519,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Donate",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.donate:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "donate"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Donate"
       ]
@@ -456,10 +600,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Shop",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.nprshop:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "nprshop"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Shop"
       ]
@@ -486,10 +680,61 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Sign In/Register",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.loggedOut.login-reg:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "loggedOut",
+            "login-reg"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Sign In/Register"
       ]
@@ -517,10 +762,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.news:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "news"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -548,10 +843,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.artslife:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "artslife"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -579,10 +924,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.music:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "music"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -610,10 +1005,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.listen:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "listen"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -640,10 +1085,68 @@
         "text-transform": "uppercase",
         "vertical-align": "middle"
       },
-      "element": "span.tag:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "tag"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "Political News From NPR",
-      "path": "div > div > section > header > div > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > div.branding:nth-of-type(2) > a:nth-of-type(1) > span.tag:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "tag"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "Political News From NPR"
       ]
@@ -672,10 +1175,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "The Stump",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId129862096:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId129862096"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "The Stump"
       ]
@@ -706,10 +1269,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Follow The Money",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId129890870:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId129890870"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Follow The Money"
       ]
@@ -740,10 +1363,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Power Centers",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId130215202:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId130215202"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Power Centers"
       ]
@@ -774,10 +1457,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Faces",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId131886854:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId131886854"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Faces"
       ]
@@ -808,10 +1551,70 @@
         "text-align": "center",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Wonky",
-      "path": "div > div > section > header > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > nav:nth-of-type(1) > ul:nth-of-type(1) > li.catId133630641:nth-of-type(5) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId133630641"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Wonky"
       ]
@@ -841,10 +1644,55 @@
         "text-transform": "lowercase",
         "z-index": "0"
       },
-      "element": "p.category:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "category"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "<a href=\"http://www.npr.org/templates/story/story.php?storyId=131886854\">Faces</a>",
-      "path": "div > div > section > article > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > p.category:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "category"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Faces"
       ]
@@ -865,10 +1713,59 @@
         "margin-top": "15px",
         "position": "static"
       },
-      "element": "h1:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h1"
+      },
       "html": "As McConnell Aide Holds His Nose, The Senator Stays His Hand",
-      "path": "div > div > section > article > div > h1",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.storytitle:nth-of-type(1) > h1:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "storytitle"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        }
+      ],
       "text": [
         "As McConnell Aide Holds His Nose, The Senator Stays His Hand"
       ]
@@ -892,10 +1789,78 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "p.byline:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "byline"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "by <a rel=\"author\" href=\"http://www.npr.org/people/104199172/frank-james\"><span>Frank James</span></a>",
-      "path": "div > div > section > article > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#story-meta:nth-of-type(2) > div#storybyline.linkLocation:nth-of-type(1) > div#res210280273.bucketwrap.byline:nth-of-type(1) > p.byline:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "story-meta",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "linkLocation"
+          ],
+          "id": "storybyline",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "byline"
+          ],
+          "id": "res210280273",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "byline"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "by ",
         "Frank James"
@@ -920,10 +1885,61 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "div.dateblock:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "dateblock"
+        ],
+        "id": "",
+        "name": "div"
+      },
       "html": "\n            <time datetime=\"2013-08-08\"><span class=\"date\">August 08, 2013</span><span class=\"time\"> 8:04 PM</span></time>\n   ",
-      "path": "div > div > section > article > div > div",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#story-meta:nth-of-type(2) > div.dateblock:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "story-meta",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "dateblock"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
       "text": [
         "August 08, 2013",
         " 8:04 PM"
@@ -952,10 +1968,87 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Senate Minority Leader Mitch McConnell, R-Ky.",
-      "path": "div > div > section > article > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210300846.bucketwrap.image.large:nth-of-type(1) > div.captionwrap:nth-of-type(2) > div.caption:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210300846",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Senate Minority Leader Mitch McConnell, R-Ky."
       ]
@@ -983,10 +2076,75 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "span.creditwrap:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "creditwrap"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "<span class=\"credit\">Jacquelyn Martin</span>/<span class=\"rightsnotice\">AP</span>",
-      "path": "div > div > section > article > div > div > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210300846.bucketwrap.image.large:nth-of-type(1) > span.creditwrap:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210300846",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "creditwrap"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "Jacquelyn Martin",
         "/",
@@ -1018,10 +2176,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Sen. Mitch McConnell undoubtedly had no illusions that he would be the ideal candidate of Tea Party conservatives.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Sen. Mitch McConnell undoubtedly had no illusions that he would be the ideal candidate of Tea Party conservatives."
       ]
@@ -1051,10 +2260,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(2)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Still, the Republican leader in the Senate couldn't have expected what sounds like disdain from his own campaign manager.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Still, the Republican leader in the Senate couldn't have expected what sounds like disdain from his own campaign manager."
       ]
@@ -1084,10 +2344,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(3)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"Between you and me, I'm sorta holding my nose for two years because what we're doing here is going to be a big benefit to Rand (Paul) in '16. So that's my long vision,\" Jesse Benton, the campaign manager, said during a phone call, secretly recorded early this year by a conservative activist, and recently published by <a href=\"http://www.economicpolicyjournal.com/2013/08/mitch-mcconnell-campaign-manager-im.html\" target=\"_blank\">Economic Policy Journal</a>.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(3)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"Between you and me, I'm sorta holding my nose for two years because what we're doing here is going to be a big benefit to Rand (Paul) in '16. So that's my long vision,\" Jesse Benton, the campaign manager, said during a phone call, secretly recorded early this year by a conservative activist, and recently published by ",
         "Economic Policy Journal",
@@ -1119,10 +2430,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(4)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Benton, a libertarian, has been a top campaign aide to both Ron Paul, the former congressman from Texas, and his son, the junior senator from Kentucky, who is talked of as a possible presidential candidate. Benton is also married to a granddaughter of the elder Paul.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(4)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Benton, a libertarian, has been a top campaign aide to both Ron Paul, the former congressman from Texas, and his son, the junior senator from Kentucky, who is talked of as a possible presidential candidate. Benton is also married to a granddaughter of the elder Paul."
       ]
@@ -1150,10 +2512,87 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Jesse Benton, left, talks with then-Republican presidential candidate Rep. Ron Paul, R-Texas, in  Ames, Iowa, on Aug. 13, 2011. Benton is now campaign manager for Sen. Mitch McConnell, R-Ky.",
-      "path": "div > div > section > article > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210302516.bucketwrap.image.medium:nth-of-type(2) > div.captionwrap:nth-of-type(2) > div.caption:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "medium"
+          ],
+          "id": "res210302516",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Jesse Benton, left, talks with then-Republican presidential candidate Rep. Ron Paul, R-Texas, in  Ames, Iowa, on Aug. 13, 2011. Benton is now campaign manager for Sen. Mitch McConnell, R-Ky."
       ]
@@ -1181,10 +2620,75 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "span.creditwrap:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "creditwrap"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "<span class=\"credit\">Charles Dharapak</span>/<span class=\"rightsnotice\">AP</span>",
-      "path": "div > div > section > article > div > div > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210302516.bucketwrap.image.medium:nth-of-type(2) > span.creditwrap:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "medium"
+          ],
+          "id": "res210302516",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "creditwrap"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "Charles Dharapak",
         "/",
@@ -1216,10 +2720,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(5)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Benton, hired by McConnell 11 months ago, was supposed to be the Senate minority leader's emissary to Tea Party conservatives, especially now that he tries to get past a primary challenge from businessman Matt Bevin.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(5)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Benton, hired by McConnell 11 months ago, was supposed to be the Senate minority leader's emissary to Tea Party conservatives, especially now that he tries to get past a primary challenge from businessman Matt Bevin."
       ]
@@ -1249,10 +2804,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(6)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Benton's words could prove damaging to McConnell if it gives enough Kentucky conservatives one more reason to vote against the four-term incumbent. And Benton tried to clean up the political mess in a statement released by the McConnell campaign:",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(6)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Benton's words could prove damaging to McConnell if it gives enough Kentucky conservatives one more reason to vote against the four-term incumbent. And Benton tried to clean up the political mess in a statement released by the McConnell campaign:"
       ]
@@ -1276,10 +2882,75 @@
         "padding-left": "30px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"It is truly sick that someone would record a private phone conversation I had out of kindness and use it to try to hurt me. I believe in Senator McConnell and am 100 percent committed to his re-election. Being selected to lead his campaign is one of the great honors of my life and I look forward to victory in November of 2014.\"",
-      "path": "div > div > section > article > div > blockquote > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > blockquote.edTag:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "blockquote",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "edTag"
+          ],
+          "id": "",
+          "name": "blockquote"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"It is truly sick that someone would record a private phone conversation I had out of kindness and use it to try to hurt me. I believe in Senator McConnell and am 100 percent committed to his re-election. Being selected to lead his campaign is one of the great honors of my life and I look forward to victory in November of 2014.\""
       ]
@@ -1309,10 +2980,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(7)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "All in all, it's not easy being McConnell right about now. He is viewed by many conservatives, including evidently his campaign manager, as an establishment Republican too ready to make deals with Democrats.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(7)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "All in all, it's not easy being McConnell right about now. He is viewed by many conservatives, including evidently his campaign manager, as an establishment Republican too ready to make deals with Democrats."
       ]
@@ -1342,10 +3064,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(8)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "If it's too much for him to both grin and bear the diss by Benton, he at least has to bear it. Firing Benton would inflame exactly the voters McConnell was hoping Benton could soothe. So that doesn't appear to be an option.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(8)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "If it's too much for him to both grin and bear the diss by Benton, he at least has to bear it. Firing Benton would inflame exactly the voters McConnell was hoping Benton could soothe. So that doesn't appear to be an option."
       ]
@@ -1375,10 +3148,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(9)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "He also has a feisty Republican primary foe who could require McConnell to burn through a lot of his $10 million war chest and, if the senator succeeds, soften him up for the Democrat.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(9)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "He also has a feisty Republican primary foe who could require McConnell to burn through a lot of his $10 million war chest and, if the senator succeeds, soften him up for the Democrat."
       ]
@@ -1408,10 +3232,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(10)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "And that Democrat, Alison Lundergan Grimes, recently showed that she can deliver a devastating attack line when she said McConnell couldn't even \"pass a kidney stone.\" But more painful than that for McConnell might be a <a href=\"http://www.usnews.com/news/articles/2013/08/01/poll-kentuckys-mitch-mcconnell-trails-in-senate-re-election-bid\">recent poll</a> — albeit by a Democratic pollster – that found Grimes and McConnell essentially tied.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(10)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "And that Democrat, Alison Lundergan Grimes, recently showed that she can deliver a devastating attack line when she said McConnell couldn't even \"pass a kidney stone.\" But more painful than that for McConnell might be a ",
         "recent poll",
@@ -1443,10 +3318,61 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(11)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Still, it's early and McConnell is an experienced political infighter. While <em><a href=\"http://cookpolitical.com/story/6045\" target=\"_blank\">The Cook Political Report</a></em> has moved the race to toss-up status, <a href=\"http://www.centerforpolitics.org/crystalball/articles/ratings-changes-and-non-changes/\" target=\"_blank\">Larry <em>Sabato's Crystal Ball</em></a> still favors McConnell to win the race.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > p:nth-of-type(11)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Still, it's early and McConnell is an experienced political infighter. While ",
         "The Cook Political Report",
@@ -1479,10 +3405,78 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.sharemaintab:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "sharemaintab"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Share",
-      "path": "div > div > section > article > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(4) > ul:nth-of-type(1) > li.share:nth-of-type(1) > a.sharemaintab:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharemaintab"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Share"
       ]
@@ -1513,10 +3507,102 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.facebook.fbStory210280271:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "facebook",
+          "fbStory210280271"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"name\">Facebook</span>",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(4) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.facebookLi:nth-of-type(1) > a.facebook.fbStory210280271:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "facebookLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "facebook",
+            "fbStory210280271"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Facebook"
       ]
@@ -1547,10 +3633,104 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.retweetStory.story210280271.twitter:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "retweetStory",
+          "story210280271",
+          "twitter"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"name\">Twitter</span>",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(4) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.twitterLi:nth-of-type(2) > a.retweetStory.story210280271.twitter:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "twitterLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "retweetStory",
+            "story210280271",
+            "twitter"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Twitter"
       ]
@@ -1581,10 +3761,96 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Google+",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(4) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.googlePlusLi:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "googlePlusLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Google+"
       ]
@@ -1615,10 +3881,102 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.eaf_link.email:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "eaf_link",
+          "email"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Email",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(4) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.email:nth-of-type(4) > a.eaf_link.email:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "email"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "eaf_link",
+            "email"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Email"
       ]
@@ -1655,10 +4013,87 @@
         "position": "absolute",
         "text-align": "center"
       },
-      "element": "span.count:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "count"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "74",
-      "path": "div > div > section > article > div > ul > li > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(4) > ul:nth-of-type(1) > li.comment:nth-of-type(2) > a.comment-count.multiple-comments:nth-of-type(1) > span.count:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "comment"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "comment-count",
+            "multiple-comments"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "count"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "74"
       ]
@@ -1686,10 +4121,80 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.comment-count.multiple-comments:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "comment-count",
+          "multiple-comments"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"count\">74</span><span class=\"name\">Comment</span>",
-      "path": "div > div > section > article > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.clearfix.social:nth-of-type(4) > ul:nth-of-type(1) > li.comment:nth-of-type(2) > a.comment-count.multiple-comments:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "comment"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "comment-count",
+            "multiple-comments"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Comment"
       ]
@@ -1724,10 +4229,63 @@
         "padding-right": "15px",
         "padding-top": "30px"
       },
-      "element": "a#prev_nav.prev:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "prev"
+        ],
+        "id": "prev_nav",
+        "name": "a"
+      },
       "html": "Hubbub Over Hillary Clinton Movies: A Dress Rehearsal For 2016<span class=\"date\">August 7, 2013</span><span class=\"icon\"></span>",
-      "path": "div > div > section > article > div > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.pnnavwrap:nth-of-type(5) > a#prev_nav.prev:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "prev"
+          ],
+          "id": "prev_nav",
+          "name": "a"
+        }
+      ],
       "text": [
         "Hubbub Over Hillary Clinton Movies: A Dress Rehearsal For 2016"
       ]
@@ -1751,10 +4309,71 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "absolute"
       },
-      "element": "span.date:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "date"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "August 7, 2013",
-      "path": "div > div > section > article > div > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.pnnavwrap:nth-of-type(5) > a#prev_nav.prev:nth-of-type(1) > span.date:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "prev"
+          ],
+          "id": "prev_nav",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "date"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "August 7, 2013"
       ]
@@ -1790,10 +4409,63 @@
         "padding-top": "30px",
         "text-align": "right"
       },
-      "element": "a#next_nav.next:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "next"
+        ],
+        "id": "next_nav",
+        "name": "a"
+      },
       "html": "Obama's Challenge: Answer Snowden Without Seeming To<span class=\"date\">August 9, 2013</span><span class=\"icon\"></span>",
-      "path": "div > div > section > article > div > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.pnnavwrap:nth-of-type(5) > a#next_nav.next:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "next"
+          ],
+          "id": "next_nav",
+          "name": "a"
+        }
+      ],
       "text": [
         "Obama's Challenge: Answer Snowden Without Seeming To"
       ]
@@ -1818,10 +4490,71 @@
         "position": "absolute",
         "text-align": "right"
       },
-      "element": "span.date:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "date"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "August 9, 2013",
-      "path": "div > div > section > article > div > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div.pnnavwrap:nth-of-type(5) > a#next_nav.next:nth-of-type(2) > span.date:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "next"
+          ],
+          "id": "next_nav",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "date"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "August 9, 2013"
       ]
@@ -1839,10 +4572,67 @@
         "margin-bottom": "11px",
         "position": "static"
       },
-      "element": "h5#login-overlay-link.commentBoxNotLoggedIn:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "commentBoxNotLoggedIn"
+        ],
+        "id": "login-overlay-link",
+        "name": "h5"
+      },
       "html": "You must be signed in to leave a comment. <a href=\"/templates/reg/login.php?returnUrl=%2Fblogs%2Fitsallpolitics%2F2013%2F08%2F08%2F210280271%2Fas-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand%23commentBlock\">Sign In / Register</a>",
-      "path": "div > div > section > article > div > div > h5",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#commentBlock:nth-of-type(6) > div#disqus-npr:nth-of-type(1) > h5#login-overlay-link.commentBoxNotLoggedIn:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "h5"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "commentBlock",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "disqus-npr",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "commentBoxNotLoggedIn"
+          ],
+          "id": "login-overlay-link",
+          "name": "h5"
+        }
+      ],
       "text": [
         "You must be signed in to leave a comment. ",
         "Sign In / Register"
@@ -1868,10 +4658,63 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Please keep your community civil. All comments must follow the <a href=\"http://npr.org/discussionrules\" target=\"new\">NPR.org Community rules</a> and <a href=\"http://www.npr.org/about/termsofuse.html\" target=\"new\">terms of use</a>, and will be moderated prior to posting. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the <a href=\"http://www.npr.org/about/termsofuse.html\" target=\"new\">Terms of Use</a>, <a href=\"http://www.npr.org/about/privacypolicy.html\" target=\"new\">Privacy Policy</a> and <a href=\"http://npr.org/communityfaq\" target=\"new\">Community FAQ</a>.",
-      "path": "div > div > section > article > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#commentBlock:nth-of-type(6) > div#disqus-npr:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "commentBlock",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "disqus-npr",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Please keep your community civil. All comments must follow the ",
         "NPR.org Community rules",
@@ -1907,10 +4750,66 @@
         "text-transform": "uppercase",
         "vertical-align": "middle"
       },
-      "element": "span.tag:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "tag"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "Political News From NPR",
-      "path": "div > div > section > footer > div > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.branding:nth-of-type(1) > a:nth-of-type(1) > span.tag:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "tag"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "Political News From NPR"
       ]
@@ -1935,10 +4834,71 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "About",
-      "path": "div > div > section > footer > div > div > h3 > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.first.module:nth-of-type(1) > h3:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "first",
+            "module"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "About"
       ]
@@ -1963,10 +4923,91 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<em>It's All Politics</em> covers political news from the nation's capital and its many states. It's hosted by <a href=\"http://www.npr.org/people/104199172/frank-james\">Frank James</a>, with contributions from the NPR politics team. You can reach Frank and the team via <a href=\"http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx?sid=81\">our contact form</a>.",
-      "path": "div > div > section > footer > div > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.first.module:nth-of-type(1) > div#footer_module.agglocation.linkLocation:nth-of-type(1) > div#res163938839.bucketwrap.listtext:nth-of-type(1) > div.bucket:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "first",
+            "module"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "agglocation",
+            "linkLocation"
+          ],
+          "id": "footer_module",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "listtext"
+          ],
+          "id": "res163938839",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "It's All Politics",
         " covers political news from the nation's capital and its many states. It's hosted by ",
@@ -1996,10 +5037,71 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Subscribe",
-      "path": "div > div > section > footer > div > div > h3 > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > h3:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Subscribe"
       ]
@@ -2028,10 +5130,87 @@
         "padding-left": "60px",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Podcast",
-      "path": "div > div > section > footer > div > div > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > div:nth-of-type(1) > ul.subscribe:nth-of-type(1) > li.podcast:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subscribe"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "podcast"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Podcast"
       ]
@@ -2060,10 +5239,87 @@
         "padding-left": "60px",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "RSS",
-      "path": "div > div > section > footer > div > div > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > div:nth-of-type(1) > ul.subscribe:nth-of-type(1) > li.rss:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subscribe"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "rss"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "RSS"
       ]
@@ -2092,10 +5348,87 @@
         "padding-left": "60px",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "@nprpolitics",
-      "path": "div > div > section > footer > div > div > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.second:nth-of-type(2) > div:nth-of-type(1) > ul.subscribe:nth-of-type(1) > li.twitter:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subscribe"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "twitter"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "@nprpolitics"
       ]
@@ -2120,10 +5453,71 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "It's All Politics Podcast",
-      "path": "div > div > section > footer > div > div > h3 > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.third:nth-of-type(3) > h3:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "It's All Politics Podcast"
       ]
@@ -2147,10 +5541,81 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "NPR political analysts Ken Rudin and Ron Elving delve into the week's political news and analysis in a weekly podcast.",
-      "path": "div > div > section > footer > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.third:nth-of-type(3) > div.promo-bucket:nth-of-type(1) > div.bucketblock:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "promo-bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketblock"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "NPR political analysts Ken Rudin and Ron Elving delve into the week's political news and analysis in a weekly podcast."
       ]
@@ -2174,10 +5639,85 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "p.more:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "more"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "<a href=\"http://www.npr.org/rss/podcast/podcast_detail.php?siteId=5495231\">Subscribe</a>",
-      "path": "div > div > section > footer > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.third:nth-of-type(3) > div.promo-bucket:nth-of-type(1) > div.bucketblock:nth-of-type(1) > p.more:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "promo-bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketblock"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "more"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Subscribe"
       ]
@@ -2198,10 +5738,58 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "div.ad-88-text:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "ad-88-text"
+        ],
+        "id": "",
+        "name": "div"
+      },
       "html": "Support comes from:",
-      "path": "div > div > section > div > div > div",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > div#ad-88-wrap:nth-of-type(1) > div#ad-88:nth-of-type(1) > div.ad-88-text:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "ad-88-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-88",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad-88-text"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
       "text": [
         "Support comes from:"
       ]
@@ -2231,10 +5819,64 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "NPR Home",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li.home:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "home"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "NPR Home"
       ]
@@ -2266,10 +5908,64 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li.active:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "active"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -2299,10 +5995,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -2332,10 +6080,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -2365,10 +6165,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -2396,10 +6248,44 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p.left:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "left"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "NPR thanks our sponsors",
-      "path": "div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#ad-desktop-wrap:nth-of-type(1) > p.left:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-desktop-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "NPR thanks our sponsors"
       ]
@@ -2421,10 +6307,44 @@
         "margin-top": "11px",
         "position": "static"
       },
-      "element": "p.right:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "right"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "<a href=\"/about/place/corpsupport/\">Become an NPR sponsor</a>",
-      "path": "div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#ad-desktop-wrap:nth-of-type(1) > p.right:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-desktop-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "right"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Become an NPR sponsor"
       ]
@@ -2452,10 +6372,52 @@
         "padding-top": "44px",
         "position": "static"
       },
-      "element": "h4:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
       "html": "More From It's All Politics",
-      "path": "div > div > div > div > section > h4",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > h4:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
       "text": [
         "More From It's All Politics"
       ]
@@ -2483,17 +6445,96 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
-      "html": "Remembrances",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story212055218.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Politics",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212283267",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
-        "Remembrances"
+        "Politics"
       ]
     },
     {
       "bound": {
-        "height": 72,
+        "height": 54,
         "left": 1303,
         "top": 280,
         "width": 158
@@ -2512,10 +6553,299 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Semantic Gymnastics: GOP In Tug Of War Over Delegate Rule",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212283267",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Semantic Gymnastics: GOP In Tug Of War Over Delegate Rule"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 1303,
+        "top": 379,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-top-color": "rgb(188, 202, 229)",
+        "color": "rgb(188, 202, 229)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "15px",
+        "margin-top": "5px",
+        "outline-color": "rgb(188, 202, 229)",
+        "position": "static",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Remembrances",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212055218",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Remembrances"
+      ]
+    },
+    {
+      "bound": {
+        "height": 72,
+        "left": 1303,
+        "top": 406,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
       "html": "A Lover Of Horse Races, And Horses: Remembering Jack Germond",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story212055218.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212055218",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "A Lover Of Horse Races, And Horses: Remembering Jack Germond"
       ]
@@ -2524,7 +6854,7 @@
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 397,
+        "top": 523,
         "width": 158
       },
       "computed": {
@@ -2543,10 +6873,89 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
       "html": "Politics",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211972651.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211972651",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
         "Politics"
       ]
@@ -2555,7 +6964,7 @@
       "bound": {
         "height": 72,
         "left": 1303,
-        "top": 424,
+        "top": 550,
         "width": 158
       },
       "computed": {
@@ -2572,79 +6981,94 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
       "html": "GOP Debate: Is Obamacare Fight Worth A Government Shutdown?",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211972651.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211972651",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "GOP Debate: Is Obamacare Fight Worth A Government Shutdown?"
       ]
     },
     {
       "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 541,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-top-color": "rgb(188, 202, 229)",
-        "color": "rgb(188, 202, 229)",
-        "font-size": "12px",
-        "font-weight": "bold",
-        "line-height": "12px",
-        "margin-bottom": "15px",
-        "margin-top": "5px",
-        "outline-color": "rgb(188, 202, 229)",
-        "position": "static",
-        "text-transform": "lowercase"
-      },
-      "element": "h2.slug:nth-of-type(1)",
-      "html": "Politics",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211663932.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
-      "text": [
-        "Politics"
-      ]
-    },
-    {
-      "bound": {
-        "height": 72,
-        "left": 1303,
-        "top": 568,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-top-color": "rgb(0, 0, 0)",
-        "color": "rgb(0, 0, 0)",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "line-height": "18px",
-        "margin-bottom": "10px",
-        "outline-color": "rgb(0, 0, 0)",
-        "position": "static"
-      },
-      "element": "h3:nth-of-type(1)",
-      "html": "Star-Making Turn As Newark Mayor Launches Booker Toward D.C.",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211663932.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
-      "text": [
-        "Star-Making Turn As Newark Mayor Launches Booker Toward D.C."
-      ]
-    },
-    {
-      "bound": {
         "height": 16,
         "left": 1273,
-        "top": 700,
+        "top": 682,
         "width": 299
       },
       "computed": {
@@ -2665,10 +7089,60 @@
         "position": "static",
         "text-align": "right"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "More From It's All Politics",
-      "path": "div > div > div > div > section > p > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > p.more:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "p",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "more"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "More From It's All Politics"
       ]
@@ -2688,10 +7162,51 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "h4:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
       "html": "<a href=\"http://shop.npr.org/?utm_source=Banners&amp;utm_medium=ResponsiveAd&amp;utm_content=General&amp;utm_campaign=300x150\">NPR Shop</a>",
-      "path": "div > div > div > div > h4",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
       "text": [
         "NPR Shop"
       ]
@@ -2717,10 +7232,51 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Support The Programs You Love",
-      "path": "div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Support The Programs You Love"
       ]
@@ -2746,10 +7302,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.news:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "news"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -2775,10 +7379,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.artslife:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "artslife"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -2804,10 +7456,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.music:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "music"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -2833,10 +7533,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Programs",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.programs:nth-of-type(5) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "programs"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Programs"
       ]
@@ -2862,10 +7610,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.listen:nth-of-type(6) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "listen"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -2891,10 +7687,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "About",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.about:nth-of-type(7) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "about"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "About"
       ]
@@ -2920,10 +7764,48 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p.copyright:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "copyright"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "©2013 NPR",
-      "path": "footer > div > div > p",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > p.copyright:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "copyright"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "©2013 NPR"
       ]
@@ -2951,10 +7833,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li#footerContact:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "footerContact",
+        "name": "li"
+      },
       "html": "<a href=\"http://help.npr.org/npr/wf/m/index.aspx\">Contact</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li#footerContact:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "footerContact",
+          "name": "li"
+        }
+      ],
       "text": [
         "Contact"
       ]
@@ -2982,10 +7904,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(2)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179876898/terms-of-use\">Terms of Use</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Terms of Use"
       ]
@@ -3013,10 +7975,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(3)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179878450/privacy-policy\">Privacy</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Privacy"
       ]
@@ -3043,10 +8045,54 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li.sponsorship-choices:nth-of-type(4)",
+      "element": {
+        "classes": [
+          "sponsorship-choices"
+        ],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons\">Sponsorship Choices</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li.sponsorship-choices:nth-of-type(4)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "sponsorship-choices"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Sponsorship Choices"
       ]
@@ -3074,10 +8120,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(5)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"http://thin.npr.org/\">Text-Only</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Text-Only"
       ]
@@ -3102,9 +8188,37 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "header > a > img",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > a.nprhome:nth-of-type(2) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "header",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "nprhome"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/chrome/news/nprlogo_138x46.gif"
     },
     {
@@ -3130,9 +8244,67 @@
         "position": "static",
         "vertical-align": "middle"
       },
-      "element": "img.main:nth-of-type(1)",
-      "path": "div > div > section > header > div > a > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > header.contentheader:nth-of-type(1) > div.branding:nth-of-type(2) > a:nth-of-type(1) > img.main:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "main"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/branding/blogs/itsallpolitics/branding_main-6ecdfcee04b6b2c409c3f0f5cfdbfa0aa9c1feb5.png"
     },
     {
@@ -3146,9 +8318,84 @@
         "background-color": "rgba(0, 0, 0, 0)",
         "position": "static"
       },
-      "element": "img.img.lazyOnLoad:nth-of-type(1)",
-      "path": "div > div > section > article > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210300846.bucketwrap.image.large:nth-of-type(1) > div.imagewrap:nth-of-type(1) > img.img.lazyOnLoad:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "img",
+          "lazyOnLoad"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210300846",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "imagewrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "img",
+            "lazyOnLoad"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/08/ap771136581492_wide-bb8ed07c84b94ffd088a2455761c37437043a668-s6-c30.jpg"
     },
     {
@@ -3162,9 +8409,84 @@
         "background-color": "rgba(0, 0, 0, 0)",
         "position": "static"
       },
-      "element": "img.img.lazyOnLoad:nth-of-type(1)",
-      "path": "div > div > section > article > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story.story-blogpost:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(3) > div#res210302516.bucketwrap.image.medium:nth-of-type(2) > div.imagewrap:nth-of-type(1) > img.img.lazyOnLoad:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "img",
+          "lazyOnLoad"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "medium"
+          ],
+          "id": "res210302516",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "imagewrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "img",
+            "lazyOnLoad"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/08/ap110813128896_custom-413d5d3e70658747ee63001dd5653d17a92f7b6e-s6-c30.jpg"
     },
     {
@@ -3189,9 +8511,65 @@
         "position": "static",
         "vertical-align": "middle"
       },
-      "element": "img.main:nth-of-type(1)",
-      "path": "div > div > section > footer > div > a > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.branding:nth-of-type(1) > a:nth-of-type(1) > img.main:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "main"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/branding/blogs/itsallpolitics/branding_main-6ecdfcee04b6b2c409c3f0f5cfdbfa0aa9c1feb5.png"
     },
     {
@@ -3215,14 +8593,87 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img.pod:nth-of-type(1)",
-      "path": "div > div > section > footer > div > div > div > a > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > footer#contentfooter:nth-of-type(1) > div.modules:nth-of-type(2) > div.module.third:nth-of-type(3) > div.promo-bucket:nth-of-type(1) > a:nth-of-type(1) > img.pod:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "pod"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "promo-bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "pod"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/images/podcasts/thumbnail/icon_510068.jpg"
     },
     {
       "bound": {
-        "height": 63,
+        "height": 62,
         "left": 1491,
         "top": 272,
         "width": 63
@@ -3239,16 +8690,190 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > section > div > article > a > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story212055218.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.storyimg:nth-of-type(2) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212283267",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/assets/img/2013/08/15/10584701_h19155095_sq-af8069d28ecda5220e1b9a8f551042f020eb91a2.jpg?s=16"
+    },
+    {
+      "bound": {
+        "height": 63,
+        "left": 1491,
+        "top": 398,
+        "width": 63
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "float": "left",
+        "max-width": "100%",
+        "outline-color": "rgb(109, 138, 196)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212055218",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/14/ap320763252878_sq-b8fe702d007cad00d496db0a5c9479b1ab6d7498.jpg?s=16"
     },
     {
       "bound": {
         "height": 62,
         "left": 1491,
-        "top": 416,
+        "top": 542,
         "width": 63
       },
       "computed": {
@@ -3263,34 +8888,85 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > section > div > article > a > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211972651.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.storyimg:nth-of-type(2) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211972651",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/14/ap482391858135_sq-d031679f1bec5d5910784ed048df91b63f5f65b3.jpg?s=16"
-    },
-    {
-      "bound": {
-        "height": 63,
-        "left": 1491,
-        "top": 560,
-        "width": 63
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-top-color": "rgb(109, 138, 196)",
-        "color": "rgb(109, 138, 196)",
-        "float": "left",
-        "max-width": "100%",
-        "outline-color": "rgb(109, 138, 196)",
-        "position": "static"
-      },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > section > div > article > a > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story211663932.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyimg:nth-of-type(2) > img:nth-of-type(1)",
-      "src": "http://media.npr.org/assets/img/2013/08/13/10338561_h23801260_sq-ae0da3367d16539a39f705e17e315c8929cb9a5c.jpg?s=16"
     },
     {
       "bound": {
@@ -3307,9 +8983,50 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/images/shop_300x150-04.jpg"
     }
   ]

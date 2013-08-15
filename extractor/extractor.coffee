@@ -54,32 +54,16 @@ page.onLoadFinished = (status) ->
         spider.namespace 'spider.utils', (exports) ->
             'use strict'
 
-            exports.nth = (element) ->
-                parent = element.parentElement
-                id = parent.id
-                parent.id = 'spider' + parseInt(Math.random() * 100000)
-                children = document.querySelectorAll('#' + parent.id + ' > ' + element.tagName)
-                parent.id = id
-                for el, index in children
-                    return index + 1 if el is element
-                return 0
-
             # get element description
             exports.element = (element, is_name_only) ->
                 name = element.tagName.toLowerCase()
                 return name if is_name_only
 
-                # classes sorted
-                classes = ('.' + c for c in (c for c in element.classList).sort()).join('')
-
-                # id
-                id = if element.id then '#' + element.id else ''
-
-                # nth-of-type
-                nth = exports.nth(element)
-                nth = if nth > 0 then ':nth-of-type(' + nth + ')' else ''
-
-                return name + id + classes + nth
+                data = 
+                    name: name
+                    id: element.id or ''
+                    classes: (c for c in element.classList).sort()
+                return data
 
             # generate tag path
             exports.path = (element, is_name_only) ->
@@ -88,7 +72,7 @@ page.onLoadFinished = (status) ->
                     break if element is document.body
                     path.splice 0, 0, exports.element(element, is_name_only)
                     element = element.parentElement
-                return path.join(' > ')
+                return path
 
             # calculate block bound
             exports.bound = (element) ->

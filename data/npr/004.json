@@ -307,10 +307,22 @@
         "overflow-y": "hidden",
         "position": "absolute"
       },
-      "element": "a#skiplink:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "skiplink",
+        "name": "a"
+      },
       "html": "Skip to Main Content",
-      "path": "a",
-      "selector": "a#skiplink:nth-of-type(1)",
+      "path": [
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "skiplink",
+          "name": "a"
+        }
+      ],
       "text": [
         "Skip to Main Content"
       ]
@@ -337,10 +349,42 @@
         "text-align": "left",
         "text-indent": "-139986px"
       },
-      "element": "a.search-toggle:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "search-toggle"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Toggle search",
-      "path": "header > div > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > a.search-toggle:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "search-toggle"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Toggle search"
       ]
@@ -368,10 +412,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Stations",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.stations:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "stations"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Stations"
       ]
@@ -399,10 +493,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Donate",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.donate:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "donate"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Donate"
       ]
@@ -430,10 +574,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Shop",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.nprshop:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "nprshop"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Shop"
       ]
@@ -460,10 +654,61 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Sign In/Register",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav#loginPElm.nav-two:nth-of-type(1) > ul:nth-of-type(1) > li.loggedOut.login-reg:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-two"
+          ],
+          "id": "loginPElm",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "loggedOut",
+            "login-reg"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Sign In/Register"
       ]
@@ -491,10 +736,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.news:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "news"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -522,10 +817,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.artslife:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "artslife"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -553,10 +898,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.music:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "music"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -584,10 +979,60 @@
         "text-align": "right",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "header > div > nav > ul > li > a",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > div.inner:nth-of-type(1) > nav.nav-one:nth-of-type(2) > ul:nth-of-type(1) > li.listen:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-one"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "listen"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -619,10 +1064,54 @@
         "text-transform": "lowercase",
         "z-index": "0"
       },
-      "element": "ul.breadcrumb:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "breadcrumb"
+        ],
+        "id": "",
+        "name": "ul"
+      },
       "html": "\n      <li><a href=\"http://www.npr.org/sections/arts/\">Arts &amp; Life</a> <span class=\"arrow\">&gt;</span></li>\n   \n   <li><a href=\"http://www.npr.org/sections/movies/\">Movies</a> <span class=\"arrow\">&gt;</span></li>\n   \n   <li class=\"last\"><a href=\"http://www.npr.org/sections/movie-interviews/\">Movie Interviews</a></li>\n   \n",
-      "path": "div > div > section > article > ul",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > ul.breadcrumb:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "breadcrumb"
+          ],
+          "id": "",
+          "name": "ul"
+        }
+      ],
       "text": [
         "Arts & Life",
         "Movies",
@@ -645,10 +1134,58 @@
         "margin-top": "15px",
         "position": "static"
       },
-      "element": "h1:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h1"
+      },
       "html": "In 'A World,' All Voice-Overs Are Not Created Equal",
-      "path": "div > div > section > article > div > h1",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.storytitle:nth-of-type(1) > h1:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "storytitle"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        }
+      ],
       "text": [
         "In 'A World,' All Voice-Overs Are Not Created Equal"
       ]
@@ -672,10 +1209,60 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "div.dateblock:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "dateblock"
+        ],
+        "id": "",
+        "name": "div"
+      },
       "html": "\n            <time datetime=\"2013-08-08\"><span class=\"date\">August 08, 2013</span><span class=\"time\">12:23 PM</span></time>\n   ",
-      "path": "div > div > section > article > div > div",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#story-meta:nth-of-type(2) > div.dateblock:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "story-meta",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "dateblock"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
       "text": [
         "August 08, 2013",
         "12:23 PM"
@@ -704,10 +1291,89 @@
         "overflow-x": "hidden",
         "overflow-y": "hidden"
       },
-      "element": "h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
       "html": "Audio Unavailable",
-      "path": "div > div > section > article > div > div > div > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#primaryaudio.linkLocation.storylocation:nth-of-type(3) > div#res210164739.bucketwrap.medium.primary.resaudio:nth-of-type(1) > div.audio.enhance-replace.resaudio:nth-of-type(1) > div.avcontent.listen:nth-of-type(2) > h3:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation"
+          ],
+          "id": "primaryaudio",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "medium",
+            "primary",
+            "resaudio"
+          ],
+          "id": "res210164739",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "audio",
+            "enhance-replace",
+            "resaudio"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "avcontent",
+            "listen"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "Audio Unavailable"
       ]
@@ -731,10 +1397,89 @@
         "outline-color": "rgb(102, 102, 102)",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Try one of our other <a href=\"/listen\">listening options</a>",
-      "path": "div > div > section > article > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#primaryaudio.linkLocation.storylocation:nth-of-type(3) > div#res210164739.bucketwrap.medium.primary.resaudio:nth-of-type(1) > div.audio.enhance-replace.resaudio:nth-of-type(1) > div.avcontent.listen:nth-of-type(2) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation"
+          ],
+          "id": "primaryaudio",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "medium",
+            "primary",
+            "resaudio"
+          ],
+          "id": "res210164739",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "audio",
+            "enhance-replace",
+            "resaudio"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "avcontent",
+            "listen"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Try one of our other ",
         "listening options"
@@ -763,10 +1508,86 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Both Lake Bell and Fred Melamed say they became interested in voice-over work because it didn't matter what you looked like. They play father and daughter voice-over artists in <em>In a World ...</em>",
-      "path": "div > div > section > article > div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210141694.bucketwrap.image.large:nth-of-type(1) > div.captionwrap:nth-of-type(2) > div.caption:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210141694",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Both Lake Bell and Fred Melamed say they became interested in voice-over work because it didn't matter what you looked like. They play father and daughter voice-over artists in ",
         "In a World ..."
@@ -795,10 +1616,74 @@
         "padding-top": "12px",
         "position": "static"
       },
-      "element": "span.creditwrap:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "creditwrap"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "<span class=\"credit\">Bonnie Osborne</span>/<span class=\"rightsnotice\"> Roadside Attractions</span>",
-      "path": "div > div > section > article > div > div > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210141694.bucketwrap.image.large:nth-of-type(1) > span.creditwrap:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210141694",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "creditwrap"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "Bonnie Osborne",
         "/",
@@ -830,10 +1715,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Don LaFontaine had a<em> </em>voice anyone would recognize. As a voice-over artist, he recorded thousands of movie trailers and TV commercials, and became famous for his delivery of the phrase \"In a world,\" which kicked off countless trailers. He died in 2008, but the new comedy <em>In a World ... —</em> written and directed by actress Lake Bell<em> — </em>tells the story of voice-over artists competing to become the next LaFontaine.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Don LaFontaine had a",
         "voice anyone would recognize. As a voice-over artist, he recorded thousands of movie trailers and TV commercials, and became famous for his delivery of the phrase \"In a world,\" which kicked off countless trailers. He died in 2008, but the new comedy ",
@@ -868,10 +1803,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(2)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Bell co-stars opposite Fred Melamed, who doesn't just play a voice-over artist — he is one, with any number of ads, trailers and TV-network commercials. He's an actor, too, perhaps best known for his performance as Sy Ableman in the Coen Brothers movie <em>A Serious Man.</em>",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Bell co-stars opposite Fred Melamed, who doesn't just play a voice-over artist — he is one, with any number of ads, trailers and TV-network commercials. He's an actor, too, perhaps best known for his performance as Sy Ableman in the Coen Brothers movie ",
         "A Serious Man."
@@ -902,10 +1887,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(3)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Bell, for her part, starred with Meryl Streep in <em>It's Complicated,</em> and co-stars on the Adult Swim comedy series <em>Childrens Hospital.</em> At this year's Sundance Film Festival, she won the Waldo Salt Screenwriting Award for <em>In a World ..., </em>which casts her as a veteran voice coach who wants to break into the male-dominated world of voice-overs. One of the men she's competing with is her father, played by Melamed, who's already near the top of the field.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(3)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Bell, for her part, starred with Meryl Streep in ",
         "It's Complicated,",
@@ -941,10 +1976,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(4)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Bell and Melamed joined <em>Fresh Air</em>'s Terry Gross to talk about the attractions of voice-over work, researching an accent, and the perils of \"sexy-baby vocal virus.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(4)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Bell and Melamed joined ",
         "Fresh Air",
@@ -975,10 +2060,64 @@
         "padding-left": "15px",
         "padding-right": "15px"
       },
-      "element": "h3.edTag:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "edTag"
+        ],
+        "id": "",
+        "name": "h3"
+      },
       "html": "<strong>Interview Highlights</strong>",
-      "path": "div > div > section > article > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > h3.edTag:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "edTag"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "Interview Highlights"
       ]
@@ -1008,10 +2147,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(5)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<strong>On what initially drew them to voice-over work</strong>",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(5)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "On what initially drew them to voice-over work"
       ]
@@ -1029,10 +2218,92 @@
         "margin-bottom": "5px",
         "position": "static"
       },
-      "element": "h3.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h3"
+      },
       "html": "<a href=\"http://www.npr.org/sections/movie-interviews/\">Movie Interviews </a>",
-      "path": "div > div > section > article > div > div > div > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210135688.bucketwrap.inset2col.insettwocolumn.internallink:nth-of-type(3) > div.bucket.img:nth-of-type(1) > div.bucketblock:nth-of-type(1) > h3.slug:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "inset2col",
+            "insettwocolumn",
+            "internallink"
+          ],
+          "id": "res210135688",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucket",
+            "img"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketblock"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "Movie Interviews "
       ]
@@ -1049,10 +2320,88 @@
         "font-size": "11px",
         "position": "static"
       },
-      "element": "h3:nth-of-type(2)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
       "html": "<a href=\"http://www.npr.org/2013/07/25/204510672/in-a-world-is-a-comedy-about-you-guessed-it-voice-over-artists\" data-metrics=\"{&quot;category&quot;:&quot;Story to Story&quot;,&quot;action&quot;:&quot;Click Internal Link&quot;,&quot;label&quot;:&quot;http:\\/\\/www.npr.org\\/2013\\/07\\/25\\/204510672\\/in-a-world-is-a-comedy-about-you-guessed-it-voice-over-artists&quot;}\"> 'In A World ...' Is A Comedy About, You Guessed It, Voice-Over Artists</a>",
-      "path": "div > div > section > article > div > div > div > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210135688.bucketwrap.inset2col.insettwocolumn.internallink:nth-of-type(3) > div.bucket.img:nth-of-type(1) > div.bucketblock:nth-of-type(1) > h3:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "inset2col",
+            "insettwocolumn",
+            "internallink"
+          ],
+          "id": "res210135688",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucket",
+            "img"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketblock"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         " 'In A World ...' Is A Comedy About, You Guessed It, Voice-Over Artists"
       ]
@@ -1082,10 +2431,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(6)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<strong>Bell:</strong> \"I always wanted to be an actor, [and] I guess it seemed like the ultimate acting to me. You know, the idea of blind voice was very alluring — because in a way you weren't judged by what you looked like, you could be any character and create any characterization. ... It's the only medium where you can be anyone, any social [level]<em></em>, any nationality, any gender, for that matter.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(6)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Bell:",
         " \"I always wanted to be an actor, [and] I guess it seemed like the ultimate acting to me. You know, the idea of blind voice was very alluring — because in a way you weren't judged by what you looked like, you could be any character and create any characterization. ... It's the only medium where you can be anyone, any social [level]",
@@ -1117,10 +2516,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(7)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<strong>Melamed:</strong> \"I always felt, frankly, I couldn't stand the way I looked, and voice-over was an opportunity to play anything. ... [Voice-over acting] has always been my waitress job. I got out of drama school in 1981 ... and I've never had to have another job outside of being a performer. ... And it's strictly because I do voice-overs that I was able to tough it out through the periods [when] there was scant work, which is something that happens to all actors.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(7)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Melamed:",
         " \"I always felt, frankly, I couldn't stand the way I looked, and voice-over was an opportunity to play anything. ... [Voice-over acting] has always been my waitress job. I got out of drama school in 1981 ... and I've never had to have another job outside of being a performer. ... And it's strictly because I do voice-overs that I was able to tough it out through the periods [when] there was scant work, which is something that happens to all actors.\""
@@ -1151,10 +2600,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(8)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<strong>On how male and female voice-overs are used differently </strong>",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(8)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "On how male and female voice-overs are used differently "
       ]
@@ -1184,10 +2683,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(9)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<strong>Bell:</strong> \"If a man is selling you a car in a voice-over, it's like, 'Buy this car and you'll get to be me.' And if a woman is selling a car via the voice-over, then it's sort of, 'Buy this car and you'll get to be <em>with</em> me.' So it's this interesting dynamic.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(9)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Bell:",
         " \"If a man is selling you a car in a voice-over, it's like, 'Buy this car and you'll get to be me.' And if a woman is selling a car via the voice-over, then it's sort of, 'Buy this car and you'll get to be ",
@@ -1220,10 +2769,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(10)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<strong>On sexy voice trends through the ages</strong>",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(10)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "On sexy voice trends through the ages"
       ]
@@ -1253,10 +2852,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(11)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<strong>Bell:</strong> \"The vocal trend that is infecting the female youth in this fine nation is the sexy baby vocal virus. [It's] a huge problem for a myriad of reasons, one being ... is that sexy? Because ... I think [what] is intended is this submissive I'm-a-12-year-old-and-you-can-tell-me-what-to-do [thing], which I think is pretty weird, for that to be considered sexually enticing.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(11)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Bell:",
         " \"The vocal trend that is infecting the female youth in this fine nation is the sexy baby vocal virus. [It's] a huge problem for a myriad of reasons, one being ... is that sexy? Because ... I think [what] is intended is this submissive I'm-a-12-year-old-and-you-can-tell-me-what-to-do [thing], which I think is pretty weird, for that to be considered sexually enticing."
@@ -1287,10 +2936,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(12)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"But I think women of all ages adopted this thing. Whilst, when I was growing up and I first saw Lauren Bacall in a movie and I heard her voice — and Faye Dunaway and Anne Bancroft — I mean, <em>that</em> sounded hot to me. That sounded like something I wanted to aspire to. And I mean, Lauren Bacall is like 19 years old in <em>To Have and Have Not</em>, and she was talking like a Big Girl.",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(12)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"But I think women of all ages adopted this thing. Whilst, when I was growing up and I first saw Lauren Bacall in a movie and I heard her voice — and Faye Dunaway and Anne Bancroft — I mean, ",
         "that",
@@ -1324,10 +3023,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(13)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "\"[The sexy baby vocal virus] originate[d] and then festered from reality television, in some respects. ... I would love to talk to some of the ladies who are on reality-television shows. I have a fantasy of helping them find their true voice.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(13)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "\"[The sexy baby vocal virus] originate[d] and then festered from reality television, in some respects. ... I would love to talk to some of the ladies who are on reality-television shows. I have a fantasy of helping them find their true voice.\""
       ]
@@ -1353,10 +3102,74 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "h3.conheader:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "conheader"
+        ],
+        "id": "",
+        "name": "h3"
+      },
       "html": "Hear Voice-Over King LaFontaine At Work",
-      "path": "div > div > section > article > div > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#con210143947.con1col.container.small:nth-of-type(4) > h3.conheader:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "con1col",
+            "container",
+            "small"
+          ],
+          "id": "con210143947",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "conheader"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "Hear Voice-Over King LaFontaine At Work"
       ]
@@ -1375,10 +3188,79 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "div:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "div"
+      },
       "html": "<a href=\"http://www.funnyordie.com/videos/4781d17ca3/don-lafontaine-tribute-king-of-trailer-voiceover-from-trailermash\" title=\"'from TrailerMash and Ryan Perez\">Don LaFontaine Tribute: King of Trailer Voice-Over</a> - watch more <a href=\"http://www.funnyordie.com/\" title=\"on Funny or Die\">funny videos</a>      <iframe src=\"http://www.facebook.com/plugins/like.php?app_id=138711277798&amp;href=http%3A%2F%2Fwww.funnyordie.com%2Fvideos%2F4781d17ca3%2Fdon-lafontaine-tribute-king-of-trailer-voiceover-from-trailermash&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=false&amp;action=like&amp;height=21\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:90px; height:21px; vertical-align:middle;\" allowtransparency=\"true\"></iframe>\n",
-      "path": "div > div > section > article > div > div > div > div",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#con210143947.con1col.container.small:nth-of-type(4) > div#res210143827.bucketwrap.statichtml:nth-of-type(1) > div:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "con1col",
+            "container",
+            "small"
+          ],
+          "id": "con210143947",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "statichtml"
+          ],
+          "id": "res210143827",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        }
+      ],
       "text": [
         "Don LaFontaine Tribute: King of Trailer Voice-Over",
         " - watch more ",
@@ -1410,10 +3292,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(14)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<strong>On researching what a Bulgarian woman educated in England sounds like</strong>",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(14)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "On researching what a Bulgarian woman educated in England sounds like"
       ]
@@ -1443,10 +3375,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(15)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<strong>Bell:</strong> \"The first thing I thought was, obviously, I'm going to go to the embassy, because they have a lot of those kinds of people there. So I went out there — 20 years old with a tape recorder, an American to boot — and knocked on the door of the Bulgarian Embassy. I realized that ... perhaps it's not the ideal to dress all in black with a tape recorder and start asking questions in an embassy. You know, you gotta learn. There are growing pains. That didn't play out so great. I had to go to a Bulgarian restaurant, which are really hard to come by.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(15)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Bell:",
         " \"The first thing I thought was, obviously, I'm going to go to the embassy, because they have a lot of those kinds of people there. So I went out there — 20 years old with a tape recorder, an American to boot — and knocked on the door of the Bulgarian Embassy. I realized that ... perhaps it's not the ideal to dress all in black with a tape recorder and start asking questions in an embassy. You know, you gotta learn. There are growing pains. That didn't play out so great. I had to go to a Bulgarian restaurant, which are really hard to come by.\""
@@ -1477,10 +3459,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(16)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<strong>On Don LaFontaine's larger-than-life personality and work ethic</strong>",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(16)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "On Don LaFontaine's larger-than-life personality and work ethic"
       ]
@@ -1510,10 +3542,60 @@
         "padding-right": "15px",
         "position": "static"
       },
-      "element": "p:nth-of-type(17)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "<strong>Melamed:</strong> \"Don LaFontaine was famous for having a white stretch limo with the letters 'DLF' on the side with a little coronet, and he would run around from one studio to another all day. And this is before cellphones. He had a very expensive ship-to-shore phone, which is a thing that costs many, many thousands of dollars, that barely worked, that he had installed in his stretch limo. And he hooked up a fax machine to it, and while he was riding from, say, Fox to Columbia, he would have the next set of scripts faxed to him so he could rehearse. So by the time he got to the studio he could do it quickly, and he could go to the next studio. So his whole day was spent going from one studio to another. ... But there was nobody who came close to him in terms of the amount of work that he did or the money that he generated.\"",
-      "path": "div > div > section > article > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > p:nth-of-type(17)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Melamed:",
         " \"Don LaFontaine was famous for having a white stretch limo with the letters 'DLF' on the side with a little coronet, and he would run around from one studio to another all day. And this is before cellphones. He had a very expensive ship-to-shore phone, which is a thing that costs many, many thousands of dollars, that barely worked, that he had installed in his stretch limo. And he hooked up a fax machine to it, and while he was riding from, say, Fox to Columbia, he would have the next set of scripts faxed to him so he could rehearse. So by the time he got to the studio he could do it quickly, and he could go to the next studio. So his whole day was spent going from one studio to another. ... But there was nobody who came close to him in terms of the amount of work that he did or the money that he generated.\""
@@ -1542,10 +3624,77 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.sharemaintab:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "sharemaintab"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Share",
-      "path": "div > div > section > article > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > a.sharemaintab:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharemaintab"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Share"
       ]
@@ -1576,10 +3725,101 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.facebook.fbStory210135579:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "facebook",
+          "fbStory210135579"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"name\">Facebook</span>",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.facebookLi:nth-of-type(1) > a.facebook.fbStory210135579:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "facebookLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "facebook",
+            "fbStory210135579"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Facebook"
       ]
@@ -1610,10 +3850,103 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.retweetStory.story210135579.twitter:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "retweetStory",
+          "story210135579",
+          "twitter"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"name\">Twitter</span>",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.twitterLi:nth-of-type(2) > a.retweetStory.story210135579.twitter:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "twitterLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "retweetStory",
+            "story210135579",
+            "twitter"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Twitter"
       ]
@@ -1644,10 +3977,103 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Google+",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > div > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.googlePlusLi:nth-of-type(3) > div.g-interactivepost:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "googlePlusLi"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "g-interactivepost"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Google+"
       ]
@@ -1678,10 +4104,101 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.eaf_link.email:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "eaf_link",
+          "email"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "Email",
-      "path": "div > div > section > article > div > ul > li > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.share:nth-of-type(1) > div.sharepop:nth-of-type(1) > ul:nth-of-type(1) > li.email:nth-of-type(4) > a.eaf_link.email:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sharepop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "email"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "eaf_link",
+            "email"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Email"
       ]
@@ -1718,10 +4235,86 @@
         "position": "absolute",
         "text-align": "center"
       },
-      "element": "span.count:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "count"
+        ],
+        "id": "",
+        "name": "span"
+      },
       "html": "9",
-      "path": "div > div > section > article > div > ul > li > a > span",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.comment:nth-of-type(2) > a.comment-count.multiple-comments:nth-of-type(1) > span.count:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "comment"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "comment-count",
+            "multiple-comments"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "count"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
       "text": [
         "9"
       ]
@@ -1749,10 +4342,79 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "a.comment-count.multiple-comments:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "comment-count",
+          "multiple-comments"
+        ],
+        "id": "",
+        "name": "a"
+      },
       "html": "<span class=\"count\">9</span><span class=\"name\">Comment</span>",
-      "path": "div > div > section > article > div > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div.clearfix.social:nth-of-type(5) > ul:nth-of-type(1) > li.comment:nth-of-type(2) > a.comment-count.multiple-comments:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "social"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "comment"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "comment-count",
+            "multiple-comments"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Comment"
       ]
@@ -1770,10 +4432,66 @@
         "margin-bottom": "11px",
         "position": "static"
       },
-      "element": "h5#login-overlay-link.commentBoxNotLoggedIn:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "commentBoxNotLoggedIn"
+        ],
+        "id": "login-overlay-link",
+        "name": "h5"
+      },
       "html": "You must be signed in to leave a comment. <a href=\"/templates/reg/login.php?returnUrl=%2F2013%2F08%2F08%2F210135579%2Fin-a-world-all-voice-overs-are-not-created-equal%23commentBlock\">Sign In / Register</a>",
-      "path": "div > div > section > article > div > div > h5",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#commentBlock:nth-of-type(6) > div#disqus-npr:nth-of-type(1) > h5#login-overlay-link.commentBoxNotLoggedIn:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "h5"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "commentBlock",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "disqus-npr",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "commentBoxNotLoggedIn"
+          ],
+          "id": "login-overlay-link",
+          "name": "h5"
+        }
+      ],
       "text": [
         "You must be signed in to leave a comment. ",
         "Sign In / Register"
@@ -1799,10 +4517,62 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Please keep your community civil. All comments must follow the <a href=\"http://npr.org/discussionrules\" target=\"new\">NPR.org Community rules</a> and <a href=\"http://www.npr.org/about/termsofuse.html\" target=\"new\">Terms of Use</a>. NPR reserves the right to use the comments we receive, in whole or in part, and to use the commenter's name and location, in any medium. See also the <a href=\"http://www.npr.org/about/termsofuse.html\" target=\"new\">Terms of Use</a>, <a href=\"http://www.npr.org/about/privacypolicy.html\" target=\"new\">Privacy Policy</a> and <a href=\"http://npr.org/communityfaq\" target=\"new\">Community FAQ</a>.",
-      "path": "div > div > section > article > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#commentBlock:nth-of-type(6) > div#disqus-npr:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "commentBlock",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "disqus-npr",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Please keep your community civil. All comments must follow the ",
         "NPR.org Community rules",
@@ -1833,10 +4603,58 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "div.ad-88-text:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "ad-88-text"
+        ],
+        "id": "",
+        "name": "div"
+      },
       "html": "Support comes from:",
-      "path": "div > div > section > div > div > div",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > div#ad-88-wrap:nth-of-type(1) > div#ad-88:nth-of-type(1) > div.ad-88-text:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "ad-88-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-88",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad-88-text"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
       "text": [
         "Support comes from:"
       ]
@@ -1866,10 +4684,64 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "NPR Home",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li.home:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "home"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "NPR Home"
       ]
@@ -1901,10 +4773,64 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li.active:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "active"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -1934,10 +4860,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -1967,10 +4945,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -2000,10 +5030,62 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "div > div > section > nav > ul > li > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section#navsidebar:nth-of-type(2) > nav#sideMenu:nth-of-type(1) > ul#sideMainNav.nav-bar:nth-of-type(1) > li:nth-of-type(5) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "navsidebar",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "sideMenu",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "nav-bar"
+          ],
+          "id": "sideMainNav",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -2031,10 +5113,44 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p.left:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "left"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "NPR thanks our sponsors",
-      "path": "div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#ad-desktop-wrap:nth-of-type(1) > p.left:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-desktop-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "NPR thanks our sponsors"
       ]
@@ -2056,10 +5172,44 @@
         "margin-top": "11px",
         "position": "static"
       },
-      "element": "p.right:nth-of-type(2)",
+      "element": {
+        "classes": [
+          "right"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "<a href=\"/about/place/corpsupport/\">Become an NPR sponsor</a>",
-      "path": "div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#ad-desktop-wrap:nth-of-type(1) > p.right:nth-of-type(2)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ad-desktop-wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "right"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Become an NPR sponsor"
       ]
@@ -2087,10 +5237,52 @@
         "padding-top": "44px",
         "position": "static"
       },
-      "element": "h4:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
       "html": "More From Movie Interviews",
-      "path": "div > div > div > div > section > h4",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > h4:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
       "text": [
         "More From Movie Interviews"
       ]
@@ -2118,10 +5310,90 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
       "html": "Movie Interviews",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210880932.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.noimg.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story210880932",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "noimg",
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
         "Movie Interviews"
       ]
@@ -2147,10 +5419,86 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
       "html": "'Lovelace': A Sex Superstar's Struggle To Show Herself",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210880932.clearfix.story:nth-of-type(1) > a:nth-of-type(1) > div.noimg.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story210880932",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "noimg",
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "'Lovelace': A Sex Superstar's Struggle To Show Herself"
       ]
@@ -2178,10 +5526,90 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
       "html": "Movie Interviews",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210759506.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.noimg.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story210759506",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "noimg",
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
         "Movie Interviews"
       ]
@@ -2207,10 +5635,86 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
       "html": "Clarification: Third Coast Documentary Festival",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210759506.clearfix.story:nth-of-type(2) > a:nth-of-type(1) > div.noimg.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story210759506",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "noimg",
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "Clarification: Third Coast Documentary Festival"
       ]
@@ -2238,10 +5742,89 @@
         "position": "static",
         "text-transform": "lowercase"
       },
-      "element": "h2.slug:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
       "html": "Movie Interviews",
-      "path": "div > div > div > div > section > div > article > a > div > h2",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210506171.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h2.slug:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story210506171",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
       "text": [
         "Movie Interviews"
       ]
@@ -2267,10 +5850,85 @@
         "outline-color": "rgb(0, 0, 0)",
         "position": "static"
       },
-      "element": "h3:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
       "html": "'The Butler': 'It's Not A Movie — It's A Movement'",
-      "path": "div > div > div > div > section > div > article > a > div > h3",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210506171.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyinfo:nth-of-type(1) > h3:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story210506171",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
       "text": [
         "'The Butler': 'It's Not A Movie — It's A Movement'"
       ]
@@ -2300,10 +5958,60 @@
         "position": "static",
         "text-align": "right"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "More From Movie Interviews",
-      "path": "div > div > div > div > section > p > a",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > p.more:nth-of-type(1) > a:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "p",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "more"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "More From Movie Interviews"
       ]
@@ -2323,10 +6031,51 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "h4:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
       "html": "<a href=\"http://shop.npr.org/?utm_source=Banners&amp;utm_medium=ResponsiveAd&amp;utm_content=General&amp;utm_campaign=300x150\">NPR Shop</a>",
-      "path": "div > div > div > div > h4",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > h4:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
       "text": [
         "NPR Shop"
       ]
@@ -2352,10 +6101,51 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "p:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
       "html": "Support The Programs You Love",
-      "path": "div > div > div > div > p",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "Support The Programs You Love"
       ]
@@ -2381,10 +6171,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "News",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.news:nth-of-type(2) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "news"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "News"
       ]
@@ -2410,10 +6248,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Arts &amp; Life",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.artslife:nth-of-type(3) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "artslife"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Arts & Life"
       ]
@@ -2439,10 +6325,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Music",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.music:nth-of-type(4) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "music"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Music"
       ]
@@ -2468,10 +6402,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Programs",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.programs:nth-of-type(5) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "programs"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Programs"
       ]
@@ -2497,10 +6479,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "Listen",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.listen:nth-of-type(6) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "listen"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "Listen"
       ]
@@ -2526,10 +6556,58 @@
         "outline-color": "rgb(109, 138, 196)",
         "text-transform": "lowercase"
       },
-      "element": "a:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
       "html": "About",
-      "path": "footer > div > div > ul > li > a",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.primary:nth-of-type(1) > ul:nth-of-type(1) > li.about:nth-of-type(7) > a:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "about"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
       "text": [
         "About"
       ]
@@ -2555,10 +6633,48 @@
         "outline-color": "rgb(153, 153, 153)",
         "position": "static"
       },
-      "element": "p.copyright:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "copyright"
+        ],
+        "id": "",
+        "name": "p"
+      },
       "html": "©2013 NPR",
-      "path": "footer > div > div > p",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > p.copyright:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "copyright"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
       "text": [
         "©2013 NPR"
       ]
@@ -2586,10 +6702,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li#footerContact:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "footerContact",
+        "name": "li"
+      },
       "html": "<a href=\"http://help.npr.org/npr/wf/m/index.aspx\">Contact</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li#footerContact:nth-of-type(1)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "footerContact",
+          "name": "li"
+        }
+      ],
       "text": [
         "Contact"
       ]
@@ -2617,10 +6773,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(2)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179876898/terms-of-use\">Terms of Use</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Terms of Use"
       ]
@@ -2648,10 +6844,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(3)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179878450/privacy-policy\">Privacy</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Privacy"
       ]
@@ -2678,10 +6914,54 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li.sponsorship-choices:nth-of-type(4)",
+      "element": {
+        "classes": [
+          "sponsorship-choices"
+        ],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons\">Sponsorship Choices</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li.sponsorship-choices:nth-of-type(4)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "sponsorship-choices"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Sponsorship Choices"
       ]
@@ -2709,10 +6989,50 @@
         "outline-color": "rgb(188, 202, 229)",
         "position": "static"
       },
-      "element": "li:nth-of-type(5)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
       "html": "<a href=\"http://thin.npr.org/\">Text-Only</a>",
-      "path": "footer > div > div > ul > li",
-      "selector": "footer#nprfooter:nth-of-type(1) > div.footer-wrapper:nth-of-type(1) > div.secondary:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5)",
+      "path": [
+        "footer",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "nprfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "footer-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "secondary"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
       "text": [
         "Text-Only"
       ]
@@ -2737,9 +7057,37 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "header > a > img",
-      "selector": "header#globalheader.clearfix:nth-of-type(1) > a.nprhome:nth-of-type(2) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "header",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "globalheader",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "nprhome"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/chrome/news/nprlogo_138x46.gif"
     },
     {
@@ -2753,9 +7101,83 @@
         "background-color": "rgba(0, 0, 0, 0)",
         "position": "static"
       },
-      "element": "img.img.lazyOnLoad:nth-of-type(1)",
-      "path": "div > div > section > article > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210141694.bucketwrap.image.large:nth-of-type(1) > div.imagewrap:nth-of-type(1) > img.img.lazyOnLoad:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "img",
+          "lazyOnLoad"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210141694",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "imagewrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "img",
+            "lazyOnLoad"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/08/iaw-7nk0608_wide-685ed8d04042f3cc3163b5741fe77a9ff275fd51-s6-c30.jpg"
     },
     {
@@ -2778,9 +7200,89 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img.img90:nth-of-type(1)",
-      "path": "div > div > section > article > div > div > div > a > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#sectionWrap.clearfix:nth-of-type(1) > section:nth-of-type(1) > article.story:nth-of-type(1) > div#storytext.linkLocation.storylocation.storytext:nth-of-type(4) > div#res210135688.bucketwrap.inset2col.insettwocolumn.internallink:nth-of-type(3) > div.bucket.img:nth-of-type(1) > a#featuredStackSquareImage204510672:nth-of-type(1) > img.img90:nth-of-type(1)",
+      "element": {
+        "classes": [
+          "img90"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "inset2col",
+            "insettwocolumn",
+            "internallink"
+          ],
+          "id": "res210135688",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucket",
+            "img"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "featuredStackSquareImage204510672",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "img90"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/07/25/iaw-lake-bell-300-photo-by-seamus-tierney_sq-c6751d5e1ca2ba4bbd7e43c084c87e84b55d85bd-s11.jpg"
     },
     {
@@ -2802,9 +7304,84 @@
         "outline-color": "rgb(109, 138, 196)",
         "position": "static"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > section > div > article > a > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div#main_sidebar:nth-of-type(2) > div#resMore:nth-of-type(2) > div#relatedstorieswrap:nth-of-type(1) > section#relatedstories:nth-of-type(1) > div#resMoreAPI.apiquery.bucketwrap.responsive_more:nth-of-type(1) > article#story210506171.clearfix.story:nth-of-type(3) > a:nth-of-type(1) > div.storyimg:nth-of-type(2) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story210506171",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/assets/img/2013/08/09/whitaker-the-butler-lg_sq-8c6ac57837c3fca433df8d5ee7e41c8338bc4b9c.jpg?s=16"
     },
     {
@@ -2822,9 +7399,50 @@
         "position": "static",
         "text-align": "left"
       },
-      "element": "img:nth-of-type(1)",
-      "path": "div > div > div > div > img",
-      "selector": "div#wrapper:nth-of-type(1) > div.adwrapper.housead:nth-of-type(3) > div.adwrap:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrapper",
+            "housead"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
       "src": "http://media.npr.org/images/shop_300x150-04.jpg"
     }
   ]

@@ -4,6 +4,7 @@ import tokenizers
 import analyzers
 import collections
 import itertools
+import utils
 
 class Processor(object):
 
@@ -55,7 +56,7 @@ class Processor(object):
 
                 # discrete features
                 discrete_feature = dict(text['computed'].items())
-                discrete_feature['path'] = text['path']
+                discrete_feature['path'] = ' > '.join(text['path'])
                 discrete_features.append(discrete_feature)
 
         # build numpy array
@@ -89,7 +90,7 @@ class Processor(object):
             cluster['pages'][page['url']]['texts'].append(text['text'])
 
         for cluster in clusters.values():
-            cluster['selectors'] = '' #set(cluster['selectors'])
+            cluster['selectors'] = utils.consolidate_selectors(cluster['selectors'])
             for page in cluster['pages'].values():
                 coherent_score = 0.0
                 for text1, text2 in itertools.product(page['texts'], repeat=2):
