@@ -1,6 +1,6 @@
-name: Ziyan
+name: spider
+baseur: /spider
 markdown: redcarpet
 pygments: true
 lsi: false
 safe: true
-baseurl: /spider
