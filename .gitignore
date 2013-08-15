@@ -1,2 +1,30 @@
+<<<<<<< HEAD
 _site/
 .sass-cache
+=======
+*.py[co]
+*.bak
+*.orig
+*~
+*.swp
+*.sublime-*
+*.mo
+
+# Project specifics #
+#####################
+*.coffee.js
+*.sass.css
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.db
+
+# OS generated files #
+######################
+.DS_Store*
+Icon?
+
+>>>>>>> b24e684e989b5f1b21c3cfdbd4725dd566d0a389
