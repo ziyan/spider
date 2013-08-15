@@ -72,21 +72,14 @@ class Site(Handler):
         assert parts.scheme in ['http', 'https']
         site = '%s://%s' % (parts.scheme, parts.netloc)
 
-
         @brukva.adisp.async
-        def process(site, data, callback):
+        def process(site, callback):
             pipeline = settings.REDIS_ASYNC.pipeline()
             pipeline.hlen('spider:pages:%s' % site)
             pipeline.get('spider:rules:%s' % site)
             pipeline.execute(callback)
 
-        pages_count, rules = yield process(site, data)
-
-        @brukva.adisp.async
-        def fetch(site, callback):
-            settings.REDIS.get('spider:rules:%s' % site, callback)
-
-        count, rules = yield fetch(site)
+        count, rules = yield process(site)
 
         self.cors()
         self.content_type = 'application/json'
