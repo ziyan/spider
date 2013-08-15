@@ -1,5 +1,5 @@
 name: spider
-baseur: /spider
+baseurl: /spider
 markdown: redcarpet
 pygments: true
 lsi: false
