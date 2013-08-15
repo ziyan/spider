@@ -1,2 +1,10 @@
 numpy
+scipy
 scikit-learn
+tornado
+closure
+redis
+hiredis
+simplejson
+celery
+-e git+git://github.com/evilkost/brukva.git#egg=brukva

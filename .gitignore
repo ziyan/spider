@@ -8,6 +8,8 @@
 
 # Project specifics #
 #####################
+*.coffee.js
+*.sass.css
 
 # Logs and databases #
 ######################

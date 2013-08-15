@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import clusterers
 import preprocessors
 import analyzers

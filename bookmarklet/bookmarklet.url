@@ -1,0 +1,1 @@
+javascript:(function(){window.__spider_url='http://localhost:9090';var s=document.createElement('script');s.async=1;s.src='http://localhost:4000/spider/spider.js';document.body.appendChild(s)})()
