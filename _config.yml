@@ -3,3 +3,4 @@ markdown: redcarpet
 pygments: true
 lsi: false
 safe: true
+baseurl: /spider
