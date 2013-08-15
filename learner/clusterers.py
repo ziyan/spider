@@ -6,10 +6,5 @@ class DBSCAN(object):
 
     def cluster(self, data):
         data = StandardScaler().fit_transform(data)
-        db = cluster.DBSCAN().fit(data)
+        db = cluster.DBSCAN(min_samples=1).fit(data)
         return db
-
-class AffinityPropagation(object):
-    def cluster(self, data):
-        af = cluster.AffinityPropagation().fit(data)
-        return af

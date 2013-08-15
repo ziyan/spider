@@ -1,0 +1,1153 @@
+{
+  "body": {
+    "bound": {
+      "height": 799,
+      "left": 16,
+      "top": 7,
+      "width": 1568
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(255, 255, 255)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(0, 0, 0)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(0, 0, 0)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(0, 0, 0)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(0, 0, 0)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(0, 0, 0)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "'Lucida Grande', Arial, sans-serif",
+      "font-size": "16px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "799px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "normal",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "16px",
+      "margin-right": "16px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(0, 0, 0)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1568px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [],
+  "titles": [
+    "1. Introduction — Python v3.3.2 documentation"
+  ],
+  "url": "http://docs.python.org/3.3/library/intro.html",
+  "links": [
+    "http://docs.python.org/3.3/genindex.html",
+    "http://docs.python.org/3.3/py-modindex.html",
+    "http://docs.python.org/3.3/library/functions.html",
+    "http://docs.python.org/3.3/library/index.html",
+    "http://www.python.org/",
+    "http://docs.python.org/3.3/index.html",
+    "http://docs.python.org/3.3/library/index.html",
+    "http://docs.python.org/3.3/library/intro.html#introduction",
+    "http://docs.python.org/3.3/reference/simple_stmts.html#import",
+    "http://docs.python.org/3.3/library/random.html#module-random",
+    "http://docs.python.org/3.3/library/functions.html#built-in-funcs",
+    "http://docs.python.org/3.3/library/index.html",
+    "http://docs.python.org/3.3/library/functions.html",
+    "http://docs.python.org/3.3/bugs.html",
+    "http://docs.python.org/3.3/_sources/library/intro.txt",
+    "http://docs.python.org/3.3/genindex.html",
+    "http://docs.python.org/3.3/py-modindex.html",
+    "http://docs.python.org/3.3/library/functions.html",
+    "http://docs.python.org/3.3/library/index.html",
+    "http://www.python.org/",
+    "http://docs.python.org/3.3/index.html",
+    "http://docs.python.org/3.3/library/index.html",
+    "http://docs.python.org/3.3/copyright.html",
+    "http://www.python.org/psf/donations/",
+    "http://docs.python.org/3.3/bugs.html",
+    "http://sphinx.pocoo.org/"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 30,
+        "left": 1540,
+        "top": 14,
+        "width": 34
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-size": "14px",
+        "line-height": "30px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "10px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": "li.right:nth-of-type(1)",
+      "html": "\n          <a href=\"../genindex.html\" title=\"General Index\" accesskey=\"I\">index</a>",
+      "path": "div > ul > li",
+      "selector": "div.related:nth-of-type(1) > ul:nth-of-type(1) > li.right:nth-of-type(1)",
+      "text": [
+        "index"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 1473,
+        "top": 14,
+        "width": 62
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-size": "14px",
+        "line-height": "30px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "5px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": "li.right:nth-of-type(2)",
+      "html": "\n          <a href=\"../py-modindex.html\" title=\"Python Module Index\">modules</a> |",
+      "path": "div > ul > li",
+      "selector": "div.related:nth-of-type(1) > ul:nth-of-type(1) > li.right:nth-of-type(2)",
+      "text": [
+        "modules",
+        " |"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 1430,
+        "top": 14,
+        "width": 38
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-size": "14px",
+        "line-height": "30px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "5px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": "li.right:nth-of-type(3)",
+      "html": "\n          <a href=\"functions.html\" title=\"2. Built-in Functions\" accesskey=\"N\">next</a> |",
+      "path": "div > ul > li",
+      "selector": "div.related:nth-of-type(1) > ul:nth-of-type(1) > li.right:nth-of-type(3)",
+      "text": [
+        "next",
+        " |"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 1362,
+        "top": 14,
+        "width": 63
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-size": "14px",
+        "line-height": "30px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "5px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": "li.right:nth-of-type(4)",
+      "html": "\n          <a href=\"index.html\" title=\"The Python Standard Library\" accesskey=\"P\">previous</a> |",
+      "path": "div > ul > li",
+      "selector": "div.related:nth-of-type(1) > ul:nth-of-type(1) > li.right:nth-of-type(4)",
+      "text": [
+        "previous",
+        " |"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 16,
+        "top": 14,
+        "width": 1568
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "14px",
+        "line-height": "30px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-left": "10px"
+      },
+      "element": "ul:nth-of-type(1)",
+      "html": "\n        <li class=\"right\" style=\"margin-right: 10px\">\n          <a href=\"../genindex.html\" title=\"General Index\" accesskey=\"I\">index</a></li>\n        <li class=\"right\">\n          <a href=\"../py-modindex.html\" title=\"Python Module Index\">modules</a> |</li>\n        <li class=\"right\">\n          <a href=\"functions.html\" title=\"2. Built-in Functions\" accesskey=\"N\">next</a> |</li>\n        <li class=\"right\">\n          <a href=\"index.html\" title=\"The Python Standard Library\" accesskey=\"P\">previous</a> |</li>\n        <li><img src=\"../_static/py.png\" alt=\"\" style=\"vertical-align: middle; margin-top: -1px\"></li>\n        <li><a href=\"http://www.python.org/\">Python</a> »</li>\n        <li>\n          <span class=\"version_switcher_placeholder\"><select><option value=\"3.4\">dev (3.4)</option><option value=\"3.3\" selected=\"selected\">3.3.2</option><option value=\"3.2\">3.2</option><option value=\"2.7\">2.7</option><option value=\"2.6\">2.6</option></select></span>\n          <a href=\"../index.html\">Documentation</a> »\n        </li>\n\n          <li><a href=\"index.html\" accesskey=\"U\">The Python Standard Library</a> »</li> \n      ",
+      "path": "div > ul",
+      "selector": "div.related:nth-of-type(1) > ul:nth-of-type(1)",
+      "text": [
+        "Python",
+        " »",
+        "Documentation",
+        " »\n        ",
+        "The Python Standard Library",
+        " »"
+      ]
+    },
+    {
+      "bound": {
+        "height": 56,
+        "left": 265,
+        "top": 69,
+        "width": 1319
+      },
+      "computed": {
+        "border-bottom-color": "rgb(26, 26, 26)",
+        "border-left-color": "rgb(26, 26, 26)",
+        "border-right-color": "rgb(26, 26, 26)",
+        "border-top-color": "rgb(26, 26, 26)",
+        "color": "rgb(26, 26, 26)",
+        "font-size": "32px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "outline-color": "rgb(26, 26, 26)",
+        "padding-bottom": "9px",
+        "padding-top": "9px"
+      },
+      "element": "h1:nth-of-type(1)",
+      "html": "1. Introduction<a class=\"headerlink\" href=\"#introduction\" title=\"Permalink to this headline\">¶</a>",
+      "path": "div > div > div > div > div > h1",
+      "selector": "div.document:nth-of-type(2) > div.documentwrapper:nth-of-type(1) > div.bodywrapper:nth-of-type(1) > div.body:nth-of-type(1) > div#introduction.section:nth-of-type(1) > h1:nth-of-type(1)",
+      "text": [
+        "1. Introduction",
+        "¶"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 265,
+        "top": 141,
+        "width": 1319
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(34, 34, 34)",
+        "border-left-color": "rgb(34, 34, 34)",
+        "border-right-color": "rgb(34, 34, 34)",
+        "border-top-color": "rgb(34, 34, 34)",
+        "color": "rgb(34, 34, 34)",
+        "line-height": "22px",
+        "margin-bottom": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "16px",
+        "outline-color": "rgb(34, 34, 34)",
+        "text-align": "justify"
+      },
+      "element": "p:nth-of-type(1)",
+      "html": "The “Python library” contains several different kinds of components.",
+      "path": "div > div > div > div > div > p",
+      "selector": "div.document:nth-of-type(2) > div.documentwrapper:nth-of-type(1) > div.bodywrapper:nth-of-type(1) > div.body:nth-of-type(1) > div#introduction.section:nth-of-type(1) > p:nth-of-type(1)",
+      "text": [
+        "The “Python library” contains several different kinds of components."
+      ]
+    },
+    {
+      "bound": {
+        "height": 66,
+        "left": 265,
+        "top": 179,
+        "width": 1319
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(34, 34, 34)",
+        "border-left-color": "rgb(34, 34, 34)",
+        "border-right-color": "rgb(34, 34, 34)",
+        "border-top-color": "rgb(34, 34, 34)",
+        "color": "rgb(34, 34, 34)",
+        "line-height": "22px",
+        "margin-bottom": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "16px",
+        "outline-color": "rgb(34, 34, 34)",
+        "text-align": "justify"
+      },
+      "element": "p:nth-of-type(2)",
+      "html": "It contains data types that would normally be considered part of the “core” of a\nlanguage, such as numbers and lists.  For these types, the Python language core\ndefines the form of literals and places some constraints on their semantics, but\ndoes not fully define the semantics.  (On the other hand, the language core does\ndefine syntactic properties like the spelling and priorities of operators.)",
+      "path": "div > div > div > div > div > p",
+      "selector": "div.document:nth-of-type(2) > div.documentwrapper:nth-of-type(1) > div.bodywrapper:nth-of-type(1) > div.body:nth-of-type(1) > div#introduction.section:nth-of-type(1) > p:nth-of-type(2)",
+      "text": [
+        "It contains data types that would normally be considered part of the “core” of a\nlanguage, such as numbers and lists.  For these types, the Python language core\ndefines the form of literals and places some constraints on their semantics, but\ndoes not fully define the semantics.  (On the other hand, the language core does\ndefine syntactic properties like the spelling and priorities of operators.)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 265,
+        "top": 261,
+        "width": 1319
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(34, 34, 34)",
+        "border-left-color": "rgb(34, 34, 34)",
+        "border-right-color": "rgb(34, 34, 34)",
+        "border-top-color": "rgb(34, 34, 34)",
+        "color": "rgb(34, 34, 34)",
+        "line-height": "22px",
+        "margin-bottom": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "16px",
+        "outline-color": "rgb(34, 34, 34)",
+        "text-align": "justify"
+      },
+      "element": "p:nth-of-type(3)",
+      "html": "The library also contains built-in functions and exceptions — objects that can\nbe used by all Python code without the need of an <a class=\"reference internal\" href=\"../reference/simple_stmts.html#import\"><tt class=\"xref std std-keyword docutils literal\"><span class=\"pre\">import</span></tt></a> statement.\nSome of these are defined by the core language, but many are not essential for\nthe core semantics and are only described here.",
+      "path": "div > div > div > div > div > p",
+      "selector": "div.document:nth-of-type(2) > div.documentwrapper:nth-of-type(1) > div.bodywrapper:nth-of-type(1) > div.body:nth-of-type(1) > div#introduction.section:nth-of-type(1) > p:nth-of-type(3)",
+      "text": [
+        "The library also contains built-in functions and exceptions — objects that can\nbe used by all Python code without the need of an ",
+        "import",
+        " statement.\nSome of these are defined by the core language, but many are not essential for\nthe core semantics and are only described here."
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 265,
+        "top": 321,
+        "width": 1319
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(34, 34, 34)",
+        "border-left-color": "rgb(34, 34, 34)",
+        "border-right-color": "rgb(34, 34, 34)",
+        "border-top-color": "rgb(34, 34, 34)",
+        "color": "rgb(34, 34, 34)",
+        "line-height": "22px",
+        "margin-bottom": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "16px",
+        "outline-color": "rgb(34, 34, 34)",
+        "text-align": "justify"
+      },
+      "element": "p:nth-of-type(4)",
+      "html": "The bulk of the library, however, consists of a collection of modules. There are\nmany ways to dissect this collection.  Some modules are written in C and built\nin to the Python interpreter; others are written in Python and imported in\nsource form.  Some modules provide interfaces that are highly specific to\nPython, like printing a stack trace; some provide interfaces that are specific\nto particular operating systems, such as access to specific hardware; others\nprovide interfaces that are specific to a particular application domain, like\nthe World Wide Web. Some modules are available in all versions and ports of\nPython; others are only available when the underlying system supports or\nrequires them; yet others are available only when a particular configuration\noption was chosen at the time when Python was compiled and installed.",
+      "path": "div > div > div > div > div > p",
+      "selector": "div.document:nth-of-type(2) > div.documentwrapper:nth-of-type(1) > div.bodywrapper:nth-of-type(1) > div.body:nth-of-type(1) > div#introduction.section:nth-of-type(1) > p:nth-of-type(4)",
+      "text": [
+        "The bulk of the library, however, consists of a collection of modules. There are\nmany ways to dissect this collection.  Some modules are written in C and built\nin to the Python interpreter; others are written in Python and imported in\nsource form.  Some modules provide interfaces that are highly specific to\nPython, like printing a stack trace; some provide interfaces that are specific\nto particular operating systems, such as access to specific hardware; others\nprovide interfaces that are specific to a particular application domain, like\nthe World Wide Web. Some modules are available in all versions and ports of\nPython; others are only available when the underlying system supports or\nrequires them; yet others are available only when a particular configuration\noption was chosen at the time when Python was compiled and installed."
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 265,
+        "top": 447,
+        "width": 1319
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(34, 34, 34)",
+        "border-left-color": "rgb(34, 34, 34)",
+        "border-right-color": "rgb(34, 34, 34)",
+        "border-top-color": "rgb(34, 34, 34)",
+        "color": "rgb(34, 34, 34)",
+        "line-height": "22px",
+        "margin-bottom": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "16px",
+        "outline-color": "rgb(34, 34, 34)",
+        "text-align": "justify"
+      },
+      "element": "p:nth-of-type(5)",
+      "html": "This manual is organized “from the inside out:” it first describes the built-in\ndata types, then the built-in functions and exceptions, and finally the modules,\ngrouped in chapters of related modules.  The ordering of the chapters as well as\nthe ordering of the modules within each chapter is roughly from most relevant to\nleast important.",
+      "path": "div > div > div > div > div > p",
+      "selector": "div.document:nth-of-type(2) > div.documentwrapper:nth-of-type(1) > div.bodywrapper:nth-of-type(1) > div.body:nth-of-type(1) > div#introduction.section:nth-of-type(1) > p:nth-of-type(5)",
+      "text": [
+        "This manual is organized “from the inside out:” it first describes the built-in\ndata types, then the built-in functions and exceptions, and finally the modules,\ngrouped in chapters of related modules.  The ordering of the chapters as well as\nthe ordering of the modules within each chapter is roughly from most relevant to\nleast important."
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 265,
+        "top": 507,
+        "width": 1319
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(34, 34, 34)",
+        "border-left-color": "rgb(34, 34, 34)",
+        "border-right-color": "rgb(34, 34, 34)",
+        "border-top-color": "rgb(34, 34, 34)",
+        "color": "rgb(34, 34, 34)",
+        "line-height": "22px",
+        "margin-bottom": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "16px",
+        "outline-color": "rgb(34, 34, 34)",
+        "text-align": "justify"
+      },
+      "element": "p:nth-of-type(6)",
+      "html": "This means that if you start reading this manual from the start, and skip to the\nnext chapter when you get bored, you will get a reasonable overview of the\navailable modules and application areas that are supported by the Python\nlibrary.  Of course, you don’t <em>have</em> to read it like a novel — you can also\nbrowse the table of contents (in front of the manual), or look for a specific\nfunction, module or term in the index (in the back).  And finally, if you enjoy\nlearning about random subjects, you choose a random page number (see module\n<a class=\"reference internal\" href=\"random.html#module-random\" title=\"random: Generate pseudo-random numbers with various common distributions.\"><tt class=\"xref py py-mod docutils literal\"><span class=\"pre\">random</span></tt></a>) and read a section or two.  Regardless of the order in which you\nread the sections of this manual, it helps to start with chapter\n<a class=\"reference internal\" href=\"functions.html#built-in-funcs\"><em>Built-in Functions</em></a>, as the remainder of the manual assumes familiarity with\nthis material.",
+      "path": "div > div > div > div > div > p",
+      "selector": "div.document:nth-of-type(2) > div.documentwrapper:nth-of-type(1) > div.bodywrapper:nth-of-type(1) > div.body:nth-of-type(1) > div#introduction.section:nth-of-type(1) > p:nth-of-type(6)",
+      "text": [
+        "This means that if you start reading this manual from the start, and skip to the\nnext chapter when you get bored, you will get a reasonable overview of the\navailable modules and application areas that are supported by the Python\nlibrary.  Of course, you don’t ",
+        "have",
+        " to read it like a novel — you can also\nbrowse the table of contents (in front of the manual), or look for a specific\nfunction, module or term in the index (in the back).  And finally, if you enjoy\nlearning about random subjects, you choose a random page number (see module\n",
+        "random",
+        ") and read a section or two.  Regardless of the order in which you\nread the sections of this manual, it helps to start with chapter\n",
+        "Built-in Functions",
+        ", as the remainder of the manual assumes familiarity with\nthis material."
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 265,
+        "top": 633,
+        "width": 1319
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(34, 34, 34)",
+        "border-left-color": "rgb(34, 34, 34)",
+        "border-right-color": "rgb(34, 34, 34)",
+        "border-top-color": "rgb(34, 34, 34)",
+        "color": "rgb(34, 34, 34)",
+        "line-height": "22px",
+        "margin-bottom": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "16px",
+        "outline-color": "rgb(34, 34, 34)",
+        "text-align": "justify"
+      },
+      "element": "p:nth-of-type(7)",
+      "html": "Let the show begin!",
+      "path": "div > div > div > div > div > p",
+      "selector": "div.document:nth-of-type(2) > div.documentwrapper:nth-of-type(1) > div.bodywrapper:nth-of-type(1) > div.body:nth-of-type(1) > div#introduction.section:nth-of-type(1) > p:nth-of-type(7)",
+      "text": [
+        "Let the show begin!"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 26,
+        "top": 105,
+        "width": 202
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(68, 68, 68)",
+        "border-left-color": "rgb(68, 68, 68)",
+        "border-right-color": "rgb(68, 68, 68)",
+        "border-top-color": "rgb(68, 68, 68)",
+        "color": "rgb(68, 68, 68)",
+        "font-size": "17px",
+        "line-height": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "26px",
+        "outline-color": "rgb(68, 68, 68)",
+        "word-wrap": "break-word"
+      },
+      "element": "h4:nth-of-type(1)",
+      "html": "Previous topic",
+      "path": "div > div > div > h4",
+      "selector": "div.document:nth-of-type(2) > div.sphinxsidebar:nth-of-type(2) > div.sphinxsidebarwrapper:nth-of-type(1) > h4:nth-of-type(1)",
+      "text": [
+        "Previous topic"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 36,
+        "top": 126,
+        "width": 182
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(68, 68, 68)",
+        "border-left-color": "rgb(68, 68, 68)",
+        "border-right-color": "rgb(68, 68, 68)",
+        "border-top-color": "rgb(68, 68, 68)",
+        "color": "rgb(68, 68, 68)",
+        "font-size": "13px",
+        "line-height": "16px",
+        "margin-bottom": "10px",
+        "margin-left": "10px",
+        "margin-right": "10px",
+        "margin-top": "5px",
+        "outline-color": "rgb(68, 68, 68)",
+        "word-wrap": "break-word"
+      },
+      "element": "p.topless:nth-of-type(1)",
+      "html": "<a href=\"index.html\" title=\"previous chapter\">The Python Standard Library</a>",
+      "path": "div > div > div > p",
+      "selector": "div.document:nth-of-type(2) > div.sphinxsidebar:nth-of-type(2) > div.sphinxsidebarwrapper:nth-of-type(1) > p.topless:nth-of-type(1)",
+      "text": [
+        "The Python Standard Library"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 26,
+        "top": 168,
+        "width": 202
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(68, 68, 68)",
+        "border-left-color": "rgb(68, 68, 68)",
+        "border-right-color": "rgb(68, 68, 68)",
+        "border-top-color": "rgb(68, 68, 68)",
+        "color": "rgb(68, 68, 68)",
+        "font-size": "17px",
+        "line-height": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "26px",
+        "outline-color": "rgb(68, 68, 68)",
+        "word-wrap": "break-word"
+      },
+      "element": "h4:nth-of-type(2)",
+      "html": "Next topic",
+      "path": "div > div > div > h4",
+      "selector": "div.document:nth-of-type(2) > div.sphinxsidebar:nth-of-type(2) > div.sphinxsidebarwrapper:nth-of-type(1) > h4:nth-of-type(2)",
+      "text": [
+        "Next topic"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 36,
+        "top": 189,
+        "width": 182
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(68, 68, 68)",
+        "border-left-color": "rgb(68, 68, 68)",
+        "border-right-color": "rgb(68, 68, 68)",
+        "border-top-color": "rgb(68, 68, 68)",
+        "color": "rgb(68, 68, 68)",
+        "font-size": "13px",
+        "line-height": "16px",
+        "margin-bottom": "10px",
+        "margin-left": "10px",
+        "margin-right": "10px",
+        "margin-top": "5px",
+        "outline-color": "rgb(68, 68, 68)",
+        "word-wrap": "break-word"
+      },
+      "element": "p.topless:nth-of-type(2)",
+      "html": "<a href=\"functions.html\" title=\"next chapter\">2. Built-in Functions</a>",
+      "path": "div > div > div > p",
+      "selector": "div.document:nth-of-type(2) > div.sphinxsidebar:nth-of-type(2) > div.sphinxsidebarwrapper:nth-of-type(1) > p.topless:nth-of-type(2)",
+      "text": [
+        "2. Built-in Functions"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 26,
+        "top": 233,
+        "width": 202
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(68, 68, 68)",
+        "border-left-color": "rgb(68, 68, 68)",
+        "border-right-color": "rgb(68, 68, 68)",
+        "border-top-color": "rgb(68, 68, 68)",
+        "color": "rgb(68, 68, 68)",
+        "font-size": "19px",
+        "line-height": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "28px",
+        "outline-color": "rgb(68, 68, 68)",
+        "word-wrap": "break-word"
+      },
+      "element": "h3:nth-of-type(1)",
+      "html": "This Page",
+      "path": "div > div > div > h3",
+      "selector": "div.document:nth-of-type(2) > div.sphinxsidebar:nth-of-type(2) > div.sphinxsidebarwrapper:nth-of-type(1) > h3:nth-of-type(1)",
+      "text": [
+        "This Page"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 36,
+        "top": 259,
+        "width": 182
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(68, 68, 68)",
+        "border-left-color": "rgb(68, 68, 68)",
+        "border-right-color": "rgb(68, 68, 68)",
+        "border-top-color": "rgb(68, 68, 68)",
+        "color": "rgb(68, 68, 68)",
+        "display": "list-item",
+        "font-size": "13px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "outline-color": "rgb(68, 68, 68)",
+        "word-wrap": "break-word"
+      },
+      "element": "li:nth-of-type(1)",
+      "html": "<a href=\"../bugs.html\">Report a Bug</a>",
+      "path": "div > div > div > ul > li",
+      "selector": "div.document:nth-of-type(2) > div.sphinxsidebar:nth-of-type(2) > div.sphinxsidebarwrapper:nth-of-type(1) > ul.this-page-menu:nth-of-type(1) > li:nth-of-type(1)",
+      "text": [
+        "Report a Bug"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 36,
+        "top": 275,
+        "width": 182
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(68, 68, 68)",
+        "border-left-color": "rgb(68, 68, 68)",
+        "border-right-color": "rgb(68, 68, 68)",
+        "border-top-color": "rgb(68, 68, 68)",
+        "color": "rgb(68, 68, 68)",
+        "display": "list-item",
+        "font-size": "13px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "outline-color": "rgb(68, 68, 68)",
+        "word-wrap": "break-word"
+      },
+      "element": "li:nth-of-type(2)",
+      "html": "<a href=\"../_sources/library/intro.txt\" rel=\"nofollow\">Show Source</a>",
+      "path": "div > div > div > ul > li",
+      "selector": "div.document:nth-of-type(2) > div.sphinxsidebar:nth-of-type(2) > div.sphinxsidebarwrapper:nth-of-type(1) > ul.this-page-menu:nth-of-type(1) > li:nth-of-type(2)",
+      "text": [
+        "Show Source"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 26,
+        "top": 319,
+        "width": 202
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(68, 68, 68)",
+        "border-left-color": "rgb(68, 68, 68)",
+        "border-right-color": "rgb(68, 68, 68)",
+        "border-top-color": "rgb(68, 68, 68)",
+        "color": "rgb(68, 68, 68)",
+        "font-size": "19px",
+        "line-height": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "28px",
+        "outline-color": "rgb(68, 68, 68)",
+        "word-wrap": "break-word"
+      },
+      "element": "h3:nth-of-type(1)",
+      "html": "Quick search",
+      "path": "div > div > div > div > h3",
+      "selector": "div.document:nth-of-type(2) > div.sphinxsidebar:nth-of-type(2) > div.sphinxsidebarwrapper:nth-of-type(1) > div#searchbox:nth-of-type(1) > h3:nth-of-type(1)",
+      "text": [
+        "Quick search"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 26,
+        "top": 382,
+        "width": 202
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(68, 68, 68)",
+        "border-left-color": "rgb(68, 68, 68)",
+        "border-right-color": "rgb(68, 68, 68)",
+        "border-top-color": "rgb(68, 68, 68)",
+        "color": "rgb(68, 68, 68)",
+        "font-size": "12px",
+        "line-height": "16px",
+        "margin-bottom": "12px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "12px",
+        "outline-color": "rgb(68, 68, 68)",
+        "word-wrap": "break-word"
+      },
+      "element": "p.searchtip:nth-of-type(1)",
+      "html": "\n    Enter search terms or a module, class or function name.\n    ",
+      "path": "div > div > div > div > p",
+      "selector": "div.document:nth-of-type(2) > div.sphinxsidebar:nth-of-type(2) > div.sphinxsidebarwrapper:nth-of-type(1) > div#searchbox:nth-of-type(1) > p.searchtip:nth-of-type(1)",
+      "text": [
+        "\n    Enter search terms or a module, class or function name.\n    "
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 235,
+        "top": 352,
+        "width": 9
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(68, 68, 68)",
+        "border-left-color": "rgb(68, 68, 68)",
+        "border-right-color": "rgb(68, 68, 68)",
+        "border-top-color": "rgb(68, 68, 68)",
+        "color": "rgb(68, 68, 68)",
+        "cursor": "pointer",
+        "line-height": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "outline-color": "rgb(68, 68, 68)",
+        "position": "fixed"
+      },
+      "element": "span:nth-of-type(1)",
+      "html": "«",
+      "path": "div > div > div > span",
+      "selector": "div.document:nth-of-type(2) > div.sphinxsidebar:nth-of-type(2) > div#sidebarbutton:nth-of-type(2) > span:nth-of-type(1)",
+      "text": [
+        "«"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 1540,
+        "top": 686,
+        "width": 34
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-size": "14px",
+        "line-height": "30px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "10px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": "li.right:nth-of-type(1)",
+      "html": "\n          <a href=\"../genindex.html\" title=\"General Index\">index</a>",
+      "path": "div > ul > li",
+      "selector": "div.related:nth-of-type(3) > ul:nth-of-type(1) > li.right:nth-of-type(1)",
+      "text": [
+        "index"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 1473,
+        "top": 686,
+        "width": 62
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-size": "14px",
+        "line-height": "30px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "5px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": "li.right:nth-of-type(2)",
+      "html": "\n          <a href=\"../py-modindex.html\" title=\"Python Module Index\">modules</a> |",
+      "path": "div > ul > li",
+      "selector": "div.related:nth-of-type(3) > ul:nth-of-type(1) > li.right:nth-of-type(2)",
+      "text": [
+        "modules",
+        " |"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 1430,
+        "top": 686,
+        "width": 38
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-size": "14px",
+        "line-height": "30px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "5px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": "li.right:nth-of-type(3)",
+      "html": "\n          <a href=\"functions.html\" title=\"2. Built-in Functions\">next</a> |",
+      "path": "div > ul > li",
+      "selector": "div.related:nth-of-type(3) > ul:nth-of-type(1) > li.right:nth-of-type(3)",
+      "text": [
+        "next",
+        " |"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 1362,
+        "top": 686,
+        "width": 63
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-size": "14px",
+        "line-height": "30px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "5px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": "li.right:nth-of-type(4)",
+      "html": "\n          <a href=\"index.html\" title=\"The Python Standard Library\">previous</a> |",
+      "path": "div > ul > li",
+      "selector": "div.related:nth-of-type(3) > ul:nth-of-type(1) > li.right:nth-of-type(4)",
+      "text": [
+        "previous",
+        " |"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 16,
+        "top": 686,
+        "width": 1568
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "14px",
+        "line-height": "30px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-left": "10px"
+      },
+      "element": "ul:nth-of-type(1)",
+      "html": "\n        <li class=\"right\" style=\"margin-right: 10px\">\n          <a href=\"../genindex.html\" title=\"General Index\">index</a></li>\n        <li class=\"right\">\n          <a href=\"../py-modindex.html\" title=\"Python Module Index\">modules</a> |</li>\n        <li class=\"right\">\n          <a href=\"functions.html\" title=\"2. Built-in Functions\">next</a> |</li>\n        <li class=\"right\">\n          <a href=\"index.html\" title=\"The Python Standard Library\">previous</a> |</li>\n        <li><img src=\"../_static/py.png\" alt=\"\" style=\"vertical-align: middle; margin-top: -1px\"></li>\n        <li><a href=\"http://www.python.org/\">Python</a> »</li>\n        <li>\n          <span class=\"version_switcher_placeholder\"><select><option value=\"3.4\">dev (3.4)</option><option value=\"3.3\" selected=\"selected\">3.3.2</option><option value=\"3.2\">3.2</option><option value=\"2.7\">2.7</option><option value=\"2.6\">2.6</option></select></span>\n          <a href=\"../index.html\">Documentation</a> »\n        </li>\n\n          <li><a href=\"index.html\">The Python Standard Library</a> »</li> \n      ",
+      "path": "div > ul",
+      "selector": "div.related:nth-of-type(3) > ul:nth-of-type(1)",
+      "text": [
+        "Python",
+        " »",
+        "Documentation",
+        " »\n        ",
+        "The Python Standard Library",
+        " »"
+      ]
+    },
+    {
+      "bound": {
+        "height": 90,
+        "left": 16,
+        "top": 716,
+        "width": 1558
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(85, 85, 85)",
+        "border-left-color": "rgb(85, 85, 85)",
+        "border-right-color": "rgb(85, 85, 85)",
+        "border-top-color": "rgb(85, 85, 85)",
+        "color": "rgb(85, 85, 85)",
+        "font-size": "12px",
+        "line-height": "18px",
+        "margin-left": "0px",
+        "margin-right": "10px",
+        "margin-top": "-24px",
+        "outline-color": "rgb(85, 85, 85)",
+        "padding-bottom": "9px",
+        "padding-top": "9px",
+        "text-align": "right"
+      },
+      "element": "div.footer:nth-of-type(4)",
+      "html": "\n    © <a href=\"../copyright.html\">Copyright</a> 1990-2013, Python Software Foundation.\n    <br>\n    The Python Software Foundation is a non-profit corporation.\n    <a href=\"http://www.python.org/psf/donations/\">Please donate.</a>\n    <br>\n    Last updated on Aug 14, 2013.\n    <a href=\"../bugs.html\">Found a bug</a>?\n    <br>\n    Created using <a href=\"http://sphinx.pocoo.org/\">Sphinx</a> 1.0.7.\n    ",
+      "path": "div",
+      "selector": "div.footer:nth-of-type(4)",
+      "text": [
+        "\n    © ",
+        "Copyright",
+        " 1990-2013, Python Software Foundation.\n    ",
+        "\n    The Python Software Foundation is a non-profit corporation.\n    ",
+        "Please donate.",
+        "\n    Last updated on Aug 14, 2013.\n    ",
+        "Found a bug",
+        "?\n    ",
+        "\n    Created using ",
+        "Sphinx",
+        " 1.0.7.\n    "
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 16,
+        "left": 26,
+        "top": 21,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "display": "inline",
+        "font-size": "14px",
+        "line-height": "30px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "-1px",
+        "outline-color": "rgb(102, 102, 102)",
+        "vertical-align": "middle"
+      },
+      "element": "img:nth-of-type(1)",
+      "path": "div > ul > li > img",
+      "selector": "div.related:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > img:nth-of-type(1)",
+      "src": "http://docs.python.org/3.3/_static/py.png"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 26,
+        "top": 693,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "display": "inline",
+        "font-size": "14px",
+        "line-height": "30px",
+        "list-style-type": "none",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "-1px",
+        "outline-color": "rgb(102, 102, 102)",
+        "vertical-align": "middle"
+      },
+      "element": "img:nth-of-type(1)",
+      "path": "div > ul > li > img",
+      "selector": "div.related:nth-of-type(3) > ul:nth-of-type(1) > li:nth-of-type(5) > img:nth-of-type(1)",
+      "src": "http://docs.python.org/3.3/_static/py.png"
+    }
+  ]
+}

@@ -65,10 +65,11 @@ page.onLoadFinished = (status) ->
                 return 0
 
             # get element description
-            exports.element = (element) ->
+            exports.element = (element, is_name_only) ->
                 name = element.tagName.toLowerCase()
+                return name if is_name_only
 
-                # classes
+                # classes sorted
                 classes = ('.' + c for c in (c for c in element.classList).sort()).join('')
 
                 # id
@@ -81,11 +82,11 @@ page.onLoadFinished = (status) ->
                 return name + id + classes + nth
 
             # generate tag path
-            exports.path = (element) ->
+            exports.path = (element, is_name_only) ->
                 path = []
                 while element
                     break if element is document.body
-                    path.splice 0, 0, exports.element(element)
+                    path.splice 0, 0, exports.element(element, is_name_only)
                     element = element.parentElement
                 return path.join(' > ')
 
@@ -103,6 +104,7 @@ page.onLoadFinished = (status) ->
 
             # calculate computed css
             exports.computed = (element) ->
+                defaults = document.defaultView.getComputedStyle(document.body)
                 computed = document.defaultView.getComputedStyle(element)
                 data = {}
                 for key in computed
@@ -110,7 +112,10 @@ page.onLoadFinished = (status) ->
                     continue if key in ['width', 'height', 'top', 'left', 'right', 'bottom']
                     # don't care about webkit specific
                     continue if key.charAt(0) is '-'
+                    # don't care about default value
+                    continue if computed[key] is defaults[key]
                     data[key] = computed[key]
+                
                 return data
 
     # extract page basic data
@@ -128,6 +133,14 @@ page.onLoadFinished = (status) ->
         titles.push (meta.content for meta in document.querySelectorAll('meta[name="twitter:title"], meta[property="twitter:title"]'))...
         descriptions.push (meta.content for meta in document.querySelectorAll('meta[name="twitter:description"], meta[property="twitter:description"]'))...
 
+        # computed style for body
+        computed = {}
+        for key in document.defaultView.getComputedStyle(document.body)
+            # don't care about webkit specific
+            continue if key.charAt(0) is '-'
+            # don't care about default value
+            computed[key] = document.defaultView.getComputedStyle(document.body)[key]
+
         data =
             url: window.location.href
             titles: titles
@@ -137,7 +150,7 @@ page.onLoadFinished = (status) ->
                     top: document.documentElement.scrollTop or document.body.scrollTop
                     left: document.documentElement.scrollLeft or document.body.scrollLeft
                 bound: spider.utils.bound(document.body)
-                computed: spider.utils.computed(document.body)
+                computed: computed
         return data
 
     # extract links
@@ -152,6 +165,7 @@ page.onLoadFinished = (status) ->
         walker = document.createTreeWalker document.body, NodeFilter.SHOW_TEXT, null, false
         while text = walker.nextNode()
             continue unless text.nodeValue.trim().length > 0
+
 
             # container node
             node = text.parentElement
@@ -171,45 +185,36 @@ page.onLoadFinished = (status) ->
                 continue
 
             # collect features
-            element = spider.utils.element(node)
-            path = spider.utils.path(node)
-
             node.spider =
-                element: element
-                path: path
+                element: spider.utils.element(node)
+                path: spider.utils.path(node, true)
+                selector: spider.utils.path(node)
                 text: [text.nodeValue]
                 html: node.innerHTML
                 bound: spider.utils.bound(node)
                 computed: spider.utils.computed(node)
             texts.push node.spider
 
-            # debug
-            # node.style.border = '1px solid red'
-
         return texts
 
     # extract images
     data.images = page.evaluate ->
         images = []
-        for image in document.querySelectorAll('img[src]')
-            bound = spider.utils.bound(image)
+        for node in document.querySelectorAll('img[src]')
+            bound = spider.utils.bound(node)
             continue unless bound.width * bound.height > 0
-            element = spider.utils.element(image)
-            path = spider.utils.path(image)
             
             images.push
-                src: image.src
-                element: element
-                path: path
+                src: node.src
+                element: spider.utils.element(node)
+                path: spider.utils.path(node, true)
+                selector: spider.utils.path(node)
                 bound: bound
-                computed: spider.utils.computed(image)
+                computed: spider.utils.computed(node)
         return images
 
     # write json
     fs.write(system.args[2] + '.json', JSON.stringify(data, undefined, 2))
-
-    # debug
-    # page.render(system.args[2] + '.png')
 
     # done
     phantom.exit()
