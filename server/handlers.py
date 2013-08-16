@@ -122,9 +122,9 @@ class Stats(Handler):
         self.cors()
         self.content_type = 'application/json'
         self.write(json.dumps({
-            'usage': usage,
-            'sites': sites,
-            'pages': pages,
+            'usage': int(usage),
+            'sites': int(sites),
+            'pages': int(pages),
         }))
         self.finish()
 
