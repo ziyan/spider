@@ -25,6 +25,9 @@ class EnglishTokenizer(object):
         tokens_list = []
 
         for text in texts:
+            if not text:
+                continue
+
             tokens = self.DELIMITERS_RE.split(text.lower())
             tokens = [self.stem(str(token)) for token in tokens if token and len(token) <= self.MAX_LENGTH]
             tokens = [token for token in tokens if len(token) >= self.MIN_LENGTH and token not in self.stop_words]
