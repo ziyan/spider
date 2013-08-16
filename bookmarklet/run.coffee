@@ -26,7 +26,7 @@ __spider.namespace '__spider', (exports) ->
           __spider.ui.success('Done! Content highlighted :)')
 
         request.error (xhr, txt_status) ->
-          __spider.ui.error('Something went wrong while uploading data: ' + txt_status)
+          __spider.ui.error('Something went wrong while uploading data.')
 
     capture = ->
         __spider.ui.info('Capturing ...')
