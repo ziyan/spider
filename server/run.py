@@ -8,6 +8,7 @@ application = tornado.web.Application([
     (r'/', 'handlers.Redirect'),
     (r'/capture', 'handlers.Capture'),
     (r'/site', 'handlers.Site'),
+    (r'/stats', 'handlers.Stats'),
 ])
 
 if __name__ == '__main__':    

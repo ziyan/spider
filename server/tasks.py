@@ -12,8 +12,14 @@ import os
 @celery.task(ignore_result=True)
 def learn(site):
 
+    # do we need to relearn?
+    count = settings.REDIS_SYNC.hlen('spider:site:%s' % site)
+    if settings.REDIS_SYNC.get('spider:site:%s:learned' % site) == count:
+        return
+    settings.REDIS_SYNC.set('spider:site:%s:learned' % site, count)
+
     # load data from redis
-    data = settings.REDIS_SYNC.hgetall('spider:pages:%s' % site)
+    data = settings.REDIS_SYNC.hgetall('spider:site:%s' % site)
     data = [pickle.loads(zlib.decompress(data)) for data in data.values()]
 
     # process data
@@ -38,7 +44,7 @@ def learn(site):
             if selector[-1]['name'] != 'a':
                 selectors.append(selector)
     selectors = ','.join(utils.consolidate_selectors(selectors).keys())
-    settings.REDIS_SYNC.set('spider:selectors:%s' % site, selectors)
+    settings.REDIS_SYNC.set('spider:site:%s:selectors' % site, selectors)
     print 'site = %s, selectors = %s' % (site, selectors)
 
     # for debugging purpose, write to file

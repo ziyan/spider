@@ -10,6 +10,8 @@
 #####################
 *.coffee.js
 *.sass.css
+pages
+store
 
 # Logs and databases #
 ######################

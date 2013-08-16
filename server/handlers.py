@@ -36,21 +36,30 @@ class Capture(Handler):
         @brukva.adisp.async
         def process(site, data, callback):
             pipeline = settings.REDIS_ASYNC.pipeline()
-            pipeline.hset('spider:pages:%s' % site, data['url'], zlib.compress(pickle.dumps(data, pickle.HIGHEST_PROTOCOL)))
-            pipeline.hlen('spider:pages:%s' % site)
-            pipeline.get('spider:selectors:%s' % site)
+            pipeline.exists('spider:site:%s' % site)
+            pipeline.hset('spider:site:%s' % site, data['url'], zlib.compress(pickle.dumps(data, pickle.HIGHEST_PROTOCOL)))
+            pipeline.hlen('spider:site:%s' % site)
+            pipeline.get('spider:site:%s:selectors' % site)
             pipeline.execute(callback)
 
-        is_new, count, selectors = yield process(site, data)
+        is_old_site, is_new_page, count, selectors = yield process(site, data)
+
+        # stats
+        settings.REDIS_ASYNC.incr('spider:stats:usage')
+        if not is_old_site:
+            settings.REDIS_ASYNC.incr('spider:stats:sites')
+        if is_new_page:
+            settings.REDIS_ASYNC.incr('spider:stats:pages')
 
         # schedule learner
-        if is_new and count > 1:
+        if is_new_page and count > 1:
             tasks.learn.delay(site)
 
         self.cors()
         self.content_type = 'application/json'
         self.write(json.dumps({
-            'is_new': is_new > 0,
+            'is_new_site': not is_old_site,
+            'is_new_page': is_new_page > 0,
             'count': count,
             'selectors': selectors,
         }))
@@ -75,8 +84,8 @@ class Site(Handler):
         @brukva.adisp.async
         def process(site, callback):
             pipeline = settings.REDIS_ASYNC.pipeline()
-            pipeline.hlen('spider:pages:%s' % site)
-            pipeline.get('spider:selectors:%s' % site)
+            pipeline.hlen('spider:site:%s' % site)
+            pipeline.get('spider:site:%s:selectors' % site)
             pipeline.execute(callback)
 
         count, selectors = yield process(site)
@@ -86,6 +95,36 @@ class Site(Handler):
         self.write(json.dumps({
             'count': count,
             'selectors': selectors,
+        }))
+        self.finish()
+
+    def head(self, *args, **kwargs):
+        self.cors()
+        self.finish()
+
+
+class Stats(Handler):
+
+    @tornado.web.asynchronous
+    @brukva.adisp.process
+    def get(self, *args, **kwargs):
+
+        @brukva.adisp.async
+        def process(callback):
+            pipeline = settings.REDIS_ASYNC.pipeline()
+            pipeline.get('spider:stats:usage')
+            pipeline.get('spider:stats:sites')
+            pipeline.get('spider:stats:pages')
+            pipeline.execute(callback)
+
+        usage, sites, pages = yield process()
+
+        self.cors()
+        self.content_type = 'application/json'
+        self.write(json.dumps({
+            'usage': usage,
+            'sites': sites,
+            'pages': pages,
         }))
         self.finish()
 
