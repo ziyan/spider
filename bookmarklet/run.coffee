@@ -4,6 +4,11 @@ __spider.namespace '__spider', (exports) ->
 
     upload = (data) ->
         __spider.ui.info('Uploading ...')
+
+        __spider.$.ajaxSetup
+            jsonp: null
+            jsonpCallback: null
+
         request = __spider.$.ajax
             type: 'POST'
             url: window.__spider_url + '/capture'
