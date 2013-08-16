@@ -41,7 +41,7 @@ def learn(site):
         if cluster['confidence'] < settings.CONFIDENCE and cluster['score'] < settings.SCORE:
             continue
         for selector in cluster['selectors'].values():
-            if selector[-1]['name'] != 'a':
+            if selector and selector[-1]['name'] != 'a':
                 selectors.append(selector)
 
     selectors = ','.join(utils.consolidate_selectors(selectors).keys())
