@@ -12,14 +12,13 @@ class Handler(tornado.web.RequestHandler):
 
     def cors(self):
         self.set_header('Access-Control-Allow-Origin', '*')
-        self.set_header('Access-Control-Allow-Methods', '*')
-        self.set_header('Access-Control-Allow-Headers', '*')
+        self.set_header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
+        self.set_header('Access-Control-Allow-Headers', 'X-SPIDER')
 
 class Redirect(Handler):
 
     def get(self, *args, **kwargs):
         self.redirect('http://ziyan.github.io/spider/')
-
 
 class Capture(Handler):
 
@@ -65,7 +64,7 @@ class Capture(Handler):
         }))
         self.finish()
 
-    def head(self, *args, **kwargs):
+    def options(self, *args, **kwargs):
         self.cors()
         self.finish()
 
@@ -98,10 +97,9 @@ class Site(Handler):
         }))
         self.finish()
 
-    def head(self, *args, **kwargs):
+    def options(self, *args, **kwargs):
         self.cors()
         self.finish()
-
 
 class Stats(Handler):
 
@@ -128,6 +126,6 @@ class Stats(Handler):
         }))
         self.finish()
 
-    def head(self, *args, **kwargs):
+    def options(self, *args, **kwargs):
         self.cors()
         self.finish()

@@ -8,7 +8,10 @@ __spider.namespace '__spider', (exports) ->
             type: 'POST'
             url: window.__spider_url + '/capture'
             dataType: 'json'
+            crossDomain: true
             data: __spider.JSON.stringify(data)
+            headers:
+                'X-SPIDER': 'spider' # force a preflight
 
         request.done (data) ->
           if not data.selectors
