@@ -2,8 +2,5 @@
 layout: default
 ---
 <h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
-
-<div class="post">
-{{ content }}
-</div>
+<p><a href="{{ site.baseurl }}{{ post.url }}">{{ page.date | date_to_string }}</a></p>
+<div>{{ content }}</div>

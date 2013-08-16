@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2013-08-15 21:00:00
+categories: 
+---
+
+Spider is a web content extraction robot who master its technique by learning through examples. Feed it with multiple article pages from the same site and it will (hopefully) accurately extract the content of an article.
+
+Some known limitations:
+
+* Currently only works with English
+* Some site have Content Security Policy (CSP) protection and the bookmarklet may not work
+* Some sites convert my POST request to a GET, I haven't figured out why yet
+* Need to have at least 2 pages as examples for a new site, so keep on capturing :)
+* Learning can be slow after given too many examples
+
+You can help us make Spider smarter and improve our algorithm by trying out the bookmarklet.
+
+Thanks very much! :)
