@@ -54,14 +54,13 @@ class Capture(Handler):
         if is_new_page and count > 1:
             tasks.learn.delay(site)
 
-        self.content_type = 'application/json'
         self.cors()
-        self.write(json.dumps({
+        self.write({
             'is_new_site': not is_old_site,
             'is_new_page': is_new_page > 0,
             'count': count,
             'selectors': selectors,
-        }))
+        })
         self.finish()
 
     def options(self, *args, **kwargs):
@@ -89,12 +88,11 @@ class Site(Handler):
 
         count, selectors = yield process(site)
 
-        self.content_type = 'application/json'
         self.cors()
-        self.write(json.dumps({
+        self.write({
             'count': count,
             'selectors': selectors,
-        }))
+        })
         self.finish()
 
     def options(self, *args, **kwargs):
@@ -117,13 +115,12 @@ class Stats(Handler):
 
         usage, sites, pages = yield process()
 
-        self.content_type = 'application/json'
         self.cors()
-        self.write(json.dumps({
+        self.write({
             'usage': int(usage),
             'sites': int(sites),
             'pages': int(pages),
-        }))
+        })
         self.finish()
 
     def options(self, *args, **kwargs):
