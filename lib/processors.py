@@ -102,10 +102,12 @@ class Processor(object):
                 for text1, text2 in itertools.product(page['texts'], repeat=2):
                     if text1 is not text2:
                         coherent_score += self.analyzer.get_similarity(text1, text2)
+                if len(page['texts']) <= 1:
+                    coherent_score = 1.0
                 del page['texts']
 
                 # combine scores
-                page['score'] += coherent_score
+                page['score'] *= coherent_score
                 cluster['score'] += page['score']
 
                 if page['score'] > 0:
