@@ -120,9 +120,9 @@ class Processor(object):
             cluster['selectors'] = utils.consolidate_selectors(cluster['selectors'])
 
         # get rid of the clusters with score 0
-        #for label in clusters.keys():
-        #    if clusters[label]['score'] <= 0 or clusters[label]['confidence'] <= 0:
-        #        del clusters[label]
+        for label in clusters.keys():
+            if clusters[label]['score'] <= 0 or clusters[label]['confidence'] <= 0:
+                del clusters[label]
 
         return clusters.values()
 
