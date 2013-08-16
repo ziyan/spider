@@ -31,17 +31,17 @@ class Capture(Handler):
         # parse url and get site
         parts = urlparse.urlparse(data['url'])
         assert parts.scheme in ['http', 'https']
-        site = '%s://%s' % (parts.scheme, parts.netloc)
+        site = '%s://%s' % (parts.scheme.lower(), parts.netloc.lower())
 
         @brukva.adisp.async
         def process(site, data, callback):
             pipeline = settings.REDIS_ASYNC.pipeline()
             pipeline.hset('spider:pages:%s' % site, data['url'], zlib.compress(pickle.dumps(data, pickle.HIGHEST_PROTOCOL)))
             pipeline.hlen('spider:pages:%s' % site)
-            pipeline.get('spider:rules:%s' % site)
+            pipeline.get('spider:selectors:%s' % site)
             pipeline.execute(callback)
 
-        is_new, count, rules = yield process(site, data)
+        is_new, count, selectors = yield process(site, data)
 
         # schedule learner
         if is_new and count > 1:
@@ -52,7 +52,7 @@ class Capture(Handler):
         self.write(json.dumps({
             'is_new': is_new > 0,
             'count': count,
-            'rules': json.loads(rules) if rules else None,
+            'selectors': selectors,
         }))
         self.finish()
 
@@ -76,16 +76,16 @@ class Site(Handler):
         def process(site, callback):
             pipeline = settings.REDIS_ASYNC.pipeline()
             pipeline.hlen('spider:pages:%s' % site)
-            pipeline.get('spider:rules:%s' % site)
+            pipeline.get('spider:selectors:%s' % site)
             pipeline.execute(callback)
 
-        count, rules = yield process(site)
+        count, selectors = yield process(site)
 
         self.cors()
         self.content_type = 'application/json'
         self.write(json.dumps({
             'count': count,
-            'rules': json.loads(rules) if rules else None,
+            'selectors': selectors,
         }))
         self.finish()
 

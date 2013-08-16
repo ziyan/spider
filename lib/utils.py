@@ -17,11 +17,16 @@ def load_data(path, id):
 
 def consolidate_selectors(selectors):
 
-    for selector1, selector2 in itertools.combinations(selectors, 2):
-        if len(selector1) != len(selector2):
+    for selector1, selector2 in itertools.product(selectors, repeat=2):
+        if selector1 is selector2:
             continue
-        if map(lambda s: s['name'], selector1) != map(lambda s: s['name'], selector2):
+
+        # element tag name needs to match
+        names1 = ' > '.join([s['name'] for s in selector1])
+        names2 = ' > '.join([s['name'] for s in selector2])
+        if names1 != names2:
             continue
+
         for part1, part2 in zip(selector1, selector2):
             if part1['id'] != part2['id']:
                 part1['id'] = ''

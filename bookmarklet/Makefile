@@ -1,12 +1,12 @@
 SPIDER_TARGET = spider.js
 SPIDER_SOURCES = \
-	json2.js \
 	jquery.js \
 	spider.coffee.js \
+	json2.js \
 	utils.coffee.js \
 	extractor.coffee.js \
 	ui.coffee.js \
-	capture.coffee.js \
+	run.coffee.js \
 
 .PHONY: all
 all: $(SPIDER_TARGET)

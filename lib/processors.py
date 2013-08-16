@@ -76,6 +76,7 @@ class Processor(object):
             pages=collections.defaultdict(lambda: dict(
                 score=0.0,
                 texts=[],
+                htmls=[],
             )),
         ))
 
@@ -88,21 +89,39 @@ class Processor(object):
             cluster['selectors'].append(text['selector'])
             cluster['pages'][page['url']]['score'] += relevance_score
             cluster['pages'][page['url']]['texts'].append(text['text'])
+            cluster['pages'][page['url']]['htmls'].append(text['html'])
 
         for cluster in clusters.values():
-            cluster['selectors'] = utils.consolidate_selectors(cluster['selectors'])
+
+            # count non zero pages
+            count = 0
+
+            # coherence score
             for page in cluster['pages'].values():
                 coherent_score = 0.0
                 for text1, text2 in itertools.product(page['texts'], repeat=2):
                     if text1 is not text2:
                         coherent_score += self.analyzer.get_similarity(text1, text2)
                 del page['texts']
+
+                # combine scores
                 page['score'] *= coherent_score
                 cluster['score'] += page['score']
 
+                if page['score'] > 0:
+                    count += 1
+
+            if count > 0: cluster['score'] /= float(count)
+            cluster['confidence'] = float(count) / float(len(cluster['pages']))
+
+            # consolidate clusters
+            cluster['selectors'] = utils.consolidate_selectors(cluster['selectors'])
+
+        # get rid of the clusters with score 0
         for label in clusters.keys():
-            if clusters[label]['score'] <= 0:
+            if clusters[label]['score'] <= 0 or clusters[label]['confidence'] <= 0:
                 del clusters[label]
 
-        return clusters
+        return clusters.values()
+
 

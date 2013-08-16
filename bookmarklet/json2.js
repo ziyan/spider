@@ -35,17 +35,17 @@
 
             This method produces a JSON text from a JavaScript value.
 
-            When an object value is found, if the object contains a toJSON
-            method, its toJSON method will be called and the result will be
-            stringified. A toJSON method does not serialize: it returns the
+            When an object value is found, if the object contains a __spider_toJSON
+            method, its __spider_toJSON method will be called and the result will be
+            stringified. A __spider_toJSON method does not serialize: it returns the
             value represented by the name/value pair that should be serialized,
-            or undefined if nothing should be serialized. The toJSON method
+            or undefined if nothing should be serialized. The __spider_toJSON method
             will be passed the key associated with the value, and this will be
             bound to the value
 
             For example, this would serialize Dates as ISO strings.
 
-                Date.prototype.toJSON = function (key) {
+                Date.prototype.__spider_toJSON = function (key) {
                     function f(n) {
                         // Format integers to have at least two digits.
                         return n < 10 ? '0' + n : n;
@@ -152,15 +152,15 @@
     call, charCodeAt, getUTCDate, getUTCFullYear, getUTCHours,
     getUTCMinutes, getUTCMonth, getUTCSeconds, hasOwnProperty, join,
     lastIndex, length, parse, prototype, push, replace, slice, stringify,
-    test, toJSON, toString, valueOf
+    test, __spider_toJSON, toString, valueOf
 */
 
 
 // Create a JSON object only if one does not already exist. We create the
 // methods in a closure to avoid creating global variables.
 
-if (typeof JSON !== 'object') {
-    JSON = {};
+if (typeof __spider.JSON !== 'object') {
+    __spider.JSON = {};
 }
 
 (function () {
@@ -171,26 +171,23 @@ if (typeof JSON !== 'object') {
         return n < 10 ? '0' + n : n;
     }
 
-    if (typeof Date.prototype.toJSON !== 'function') {
+    Date.prototype.__spider_toJSON = function () {
 
-        Date.prototype.toJSON = function () {
+        return isFinite(this.valueOf())
+            ? this.getUTCFullYear()     + '-' +
+                f(this.getUTCMonth() + 1) + '-' +
+                f(this.getUTCDate())      + 'T' +
+                f(this.getUTCHours())     + ':' +
+                f(this.getUTCMinutes())   + ':' +
+                f(this.getUTCSeconds())   + 'Z'
+            : null;
+    };
 
-            return isFinite(this.valueOf())
-                ? this.getUTCFullYear()     + '-' +
-                    f(this.getUTCMonth() + 1) + '-' +
-                    f(this.getUTCDate())      + 'T' +
-                    f(this.getUTCHours())     + ':' +
-                    f(this.getUTCMinutes())   + ':' +
-                    f(this.getUTCSeconds())   + 'Z'
-                : null;
+    String.prototype.__spider_toJSON      =
+        Number.prototype.__spider_toJSON  =
+        Boolean.prototype.__spider_toJSON = function () {
+            return this.valueOf();
         };
-
-        String.prototype.toJSON      =
-            Number.prototype.toJSON  =
-            Boolean.prototype.toJSON = function () {
-                return this.valueOf();
-            };
-    }
 
     var cx = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,
         escapable = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,
@@ -237,11 +234,11 @@ if (typeof JSON !== 'object') {
             partial,
             value = holder[key];
 
-// If the value has a toJSON method, call it to obtain a replacement value.
+// If the value has a __spider_toJSON method, call it to obtain a replacement value.
 
         if (value && typeof value === 'object' &&
-                typeof value.toJSON === 'function') {
-            value = value.toJSON(key);
+                typeof value.__spider_toJSON === 'function') {
+            value = value.__spider_toJSON(key);
         }
 
 // If we were called with a replacer function, then call the replacer to
@@ -355,8 +352,8 @@ if (typeof JSON !== 'object') {
 
 // If the JSON object does not yet have a stringify method, give it one.
 
-    if (typeof JSON.stringify !== 'function') {
-        JSON.stringify = function (value, replacer, space) {
+    if (typeof __spider.JSON.stringify !== 'function') {
+        __spider.JSON.stringify = function (value, replacer, space) {
 
 // The stringify method takes a value and an optional replacer, and an optional
 // space parameter, and returns a JSON text. The replacer can be a function
@@ -389,7 +386,7 @@ if (typeof JSON !== 'object') {
             if (replacer && typeof replacer !== 'function' &&
                     (typeof replacer !== 'object' ||
                     typeof replacer.length !== 'number')) {
-                throw new Error('JSON.stringify');
+                throw new Error('__spider.JSON.stringify');
             }
 
 // Make a fake root object containing our value under the key of ''.
@@ -402,8 +399,8 @@ if (typeof JSON !== 'object') {
 
 // If the JSON object does not yet have a parse method, give it one.
 
-    if (typeof JSON.parse !== 'function') {
-        JSON.parse = function (text, reviver) {
+    if (typeof __spider.JSON.parse !== 'function') {
+        __spider.JSON.parse = function (text, reviver) {
 
 // The parse method takes a text and an optional reviver function, and returns
 // a JavaScript value if the text is a valid JSON text.
@@ -480,7 +477,7 @@ if (typeof JSON !== 'object') {
 
 // If the text is not JSON parseable, then a SyntaxError is thrown.
 
-            throw new SyntaxError('JSON.parse');
+            throw new SyntaxError('__spider.JSON.parse');
         };
     }
 }());
