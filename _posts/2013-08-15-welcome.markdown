@@ -10,8 +10,9 @@ Spider is a web content extraction robot who master its technique by learning th
 Some known limitations:
 
 * Currently only works with English
-* Some site have Content Security Policy (CSP) protection and the bookmarklet may not work
+* Some sites have Content Security Policy (CSP) protection and the bookmarklet may not work
 * Some sites convert my POST request to a GET, I haven't figured out why yet
+* Some sites are too big and complicated to capture
 * Need to have at least 2 pages as examples for a new site, so keep on capturing :)
 * Learning can be slow after given too many examples
 
