@@ -5,33 +5,28 @@ __spider.namespace '__spider', (exports) ->
     upload = (data) ->
         __spider.ui.info('Uploading ...')
 
-        __spider.$.ajaxSetup
-            jsonp: null
-            jsonpCallback: null
+        xhr = new XMLHttpRequest()
+        xhr.open 'POST', window.__spider_url + '/capture', true
+        xhr.setRequestHeader 'X-Spider', 'spider'
+        xhr.setRequestHeader 'Content-Type', 'application/json'
+        xhr.onreadystatechange = ->
+            return if xhr.readyState != 4
+            if xhr.status != 200 or not xhr.response
+                __spider.ui.error('Something went wrong while uploading data.')
+                return
 
-        request = __spider.$.ajax
-            type: 'POST'
-            url: window.__spider_url + '/capture'
-            dataType: 'json'
-            crossDomain: true
-            data: __spider.JSON.stringify(data)
-            headers:
-                'X-SPIDER': 'spider' # force a preflight
+            data = __spider.JSON.parse(xhr.response)
+            if not data.selectors
+                __spider.ui.success('Done! We are still learning. Try capture one more similar page. :)')
+                return
 
-        request.done (data) ->
-          if not data.selectors
-            __spider.ui.success('Done! We are still learning. Try capture one more similar page. :)')
-            return
+            console.log __spider.$(data.selectors)
 
-          console.log __spider.$(data.selectors)
+            __spider.$(data.selectors).css
+                background: '#ffff00'
 
-          __spider.$(data.selectors).css
-            background: '#ffff00'
-
-          __spider.ui.success('Done! Content highlighted :)')
-
-        request.error (xhr, txt_status) ->
-          __spider.ui.error('Something went wrong while uploading data.')
+            __spider.ui.success('Done! Content highlighted :)')
+        xhr.send __spider.JSON.stringify(data)
 
     capture = ->
         __spider.ui.info('Capturing ...')

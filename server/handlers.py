@@ -13,7 +13,7 @@ class Handler(tornado.web.RequestHandler):
     def cors(self):
         self.set_header('Access-Control-Allow-Origin', '*')
         self.set_header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
-        self.set_header('Access-Control-Allow-Headers', 'X-SPIDER')
+        self.set_header('Access-Control-Allow-Headers', 'Origin, Content-Type, Accept, X-Spider')
 
 class Redirect(Handler):
 
