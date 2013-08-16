@@ -36,9 +36,7 @@ def learn(site):
     # selecting selectors
     selectors = []
     for cluster in clusters:
-        if cluster['confidence'] < settings.CONFIDENCE:
-            continue
-        if cluster['score'] < settings.SCORE:
+        if cluster['confidence'] < settings.CONFIDENCE and cluster['score'] < settings.SCORE:
             continue
         for selector in cluster['selectors'].values():
             if selector[-1]['name'] != 'a':

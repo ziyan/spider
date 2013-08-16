@@ -21,4 +21,10 @@ STORE = os.path.realpath(os.path.join(os.path.abspath(os.path.dirname(__file__))
 
 
 CONFIDENCE = 0.5
-SCORE = 20.0
+SCORE = 1000.0
+
+try:
+    from settings_local import *
+except ImportError:
+    pass
+
