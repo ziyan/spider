@@ -105,7 +105,7 @@ class Processor(object):
                 del page['texts']
 
                 # combine scores
-                page['score'] *= coherent_score
+                page['score'] += coherent_score
                 cluster['score'] += page['score']
 
                 if page['score'] > 0:

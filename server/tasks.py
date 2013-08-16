@@ -18,6 +18,8 @@ def learn(site):
         return
     settings.REDIS_SYNC.set('spider:site:%s:learned' % site, count)
 
+    print 'site = %s, count = %d' % (site, count)
+
     # load data from redis
     data = settings.REDIS_SYNC.hgetall('spider:site:%s' % site)
     data = [pickle.loads(zlib.decompress(data)) for data in data.values()]
@@ -41,6 +43,7 @@ def learn(site):
         for selector in cluster['selectors'].values():
             if selector[-1]['name'] != 'a':
                 selectors.append(selector)
+
     selectors = ','.join(utils.consolidate_selectors(selectors).keys())
     settings.REDIS_SYNC.set('spider:site:%s:selectors' % site, selectors)
     print 'site = %s, selectors = %s' % (site, selectors)
