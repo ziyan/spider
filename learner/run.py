@@ -19,22 +19,27 @@ def main(args):
     path = utils.get_data_path(args.site[0])
     urls = utils.load_urls(path)
 
-    # load data
-    data = [utils.load_data(path, id) for id, url in enumerate(urls)]
+    for count in range(2, len(urls) + 1):
 
-    # process data
-    processor = processors.Processor(data)
-    features = processor.extract()
+        print '[learner] clustering with %d urls' % count
 
-    # clustering
-    clusterer = clusterers.DBSCAN()
-    labels = clusterer.cluster(features).labels_
+        # load data
+        data = [utils.load_data(path, id) for id, url in enumerate(urls)]
+        data = data[:count]
 
-    # score
-    clusters = processor.score(labels)
-    
-    output = json.dumps(clusters, indent=2, ensure_ascii=False)
-    print output.encode('utf8')
+        # process data
+        processor = processors.Processor(data)
+        features = processor.extract()
+
+        # clustering
+        clusterer = clusterers.DBSCAN()
+        labels = clusterer.cluster(features).labels_
+
+        # score
+        clusters = processor.score(labels)
+        
+        with open(os.path.join(path, 'clusters.%03d.json' % count), 'w') as f:
+            f.write(json.dumps(clusters, indent=2, ensure_ascii=False).encode('utf8'))
 
 def parse_args():
     """

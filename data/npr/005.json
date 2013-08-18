@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 3991,
+      "height": 3026,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "3991px",
+      "height": "3026px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -147,54 +147,92 @@
     }
   },
   "descriptions": [
-    "Between unrest in Egypt, the controversy surrounding leaker Edward Snowden and the terrorist threat that led to embassy closures, it's been a busy month for Susan Rice. And this latest threat has deep personal significance for President Obama's new national security adviser.",
-    "Between unrest in Egypt, the controversy surrounding leaker Edward Snowden and the terrorist threat that led to embassy closures, it's been a busy month for Susan Rice. And this latest threat has deep personal significance for President Obama's new national security adviser."
+    "Jeff Bezos' $250 million purchase of The Washington Post, abuses of Twitter in the U.K. and fears of a backlash against new mobile Amber Alerts all made the news in technology this week. So did a hackable Japanese toilet and a patch to hide you from mosquitoes.",
+    "Jeff Bezos' $250 million purchase of The Washington Post, abuses of Twitter in the U.K. and fears of a backlash against new mobile Amber Alerts all made the news in technology this week. So did a hackable Japanese toilet and a patch to hide you from mosquitoes."
   ],
   "titles": [
-    "Susan Rice's First Month On The Job Has Been A Doozy : NPR",
-    "Susan Rice's First Month On The Job Has Been A Doozy : NPR"
+    "Tech Week That Was: Bezos' Buy, Twitter Abuse, Scary Alerts : All Tech Considered : NPR",
+    "Tech Week That Was: Bezos' Buy, Twitter Abuse, Scary Alerts : NPR"
   ],
-  "url": "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy",
+  "url": "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts",
   "links": [
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#mainContent",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#sidebar",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#mainContent",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#sidebar",
     "http://www.npr.org/",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#",
     "http://www.npr.org/templates/stations/stations/",
     "http://www.npr.org/stations/donate/index.php",
     "http://shop.npr.org/",
-    "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2F2013%2F08%2F09%2F210286841%2Fsusan-rices-first-month-on-the-job-has-been-a-doozy",
+    "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Falltechconsidered%2F2013%2F08%2F09%2F210538787%2Ftech-week-that-was-bezos-buy-twitter-abuse-scary-alerts",
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/sections/news/",
     "http://www.npr.org/sections/arts/",
     "http://www.npr.org/music/",
     "http://www.npr.org/listen/",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#sidebar",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#sidebar",
     "http://www.npr.org/",
-    "http://www.npr.org/sections/news/",
-    "http://www.npr.org/sections/us/",
-    "http://www.npr.org/sections/national-security/",
-    "http://www.npr.org/people/2101154/ari-shapiro",
-    "http://www.npr.org/listen",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#",
+    "http://www.npr.org/blogs/alltechconsidered/",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#",
+    "http://www.npr.org/templates/story/story.php?storyId=125104516",
+    "http://www.npr.org/templates/story/story.php?storyId=125106005",
+    "http://www.npr.org/templates/story/story.php?storyId=125105682",
+    "http://www.npr.org/blogs/alltechconsidered/153715918/the-industry",
+    "https://twitter.com/npralltech",
+    "http://www.npr.org/blogs/alltechconsidered/153715918/the-industry",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/05/209269150/in-bezos-purchase-of-post-tech-and-media-keep-melding",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/07/209563964/amazon-now-deals-in-art-but-galleries-arent-threatened",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/05/209178771/the-effort-to-write-laws-for-your-digital-life-after-death",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/05/209256978/trade-case-puts-apple-in-washingtons-sights",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/05/209241687/special-ops-envisions-iron-man-like-suit-to-protect-troops",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/05/209208453/the-hackable-japanese-toilet-comes-with-an-app-to-track-poop",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/07/209602106/as-twitter-expands-reach-abuse-policy-gets-added-scrutiny",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210417517/new-digital-amber-alerts-could-create-a-backlash",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/209885749/on-vine-brands-look-to-deliver-their-message-in-six-seconds",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/209483329/the-sheryl-sandberg-effect-rise-of-female-coos",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/07/209575570/a-patch-designed-to-make-you-invisible-to-mosquitoes",
+    "http://www.fastcoexist.com/1682746/this-tooth-sensor-puts-wearable-computing-in-your-mouth",
+    "http://bits.blogs.nytimes.com/2013/08/08/youtubes-founders-challenge-vine-and-instagram-with-new-video-app/?_r=1&",
+    "https://mixbit.com/",
+    "http://www.bbc.co.uk/news/technology-23588202",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#",
     "javascript:void(0);",
     "javascript:void(0);",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#",
+    "https://plus.google.com/share?url=http%3A%2F%2Fwww.npr.org%2Fblogs%2Falltechconsidered%2F2013%2F08%2F09%2F210538787%2Ftech-week-that-was-bezos-buy-twitter-abuse-scary-alerts",
     "javascript:void(0);",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#commentBlock",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#",
-    "http://www.npr.org/templates/reg/login.php?returnUrl=%2F2013%2F08%2F09%2F210286841%2Fsusan-rices-first-month-on-the-job-has-been-a-doozy%23commentBlock",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#commentBlock",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/06/209483329/the-sheryl-sandberg-effect-rise-of-female-coos",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/12/211369819/crowdsourcing-ideas-for-a-better-school",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#",
+    "http://www.npr.org/templates/reg/login.php?returnUrl=%2Fblogs%2Falltechconsidered%2F2013%2F08%2F09%2F210538787%2Ftech-week-that-was-bezos-buy-twitter-abuse-scary-alerts%23commentBlock",
     "http://npr.org/discussionrules",
     "http://www.npr.org/about/termsofuse.html",
     "http://www.npr.org/about/termsofuse.html",
     "http://www.npr.org/about/privacypolicy.html",
     "http://npr.org/communityfaq",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#sidebar",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#sidebar",
     "http://www.npr.org/",
+    "http://www.npr.org/blogs/alltechconsidered/",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#",
+    "http://www.npr.org/templates/story/story.php?storyId=125104516",
+    "http://www.npr.org/templates/story/story.php?storyId=125106005",
+    "http://www.npr.org/templates/story/story.php?storyId=125105682",
+    "http://www.npr.org/blogs/alltechconsidered/153715918/the-industry",
+    "https://twitter.com/npralltech",
+    "http://www.npr.org/blogs/alltechconsidered/",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#",
+    "http://www.npr.org/people/144449221/elise-hu",
+    "http://www.twitter.com/hennseggs",
+    "http://www.npr.org/people/2101272/laura-sydell",
+    "http://twitter.com/npralltech",
+    "http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx?sid=80",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#",
+    "feed://www.npr.org/rss/rss.php?id=102920358",
+    "https://twitter.com/npralltech",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#",
+    "http://www.npr.org/rss/podcast/podcast_detail.php?siteId=4819382",
+    "http://www.npr.org/rss/podcast/podcast_detail.php?siteId=4819382",
     "http://www.npr.org/",
     "http://www.npr.org/sections/news/",
     "http://www.npr.org/sections/arts/",
@@ -204,14 +242,14 @@
     "http://www.npr.org/templates/stations/stations/",
     "http://shop.npr.org/",
     "http://www.npr.org/templates/reg/logout.php",
-    "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2F2013%2F08%2F09%2F210286841%2Fsusan-rices-first-month-on-the-job-has-been-a-doozy",
+    "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Falltechconsidered%2F2013%2F08%2F09%2F210538787%2Ftech-week-that-was-bezos-buy-twitter-abuse-scary-alerts",
     "http://www.npr.org/about/place/corpsupport/",
     "http://www.npr.org/blogs/alltechconsidered/2013/08/17/212613677/cracking-the-code-just-how-does-encrypted-email-work",
-    "http://www.npr.org/blogs/itsallpolitics/2013/08/17/212960237/amid-struggle-for-soul-of-gop-libertarians-take-limelight",
-    "http://www.npr.org/templates/story/story.php?storyId=212692301",
-    "http://www.npr.org/templates/story/story.php?storyId=212603802",
-    "http://www.npr.org/sections/national-security/",
-    "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/17/212614052/out-of-the-comics-into-reality-jet-pack-heads-to-market",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/16/212678437/switching-to-gmail-may-leave-reporters-sources-at-risk",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/16/212309715/tech-week-that-was-hyperloop-the-next-blackout-sites-down",
+    "http://www.npr.org/blogs/alltechconsidered/",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
     "http://www.npr.org/",
     "http://www.npr.org/sections/news/",
@@ -1037,45 +1075,42 @@
     },
     {
       "bound": {
-        "height": 30,
-        "left": 117,
-        "top": 101,
-        "width": 1021
+        "height": 12,
+        "left": 424,
+        "top": 140,
+        "width": 190
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-top-color": "rgb(109, 138, 196)",
-        "color": "rgb(109, 138, 196)",
+        "border-bottom-color": "rgb(170, 170, 170)",
+        "border-left-color": "rgb(170, 170, 170)",
+        "border-right-color": "rgb(170, 170, 170)",
+        "border-top-color": "rgb(170, 170, 170)",
+        "color": "rgb(170, 170, 170)",
+        "display": "inline-block",
         "font-size": "12px",
         "font-weight": "bold",
         "line-height": "12px",
-        "list-style-type": "none",
-        "min-height": "1px",
-        "opacity": "0.5",
-        "outline-color": "rgb(109, 138, 196)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "padding-top": "18px",
-        "text-transform": "lowercase",
-        "z-index": "0"
+        "outline-color": "rgb(170, 170, 170)",
+        "text-transform": "uppercase",
+        "vertical-align": "middle"
       },
       "element": {
         "classes": [
-          "breadcrumb"
+          "tag"
         ],
         "id": "",
-        "name": "ul"
+        "name": "span"
       },
-      "html": "\n      <li><a href=\"http://www.npr.org/sections/news/\">News</a> <span class=\"arrow\">&gt;</span></li>\n   \n   <li><a href=\"http://www.npr.org/sections/us/\">U.S.</a> <span class=\"arrow\">&gt;</span></li>\n   \n   <li class=\"last\"><a href=\"http://www.npr.org/sections/national-security/\">National Security</a></li>\n   \n",
+      "html": "Technology News From NPR",
       "path": [
         "div",
         "div",
         "section",
-        "article",
-        "ul"
+        "header",
+        "div",
+        "a",
+        "span"
       ],
       "selector": [
         {
@@ -1097,30 +1132,492 @@
         },
         {
           "classes": [
-            "story"
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "tag"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Technology News From NPR"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 15,
+        "top": 211,
+        "width": 104
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "font-weight": "bold",
+        "line-height": "44px",
+        "list-style-type": "none",
+        "outline-color": "rgb(109, 138, 196)",
+        "padding-left": "15px",
+        "padding-right": "16px",
+        "position": "static",
+        "text-align": "center",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Social Web",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId125104516"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Social Web"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 119,
+        "top": 211,
+        "width": 157
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "solid",
+        "border-left-width": "2px",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "font-weight": "bold",
+        "line-height": "44px",
+        "list-style-type": "none",
+        "outline-color": "rgb(109, 138, 196)",
+        "padding-left": "16px",
+        "padding-right": "16px",
+        "position": "static",
+        "text-align": "center",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Privacy &amp; Security",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId125106005"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Privacy & Security"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 276,
+        "top": 211,
+        "width": 142
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "solid",
+        "border-left-width": "2px",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "font-weight": "bold",
+        "line-height": "44px",
+        "list-style-type": "none",
+        "outline-color": "rgb(109, 138, 196)",
+        "padding-left": "16px",
+        "padding-right": "16px",
+        "position": "static",
+        "text-align": "center",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Gadgets &amp; Apps",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat125105682"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Gadgets & Apps"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 418,
+        "top": 211,
+        "width": 117
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "solid",
+        "border-left-width": "2px",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "font-weight": "bold",
+        "line-height": "44px",
+        "list-style-type": "none",
+        "outline-color": "rgb(109, 138, 196)",
+        "padding-left": "16px",
+        "padding-right": "16px",
+        "position": "static",
+        "text-align": "center",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "The Industry",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "catId153715918"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "The Industry"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 117,
+        "top": 310,
+        "width": 1021
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "min-height": "1px",
+        "opacity": "0.5",
+        "outline-color": "rgb(109, 138, 196)",
+        "padding-left": "15px",
+        "padding-right": "15px",
+        "text-transform": "lowercase",
+        "z-index": "0"
+      },
+      "element": {
+        "classes": [
+          "category"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a href=\"http://www.npr.org/blogs/alltechconsidered/153715918/the-industry\">The Industry</a>",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
         },
         {
           "classes": [
-            "breadcrumb"
+            "category"
           ],
           "id": "",
-          "name": "ul"
+          "name": "p"
         }
       ],
       "text": [
-        "News",
-        "U.S.",
-        "National Security"
+        "The Industry"
       ]
     },
     {
       "bound": {
         "height": 36,
         "left": 132,
-        "top": 146,
+        "top": 337,
         "width": 991
       },
       "computed": {
@@ -1137,7 +1634,7 @@
         "id": "",
         "name": "h1"
       },
-      "html": "Susan Rice's First Month On The Job Has Been A Doozy",
+      "html": "Tech Week That Was: Bezos' Buy, Twitter Abuse, Scary Alerts",
       "path": [
         "div",
         "div",
@@ -1166,7 +1663,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -1185,14 +1683,14 @@
         }
       ],
       "text": [
-        "Susan Rice's First Month On The Job Has Been A Doozy"
+        "Tech Week That Was: Bezos' Buy, Twitter Abuse, Scary Alerts"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 132,
-        "top": 193,
+        "top": 384,
         "width": 991
       },
       "computed": {
@@ -1214,7 +1712,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "by <a rel=\"author\" href=\"http://www.npr.org/people/2101154/ari-shapiro\"><span>Ari Shapiro</span></a>",
+      "html": "by <span>Avie Schneider</span>",
       "path": [
         "div",
         "div",
@@ -1245,7 +1743,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -1267,7 +1766,7 @@
             "bucketwrap",
             "byline"
           ],
-          "id": "res210290093",
+          "id": "res210538789",
           "name": "div"
         },
         {
@@ -1280,14 +1779,14 @@
       ],
       "text": [
         "by ",
-        "Ari Shapiro"
+        "Avie Schneider"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 132,
-        "top": 220,
+        "top": 411,
         "width": 991
       },
       "computed": {
@@ -1309,7 +1808,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <time datetime=\"2013-08-09\"><span class=\"date\">August 09, 2013</span><span class=\"time\"> 4:24 PM</span></time>\n   ",
+      "html": "\n            <time datetime=\"2013-08-09\"><span class=\"date\">August 09, 2013</span><span class=\"time\"> 2:30 PM</span></time>\n   ",
       "path": [
         "div",
         "div",
@@ -1338,7 +1837,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -1358,1182 +1858,14 @@
       ],
       "text": [
         "August 09, 2013",
-        " 4:24 PM"
-      ]
-    },
-    {
-      "bound": {
-        "height": 18,
-        "left": 265,
-        "top": 268,
-        "width": 644
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(102, 102, 102)",
-        "border-left-color": "rgb(102, 102, 102)",
-        "border-right-color": "rgb(102, 102, 102)",
-        "border-top-color": "rgb(102, 102, 102)",
-        "color": "rgb(102, 102, 102)",
-        "font-size": "18px",
-        "font-weight": "bold",
-        "line-height": "18px",
-        "margin-bottom": "5px",
-        "margin-top": "-6px",
-        "outline-color": "rgb(102, 102, 102)",
-        "overflow-x": "hidden",
-        "overflow-y": "hidden"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "Audio Unavailable",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "div",
-        "div",
-        "div",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation"
-          ],
-          "id": "primaryaudio",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bucketwrap",
-            "medium",
-            "primary",
-            "resaudio"
-          ],
-          "id": "res210570905",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "audio",
-            "enhance-replace",
-            "resaudio"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "avcontent",
-            "listen"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "Audio Unavailable"
-      ]
-    },
-    {
-      "bound": {
-        "height": 11,
-        "left": 265,
-        "top": 291,
-        "width": 644
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(102, 102, 102)",
-        "border-left-color": "rgb(102, 102, 102)",
-        "border-right-color": "rgb(102, 102, 102)",
-        "border-top-color": "rgb(102, 102, 102)",
-        "color": "rgb(102, 102, 102)",
-        "font-size": "11px",
-        "line-height": "11px",
-        "outline-color": "rgb(102, 102, 102)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "Try one of our other <a href=\"/listen\">listening options</a>",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "div",
-        "div",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation"
-          ],
-          "id": "primaryaudio",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bucketwrap",
-            "medium",
-            "primary",
-            "resaudio"
-          ],
-          "id": "res210570905",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "audio",
-            "enhance-replace",
-            "resaudio"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "avcontent",
-            "listen"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "Try one of our other ",
-        "listening options"
-      ]
-    },
-    {
-      "bound": {
-        "height": 30,
-        "left": 132,
-        "top": 995,
-        "width": 991
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(128, 128, 128)",
-        "border-left-color": "rgb(128, 128, 128)",
-        "border-right-color": "rgb(128, 128, 128)",
-        "border-top-color": "rgb(128, 128, 128)",
-        "color": "rgb(128, 128, 128)",
-        "font-size": "13px",
-        "line-height": "18px",
-        "margin-bottom": "12px",
-        "outline-color": "rgb(128, 128, 128)",
-        "padding-left": "22px",
-        "padding-right": "22px",
-        "padding-top": "12px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "Susan Rice was the U.S. ambassador to the United Nations before taking over as President Obama's national security adviser.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "div",
-        "div",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bucketwrap",
-            "image",
-            "large"
-          ],
-          "id": "res210577939",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "captionwrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "caption"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "Susan Rice was the U.S. ambassador to the United Nations before taking over as President Obama's national security adviser."
-      ]
-    },
-    {
-      "bound": {
-        "height": 37,
-        "left": 132,
-        "top": 1037,
-        "width": 991
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(153, 153, 153)",
-        "border-left-color": "rgb(153, 153, 153)",
-        "border-right-color": "rgb(153, 153, 153)",
-        "border-top-color": "rgb(153, 153, 153)",
-        "color": "rgb(153, 153, 153)",
-        "font-size": "10px",
-        "font-style": "italic",
-        "line-height": "normal",
-        "min-height": "22px",
-        "outline-color": "rgb(153, 153, 153)",
-        "padding-bottom": "12px",
-        "padding-top": "12px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [
-          "creditwrap"
-        ],
-        "id": "",
-        "name": "span"
-      },
-      "html": "<span class=\"credit\">Charles Dharapak</span>/<span class=\"rightsnotice\">AP</span>",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "div",
-        "span"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bucketwrap",
-            "image",
-            "large"
-          ],
-          "id": "res210577939",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "creditwrap"
-          ],
-          "id": "",
-          "name": "span"
-        }
-      ],
-      "text": [
-        "Charles Dharapak",
-        "/",
-        "AP"
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 1114,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "People have been talking a lot lately about the National Security Agency. But there's another important \"NSA\" in the federal government — the president's national security adviser.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "People have been talking a lot lately about the National Security Agency. But there's another important \"NSA\" in the federal government — the president's national security adviser."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 1182,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "That person is a sort of funnel — gathering information from the military, the intelligence community, the State Department — and channeling it all to the president.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "That person is a sort of funnel — gathering information from the military, the intelligence community, the State Department — and channeling it all to the president."
-      ]
-    },
-    {
-      "bound": {
-        "height": 144,
-        "left": 449,
-        "top": 1250,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "Susan Rice has been in the job for only a month — but it's been one heck of a month. The day Rice started her new job, Egypt's military overthrew the Egyptian government. Then, the controversy surrounding leaker Edward Snowden blew up. And last week, with both of those fires still raging, another crisis pulled Rice and the national security team into the White House Situation Room: a terrorist threat that led to the closing of U.S. embassies and consulates in the Middle East and North Africa.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "Susan Rice has been in the job for only a month — but it's been one heck of a month. The day Rice started her new job, Egypt's military overthrew the Egyptian government. Then, the controversy surrounding leaker Edward Snowden blew up. And last week, with both of those fires still raging, another crisis pulled Rice and the national security team into the White House Situation Room: a terrorist threat that led to the closing of U.S. embassies and consulates in the Middle East and North Africa."
-      ]
-    },
-    {
-      "bound": {
-        "height": 96,
-        "left": 449,
-        "top": 1414,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "This latest threat has deep personal significance for the new national security adviser. Fifteen years ago this week, Rice was the State Department's undersecretary for African affairs when terrorists blew up two U.S. embassies in East Africa. Hundreds of people were killed and thousands wounded.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "This latest threat has deep personal significance for the new national security adviser. Fifteen years ago this week, Rice was the State Department's undersecretary for African affairs when terrorists blew up two U.S. embassies in East Africa. Hundreds of people were killed and thousands wounded."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 1530,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "Prudence Bushnell, who was the American ambassador to Kenya at the time, says the attack had \"a huge impact\" on Rice.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "Prudence Bushnell, who was the American ambassador to Kenya at the time, says the attack had \"a huge impact\" on Rice."
-      ]
-    },
-    {
-      "bound": {
-        "height": 72,
-        "left": 449,
-        "top": 1598,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "\"I know it did because she came to visit a few months afterward,\" Bushnell says. \"You couldn't have been in the Department of State without having been impacted — and certainly not in African affairs.\"",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "\"I know it did because she came to visit a few months afterward,\" Bushnell says. \"You couldn't have been in the Department of State without having been impacted — and certainly not in African affairs.\""
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 1690,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "Last year, Rice was ambassador to the United Nations when terrorists struck again — this time in Benghazi, Libya. Four Americans were killed.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "Last year, Rice was ambassador to the United Nations when terrorists struck again — this time in Benghazi, Libya. Four Americans were killed."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 1758,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "Following that attack, Rice used talking points that were wrong on Sunday morning news shows. That mistake may have kept her from being nominated for secretary of state.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "Following that attack, Rice used talking points that were wrong on Sunday morning news shows. That mistake may have kept her from being nominated for secretary of state."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 1826,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "\"Susan Rice should have known better,\" Republican Sen. John McCain said on Fox News, \"and if she didn't know better, she's not qualified.\"",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "\"Susan Rice should have known better,\" Republican Sen. John McCain said on Fox News, \"and if she didn't know better, she's not qualified.\""
+        " 2:30 PM"
       ]
     },
     {
       "bound": {
         "height": 27,
         "left": 483,
-        "top": 2150,
+        "top": 709,
         "width": 27
       },
       "computed": {
@@ -2594,7 +1926,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -2614,7 +1947,7 @@
             "image",
             "medium"
           ],
-          "id": "res210290717",
+          "id": "res210545946",
           "name": "div"
         },
         {
@@ -2638,9 +1971,9 @@
     },
     {
       "bound": {
-        "height": 84,
+        "height": 66,
         "left": 132,
-        "top": 2177,
+        "top": 736,
         "width": 378
       },
       "computed": {
@@ -2664,7 +1997,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "Rice talks with Yousef Al Otaiba, the United Arab Emirates' ambassador to the United States, before the start of a dinner celebrating Ramadan at the White House last month.",
+      "html": "Amazon CEO Jeff Bezos, who purchased <em>The Washington Post</em>, is the latest big-name tech entrepreneur to buy a struggling media company.",
       "path": [
         "div",
         "div",
@@ -2696,7 +2029,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -2716,7 +2050,7 @@
             "image",
             "medium"
           ],
-          "id": "res210290717",
+          "id": "res210545946",
           "name": "div"
         },
         {
@@ -2740,14 +2074,16 @@
         }
       ],
       "text": [
-        "Rice talks with Yousef Al Otaiba, the United Arab Emirates' ambassador to the United States, before the start of a dinner celebrating Ramadan at the White House last month."
+        "Amazon CEO Jeff Bezos, who purchased ",
+        "The Washington Post",
+        ", is the latest big-name tech entrepreneur to buy a struggling media company."
       ]
     },
     {
       "bound": {
         "height": 37,
         "left": 132,
-        "top": 2273,
+        "top": 814,
         "width": 378
       },
       "computed": {
@@ -2773,7 +2109,7 @@
         "id": "",
         "name": "span"
       },
-      "html": "<span class=\"credit\">Carolyn Kaster</span>/<span class=\"rightsnotice\">AP</span>",
+      "html": "<span class=\"credit\">Rick Wilking</span>/<span class=\"rightsnotice\">Reuters/Landov</span>",
       "path": [
         "div",
         "div",
@@ -2803,7 +2139,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -2823,7 +2160,7 @@
             "image",
             "medium"
           ],
-          "id": "res210290717",
+          "id": "res210545946",
           "name": "div"
         },
         {
@@ -2835,16 +2172,16 @@
         }
       ],
       "text": [
-        "Carolyn Kaster",
+        "Rick Wilking",
         "/",
-        "AP"
+        "Reuters/Landov"
       ]
     },
     {
       "bound": {
-        "height": 48,
+        "height": 96,
         "left": 449,
-        "top": 1894,
+        "top": 453,
         "width": 690
       },
       "computed": {
@@ -2870,7 +2207,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "Rice did not need Senate confirmation to be President Obama's national security adviser.",
+      "html": "<em>Each Friday we round up the big conversations in tech and culture during the week that was. We also revisit the work that appeared on this blog, and highlight what we're reading from our fellow technology writers and observers at other organizations.</em>",
       "path": [
         "div",
         "div",
@@ -2899,7 +2236,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -2920,180 +2258,14 @@
         }
       ],
       "text": [
-        "Rice did not need Senate confirmation to be President Obama's national security adviser."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 1962,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "Those crucible experiences shape the person Rice is today. She painfully learned the cost of not doing enough.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "Those crucible experiences shape the person Rice is today. She painfully learned the cost of not doing enough."
-      ]
-    },
-    {
-      "bound": {
-        "height": 72,
-        "left": 449,
-        "top": 2030,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "Ben Rhodes works closely with Rice as deputy national security adviser at the White House, where, he says, \"there's definitely a lean toward action because there's an understanding that there's really no margin for error.\"",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "Ben Rhodes works closely with Rice as deputy national security adviser at the White House, where, he says, \"there's definitely a lean toward action because there's an understanding that there's really no margin for error.\""
+        "Each Friday we round up the big conversations in tech and culture during the week that was. We also revisit the work that appeared on this blog, and highlight what we're reading from our fellow technology writers and observers at other organizations."
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 449,
-        "top": 2122,
+        "top": 569,
         "width": 690
       },
       "computed": {
@@ -3119,7 +2291,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\"Action\" is a word that comes up a lot when people talk about Rice.",
+      "html": "<strong>ICYMI</strong><strong></strong>",
       "path": [
         "div",
         "div",
@@ -3148,7 +2320,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -3169,14 +2342,14 @@
         }
       ],
       "text": [
-        "\"Action\" is a word that comes up a lot when people talk about Rice."
+        "ICYMI"
       ]
     },
     {
       "bound": {
-        "height": 48,
+        "height": 168,
         "left": 449,
-        "top": 2166,
+        "top": 613,
         "width": 690
       },
       "computed": {
@@ -3202,7 +2375,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "Her predecessor, Tom Donilon, was extremely low-key. Nobody would describe Rice that way.",
+      "html": "In case you missed it ... here on All Tech, we looked at how Amazon founder Jeff Bezos' $250 million purchase of <em>The Washington Post </em>is the latest sign that the <a href=\"http://www.npr.org/blogs/alltechconsidered/2013/08/05/209269150/in-bezos-purchase-of-post-tech-and-media-keep-melding\">tech and media worlds are melding</a>. Speaking of Amazon, Laura Sydell says the online retailer's <a href=\"http://www.npr.org/blogs/alltechconsidered/2013/08/07/209563964/amazon-now-deals-in-art-but-galleries-arent-threatened\">foray into fine art</a> doesn't have traditional galleries too worried. Elise Hu took a look at efforts by several states to write laws to cover <a href=\"http://www.npr.org/blogs/alltechconsidered/2013/08/05/209178771/the-effort-to-write-laws-for-your-digital-life-after-death\">what happens to your digital life after you die</a>. And Laura noted how Apple is increasingly <a href=\"http://www.npr.org/blogs/alltechconsidered/2013/08/05/209256978/trade-case-puts-apple-in-washingtons-sights\">in Washington's sights</a>.",
       "path": [
         "div",
         "div",
@@ -3231,7 +2404,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -3252,14 +2426,24 @@
         }
       ],
       "text": [
-        "Her predecessor, Tom Donilon, was extremely low-key. Nobody would describe Rice that way."
+        "In case you missed it ... here on All Tech, we looked at how Amazon founder Jeff Bezos' $250 million purchase of ",
+        "The Washington Post ",
+        "is the latest sign that the ",
+        "tech and media worlds are melding",
+        ". Speaking of Amazon, Laura Sydell says the online retailer's ",
+        "foray into fine art",
+        " doesn't have traditional galleries too worried. Elise Hu took a look at efforts by several states to write laws to cover ",
+        "what happens to your digital life after you die",
+        ". And Laura noted how Apple is increasingly ",
+        "in Washington's sights",
+        "."
       ]
     },
     {
       "bound": {
-        "height": 48,
+        "height": 168,
         "left": 449,
-        "top": 2234,
+        "top": 801,
         "width": 690
       },
       "computed": {
@@ -3285,7 +2469,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "Instead, people call her style \"energetic,\" \"no-nonsense\" or \"rigorous.\" At the White House, her meetings start and end on time.",
+      "html": "Tom Bowman reported on technology being developed to give special ops troops <em><a href=\"http://www.npr.org/blogs/alltechconsidered/2013/08/05/209241687/special-ops-envisions-iron-man-like-suit-to-protect-troops\">Iron Man-like suits</a></em> to protect them in battle. Elise followed up on the <a href=\"http://www.npr.org/blogs/alltechconsidered/2013/08/05/209208453/the-hackable-japanese-toilet-comes-with-an-app-to-track-poop\">hackable Japanese toilet</a> and learned that its app collects perhaps a bit TMI. Steve Henn examined the <a href=\"http://www.npr.org/blogs/alltechconsidered/2013/08/07/209602106/as-twitter-expands-reach-abuse-policy-gets-added-scrutiny\">backlash against Twitter</a> after threats and abusive messages targeted prominent women in the U.K. And Steve says another backlash is feared — this one against the new wireless emergency alert system after <a href=\"http://www.npr.org/blogs/alltechconsidered/2013/08/09/210417517/new-digital-amber-alerts-could-create-a-backlash\">Amber Alerts startled millions</a> of mobile phone users.",
       "path": [
         "div",
         "div",
@@ -3314,7 +2498,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -3335,14 +2520,22 @@
         }
       ],
       "text": [
-        "Instead, people call her style \"energetic,\" \"no-nonsense\" or \"rigorous.\" At the White House, her meetings start and end on time."
+        "Tom Bowman reported on technology being developed to give special ops troops ",
+        "Iron Man-like suits",
+        " to protect them in battle. Elise followed up on the ",
+        "hackable Japanese toilet",
+        " and learned that its app collects perhaps a bit TMI. Steve Henn examined the ",
+        "backlash against Twitter",
+        " after threats and abusive messages targeted prominent women in the U.K. And Steve says another backlash is feared — this one against the new wireless emergency alert system after ",
+        "Amber Alerts startled millions",
+        " of mobile phone users."
       ]
     },
     {
       "bound": {
-        "height": 24,
+        "height": 120,
         "left": 449,
-        "top": 2302,
+        "top": 989,
         "width": 690
       },
       "computed": {
@@ -3368,7 +2561,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "Bruce Riedel of the Brookings Institution has known Rice for 20 years.",
+      "html": "Daniel Hajek reported on advertisers looking for an audience, <a href=\"http://www.npr.org/blogs/alltechconsidered/2013/08/09/209885749/on-vine-brands-look-to-deliver-their-message-in-six-seconds\">six seconds at a time</a>, on the Vine video app. Leslie Bradshaw, chief operating officer at the startup Guide, wrote about how <a href=\"http://www.npr.org/blogs/alltechconsidered/2013/08/09/209483329/the-sheryl-sandberg-effect-rise-of-female-coos\">women are having a bigger influence</a> at the top of the tech industry, in their own way. And, finally, our weekly innovation pick was <a href=\"http://www.npr.org/blogs/alltechconsidered/2013/08/07/209575570/a-patch-designed-to-make-you-invisible-to-mosquitoes\">the Kite Patch</a>, a sticker that hopefully makes you invisible to mosquitoes.",
       "path": [
         "div",
         "div",
@@ -3397,7 +2590,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -3418,927 +2612,20 @@
         }
       ],
       "text": [
-        "Bruce Riedel of the Brookings Institution has known Rice for 20 years."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 2346,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "\"If someone from an agency is giving her an inadequate answer or giving her the runaround, Susan's going to cut to the chase and say, 'Look, this is what I need to know,' \" he says.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "\"If someone from an agency is giving her an inadequate answer or giving her the runaround, Susan's going to cut to the chase and say, 'Look, this is what I need to know,' \" he says."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 2414,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "Tommy Vietor, who was a White House national security spokesman during Obama's first term, says Rice gets \"into the weeds.\"",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "Tommy Vietor, who was a White House national security spokesman during Obama's first term, says Rice gets \"into the weeds.\""
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 2482,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "\"She knows the details. She is tough and smart and will get your attention if you're slipping,\" Vietor says.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "\"She knows the details. She is tough and smart and will get your attention if you're slipping,\" Vietor says."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 2550,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "When Rice arrived at the White House a month ago, she made a point to meet each person who works on the National Security Council, Rhodes says.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "When Rice arrived at the White House a month ago, she made a point to meet each person who works on the National Security Council, Rhodes says."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 2618,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "\"And she's gone out of her way to make people know that their work is going to reach the president, and their voice is going to reach the president,\" he says.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "\"And she's gone out of her way to make people know that their work is going to reach the president, and their voice is going to reach the president,\" he says."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 2686,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "That's one reason national security adviser is such a powerful job: She hears from everyone with a stake in the argument, but the president may hear only from her.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "That's one reason national security adviser is such a powerful job: She hears from everyone with a stake in the argument, but the president may hear only from her."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 2754,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "Vietor describes how a typical decision might play out — say, to close embassies around the world.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "Vietor describes how a typical decision might play out — say, to close embassies around the world."
-      ]
-    },
-    {
-      "bound": {
-        "height": 72,
-        "left": 449,
-        "top": 2822,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "\"The national security adviser is convening the broader national security apparatus and saying: FBI, CIA, State, Defense, come to the table and let's discuss this. Let's figure out all the implications of these decisions and then let's vote,\" he explains.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "\"The national security adviser is convening the broader national security apparatus and saying: FBI, CIA, State, Defense, come to the table and let's discuss this. Let's figure out all the implications of these decisions and then let's vote,\" he explains."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 2914,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "And, he says, they do literally take a vote. \"The president gets a number of decisions every day that are unanimous, and he gets many others that are divided.\"",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "And, he says, they do literally take a vote. \"The president gets a number of decisions every day that are unanimous, and he gets many others that are divided.\""
-      ]
-    },
-    {
-      "bound": {
-        "height": 72,
-        "left": 449,
-        "top": 2982,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "Some national security advisers weigh in at stakeholder meetings, while others hold their counsel for the president. People in these meetings say, not surprisingly, that Rice expresses a strong view.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "Some national security advisers weigh in at stakeholder meetings, while others hold their counsel for the president. People in these meetings say, not surprisingly, that Rice expresses a strong view."
-      ]
-    },
-    {
-      "bound": {
-        "height": 48,
-        "left": 449,
-        "top": 3074,
-        "width": 690
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(17, 17, 17)",
-        "border-left-color": "rgb(17, 17, 17)",
-        "border-right-color": "rgb(17, 17, 17)",
-        "border-top-color": "rgb(17, 17, 17)",
-        "color": "rgb(17, 17, 17)",
-        "font-size": "16px",
-        "line-height": "24px",
-        "margin-bottom": "20px",
-        "margin-right": "8.333000183105469%",
-        "max-width": "690px",
-        "min-height": "1px",
-        "outline-color": "rgb(17, 17, 17)",
-        "padding-left": "15px",
-        "padding-right": "15px",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "During this harried month, folks at the White House say they have more than once heard the president joke with Rice about whether she's sure she wants the job.",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "During this harried month, folks at the White House say they have more than once heard the president joke with Rice about whether she's sure she wants the job."
+        "Daniel Hajek reported on advertisers looking for an audience, ",
+        "six seconds at a time",
+        ", on the Vine video app. Leslie Bradshaw, chief operating officer at the startup Guide, wrote about how ",
+        "women are having a bigger influence",
+        " at the top of the tech industry, in their own way. And, finally, our weekly innovation pick was ",
+        "the Kite Patch",
+        ", a sticker that hopefully makes you invisible to mosquitoes."
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 449,
-        "top": 3142,
+        "top": 1129,
         "width": 690
       },
       "computed": {
@@ -4364,7 +2651,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "It's not too late to back out, he tells her. She always replies: Happy to be here.",
+      "html": "<strong>What's Catching Our Eye</strong>",
       "path": [
         "div",
         "div",
@@ -4393,7 +2680,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -4414,7 +2702,601 @@
         }
       ],
       "text": [
-        "It's not too late to back out, he tells her. She always replies: Happy to be here."
+        "What's Catching Our Eye"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 449,
+        "top": 1173,
+        "width": 690
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(17, 17, 17)",
+        "border-left-color": "rgb(17, 17, 17)",
+        "border-right-color": "rgb(17, 17, 17)",
+        "border-top-color": "rgb(17, 17, 17)",
+        "color": "rgb(17, 17, 17)",
+        "font-size": "16px",
+        "line-height": "24px",
+        "margin-bottom": "20px",
+        "margin-right": "8.333000183105469%",
+        "max-width": "690px",
+        "min-height": "1px",
+        "outline-color": "rgb(17, 17, 17)",
+        "padding-left": "15px",
+        "padding-right": "15px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "In no particular order:",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "In no particular order:"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 449,
+        "top": 1217,
+        "width": 690
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(17, 17, 17)",
+        "border-left-color": "rgb(17, 17, 17)",
+        "border-right-color": "rgb(17, 17, 17)",
+        "border-top-color": "rgb(17, 17, 17)",
+        "color": "rgb(17, 17, 17)",
+        "font-size": "16px",
+        "line-height": "24px",
+        "margin-bottom": "20px",
+        "margin-right": "8.333000183105469%",
+        "max-width": "690px",
+        "min-height": "1px",
+        "outline-color": "rgb(17, 17, 17)",
+        "padding-left": "15px",
+        "padding-right": "15px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Fast Company: <a href=\"http://www.fastcoexist.com/1682746/this-tooth-sensor-puts-wearable-computing-in-your-mouth\">This Tooth Sensor Puts Wearable Computing In Your Mouth</a>",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Fast Company: ",
+        "This Tooth Sensor Puts Wearable Computing In Your Mouth"
+      ]
+    },
+    {
+      "bound": {
+        "height": 72,
+        "left": 449,
+        "top": 1261,
+        "width": 690
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(17, 17, 17)",
+        "border-left-color": "rgb(17, 17, 17)",
+        "border-right-color": "rgb(17, 17, 17)",
+        "border-top-color": "rgb(17, 17, 17)",
+        "color": "rgb(17, 17, 17)",
+        "font-size": "16px",
+        "line-height": "24px",
+        "margin-bottom": "20px",
+        "margin-right": "8.333000183105469%",
+        "max-width": "690px",
+        "min-height": "1px",
+        "outline-color": "rgb(17, 17, 17)",
+        "padding-left": "15px",
+        "padding-right": "15px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Say aaaah. A researcher in Taiwan has developed an embeddable tooth sensor that can track your eating habits. Of course, a Bluetooth connection to smartphones is being contemplated so that people could monitor their diet through a health app.",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Say aaaah. A researcher in Taiwan has developed an embeddable tooth sensor that can track your eating habits. Of course, a Bluetooth connection to smartphones is being contemplated so that people could monitor their diet through a health app."
+      ]
+    },
+    {
+      "bound": {
+        "height": 48,
+        "left": 449,
+        "top": 1353,
+        "width": 690
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(17, 17, 17)",
+        "border-left-color": "rgb(17, 17, 17)",
+        "border-right-color": "rgb(17, 17, 17)",
+        "border-top-color": "rgb(17, 17, 17)",
+        "color": "rgb(17, 17, 17)",
+        "font-size": "16px",
+        "line-height": "24px",
+        "margin-bottom": "20px",
+        "margin-right": "8.333000183105469%",
+        "max-width": "690px",
+        "min-height": "1px",
+        "outline-color": "rgb(17, 17, 17)",
+        "padding-left": "15px",
+        "padding-right": "15px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<em>The New York Times</em> Bits Blog: <a href=\"http://bits.blogs.nytimes.com/2013/08/08/youtubes-founders-challenge-vine-and-instagram-with-new-video-app/?_r=1&amp;\">YouTube's Founders Challenge Vine and Instagram With New Video App</a>",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "The New York Times",
+        " Bits Blog: ",
+        "YouTube's Founders Challenge Vine and Instagram With New Video App"
+      ]
+    },
+    {
+      "bound": {
+        "height": 96,
+        "left": 449,
+        "top": 1421,
+        "width": 690
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(17, 17, 17)",
+        "border-left-color": "rgb(17, 17, 17)",
+        "border-right-color": "rgb(17, 17, 17)",
+        "border-top-color": "rgb(17, 17, 17)",
+        "color": "rgb(17, 17, 17)",
+        "font-size": "16px",
+        "line-height": "24px",
+        "margin-bottom": "20px",
+        "margin-right": "8.333000183105469%",
+        "max-width": "690px",
+        "min-height": "1px",
+        "outline-color": "rgb(17, 17, 17)",
+        "padding-left": "15px",
+        "padding-right": "15px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "The latest mash-up toy is here. Chad Hurley and Steve Chen, who brought YouTube to the world, have launched <a href=\"https://mixbit.com/\">MixBit</a>, an app that looks to do Vine and Instagram videos one better. Their new app lets you mix, edit and collaborate on videos — even those who didn't shoot — to create and share stories.",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "The latest mash-up toy is here. Chad Hurley and Steve Chen, who brought YouTube to the world, have launched ",
+        "MixBit",
+        ", an app that looks to do Vine and Instagram videos one better. Their new app lets you mix, edit and collaborate on videos — even those who didn't shoot — to create and share stories."
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 449,
+        "top": 1537,
+        "width": 690
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(17, 17, 17)",
+        "border-left-color": "rgb(17, 17, 17)",
+        "border-right-color": "rgb(17, 17, 17)",
+        "border-top-color": "rgb(17, 17, 17)",
+        "color": "rgb(17, 17, 17)",
+        "font-size": "16px",
+        "line-height": "24px",
+        "margin-bottom": "20px",
+        "margin-right": "8.333000183105469%",
+        "max-width": "690px",
+        "min-height": "1px",
+        "outline-color": "rgb(17, 17, 17)",
+        "padding-left": "15px",
+        "padding-right": "15px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "BBC: <a href=\"http://www.bbc.co.uk/news/technology-23588202\">Confused Xerox copiers rewrite scanned documents, expert finds</a>",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "BBC: ",
+        "Confused Xerox copiers rewrite scanned documents, expert finds"
+      ]
+    },
+    {
+      "bound": {
+        "height": 96,
+        "left": 449,
+        "top": 1581,
+        "width": 690
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(17, 17, 17)",
+        "border-left-color": "rgb(17, 17, 17)",
+        "border-right-color": "rgb(17, 17, 17)",
+        "border-top-color": "rgb(17, 17, 17)",
+        "color": "rgb(17, 17, 17)",
+        "font-size": "16px",
+        "line-height": "24px",
+        "margin-bottom": "20px",
+        "margin-right": "8.333000183105469%",
+        "max-width": "690px",
+        "min-height": "1px",
+        "outline-color": "rgb(17, 17, 17)",
+        "padding-left": "15px",
+        "padding-right": "15px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "That's right, blame the machine. Some Xerox copiers are changing numbers on documents, according to a German computer scientist who found that scans he made of construction plans had altered room dimensions. Xerox said the problem is limited to scans made under a certain setting.",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "That's right, blame the machine. Some Xerox copiers are changing numbers on documents, according to a German computer scientist who found that scans he made of construction plans had altered room dimensions. Xerox said the problem is limited to scans made under a certain setting."
       ]
     },
     {
@@ -4478,7 +3360,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -4544,7 +3427,7 @@
       "element": {
         "classes": [
           "facebook",
-          "fbStory210286841"
+          "fbStory210538787"
         ],
         "id": "",
         "name": "a"
@@ -4583,7 +3466,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -4630,7 +3514,7 @@
         {
           "classes": [
             "facebook",
-            "fbStory210286841"
+            "fbStory210538787"
           ],
           "id": "",
           "name": "a"
@@ -4669,7 +3553,7 @@
       "element": {
         "classes": [
           "retweetStory",
-          "story210286841",
+          "story210538787",
           "twitter"
         ],
         "id": "",
@@ -4709,7 +3593,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -4756,7 +3641,7 @@
         {
           "classes": [
             "retweetStory",
-            "story210286841",
+            "story210538787",
             "twitter"
           ],
           "id": "",
@@ -4810,7 +3695,6 @@
         "div",
         "ul",
         "li",
-        "div",
         "a"
       ],
       "selector": [
@@ -4833,7 +3717,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -4876,13 +3761,6 @@
           ],
           "id": "",
           "name": "li"
-        },
-        {
-          "classes": [
-            "g-interactivepost"
-          ],
-          "id": "",
-          "name": "div"
         },
         {
           "classes": [],
@@ -4962,7 +3840,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -5021,122 +3900,6 @@
     },
     {
       "bound": {
-        "height": 22,
-        "left": 1159,
-        "top": 3850,
-        "width": 22
-      },
-      "computed": {
-        "background-color": "rgb(188, 202, 229)",
-        "border-bottom-color": "rgb(255, 255, 255)",
-        "border-bottom-left-radius": "11px",
-        "border-bottom-right-radius": "11px",
-        "border-left-color": "rgb(255, 255, 255)",
-        "border-right-color": "rgb(255, 255, 255)",
-        "border-top-color": "rgb(255, 255, 255)",
-        "border-top-left-radius": "11px",
-        "border-top-right-radius": "11px",
-        "color": "rgb(255, 255, 255)",
-        "font-size": "10px",
-        "font-weight": "bold",
-        "line-height": "22px",
-        "list-style-type": "none",
-        "margin-left": "-29px",
-        "margin-right": "5px",
-        "margin-top": "10px",
-        "min-width": "22px",
-        "outline-color": "rgb(255, 255, 255)",
-        "padding-left": "5px",
-        "padding-right": "5px",
-        "position": "absolute",
-        "text-align": "center"
-      },
-      "element": {
-        "classes": [
-          "count"
-        ],
-        "id": "",
-        "name": "span"
-      },
-      "html": "41",
-      "path": [
-        "div",
-        "div",
-        "section",
-        "article",
-        "div",
-        "ul",
-        "li",
-        "a",
-        "span"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "sectionWrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "story"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "social"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [
-            "comment"
-          ],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [
-            "comment-count",
-            "multiple-comments"
-          ],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "count"
-          ],
-          "id": "",
-          "name": "span"
-        }
-      ],
-      "text": [
-        "41"
-      ]
-    },
-    {
-      "bound": {
         "height": 44,
         "left": 1165,
         "top": 3840,
@@ -5161,12 +3924,12 @@
       "element": {
         "classes": [
           "comment-count",
-          "multiple-comments"
+          "no-comments"
         ],
         "id": "",
         "name": "a"
       },
-      "html": "<span class=\"count\">41</span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\">0</span><span class=\"name\">Comment</span>",
       "path": [
         "div",
         "div",
@@ -5197,7 +3960,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -5225,7 +3989,7 @@
         {
           "classes": [
             "comment-count",
-            "multiple-comments"
+            "no-comments"
           ],
           "id": "",
           "name": "a"
@@ -5237,9 +4001,369 @@
     },
     {
       "bound": {
+        "height": 85,
+        "left": 132,
+        "top": 1727,
+        "width": 496
+      },
+      "computed": {
+        "background-color": "rgb(235, 235, 235)",
+        "border-bottom-color": "rgb(224, 224, 224)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "2px",
+        "border-left-color": "rgb(224, 224, 224)",
+        "border-left-style": "solid",
+        "border-right-color": "rgb(224, 224, 224)",
+        "border-right-style": "solid",
+        "border-top-color": "rgb(224, 224, 224)",
+        "border-top-style": "solid",
+        "border-top-width": "2px",
+        "color": "rgb(17, 17, 17)",
+        "display": "table-cell",
+        "font-family": "Georgia, sans-serif",
+        "font-size": "18px",
+        "line-height": "21px",
+        "outline-color": "rgb(17, 17, 17)",
+        "padding-bottom": "30px",
+        "padding-left": "60px",
+        "padding-right": "15px",
+        "padding-top": "30px"
+      },
+      "element": {
+        "classes": [
+          "prev"
+        ],
+        "id": "prev_nav",
+        "name": "a"
+      },
+      "html": "The Sheryl Sandberg Effect: Rise Of Female COOs<span class=\"date\">August 9, 2013</span><span class=\"icon\"></span>",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "prev"
+          ],
+          "id": "prev_nav",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "The Sheryl Sandberg Effect: Rise Of Female COOs"
+      ]
+    },
+    {
+      "bound": {
+        "height": 14,
+        "left": 192,
+        "top": 1786,
+        "width": 85
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "outline-color": "rgb(102, 102, 102)",
+        "position": "absolute"
+      },
+      "element": {
+        "classes": [
+          "date"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "August 9, 2013",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "prev"
+          ],
+          "id": "prev_nav",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "date"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "August 9, 2013"
+      ]
+    },
+    {
+      "bound": {
+        "height": 85,
+        "left": 628,
+        "top": 1727,
+        "width": 495
+      },
+      "computed": {
+        "background-color": "rgb(235, 235, 235)",
+        "border-bottom-color": "rgb(224, 224, 224)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "2px",
+        "border-left-color": "rgb(224, 224, 224)",
+        "border-left-style": "solid",
+        "border-right-color": "rgb(224, 224, 224)",
+        "border-right-style": "solid",
+        "border-top-color": "rgb(224, 224, 224)",
+        "border-top-style": "solid",
+        "border-top-width": "2px",
+        "color": "rgb(17, 17, 17)",
+        "display": "table-cell",
+        "font-family": "Georgia, sans-serif",
+        "font-size": "18px",
+        "line-height": "21px",
+        "outline-color": "rgb(17, 17, 17)",
+        "padding-bottom": "30px",
+        "padding-left": "15px",
+        "padding-right": "60px",
+        "padding-top": "30px",
+        "text-align": "right"
+      },
+      "element": {
+        "classes": [
+          "next"
+        ],
+        "id": "next_nav",
+        "name": "a"
+      },
+      "html": "Crowdsourcing Ideas For A Better School<span class=\"date\">August 12, 2013</span><span class=\"icon\"></span>",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "next"
+          ],
+          "id": "next_nav",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Crowdsourcing Ideas For A Better School"
+      ]
+    },
+    {
+      "bound": {
+        "height": 14,
+        "left": 971,
+        "top": 1786,
+        "width": 92
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "outline-color": "rgb(102, 102, 102)",
+        "position": "absolute",
+        "text-align": "right"
+      },
+      "element": {
+        "classes": [
+          "date"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "August 12, 2013",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "article",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "next"
+          ],
+          "id": "next_nav",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "date"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "August 12, 2013"
+      ]
+    },
+    {
+      "bound": {
         "height": 14,
         "left": 132,
-        "top": 3276,
+        "top": 1916,
         "width": 991
       },
       "computed": {
@@ -5255,7 +4379,7 @@
         "id": "login-overlay-link",
         "name": "h5"
       },
-      "html": "You must be signed in to leave a comment. <a href=\"/templates/reg/login.php?returnUrl=%2F2013%2F08%2F09%2F210286841%2Fsusan-rices-first-month-on-the-job-has-been-a-doozy%23commentBlock\">Sign In / Register</a>",
+      "html": "You must be signed in to leave a comment. <a href=\"/templates/reg/login.php?returnUrl=%2Fblogs%2Falltechconsidered%2F2013%2F08%2F09%2F210538787%2Ftech-week-that-was-bezos-buy-twitter-abuse-scary-alerts%23commentBlock\">Sign In / Register</a>",
       "path": [
         "div",
         "div",
@@ -5285,7 +4409,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -5317,7 +4442,7 @@
       "bound": {
         "height": 24,
         "left": 132,
-        "top": 3301,
+        "top": 1941,
         "width": 991
       },
       "computed": {
@@ -5368,7 +4493,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -5401,6 +4527,895 @@
         " and ",
         "Community FAQ",
         "."
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 421,
+        "top": 2460,
+        "width": 190
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "display": "inline-block",
+        "font-size": "12px",
+        "line-height": "12px",
+        "outline-color": "rgb(153, 153, 153)",
+        "text-transform": "uppercase",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tag"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Technology News From NPR",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "tag"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Technology News From NPR"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 30,
+        "top": 2531,
+        "width": 365
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "text",
+        "font-size": "22px",
+        "line-height": "22px",
+        "outline-color": "rgb(153, 153, 153)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "About",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "first",
+            "module"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "About"
+      ]
+    },
+    {
+      "bound": {
+        "height": 126,
+        "left": 60,
+        "top": 2567,
+        "width": 320
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "line-height": "18px",
+        "margin-bottom": "18px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-right": "15px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "All Tech Considered explores how technology is changing culture and connection. It's hosted by <a href=\"http://www.npr.org/people/144449221/elise-hu\" target=\"_blank\">Elise Hu</a>, with contributions from technology correspondents <a href=\"http://www.twitter.com/hennseggs\">Steve Henn</a>, <a href=\"http://www.npr.org/people/2101272/laura-sydell\">Laura Sydell</a> and other curious NPR journalists. Reach us on Twitter <a href=\"http://twitter.com/npralltech\">@NPRAllTech</a> or <a href=\"http://help.npr.org/npr/includes/customer/npr/custforms/contactus.aspx?sid=80\">contact us via our handy form</a>.",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "first",
+            "module"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "agglocation",
+            "linkLocation"
+          ],
+          "id": "footer_module",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "listtext"
+          ],
+          "id": "res163884901",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "All Tech Considered explores how technology is changing culture and connection. It's hosted by ",
+        "Elise Hu",
+        ", with contributions from technology correspondents ",
+        "Steve Henn",
+        ", ",
+        "Laura Sydell",
+        " and other curious NPR journalists. Reach us on Twitter ",
+        "@NPRAllTech",
+        " or ",
+        "contact us via our handy form",
+        "."
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 443,
+        "top": 2531,
+        "width": 365
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "text",
+        "font-size": "22px",
+        "line-height": "22px",
+        "outline-color": "rgb(153, 153, 153)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Subscribe",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Subscribe"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 443,
+        "top": 2567,
+        "width": 365
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(data:image/png;base64,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)",
+        "background-position": "0px -48px",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(117, 144, 196)",
+        "border-left-color": "rgb(117, 144, 196)",
+        "border-right-color": "rgb(117, 144, 196)",
+        "border-top-color": "rgb(117, 144, 196)",
+        "color": "rgb(117, 144, 196)",
+        "font-weight": "bold",
+        "line-height": "44px",
+        "list-style-type": "none",
+        "outline-color": "rgb(117, 144, 196)",
+        "padding-left": "60px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "RSS",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subscribe"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "rss"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "RSS"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 443,
+        "top": 2615,
+        "width": 365
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(data:image/png;base64,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)",
+        "background-position": "0px -144px",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(117, 144, 196)",
+        "border-left-color": "rgb(117, 144, 196)",
+        "border-right-color": "rgb(117, 144, 196)",
+        "border-top-color": "rgb(117, 144, 196)",
+        "color": "rgb(117, 144, 196)",
+        "font-weight": "bold",
+        "line-height": "44px",
+        "list-style-type": "none",
+        "outline-color": "rgb(117, 144, 196)",
+        "padding-left": "60px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "@npralltech",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "second"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subscribe"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "facebook"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "@npralltech"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 858,
+        "top": 2531,
+        "width": 366
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "text",
+        "font-size": "22px",
+        "line-height": "22px",
+        "outline-color": "rgb(153, 153, 153)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Technology Podcast",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Technology Podcast"
+      ]
+    },
+    {
+      "bound": {
+        "height": 36,
+        "left": 858,
+        "top": 2567,
+        "width": 351
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "line-height": "18px",
+        "margin-bottom": "18px",
+        "outline-color": "rgb(102, 102, 102)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Perspectives on digital culture, research news, gadgets, the tech industry and more.",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "promo-bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketblock"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Perspectives on digital culture, research news, gadgets, the tech industry and more."
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 858,
+        "top": 2621,
+        "width": 351
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "line-height": "18px",
+        "margin-bottom": "18px",
+        "outline-color": "rgb(102, 102, 102)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "more"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a href=\"http://www.npr.org/rss/podcast/podcast_detail.php?siteId=4819382\">Subscribe</a>",
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "promo-bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketblock"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "more"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Subscribe"
       ]
     },
     {
@@ -6058,7 +6073,7 @@
         "id": "",
         "name": "h4"
       },
-      "html": "More From National Security",
+      "html": "More From All Tech Considered",
       "path": [
         "div",
         "div",
@@ -6100,7 +6115,7 @@
         }
       ],
       "text": [
-        "More From National Security"
+        "More From All Tech Considered"
       ]
     },
     {
@@ -6347,7 +6362,7 @@
         "id": "",
         "name": "h2"
       },
-      "html": "Politics",
+      "html": "Technology",
       "path": [
         "div",
         "div",
@@ -6400,7 +6415,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212960237",
+          "id": "story212614052",
           "name": "article"
         },
         {
@@ -6424,7 +6439,7 @@
         }
       ],
       "text": [
-        "Politics"
+        "Technology"
       ]
     },
     {
@@ -6453,7 +6468,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Amid Struggle For 'Soul' Of GOP, Libertarians Take Limelight",
+      "html": "Out Of The Comics, Into Reality: Jet Pack Moves Closer To Market",
       "path": [
         "div",
         "div",
@@ -6506,7 +6521,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212960237",
+          "id": "story212614052",
           "name": "article"
         },
         {
@@ -6528,7 +6543,7 @@
         }
       ],
       "text": [
-        "Amid Struggle For 'Soul' Of GOP, Libertarians Take Limelight"
+        "Out Of The Comics, Into Reality: Jet Pack Moves Closer To Market"
       ]
     },
     {
@@ -6561,7 +6576,7 @@
         "id": "",
         "name": "h2"
       },
-      "html": "National Security",
+      "html": "Technology",
       "path": [
         "div",
         "div",
@@ -6614,7 +6629,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212692301",
+          "id": "story212678437",
           "name": "article"
         },
         {
@@ -6639,7 +6654,7 @@
         }
       ],
       "text": [
-        "National Security"
+        "Technology"
       ]
     },
     {
@@ -6668,7 +6683,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "NSA Accused Of Repeatedly Violating Privacy Rules",
+      "html": "Switching To Gmail May Leave Reporters' Sources At Risk",
       "path": [
         "div",
         "div",
@@ -6721,7 +6736,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212692301",
+          "id": "story212678437",
           "name": "article"
         },
         {
@@ -6744,7 +6759,7 @@
         }
       ],
       "text": [
-        "NSA Accused Of Repeatedly Violating Privacy Rules"
+        "Switching To Gmail May Leave Reporters' Sources At Risk"
       ]
     },
     {
@@ -6777,7 +6792,7 @@
         "id": "",
         "name": "a"
       },
-      "html": "More From National Security",
+      "html": "More From All Tech Considered",
       "path": [
         "div",
         "div",
@@ -6827,14 +6842,14 @@
         }
       ],
       "text": [
-        "More From National Security"
+        "More From All Tech Considered"
       ]
     },
     {
       "bound": {
         "height": 26,
         "left": 15,
-        "top": 3764,
+        "top": 2799,
         "width": 1570
       },
       "computed": {
@@ -6898,7 +6913,7 @@
       "bound": {
         "height": 22,
         "left": 15,
-        "top": 3790,
+        "top": 2825,
         "width": 1570
       },
       "computed": {
@@ -6968,7 +6983,7 @@
       "bound": {
         "height": 52,
         "left": 46,
-        "top": 3929,
+        "top": 2964,
         "width": 30
       },
       "computed": {
@@ -7045,7 +7060,7 @@
       "bound": {
         "height": 52,
         "left": 107,
-        "top": 3929,
+        "top": 2964,
         "width": 55
       },
       "computed": {
@@ -7122,7 +7137,7 @@
       "bound": {
         "height": 52,
         "left": 193,
-        "top": 3929,
+        "top": 2964,
         "width": 35
       },
       "computed": {
@@ -7199,7 +7214,7 @@
       "bound": {
         "height": 52,
         "left": 259,
-        "top": 3929,
+        "top": 2964,
         "width": 56
       },
       "computed": {
@@ -7276,7 +7291,7 @@
       "bound": {
         "height": 52,
         "left": 346,
-        "top": 3929,
+        "top": 2964,
         "width": 31
       },
       "computed": {
@@ -7353,7 +7368,7 @@
       "bound": {
         "height": 52,
         "left": 408,
-        "top": 3929,
+        "top": 2964,
         "width": 32
       },
       "computed": {
@@ -7430,7 +7445,7 @@
       "bound": {
         "height": 52,
         "left": 1519,
-        "top": 3929,
+        "top": 2964,
         "width": 66
       },
       "computed": {
@@ -7497,7 +7512,7 @@
       "bound": {
         "height": 52,
         "left": 1106,
-        "top": 3929,
+        "top": 2964,
         "width": 42
       },
       "computed": {
@@ -7568,7 +7583,7 @@
       "bound": {
         "height": 52,
         "left": 1163,
-        "top": 3929,
+        "top": 2964,
         "width": 72
       },
       "computed": {
@@ -7639,7 +7654,7 @@
       "bound": {
         "height": 52,
         "left": 1250,
-        "top": 3929,
+        "top": 2964,
         "width": 40
       },
       "computed": {
@@ -7710,7 +7725,7 @@
       "bound": {
         "height": 52,
         "left": 1305,
-        "top": 3929,
+        "top": 2964,
         "width": 117
       },
       "computed": {
@@ -7784,7 +7799,7 @@
       "bound": {
         "height": 52,
         "left": 1437,
-        "top": 3929,
+        "top": 2964,
         "width": 52
       },
       "computed": {
@@ -7906,19 +7921,29 @@
     },
     {
       "bound": {
-        "height": 556,
-        "left": 132,
-        "top": 439,
-        "width": 991
+        "height": 77,
+        "left": 30,
+        "top": 101,
+        "width": 74
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
-        "position": "static"
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "display": "inline-block",
+        "line-height": "60px",
+        "max-width": "100%",
+        "outline-color": "rgb(109, 138, 196)",
+        "padding-right": "8px",
+        "position": "static",
+        "vertical-align": "middle"
       },
       "element": {
         "classes": [
-          "img",
-          "lazyOnLoad"
+          "icon"
         ],
         "id": "",
         "name": "img"
@@ -7927,10 +7952,9 @@
         "div",
         "div",
         "section",
-        "article",
+        "header",
         "div",
-        "div",
-        "div",
+        "a",
         "img"
       ],
       "selector": [
@@ -7953,52 +7977,124 @@
         },
         {
           "classes": [
-            "story"
+            "contentheader"
           ],
           "id": "",
-          "name": "article"
+          "name": "header"
         },
         {
           "classes": [
-            "linkLocation",
-            "storylocation",
-            "storytext"
-          ],
-          "id": "storytext",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "bucketwrap",
-            "image",
-            "large"
-          ],
-          "id": "res210577939",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "imagewrap"
+            "branding"
           ],
           "id": "",
           "name": "div"
         },
         {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
           "classes": [
-            "img",
-            "lazyOnLoad"
+            "icon"
           ],
           "id": "",
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/09/SusanRice-1_wide-85a4b351809096caa05f08fcd6b68b5aa0f00162-s6-c30.jpg"
+      "src": "http://media.npr.org/branding/blogs/alltechconsidered/branding_icon-ef74e0fe04f9d3aa56174b7cafc5f45383056ab3.png"
+    },
+    {
+      "bound": {
+        "height": 33,
+        "left": 104,
+        "top": 123,
+        "width": 317
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "display": "inline-block",
+        "font-size": "26px",
+        "font-weight": "200",
+        "line-height": "60px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-right": "8px",
+        "position": "static",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "main"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "header",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/branding/blogs/alltechconsidered/branding_main-145eb25ca00acff04e540202da68b169a7d1eba8.png"
     },
     {
       "bound": {
         "height": 283,
         "left": 132,
-        "top": 1894,
+        "top": 453,
         "width": 378
       },
       "computed": {
@@ -8043,7 +8139,8 @@
         },
         {
           "classes": [
-            "story"
+            "story",
+            "story-blogpost"
           ],
           "id": "",
           "name": "article"
@@ -8063,7 +8160,7 @@
             "image",
             "medium"
           ],
-          "id": "res210290717",
+          "id": "res210545946",
           "name": "div"
         },
         {
@@ -8082,7 +8179,272 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/08/ap741420833092-682a6115b2f5ac9d5082ba2a4eb42e84c0bc764a-s6-c30.jpg"
+      "src": "http://media.npr.org/assets/img/2013/08/09/10054761_h23230804-e08a6f2f462dac5a554518557bc6a6183eed915f-s6-c30.jpg"
+    },
+    {
+      "bound": {
+        "height": 77,
+        "left": 30,
+        "top": 2421,
+        "width": 74
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "display": "inline-block",
+        "line-height": "60px",
+        "max-width": "100%",
+        "outline-color": "rgb(109, 138, 196)",
+        "padding-right": "8px",
+        "position": "static",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "icon"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "icon"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/branding/blogs/alltechconsidered/branding_icon-ef74e0fe04f9d3aa56174b7cafc5f45383056ab3.png"
+    },
+    {
+      "bound": {
+        "height": 33,
+        "left": 104,
+        "top": 2443,
+        "width": 317
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "display": "inline-block",
+        "line-height": "60px",
+        "max-width": "100%",
+        "outline-color": "rgb(109, 138, 196)",
+        "padding-right": "8px",
+        "position": "static",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "main"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/branding/blogs/alltechconsidered/branding_main-145eb25ca00acff04e540202da68b169a7d1eba8.png"
+    },
+    {
+      "bound": {
+        "height": 60,
+        "left": 1149,
+        "top": 2567,
+        "width": 60
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "float": "right",
+        "margin-bottom": "5px",
+        "margin-left": "5px",
+        "max-width": "100%",
+        "outline-color": "rgb(109, 138, 196)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "pod"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "section",
+        "footer",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "third"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "promo-bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "pod"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg"
     },
     {
       "bound": {
@@ -8259,7 +8621,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212960237",
+          "id": "story212614052",
           "name": "article"
         },
         {
@@ -8280,13 +8642,13 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/17/ap598532791505_sq-aff244752c03cf2d032a6ab88d194dd140758c42.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/16/front-view-with-pilot_sq-18023f0e4f70cc05c83f86b2d032ac21ced7cb33.jpg?s=16"
     },
     {
       "bound": {
         "height": 150,
         "left": 15,
-        "top": 3764,
+        "top": 2799,
         "width": 300
       },
       "computed": {
