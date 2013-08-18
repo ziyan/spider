@@ -231,10 +231,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fmoney%2F2013%2F08%2F08%2F209878158%2Fegypt-may-not-need-fighter-jets-but-u-s-keeps-sending-them-anyway",
     "http://www.npr.org/about/place/corpsupport/",
+    "http://www.npr.org/blogs/money/2013/08/16/212645252/episode-480-the-charity-that-just-gives-people-money",
+    "http://www.npr.org/blogs/money/2013/08/16/212676401/4-reasons-subprime-loans-are-back-for-cars",
     "http://www.npr.org/blogs/money/2013/08/13/211755766/airline-chart-calls-mergers-the-new-holy-grail",
     "http://www.npr.org/blogs/money/2013/08/13/211807706/episode-479-behind-the-label",
-    "http://www.npr.org/blogs/money/2013/08/09/210550830/episode-478-rocky-pipkin-private-eye-vs-the-raisin-outlaw",
-    "http://www.npr.org/blogs/money/2013/08/09/210490760/the-raisin-outlaw-of-kerman-california",
     "http://www.npr.org/blogs/money/",
     "http://www.npr.org/blogs/money/2013/08/08/209878158/egypt-may-not-need-fighter-jets-but-u-s-keeps-sending-them-anyway#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -4095,7 +4095,7 @@
         "id": "",
         "name": "span"
       },
-      "html": "193",
+      "html": "194",
       "path": [
         "div",
         "div",
@@ -4170,7 +4170,7 @@
         }
       ],
       "text": [
-        "193"
+        "194"
       ]
     },
     {
@@ -4204,7 +4204,7 @@
         "id": "",
         "name": "a"
       },
-      "html": "<span class=\"count\">193</span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\">194</span><span class=\"name\">Comment</span>",
       "path": [
         "div",
         "div",
@@ -6682,7 +6682,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story211755766",
+          "id": "story212645252",
           "name": "article"
         },
         {
@@ -6714,6 +6714,434 @@
         "height": 54,
         "left": 1303,
         "top": 280,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Episode 480: The Charity That Just Gives People Money",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212645252",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Episode 480: The Charity That Just Gives People Money"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 1303,
+        "top": 380,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-top-color": "rgb(188, 202, 229)",
+        "color": "rgb(188, 202, 229)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "15px",
+        "margin-top": "5px",
+        "outline-color": "rgb(188, 202, 229)",
+        "position": "static",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Planet Money",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212676401",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Planet Money"
+      ]
+    },
+    {
+      "bound": {
+        "height": 54,
+        "left": 1303,
+        "top": 407,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "4 Reasons Subprime Loans Are Back (For Cars)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212676401",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "4 Reasons Subprime Loans Are Back (For Cars)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 1303,
+        "top": 507,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-top-color": "rgb(188, 202, 229)",
+        "color": "rgb(188, 202, 229)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "15px",
+        "margin-top": "5px",
+        "outline-color": "rgb(188, 202, 229)",
+        "position": "static",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Planet Money",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story211755766",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Planet Money"
+      ]
+    },
+    {
+      "bound": {
+        "height": 54,
+        "left": 1303,
+        "top": 534,
         "width": 158
       },
       "computed": {
@@ -6811,434 +7239,6 @@
       ],
       "text": [
         "Airline Chart Calls Mergers 'The New Holy Grail' "
-      ]
-    },
-    {
-      "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 380,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-top-color": "rgb(188, 202, 229)",
-        "color": "rgb(188, 202, 229)",
-        "font-size": "12px",
-        "font-weight": "bold",
-        "line-height": "12px",
-        "margin-bottom": "15px",
-        "margin-top": "5px",
-        "outline-color": "rgb(188, 202, 229)",
-        "position": "static",
-        "text-transform": "lowercase"
-      },
-      "element": {
-        "classes": [
-          "slug"
-        ],
-        "id": "",
-        "name": "h2"
-      },
-      "html": "Planet Money",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h2"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story211807706",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "slug"
-          ],
-          "id": "",
-          "name": "h2"
-        }
-      ],
-      "text": [
-        "Planet Money"
-      ]
-    },
-    {
-      "bound": {
-        "height": 36,
-        "left": 1303,
-        "top": 407,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-top-color": "rgb(0, 0, 0)",
-        "color": "rgb(0, 0, 0)",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "line-height": "18px",
-        "margin-bottom": "10px",
-        "outline-color": "rgb(0, 0, 0)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "Episode 479: Behind The Label ",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story211807706",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "Episode 479: Behind The Label "
-      ]
-    },
-    {
-      "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 507,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-top-color": "rgb(188, 202, 229)",
-        "color": "rgb(188, 202, 229)",
-        "font-size": "12px",
-        "font-weight": "bold",
-        "line-height": "12px",
-        "margin-bottom": "15px",
-        "margin-top": "5px",
-        "outline-color": "rgb(188, 202, 229)",
-        "position": "static",
-        "text-transform": "lowercase"
-      },
-      "element": {
-        "classes": [
-          "slug"
-        ],
-        "id": "",
-        "name": "h2"
-      },
-      "html": "Planet Money",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h2"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story210550830",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "slug"
-          ],
-          "id": "",
-          "name": "h2"
-        }
-      ],
-      "text": [
-        "Planet Money"
-      ]
-    },
-    {
-      "bound": {
-        "height": 54,
-        "left": 1303,
-        "top": 534,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-top-color": "rgb(0, 0, 0)",
-        "color": "rgb(0, 0, 0)",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "line-height": "18px",
-        "margin-bottom": "10px",
-        "outline-color": "rgb(0, 0, 0)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "Episode 478: Rocky Pipkin, Private Eye Vs. The Raisin Outlaw",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story210550830",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "Episode 478: Rocky Pipkin, Private Eye Vs. The Raisin Outlaw"
       ]
     },
     {
@@ -8999,7 +8999,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story211755766",
+          "id": "story212645252",
           "name": "article"
         },
         {
@@ -9020,7 +9020,7 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/13/holy_grail_sq-d320804d6adae6fcebcbd545b21ad18352c63335.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/16/omondi_sq-89144a8269d0e91106273e5ea35971f56ac77101.jpg?s=16"
     },
     {
       "bound": {
@@ -9098,7 +9098,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story211807706",
+          "id": "story212676401",
           "name": "article"
         },
         {
@@ -9119,7 +9119,7 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/13/ap091215023358_sq-de9fd10491b657752af5f7d925b11c04961ff69f.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/16/ap100627092909_sq-57ff208f11eda848e4030c090a833ecc0c709166.jpg?s=16"
     },
     {
       "bound": {
@@ -9197,7 +9197,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story210550830",
+          "id": "story211755766",
           "name": "article"
         },
         {
@@ -9218,7 +9218,7 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/09/ap060410025294_sq-fb4ba46c596ec1accf669b2beb47241049503403.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/13/holy_grail_sq-d320804d6adae6fcebcbd545b21ad18352c63335.jpg?s=16"
     },
     {
       "bound": {

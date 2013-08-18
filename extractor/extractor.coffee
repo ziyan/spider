@@ -54,15 +54,23 @@ page.onLoadFinished = (status) ->
         spider.namespace 'spider.utils', (exports) ->
             'use strict'
 
+            exports.is_valid = (value) ->
+                re = /^[a-zA-Z][a-zA-Z0-9\-_]+$/
+                return value and re.test(value)
+
             # get element description
             exports.element = (element, is_name_only) ->
                 name = element.tagName.toLowerCase()
                 return name if is_name_only
 
-                data = 
+                classes = []
+                for c in element.classList
+                    classes.push(c) if exports.is_valid(c)
+
+                data =
                     name: name
-                    id: element.id or ''
-                    classes: (c for c in element.classList).sort()
+                    id: if exports.is_valid(element.id) then element.id else ''
+                    classes: classes.sort()
                 return data
 
             # generate tag path

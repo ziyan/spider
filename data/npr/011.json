@@ -239,10 +239,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fthesalt%2F2013%2F08%2F07%2F209925420%2Fwhy-picking-your-berries-for-8-000-a-year-hurts-a-lot",
     "http://www.npr.org/about/place/corpsupport/",
-    "http://www.npr.org/blogs/thesalt/2013/08/15/212342707/can-quinoa-farming-go-global-without-leaving-andeans-behind",
-    "http://www.npr.org/blogs/thesalt/2013/08/14/212024490/even-carnivores-are-putting-more-fake-meat-on-their-plates",
-    "http://www.npr.org/blogs/thesalt/2013/08/12/211399891/if-you-liked-that-wine-you-shouldve-put-a-ring-on-it",
-    "http://www.npr.org/blogs/thesalt/2013/08/12/211372152/how-a-seed-saver-discovered-one-of-our-favorite-tomatoes",
+    "http://www.npr.org/blogs/thesalt/2013/08/17/212710767/how-many-cups-of-coffee-per-day-is-too-many",
+    "http://www.npr.org/blogs/thesalt/2013/08/16/212556054/fight-food-waste-drink-rum-matey",
+    "http://www.npr.org/blogs/thesalt/2013/08/15/212334945/it-s-a-wrap-the-joys-of-eating-on-mars",
+    "http://www.npr.org/blogs/thesalt/2013/08/16/210514759/why-this-years-blueberry-bounty-has-growers-feeling-blue",
     "http://www.npr.org/blogs/thesalt/",
     "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -7235,7 +7235,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212342707",
+          "id": "story212710767",
           "name": "article"
         },
         {
@@ -7288,7 +7288,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Can Quinoa Farming Go Global Without Leaving Andeans Behind?",
+      "html": "How Many Cups Of Coffee Per Day Are Too Many?",
       "path": [
         "div",
         "div",
@@ -7341,7 +7341,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212342707",
+          "id": "story212710767",
           "name": "article"
         },
         {
@@ -7363,14 +7363,14 @@
         }
       ],
       "text": [
-        "Can Quinoa Farming Go Global Without Leaving Andeans Behind?"
+        "How Many Cups Of Coffee Per Day Are Too Many?"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 351,
+        "top": 352,
         "width": 158
       },
       "computed": {
@@ -7449,7 +7449,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212024490",
+          "id": "story212556054",
           "name": "article"
         },
         {
@@ -7478,9 +7478,9 @@
     },
     {
       "bound": {
-        "height": 54,
+        "height": 36,
         "left": 1303,
-        "top": 378,
+        "top": 379,
         "width": 158
       },
       "computed": {
@@ -7502,7 +7502,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Even Carnivores Are Putting More Fake Meat On Their Plates",
+      "html": "Fight Food Waste: Drink Rum, Matey",
       "path": [
         "div",
         "div",
@@ -7555,7 +7555,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212024490",
+          "id": "story212556054",
           "name": "article"
         },
         {
@@ -7577,14 +7577,14 @@
         }
       ],
       "text": [
-        "Even Carnivores Are Putting More Fake Meat On Their Plates"
+        "Fight Food Waste: Drink Rum, Matey"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 478,
+        "top": 479,
         "width": 158
       },
       "computed": {
@@ -7663,7 +7663,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story211399891",
+          "id": "story212334945",
           "name": "article"
         },
         {
@@ -7694,7 +7694,7 @@
       "bound": {
         "height": 54,
         "left": 1303,
-        "top": 505,
+        "top": 506,
         "width": 158
       },
       "computed": {
@@ -7716,7 +7716,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "If You Liked That Wine, You Should've Put A Ring On It",
+      "html": "Eating On Mars? Be Sure To Pack The Tortillas",
       "path": [
         "div",
         "div",
@@ -7769,7 +7769,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story211399891",
+          "id": "story212334945",
           "name": "article"
         },
         {
@@ -7791,14 +7791,14 @@
         }
       ],
       "text": [
-        "If You Liked That Wine, You Should've Put A Ring On It"
+        "Eating On Mars? Be Sure To Pack The Tortillas"
       ]
     },
     {
       "bound": {
         "height": 16,
         "left": 1273,
-        "top": 620,
+        "top": 621,
         "width": 299
       },
       "computed": {
@@ -9311,7 +9311,7 @@
     },
     {
       "bound": {
-        "height": 62,
+        "height": 63,
         "left": 1491,
         "top": 244,
         "width": 63
@@ -9385,7 +9385,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212342707",
+          "id": "story212710767",
           "name": "article"
         },
         {
@@ -9406,13 +9406,13 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/15/ap101025151289_sq-fb1f5913cd1a5fafcb11b5dae68ac80c70b6a339.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/16/_mg_0043_sq-e0b07ce059442053bc16abdbb34f5c6c01edbd45.jpg?s=16"
     },
     {
       "bound": {
         "height": 63,
         "left": 1491,
-        "top": 370,
+        "top": 371,
         "width": 63
       },
       "computed": {
@@ -9484,7 +9484,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212024490",
+          "id": "story212556054",
           "name": "article"
         },
         {
@@ -9505,13 +9505,13 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/14/photo-4-1-_sq-f0d9320743c35c9f98bea90b72c607a94027e8ed.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/16/51244649_sq-acaf05d9450300a2facc69efc007b67266c95f13.jpg?s=16"
     },
     {
       "bound": {
         "height": 63,
         "left": 1491,
-        "top": 497,
+        "top": 498,
         "width": 63
       },
       "computed": {
@@ -9583,7 +9583,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story211399891",
+          "id": "story212334945",
           "name": "article"
         },
         {
@@ -9604,7 +9604,7 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/13/lollipop_sq-e6d59ef9f760f92cfc488841a0031fbbef9d67a8.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/16/dsc_0286_sq-bbff1aac42c46558c9f532a00e08a35aa658878e.jpg?s=16"
     },
     {
       "bound": {

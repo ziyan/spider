@@ -1,9 +1,9 @@
 {
   "body": {
     "bound": {
-      "height": 6519,
+      "height": 6416,
       "left": 0,
-      "top": 45,
+      "top": 29,
       "width": 1600
     },
     "computed": {
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "6519px",
+      "height": "6416px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -160,13 +160,14 @@
   "links": [
     "http://www.theverge.com/login",
     "http://www.theverge.com/account/setup",
-    "http://www.theverge.com/2013/8/12/4614940/elon-musk-reveals-plans-for-high-speed-hyperloop",
+    "http://www.theverge.com/2013/8/15/4623016/buying-a-laptop-everything-you-need-to-know",
     "http://www.theverge.com/2013/8/13/4616820/heathrow-future-expansion-report",
     "http://www.theverge.com/2013/8/13/4616820/heathrow-future-expansion-report",
     "http://www.theverge.com/",
-    "http://ox-d.sbnation.com/w/1.0/rc?ts=1fHNpZD01MDU2MnxyYWlkPWFjNDUwNThjLTA2NzUtNGZlOS05MzIyLTk4ZmU1MTMwZGQ2ZXxhdWlkPTI1MjM2OHx1cj1FZzdjMjc0UDBKfGFzPTcyOHg5MHxhaWQ9MTI2NTE1MHxwdWI9ODk0MXxhdW09RE1JRC5NT0JJTEV8bGlkPTc1MDc2Nnx1PTF8dD0xMHxyaWQ9YTU3MGFlZTItOTRiOS00NWQyLWFhYjgtOTMwMWI1YjA0M2I1fG9pZD0xOTg3Mjh8Ym09QlVZSU5HLkdVQVJBTlRFRURWT0xVTUVHT0FMfHA9MTAwMDB8cGM9VVNEfGFjPVVTRHxwbT1QUklDSU5HLkNQTXxydD0xMzc2NjA0MzUyfHByPTEwMDAwfGFkdj0xMTYxNjY&r=",
     "http://www.theverge.com/",
     "http://www.theverge.com/features",
+    "http://www.theverge.com/2013/8/16/4625746/wikileaks-trial-defense-shows-bradley-manning-as-good-intentioned-idealist",
+    "http://www.theverge.com/2013/8/16/4624738/radiant-soil-philip-beesley-architecture-installation-edf-fondation-paris",
     "http://www.theverge.com/2013/8/15/4623016/buying-a-laptop-everything-you-need-to-know",
     "http://www.theverge.com/2013/8/15/4621514/gone-home-review",
     "http://www.theverge.com/2013/8/15/4619180/kick-ass-2-review",
@@ -175,8 +176,6 @@
     "http://www.theverge.com/2013/8/14/4618718/hacker-depression-def-con",
     "http://www.theverge.com/2013/8/13/4592292/the-worlds-end-review",
     "http://www.theverge.com/2013/8/13/4605528/your-meat-addiction-is-destroying-the-planet-but-we-can-fix-it",
-    "http://www.theverge.com/2013/8/13/4617076/andy-gilmore-ghostly-international-video",
-    "http://www.theverge.com/2013/8/13/4616820/heathrow-future-expansion-report",
     "http://www.theverge.com/reviews",
     "http://www.theverge.com/reviews/categories/cellphones/3",
     "http://www.theverge.com/reviews/categories/tablets/8",
@@ -308,6 +307,7 @@
     "http://www.theverge.com/products/categories/speakers-docks/56",
     "http://www.theverge.com/products/categories/input-devices/58",
     "http://www.theverge.com/products/categories/misc/27",
+    "http://www.theverge.com/products/blackberry-9720/7240",
     "http://www.theverge.com/products/g2/7229",
     "http://www.theverge.com/products/moto-x/7228",
     "http://www.theverge.com/products/droid-maxx/7222",
@@ -317,7 +317,6 @@
     "http://www.theverge.com/products/ubuntu-edge/7218",
     "http://www.theverge.com/products/optimus-f3/7216",
     "http://www.theverge.com/products/one-mini/7212",
-    "http://www.theverge.com/products/lumia-1020/7207",
     "http://www.theverge.com/products/categories/cellphones/3",
     "http://www.theverge.com/products/nexus-7-2013/7223",
     "http://www.theverge.com/products/fonepad/7217",
@@ -429,6 +428,7 @@
     "http://www.theverge.com/products/minx-air-200/6855",
     "http://www.theverge.com/products/minx-air-100/6854",
     "http://www.theverge.com/products/categories/speakers-docks/56",
+    "http://www.theverge.com/products/wireless-all-in-one-keyboard-tk820/7239",
     "http://www.theverge.com/products/sculpt-ergonomic-mouse/7237",
     "http://www.theverge.com/products/sculpt-ergonomic-keyboard/7236",
     "http://www.theverge.com/products/naga/7225",
@@ -438,7 +438,6 @@
     "http://www.theverge.com/products/ultrathin-keyboard-mini/6836",
     "http://www.theverge.com/products/clamcase-pro/6772",
     "http://www.theverge.com/products/raptor-lk1/6769",
-    "http://www.theverge.com/products/raptor-lm2/6768",
     "http://www.theverge.com/products/categories/input-devices/58",
     "http://www.theverge.com/products/discman-d5/7209",
     "http://www.theverge.com/products/walkman-wm-2/7208",
@@ -721,7 +720,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n          <strong>The Big Story: </strong>\n          \n            <a href=\"http://www.theverge.com/2013/8/12/4614940/elon-musk-reveals-plans-for-high-speed-hyperloop\">Elon Musk reveals plans for high-speed Hyperloop</a>\n          \n        ",
+      "html": "\n          <strong>Read This: </strong>\n          \n            <a href=\"http://www.theverge.com/2013/8/15/4623016/buying-a-laptop-everything-you-need-to-know\">Everything you need to know about buying a laptop</a>\n          \n        ",
       "path": [
         "div",
         "div",
@@ -758,15 +757,15 @@
         }
       ],
       "text": [
-        "The Big Story: ",
-        "Elon Musk reveals plans for high-speed Hyperloop"
+        "Read This: ",
+        "Everything you need to know about buying a laptop"
       ]
     },
     {
       "bound": {
         "height": 42,
         "left": 433,
-        "top": 149,
+        "top": 30,
         "width": 60
       },
       "computed": {
@@ -854,9 +853,237 @@
     },
     {
       "bound": {
+        "height": 60,
+        "left": 415,
+        "top": -1916,
+        "width": 250
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "12px",
+        "font-weight": "800",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "6px",
+        "padding-left": "17px",
+        "padding-right": "30px",
+        "padding-top": "6px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "In WikiLeaks trial, defense shows Bradley Manning as good-intentioned&nbsp;idealist",
+      "path": [
+        "div",
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "collapsed"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "nav-list",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "has-dropdown",
+            "nav-tab"
+          ],
+          "id": "nav-features",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "dropdown",
+            "single"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "In WikiLeaks trial, defense shows Bradley Manning as good-intentioned idealist"
+      ]
+    },
+    {
+      "bound": {
         "height": 44,
         "left": 415,
-        "top": -1797,
+        "top": -1856,
+        "width": 250
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "12px",
+        "font-weight": "800",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "6px",
+        "padding-left": "17px",
+        "padding-right": "30px",
+        "padding-top": "6px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "The living architecture of Philip&nbsp;Beesley",
+      "path": [
+        "div",
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "collapsed"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "nav-list",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "has-dropdown",
+            "nav-tab"
+          ],
+          "id": "nav-features",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "dropdown",
+            "single"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "The living architecture of Philip Beesley"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 415,
+        "top": -1812,
         "width": 250
       },
       "computed": {
@@ -970,7 +1197,7 @@
       "bound": {
         "height": 60,
         "left": 415,
-        "top": -1753,
+        "top": -1768,
         "width": 250
       },
       "computed": {
@@ -1084,7 +1311,7 @@
       "bound": {
         "height": 44,
         "left": 415,
-        "top": -1693,
+        "top": -1708,
         "width": 250
       },
       "computed": {
@@ -1198,7 +1425,7 @@
       "bound": {
         "height": 44,
         "left": 415,
-        "top": -1649,
+        "top": -1664,
         "width": 250
       },
       "computed": {
@@ -1312,7 +1539,7 @@
       "bound": {
         "height": 60,
         "left": 415,
-        "top": -1605,
+        "top": -1620,
         "width": 250
       },
       "computed": {
@@ -1426,7 +1653,7 @@
       "bound": {
         "height": 44,
         "left": 415,
-        "top": -1545,
+        "top": -1560,
         "width": 250
       },
       "computed": {
@@ -1540,7 +1767,7 @@
       "bound": {
         "height": 60,
         "left": 415,
-        "top": -1501,
+        "top": -1516,
         "width": 250
       },
       "computed": {
@@ -1654,7 +1881,7 @@
       "bound": {
         "height": 44,
         "left": 415,
-        "top": -1441,
+        "top": -1456,
         "width": 250
       },
       "computed": {
@@ -1766,237 +1993,9 @@
     },
     {
       "bound": {
-        "height": 44,
-        "left": 415,
-        "top": -1397,
-        "width": 250
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(102, 102, 102)",
-        "border-left-color": "rgb(102, 102, 102)",
-        "border-right-color": "rgb(102, 102, 102)",
-        "border-top-color": "rgb(102, 102, 102)",
-        "color": "rgb(102, 102, 102)",
-        "font-size": "12px",
-        "font-weight": "800",
-        "list-style-type": "none",
-        "outline-color": "rgb(102, 102, 102)",
-        "padding-bottom": "6px",
-        "padding-left": "17px",
-        "padding-right": "30px",
-        "padding-top": "6px"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "a"
-      },
-      "html": "Seeing with geometry: inside the mind of Andy&nbsp;Gilmore",
-      "path": [
-        "div",
-        "div",
-        "header",
-        "nav",
-        "ul",
-        "li",
-        "div",
-        "ul",
-        "li",
-        "a"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "collapsed"
-          ],
-          "id": "",
-          "name": "header"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "nav"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "nav-list",
-          "name": "ul"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "has-dropdown",
-            "nav-tab"
-          ],
-          "id": "nav-features",
-          "name": "li"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "dropdown",
-            "single"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "primary"
-          ],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        }
-      ],
-      "text": [
-        "Seeing with geometry: inside the mind of Andy Gilmore"
-      ]
-    },
-    {
-      "bound": {
-        "height": 44,
-        "left": 415,
-        "top": -1353,
-        "width": 250
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(102, 102, 102)",
-        "border-left-color": "rgb(102, 102, 102)",
-        "border-right-color": "rgb(102, 102, 102)",
-        "border-top-color": "rgb(102, 102, 102)",
-        "color": "rgb(102, 102, 102)",
-        "font-size": "12px",
-        "font-weight": "800",
-        "list-style-type": "none",
-        "outline-color": "rgb(102, 102, 102)",
-        "padding-bottom": "6px",
-        "padding-left": "17px",
-        "padding-right": "30px",
-        "padding-top": "6px"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "a"
-      },
-      "html": "Heathrow's expansion plans would make it bigger, faster, and&nbsp;louder",
-      "path": [
-        "div",
-        "div",
-        "header",
-        "nav",
-        "ul",
-        "li",
-        "div",
-        "ul",
-        "li",
-        "a"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "collapsed"
-          ],
-          "id": "",
-          "name": "header"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "nav"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "nav-list",
-          "name": "ul"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "has-dropdown",
-            "nav-tab"
-          ],
-          "id": "nav-features",
-          "name": "li"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "dropdown",
-            "single"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "primary"
-          ],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        }
-      ],
-      "text": [
-        "Heathrow's expansion plans would make it bigger, faster, and louder"
-      ]
-    },
-    {
-      "bound": {
         "height": 42,
         "left": 514,
-        "top": 149,
+        "top": 30,
         "width": 55
       },
       "computed": {
@@ -2086,7 +2085,7 @@
       "bound": {
         "height": 28,
         "left": 496,
-        "top": -1797,
+        "top": -1916,
         "width": 110
       },
       "computed": {
@@ -2199,7 +2198,7 @@
       "bound": {
         "height": 28,
         "left": 496,
-        "top": -1769,
+        "top": -1888,
         "width": 110
       },
       "computed": {
@@ -2312,7 +2311,7 @@
       "bound": {
         "height": 28,
         "left": 496,
-        "top": -1741,
+        "top": -1860,
         "width": 110
       },
       "computed": {
@@ -2425,7 +2424,7 @@
       "bound": {
         "height": 28,
         "left": 496,
-        "top": -1713,
+        "top": -1832,
         "width": 110
       },
       "computed": {
@@ -2538,7 +2537,7 @@
       "bound": {
         "height": 28,
         "left": 496,
-        "top": -1685,
+        "top": -1804,
         "width": 110
       },
       "computed": {
@@ -2651,7 +2650,7 @@
       "bound": {
         "height": 28,
         "left": 496,
-        "top": -1657,
+        "top": -1776,
         "width": 110
       },
       "computed": {
@@ -2764,7 +2763,7 @@
       "bound": {
         "height": 28,
         "left": 496,
-        "top": -1629,
+        "top": -1748,
         "width": 110
       },
       "computed": {
@@ -2877,7 +2876,7 @@
       "bound": {
         "height": 44,
         "left": 496,
-        "top": -1601,
+        "top": -1720,
         "width": 110
       },
       "computed": {
@@ -2990,7 +2989,7 @@
       "bound": {
         "height": 44,
         "left": 496,
-        "top": -1557,
+        "top": -1676,
         "width": 110
       },
       "computed": {
@@ -3103,7 +3102,7 @@
       "bound": {
         "height": 44,
         "left": 496,
-        "top": -1513,
+        "top": -1632,
         "width": 110
       },
       "computed": {
@@ -3216,7 +3215,7 @@
       "bound": {
         "height": 44,
         "left": 496,
-        "top": -1469,
+        "top": -1588,
         "width": 110
       },
       "computed": {
@@ -3329,7 +3328,7 @@
       "bound": {
         "height": 28,
         "left": 496,
-        "top": -1425,
+        "top": -1544,
         "width": 110
       },
       "computed": {
@@ -3442,7 +3441,7 @@
       "bound": {
         "height": 42,
         "left": 590,
-        "top": 149,
+        "top": 30,
         "width": 60
       },
       "computed": {
@@ -3532,7 +3531,7 @@
       "bound": {
         "height": 28,
         "left": 572,
-        "top": -1797,
+        "top": -1916,
         "width": 110
       },
       "computed": {
@@ -3645,7 +3644,7 @@
       "bound": {
         "height": 28,
         "left": 572,
-        "top": -1769,
+        "top": -1888,
         "width": 110
       },
       "computed": {
@@ -3758,7 +3757,7 @@
       "bound": {
         "height": 28,
         "left": 572,
-        "top": -1741,
+        "top": -1860,
         "width": 110
       },
       "computed": {
@@ -3871,7 +3870,7 @@
       "bound": {
         "height": 28,
         "left": 572,
-        "top": -1713,
+        "top": -1832,
         "width": 110
       },
       "computed": {
@@ -3984,7 +3983,7 @@
       "bound": {
         "height": 28,
         "left": 572,
-        "top": -1685,
+        "top": -1804,
         "width": 110
       },
       "computed": {
@@ -4097,7 +4096,7 @@
       "bound": {
         "height": 28,
         "left": 572,
-        "top": -1657,
+        "top": -1776,
         "width": 110
       },
       "computed": {
@@ -4210,7 +4209,7 @@
       "bound": {
         "height": 28,
         "left": 572,
-        "top": -1629,
+        "top": -1748,
         "width": 110
       },
       "computed": {
@@ -4323,7 +4322,7 @@
       "bound": {
         "height": 28,
         "left": 572,
-        "top": -1601,
+        "top": -1720,
         "width": 110
       },
       "computed": {
@@ -4436,7 +4435,7 @@
       "bound": {
         "height": 44,
         "left": 572,
-        "top": -1573,
+        "top": -1692,
         "width": 110
       },
       "computed": {
@@ -4549,7 +4548,7 @@
       "bound": {
         "height": 44,
         "left": 572,
-        "top": -1529,
+        "top": -1648,
         "width": 110
       },
       "computed": {
@@ -4662,7 +4661,7 @@
       "bound": {
         "height": 44,
         "left": 572,
-        "top": -1485,
+        "top": -1604,
         "width": 110
       },
       "computed": {
@@ -4775,7 +4774,7 @@
       "bound": {
         "height": 44,
         "left": 572,
-        "top": -1441,
+        "top": -1560,
         "width": 110
       },
       "computed": {
@@ -4888,7 +4887,7 @@
       "bound": {
         "height": 28,
         "left": 572,
-        "top": -1397,
+        "top": -1516,
         "width": 110
       },
       "computed": {
@@ -5001,7 +5000,7 @@
       "bound": {
         "height": 42,
         "left": 671,
-        "top": 149,
+        "top": 30,
         "width": 60
       },
       "computed": {
@@ -5092,7 +5091,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1797,
+        "top": -1916,
         "width": 250
       },
       "computed": {
@@ -5206,7 +5205,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1769,
+        "top": -1888,
         "width": 250
       },
       "computed": {
@@ -5320,7 +5319,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1741,
+        "top": -1860,
         "width": 250
       },
       "computed": {
@@ -5434,7 +5433,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1713,
+        "top": -1832,
         "width": 250
       },
       "computed": {
@@ -5548,7 +5547,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1685,
+        "top": -1804,
         "width": 250
       },
       "computed": {
@@ -5662,7 +5661,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1657,
+        "top": -1776,
         "width": 250
       },
       "computed": {
@@ -5776,7 +5775,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1629,
+        "top": -1748,
         "width": 250
       },
       "computed": {
@@ -5890,7 +5889,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1601,
+        "top": -1720,
         "width": 250
       },
       "computed": {
@@ -6004,7 +6003,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1573,
+        "top": -1692,
         "width": 250
       },
       "computed": {
@@ -6118,7 +6117,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1545,
+        "top": -1664,
         "width": 250
       },
       "computed": {
@@ -6232,7 +6231,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1517,
+        "top": -1636,
         "width": 250
       },
       "computed": {
@@ -6346,7 +6345,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1489,
+        "top": -1608,
         "width": 250
       },
       "computed": {
@@ -6460,7 +6459,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1461,
+        "top": -1580,
         "width": 250
       },
       "computed": {
@@ -6574,7 +6573,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1433,
+        "top": -1552,
         "width": 250
       },
       "computed": {
@@ -6688,7 +6687,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1405,
+        "top": -1524,
         "width": 250
       },
       "computed": {
@@ -6802,7 +6801,7 @@
       "bound": {
         "height": 28,
         "left": 653,
-        "top": -1377,
+        "top": -1496,
         "width": 250
       },
       "computed": {
@@ -6916,7 +6915,7 @@
       "bound": {
         "height": 42,
         "left": 752,
-        "top": 149,
+        "top": 30,
         "width": 45
       },
       "computed": {
@@ -7006,7 +7005,7 @@
       "bound": {
         "height": 24,
         "left": 744,
-        "top": -1797,
+        "top": -1916,
         "width": 380
       },
       "computed": {
@@ -7106,7 +7105,7 @@
       "bound": {
         "height": 24,
         "left": 744,
-        "top": -1752,
+        "top": -1871,
         "width": 380
       },
       "computed": {
@@ -7206,7 +7205,7 @@
       "bound": {
         "height": 24,
         "left": 744,
-        "top": -1707,
+        "top": -1826,
         "width": 380
       },
       "computed": {
@@ -7306,7 +7305,7 @@
       "bound": {
         "height": 24,
         "left": 744,
-        "top": -1662,
+        "top": -1781,
         "width": 380
       },
       "computed": {
@@ -7406,7 +7405,7 @@
       "bound": {
         "height": 24,
         "left": 744,
-        "top": -1617,
+        "top": -1736,
         "width": 380
       },
       "computed": {
@@ -7506,7 +7505,7 @@
       "bound": {
         "height": 24,
         "left": 744,
-        "top": -1572,
+        "top": -1691,
         "width": 380
       },
       "computed": {
@@ -7606,7 +7605,7 @@
       "bound": {
         "height": 65,
         "left": 734,
-        "top": -1582,
+        "top": -1701,
         "width": 400
       },
       "computed": {
@@ -7704,7 +7703,7 @@
       "bound": {
         "height": 42,
         "left": 814,
-        "top": 148,
+        "top": 29,
         "width": 50
       },
       "computed": {
@@ -7793,7 +7792,7 @@
       "bound": {
         "height": 42,
         "left": 885,
-        "top": 149,
+        "top": 30,
         "width": 30
       },
       "computed": {
@@ -7881,7 +7880,7 @@
       "bound": {
         "height": 42,
         "left": 936,
-        "top": 149,
+        "top": 30,
         "width": 30
       },
       "computed": {
@@ -7969,7 +7968,7 @@
       "bound": {
         "height": 42,
         "left": 987,
-        "top": 149,
+        "top": 30,
         "width": 50
       },
       "computed": {
@@ -8059,7 +8058,7 @@
       "bound": {
         "height": 26,
         "left": 826,
-        "top": -1720,
+        "top": -1839,
         "width": 105
       },
       "computed": {
@@ -8183,7 +8182,7 @@
       "bound": {
         "height": 55,
         "left": 826,
-        "top": -1720,
+        "top": -1839,
         "width": 105
       },
       "computed": {
@@ -8210,7 +8209,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/microsoft-tribe\">Microsoft Tribe</a></h3>\n            9625 posts (15 new)\n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/microsoft-tribe\">Microsoft Tribe</a></h3>\n            9651 posts (7 new)\n          ",
       "path": [
         "div",
         "div",
@@ -8296,14 +8295,14 @@
         }
       ],
       "text": [
-        "\n            9625 posts (15 new)\n          "
+        "\n            9651 posts (7 new)\n          "
       ]
     },
     {
       "bound": {
         "height": 26,
         "left": 951,
-        "top": -1720,
+        "top": -1839,
         "width": 105
       },
       "computed": {
@@ -8427,7 +8426,7 @@
       "bound": {
         "height": 55,
         "left": 951,
-        "top": -1720,
+        "top": -1839,
         "width": 105
       },
       "computed": {
@@ -8454,7 +8453,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/android-army\">Android Army</a></h3>\n            8173 posts (11 new)\n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/android-army\">Android Army</a></h3>\n            8197 posts (2 new)\n          ",
       "path": [
         "div",
         "div",
@@ -8540,14 +8539,14 @@
         }
       ],
       "text": [
-        "\n            8173 posts (11 new)\n          "
+        "\n            8197 posts (2 new)\n          "
       ]
     },
     {
       "bound": {
         "height": 13,
         "left": 1076,
-        "top": -1720,
+        "top": -1839,
         "width": 105
       },
       "computed": {
@@ -8671,7 +8670,7 @@
       "bound": {
         "height": 42,
         "left": 1076,
-        "top": -1720,
+        "top": -1839,
         "width": 105
       },
       "computed": {
@@ -8698,7 +8697,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/apple-core\">Apple Core</a></h3>\n            7002 posts (5 new)\n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/apple-core\">Apple Core</a></h3>\n            7026 posts (4 new)\n          ",
       "path": [
         "div",
         "div",
@@ -8784,14 +8783,14 @@
         }
       ],
       "text": [
-        "\n            7002 posts (5 new)\n          "
+        "\n            7026 posts (4 new)\n          "
       ]
     },
     {
       "bound": {
         "height": 13,
         "left": 1201,
-        "top": -1720,
+        "top": -1839,
         "width": 105
       },
       "computed": {
@@ -8915,7 +8914,7 @@
       "bound": {
         "height": 42,
         "left": 1201,
-        "top": -1720,
+        "top": -1839,
         "width": 105
       },
       "computed": {
@@ -8942,7 +8941,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/meta\">Meta</a></h3>\n            2746 posts (2 new)\n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/meta\">Meta</a></h3>\n            2752 posts (2 new)\n          ",
       "path": [
         "div",
         "div",
@@ -9028,14 +9027,14 @@
         }
       ],
       "text": [
-        "\n            2746 posts (2 new)\n          "
+        "\n            2752 posts (2 new)\n          "
       ]
     },
     {
       "bound": {
         "height": 13,
         "left": 826,
-        "top": -1578,
+        "top": -1697,
         "width": 105
       },
       "computed": {
@@ -9157,9 +9156,9 @@
     },
     {
       "bound": {
-        "height": 29,
+        "height": 42,
         "left": 826,
-        "top": -1578,
+        "top": -1697,
         "width": 105
       },
       "computed": {
@@ -9186,7 +9185,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/gaming\">Gaming</a></h3>\n            2060 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/gaming\">Gaming</a></h3>\n            2063 posts (1 new)\n          ",
       "path": [
         "div",
         "div",
@@ -9272,14 +9271,14 @@
         }
       ],
       "text": [
-        "\n            2060 posts \n          "
+        "\n            2063 posts (1 new)\n          "
       ]
     },
     {
       "bound": {
         "height": 26,
         "left": 951,
-        "top": -1578,
+        "top": -1697,
         "width": 105
       },
       "computed": {
@@ -9401,9 +9400,9 @@
     },
     {
       "bound": {
-        "height": 42,
+        "height": 55,
         "left": 951,
-        "top": -1578,
+        "top": -1697,
         "width": 105
       },
       "computed": {
@@ -9430,7 +9429,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/off-topic\">Off-topic / chit-chat</a></h3>\n            1338 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/off-topic\">Off-topic / chit-chat</a></h3>\n            1343 posts (1 new)\n          ",
       "path": [
         "div",
         "div",
@@ -9516,14 +9515,14 @@
         }
       ],
       "text": [
-        "\n            1338 posts \n          "
+        "\n            1343 posts (1 new)\n          "
       ]
     },
     {
       "bound": {
         "height": 13,
         "left": 1076,
-        "top": -1578,
+        "top": -1697,
         "width": 105
       },
       "computed": {
@@ -9645,9 +9644,9 @@
     },
     {
       "bound": {
-        "height": 29,
+        "height": 42,
         "left": 1076,
-        "top": -1578,
+        "top": -1697,
         "width": 105
       },
       "computed": {
@@ -9674,7 +9673,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/mobile\">Mobile</a></h3>\n            1224 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/mobile\">Mobile</a></h3>\n            1225 posts (1 new)\n          ",
       "path": [
         "div",
         "div",
@@ -9760,14 +9759,14 @@
         }
       ],
       "text": [
-        "\n            1224 posts \n          "
+        "\n            1225 posts (1 new)\n          "
       ]
     },
     {
       "bound": {
         "height": 13,
         "left": 1201,
-        "top": -1578,
+        "top": -1697,
         "width": 105
       },
       "computed": {
@@ -9891,7 +9890,7 @@
       "bound": {
         "height": 29,
         "left": 1201,
-        "top": -1578,
+        "top": -1697,
         "width": 105
       },
       "computed": {
@@ -9918,7 +9917,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/the-lens\">The Lens</a></h3>\n            667 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/the-lens\">The Lens</a></h3>\n            668 posts \n          ",
       "path": [
         "div",
         "div",
@@ -10004,14 +10003,14 @@
         }
       ],
       "text": [
-        "\n            667 posts \n          "
+        "\n            668 posts \n          "
       ]
     },
     {
       "bound": {
         "height": 13,
         "left": 826,
-        "top": -1449,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10135,7 +10134,7 @@
       "bound": {
         "height": 29,
         "left": 826,
-        "top": -1449,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10162,7 +10161,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/web-and-social\">Web &amp; Social</a></h3>\n            649 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/web-and-social\">Web &amp; Social</a></h3>\n            650 posts \n          ",
       "path": [
         "div",
         "div",
@@ -10248,14 +10247,14 @@
         }
       ],
       "text": [
-        "\n            649 posts \n          "
+        "\n            650 posts \n          "
       ]
     },
     {
       "bound": {
         "height": 13,
         "left": 951,
-        "top": -1449,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10377,9 +10376,9 @@
     },
     {
       "bound": {
-        "height": 29,
+        "height": 42,
         "left": 951,
-        "top": -1449,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10406,7 +10405,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/pc\">PCs</a></h3>\n            551 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/pc\">PCs</a></h3>\n            553 posts (1 new)\n          ",
       "path": [
         "div",
         "div",
@@ -10492,14 +10491,14 @@
         }
       ],
       "text": [
-        "\n            551 posts \n          "
+        "\n            553 posts (1 new)\n          "
       ]
     },
     {
       "bound": {
         "height": 26,
         "left": 1076,
-        "top": -1449,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10621,9 +10620,9 @@
     },
     {
       "bound": {
-        "height": 55,
+        "height": 42,
         "left": 1076,
-        "top": -1449,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10650,7 +10649,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/apps-software\">Apps &amp; Software</a></h3>\n            471 posts (3 new)\n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/apps-software\">Apps &amp; Software</a></h3>\n            471 posts \n          ",
       "path": [
         "div",
         "div",
@@ -10736,14 +10735,14 @@
         }
       ],
       "text": [
-        "\n            471 posts (3 new)\n          "
+        "\n            471 posts \n          "
       ]
     },
     {
       "bound": {
         "height": 13,
         "left": 1201,
-        "top": -1449,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10867,7 +10866,7 @@
       "bound": {
         "height": 29,
         "left": 1201,
-        "top": -1449,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10894,7 +10893,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/tablet-talk\">Tablet Talk</a></h3>\n            356 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/tablet-talk\">Tablet Talk</a></h3>\n            357 posts \n          ",
       "path": [
         "div",
         "div",
@@ -10980,14 +10979,14 @@
         }
       ],
       "text": [
-        "\n            356 posts \n          "
+        "\n            357 posts \n          "
       ]
     },
     {
       "bound": {
         "height": 13,
         "left": 826,
-        "top": -1307,
+        "top": -1426,
         "width": 105
       },
       "computed": {
@@ -11111,7 +11110,7 @@
       "bound": {
         "height": 29,
         "left": 826,
-        "top": -1307,
+        "top": -1426,
         "width": 105
       },
       "computed": {
@@ -11231,7 +11230,7 @@
       "bound": {
         "height": 13,
         "left": 951,
-        "top": -1307,
+        "top": -1426,
         "width": 105
       },
       "computed": {
@@ -11355,7 +11354,7 @@
       "bound": {
         "height": 29,
         "left": 951,
-        "top": -1307,
+        "top": -1426,
         "width": 105
       },
       "computed": {
@@ -11475,7 +11474,7 @@
       "bound": {
         "height": 13,
         "left": 1076,
-        "top": -1307,
+        "top": -1426,
         "width": 105
       },
       "computed": {
@@ -11599,7 +11598,7 @@
       "bound": {
         "height": 29,
         "left": 1076,
-        "top": -1307,
+        "top": -1426,
         "width": 105
       },
       "computed": {
@@ -11719,7 +11718,7 @@
       "bound": {
         "height": 13,
         "left": 1201,
-        "top": -1307,
+        "top": -1426,
         "width": 105
       },
       "computed": {
@@ -11843,7 +11842,7 @@
       "bound": {
         "height": 29,
         "left": 1201,
-        "top": -1307,
+        "top": -1426,
         "width": 105
       },
       "computed": {
@@ -11963,7 +11962,7 @@
       "bound": {
         "height": 13,
         "left": 826,
-        "top": -1191,
+        "top": -1310,
         "width": 105
       },
       "computed": {
@@ -12087,7 +12086,7 @@
       "bound": {
         "height": 29,
         "left": 826,
-        "top": -1191,
+        "top": -1310,
         "width": 105
       },
       "computed": {
@@ -12207,7 +12206,7 @@
       "bound": {
         "height": 26,
         "left": 951,
-        "top": -1191,
+        "top": -1310,
         "width": 105
       },
       "computed": {
@@ -12331,7 +12330,7 @@
       "bound": {
         "height": 42,
         "left": 951,
-        "top": -1191,
+        "top": -1310,
         "width": 105
       },
       "computed": {
@@ -12451,7 +12450,7 @@
       "bound": {
         "height": 13,
         "left": 1076,
-        "top": -1191,
+        "top": -1310,
         "width": 105
       },
       "computed": {
@@ -12575,7 +12574,7 @@
       "bound": {
         "height": 29,
         "left": 1076,
-        "top": -1191,
+        "top": -1310,
         "width": 105
       },
       "computed": {
@@ -12695,7 +12694,7 @@
       "bound": {
         "height": 13,
         "left": 1201,
-        "top": -1191,
+        "top": -1310,
         "width": 105
       },
       "computed": {
@@ -12819,7 +12818,7 @@
       "bound": {
         "height": 29,
         "left": 1201,
-        "top": -1191,
+        "top": -1310,
         "width": 105
       },
       "computed": {
@@ -12846,7 +12845,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/science\">Science</a></h3>\n            57 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/science\">Science</a></h3>\n            58 posts \n          ",
       "path": [
         "div",
         "div",
@@ -12932,14 +12931,14 @@
         }
       ],
       "text": [
-        "\n            57 posts \n          "
+        "\n            58 posts \n          "
       ]
     },
     {
       "bound": {
         "height": 20,
         "left": 1277,
-        "top": 161,
+        "top": 42,
         "width": 20
       },
       "computed": {
@@ -13020,7 +13019,7 @@
       "bound": {
         "height": 15,
         "left": 360,
-        "top": 209,
+        "top": 90,
         "width": 369
       },
       "computed": {
@@ -13107,7 +13106,7 @@
       "bound": {
         "height": 98,
         "left": 290,
-        "top": 193,
+        "top": 74,
         "width": 510
       },
       "computed": {
@@ -13200,7 +13199,7 @@
       "bound": {
         "height": 15,
         "left": 870,
-        "top": 209,
+        "top": 90,
         "width": 370
       },
       "computed": {
@@ -13287,7 +13286,7 @@
       "bound": {
         "height": 98,
         "left": 800,
-        "top": 193,
+        "top": 74,
         "width": 510
       },
       "computed": {
@@ -13378,7 +13377,7 @@
       "bound": {
         "height": 17,
         "left": 311,
-        "top": 290,
+        "top": 171,
         "width": 95
       },
       "computed": {
@@ -13485,7 +13484,7 @@
       "bound": {
         "height": 17,
         "left": 407,
-        "top": 290,
+        "top": 171,
         "width": 57
       },
       "computed": {
@@ -13586,7 +13585,7 @@
       "bound": {
         "height": 124,
         "left": 310,
-        "top": 337,
+        "top": 218,
         "width": 905
       },
       "computed": {
@@ -13665,7 +13664,7 @@
       "bound": {
         "height": 30,
         "left": 310,
-        "top": 469,
+        "top": 350,
         "width": 980
       },
       "computed": {
@@ -13749,7 +13748,7 @@
       "bound": {
         "height": 24,
         "left": 310,
-        "top": 509,
+        "top": 390,
         "width": 980
       },
       "computed": {
@@ -13775,7 +13774,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n    \n      By <a href=\"http://www.theverge.com/users/vladislav\" class=\"author fn\">Vlad Savov</a>\n    \n    <span class=\"publish-date\">on <time class=\"updated\" datetime=\"2013-08-13 13:18:45+0000\" pubdate=\"\">August  13, 2013 09:18 am</time></span>\n    \n      \n        <span class=\"email\"><script type=\"text/javascript\">\n/* <![CDATA[ */\nfunction hivelogic_enkoder(){var kode=\n\"kode=\\\"nrgh@%qujkC(txmnF+xtnme+F{wqp.Ip{o\\\\001yqz\\\\000:_333~u\\\\000q.hm4tHq\"+\n\"e,I~hrh.mhxy{u_4::\\\\000mFLxtp_4::\\\\000~qqqosy:h{h.\\\\000h\\\\000,quhxIhhh.hhJ\"+\n\"y.uQHmmxh;J.5GG.I_33433rG~{u4<IuG4H{wqpx:zq\\\\000s9t5=uGI75>_334b667I7{wqpo\"+\n\":mtM~4\\\\0007u5=w7p{:qto~m\\\\000Mu4ee599w9p{Iq7_334u4wHp{:qqxszt\\\\000wKp{:qt\"+\n\"o~m\\\\000Mw4p{:qqxszt\\\\000=9F533G5De+F\\\\00100oD{xr19FrDtEmx7nnupwq}rD44_334\"+\n\"2Flxtnml7jqL{mxJn1}2r<6rD1oEl294l:FA;\\\\001DF4}\\\\\\\\r{pwo7x{LvjqL{mx1n2ltb66\"+\n\"6mxFn\\\\001+D\\\\001F00Dox{1rF9DrE1txmn7unwp}q6:2Dr4F;2_334\\\\0014Ftxmn7lqj{J}\"+\n\"1r4:24txmn7lqj{J}1r2b666txmnF\\\\00141rEtxmn7unwp}qHtxmn7lqj{J}1txmn7unwp}q6\"+\n\":2C002D(A~C--Alux.oC6AoBqujk4rktmznAo11/\\\\001iCqujk4ingxIujkGz.o/39Aol.iB6\"+\n\"/i1C78>A~1CYzxotm4lxusIngxIujk.i/_333qujkC~%>{@**>iru+l@3>l?nrgh1ohqjwk>l.\"+\n\".,~f@nrgh1fkduFrghDw+l,06>li+f?3,f.@45;>{.@Vwulqj1iurpFkduFrgh+f,\\\\000nrgh\"+\n\"@{\\\";x='';for(i=0;i<kode.length;i++){c=kode.charCodeAt(i)-3;if(c<0)c+=128;\"+\n\"x+=String.fromCharCode(c)}kode=x\"\n;var i,c,x;while(eval(kode));}hivelogic_enkoder();\n/* ]]> */\n</script><a href=\"mailto:vlad@theverge.com\" title=\"\">Email</a></span>\n      \n      \n        <span class=\"twitter\"><a href=\"https://twitter.com/intent/user?screen_name=vladsavov\">@vladsavov</a></span>\n      \n    \n    \n      <span class=\"comment-count big\"><a href=\"#comments\">139</a><strong>Comments</strong></span>\n    \n  ",
+      "html": "\n    \n      By <a href=\"http://www.theverge.com/users/vladislav\" class=\"author fn\">Vlad Savov</a>\n    \n    <span class=\"publish-date\">on <time class=\"updated\" datetime=\"2013-08-13 13:18:45+0000\" pubdate=\"\">August  13, 2013 09:18 am</time></span>\n    \n      \n        <span class=\"email\"><script type=\"text/javascript\">\n/* <![CDATA[ */\nfunction hivelogic_enkoder(){var kode=\n\"kode=\\\"oked\\\\\\\"=kode\\\\\\\"\\\\\\\\r=hn%gn@gr%hu_k@(qxjnC+t2m+FjDEerGv8Gu+jeN+eee\"+\n\"ne}e}Feuerv)l+ne{x\\\\\\\\7p\\\\\\\\177nqnI}jm\\\\\\\\17\\\\\\\\x7uujCe}erFvn+qejoe{1)}E{+\"+\n\"7n0r\\\\\\\\\\\\\\\\00w}vnl~mxD+xtnmtFmx7ny|ru1}0072n{\\\\\\\\\\\\\\\\7n|1177{xnw20s2rA1C0\"+\n\"-(l~x-oA6uo.qCjA4Bkumknrot1z\\\\\\\\A1\\\\\\\\001/Ciuqkji4gnIxjuGk.z/o93oA.lBi/61i\"+\n\"7C>8~AC1zYoxmtl4uxIsgnIxju.k/i3__33uqkj~C>_%@{**i>url+3@l>n?gr1hhojqkwl>..\"+\n\"~,@frnhgf1dkFugrDh+w,l60l>+i?f,3.f4@;5{>@.wVlujqi1ruFpdkFugr+h,f\\\\\\\\\\\\\\\\0n\"+\n\"g0@0{r>h@%*{i*u>lr3+l@+>r?hnogq1wh0j,kl4@>,.{5@~r.hnfgd1Dk+u.w,ln4g.1rkhuf\"+\n\"wdlD\\\\\\\\+,\\\\\\\\000nrgh@{.+l?nrgh1ohqjwkBnrgh1fkduDw+nrgh1ohqjwk04,=**,>\\\\\\\\\"+\n\";=\\\\\\\"'xf'r;io0(i=k;d<.oeeglhnit+;{+=)ocekcda.ChdrAo(e)t3ii-(;<f)c+01c8=x2\"+\n\"=;t+iSgrfno.CramChdr(o)ekcd}=oxe;\\\\\\\"=x''f;roi(0=i;(<okedl.netg-h)1i;=+)2x\"+\n\"{=+okedc.ahAr(t+i)1k+do.ehcratAi(})okedx=(+<iokedl.netg?hokedc.ahAr(tokedl\"+\n\".netg-h)1':)';\\\";x='';for(i=0;i<(kode.length-1);i+=2){x+=kode.charAt(i+1)+\"+\n\"kode.charAt(i)}kode=x+(i<kode.length?kode.charAt(kode.length-1):'');\"\n;var i,c,x;while(eval(kode));}hivelogic_enkoder();\n/* ]]> */\n</script><a href=\"mailto:vlad@theverge.com\" title=\"\">Email</a></span>\n      \n      \n        <span class=\"twitter\"><a href=\"https://twitter.com/intent/user?screen_name=vladsavov\">@vladsavov</a></span>\n      \n    \n    \n      <span class=\"comment-count big\"><a href=\"#comments\">144</a><strong>Comments</strong></span>\n    \n  ",
       "path": [
         "div",
         "div",
@@ -13836,7 +13835,7 @@
       "bound": {
         "height": 38,
         "left": 1210,
-        "top": 294,
+        "top": 175,
         "width": 115
       },
       "computed": {
@@ -13863,7 +13862,7 @@
         "id": "",
         "name": "a"
       },
-      "html": "139",
+      "html": "144",
       "path": [
         "div",
         "div",
@@ -13927,14 +13926,14 @@
         }
       ],
       "text": [
-        "139"
+        "144"
       ]
     },
     {
       "bound": {
         "height": 14,
         "left": 1205,
-        "top": 336,
+        "top": 217,
         "width": 82
       },
       "computed": {
@@ -14025,7 +14024,7 @@
       "bound": {
         "height": 42,
         "left": 309,
-        "top": 870,
+        "top": 751,
         "width": 57
       },
       "computed": {
@@ -14042,10 +14041,10 @@
         "classes": [
           "IN-top"
         ],
-        "id": "li_ui_li_gen_1376604352730_1",
+        "id": "li_ui_li_gen_1376807561168_1",
         "name": "span"
       },
-      "html": "<span id=\"li_ui_li_gen_1376604352730_1-inner\" class=\"IN-top\"><span id=\"li_ui_li_gen_1376604352730_1-content\" class=\"IN-top\">3</span></span>",
+      "html": "<span id=\"li_ui_li_gen_1376807561168_1-inner\" class=\"IN-top\"><span id=\"li_ui_li_gen_1376807561168_1-content\" class=\"IN-top\">4</span></span>",
       "path": [
         "div",
         "div",
@@ -14136,26 +14135,26 @@
           "classes": [
             "IN-top"
           ],
-          "id": "li_ui_li_gen_1376604352730_1-container",
+          "id": "li_ui_li_gen_1376807561168_1-container",
           "name": "span"
         },
         {
           "classes": [
             "IN-top"
           ],
-          "id": "li_ui_li_gen_1376604352730_1",
+          "id": "li_ui_li_gen_1376807561168_1",
           "name": "span"
         }
       ],
       "text": [
-        "3"
+        "4"
       ]
     },
     {
       "bound": {
         "height": 20,
         "left": 307,
-        "top": 912,
+        "top": 793,
         "width": 20
       },
       "computed": {
@@ -14180,7 +14179,7 @@
       },
       "element": {
         "classes": [],
-        "id": "li_ui_li_gen_1376604352714_0-logo",
+        "id": "li_ui_li_gen_1376807561149_0-logo",
         "name": "span"
       },
       "html": "in",
@@ -14273,17 +14272,17 @@
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604352714_0",
+          "id": "li_ui_li_gen_1376807561149_0",
           "name": "span"
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604352714_0-link",
+          "id": "li_ui_li_gen_1376807561149_0-link",
           "name": "a"
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604352714_0-logo",
+          "id": "li_ui_li_gen_1376807561149_0-logo",
           "name": "span"
         }
       ],
@@ -14295,7 +14294,7 @@
       "bound": {
         "height": 18,
         "left": 331,
-        "top": 913,
+        "top": 794,
         "width": 32
       },
       "computed": {
@@ -14320,7 +14319,7 @@
       },
       "element": {
         "classes": [],
-        "id": "li_ui_li_gen_1376604352714_0-title-text",
+        "id": "li_ui_li_gen_1376807561149_0-title-text",
         "name": "span"
       },
       "html": "Share",
@@ -14414,22 +14413,22 @@
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604352714_0",
+          "id": "li_ui_li_gen_1376807561149_0",
           "name": "span"
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604352714_0-link",
+          "id": "li_ui_li_gen_1376807561149_0-link",
           "name": "a"
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604352714_0-title",
+          "id": "li_ui_li_gen_1376807561149_0-title",
           "name": "span"
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604352714_0-title-text",
+          "id": "li_ui_li_gen_1376807561149_0-title-text",
           "name": "span"
         }
       ],
@@ -14441,7 +14440,7 @@
       "bound": {
         "height": 35,
         "left": 271,
-        "top": 1219,
+        "top": 1100,
         "width": 84
       },
       "computed": {
@@ -14558,7 +14557,7 @@
       "bound": {
         "height": 24,
         "left": 271,
-        "top": 1255,
+        "top": 1136,
         "width": 84
       },
       "computed": {
@@ -14703,7 +14702,7 @@
       "bound": {
         "height": 24,
         "left": 271,
-        "top": 1279,
+        "top": 1160,
         "width": 84
       },
       "computed": {
@@ -14846,7 +14845,7 @@
       "bound": {
         "height": 21,
         "left": 271,
-        "top": 1304,
+        "top": 1185,
         "width": 84
       },
       "computed": {
@@ -14969,7 +14968,7 @@
       "bound": {
         "height": 216,
         "left": 380,
-        "top": 1259,
+        "top": 1140,
         "width": 842
       },
       "computed": {
@@ -15082,7 +15081,7 @@
       "bound": {
         "height": 144,
         "left": 380,
-        "top": 1491,
+        "top": 1372,
         "width": 842
       },
       "computed": {
@@ -15197,7 +15196,7 @@
       "bound": {
         "height": 120,
         "left": 380,
-        "top": 1651,
+        "top": 1532,
         "width": 842
       },
       "computed": {
@@ -15310,7 +15309,7 @@
       "bound": {
         "height": 30,
         "left": 462,
-        "top": 2558,
+        "top": 2439,
         "width": 674
       },
       "computed": {
@@ -15413,7 +15412,7 @@
       "bound": {
         "height": 168,
         "left": 462,
-        "top": 2604,
+        "top": 2485,
         "width": 674
       },
       "computed": {
@@ -15527,7 +15526,7 @@
       "bound": {
         "height": 96,
         "left": 462,
-        "top": 2788,
+        "top": 2669,
         "width": 674
       },
       "computed": {
@@ -15639,7 +15638,7 @@
       "bound": {
         "height": 144,
         "left": 462,
-        "top": 3308,
+        "top": 3189,
         "width": 674
       },
       "computed": {
@@ -15751,7 +15750,7 @@
       "bound": {
         "height": 168,
         "left": 462,
-        "top": 3468,
+        "top": 3349,
         "width": 674
       },
       "computed": {
@@ -15865,7 +15864,7 @@
       "bound": {
         "height": 60,
         "left": 462,
-        "top": 3652,
+        "top": 3533,
         "width": 674
       },
       "computed": {
@@ -15968,7 +15967,7 @@
       "bound": {
         "height": 168,
         "left": 462,
-        "top": 3728,
+        "top": 3609,
         "width": 674
       },
       "computed": {
@@ -16080,7 +16079,7 @@
       "bound": {
         "height": 144,
         "left": 462,
-        "top": 4071,
+        "top": 3952,
         "width": 674
       },
       "computed": {
@@ -16190,7 +16189,7 @@
       "bound": {
         "height": 60,
         "left": 462,
-        "top": 4231,
+        "top": 4112,
         "width": 674
       },
       "computed": {
@@ -16293,7 +16292,7 @@
       "bound": {
         "height": 168,
         "left": 462,
-        "top": 4307,
+        "top": 4188,
         "width": 674
       },
       "computed": {
@@ -16405,7 +16404,7 @@
       "bound": {
         "height": 144,
         "left": 462,
-        "top": 4491,
+        "top": 4372,
         "width": 674
       },
       "computed": {
@@ -16513,7 +16512,7 @@
       "bound": {
         "height": 168,
         "left": 462,
-        "top": 5059,
+        "top": 4940,
         "width": 674
       },
       "computed": {
@@ -16623,7 +16622,7 @@
       "bound": {
         "height": 60,
         "left": 462,
-        "top": 5243,
+        "top": 5124,
         "width": 674
       },
       "computed": {
@@ -16726,7 +16725,7 @@
       "bound": {
         "height": 168,
         "left": 462,
-        "top": 5319,
+        "top": 5200,
         "width": 674
       },
       "computed": {
@@ -16840,7 +16839,7 @@
       "bound": {
         "height": 144,
         "left": 462,
-        "top": 5503,
+        "top": 5384,
         "width": 674
       },
       "computed": {
@@ -16950,7 +16949,7 @@
       "bound": {
         "height": 17,
         "left": 360,
-        "top": 5776,
+        "top": 5657,
         "width": 369
       },
       "computed": {
@@ -17048,7 +17047,7 @@
       "bound": {
         "height": 97,
         "left": 290,
-        "top": 5760,
+        "top": 5641,
         "width": 510
       },
       "computed": {
@@ -17153,7 +17152,7 @@
       "bound": {
         "height": 17,
         "left": 870,
-        "top": 5776,
+        "top": 5657,
         "width": 370
       },
       "computed": {
@@ -17251,7 +17250,7 @@
       "bound": {
         "height": 97,
         "left": 800,
-        "top": 5760,
+        "top": 5641,
         "width": 510
       },
       "computed": {
@@ -17354,7 +17353,7 @@
       "bound": {
         "height": 24,
         "left": 310,
-        "top": 5877,
+        "top": 5758,
         "width": 640
       },
       "computed": {
@@ -17371,7 +17370,7 @@
         "id": "",
         "name": "h2"
       },
-      "html": "\n    \n      There are <em class=\"count\">139</em> Comments.\n    \n\n    \n\n    \n\n    <img alt=\"Loading\" class=\"show_comments_spinner\" src=\"http://cdn2.sbnation.com/images/spinner.v7626b0a.gif\">\n  ",
+      "html": "\n    \n      There are <em class=\"count\">144</em> Comments.\n    \n\n    \n\n    \n\n    <img alt=\"Loading\" class=\"show_comments_spinner\" src=\"http://cdn2.sbnation.com/images/spinner.v7626b0a.gif\">\n  ",
       "path": [
         "div",
         "div",
@@ -17448,7 +17447,7 @@
       ],
       "text": [
         "\n    \n      There are ",
-        "139",
+        "144",
         " Comments.\n    \n\n    \n\n    \n\n    "
       ]
     },
@@ -17456,7 +17455,7 @@
       "bound": {
         "height": 15,
         "left": 676,
-        "top": 5885,
+        "top": 5766,
         "width": 274
       },
       "computed": {
@@ -17567,7 +17566,7 @@
       "bound": {
         "height": 88,
         "left": 291,
-        "top": 6444,
+        "top": 6325,
         "width": 245
       },
       "computed": {
@@ -17655,7 +17654,7 @@
       "bound": {
         "height": 14,
         "left": 632,
-        "top": 6148,
+        "top": 6029,
         "width": 170
       },
       "computed": {
@@ -17731,7 +17730,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6169,
+        "top": 6050,
         "width": 148
       },
       "computed": {
@@ -17812,7 +17811,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6190,
+        "top": 6071,
         "width": 148
       },
       "computed": {
@@ -17893,7 +17892,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6211,
+        "top": 6092,
         "width": 148
       },
       "computed": {
@@ -17974,7 +17973,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6232,
+        "top": 6113,
         "width": 148
       },
       "computed": {
@@ -18055,7 +18054,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6253,
+        "top": 6134,
         "width": 148
       },
       "computed": {
@@ -18136,7 +18135,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6274,
+        "top": 6155,
         "width": 148
       },
       "computed": {
@@ -18217,7 +18216,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6295,
+        "top": 6176,
         "width": 148
       },
       "computed": {
@@ -18298,7 +18297,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6316,
+        "top": 6197,
         "width": 148
       },
       "computed": {
@@ -18379,7 +18378,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6337,
+        "top": 6218,
         "width": 148
       },
       "computed": {
@@ -18460,7 +18459,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6358,
+        "top": 6239,
         "width": 148
       },
       "computed": {
@@ -18541,7 +18540,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6379,
+        "top": 6260,
         "width": 148
       },
       "computed": {
@@ -18622,7 +18621,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6400,
+        "top": 6281,
         "width": 148
       },
       "computed": {
@@ -18703,7 +18702,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6421,
+        "top": 6302,
         "width": 148
       },
       "computed": {
@@ -18784,7 +18783,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6442,
+        "top": 6323,
         "width": 148
       },
       "computed": {
@@ -18865,7 +18864,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6463,
+        "top": 6344,
         "width": 148
       },
       "computed": {
@@ -18946,7 +18945,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 6484,
+        "top": 6365,
         "width": 148
       },
       "computed": {
@@ -19027,7 +19026,7 @@
       "bound": {
         "height": 14,
         "left": 803,
-        "top": 6148,
+        "top": 6029,
         "width": 170
       },
       "computed": {
@@ -19103,7 +19102,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 6169,
+        "top": 6050,
         "width": 148
       },
       "computed": {
@@ -19184,7 +19183,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 6190,
+        "top": 6071,
         "width": 148
       },
       "computed": {
@@ -19265,7 +19264,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 6211,
+        "top": 6092,
         "width": 148
       },
       "computed": {
@@ -19346,7 +19345,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 6232,
+        "top": 6113,
         "width": 148
       },
       "computed": {
@@ -19427,7 +19426,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 6253,
+        "top": 6134,
         "width": 148
       },
       "computed": {
@@ -19508,7 +19507,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 6274,
+        "top": 6155,
         "width": 148
       },
       "computed": {
@@ -19589,7 +19588,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 6295,
+        "top": 6176,
         "width": 148
       },
       "computed": {
@@ -19670,7 +19669,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 6316,
+        "top": 6197,
         "width": 148
       },
       "computed": {
@@ -19751,7 +19750,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 6337,
+        "top": 6218,
         "width": 148
       },
       "computed": {
@@ -19832,7 +19831,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 6358,
+        "top": 6239,
         "width": 148
       },
       "computed": {
@@ -19913,7 +19912,7 @@
       "bound": {
         "height": 14,
         "left": 974,
-        "top": 6148,
+        "top": 6029,
         "width": 170
       },
       "computed": {
@@ -19989,7 +19988,7 @@
       "bound": {
         "height": 31,
         "left": 996,
-        "top": 6169,
+        "top": 6050,
         "width": 148
       },
       "computed": {
@@ -20074,7 +20073,7 @@
       "bound": {
         "height": 31,
         "left": 996,
-        "top": 6208,
+        "top": 6089,
         "width": 148
       },
       "computed": {
@@ -20159,7 +20158,7 @@
       "bound": {
         "height": 31,
         "left": 996,
-        "top": 6247,
+        "top": 6128,
         "width": 148
       },
       "computed": {
@@ -20244,7 +20243,7 @@
       "bound": {
         "height": 31,
         "left": 996,
-        "top": 6286,
+        "top": 6167,
         "width": 148
       },
       "computed": {
@@ -20329,7 +20328,7 @@
       "bound": {
         "height": 31,
         "left": 996,
-        "top": 6325,
+        "top": 6206,
         "width": 148
       },
       "computed": {
@@ -20414,7 +20413,7 @@
       "bound": {
         "height": 31,
         "left": 996,
-        "top": 6364,
+        "top": 6245,
         "width": 148
       },
       "computed": {
@@ -20499,7 +20498,7 @@
       "bound": {
         "height": 32,
         "left": 1054,
-        "top": 6480,
+        "top": 6361,
         "width": 234
       },
       "computed": {
@@ -20644,197 +20643,9 @@
     },
     {
       "bound": {
-        "height": 1,
-        "left": 0,
-        "top": 15,
-        "width": 1
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "display": "inline",
-        "text-align": "center",
-        "visibility": "hidden"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "leaderboard-ad"
-          ],
-          "id": "leaderboard_ad",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "open_x_ad",
-            "open_x_leaderboard"
-          ],
-          "id": "open_x_ad_unit_96673",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "beacon_87531964",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://ox-d.sbnation.com/w/1.0/ri?ts=1fHNpZD01MDU2MnxyYWlkPWFjNDUwNThjLTA2NzUtNGZlOS05MzIyLTk4ZmU1MTMwZGQ2ZXxhdWlkPTI1MjM2OHx1cj1FZzdjMjc0UDBKfGFzPTcyOHg5MHxhaWQ9MTI2NTE1MHxwdWI9ODk0MXxhdW09RE1JRC5NT0JJTEV8bGlkPTc1MDc2Nnx1PTF8dD0xMHxyaWQ9YTU3MGFlZTItOTRiOS00NWQyLWFhYjgtOTMwMWI1YjA0M2I1fG9pZD0xOTg3Mjh8Ym09QlVZSU5HLkdVQVJBTlRFRURWT0xVTUVHT0FMfHA9MTAwMDB8cGM9VVNEfGFjPVVTRHxwbT1QUklDSU5HLkNQTXxydD0xMzc2NjA0MzUyfHByPTEwMDAwfGFkdj0xMTYxNjY"
-    },
-    {
-      "bound": {
-        "height": 90,
-        "left": 436,
-        "top": 45,
-        "width": 728
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(251, 72, 52)",
-        "border-left-color": "rgb(251, 72, 52)",
-        "border-right-color": "rgb(251, 72, 52)",
-        "border-top-color": "rgb(251, 72, 52)",
-        "color": "rgb(251, 72, 52)",
-        "display": "inline",
-        "outline-color": "rgb(251, 72, 52)",
-        "text-align": "center"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "a",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "leaderboard-ad"
-          ],
-          "id": "leaderboard_ad",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "open_x_ad",
-            "open_x_leaderboard"
-          ],
-          "id": "open_x_ad_unit_96673",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://ox-i.sbnation.com/023/0238cbd0c099a74a0f401d17ffde973b8e941e1d/1c7/1c7017b20273e8613348d6fbdde59327.jpg"
-    },
-    {
-      "bound": {
-        "height": 1,
-        "left": 0,
-        "top": 15,
-        "width": 1
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "display": "inline",
-        "text-align": "center",
-        "visibility": "hidden"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "leaderboard-ad"
-          ],
-          "id": "leaderboard_ad",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "open_x_ad",
-            "open_x_leaderboard"
-          ],
-          "id": "open_x_ad_unit_96673",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://ad.doubleclick.net/ad/N8334.529834.VOXMEDIAINC/B7678650.11;sz=1x1;ord=[timestamp]?"
-    },
-    {
-      "bound": {
         "height": 640,
         "left": 290,
-        "top": 559,
+        "top": 440,
         "width": 1020
       },
       "computed": {
@@ -20919,7 +20730,7 @@
       "bound": {
         "height": 698,
         "left": 290,
-        "top": 1827,
+        "top": 1708,
         "width": 1020
       },
       "computed": {
@@ -21014,7 +20825,7 @@
       "bound": {
         "height": 154,
         "left": 459,
-        "top": 3912,
+        "top": 3793,
         "width": 218
       },
       "computed": {
@@ -21120,7 +20931,7 @@
       "bound": {
         "height": 154,
         "left": 691,
-        "top": 3912,
+        "top": 3793,
         "width": 218
       },
       "computed": {
@@ -21226,7 +21037,7 @@
       "bound": {
         "height": 154,
         "left": 923,
-        "top": 3912,
+        "top": 3793,
         "width": 218
       },
       "computed": {
@@ -21331,7 +21142,7 @@
       "bound": {
         "height": 1,
         "left": 0,
-        "top": 6558,
+        "top": 6439,
         "width": 1
       },
       "computed": {

@@ -237,10 +237,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fitsallpolitics%2F2013%2F08%2F07%2F209925569%2Fhubbub-over-hillary-clinton-movies-a-dress-rehearsal-for-2016",
     "http://www.npr.org/about/place/corpsupport/",
+    "http://www.npr.org/blogs/itsallpolitics/2013/08/17/212960237/amid-struggle-for-soul-of-gop-libertarians-take-limelight",
+    "http://www.npr.org/blogs/itsallpolitics/2013/08/17/212729349/rnc-doesnt-focus-on-an-elephant-in-its-ballroom",
     "http://www.npr.org/blogs/itsallpolitics/2013/08/15/212283267/semantic-gymnastics-gop-in-tug-of-war-over-delegate-rule",
-    "http://www.npr.org/blogs/itsallpolitics/2013/08/14/212055218/a-lover-of-horse-races-and-horses-remembering-jack-germond",
-    "http://www.npr.org/blogs/itsallpolitics/2013/08/14/211972651/gop-debate-is-obamacare-fight-worth-a-government-shutdown",
-    "http://www.npr.org/blogs/itsallpolitics/2013/08/13/211663932/star-making-turn-as-newark-mayor-launches-booker-toward-d-c",
+    "http://www.npr.org/blogs/itsallpolitics/2013/08/16/212055218/a-lover-of-horse-races-and-horses-remembering-jack-germond",
     "http://www.npr.org/blogs/itsallpolitics/",
     "http://www.npr.org/blogs/itsallpolitics/2013/08/07/209925569/hubbub-over-hillary-clinton-movies-a-dress-rehearsal-for-2016#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -6670,6 +6670,434 @@
             "clearfix",
             "story"
           ],
+          "id": "story212960237",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Politics"
+      ]
+    },
+    {
+      "bound": {
+        "height": 72,
+        "left": 1303,
+        "top": 280,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Amid Struggle For 'Soul' Of GOP, Libertarians Take Limelight",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212960237",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Amid Struggle For 'Soul' Of GOP, Libertarians Take Limelight"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 1303,
+        "top": 397,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-top-color": "rgb(188, 202, 229)",
+        "color": "rgb(188, 202, 229)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "15px",
+        "margin-top": "5px",
+        "outline-color": "rgb(188, 202, 229)",
+        "position": "static",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Politics",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212729349",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Politics"
+      ]
+    },
+    {
+      "bound": {
+        "height": 54,
+        "left": 1303,
+        "top": 424,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "RNC Isn't Focusing On The Elephant In Its Ballroom",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212729349",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "RNC Isn't Focusing On The Elephant In Its Ballroom"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 1303,
+        "top": 523,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-top-color": "rgb(188, 202, 229)",
+        "color": "rgb(188, 202, 229)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "15px",
+        "margin-top": "5px",
+        "outline-color": "rgb(188, 202, 229)",
+        "position": "static",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Politics",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
           "id": "story212283267",
           "name": "article"
         },
@@ -6701,7 +7129,7 @@
       "bound": {
         "height": 54,
         "left": 1303,
-        "top": 280,
+        "top": 550,
         "width": 158
       },
       "computed": {
@@ -6803,437 +7231,9 @@
     },
     {
       "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 379,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-top-color": "rgb(188, 202, 229)",
-        "color": "rgb(188, 202, 229)",
-        "font-size": "12px",
-        "font-weight": "bold",
-        "line-height": "12px",
-        "margin-bottom": "15px",
-        "margin-top": "5px",
-        "outline-color": "rgb(188, 202, 229)",
-        "position": "static",
-        "text-transform": "lowercase"
-      },
-      "element": {
-        "classes": [
-          "slug"
-        ],
-        "id": "",
-        "name": "h2"
-      },
-      "html": "Remembrances",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h2"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212055218",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "slug"
-          ],
-          "id": "",
-          "name": "h2"
-        }
-      ],
-      "text": [
-        "Remembrances"
-      ]
-    },
-    {
-      "bound": {
-        "height": 72,
-        "left": 1303,
-        "top": 406,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-top-color": "rgb(0, 0, 0)",
-        "color": "rgb(0, 0, 0)",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "line-height": "18px",
-        "margin-bottom": "10px",
-        "outline-color": "rgb(0, 0, 0)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "A Lover Of Horse Races, And Horses: Remembering Jack Germond",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212055218",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "A Lover Of Horse Races, And Horses: Remembering Jack Germond"
-      ]
-    },
-    {
-      "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 523,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-top-color": "rgb(188, 202, 229)",
-        "color": "rgb(188, 202, 229)",
-        "font-size": "12px",
-        "font-weight": "bold",
-        "line-height": "12px",
-        "margin-bottom": "15px",
-        "margin-top": "5px",
-        "outline-color": "rgb(188, 202, 229)",
-        "position": "static",
-        "text-transform": "lowercase"
-      },
-      "element": {
-        "classes": [
-          "slug"
-        ],
-        "id": "",
-        "name": "h2"
-      },
-      "html": "Politics",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h2"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story211972651",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "slug"
-          ],
-          "id": "",
-          "name": "h2"
-        }
-      ],
-      "text": [
-        "Politics"
-      ]
-    },
-    {
-      "bound": {
-        "height": 72,
-        "left": 1303,
-        "top": 550,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-top-color": "rgb(0, 0, 0)",
-        "color": "rgb(0, 0, 0)",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "line-height": "18px",
-        "margin-bottom": "10px",
-        "outline-color": "rgb(0, 0, 0)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "GOP Debate: Is Obamacare Fight Worth A Government Shutdown?",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story211972651",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "GOP Debate: Is Obamacare Fight Worth A Government Shutdown?"
-      ]
-    },
-    {
-      "bound": {
         "height": 16,
         "left": 1273,
-        "top": 682,
+        "top": 664,
         "width": 299
       },
       "computed": {
@@ -8747,9 +8747,207 @@
     },
     {
       "bound": {
-        "height": 62,
+        "height": 63,
         "left": 1491,
         "top": 272,
+        "width": 63
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "float": "left",
+        "max-width": "100%",
+        "outline-color": "rgb(109, 138, 196)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212960237",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/assets/img/2013/08/17/ap598532791505_sq-aff244752c03cf2d032a6ab88d194dd140758c42.jpg?s=16"
+    },
+    {
+      "bound": {
+        "height": 62,
+        "left": 1491,
+        "top": 416,
+        "width": 63
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "float": "left",
+        "max-width": "100%",
+        "outline-color": "rgb(109, 138, 196)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212729349",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/assets/img/2013/08/16/ap321211747240_sq-0a35d163704c240f35d9b56569eb21a60bcdde26.jpg?s=16"
+    },
+    {
+      "bound": {
+        "height": 62,
+        "left": 1491,
+        "top": 542,
         "width": 63
       },
       "computed": {
@@ -8843,204 +9041,6 @@
         }
       ],
       "src": "http://media.npr.org/assets/img/2013/08/15/10584701_h19155095_sq-af8069d28ecda5220e1b9a8f551042f020eb91a2.jpg?s=16"
-    },
-    {
-      "bound": {
-        "height": 63,
-        "left": 1491,
-        "top": 398,
-        "width": 63
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-top-color": "rgb(109, 138, 196)",
-        "color": "rgb(109, 138, 196)",
-        "float": "left",
-        "max-width": "100%",
-        "outline-color": "rgb(109, 138, 196)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212055218",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyimg"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://media.npr.org/assets/img/2013/08/14/ap320763252878_sq-b8fe702d007cad00d496db0a5c9479b1ab6d7498.jpg?s=16"
-    },
-    {
-      "bound": {
-        "height": 62,
-        "left": 1491,
-        "top": 542,
-        "width": 63
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-top-color": "rgb(109, 138, 196)",
-        "color": "rgb(109, 138, 196)",
-        "float": "left",
-        "max-width": "100%",
-        "outline-color": "rgb(109, 138, 196)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story211972651",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyimg"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://media.npr.org/assets/img/2013/08/14/ap482391858135_sq-d031679f1bec5d5910784ed048df91b63f5f65b3.jpg?s=16"
     },
     {
       "bound": {

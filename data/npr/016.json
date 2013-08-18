@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 3349,
+      "height": 3662,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "3349px",
+      "height": "3662px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -246,10 +246,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fhealth%2F2013%2F08%2F08%2F210237243%2Fexperimental-malaria-vaccine-shows-promise-in-early-trial",
     "http://www.npr.org/about/place/corpsupport/",
+    "http://www.npr.org/blogs/health/2013/08/16/212653061/after-these-docs-saw-the-farm-they-didnt-want-the-city",
+    "http://www.npr.org/blogs/health/2013/08/16/212569925/strange-bedfellows-among-groups-helping-insurance-buyers",
     "http://www.npr.org/blogs/health/2013/08/15/199052039/getting-people-out-of-nursing-homes-is-complicated",
     "http://www.npr.org/blogs/health/2013/08/15/212263806/chronic-insomnia-hitting-the-treadmill-could-help-eventually",
-    "http://www.npr.org/blogs/health/2013/08/14/212067372/a-safety-checklist-to-save-teen-athletes-lives",
-    "http://www.npr.org/blogs/health/2013/08/14/212046489/evidence-supports-pill-to-prevent-some-prostate-cancers",
     "http://www.npr.org/blogs/health/",
     "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -5930,7 +5930,7 @@
       "bound": {
         "height": 12,
         "left": 128,
-        "top": 2751,
+        "top": 3064,
         "width": 154
       },
       "computed": {
@@ -6015,7 +6015,7 @@
       "bound": {
         "height": 22,
         "left": 30,
-        "top": 2800,
+        "top": 3113,
         "width": 365
       },
       "computed": {
@@ -6104,7 +6104,7 @@
       "bound": {
         "height": 180,
         "left": 60,
-        "top": 2836,
+        "top": 3149,
         "width": 320
       },
       "computed": {
@@ -6222,7 +6222,7 @@
       "bound": {
         "height": 22,
         "left": 443,
-        "top": 2800,
+        "top": 3113,
         "width": 365
       },
       "computed": {
@@ -6311,7 +6311,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 2836,
+        "top": 3149,
         "width": 365
       },
       "computed": {
@@ -6420,7 +6420,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 2884,
+        "top": 3197,
         "width": 365
       },
       "computed": {
@@ -6529,7 +6529,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 2932,
+        "top": 3245,
         "width": 365
       },
       "computed": {
@@ -6638,7 +6638,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 2980,
+        "top": 3293,
         "width": 365
       },
       "computed": {
@@ -6747,7 +6747,7 @@
       "bound": {
         "height": 22,
         "left": 858,
-        "top": 2800,
+        "top": 3113,
         "width": 366
       },
       "computed": {
@@ -6836,7 +6836,7 @@
       "bound": {
         "height": 54,
         "left": 858,
-        "top": 2836,
+        "top": 3149,
         "width": 351
       },
       "computed": {
@@ -6934,7 +6934,7 @@
       "bound": {
         "height": 18,
         "left": 858,
-        "top": 2908,
+        "top": 3221,
         "width": 351
       },
       "computed": {
@@ -7762,6 +7762,434 @@
         "id": "",
         "name": "h2"
       },
+      "html": "Health",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212653061",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Health"
+      ]
+    },
+    {
+      "bound": {
+        "height": 54,
+        "left": 1303,
+        "top": 280,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "After These Docs Saw The Farm, They Didn't Want The City",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212653061",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "After These Docs Saw The Farm, They Didn't Want The City"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 1303,
+        "top": 380,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-top-color": "rgb(188, 202, 229)",
+        "color": "rgb(188, 202, 229)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "15px",
+        "margin-top": "5px",
+        "outline-color": "rgb(188, 202, 229)",
+        "position": "static",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Health",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212569925",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Health"
+      ]
+    },
+    {
+      "bound": {
+        "height": 54,
+        "left": 1303,
+        "top": 407,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Strange Bedfellows Among Groups Helping Insurance Buyers ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212569925",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Strange Bedfellows Among Groups Helping Insurance Buyers "
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 1303,
+        "top": 507,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-top-color": "rgb(188, 202, 229)",
+        "color": "rgb(188, 202, 229)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "15px",
+        "margin-top": "5px",
+        "outline-color": "rgb(188, 202, 229)",
+        "position": "static",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
       "html": "Health Care",
       "path": [
         "div",
@@ -7844,9 +8272,9 @@
     },
     {
       "bound": {
-        "height": 72,
+        "height": 54,
         "left": 1303,
-        "top": 280,
+        "top": 534,
         "width": 158
       },
       "computed": {
@@ -7948,437 +8376,9 @@
     },
     {
       "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 397,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-top-color": "rgb(188, 202, 229)",
-        "color": "rgb(188, 202, 229)",
-        "font-size": "12px",
-        "font-weight": "bold",
-        "line-height": "12px",
-        "margin-bottom": "15px",
-        "margin-top": "5px",
-        "outline-color": "rgb(188, 202, 229)",
-        "position": "static",
-        "text-transform": "lowercase"
-      },
-      "element": {
-        "classes": [
-          "slug"
-        ],
-        "id": "",
-        "name": "h2"
-      },
-      "html": "Health",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h2"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212263806",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "slug"
-          ],
-          "id": "",
-          "name": "h2"
-        }
-      ],
-      "text": [
-        "Health"
-      ]
-    },
-    {
-      "bound": {
-        "height": 72,
-        "left": 1303,
-        "top": 424,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-top-color": "rgb(0, 0, 0)",
-        "color": "rgb(0, 0, 0)",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "line-height": "18px",
-        "margin-bottom": "10px",
-        "outline-color": "rgb(0, 0, 0)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "Chronic Insomnia? Hitting The Treadmill Could Help ... Eventually",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212263806",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "Chronic Insomnia? Hitting The Treadmill Could Help ... Eventually"
-      ]
-    },
-    {
-      "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 541,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-top-color": "rgb(188, 202, 229)",
-        "color": "rgb(188, 202, 229)",
-        "font-size": "12px",
-        "font-weight": "bold",
-        "line-height": "12px",
-        "margin-bottom": "15px",
-        "margin-top": "5px",
-        "outline-color": "rgb(188, 202, 229)",
-        "position": "static",
-        "text-transform": "lowercase"
-      },
-      "element": {
-        "classes": [
-          "slug"
-        ],
-        "id": "",
-        "name": "h2"
-      },
-      "html": "Health",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h2"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212067372",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "slug"
-          ],
-          "id": "",
-          "name": "h2"
-        }
-      ],
-      "text": [
-        "Health"
-      ]
-    },
-    {
-      "bound": {
-        "height": 54,
-        "left": 1303,
-        "top": 568,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-top-color": "rgb(0, 0, 0)",
-        "color": "rgb(0, 0, 0)",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "line-height": "18px",
-        "margin-bottom": "10px",
-        "outline-color": "rgb(0, 0, 0)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "A Safety Checklist To Save Teen Athletes' Lives",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212067372",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "A Safety Checklist To Save Teen Athletes' Lives"
-      ]
-    },
-    {
-      "bound": {
         "height": 16,
         "left": 1273,
-        "top": 683,
+        "top": 649,
         "width": 299
       },
       "computed": {
@@ -8461,7 +8461,7 @@
       "bound": {
         "height": 26,
         "left": 15,
-        "top": 3122,
+        "top": 3435,
         "width": 1570
       },
       "computed": {
@@ -8525,7 +8525,7 @@
       "bound": {
         "height": 22,
         "left": 15,
-        "top": 3148,
+        "top": 3461,
         "width": 1570
       },
       "computed": {
@@ -8595,7 +8595,7 @@
       "bound": {
         "height": 52,
         "left": 46,
-        "top": 3287,
+        "top": 3600,
         "width": 30
       },
       "computed": {
@@ -8672,7 +8672,7 @@
       "bound": {
         "height": 52,
         "left": 107,
-        "top": 3287,
+        "top": 3600,
         "width": 55
       },
       "computed": {
@@ -8749,7 +8749,7 @@
       "bound": {
         "height": 52,
         "left": 193,
-        "top": 3287,
+        "top": 3600,
         "width": 35
       },
       "computed": {
@@ -8826,7 +8826,7 @@
       "bound": {
         "height": 52,
         "left": 259,
-        "top": 3287,
+        "top": 3600,
         "width": 56
       },
       "computed": {
@@ -8903,7 +8903,7 @@
       "bound": {
         "height": 52,
         "left": 346,
-        "top": 3287,
+        "top": 3600,
         "width": 31
       },
       "computed": {
@@ -8980,7 +8980,7 @@
       "bound": {
         "height": 52,
         "left": 408,
-        "top": 3287,
+        "top": 3600,
         "width": 32
       },
       "computed": {
@@ -9057,7 +9057,7 @@
       "bound": {
         "height": 52,
         "left": 1519,
-        "top": 3287,
+        "top": 3600,
         "width": 66
       },
       "computed": {
@@ -9124,7 +9124,7 @@
       "bound": {
         "height": 52,
         "left": 1106,
-        "top": 3287,
+        "top": 3600,
         "width": 42
       },
       "computed": {
@@ -9195,7 +9195,7 @@
       "bound": {
         "height": 52,
         "left": 1163,
-        "top": 3287,
+        "top": 3600,
         "width": 72
       },
       "computed": {
@@ -9266,7 +9266,7 @@
       "bound": {
         "height": 52,
         "left": 1250,
-        "top": 3287,
+        "top": 3600,
         "width": 40
       },
       "computed": {
@@ -9337,7 +9337,7 @@
       "bound": {
         "height": 52,
         "left": 1305,
-        "top": 3287,
+        "top": 3600,
         "width": 117
       },
       "computed": {
@@ -9411,7 +9411,7 @@
       "bound": {
         "height": 52,
         "left": 1437,
-        "top": 3287,
+        "top": 3600,
         "width": 52
       },
       "computed": {
@@ -9944,7 +9944,7 @@
       "bound": {
         "height": 33,
         "left": 30,
-        "top": 2734,
+        "top": 3047,
         "width": 98
       },
       "computed": {
@@ -10027,7 +10027,7 @@
       "bound": {
         "height": 60,
         "left": 1149,
-        "top": 2836,
+        "top": 3149,
         "width": 60
       },
       "computed": {
@@ -10198,6 +10198,204 @@
             "clearfix",
             "story"
           ],
+          "id": "story212653061",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/assets/img/2013/08/16/ozarkfarm_sq-4bfc1a84dce1d76afa0f3e363bdfe10b45f82bbb.jpg?s=16"
+    },
+    {
+      "bound": {
+        "height": 63,
+        "left": 1491,
+        "top": 399,
+        "width": 63
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "float": "left",
+        "max-width": "100%",
+        "outline-color": "rgb(109, 138, 196)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212569925",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/assets/img/2013/08/16/lobstermen_sq-0db11d0b8a5bf98e6443efad1ca57862b19d976b.jpg?s=16"
+    },
+    {
+      "bound": {
+        "height": 63,
+        "left": 1491,
+        "top": 526,
+        "width": 63
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "float": "left",
+        "max-width": "100%",
+        "outline-color": "rgb(109, 138, 196)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
           "id": "story199052039",
           "name": "article"
         },
@@ -10223,207 +10421,9 @@
     },
     {
       "bound": {
-        "height": 63,
-        "left": 1491,
-        "top": 416,
-        "width": 63
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-top-color": "rgb(109, 138, 196)",
-        "color": "rgb(109, 138, 196)",
-        "float": "left",
-        "max-width": "100%",
-        "outline-color": "rgb(109, 138, 196)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212263806",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyimg"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://media.npr.org/assets/img/2013/08/15/istock_000018318513large_sq-524a93bd5096adb1b3206748cdadf3de996c986e.jpg?s=16"
-    },
-    {
-      "bound": {
-        "height": 63,
-        "left": 1491,
-        "top": 560,
-        "width": 63
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-top-color": "rgb(109, 138, 196)",
-        "color": "rgb(109, 138, 196)",
-        "float": "left",
-        "max-width": "100%",
-        "outline-color": "rgb(109, 138, 196)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212067372",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyimg"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://media.npr.org/assets/img/2013/08/14/ap070807020618_sq-34f6182c8743e16fd03394d94a0a4305e43ba863.jpg?s=16"
-    },
-    {
-      "bound": {
         "height": 150,
         "left": 15,
-        "top": 3122,
+        "top": 3435,
         "width": 300
       },
       "computed": {

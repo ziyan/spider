@@ -5,6 +5,7 @@ import analyzers
 import collections
 import itertools
 import utils
+import re
 
 class Processor(object):
 
@@ -26,6 +27,7 @@ class Processor(object):
             page['descriptions'] = self.tokenizer.tokenize(*page['descriptions'])
             tokens = page['titles'] + page['descriptions']
             for text in page['texts']:
+                text['content'] = ' '.join(text['text'])
                 text['text'] = self.tokenizer.tokenize(*text['text'])
                 tokens += text['text']
             pages.append(tokens)
@@ -76,7 +78,7 @@ class Processor(object):
             pages=collections.defaultdict(lambda: dict(
                 score=0.0,
                 texts=[],
-                htmls=[],
+                content='',
             )),
         ))
 
@@ -89,7 +91,7 @@ class Processor(object):
             cluster['selectors'].append(text['selector'])
             cluster['pages'][page['url']]['score'] += relevance_score
             cluster['pages'][page['url']]['texts'].append(text['text'])
-            cluster['pages'][page['url']]['htmls'].append(text['html'])
+            cluster['pages'][page['url']]['content'] += text['content'] + ' '
 
         for cluster in clusters.values():
 
@@ -112,6 +114,10 @@ class Processor(object):
 
                 if page['score'] > 0:
                     count += 1
+
+                # normalize content
+                page['content'] = re.sub(r'[^a-zA-Z0-9]+', ' ', page['content'])
+                page['content'] = re.sub(r'[\s]{2,}', ' ', page['content']).strip()
 
             if count > 0: cluster['score'] /= float(count)
             cluster['confidence'] = float(count) / float(len(cluster['pages']))

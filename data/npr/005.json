@@ -206,10 +206,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2F2013%2F08%2F09%2F210286841%2Fsusan-rices-first-month-on-the-job-has-been-a-doozy",
     "http://www.npr.org/about/place/corpsupport/",
-    "http://www.npr.org/2013/08/15/212160911/private-bradley-manning-apologizes-faces-90-years-in-prison",
-    "http://www.npr.org/2013/08/15/212198327/how-drones-fundamentally-alters-the-nature-of-conflict",
-    "http://www.npr.org/2013/08/15/212198325/drone-manufacturers-confident-industry-will-grow",
-    "http://www.npr.org/blogs/alltechconsidered/2013/08/15/212079908/the-next-disaster-scenario-power-companies-are-preparing-for",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/17/212613677/cracking-the-code-just-how-does-encrypted-email-work",
+    "http://www.npr.org/blogs/itsallpolitics/2013/08/17/212960237/amid-struggle-for-soul-of-gop-libertarians-take-limelight",
+    "http://www.npr.org/templates/story/story.php?storyId=212692301",
+    "http://www.npr.org/templates/story/story.php?storyId=212603802",
     "http://www.npr.org/sections/national-security/",
     "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -6105,10 +6105,120 @@
     },
     {
       "bound": {
-        "height": 36,
+        "height": 12,
         "left": 1303,
-        "top": 263,
-        "width": 252
+        "top": 253,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-top-color": "rgb(188, 202, 229)",
+        "color": "rgb(188, 202, 229)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "15px",
+        "margin-top": "5px",
+        "outline-color": "rgb(188, 202, 229)",
+        "position": "static",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Technology",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212613677",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Technology"
+      ]
+    },
+    {
+      "bound": {
+        "height": 54,
+        "left": 1303,
+        "top": 280,
+        "width": 158
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -6129,7 +6239,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Private Bradley Manning Apologizes, Faces 90 Years In Prison",
+      "html": "Cracking The Code: Just How Does Encrypted Email Work?",
       "path": [
         "div",
         "div",
@@ -6182,7 +6292,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212160911",
+          "id": "story212613677",
           "name": "article"
         },
         {
@@ -6192,7 +6302,6 @@
         },
         {
           "classes": [
-            "noimg",
             "storyinfo"
           ],
           "id": "",
@@ -6205,14 +6314,228 @@
         }
       ],
       "text": [
-        "Private Bradley Manning Apologizes, Faces 90 Years In Prison"
+        "Cracking The Code: Just How Does Encrypted Email Work?"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 344,
+        "top": 380,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-top-color": "rgb(188, 202, 229)",
+        "color": "rgb(188, 202, 229)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "15px",
+        "margin-top": "5px",
+        "outline-color": "rgb(188, 202, 229)",
+        "position": "static",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Politics",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212960237",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Politics"
+      ]
+    },
+    {
+      "bound": {
+        "height": 72,
+        "left": 1303,
+        "top": 407,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Amid Struggle For 'Soul' Of GOP, Libertarians Take Limelight",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212960237",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Amid Struggle For 'Soul' Of GOP, Libertarians Take Limelight"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 1303,
+        "top": 524,
         "width": 252
       },
       "computed": {
@@ -6291,7 +6614,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212198327",
+          "id": "story212692301",
           "name": "article"
         },
         {
@@ -6323,7 +6646,7 @@
       "bound": {
         "height": 36,
         "left": 1303,
-        "top": 371,
+        "top": 551,
         "width": 252
       },
       "computed": {
@@ -6345,7 +6668,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "How Drones Fundamentally Alter The Nature Of Conflict",
+      "html": "NSA Accused Of Repeatedly Violating Privacy Rules",
       "path": [
         "div",
         "div",
@@ -6398,7 +6721,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212198327",
+          "id": "story212692301",
           "name": "article"
         },
         {
@@ -6421,230 +6744,14 @@
         }
       ],
       "text": [
-        "How Drones Fundamentally Alter The Nature Of Conflict"
-      ]
-    },
-    {
-      "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 452,
-        "width": 252
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-top-color": "rgb(188, 202, 229)",
-        "color": "rgb(188, 202, 229)",
-        "font-size": "12px",
-        "font-weight": "bold",
-        "line-height": "12px",
-        "margin-bottom": "15px",
-        "margin-top": "5px",
-        "outline-color": "rgb(188, 202, 229)",
-        "position": "static",
-        "text-transform": "lowercase"
-      },
-      "element": {
-        "classes": [
-          "slug"
-        ],
-        "id": "",
-        "name": "h2"
-      },
-      "html": "National Security",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h2"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212198325",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "noimg",
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "slug"
-          ],
-          "id": "",
-          "name": "h2"
-        }
-      ],
-      "text": [
-        "National Security"
-      ]
-    },
-    {
-      "bound": {
-        "height": 36,
-        "left": 1303,
-        "top": 479,
-        "width": 252
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-top-color": "rgb(0, 0, 0)",
-        "color": "rgb(0, 0, 0)",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "line-height": "18px",
-        "margin-bottom": "10px",
-        "outline-color": "rgb(0, 0, 0)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "Drone Manufacturers Confident Domestic Industry Will Grow",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212198325",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "noimg",
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "Drone Manufacturers Confident Domestic Industry Will Grow"
+        "NSA Accused Of Repeatedly Violating Privacy Rules"
       ]
     },
     {
       "bound": {
         "height": 16,
         "left": 1273,
-        "top": 575,
+        "top": 647,
         "width": 299
       },
       "computed": {
@@ -7976,6 +8083,204 @@
         }
       ],
       "src": "http://media.npr.org/assets/img/2013/08/08/ap741420833092-682a6115b2f5ac9d5082ba2a4eb42e84c0bc764a-s6-c30.jpg"
+    },
+    {
+      "bound": {
+        "height": 63,
+        "left": 1491,
+        "top": 272,
+        "width": 63
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "float": "left",
+        "max-width": "100%",
+        "outline-color": "rgb(109, 138, 196)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212613677",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/assets/img/2013/08/16/encryption_sq-357e6143e8277dd58ac67ae89012446cf651dbc3.jpg?s=16"
+    },
+    {
+      "bound": {
+        "height": 63,
+        "left": 1491,
+        "top": 399,
+        "width": 63
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "float": "left",
+        "max-width": "100%",
+        "outline-color": "rgb(109, 138, 196)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212960237",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/assets/img/2013/08/17/ap598532791505_sq-aff244752c03cf2d032a6ab88d194dd140758c42.jpg?s=16"
     },
     {
       "bound": {

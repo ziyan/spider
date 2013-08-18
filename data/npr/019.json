@@ -206,10 +206,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2F2013%2F08%2F08%2F210215542%2Fal-qaida-leaks-reveal-both-security-and-political-worries",
     "http://www.npr.org/about/place/corpsupport/",
-    "http://www.npr.org/blogs/itsallpolitics/2013/08/15/212283267/semantic-gymnastics-gop-in-tug-of-war-over-delegate-rule",
-    "http://www.npr.org/templates/story/story.php?storyId=212356285",
-    "http://www.npr.org/2013/08/15/212356288/floor-charts-a-key-part-of-congressional-messaging",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/15/212312070/obama-played-cards-the-day-bin-laden-was-killed-important",
+    "http://www.npr.org/blogs/itsallpolitics/2013/08/17/212960237/amid-struggle-for-soul-of-gop-libertarians-take-limelight",
+    "http://www.npr.org/blogs/itsallpolitics/2013/08/17/212729349/rnc-doesnt-focus-on-an-elephant-in-its-ballroom",
+    "http://www.npr.org/templates/story/story.php?storyId=212872533",
+    "http://www.npr.org/2013/08/17/212788703/immigration-reform-activists-march-to-calif-farm-country",
     "http://www.npr.org/sections/politics/",
     "http://www.npr.org/2013/08/08/210215542/al-qaida-leaks-reveal-both-security-and-political-worries#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -5601,7 +5601,221 @@
             "clearfix",
             "story"
           ],
-          "id": "story212283267",
+          "id": "story212960237",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Politics"
+      ]
+    },
+    {
+      "bound": {
+        "height": 72,
+        "left": 1303,
+        "top": 252,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Amid Struggle For 'Soul' Of GOP, Libertarians Take Limelight",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212960237",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Amid Struggle For 'Soul' Of GOP, Libertarians Take Limelight"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 1303,
+        "top": 369,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-top-color": "rgb(188, 202, 229)",
+        "color": "rgb(188, 202, 229)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "15px",
+        "margin-top": "5px",
+        "outline-color": "rgb(188, 202, 229)",
+        "position": "static",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Politics",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212729349",
           "name": "article"
         },
         {
@@ -5632,7 +5846,7 @@
       "bound": {
         "height": 54,
         "left": 1303,
-        "top": 252,
+        "top": 396,
         "width": 158
       },
       "computed": {
@@ -5654,7 +5868,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Semantic Gymnastics: GOP In Tug Of War Over Delegate Rule",
+      "html": "RNC Isn't Focusing On The Elephant In Its Ballroom",
       "path": [
         "div",
         "div",
@@ -5707,7 +5921,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212283267",
+          "id": "story212729349",
           "name": "article"
         },
         {
@@ -5729,14 +5943,14 @@
         }
       ],
       "text": [
-        "Semantic Gymnastics: GOP In Tug Of War Over Delegate Rule"
+        "RNC Isn't Focusing On The Elephant In Its Ballroom"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 351,
+        "top": 495,
         "width": 252
       },
       "computed": {
@@ -5815,7 +6029,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212356285",
+          "id": "story212872533",
           "name": "article"
         },
         {
@@ -5847,7 +6061,7 @@
       "bound": {
         "height": 36,
         "left": 1303,
-        "top": 378,
+        "top": 522,
         "width": 252
       },
       "computed": {
@@ -5869,7 +6083,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "GOP Divided Over Whether It Needs Better Outreach, Nominees",
+      "html": "The RNC's Summer Challenge: Find New Voters",
       "path": [
         "div",
         "div",
@@ -5922,7 +6136,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212356285",
+          "id": "story212872533",
           "name": "article"
         },
         {
@@ -5945,230 +6159,14 @@
         }
       ],
       "text": [
-        "GOP Divided Over Whether It Needs Better Outreach, Nominees"
-      ]
-    },
-    {
-      "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 459,
-        "width": 252
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-top-color": "rgb(188, 202, 229)",
-        "color": "rgb(188, 202, 229)",
-        "font-size": "12px",
-        "font-weight": "bold",
-        "line-height": "12px",
-        "margin-bottom": "15px",
-        "margin-top": "5px",
-        "outline-color": "rgb(188, 202, 229)",
-        "position": "static",
-        "text-transform": "lowercase"
-      },
-      "element": {
-        "classes": [
-          "slug"
-        ],
-        "id": "",
-        "name": "h2"
-      },
-      "html": "Politics",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h2"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212356288",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "noimg",
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "slug"
-          ],
-          "id": "",
-          "name": "h2"
-        }
-      ],
-      "text": [
-        "Politics"
-      ]
-    },
-    {
-      "bound": {
-        "height": 36,
-        "left": 1303,
-        "top": 486,
-        "width": 252
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-top-color": "rgb(0, 0, 0)",
-        "color": "rgb(0, 0, 0)",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "line-height": "18px",
-        "margin-bottom": "10px",
-        "outline-color": "rgb(0, 0, 0)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "Floor Charts A Key Part Of Congressional Messaging",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212356288",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "noimg",
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "Floor Charts A Key Part Of Congressional Messaging"
+        "The RNC's Summer Challenge: Find New Voters"
       ]
     },
     {
       "bound": {
         "height": 16,
         "left": 1273,
-        "top": 582,
+        "top": 618,
         "width": 299
       },
       "computed": {
@@ -7413,7 +7411,7 @@
     },
     {
       "bound": {
-        "height": 62,
+        "height": 63,
         "left": 1491,
         "top": 244,
         "width": 63
@@ -7487,7 +7485,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212283267",
+          "id": "story212960237",
           "name": "article"
         },
         {
@@ -7508,7 +7506,106 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/15/10584701_h19155095_sq-af8069d28ecda5220e1b9a8f551042f020eb91a2.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/17/ap598532791505_sq-aff244752c03cf2d032a6ab88d194dd140758c42.jpg?s=16"
+    },
+    {
+      "bound": {
+        "height": 62,
+        "left": 1491,
+        "top": 388,
+        "width": 63
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(109, 138, 196)",
+        "border-left-color": "rgb(109, 138, 196)",
+        "border-right-color": "rgb(109, 138, 196)",
+        "border-top-color": "rgb(109, 138, 196)",
+        "color": "rgb(109, 138, 196)",
+        "float": "left",
+        "max-width": "100%",
+        "outline-color": "rgb(109, 138, 196)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212729349",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyimg"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://media.npr.org/assets/img/2013/08/16/ap321211747240_sq-0a35d163704c240f35d9b56569eb21a60bcdde26.jpg?s=16"
     },
     {
       "bound": {

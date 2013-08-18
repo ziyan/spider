@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 4470,
+      "height": 4579,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "4470px",
+      "height": "4579px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -208,10 +208,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2F2013%2F08%2F08%2F210135579%2Fin-a-world-all-voice-overs-are-not-created-equal",
     "http://www.npr.org/about/place/corpsupport/",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/16/212337606/herzog-plumbs-guilt-and-loss-wrought-by-texting-and-driving",
     "http://www.npr.org/2013/08/10/210880932/lovelace-a-sex-superstars-struggle-to-show-herself",
     "http://www.npr.org/templates/story/story.php?storyId=210759506",
     "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director",
-    "http://www.npr.org/2013/08/09/210412622/movie-review-ellysium",
     "http://www.npr.org/sections/movie-interviews/",
     "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -4242,7 +4242,7 @@
         "id": "",
         "name": "span"
       },
-      "html": "9",
+      "html": "10",
       "path": [
         "div",
         "div",
@@ -4316,7 +4316,7 @@
         }
       ],
       "text": [
-        "9"
+        "10"
       ]
     },
     {
@@ -4350,7 +4350,7 @@
         "id": "",
         "name": "a"
       },
-      "html": "<span class=\"count\">9</span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\">10</span><span class=\"name\">Comment</span>",
       "path": [
         "div",
         "div",
@@ -5292,6 +5292,220 @@
         "height": 12,
         "left": 1303,
         "top": 253,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-top-color": "rgb(188, 202, 229)",
+        "color": "rgb(188, 202, 229)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "15px",
+        "margin-top": "5px",
+        "outline-color": "rgb(188, 202, 229)",
+        "position": "static",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Technology",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212337606",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Technology"
+      ]
+    },
+    {
+      "bound": {
+        "height": 54,
+        "left": 1303,
+        "top": 280,
+        "width": 158
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Herzog Plumbs Guilt And Loss Wrought By Texting And Driving",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212337606",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Herzog Plumbs Guilt And Loss Wrought By Texting And Driving"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 1303,
+        "top": 380,
         "width": 252
       },
       "computed": {
@@ -5402,7 +5616,7 @@
       "bound": {
         "height": 36,
         "left": 1303,
-        "top": 280,
+        "top": 407,
         "width": 252
       },
       "computed": {
@@ -5507,7 +5721,7 @@
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 361,
+        "top": 488,
         "width": 252
       },
       "computed": {
@@ -5618,7 +5832,7 @@
       "bound": {
         "height": 36,
         "left": 1303,
-        "top": 388,
+        "top": 515,
         "width": 252
       },
       "computed": {
@@ -5721,220 +5935,6 @@
     },
     {
       "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 469,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-top-color": "rgb(188, 202, 229)",
-        "color": "rgb(188, 202, 229)",
-        "font-size": "12px",
-        "font-weight": "bold",
-        "line-height": "12px",
-        "margin-bottom": "15px",
-        "margin-top": "5px",
-        "outline-color": "rgb(188, 202, 229)",
-        "position": "static",
-        "text-transform": "lowercase"
-      },
-      "element": {
-        "classes": [
-          "slug"
-        ],
-        "id": "",
-        "name": "h2"
-      },
-      "html": "Movie Interviews",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h2"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story210506171",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "slug"
-          ],
-          "id": "",
-          "name": "h2"
-        }
-      ],
-      "text": [
-        "Movie Interviews"
-      ]
-    },
-    {
-      "bound": {
-        "height": 54,
-        "left": 1303,
-        "top": 496,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-top-color": "rgb(0, 0, 0)",
-        "color": "rgb(0, 0, 0)",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "line-height": "18px",
-        "margin-bottom": "10px",
-        "outline-color": "rgb(0, 0, 0)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "'The Butler': 'It's Not A Movie — It's A Movement'",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story210506171",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "'The Butler': 'It's Not A Movie — It's A Movement'"
-      ]
-    },
-    {
-      "bound": {
         "height": 16,
         "left": 1273,
         "top": 611,
@@ -6020,7 +6020,7 @@
       "bound": {
         "height": 26,
         "left": 15,
-        "top": 4243,
+        "top": 4352,
         "width": 1570
       },
       "computed": {
@@ -6084,7 +6084,7 @@
       "bound": {
         "height": 22,
         "left": 15,
-        "top": 4269,
+        "top": 4378,
         "width": 1570
       },
       "computed": {
@@ -6154,7 +6154,7 @@
       "bound": {
         "height": 52,
         "left": 46,
-        "top": 4408,
+        "top": 4517,
         "width": 30
       },
       "computed": {
@@ -6231,7 +6231,7 @@
       "bound": {
         "height": 52,
         "left": 107,
-        "top": 4408,
+        "top": 4517,
         "width": 55
       },
       "computed": {
@@ -6308,7 +6308,7 @@
       "bound": {
         "height": 52,
         "left": 193,
-        "top": 4408,
+        "top": 4517,
         "width": 35
       },
       "computed": {
@@ -6385,7 +6385,7 @@
       "bound": {
         "height": 52,
         "left": 259,
-        "top": 4408,
+        "top": 4517,
         "width": 56
       },
       "computed": {
@@ -6462,7 +6462,7 @@
       "bound": {
         "height": 52,
         "left": 346,
-        "top": 4408,
+        "top": 4517,
         "width": 31
       },
       "computed": {
@@ -6539,7 +6539,7 @@
       "bound": {
         "height": 52,
         "left": 408,
-        "top": 4408,
+        "top": 4517,
         "width": 32
       },
       "computed": {
@@ -6616,7 +6616,7 @@
       "bound": {
         "height": 52,
         "left": 1519,
-        "top": 4408,
+        "top": 4517,
         "width": 66
       },
       "computed": {
@@ -6683,7 +6683,7 @@
       "bound": {
         "height": 52,
         "left": 1106,
-        "top": 4408,
+        "top": 4517,
         "width": 42
       },
       "computed": {
@@ -6754,7 +6754,7 @@
       "bound": {
         "height": 52,
         "left": 1163,
-        "top": 4408,
+        "top": 4517,
         "width": 72
       },
       "computed": {
@@ -6825,7 +6825,7 @@
       "bound": {
         "height": 52,
         "left": 1250,
-        "top": 4408,
+        "top": 4517,
         "width": 40
       },
       "computed": {
@@ -6896,7 +6896,7 @@
       "bound": {
         "height": 52,
         "left": 1305,
-        "top": 4408,
+        "top": 4517,
         "width": 117
       },
       "computed": {
@@ -6970,7 +6970,7 @@
       "bound": {
         "height": 52,
         "left": 1437,
-        "top": 4408,
+        "top": 4517,
         "width": 52
       },
       "computed": {
@@ -7289,7 +7289,7 @@
       "bound": {
         "height": 63,
         "left": 1491,
-        "top": 488,
+        "top": 272,
         "width": 63
       },
       "computed": {
@@ -7361,7 +7361,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story210506171",
+          "id": "story212337606",
           "name": "article"
         },
         {
@@ -7382,13 +7382,13 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/09/whitaker-the-butler-lg_sq-8c6ac57837c3fca433df8d5ee7e41c8338bc4b9c.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/15/herzog-texting_sq-0d67f28059e12fe6d82beab8ce2bb86a3c69c3d5.jpg?s=16"
     },
     {
       "bound": {
         "height": 150,
         "left": 15,
-        "top": 4243,
+        "top": 4352,
         "width": 300
       },
       "computed": {

@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 11502,
+      "height": 4266,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "11502px",
+      "height": "4266px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -253,10 +253,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Falltechconsidered%2F2013%2F08%2F09%2F210251404%2Fwhy-arent-more-girls-attracted-to-physics",
     "http://www.npr.org/about/place/corpsupport/",
-    "http://www.npr.org/blogs/alltechconsidered/2013/08/15/209530590/teens-use-twitter-to-thumb-rides",
-    "http://www.npr.org/blogs/alltechconsidered/2013/08/15/212079908/the-next-disaster-scenario-power-companies-are-preparing-for",
-    "http://www.npr.org/blogs/alltechconsidered/2013/08/14/211977014/yes-the-new-york-times-knows-its-site-and-apps-are-down",
-    "http://www.npr.org/blogs/alltechconsidered/2013/08/13/211812428/man-learns-how-not-to-launch-a-site-for-women",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/17/212613677/cracking-the-code-just-how-does-encrypted-email-work",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/17/212614052/out-of-the-comics-into-reality-jet-pack-heads-to-market",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/16/212678437/switching-to-gmail-may-leave-reporters-sources-at-risk",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/16/212309715/tech-week-that-was-hyperloop-the-next-blackout-sites-down",
     "http://www.npr.org/blogs/alltechconsidered/",
     "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -4912,7 +4912,7 @@
         "id": "",
         "name": "span"
       },
-      "html": "408",
+      "html": "409",
       "path": [
         "div",
         "div",
@@ -4987,7 +4987,7 @@
         }
       ],
       "text": [
-        "408"
+        "409"
       ]
     },
     {
@@ -5021,7 +5021,7 @@
         "id": "",
         "name": "a"
       },
-      "html": "<span class=\"count\">408</span><span class=\"name\">Comment</span>",
+      "html": "<span class=\"count\">409</span><span class=\"name\">Comment</span>",
       "path": [
         "div",
         "div",
@@ -5625,7 +5625,7 @@
       "bound": {
         "height": 12,
         "left": 421,
-        "top": 10936,
+        "top": 3700,
         "width": 190
       },
       "computed": {
@@ -5710,7 +5710,7 @@
       "bound": {
         "height": 22,
         "left": 30,
-        "top": 11007,
+        "top": 3771,
         "width": 365
       },
       "computed": {
@@ -5799,7 +5799,7 @@
       "bound": {
         "height": 126,
         "left": 60,
-        "top": 11043,
+        "top": 3807,
         "width": 320
       },
       "computed": {
@@ -5918,7 +5918,7 @@
       "bound": {
         "height": 22,
         "left": 443,
-        "top": 11007,
+        "top": 3771,
         "width": 365
       },
       "computed": {
@@ -6007,7 +6007,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 11043,
+        "top": 3807,
         "width": 365
       },
       "computed": {
@@ -6116,7 +6116,7 @@
       "bound": {
         "height": 44,
         "left": 443,
-        "top": 11091,
+        "top": 3855,
         "width": 365
       },
       "computed": {
@@ -6225,7 +6225,7 @@
       "bound": {
         "height": 22,
         "left": 858,
-        "top": 11007,
+        "top": 3771,
         "width": 366
       },
       "computed": {
@@ -6314,7 +6314,7 @@
       "bound": {
         "height": 36,
         "left": 858,
-        "top": 11043,
+        "top": 3807,
         "width": 351
       },
       "computed": {
@@ -6412,7 +6412,7 @@
       "bound": {
         "height": 18,
         "left": 858,
-        "top": 11097,
+        "top": 3861,
         "width": 351
       },
       "computed": {
@@ -7240,7 +7240,7 @@
         "id": "",
         "name": "h2"
       },
-      "html": "Digital Life",
+      "html": "Technology",
       "path": [
         "div",
         "div",
@@ -7293,7 +7293,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story209530590",
+          "id": "story212613677",
           "name": "article"
         },
         {
@@ -7317,12 +7317,12 @@
         }
       ],
       "text": [
-        "Digital Life"
+        "Technology"
       ]
     },
     {
       "bound": {
-        "height": 36,
+        "height": 54,
         "left": 1303,
         "top": 280,
         "width": 158
@@ -7346,7 +7346,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Teens Use Twitter To Thumb Rides",
+      "html": "Cracking The Code: Just How Does Encrypted Email Work?",
       "path": [
         "div",
         "div",
@@ -7399,7 +7399,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story209530590",
+          "id": "story212613677",
           "name": "article"
         },
         {
@@ -7421,14 +7421,14 @@
         }
       ],
       "text": [
-        "Teens Use Twitter To Thumb Rides"
+        "Cracking The Code: Just How Does Encrypted Email Work?"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 379,
+        "top": 380,
         "width": 158
       },
       "computed": {
@@ -7454,7 +7454,7 @@
         "id": "",
         "name": "h2"
       },
-      "html": "National Security",
+      "html": "Technology",
       "path": [
         "div",
         "div",
@@ -7507,7 +7507,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212079908",
+          "id": "story212614052",
           "name": "article"
         },
         {
@@ -7531,14 +7531,14 @@
         }
       ],
       "text": [
-        "National Security"
+        "Technology"
       ]
     },
     {
       "bound": {
         "height": 72,
         "left": 1303,
-        "top": 406,
+        "top": 407,
         "width": 158
       },
       "computed": {
@@ -7560,7 +7560,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "The Next Disaster Scenario Power Companies Are Preparing For",
+      "html": "Out Of The Comics, Into Reality: Jet Pack Moves Closer To Market",
       "path": [
         "div",
         "div",
@@ -7613,7 +7613,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212079908",
+          "id": "story212614052",
           "name": "article"
         },
         {
@@ -7635,15 +7635,15 @@
         }
       ],
       "text": [
-        "The Next Disaster Scenario Power Companies Are Preparing For"
+        "Out Of The Comics, Into Reality: Jet Pack Moves Closer To Market"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 523,
-        "width": 158
+        "top": 524,
+        "width": 252
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -7668,7 +7668,7 @@
         "id": "",
         "name": "h2"
       },
-      "html": "Media",
+      "html": "Technology",
       "path": [
         "div",
         "div",
@@ -7721,7 +7721,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story211977014",
+          "id": "story212678437",
           "name": "article"
         },
         {
@@ -7731,6 +7731,7 @@
         },
         {
           "classes": [
+            "noimg",
             "storyinfo"
           ],
           "id": "",
@@ -7745,15 +7746,15 @@
         }
       ],
       "text": [
-        "Media"
+        "Technology"
       ]
     },
     {
       "bound": {
-        "height": 54,
+        "height": 36,
         "left": 1303,
-        "top": 550,
-        "width": 158
+        "top": 551,
+        "width": 252
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -7774,7 +7775,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "'The New York Times' Site, Apps Return After Two-Hour Outage",
+      "html": "Switching To Gmail May Leave Reporters' Sources At Risk",
       "path": [
         "div",
         "div",
@@ -7827,7 +7828,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story211977014",
+          "id": "story212678437",
           "name": "article"
         },
         {
@@ -7837,6 +7838,7 @@
         },
         {
           "classes": [
+            "noimg",
             "storyinfo"
           ],
           "id": "",
@@ -7849,14 +7851,14 @@
         }
       ],
       "text": [
-        "'The New York Times' Site, Apps Return After Two-Hour Outage"
+        "Switching To Gmail May Leave Reporters' Sources At Risk"
       ]
     },
     {
       "bound": {
         "height": 16,
         "left": 1273,
-        "top": 665,
+        "top": 647,
         "width": 299
       },
       "computed": {
@@ -7939,7 +7941,7 @@
       "bound": {
         "height": 26,
         "left": 15,
-        "top": 11275,
+        "top": 4039,
         "width": 1570
       },
       "computed": {
@@ -8003,7 +8005,7 @@
       "bound": {
         "height": 22,
         "left": 15,
-        "top": 11301,
+        "top": 4065,
         "width": 1570
       },
       "computed": {
@@ -8073,7 +8075,7 @@
       "bound": {
         "height": 52,
         "left": 46,
-        "top": 11440,
+        "top": 4204,
         "width": 30
       },
       "computed": {
@@ -8150,7 +8152,7 @@
       "bound": {
         "height": 52,
         "left": 107,
-        "top": 11440,
+        "top": 4204,
         "width": 55
       },
       "computed": {
@@ -8227,7 +8229,7 @@
       "bound": {
         "height": 52,
         "left": 193,
-        "top": 11440,
+        "top": 4204,
         "width": 35
       },
       "computed": {
@@ -8304,7 +8306,7 @@
       "bound": {
         "height": 52,
         "left": 259,
-        "top": 11440,
+        "top": 4204,
         "width": 56
       },
       "computed": {
@@ -8381,7 +8383,7 @@
       "bound": {
         "height": 52,
         "left": 346,
-        "top": 11440,
+        "top": 4204,
         "width": 31
       },
       "computed": {
@@ -8458,7 +8460,7 @@
       "bound": {
         "height": 52,
         "left": 408,
-        "top": 11440,
+        "top": 4204,
         "width": 32
       },
       "computed": {
@@ -8535,7 +8537,7 @@
       "bound": {
         "height": 52,
         "left": 1519,
-        "top": 11440,
+        "top": 4204,
         "width": 66
       },
       "computed": {
@@ -8602,7 +8604,7 @@
       "bound": {
         "height": 52,
         "left": 1106,
-        "top": 11440,
+        "top": 4204,
         "width": 42
       },
       "computed": {
@@ -8673,7 +8675,7 @@
       "bound": {
         "height": 52,
         "left": 1163,
-        "top": 11440,
+        "top": 4204,
         "width": 72
       },
       "computed": {
@@ -8744,7 +8746,7 @@
       "bound": {
         "height": 52,
         "left": 1250,
-        "top": 11440,
+        "top": 4204,
         "width": 40
       },
       "computed": {
@@ -8815,7 +8817,7 @@
       "bound": {
         "height": 52,
         "left": 1305,
-        "top": 11440,
+        "top": 4204,
         "width": 117
       },
       "computed": {
@@ -8889,7 +8891,7 @@
       "bound": {
         "height": 52,
         "left": 1437,
-        "top": 11440,
+        "top": 4204,
         "width": 52
       },
       "computed": {
@@ -9623,7 +9625,7 @@
       "bound": {
         "height": 77,
         "left": 30,
-        "top": 10897,
+        "top": 3661,
         "width": 74
       },
       "computed": {
@@ -9706,7 +9708,7 @@
       "bound": {
         "height": 33,
         "left": 104,
-        "top": 10919,
+        "top": 3683,
         "width": 317
       },
       "computed": {
@@ -9789,7 +9791,7 @@
       "bound": {
         "height": 60,
         "left": 1149,
-        "top": 11043,
+        "top": 3807,
         "width": 60
       },
       "computed": {
@@ -9886,7 +9888,7 @@
     },
     {
       "bound": {
-        "height": 62,
+        "height": 63,
         "left": 1491,
         "top": 272,
         "width": 63
@@ -9960,7 +9962,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story209530590",
+          "id": "story212613677",
           "name": "article"
         },
         {
@@ -9981,13 +9983,13 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/06/rideshare_sq-88687ec5757c744b9ea6b133188e28f829f28ace.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/16/encryption_sq-357e6143e8277dd58ac67ae89012446cf651dbc3.jpg?s=16"
     },
     {
       "bound": {
         "height": 63,
         "left": 1491,
-        "top": 398,
+        "top": 399,
         "width": 63
       },
       "computed": {
@@ -10059,7 +10061,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212079908",
+          "id": "story212614052",
           "name": "article"
         },
         {
@@ -10080,112 +10082,13 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/14/power-grid-blackout_sq-d09fef48c8d18ec2ea3ee80d15a51cceb020ee2e.jpg?s=16"
-    },
-    {
-      "bound": {
-        "height": 63,
-        "left": 1491,
-        "top": 542,
-        "width": 63
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-top-color": "rgb(109, 138, 196)",
-        "color": "rgb(109, 138, 196)",
-        "float": "left",
-        "max-width": "100%",
-        "outline-color": "rgb(109, 138, 196)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story211977014",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyimg"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://media.npr.org/assets/img/2013/08/14/112774802_sq-f7840531018799fdd9aed6984684495932888b42.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/16/front-view-with-pilot_sq-18023f0e4f70cc05c83f86b2d032ac21ced7cb33.jpg?s=16"
     },
     {
       "bound": {
         "height": 150,
         "left": 15,
-        "top": 11275,
+        "top": 4039,
         "width": 300
       },
       "computed": {

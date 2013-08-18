@@ -1,0 +1,6456 @@
+{
+  "body": {
+    "bound": {
+      "height": 4000,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(246, 246, 246)",
+      "background-image": "url(http://www.gannett-cdn.com/static/usat-web-static-3.9.0/images/patterns/noise_f6f6f6.png)",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(34, 34, 34)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(34, 34, 34)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(34, 34, 34)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(34, 34, 34)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(34, 34, 34)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "Arial, sans-serif",
+      "font-size": "16px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "4000px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "22px",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "100%",
+      "min-width": "980px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(34, 34, 34)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "relative",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [
+    "Silver Stars triumph as play gets chippy with Mercury",
+    "Silver Stars triumph as play gets chippy with Mercury"
+  ],
+  "titles": [
+    "WNBA roundup: Silver Stars rough up Mercury",
+    "WNBA roundup: Silver Stars rough up Mercury"
+  ],
+  "url": "http://www.usatoday.com/story/sports/wnba/2013/08/18/san-antonio-silver-stars-phoenix-mercury-seattle-storm-indiana-fever/2668409/",
+  "links": [
+    "http://www.usatoday.com/",
+    "http://www.usatoday.com/news/",
+    "http://www.usatoday.com/sports/",
+    "http://www.usatoday.com/life/",
+    "http://www.usatoday.com/money/",
+    "http://www.usatoday.com/tech/",
+    "http://www.usatoday.com/travel/",
+    "http://www.usatoday.com/opinion/",
+    "http://www.usatoday.com/weather/",
+    "http://www.usatoday.com/weather/",
+    "http://www.usatoday.com/media/latest/news/",
+    "http://www.usatoday.com/big-page/",
+    "http://www.usatoday.com/ugc/",
+    "http://www.usatoday.com/story/sports/wnba/2013/08/18/san-antonio-silver-stars-phoenix-mercury-seattle-storm-indiana-fever/2668409/#",
+    "http://www.usatoday.com/conversation-guidelines/index.html#signinfaq",
+    "http://www.usatoday.com/conversation-guidelines/index.html#signinfaq",
+    "http://www.usatoday.com/search",
+    "http://www.usatoday.com/story/sports/wnba/2013/08/18/san-antonio-silver-stars-phoenix-mercury-seattle-storm-indiana-fever/2668409/#",
+    "https://twitter.com/intent/tweet?url=http://usat.ly/15ULNDA&text=WNBA%20roundup:%20Silver%20Stars%20rough%20up%20Mercury&via=USATODAY",
+    "https://twitter.com/intent/tweet?url=http://usat.ly/15ULNDA&text=WNBA%20roundup:%20Silver%20Stars%20rough%20up%20Mercury&via=USATODAY",
+    "http://plus.google.com/share?url=http://usat.ly/15ULNDA",
+    "http://www.linkedin.com/shareArticle?url=http://usat.ly/15ULNDA&mini=true",
+    "http://www.usatoday.com/conversation-guidelines/",
+    "https://twitter.com/intent/tweet?url=http://usat.ly/15ULNDA&text=WNBA%20roundup:%20Silver%20Stars%20rough%20up%20Mercury&via=USATODAY",
+    "http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=bask-w/scores/final/boxscore.aspx?gameid=2847",
+    "http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&page=bask-w/scores/final/boxscore.aspx?gameid=2880",
+    "https://twitter.com/intent/tweet?url=http://usat.ly/15ULNDA&text=WNBA%20roundup:%20Silver%20Stars%20rough%20up%20Mercury&via=USATODAY",
+    "http://www.usatoday.com/media/cinematic/video/2664433/cia-area-51-is-real-usa-now-video/",
+    "http://www.usatoday.com/story/sports/wnba/2013/08/18/san-antonio-silver-stars-phoenix-mercury-seattle-storm-indiana-fever/2668409/#"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 29,
+        "left": 178,
+        "top": 5,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://www.gannett-cdn.com/static/usat-web-static-3.9.0/images/sprites/header-sprite.png)",
+        "background-position": "-242px -183px",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(0, 170, 255)",
+        "border-left-color": "rgb(0, 170, 255)",
+        "border-right-color": "rgb(0, 170, 255)",
+        "border-top-color": "rgb(0, 170, 255)",
+        "color": "rgb(0, 170, 255)",
+        "margin-top": "5px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(0, 170, 255)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "position": "static",
+        "text-indent": "105%",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "logo-link",
+        "name": "a"
+      },
+      "html": "USA Today",
+      "path": [
+        "header",
+        "div",
+        "div",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "masthead",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "logo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "logo-link",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "USA Today"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 1360,
+        "top": 24,
+        "width": 30
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "-webkit-linear-gradient(top, rgb(59, 59, 59), rgb(49, 49, 49))",
+        "border-bottom-color": "rgb(25, 25, 25)",
+        "border-bottom-left-radius": "3px",
+        "border-bottom-right-radius": "3px",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(25, 25, 25)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(25, 25, 25)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(25, 25, 25)",
+        "border-top-left-radius": "3px",
+        "border-top-right-radius": "3px",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "box-shadow": "rgba(255, 255, 255, 0.136719) 0px 1px 0px 0px inset, rgba(255, 255, 255, 0.0390625) 0px -1px 0px 0px inset",
+        "box-sizing": "border-box",
+        "color": "rgb(204, 204, 204)",
+        "cursor": "pointer",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "28px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(204, 204, 204)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-left": "10px",
+        "padding-right": "10px",
+        "padding-top": "30px",
+        "position": "absolute",
+        "text-align": "center",
+        "text-shadow": "rgba(0, 0, 0, 0.238281) 0px 1px 0px"
+      },
+      "element": {
+        "classes": [
+          "header-search-close-btn",
+          "ui-btn",
+          "ui-dark"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "X",
+      "path": [
+        "header",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "masthead",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-search-form-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-search-close-btn",
+            "ui-btn",
+            "ui-dark"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "X"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 330,
+        "top": 0,
+        "width": 73
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(0, 155, 255)",
+        "border-bottom-style": "solid",
+        "border-left-color": "rgb(0, 155, 255)",
+        "border-left-style": "solid",
+        "border-right-color": "rgb(0, 155, 255)",
+        "border-right-style": "solid",
+        "border-top-color": "rgb(0, 155, 255)",
+        "border-top-style": "solid",
+        "border-top-width": "3px",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Futura Today Bold', Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "36px",
+        "list-style-type": "none",
+        "margin-left": "-2px",
+        "margin-right": "-1px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "position": "static",
+        "text-shadow": "rgb(0, 0, 0) 0px 1px 0px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "nav-span",
+          "news-span"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "News",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "nav",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "navbar",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "news",
+            "text"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "nav-anchor"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "nav-span",
+            "news-span"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "News"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 403,
+        "top": 0,
+        "width": 81
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(184, 24, 0)",
+        "border-bottom-style": "solid",
+        "border-left-color": "rgb(184, 24, 0)",
+        "border-left-style": "solid",
+        "border-right-color": "rgb(184, 24, 0)",
+        "border-right-style": "solid",
+        "border-top-color": "rgb(184, 24, 0)",
+        "border-top-style": "solid",
+        "border-top-width": "3px",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Futura Today Bold', Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "36px",
+        "list-style-type": "none",
+        "margin-left": "-2px",
+        "margin-right": "-1px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "position": "static",
+        "text-shadow": "rgb(0, 0, 0) 0px 1px 0px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "nav-span",
+          "sports-span"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Sports",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "nav",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "navbar",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "sports",
+            "text"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "nav-anchor"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "nav-span",
+            "sports-span"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Sports"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 484,
+        "top": 0,
+        "width": 62
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(150, 0, 180)",
+        "border-bottom-style": "solid",
+        "border-left-color": "rgb(150, 0, 180)",
+        "border-left-style": "solid",
+        "border-right-color": "rgb(150, 0, 180)",
+        "border-right-style": "solid",
+        "border-top-color": "rgb(150, 0, 180)",
+        "border-top-style": "solid",
+        "border-top-width": "3px",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Futura Today Bold', Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "36px",
+        "list-style-type": "none",
+        "margin-left": "-2px",
+        "margin-right": "-1px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "position": "static",
+        "text-shadow": "rgb(0, 0, 0) 0px 1px 0px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "life-span",
+          "nav-span"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Life",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "nav",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "navbar",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "life",
+            "text"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "nav-anchor"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "life-span",
+            "nav-span"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Life"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 546,
+        "top": 0,
+        "width": 82
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(0, 165, 60)",
+        "border-bottom-style": "solid",
+        "border-left-color": "rgb(0, 165, 60)",
+        "border-left-style": "solid",
+        "border-right-color": "rgb(0, 165, 60)",
+        "border-right-style": "solid",
+        "border-top-color": "rgb(0, 165, 60)",
+        "border-top-style": "solid",
+        "border-top-width": "3px",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Futura Today Bold', Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "36px",
+        "list-style-type": "none",
+        "margin-left": "-2px",
+        "margin-right": "-1px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "position": "static",
+        "text-shadow": "rgb(0, 0, 0) 0px 1px 0px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "money-span",
+          "nav-span"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Money",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "nav",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "navbar",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "money",
+            "text"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "nav-anchor"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "money-span",
+            "nav-span"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Money"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 628,
+        "top": 0,
+        "width": 68
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(250, 95, 0)",
+        "border-bottom-style": "solid",
+        "border-left-color": "rgb(250, 95, 0)",
+        "border-left-style": "solid",
+        "border-right-color": "rgb(250, 95, 0)",
+        "border-right-style": "solid",
+        "border-top-color": "rgb(250, 95, 0)",
+        "border-top-style": "solid",
+        "border-top-width": "3px",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Futura Today Bold', Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "36px",
+        "list-style-type": "none",
+        "margin-left": "-2px",
+        "margin-right": "-1px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "position": "static",
+        "text-shadow": "rgb(0, 0, 0) 0px 1px 0px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "nav-span",
+          "tech-span"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Tech",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "nav",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "navbar",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "tech",
+            "text"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "nav-anchor"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "nav-span",
+            "tech-span"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Tech"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 696,
+        "top": 0,
+        "width": 81
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(0, 195, 195)",
+        "border-bottom-style": "solid",
+        "border-left-color": "rgb(0, 195, 195)",
+        "border-left-style": "solid",
+        "border-right-color": "rgb(0, 195, 195)",
+        "border-right-style": "solid",
+        "border-top-color": "rgb(0, 195, 195)",
+        "border-top-style": "solid",
+        "border-top-width": "3px",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Futura Today Bold', Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "36px",
+        "list-style-type": "none",
+        "margin-left": "-2px",
+        "margin-right": "-1px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "position": "static",
+        "text-shadow": "rgb(0, 0, 0) 0px 1px 0px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "nav-span",
+          "travel-span"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Travel",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "nav",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "navbar",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "text",
+            "travel"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "nav-anchor"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "nav-span",
+            "travel-span"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Travel"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 777,
+        "top": 0,
+        "width": 91
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-bottom-style": "solid",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-left-style": "solid",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-right-style": "solid",
+        "border-top-color": "rgb(102, 102, 102)",
+        "border-top-style": "solid",
+        "border-top-width": "3px",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Futura Today Bold', Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "36px",
+        "list-style-type": "none",
+        "margin-left": "-2px",
+        "margin-right": "-1px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "20px",
+        "padding-right": "20px",
+        "position": "static",
+        "text-shadow": "rgb(0, 0, 0) 0px 1px 0px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "nav-span",
+          "opinion-span"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Opinion",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "nav",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "navbar",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "opinion",
+            "text"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "nav-anchor"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "nav-span",
+            "opinion-span"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Opinion"
+      ]
+    },
+    {
+      "bound": {
+        "height": 36,
+        "left": 881,
+        "top": 2,
+        "width": 70
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Futura Today Bold', Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "36px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "8px",
+        "padding-right": "8px",
+        "position": "static",
+        "text-align": "center",
+        "text-shadow": "rgb(0, 0, 0) 0px 1px 0px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "btn-label"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Weather",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a",
+        "span",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "nav",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "navbar",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "icon",
+            "text",
+            "weather"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "nav-anchor"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "nav-span",
+            "wbtn-wrap"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "btn-label"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Weather"
+      ]
+    },
+    {
+      "bound": {
+        "height": 39,
+        "left": 966,
+        "top": 1,
+        "width": 40
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://www.gannett-cdn.com/static/usat-web-static-3.9.0/images/sprites/header-sprite.png)",
+        "background-position": "-79px -69px",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Futura Today Bold', Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "36px",
+        "list-style-type": "none",
+        "margin-top": "1px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(255, 255, 255)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "position": "static",
+        "text-indent": "105%",
+        "text-shadow": "rgb(0, 0, 0) 0px 1px 0px",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "icon-span"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Media",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "nav",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "navbar",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "icon",
+            "media"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "icon-anchor"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "icon-span"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Media"
+      ]
+    },
+    {
+      "bound": {
+        "height": 39,
+        "left": 1009,
+        "top": 1,
+        "width": 40
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://www.gannett-cdn.com/static/usat-web-static-3.9.0/images/sprites/header-sprite.png)",
+        "background-position": "-347px -71px",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Futura Today Bold', Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "36px",
+        "list-style-type": "none",
+        "margin-top": "1px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(255, 255, 255)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "position": "static",
+        "text-indent": "105%",
+        "text-shadow": "rgb(0, 0, 0) 0px 1px 0px",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "icon-span"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "The Big Page",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "nav",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "navbar",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cover",
+            "icon"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "big-page-link",
+            "icon-anchor"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "icon-span"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "The Big Page"
+      ]
+    },
+    {
+      "bound": {
+        "height": 39,
+        "left": 1306,
+        "top": 1,
+        "width": 40
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://www.gannett-cdn.com/static/usat-web-static-3.9.0/images/sprites/header-sprite.png)",
+        "background-position": "-199px -69px",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "'Futura Today Bold', Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "36px",
+        "list-style-type": "none",
+        "margin-top": "1px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(255, 255, 255)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "position": "static",
+        "text-indent": "105%",
+        "text-shadow": "rgb(0, 0, 0) 0px 1px 0px",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "icon-span"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Search",
+      "path": [
+        "header",
+        "div",
+        "nav",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "header",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fixed-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "nav",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "navbar",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "icon",
+            "search"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "icon-anchor"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "icon-span"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Search"
+      ]
+    },
+    {
+      "bound": {
+        "height": 55,
+        "left": 310,
+        "top": 157,
+        "width": 40
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(189, 189, 189)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "box-shadow": "rgb(226, 227, 229) 0px 1px 1px 0px inset",
+        "color": "rgb(0, 0, 0)",
+        "cursor": "pointer",
+        "font-size": "11px",
+        "font-weight": "bold",
+        "line-height": "15px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(0, 0, 0)",
+        "padding-bottom": "7px",
+        "padding-top": "7px",
+        "text-align": "center",
+        "text-shadow": "rgba(255, 255, 255, 0.699219) 0px 1px 0px"
+      },
+      "element": {
+        "classes": [
+          "util-bar-btn",
+          "util-bar-btn-twitter"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<span class=\"util-bar-share-count util-bar-share-count-twitter\">\n                            1\n                        </span>",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "utility-bar-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "utility-bar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-primary-modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-module",
+            "util-bar-module-share"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-btn",
+            "util-bar-btn-twitter"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "\n                            1\n                        "
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": -675,
+        "top": 50,
+        "width": 416
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "cursor": "default",
+        "font-family": "'Futura Today'",
+        "font-size": "17px",
+        "font-weight": "bold",
+        "line-height": "23px",
+        "margin-right": "10px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static",
+        "text-shadow": "rgb(255, 255, 255) 0px 1px 0px",
+        "text-transform": "uppercase",
+        "visibility": "hidden"
+      },
+      "element": {
+        "classes": [
+          "util-bar-flyout-title",
+          "util-bar-flyout-title-comments"
+        ],
+        "id": "",
+        "name": "h6"
+      },
+      "html": "Join the Nation's Conversation",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h6"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "utility-bar-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "utility-bar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-primary-modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-module",
+            "util-bar-module-comments"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-flyout",
+            "util-bar-flyout-comments"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-flyout-heading",
+            "util-bar-flyout-heading-comments"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-flyout-title",
+            "util-bar-flyout-title-comments"
+          ],
+          "id": "",
+          "name": "h6"
+        }
+      ],
+      "text": [
+        "Join the Nation's Conversation"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": -675,
+        "top": 73,
+        "width": 391
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgba(0, 0, 0, 0.496094)",
+        "border-left-color": "rgba(0, 0, 0, 0.496094)",
+        "border-right-color": "rgba(0, 0, 0, 0.496094)",
+        "border-top-color": "rgba(0, 0, 0, 0.496094)",
+        "color": "rgba(0, 0, 0, 0.496094)",
+        "cursor": "default",
+        "font-size": "12px",
+        "line-height": "16px",
+        "margin-bottom": "9px",
+        "margin-right": "35px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgba(0, 0, 0, 0.496094)",
+        "position": "static",
+        "visibility": "hidden"
+      },
+      "element": {
+        "classes": [
+          "util-bar-flyout-subtitle",
+          "util-bar-flyout-subtitle-comments"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "To find out more about Facebook commenting please read the <a href=\"/conversation-guidelines/\">Conversation Guidelines and FAQs</a>",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "utility-bar-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "utility-bar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-primary-modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-module",
+            "util-bar-module-comments"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-flyout",
+            "util-bar-flyout-comments"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-flyout-heading",
+            "util-bar-flyout-heading-comments"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "util-bar-flyout-subtitle",
+            "util-bar-flyout-subtitle-comments"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "To find out more about Facebook commenting please read the ",
+        "Conversation Guidelines and FAQs"
+      ]
+    },
+    {
+      "bound": {
+        "height": 54,
+        "left": 310,
+        "top": 40,
+        "width": 950
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "helvetica, arial, sans-serif",
+        "font-size": "32px",
+        "font-weight": "bold",
+        "line-height": "34px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "padding-left": "70px",
+        "padding-top": "20px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "WNBA roundup: Silver Stars rough up Mercury",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "WNBA roundup: Silver Stars rough up Mercury"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 381,
+        "top": 121,
+        "width": 36
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "float": "left",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "14px",
+        "margin-bottom": "5px",
+        "margin-top": "6px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "padding-bottom": "2px",
+        "padding-left": "10px",
+        "padding-right": "10px",
+        "padding-top": "2px"
+      },
+      "element": {
+        "classes": [
+          "asset-metabar-author",
+          "asset-metabar-item"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "\n        AP\n    ",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-metabar-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-metabar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-metabar-author",
+            "asset-metabar-item"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "\n        AP\n    "
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 417,
+        "top": 121,
+        "width": 197
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "float": "left",
+        "font-size": "12px",
+        "font-style": "italic",
+        "line-height": "14px",
+        "margin-bottom": "5px",
+        "margin-top": "6px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(153, 153, 153)",
+        "padding-bottom": "2px",
+        "padding-left": "10px",
+        "padding-right": "10px",
+        "padding-top": "2px"
+      },
+      "element": {
+        "classes": [
+          "asset-metabar-item",
+          "asset-metabar-time",
+          "nobyline"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "12:57 a.m. EDT August 18, 2013",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-metabar-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-metabar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-metabar-item",
+            "asset-metabar-time",
+            "nobyline"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "12:57 a.m. EDT August 18, 2013"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 380,
+        "top": 311,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(100, 100, 100)",
+        "border-left-color": "rgb(100, 100, 100)",
+        "border-right-color": "rgb(100, 100, 100)",
+        "border-top-color": "rgb(100, 100, 100)",
+        "color": "rgb(100, 100, 100)",
+        "font-family": "arial, sans-serif",
+        "font-size": "11px",
+        "font-weight": "bold",
+        "line-height": "16px",
+        "margin-top": "6px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(100, 100, 100)",
+        "padding-right": "5px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "image-credit-wrap"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<span class=\"cutline\">Phoenix Mercury center Brittney Griner (42) posts up against San Antonio Silver Stars forward Danielle Adams (23) during the second half at the AT&amp;T center.</span><meta itemprop=\"copyrightHolder\" content=\"bum Im, USA TODAY Sports\"><span class=\"credit\">(Photo: Soobum Im, USA TODAY Sports)</span>",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "aside",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "expandable-collapsed",
+            "single-photo"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "image-credit-wrap"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "(Photo: Soobum Im, USA TODAY Sports)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 380,
+        "top": 363,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(212, 212, 212)",
+        "border-bottom-style": "dotted",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "font-family": "'Futura Today Bold', arial, sans-serif",
+        "font-size": "12px",
+        "line-height": "25px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(153, 153, 153)",
+        "position": "static",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "hlts"
+        ],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Story Highlights",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "aside",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comp",
+            "story-highlights"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "hlts"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Story Highlights"
+      ]
+    },
+    {
+      "bound": {
+        "height": 89,
+        "left": 380,
+        "top": 389,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://www.gannett-cdn.com/static/usat-web-static-3.9.0/images/components/story_highlights_bullets.png)",
+        "background-position": "0px 17px",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(212, 212, 212)",
+        "border-bottom-style": "dotted",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(100, 100, 100)",
+        "border-right-color": "rgb(100, 100, 100)",
+        "border-top-color": "rgb(100, 100, 100)",
+        "color": "rgb(100, 100, 100)",
+        "display": "list-item",
+        "font-family": "arial, sans-serif",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(100, 100, 100)",
+        "padding-bottom": "12px",
+        "padding-left": "15px",
+        "padding-top": "12px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "hlt-item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "The Silver Stars handed the Mercury their first loss since interim coach Russ Pennell took over",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "aside",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comp",
+            "story-highlights"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "hlt"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "hlt-item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "The Silver Stars handed the Mercury their first loss since interim coach Russ Pennell took over"
+      ]
+    },
+    {
+      "bound": {
+        "height": 73,
+        "left": 380,
+        "top": 478,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://www.gannett-cdn.com/static/usat-web-static-3.9.0/images/components/story_highlights_bullets.png)",
+        "background-position": "0px 17px",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(212, 212, 212)",
+        "border-bottom-style": "dotted",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(100, 100, 100)",
+        "border-right-color": "rgb(100, 100, 100)",
+        "border-top-color": "rgb(100, 100, 100)",
+        "color": "rgb(100, 100, 100)",
+        "display": "list-item",
+        "font-family": "arial, sans-serif",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(100, 100, 100)",
+        "padding-bottom": "12px",
+        "padding-left": "15px",
+        "padding-top": "12px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "hlt-item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "Danielle Adams and Danielle Robinson scored 20 points each for the Silver Stars",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "aside",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comp",
+            "story-highlights"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "hlt"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "hlt-item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Danielle Adams and Danielle Robinson scored 20 points each for the Silver Stars"
+      ]
+    },
+    {
+      "bound": {
+        "height": 72,
+        "left": 380,
+        "top": 551,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://www.gannett-cdn.com/static/usat-web-static-3.9.0/images/components/story_highlights_bullets.png)",
+        "background-position": "0px 17px",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(100, 100, 100)",
+        "border-left-color": "rgb(100, 100, 100)",
+        "border-right-color": "rgb(100, 100, 100)",
+        "border-top-color": "rgb(100, 100, 100)",
+        "color": "rgb(100, 100, 100)",
+        "display": "list-item",
+        "font-family": "arial, sans-serif",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(100, 100, 100)",
+        "padding-bottom": "12px",
+        "padding-left": "15px",
+        "padding-top": "12px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "hlt-item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "Tina Thompson scored 23 points to lead the Storm past the Fever",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "aside",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comp",
+            "story-highlights"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "hlt"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "hlt-item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Tina Thompson scored 23 points to lead the Storm past the Fever"
+      ]
+    },
+    {
+      "bound": {
+        "height": 28,
+        "left": 590,
+        "top": 169,
+        "width": 54
+      },
+      "computed": {
+        "background-color": "rgb(224, 224, 224)",
+        "background-image": "url(http://www.gannett-cdn.com/static/usat-web-static-3.9.0/images/components/utility-bar-noise.png)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "box-shadow": "rgba(0, 0, 0, 0.0976562) -2px 0px 4px -1px inset",
+        "color": "rgb(51, 51, 51)",
+        "display": "inline-block",
+        "font-family": "'Futura Today Bold', Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "28px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "text-align": "center",
+        "text-shadow": "rgba(255, 255, 255, 0.496094) 0px 1px 0px",
+        "vertical-align": "top",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-tools-label"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "SHARE",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-top",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-tools-label"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "SHARE"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 654,
+        "top": 188,
+        "width": 40
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "pointer",
+        "font-family": "arial, sans-serif",
+        "font-size": "8px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(153, 153, 153)",
+        "text-align": "center",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-btn-label",
+          "inline-share-btn-label-facebook"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "CONNECT",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "span",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-top",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-btn",
+            "inline-share-btn-facebook"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "inline-share-btn-label",
+            "inline-share-btn-label-facebook"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "CONNECT"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 715,
+        "top": 168,
+        "width": 29
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "cursor": "pointer",
+        "font-family": "'Futura Today Bold', arial, sans-serif",
+        "font-size": "12px",
+        "line-height": "18px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static",
+        "text-align": "center",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-count",
+          "inline-share-count-twitter"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "\n            1\n        ",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-top",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-btn",
+            "inline-share-btn-twitter"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "inline-share-count",
+            "inline-share-count-twitter"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "\n            1\n        "
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 715,
+        "top": 189,
+        "width": 29
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "pointer",
+        "font-family": "arial, sans-serif",
+        "font-size": "8px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(153, 153, 153)",
+        "text-align": "center",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-btn-label",
+          "inline-share-btn-label-twitter"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "TWEET",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-top",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-btn",
+            "inline-share-btn-twitter"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "inline-share-btn-label",
+            "inline-share-btn-label-twitter"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "TWEET"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 765,
+        "top": 190,
+        "width": 42
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "pointer",
+        "font-family": "arial, sans-serif",
+        "font-size": "8px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(153, 153, 153)",
+        "text-align": "center",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-btn-label",
+          "inline-share-btn-label-comments"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "COMMENT",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "span",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-top",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-btn",
+            "inline-share-btn-comments"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "inline-share-btn-label",
+            "inline-share-btn-label-comments"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "COMMENT"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 828,
+        "top": 189,
+        "width": 24
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "pointer",
+        "font-family": "arial, sans-serif",
+        "font-size": "8px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(153, 153, 153)",
+        "text-align": "center",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-btn-label",
+          "inline-share-btn-label-email"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "EMAIL",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "span",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-top",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-btn",
+            "inline-share-btn-email"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "inline-share-btn-label",
+            "inline-share-btn-label-email"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "EMAIL"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 873,
+        "top": 188,
+        "width": 24
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "pointer",
+        "font-family": "arial, sans-serif",
+        "font-size": "8px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(153, 153, 153)",
+        "text-align": "center",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-btn-label",
+          "inline-share-btn-label-more"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "MORE",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "span",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-top",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-btn",
+            "inline-share-btn-more"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "inline-share-btn-label",
+            "inline-share-btn-label-more"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "MORE"
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 380,
+        "top": 217,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "SAN ANTONIO (AP) — Danielle Adams and Danielle Robinson scored 20 points each and the San Antonio Silver Stars beat Phoenix 88-82 on Saturday night, handing the Mercury their first loss under interim coach Russ Pennell.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "SAN ANTONIO (AP) — Danielle Adams and Danielle Robinson scored 20 points each and the San Antonio Silver Stars beat Phoenix 88-82 on Saturday night, handing the Mercury their first loss under interim coach Russ Pennell."
+      ]
+    },
+    {
+      "bound": {
+        "height": 132,
+        "left": 380,
+        "top": 342,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Jia Perkins added 17 points and Shenise Johnson had 15 for San Antonio (9-15). Robinson, sporting a pink Mohawk in honor of the team's Breast Cancer Awareness Night, also had eight assists while going 10 for 11 on free throws in a chippy contest between the Western Conference rivals.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Jia Perkins added 17 points and Shenise Johnson had 15 for San Antonio (9-15). Robinson, sporting a pink Mohawk in honor of the team's Breast Cancer Awareness Night, also had eight assists while going 10 for 11 on free throws in a chippy contest between the Western Conference rivals."
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 380,
+        "top": 489,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Diana Taurasi scored 23 points, Charde Houston had 15, Brittney Giner added 11 and Candice Dupree 10 for Phoenix (13-12), which had won three straight since Pennell replaced Corey Gaines on Aug. 8.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Diana Taurasi scored 23 points, Charde Houston had 15, Brittney Giner added 11 and Candice Dupree 10 for Phoenix (13-12), which had won three straight since Pennell replaced Corey Gaines on Aug. 8."
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 380,
+        "top": 614,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<b>BOX SCORE: </b><a href=\"http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&amp;page=bask-w/scores/final/boxscore.aspx?gameid=2847\" title=\"http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&amp;page=bask-w/scores/final/boxscore.aspx?gameid=2847\">Silver Stars 88, Mercury 82</a>",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "BOX SCORE: ",
+        "Silver Stars 88, Mercury 82"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 380,
+        "top": 651,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Phoenix had 44 points in the paint compared to 28 by San Antonio, but the Silver Stars' backcourt dominated their Mercury counterparts.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Phoenix had 44 points in the paint compared to 28 by San Antonio, but the Silver Stars' backcourt dominated their Mercury counterparts."
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 380,
+        "top": 710,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Perkins and Robinson led a 14-4 run to close the first quarter, using their quickness to outwork the Mercury. Perkins hit an 18-foot jumper and a 3-pointer and Robinson had a layup after passing to Catherine Kraayeveld for a breakaway layup. Shameka Christon closed the quarter by rattling in a 3-pointer at the buzzer to give San Antonio a 23-13 lead.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Perkins and Robinson led a 14-4 run to close the first quarter, using their quickness to outwork the Mercury. Perkins hit an 18-foot jumper and a 3-pointer and Robinson had a layup after passing to Catherine Kraayeveld for a breakaway layup. Shameka Christon closed the quarter by rattling in a 3-pointer at the buzzer to give San Antonio a 23-13 lead."
+      ]
+    },
+    {
+      "bound": {
+        "height": 88,
+        "left": 380,
+        "top": 835,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Taurasi took matters into her own hands in the second quarter after complaining of a lack of calls. She made two 3-pointers and drove for an open layup after nearly flooring Robinson with a shoulder. Taurasi's run pulled Phoenix within 45-33 with 1:23 left in the first half, but the points did little to quell the fiery play.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Taurasi took matters into her own hands in the second quarter after complaining of a lack of calls. She made two 3-pointers and drove for an open layup after nearly flooring Robinson with a shoulder. Taurasi's run pulled Phoenix within 45-33 with 1:23 left in the first half, but the points did little to quell the fiery play."
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 380,
+        "top": 938,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Robinson and Alexis Hornbuckle were twice warned by officials, \"watch it you two,\" after grabbing and pulling on each other while fighting through a series of picks. Robinson picked up her dribble to call time late in the first half, but Hornbuckle attempted to reach around for a steal, prompting the Silver Stars' point guard to throw an elbow that just missed Hornbuckle's head.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Robinson and Alexis Hornbuckle were twice warned by officials, \"watch it you two,\" after grabbing and pulling on each other while fighting through a series of picks. Robinson picked up her dribble to call time late in the first half, but Hornbuckle attempted to reach around for a steal, prompting the Silver Stars' point guard to throw an elbow that just missed Hornbuckle's head."
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 380,
+        "top": 1063,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Robinson hit the court hard in the third quarter after being undercut by Houston on a layup, but quickly rose after rolling over in pain. She was nearly floored again later in the quarter after being struck in the neck on a full sprint when Lynetta Kizer stuck her arm out and nearly clotheslined her. Neither was ruled a flagrant foul despite the protests of the Silver Stars' bench.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Robinson hit the court hard in the third quarter after being undercut by Houston on a layup, but quickly rose after rolling over in pain. She was nearly floored again later in the quarter after being struck in the neck on a full sprint when Lynetta Kizer stuck her arm out and nearly clotheslined her. Neither was ruled a flagrant foul despite the protests of the Silver Stars' bench."
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 380,
+        "top": 1188,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<b>Thompson powers Storm past Fever</b>",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Thompson powers Storm past Fever"
+      ]
+    },
+    {
+      "bound": {
+        "height": 66,
+        "left": 380,
+        "top": 1225,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "SEATTLE (AP) — Tina Thompson scored 14 of her 23 points in the second half to lead the Seattle Storm in a 77-70 win over the defending champion Indiana Fever on Saturday night.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "SEATTLE (AP) — Tina Thompson scored 14 of her 23 points in the second half to lead the Seattle Storm in a 77-70 win over the defending champion Indiana Fever on Saturday night."
+      ]
+    },
+    {
+      "bound": {
+        "height": 66,
+        "left": 380,
+        "top": 1306,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Tanisha Wright added 16 points and Shekinna Stricklen 15 for Seattle (11-13), which has won two of three and remained two games ahead of San Antonio for the fourth and final playoff spot in the Western Conference.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Tanisha Wright added 16 points and Shekinna Stricklen 15 for Seattle (11-13), which has won two of three and remained two games ahead of San Antonio for the fourth and final playoff spot in the Western Conference."
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 380,
+        "top": 1387,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Tamika Catchings had 21 points for Indiana (11-14), which has lost three straight and four of five. Briann January scored 17 points and Eriana Larkins added 14 points and nine rebounds. The Fever fell one game behind third-place Washington in the Eastern Conference, and had their lead over fifth-place New York trimmed to one-half game.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Tamika Catchings had 21 points for Indiana (11-14), which has lost three straight and four of five. Briann January scored 17 points and Eriana Larkins added 14 points and nine rebounds. The Fever fell one game behind third-place Washington in the Eastern Conference, and had their lead over fifth-place New York trimmed to one-half game."
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 380,
+        "top": 1512,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<b>BOX SCORE: </b><a href=\"http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&amp;page=bask-w/scores/final/boxscore.aspx?gameid=2880\" title=\"http://www.sportsnetwork.com/merge/tsnform.aspx?c=usatoday&amp;page=bask-w/scores/final/boxscore.aspx?gameid=2880\">Storm 77, Fever 70</a>",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "BOX SCORE: ",
+        "Storm 77, Fever 70"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 380,
+        "top": 1549,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "The Storm beat the Fever for the first time since 2011, snapping a four-game losing streak, and evened their home record to 6-6 this season.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "The Storm beat the Fever for the first time since 2011, snapping a four-game losing streak, and evened their home record to 6-6 this season."
+      ]
+    },
+    {
+      "bound": {
+        "height": 66,
+        "left": 380,
+        "top": 1608,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Thompson scored nine, and Stricklen and Wright each had eight to help the Storm to a 40-39 halftime lead. Seattle led by 11 early in the second quarter before the Fever rallied to take a one-point lead late in the period.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Thompson scored nine, and Stricklen and Wright each had eight to help the Storm to a 40-39 halftime lead. Seattle led by 11 early in the second quarter before the Fever rallied to take a one-point lead late in the period."
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 380,
+        "top": 1689,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Larkins scored 13 and Catchings 11 to lead the Fever in the first half.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Larkins scored 13 and Catchings 11 to lead the Fever in the first half."
+      ]
+    },
+    {
+      "bound": {
+        "height": 88,
+        "left": 380,
+        "top": 1726,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "In the third quarter, Thompson became the third WNBA player to reach 3,000 career rebounds. Thompson, the league's all-time leading scorer and only player to have appeared in each of the WNBA's 17 seasons, trails just Lisa Leslie (3,307) and Taj McWilliams-Franklin (3,013).",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "In the third quarter, Thompson became the third WNBA player to reach 3,000 career rebounds. Thompson, the league's all-time leading scorer and only player to have appeared in each of the WNBA's 17 seasons, trails just Lisa Leslie (3,307) and Taj McWilliams-Franklin (3,013)."
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 380,
+        "top": 1829,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Indiana starting guard Shavonte Zellous, who averages 15 points per game, missed her fourth straight game with plantar fasciitis.",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Indiana starting guard Shavonte Zellous, who averages 15 points per game, missed her fourth straight game with plantar fasciitis."
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 380,
+        "top": 1888,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "60px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<em>Copyright 2013 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</em>",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Copyright 2013 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed."
+      ]
+    },
+    {
+      "bound": {
+        "height": 28,
+        "left": 380,
+        "top": 1958,
+        "width": 54
+      },
+      "computed": {
+        "background-color": "rgb(224, 224, 224)",
+        "background-image": "url(http://www.gannett-cdn.com/static/usat-web-static-3.9.0/images/components/utility-bar-noise.png)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "box-shadow": "rgba(0, 0, 0, 0.0976562) -2px 0px 4px -1px inset",
+        "color": "rgb(51, 51, 51)",
+        "display": "inline-block",
+        "font-family": "'Futura Today Bold', Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "28px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "text-align": "center",
+        "text-shadow": "rgba(255, 255, 255, 0.496094) 0px 1px 0px",
+        "vertical-align": "top",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-tools-label"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "SHARE",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-bottom",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-tools-label"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "SHARE"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 444,
+        "top": 1977,
+        "width": 40
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "pointer",
+        "font-family": "arial, sans-serif",
+        "font-size": "8px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(153, 153, 153)",
+        "text-align": "center",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-btn-label",
+          "inline-share-btn-label-facebook"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "CONNECT",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "span",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-bottom",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-btn",
+            "inline-share-btn-facebook"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "inline-share-btn-label",
+            "inline-share-btn-label-facebook"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "CONNECT"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 505,
+        "top": 1957,
+        "width": 29
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "cursor": "pointer",
+        "font-family": "'Futura Today Bold', arial, sans-serif",
+        "font-size": "12px",
+        "line-height": "18px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static",
+        "text-align": "center",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-count",
+          "inline-share-count-twitter"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "\n            1\n        ",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-bottom",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-btn",
+            "inline-share-btn-twitter"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "inline-share-count",
+            "inline-share-count-twitter"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "\n            1\n        "
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 505,
+        "top": 1978,
+        "width": 29
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "pointer",
+        "font-family": "arial, sans-serif",
+        "font-size": "8px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(153, 153, 153)",
+        "text-align": "center",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-btn-label",
+          "inline-share-btn-label-twitter"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "TWEET",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-bottom",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-btn",
+            "inline-share-btn-twitter"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "inline-share-btn-label",
+            "inline-share-btn-label-twitter"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "TWEET"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 555,
+        "top": 1979,
+        "width": 42
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "pointer",
+        "font-family": "arial, sans-serif",
+        "font-size": "8px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(153, 153, 153)",
+        "text-align": "center",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-btn-label",
+          "inline-share-btn-label-comments"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "COMMENT",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "span",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-bottom",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-btn",
+            "inline-share-btn-comments"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "inline-share-btn-label",
+            "inline-share-btn-label-comments"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "COMMENT"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 618,
+        "top": 1978,
+        "width": 24
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "pointer",
+        "font-family": "arial, sans-serif",
+        "font-size": "8px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(153, 153, 153)",
+        "text-align": "center",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-btn-label",
+          "inline-share-btn-label-email"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "EMAIL",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "span",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-bottom",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-btn",
+            "inline-share-btn-email"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "inline-share-btn-label",
+            "inline-share-btn-label-email"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "EMAIL"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 663,
+        "top": 1977,
+        "width": 24
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "cursor": "pointer",
+        "font-family": "arial, sans-serif",
+        "font-size": "8px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(153, 153, 153)",
+        "text-align": "center",
+        "text-transform": "uppercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "inline-share-btn-label",
+          "inline-share-btn-label-more"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "MORE",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "p",
+        "span",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset-inline-share-tools",
+            "asset-inline-share-tools-bottom",
+            "inline-share-tools"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "inline-share-btn",
+            "inline-share-btn-more"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "inline-share-btn-label",
+            "inline-share-btn-label-more"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "MORE"
+      ]
+    },
+    {
+      "bound": {
+        "height": 67,
+        "left": 940,
+        "top": 206,
+        "width": 320
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://www.gannett-cdn.com/static/usat-web-static-3.9.0/images/components/story-updates-bg.png)",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "float": "left",
+        "font-family": "'Futura Today Bold', arial, sans-serif",
+        "font-size": "12px",
+        "line-height": "16px",
+        "margin-top": "8px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-top": "7px",
+        "text-align": "center",
+        "text-shadow": "rgba(0, 0, 0, 0.148438) 0px 1px 1px",
+        "text-transform": "uppercase",
+        "z-index": "170"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h6"
+      },
+      "html": "\nUSA NOW\n",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "aside",
+        "div",
+        "h6"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "right"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "comp",
+            "ribbon-module"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h6"
+        }
+      ],
+      "text": [
+        "\nUSA NOW\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 961,
+        "top": 441,
+        "width": 278
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "arial, sans-serif",
+        "font-size": "14px",
+        "font-weight": "bold",
+        "line-height": "18px",
+        "margin-left": "20px",
+        "margin-right": "20px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "usanow-vid-title"
+        ],
+        "id": "",
+        "name": "h5"
+      },
+      "html": "CIA: Area 51 is real | USA NOW video",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "aside",
+        "div",
+        "div",
+        "h5"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "right"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "comp",
+            "ribbon-module"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "light-shade"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "usanow-vid-title"
+          ],
+          "id": "",
+          "name": "h5"
+        }
+      ],
+      "text": [
+        "CIA: Area 51 is real | USA NOW video"
+      ]
+    },
+    {
+      "bound": {
+        "height": 14,
+        "left": 961,
+        "top": 464,
+        "width": 278
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(120, 120, 120)",
+        "border-left-color": "rgb(120, 120, 120)",
+        "border-right-color": "rgb(120, 120, 120)",
+        "border-top-color": "rgb(120, 120, 120)",
+        "color": "rgb(120, 120, 120)",
+        "font-family": "arial, sans-serif",
+        "font-size": "12px",
+        "line-height": "14px",
+        "margin-bottom": "15px",
+        "margin-left": "20px",
+        "margin-right": "20px",
+        "margin-top": "5px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(120, 120, 120)",
+        "position": "static",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "usanow-vid-date"
+        ],
+        "id": "",
+        "name": "h5"
+      },
+      "html": "Aug 16, 2013",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "aside",
+        "div",
+        "div",
+        "h5"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "right"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "comp",
+            "ribbon-module"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "light-shade"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "usanow-vid-date"
+          ],
+          "id": "",
+          "name": "h5"
+        }
+      ],
+      "text": [
+        "Aug 16, 2013"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 380,
+        "top": 2049,
+        "width": 190
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "float": "left",
+        "font-family": "'Futura Today Bold', sans-serif",
+        "line-height": "normal",
+        "margin-top": "22px",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(51, 51, 51)",
+        "position": "static",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "more-stories"
+        ],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "More Stories:",
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "more",
+            "more-stories-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "more-stories-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "more-stories"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "More Stories:"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 131,
+        "left": 383,
+        "top": 171,
+        "width": 174
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "cursor": "pointer",
+        "display": "inline",
+        "max-width": "100%",
+        "min-height": "131px",
+        "min-width": "0px",
+        "position": "static",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "expand-img-horiz"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "aside",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "expandable-collapsed",
+            "single-photo"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "image-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "expand-img-horiz"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.gannett-cdn.com/-mm-/66019fb206e1b3147c6ad5323043b1b20af81b8b/c=0-734-3840-3614&r=x404&c=534x401/local/-/media/USATODAY/USATODAY/2013/08/18/1376801547000-USP-20130817-lbm-ai1-245.JPG"
+    },
+    {
+      "bound": {
+        "height": 156,
+        "left": 961,
+        "top": 280,
+        "width": 280
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "border-bottom-color": "rgb(0, 170, 255)",
+        "border-left-color": "rgb(0, 170, 255)",
+        "border-right-color": "rgb(0, 170, 255)",
+        "border-top-color": "rgb(0, 170, 255)",
+        "color": "rgb(0, 170, 255)",
+        "display": "inline",
+        "min-height": "0px",
+        "min-width": "0px",
+        "outline-color": "rgb(0, 170, 255)",
+        "position": "static",
+        "text-align": "center",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "thumb-img"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "article",
+        "aside",
+        "div",
+        "div",
+        "div",
+        "a",
+        "span",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "right"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "comp",
+            "ribbon-module"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "light-shade"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "usanow-vid-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "media-list-link"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "thumbnail"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "thumb-img"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.gannett-cdn.com/-mm-/9eef7679603c8ad07f8d41160a412115caf9e5b5/r=x159&c=280x156/local/-/media/USATODAY/USATODAY/2013/08/16/1376665295000-USA-NOW-Area-51.jpg"
+    }
+  ]
+}

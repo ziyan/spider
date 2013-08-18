@@ -246,10 +246,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fthetwo-way%2F2013%2F08%2F08%2F210092385%2Fburglars-return-loot-to-group-that-helps-sex-assault-victims",
     "http://www.npr.org/about/place/corpsupport/",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/15/212351861/ford-expected-to-lower-mileage-rating-on-its-c-max-hybrid",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/15/211755611/meet-the-olinguito-the-newest-member-of-the-raccoon-family",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/15/212327280/zoo-in-china-swaps-lion-for-dog-hopes-no-one-notices",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/15/212312070/obama-played-cards-the-day-bin-laden-was-killed-important",
+    "http://www.npr.org/blogs/thetwo-way/2013/08/17/212979151/kansas-city-infielder-miguel-tejada-supended-for-drug-use",
+    "http://www.npr.org/blogs/thetwo-way/2013/08/17/212971675/fire-threatens-celebrity-resorts-homes-in-idaho",
+    "http://www.npr.org/blogs/thetwo-way/2013/08/17/212931545/alabama-tops-aps-preseason-football-poll",
+    "http://www.npr.org/blogs/thetwo-way/2013/08/17/212915681/mid-atlantic-dolphin-die-off-leaves-scientists-puzzled",
     "http://www.npr.org/blogs/thetwo-way/",
     "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -6478,7 +6478,7 @@
         "id": "",
         "name": "h2"
       },
-      "html": "Business",
+      "html": "Sports",
       "path": [
         "div",
         "div",
@@ -6531,7 +6531,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212351861",
+          "id": "story212979151",
           "name": "article"
         },
         {
@@ -6555,7 +6555,7 @@
         }
       ],
       "text": [
-        "Business"
+        "Sports"
       ]
     },
     {
@@ -6584,7 +6584,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Ford Expected To Lower Mileage Rating On Its C-Max Hybrid",
+      "html": "K.C. Royals' Miguel Tejada Suspended 105 Games For Drug Use",
       "path": [
         "div",
         "div",
@@ -6637,7 +6637,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212351861",
+          "id": "story212979151",
           "name": "article"
         },
         {
@@ -6659,7 +6659,7 @@
         }
       ],
       "text": [
-        "Ford Expected To Lower Mileage Rating On Its C-Max Hybrid"
+        "K.C. Royals' Miguel Tejada Suspended 105 Games For Drug Use"
       ]
     },
     {
@@ -6692,7 +6692,7 @@
         "id": "",
         "name": "h2"
       },
-      "html": "Animals",
+      "html": "U.S.",
       "path": [
         "div",
         "div",
@@ -6745,7 +6745,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story211755611",
+          "id": "story212971675",
           "name": "article"
         },
         {
@@ -6769,7 +6769,7 @@
         }
       ],
       "text": [
-        "Animals"
+        "U.S."
       ]
     },
     {
@@ -6798,7 +6798,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Meet The Olinguito, The Newest Member Of The Raccoon Family",
+      "html": "Fire Threatens Celebrity Resort Homes In Idaho",
       "path": [
         "div",
         "div",
@@ -6851,7 +6851,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story211755611",
+          "id": "story212971675",
           "name": "article"
         },
         {
@@ -6873,7 +6873,7 @@
         }
       ],
       "text": [
-        "Meet The Olinguito, The Newest Member Of The Raccoon Family"
+        "Fire Threatens Celebrity Resort Homes In Idaho"
       ]
     },
     {
@@ -6906,7 +6906,7 @@
         "id": "",
         "name": "h2"
       },
-      "html": "Asia",
+      "html": "Sports",
       "path": [
         "div",
         "div",
@@ -6959,7 +6959,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212327280",
+          "id": "story212931545",
           "name": "article"
         },
         {
@@ -6983,7 +6983,7 @@
         }
       ],
       "text": [
-        "Asia"
+        "Sports"
       ]
     },
     {
@@ -7012,7 +7012,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Zoo In China Swaps Lion For Dog, Hopes No One Notices",
+      "html": "Alabama Tops Associated Press' Preseason Football Poll",
       "path": [
         "div",
         "div",
@@ -7065,7 +7065,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212327280",
+          "id": "story212931545",
           "name": "article"
         },
         {
@@ -7087,7 +7087,7 @@
         }
       ],
       "text": [
-        "Zoo In China Swaps Lion For Dog, Hopes No One Notices"
+        "Alabama Tops Associated Press' Preseason Football Poll"
       ]
     },
     {
@@ -8849,7 +8849,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212351861",
+          "id": "story212979151",
           "name": "article"
         },
         {
@@ -8870,7 +8870,7 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/15/155789730_sq-88b39b138ea934cfa7325227bd3266ab21fecf78.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/17/175958131_sq-d470a5fb075ffa266c9632c6409274f4613798f9.jpg?s=16"
     },
     {
       "bound": {
@@ -8948,7 +8948,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story211755611",
+          "id": "story212971675",
           "name": "article"
         },
         {
@@ -8969,7 +8969,7 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/15/olinguito_sq-82d48783c3b94c888e10d7506369b97a1c5d90dd.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/17/ap762623699644_sq-560fa61bcd366b1e26836fc5c91d28ba666a5187.jpg?s=16"
     },
     {
       "bound": {
@@ -9047,7 +9047,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212327280",
+          "id": "story212931545",
           "name": "article"
         },
         {
@@ -9068,7 +9068,7 @@
           "name": "img"
         }
       ],
-      "src": "http://media.npr.org/assets/img/2013/08/15/163397356_sq-6711a74a967d0ef0ab0ddba65b6ef0d06d73c308.jpg?s=16"
+      "src": "http://media.npr.org/assets/img/2013/08/17/ap896372828220_sq-54838ceb0f4837abdc68ae1932f5bb8cc5a745dc.jpg?s=16"
     },
     {
       "bound": {

@@ -215,10 +215,10 @@
     "http://www.npr.org/templates/reg/logout.php",
     "http://www.npr.org/templates/reg/login.php?returnUrl=http%3A%2F%2Fwww.npr.org%2F2013%2F08%2F09%2F210253451%2Fthe-changing-story-of-teens-and-cars",
     "http://www.npr.org/about/place/corpsupport/",
-    "http://www.npr.org/blogs/thetwo-way/2013/08/15/212351861/ford-expected-to-lower-mileage-rating-on-its-c-max-hybrid",
-    "http://www.npr.org/blogs/thesalt/2013/08/15/212342707/can-quinoa-farming-go-global-without-leaving-andeans-behind",
-    "http://www.npr.org/templates/story/story.php?storyId=212356269",
-    "http://www.npr.org/templates/story/story.php?storyId=212356266",
+    "http://www.npr.org/blogs/alltechconsidered/2013/08/16/212678437/switching-to-gmail-may-leave-reporters-sources-at-risk",
+    "http://www.npr.org/templates/story/story.php?storyId=212692343",
+    "http://www.npr.org/templates/story/story.php?storyId=212692335",
+    "http://www.npr.org/templates/story/story.php?storyId=212603794",
     "http://www.npr.org/sections/business/",
     "http://www.npr.org/2013/08/09/210253451/the-changing-story-of-teens-and-cars#",
     "http://shop.npr.org/?utm_source=Banners&utm_medium=ResponsiveAd&utm_content=General&utm_campaign=300x150",
@@ -5897,7 +5897,223 @@
         "height": 12,
         "left": 1303,
         "top": 225,
-        "width": 158
+        "width": 252
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(188, 202, 229)",
+        "border-left-color": "rgb(188, 202, 229)",
+        "border-right-color": "rgb(188, 202, 229)",
+        "border-top-color": "rgb(188, 202, 229)",
+        "color": "rgb(188, 202, 229)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "15px",
+        "margin-top": "5px",
+        "outline-color": "rgb(188, 202, 229)",
+        "position": "static",
+        "text-transform": "lowercase"
+      },
+      "element": {
+        "classes": [
+          "slug"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Technology",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212678437",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "noimg",
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Technology"
+      ]
+    },
+    {
+      "bound": {
+        "height": 36,
+        "left": 1303,
+        "top": 252,
+        "width": 252
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "Georgia, serif",
+        "font-size": "15px",
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(0, 0, 0)",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Switching To Gmail May Leave Reporters' Sources At Risk",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "section",
+        "div",
+        "article",
+        "a",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "story212678437",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "noimg",
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Switching To Gmail May Leave Reporters' Sources At Risk"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 1303,
+        "top": 333,
+        "width": 252
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -5975,7 +6191,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212351861",
+          "id": "story212692343",
           "name": "article"
         },
         {
@@ -5985,6 +6201,7 @@
         },
         {
           "classes": [
+            "noimg",
             "storyinfo"
           ],
           "id": "",
@@ -6004,10 +6221,10 @@
     },
     {
       "bound": {
-        "height": 54,
+        "height": 36,
         "left": 1303,
-        "top": 252,
-        "width": 158
+        "top": 360,
+        "width": 252
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -6028,7 +6245,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Ford Expected To Lower Mileage Rating On Its C-Max Hybrid",
+      "html": "Internet-Based TV Service May Not Change The Cable Market",
       "path": [
         "div",
         "div",
@@ -6081,7 +6298,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212351861",
+          "id": "story212692343",
           "name": "article"
         },
         {
@@ -6091,6 +6308,7 @@
         },
         {
           "classes": [
+            "noimg",
             "storyinfo"
           ],
           "id": "",
@@ -6103,228 +6321,14 @@
         }
       ],
       "text": [
-        "Ford Expected To Lower Mileage Rating On Its C-Max Hybrid"
+        "Internet-Based TV Service May Not Change The Cable Market"
       ]
     },
     {
       "bound": {
         "height": 12,
         "left": 1303,
-        "top": 352,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(188, 202, 229)",
-        "border-left-color": "rgb(188, 202, 229)",
-        "border-right-color": "rgb(188, 202, 229)",
-        "border-top-color": "rgb(188, 202, 229)",
-        "color": "rgb(188, 202, 229)",
-        "font-size": "12px",
-        "font-weight": "bold",
-        "line-height": "12px",
-        "margin-bottom": "15px",
-        "margin-top": "5px",
-        "outline-color": "rgb(188, 202, 229)",
-        "position": "static",
-        "text-transform": "lowercase"
-      },
-      "element": {
-        "classes": [
-          "slug"
-        ],
-        "id": "",
-        "name": "h2"
-      },
-      "html": "Food",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h2"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212342707",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "slug"
-          ],
-          "id": "",
-          "name": "h2"
-        }
-      ],
-      "text": [
-        "Food"
-      ]
-    },
-    {
-      "bound": {
-        "height": 54,
-        "left": 1303,
-        "top": 379,
-        "width": 158
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(0, 0, 0)",
-        "border-left-color": "rgb(0, 0, 0)",
-        "border-right-color": "rgb(0, 0, 0)",
-        "border-top-color": "rgb(0, 0, 0)",
-        "color": "rgb(0, 0, 0)",
-        "font-family": "Georgia, serif",
-        "font-size": "15px",
-        "line-height": "18px",
-        "margin-bottom": "10px",
-        "outline-color": "rgb(0, 0, 0)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "Can Quinoa Farming Go Global Without Leaving Andeans Behind?",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212342707",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyinfo"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "Can Quinoa Farming Go Global Without Leaving Andeans Behind?"
-      ]
-    },
-    {
-      "bound": {
-        "height": 12,
-        "left": 1303,
-        "top": 478,
+        "top": 441,
         "width": 252
       },
       "computed": {
@@ -6350,7 +6354,7 @@
         "id": "",
         "name": "h2"
       },
-      "html": "Economy",
+      "html": "Business",
       "path": [
         "div",
         "div",
@@ -6403,7 +6407,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212356269",
+          "id": "story212692335",
           "name": "article"
         },
         {
@@ -6428,14 +6432,14 @@
         }
       ],
       "text": [
-        "Economy"
+        "Business"
       ]
     },
     {
       "bound": {
         "height": 36,
         "left": 1303,
-        "top": 505,
+        "top": 468,
         "width": 252
       },
       "computed": {
@@ -6457,7 +6461,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Fears Of A Diminished Stimulus Send Stock Market Falling",
+      "html": "Why Do Cargo Planes Have Spottier Safety Records?",
       "path": [
         "div",
         "div",
@@ -6510,7 +6514,7 @@
             "clearfix",
             "story"
           ],
-          "id": "story212356269",
+          "id": "story212692335",
           "name": "article"
         },
         {
@@ -6533,14 +6537,14 @@
         }
       ],
       "text": [
-        "Fears Of A Diminished Stimulus Send Stock Market Falling"
+        "Why Do Cargo Planes Have Spottier Safety Records?"
       ]
     },
     {
       "bound": {
         "height": 16,
         "left": 1273,
-        "top": 601,
+        "top": 564,
         "width": 299
       },
       "computed": {
@@ -8127,204 +8131,6 @@
         }
       ],
       "src": "http://media.npr.org/assets/img/2013/05/08/texting_screengrab2-copy_sq-582ea7efa55954eacdc2fc4565ddcc78a94aaf72-s11.jpg"
-    },
-    {
-      "bound": {
-        "height": 63,
-        "left": 1491,
-        "top": 244,
-        "width": 63
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-top-color": "rgb(109, 138, 196)",
-        "color": "rgb(109, 138, 196)",
-        "float": "left",
-        "max-width": "100%",
-        "outline-color": "rgb(109, 138, 196)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212351861",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyimg"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://media.npr.org/assets/img/2013/08/15/155789730_sq-88b39b138ea934cfa7325227bd3266ab21fecf78.jpg?s=16"
-    },
-    {
-      "bound": {
-        "height": 62,
-        "left": 1491,
-        "top": 371,
-        "width": 63
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(109, 138, 196)",
-        "border-left-color": "rgb(109, 138, 196)",
-        "border-right-color": "rgb(109, 138, 196)",
-        "border-top-color": "rgb(109, 138, 196)",
-        "color": "rgb(109, 138, 196)",
-        "float": "left",
-        "max-width": "100%",
-        "outline-color": "rgb(109, 138, 196)",
-        "position": "static"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "section",
-        "div",
-        "article",
-        "a",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "wrapper",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "main_sidebar",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "resMore",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstorieswrap",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "relatedstories",
-          "name": "section"
-        },
-        {
-          "classes": [
-            "apiquery",
-            "bucketwrap",
-            "responsive_more"
-          ],
-          "id": "resMoreAPI",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "story"
-          ],
-          "id": "story212342707",
-          "name": "article"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "storyimg"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://media.npr.org/assets/img/2013/08/15/ap101025151289_sq-fb1f5913cd1a5fafcb11b5dae68ac80c70b6a339.jpg?s=16"
     },
     {
       "bound": {

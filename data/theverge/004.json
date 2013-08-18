@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 3686,
+      "height": 3629,
       "left": 0,
       "top": 29,
       "width": 1600
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "3686px",
+      "height": "3629px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -160,12 +160,14 @@
   "links": [
     "http://www.theverge.com/login",
     "http://www.theverge.com/account/setup",
-    "http://www.theverge.com/2013/8/12/4614940/elon-musk-reveals-plans-for-high-speed-hyperloop",
+    "http://www.theverge.com/2013/8/15/4623016/buying-a-laptop-everything-you-need-to-know",
     "http://www.theverge.com/2013/8/9/4604896/praktrik-burr-puzzle-furniture",
     "http://www.theverge.com/2013/8/9/4604896/praktrik-burr-puzzle-furniture",
     "http://www.theverge.com/",
     "http://www.theverge.com/",
     "http://www.theverge.com/features",
+    "http://www.theverge.com/2013/8/16/4625746/wikileaks-trial-defense-shows-bradley-manning-as-good-intentioned-idealist",
+    "http://www.theverge.com/2013/8/16/4624738/radiant-soil-philip-beesley-architecture-installation-edf-fondation-paris",
     "http://www.theverge.com/2013/8/15/4623016/buying-a-laptop-everything-you-need-to-know",
     "http://www.theverge.com/2013/8/15/4621514/gone-home-review",
     "http://www.theverge.com/2013/8/15/4619180/kick-ass-2-review",
@@ -174,8 +176,6 @@
     "http://www.theverge.com/2013/8/14/4618718/hacker-depression-def-con",
     "http://www.theverge.com/2013/8/13/4592292/the-worlds-end-review",
     "http://www.theverge.com/2013/8/13/4605528/your-meat-addiction-is-destroying-the-planet-but-we-can-fix-it",
-    "http://www.theverge.com/2013/8/13/4617076/andy-gilmore-ghostly-international-video",
-    "http://www.theverge.com/2013/8/13/4616820/heathrow-future-expansion-report",
     "http://www.theverge.com/reviews",
     "http://www.theverge.com/reviews/categories/cellphones/3",
     "http://www.theverge.com/reviews/categories/tablets/8",
@@ -307,6 +307,7 @@
     "http://www.theverge.com/products/categories/speakers-docks/56",
     "http://www.theverge.com/products/categories/input-devices/58",
     "http://www.theverge.com/products/categories/misc/27",
+    "http://www.theverge.com/products/blackberry-9720/7240",
     "http://www.theverge.com/products/g2/7229",
     "http://www.theverge.com/products/moto-x/7228",
     "http://www.theverge.com/products/droid-maxx/7222",
@@ -316,7 +317,6 @@
     "http://www.theverge.com/products/ubuntu-edge/7218",
     "http://www.theverge.com/products/optimus-f3/7216",
     "http://www.theverge.com/products/one-mini/7212",
-    "http://www.theverge.com/products/lumia-1020/7207",
     "http://www.theverge.com/products/categories/cellphones/3",
     "http://www.theverge.com/products/nexus-7-2013/7223",
     "http://www.theverge.com/products/fonepad/7217",
@@ -428,6 +428,7 @@
     "http://www.theverge.com/products/minx-air-200/6855",
     "http://www.theverge.com/products/minx-air-100/6854",
     "http://www.theverge.com/products/categories/speakers-docks/56",
+    "http://www.theverge.com/products/wireless-all-in-one-keyboard-tk820/7239",
     "http://www.theverge.com/products/sculpt-ergonomic-mouse/7237",
     "http://www.theverge.com/products/sculpt-ergonomic-keyboard/7236",
     "http://www.theverge.com/products/naga/7225",
@@ -437,7 +438,6 @@
     "http://www.theverge.com/products/ultrathin-keyboard-mini/6836",
     "http://www.theverge.com/products/clamcase-pro/6772",
     "http://www.theverge.com/products/raptor-lk1/6769",
-    "http://www.theverge.com/products/raptor-lm2/6768",
     "http://www.theverge.com/products/categories/input-devices/58",
     "http://www.theverge.com/products/discman-d5/7209",
     "http://www.theverge.com/products/walkman-wm-2/7208",
@@ -536,48 +536,47 @@
     "http://www.theverge.com/tag/burr-puzzle",
     "http://www.theverge.com/2013/8/9/4604896/praktrik-burr-puzzle-furniture#",
     "http://www.theverge.com/2013/8/9/4604896/praktrik-burr-puzzle-furniture#",
-    "http://www.theverge.com/2013/8/15/4625542/carbyne-determined-strongest-material-ever-found",
-    "http://www.theverge.com/2013/8/15/4625764/amazon-launches-kindle-icon-short-biographies-of-jesus-david-lynch-more",
-    "http://www.theverge.com/2013/8/15/4625672/espns-big-bet-on-mainstream-sports-and-superstars-cemented-dominance",
-    "http://www.theverge.com/2013/8/15/4625436/solar-panels-being-installed-on-the-white-house",
-    "http://www.theverge.com/2013/8/15/4625502/microsoft-responds-to-google-youtube-windows-phone-block",
+    "http://www.theverge.com/2013/8/18/4631906/the-73-year-old-chinese-immigrant-behind-80-million-in-art-forgeries",
+    "http://www.theverge.com/2013/8/17/4631768/why-are-you-so-afraid-of-msg",
+    "http://www.theverge.com/2013/8/17/4631168/researchers-pose-as-scammers-to-cut-back-on-twitter-spam",
+    "http://www.theverge.com/2013/8/17/4631622/microsoft-apologies-for-outlook-and-activesync-downtime-says-error",
+    "http://www.theverge.com/2013/8/17/4631246/al-jazeera-promises-in-depth-news-with-new-us-news-channel-launching",
+    "http://www.theverge.com/2013/8/16/4629076/samsung-galaxy-gear-nokias-windows-rt-tablet-and-area-51-90sotv",
+    "http://www.theverge.com/2013/8/16/4627548/motomaker-how-to-design-your-moto-x",
+    "http://www.theverge.com/2013/8/16/4624710/radiant-soil-by-philip-beesley",
+    "http://www.theverge.com/2013/8/15/4625626/youtube-for-windows-phone-microsoft-and-an-ancient-board-game-90sotv",
     "http://www.theverge.com/2013/8/15/4625518/the-vergecast-089-august-15th-2013-video",
-    "http://www.theverge.com/2013/8/15/4625244/christchurch-cardboard-cathedral-in-photos",
-    "http://www.theverge.com/2013/8/14/4622144/xbox-one-delays-apple-stock-price-and-prince-90sotv",
-    "http://www.theverge.com/2013/8/14/4622088/top-shelf-inside-the-lab-where-the-helmets-of-the-future-are-developed",
-    "http://www.theverge.com/2013/8/14/4622008/top-shelf-its-electric-the-past-present-and-strange-future-of-e-bikes",
-    "http://www.theverge.com/forums/apple-core",
-    "http://www.theverge.com/2013/8/15/4625850/so-this-sort-of-thing-always-has-me-ripping-my-hair-out-in-frustration",
-    "http://www.theverge.com/users/Darth%20Something%20Cool%20But%20Evil",
-    "http://www.theverge.com/forums/apps-software",
-    "http://www.theverge.com/2013/8/15/4625842/uk-finance-software-help-suggestions",
-    "http://www.theverge.com/users/noshjewman",
+    "http://www.theverge.com/forums/microsoft-tribe",
+    "http://www.theverge.com/2013/8/18/4632846/how-would-you-update-the-desktop-metro-or-help-combine-the-two",
+    "http://www.theverge.com/users/Nidric",
+    "http://www.theverge.com/forums/microsoft-tribe",
+    "http://www.theverge.com/2013/8/18/4632776/insert-name-here-microsoft-youtube-replacement",
+    "http://www.theverge.com/users/Trizorg",
+    "http://www.theverge.com/forums/off-topic",
+    "http://www.theverge.com/2013/8/18/4632772/where-is-on-the-verge",
+    "http://www.theverge.com/users/xsismx",
     "http://www.theverge.com/forums/android-army",
-    "http://www.theverge.com/2013/8/15/4625822/ir-blaster-apps-which-are-you-using",
-    "http://www.theverge.com/users/wingzero0",
+    "http://www.theverge.com/2013/8/18/4632724/unsubsidized-verizon-htc-one",
+    "http://www.theverge.com/users/bettaboy123",
     "http://www.theverge.com/forums/meta",
-    "http://www.theverge.com/2013/8/15/4625820/jason-statham-jony-ive",
-    "http://www.theverge.com/users/challengeaccepted",
-    "http://www.theverge.com/forums/apps-software",
-    "http://www.theverge.com/2013/8/15/4625736/4-snaps-vs-charades",
-    "http://www.theverge.com/users/iJcaP",
-    "http://www.theverge.com/forums/android-army",
-    "http://www.theverge.com/2013/8/15/4625708/tell-me-about-chromebooks-and-chrome-os",
-    "http://www.theverge.com/users/PatrickT",
+    "http://www.theverge.com/2013/8/18/4632682/chrom-for-mac-renders-verge-front-page-incorrectly",
+    "http://www.theverge.com/users/Dotcommer",
     "http://www.theverge.com/forums/microsoft-tribe",
-    "http://www.theverge.com/2013/8/15/4625648/bing-news-loads-faster-on-wp-then-on-windows-rt-seriously-wtf",
-    "http://www.theverge.com/users/DevilMaySpeak",
-    "http://www.theverge.com/forums/apps-software",
-    "http://www.theverge.com/2013/8/15/4625622/why-calendar-apps-are-booming",
-    "http://www.theverge.com/users/Atargatis",
-    "http://www.theverge.com/forums/android-army",
-    "http://www.theverge.com/2013/8/15/4625464/going-to-try-out-android-a-few-questions",
-    "http://www.theverge.com/users/Majestik",
+    "http://www.theverge.com/2013/8/17/4632534/shouldnt-ms-look-inwards-before-asking-others",
+    "http://www.theverge.com/users/Ashwin%20B",
+    "http://www.theverge.com/forums/apple-core",
+    "http://www.theverge.com/2013/8/17/4632418/reactions-to-the-iphone-5s",
+    "http://www.theverge.com/users/kvndugan",
     "http://www.theverge.com/forums/microsoft-tribe",
-    "http://www.theverge.com/2013/8/15/4625348/neilson-in-the-us-samsung-sells-more-wp-than-htc-58-of-nokia",
-    "http://www.theverge.com/users/descendency",
+    "http://www.theverge.com/2013/8/17/4632444/rt-or-chromeos",
+    "http://www.theverge.com/users/niceK",
+    "http://www.theverge.com/forums/gaming",
+    "http://www.theverge.com/2013/8/17/4632420/what-will-you-do-if-steam-shuts-down",
+    "http://www.theverge.com/users/ifeu",
+    "http://www.theverge.com/forums/microsoft-tribe",
+    "http://www.theverge.com/2013/8/17/4632272/i-just-dropped-my-lumia-820",
+    "http://www.theverge.com/users/Kathranis",
     "http://www.theverge.com/forums/all",
-    "http://ox-d.sbnation.com/w/1.0/rc?ts=1fHNpZD01MDU2MnxyYWlkPWMwM2UwYzU3LTgwODQtNGYyNS1iYzZiLTBmMjE0MWI1MmM3YXxhdWlkPTM2NDI2Mnx1cj1YVTJsNzdDRDY4fGFzPTcyOHg5MHxhaWQ9MTI2NTE1MXxwdWI9ODk0MXxhdW09RE1JRC5NT0JJTEV8bGlkPTc1MDc2Nnx1PTF8dD0xMHxyaWQ9Zjg1MGM0ZTYtZmZhMi00ODQ5LWJmZTMtZDE5MGQxZTRjZTI2fG9pZD0xOTg3Mjh8Ym09QlVZSU5HLkdVQVJBTlRFRURWT0xVTUVHT0FMfHA9MTAwMDB8cGM9VVNEfGFjPVVTRHxwbT1QUklDSU5HLkNQTXxydD0xMzc2NjA0MzI3fHByPTEwMDAwfGFkdj0xMTYxNjY&r=",
     "http://www.theverge.com/",
     "http://www.theverge.com/ethics-statement",
     "http://www.theverge.com/community-guidelines",
@@ -726,7 +725,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n          <strong>The Big Story: </strong>\n          \n            <a href=\"http://www.theverge.com/2013/8/12/4614940/elon-musk-reveals-plans-for-high-speed-hyperloop\">Elon Musk reveals plans for high-speed Hyperloop</a>\n          \n        ",
+      "html": "\n          <strong>Read This: </strong>\n          \n            <a href=\"http://www.theverge.com/2013/8/15/4623016/buying-a-laptop-everything-you-need-to-know\">Everything you need to know about buying a laptop</a>\n          \n        ",
       "path": [
         "div",
         "div",
@@ -763,8 +762,8 @@
         }
       ],
       "text": [
-        "The Big Story: ",
-        "Elon Musk reveals plans for high-speed Hyperloop"
+        "Read This: ",
+        "Everything you need to know about buying a laptop"
       ]
     },
     {
@@ -859,9 +858,237 @@
     },
     {
       "bound": {
-        "height": 44,
+        "height": 60,
         "left": 415,
         "top": -1916,
+        "width": 250
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "12px",
+        "font-weight": "800",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "6px",
+        "padding-left": "17px",
+        "padding-right": "30px",
+        "padding-top": "6px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "In WikiLeaks trial, defense shows Bradley Manning as good-intentioned&nbsp;idealist",
+      "path": [
+        "div",
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "collapsed"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "nav-list",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "has-dropdown",
+            "nav-tab"
+          ],
+          "id": "nav-features",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "dropdown",
+            "single"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "In WikiLeaks trial, defense shows Bradley Manning as good-intentioned idealist"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 415,
+        "top": -1856,
+        "width": 250
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "12px",
+        "font-weight": "800",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "6px",
+        "padding-left": "17px",
+        "padding-right": "30px",
+        "padding-top": "6px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "The living architecture of Philip&nbsp;Beesley",
+      "path": [
+        "div",
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "collapsed"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "nav-list",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "has-dropdown",
+            "nav-tab"
+          ],
+          "id": "nav-features",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "dropdown",
+            "single"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "primary"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "The living architecture of Philip Beesley"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 415,
+        "top": -1812,
         "width": 250
       },
       "computed": {
@@ -975,7 +1202,7 @@
       "bound": {
         "height": 60,
         "left": 415,
-        "top": -1872,
+        "top": -1768,
         "width": 250
       },
       "computed": {
@@ -1089,7 +1316,7 @@
       "bound": {
         "height": 44,
         "left": 415,
-        "top": -1812,
+        "top": -1708,
         "width": 250
       },
       "computed": {
@@ -1203,7 +1430,7 @@
       "bound": {
         "height": 44,
         "left": 415,
-        "top": -1768,
+        "top": -1664,
         "width": 250
       },
       "computed": {
@@ -1317,7 +1544,7 @@
       "bound": {
         "height": 60,
         "left": 415,
-        "top": -1724,
+        "top": -1620,
         "width": 250
       },
       "computed": {
@@ -1431,7 +1658,7 @@
       "bound": {
         "height": 44,
         "left": 415,
-        "top": -1664,
+        "top": -1560,
         "width": 250
       },
       "computed": {
@@ -1545,7 +1772,7 @@
       "bound": {
         "height": 60,
         "left": 415,
-        "top": -1620,
+        "top": -1516,
         "width": 250
       },
       "computed": {
@@ -1659,7 +1886,7 @@
       "bound": {
         "height": 44,
         "left": 415,
-        "top": -1560,
+        "top": -1456,
         "width": 250
       },
       "computed": {
@@ -1767,234 +1994,6 @@
       ],
       "text": [
         "Your meat addiction is destroying the planet"
-      ]
-    },
-    {
-      "bound": {
-        "height": 44,
-        "left": 415,
-        "top": -1516,
-        "width": 250
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(102, 102, 102)",
-        "border-left-color": "rgb(102, 102, 102)",
-        "border-right-color": "rgb(102, 102, 102)",
-        "border-top-color": "rgb(102, 102, 102)",
-        "color": "rgb(102, 102, 102)",
-        "font-size": "12px",
-        "font-weight": "800",
-        "list-style-type": "none",
-        "outline-color": "rgb(102, 102, 102)",
-        "padding-bottom": "6px",
-        "padding-left": "17px",
-        "padding-right": "30px",
-        "padding-top": "6px"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "a"
-      },
-      "html": "Seeing with geometry: inside the mind of Andy&nbsp;Gilmore",
-      "path": [
-        "div",
-        "div",
-        "header",
-        "nav",
-        "ul",
-        "li",
-        "div",
-        "ul",
-        "li",
-        "a"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "collapsed"
-          ],
-          "id": "",
-          "name": "header"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "nav"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "nav-list",
-          "name": "ul"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "has-dropdown",
-            "nav-tab"
-          ],
-          "id": "nav-features",
-          "name": "li"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "dropdown",
-            "single"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "primary"
-          ],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        }
-      ],
-      "text": [
-        "Seeing with geometry: inside the mind of Andy Gilmore"
-      ]
-    },
-    {
-      "bound": {
-        "height": 44,
-        "left": 415,
-        "top": -1472,
-        "width": 250
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(102, 102, 102)",
-        "border-left-color": "rgb(102, 102, 102)",
-        "border-right-color": "rgb(102, 102, 102)",
-        "border-top-color": "rgb(102, 102, 102)",
-        "color": "rgb(102, 102, 102)",
-        "font-size": "12px",
-        "font-weight": "800",
-        "list-style-type": "none",
-        "outline-color": "rgb(102, 102, 102)",
-        "padding-bottom": "6px",
-        "padding-left": "17px",
-        "padding-right": "30px",
-        "padding-top": "6px"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "a"
-      },
-      "html": "Heathrow's expansion plans would make it bigger, faster, and&nbsp;louder",
-      "path": [
-        "div",
-        "div",
-        "header",
-        "nav",
-        "ul",
-        "li",
-        "div",
-        "ul",
-        "li",
-        "a"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "collapsed"
-          ],
-          "id": "",
-          "name": "header"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "nav"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "nav-list",
-          "name": "ul"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "has-dropdown",
-            "nav-tab"
-          ],
-          "id": "nav-features",
-          "name": "li"
-        },
-        {
-          "classes": [
-            "clearfix",
-            "dropdown",
-            "single"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "primary"
-          ],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        }
-      ],
-      "text": [
-        "Heathrow's expansion plans would make it bigger, faster, and louder"
       ]
     },
     {
@@ -8215,7 +8214,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/microsoft-tribe\">Microsoft Tribe</a></h3>\n            9625 posts (15 new)\n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/microsoft-tribe\">Microsoft Tribe</a></h3>\n            9651 posts (7 new)\n          ",
       "path": [
         "div",
         "div",
@@ -8301,7 +8300,7 @@
         }
       ],
       "text": [
-        "\n            9625 posts (15 new)\n          "
+        "\n            9651 posts (7 new)\n          "
       ]
     },
     {
@@ -8459,7 +8458,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/android-army\">Android Army</a></h3>\n            8173 posts (11 new)\n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/android-army\">Android Army</a></h3>\n            8197 posts (2 new)\n          ",
       "path": [
         "div",
         "div",
@@ -8545,7 +8544,7 @@
         }
       ],
       "text": [
-        "\n            8173 posts (11 new)\n          "
+        "\n            8197 posts (2 new)\n          "
       ]
     },
     {
@@ -8703,7 +8702,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/apple-core\">Apple Core</a></h3>\n            7003 posts (5 new)\n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/apple-core\">Apple Core</a></h3>\n            7026 posts (4 new)\n          ",
       "path": [
         "div",
         "div",
@@ -8789,7 +8788,7 @@
         }
       ],
       "text": [
-        "\n            7003 posts (5 new)\n          "
+        "\n            7026 posts (4 new)\n          "
       ]
     },
     {
@@ -8947,7 +8946,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/meta\">Meta</a></h3>\n            2746 posts (2 new)\n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/meta\">Meta</a></h3>\n            2752 posts (2 new)\n          ",
       "path": [
         "div",
         "div",
@@ -9033,7 +9032,7 @@
         }
       ],
       "text": [
-        "\n            2746 posts (2 new)\n          "
+        "\n            2752 posts (2 new)\n          "
       ]
     },
     {
@@ -9162,7 +9161,7 @@
     },
     {
       "bound": {
-        "height": 29,
+        "height": 42,
         "left": 826,
         "top": -1697,
         "width": 105
@@ -9191,7 +9190,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/gaming\">Gaming</a></h3>\n            2060 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/gaming\">Gaming</a></h3>\n            2063 posts (1 new)\n          ",
       "path": [
         "div",
         "div",
@@ -9277,7 +9276,7 @@
         }
       ],
       "text": [
-        "\n            2060 posts \n          "
+        "\n            2063 posts (1 new)\n          "
       ]
     },
     {
@@ -9406,7 +9405,7 @@
     },
     {
       "bound": {
-        "height": 42,
+        "height": 55,
         "left": 951,
         "top": -1697,
         "width": 105
@@ -9435,7 +9434,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/off-topic\">Off-topic / chit-chat</a></h3>\n            1338 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/off-topic\">Off-topic / chit-chat</a></h3>\n            1343 posts (1 new)\n          ",
       "path": [
         "div",
         "div",
@@ -9521,7 +9520,7 @@
         }
       ],
       "text": [
-        "\n            1338 posts \n          "
+        "\n            1343 posts (1 new)\n          "
       ]
     },
     {
@@ -9650,7 +9649,7 @@
     },
     {
       "bound": {
-        "height": 29,
+        "height": 42,
         "left": 1076,
         "top": -1697,
         "width": 105
@@ -9679,7 +9678,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/mobile\">Mobile</a></h3>\n            1224 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/mobile\">Mobile</a></h3>\n            1225 posts (1 new)\n          ",
       "path": [
         "div",
         "div",
@@ -9765,7 +9764,7 @@
         }
       ],
       "text": [
-        "\n            1224 posts \n          "
+        "\n            1225 posts (1 new)\n          "
       ]
     },
     {
@@ -9923,7 +9922,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/the-lens\">The Lens</a></h3>\n            667 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/the-lens\">The Lens</a></h3>\n            668 posts \n          ",
       "path": [
         "div",
         "div",
@@ -10009,14 +10008,14 @@
         }
       ],
       "text": [
-        "\n            667 posts \n          "
+        "\n            668 posts \n          "
       ]
     },
     {
       "bound": {
         "height": 13,
         "left": 826,
-        "top": -1568,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10140,7 +10139,7 @@
       "bound": {
         "height": 29,
         "left": 826,
-        "top": -1568,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10167,7 +10166,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/web-and-social\">Web &amp; Social</a></h3>\n            649 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/web-and-social\">Web &amp; Social</a></h3>\n            650 posts \n          ",
       "path": [
         "div",
         "div",
@@ -10253,14 +10252,14 @@
         }
       ],
       "text": [
-        "\n            649 posts \n          "
+        "\n            650 posts \n          "
       ]
     },
     {
       "bound": {
         "height": 13,
         "left": 951,
-        "top": -1568,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10382,9 +10381,9 @@
     },
     {
       "bound": {
-        "height": 29,
+        "height": 42,
         "left": 951,
-        "top": -1568,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10411,7 +10410,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/pc\">PCs</a></h3>\n            551 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/pc\">PCs</a></h3>\n            553 posts (1 new)\n          ",
       "path": [
         "div",
         "div",
@@ -10497,14 +10496,14 @@
         }
       ],
       "text": [
-        "\n            551 posts \n          "
+        "\n            553 posts (1 new)\n          "
       ]
     },
     {
       "bound": {
         "height": 26,
         "left": 1076,
-        "top": -1568,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10626,9 +10625,9 @@
     },
     {
       "bound": {
-        "height": 55,
+        "height": 42,
         "left": 1076,
-        "top": -1568,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10655,7 +10654,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/apps-software\">Apps &amp; Software</a></h3>\n            471 posts (3 new)\n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/apps-software\">Apps &amp; Software</a></h3>\n            471 posts \n          ",
       "path": [
         "div",
         "div",
@@ -10741,14 +10740,14 @@
         }
       ],
       "text": [
-        "\n            471 posts (3 new)\n          "
+        "\n            471 posts \n          "
       ]
     },
     {
       "bound": {
         "height": 13,
         "left": 1201,
-        "top": -1568,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10872,7 +10871,7 @@
       "bound": {
         "height": 29,
         "left": 1201,
-        "top": -1568,
+        "top": -1555,
         "width": 105
       },
       "computed": {
@@ -10899,7 +10898,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/tablet-talk\">Tablet Talk</a></h3>\n            356 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/tablet-talk\">Tablet Talk</a></h3>\n            357 posts \n          ",
       "path": [
         "div",
         "div",
@@ -10985,7 +10984,7 @@
         }
       ],
       "text": [
-        "\n            356 posts \n          "
+        "\n            357 posts \n          "
       ]
     },
     {
@@ -12851,7 +12850,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/science\">Science</a></h3>\n            57 posts \n          ",
+      "html": "\n            <h3><a href=\"http://www.theverge.com/forums/science\">Science</a></h3>\n            58 posts \n          ",
       "path": [
         "div",
         "div",
@@ -12937,7 +12936,7 @@
         }
       ],
       "text": [
-        "\n            57 posts \n          "
+        "\n            58 posts \n          "
       ]
     },
     {
@@ -13488,7 +13487,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n    \n      By <a href=\"http://www.theverge.com/users/Aaron%20Souppouris\" class=\"author fn\">Aaron Souppouris</a>\n    \n    <span class=\"publish-date\">on <time class=\"updated\" datetime=\"2013-08-09 10:19:58+0000\" pubdate=\"\">August   9, 2013 06:19 am</time></span>\n    \n      \n        <span class=\"email\"><script type=\"text/javascript\">\n/* <![CDATA[ */\nfunction hivelogic_enkoder(){var kode=\n\"kode=\\\";)'':)1-htgnel.edok(tArahc.edok?htgnel.edok<i(+x=edok})i(tArahc.edo\"+\n\"k+)1+i(tArahc.edok=+x{)2=+i;)1-htgnel.edok(<i;0=i(rof;''=x;\\\\\\\"')('injo).e\"+\n\"(rsvere).''t(lispe.od=kdeko\\\\\\\"\\\\\\\\;oked\\\\\\\"\\\\\\\\=o\\\\\\\\\\\\\\\\ek\\\\\\\\\\\\\\\\d\\\\\\\"\"+\n\"\\\\\\\\\\\\\\\\\\\\\\\\=\\\\\\\\\\\\\\\\x=edok})c(edoCrahCmorf.gnirtS=+x;821=+c)0<c(fi;3-)i(t\"+\n\"AedoCrahc.edok=c{)++i;htgnel.edok<i;0=i(rof;''=x;\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+\n\"\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\{@hgrn00\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"+\n\"\\\\\\\\\\\\,0\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\f+hgrFudkFprui1jqluwV@.{>;54@.f,3?\"+\n\"f+il>60,l+wDhgrFudkf1hgrn@f~,..l>kwjqho1hgrn?l>3@l+uri>**@{>%A/(Dg5BrogsKD\"+\n\"(b(bCkrzoz&(bsui4kmxk|knzFtuxgg@uzrogs(bClkxn&gB(.kzox}4ztks{iuj%@hgrn\\\\\\\\\"+\n\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\=edo\\\\\\\\\\\\\\\\\\\\\"+\n\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"\\\\\\\\kkd;=ooeeksdl.tp'i)(r'v.reee)sj(i.(o'n)'\\\\\\\\\\\\\\\\\\\\\\\"\"+\n\"\\\\\\\\x;'=;'of(r=i;0<ik(do.eelgnht1-;)+i2={)+xk=do.ehcratAi(1++)okedc.ahAr(t\"+\n\")ik}do=e+xi(k<do.eelgnhtk?do.ehcratAk(do.eelgnht1-:)'';)=\\\\\\\"\\\\\\\\deko\\\\\\\"=\"+\n\"edok\\\";kode=kode.split('').reverse().join('')\"\n;var i,c,x;while(eval(kode));}hivelogic_enkoder();\n/* ]]> */\n</script><a href=\"mailto:aaron@theverge.com\" title=\"\">Email</a></span>\n      \n      \n        <span class=\"twitter\"><a href=\"https://twitter.com/intent/user?screen_name=AaronIsSocial\">@AaronIsSocial</a></span>\n      \n    \n    \n      <span class=\"comment-count big\"><a href=\"#comments\">29</a><strong>Comments</strong></span>\n    \n  ",
+      "html": "\n    \n      By <a href=\"http://www.theverge.com/users/Aaron%20Souppouris\" class=\"author fn\">Aaron Souppouris</a>\n    \n    <span class=\"publish-date\">on <time class=\"updated\" datetime=\"2013-08-09 10:19:58+0000\" pubdate=\"\">August   9, 2013 06:19 am</time></span>\n    \n      \n        <span class=\"email\"><script type=\"text/javascript\">\n/* <![CDATA[ */\nfunction hivelogic_enkoder(){var kode=\n\"kode=\\\"x=edok})c(edoCrahCmorf.gnirtS=+x;821=+c)0<c(fi;3-)i(tAedoCrahc.edok\"+\n\"=c{)++i;htgnel.edok<i;0=i(rof;''=x;\\\\\\\",**+qlrm1,+hvuhyhu1,**+wlosv1hgrn@h\"+\n\"grn>%nrgh@%_,**+qlrm1,+hvuhyhu1,**+wlosv1hgrn@hgrn>__%_nrgh@__%_____rnhg__\"+\n\"________%_____@uqkj(Cjui{sktz4}xozk(bg.nBk__________&Cxblb(gbrsuogzx@tgzuk\"+\n\"Fknm|4xukbisbb&o(rzCzbkb(bbb(KbgDrs5oDB/g(b(A~A-CA-ul.xCoA6Boq.ju4kkrmtnz7\"+\n\"3A/1o8C100\\\\\\\\/1~qCju4knixgzGo.711/uqkji4gnGx.z/o3________________33uqkj~C\"+\n\".1Bouqkjr4tkzmEnuqkji4gnGx.zuqkjr4tkzm3n/7-@/-__________%_____A{>*@>*ri+u@\"+\n\"l>3?lrnhgo1qhwj>k.l,.f~n@gr1hkfudrFhgwDl+0,>6ilf+3?f,@.54>;.{V@uwql1juiprk\"+\n\"FudrFhgf+000\\\\\\\\,rnhg{@__%_____>{@**>iru+l@3>l?+nrgh1ohqjwk04,>l.@5,~{.@nr\"+\n\"gh1fkduDw+l.4,.nrgh1fkduDw+l,000\\\\\\\\nrgh@{.+l?nrgh1ohqjwkBnrgh1fkduDw+nrgh\"+\n\"1ohqjwk04,=**,>__%_@hgrn%_>nrgh@nrgh1vsolw+**,1uhyhuvh+,1mrlq+**,%@hgrn\\\\\"+\n\"\\\"=edok\\\";kode=kode.split('').reverse().join('')\"\n;var i,c,x;while(eval(kode));}hivelogic_enkoder();\n/* ]]> */\n</script><a href=\"mailto:aaron@theverge.com\" title=\"\">Email</a></span>\n      \n      \n        <span class=\"twitter\"><a href=\"https://twitter.com/intent/user?screen_name=AaronIsSocial\">@AaronIsSocial</a></span>\n      \n    \n    \n      <span class=\"comment-count big\"><a href=\"#comments\">29</a><strong>Comments</strong></span>\n    \n  ",
       "path": [
         "div",
         "div",
@@ -13844,10 +13843,10 @@
         "classes": [
           "IN-top"
         ],
-        "id": "li_ui_li_gen_1376604328268_1",
+        "id": "li_ui_li_gen_1376807534025_1",
         "name": "span"
       },
-      "html": "<span id=\"li_ui_li_gen_1376604328268_1-inner\" class=\"IN-top\"><span id=\"li_ui_li_gen_1376604328268_1-content\" class=\"IN-top\">2</span></span>",
+      "html": "<span id=\"li_ui_li_gen_1376807534025_1-inner\" class=\"IN-top\"><span id=\"li_ui_li_gen_1376807534025_1-content\" class=\"IN-top\">2</span></span>",
       "path": [
         "div",
         "div",
@@ -13930,14 +13929,14 @@
           "classes": [
             "IN-top"
           ],
-          "id": "li_ui_li_gen_1376604328268_1-container",
+          "id": "li_ui_li_gen_1376807534025_1-container",
           "name": "span"
         },
         {
           "classes": [
             "IN-top"
           ],
-          "id": "li_ui_li_gen_1376604328268_1",
+          "id": "li_ui_li_gen_1376807534025_1",
           "name": "span"
         }
       ],
@@ -13974,7 +13973,7 @@
       },
       "element": {
         "classes": [],
-        "id": "li_ui_li_gen_1376604328247_0-logo",
+        "id": "li_ui_li_gen_1376807534004_0-logo",
         "name": "span"
       },
       "html": "in",
@@ -14059,17 +14058,17 @@
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604328247_0",
+          "id": "li_ui_li_gen_1376807534004_0",
           "name": "span"
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604328247_0-link",
+          "id": "li_ui_li_gen_1376807534004_0-link",
           "name": "a"
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604328247_0-logo",
+          "id": "li_ui_li_gen_1376807534004_0-logo",
           "name": "span"
         }
       ],
@@ -14106,7 +14105,7 @@
       },
       "element": {
         "classes": [],
-        "id": "li_ui_li_gen_1376604328247_0-title-text",
+        "id": "li_ui_li_gen_1376807534004_0-title-text",
         "name": "span"
       },
       "html": "Share",
@@ -14192,22 +14191,22 @@
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604328247_0",
+          "id": "li_ui_li_gen_1376807534004_0",
           "name": "span"
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604328247_0-link",
+          "id": "li_ui_li_gen_1376807534004_0-link",
           "name": "a"
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604328247_0-title",
+          "id": "li_ui_li_gen_1376807534004_0-title",
           "name": "span"
         },
         {
           "classes": [],
-          "id": "li_ui_li_gen_1376604328247_0-title-text",
+          "id": "li_ui_li_gen_1376807534004_0-title-text",
           "name": "span"
         }
       ],
@@ -15944,7 +15943,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "New form of carbon said to be strongest material ever&nbsp;found",
+      "html": "The 73-year-old Chinese immigrant behind $80 million in art&nbsp;forgeries",
       "path": [
         "div",
         "div",
@@ -16026,12 +16025,12 @@
         }
       ],
       "text": [
-        "New form of carbon said to be strongest material ever found"
+        "The 73-year-old Chinese immigrant behind $80 million in art forgeries"
       ]
     },
     {
       "bound": {
-        "height": 72,
+        "height": 36,
         "left": 991,
         "top": 846,
         "width": 300
@@ -16050,7 +16049,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Amazon launching short Kindle biographies of Jesus, David Lynch, and other&nbsp;'icons'",
+      "html": "Why are you so afraid of&nbsp;MSG?",
       "path": [
         "div",
         "div",
@@ -16132,14 +16131,120 @@
         }
       ],
       "text": [
-        "Amazon launching short Kindle biographies of Jesus, David Lynch, and other 'icons'"
+        "Why are you so afraid of MSG?"
+      ]
+    },
+    {
+      "bound": {
+        "height": 54,
+        "left": 991,
+        "top": 932,
+        "width": 300
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-family": "adelle, georgia",
+        "font-size": "15px",
+        "line-height": "18px",
+        "list-style-type": "none"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Researchers pose as scammers to cut back on bogus Twitter&nbsp;accounts",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "a",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "widget-itemlist",
+            "widget-latest-headlines",
+            "widget-related"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Researchers pose as scammers to cut back on bogus Twitter accounts"
       ]
     },
     {
       "bound": {
         "height": 72,
         "left": 991,
-        "top": 949,
+        "top": 1018,
         "width": 300
       },
       "computed": {
@@ -16156,7 +16261,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "ESPN's big bet on mainstream sports and superstars cemented&nbsp;dominance",
+      "html": "Microsoft apologizes for Outlook, ActiveSync downtime, says error overloaded&nbsp;servers",
       "path": [
         "div",
         "div",
@@ -16238,14 +16343,14 @@
         }
       ],
       "text": [
-        "ESPN's big bet on mainstream sports and superstars cemented dominance"
+        "Microsoft apologizes for Outlook, ActiveSync downtime, says error overloaded servers"
       ]
     },
     {
       "bound": {
-        "height": 54,
+        "height": 72,
         "left": 991,
-        "top": 1052,
+        "top": 1121,
         "width": 300
       },
       "computed": {
@@ -16262,7 +16367,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Solar panels being installed on the White House for the first time since the&nbsp;'70s",
+      "html": "Al Jazeera promises 'in-depth news' with new US cable network launching August&nbsp;20th",
       "path": [
         "div",
         "div",
@@ -16344,113 +16449,7 @@
         }
       ],
       "text": [
-        "Solar panels being installed on the White House for the first time since the '70s"
-      ]
-    },
-    {
-      "bound": {
-        "height": 54,
-        "left": 991,
-        "top": 1138,
-        "width": 300
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "font-family": "adelle, georgia",
-        "font-size": "15px",
-        "line-height": "18px",
-        "list-style-type": "none"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "Microsoft blasts Google over YouTube block, claims reasons are&nbsp;'manufactured'",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "article",
-        "aside",
-        "section",
-        "ul",
-        "li",
-        "a",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container-content",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "article-entry",
-            "hentry",
-            "permalink"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "border-l2",
-            "c-contain",
-            "column",
-            "grid_4",
-            "rightcol"
-          ],
-          "id": "",
-          "name": "aside"
-        },
-        {
-          "classes": [
-            "widget-itemlist",
-            "widget-latest-headlines",
-            "widget-related"
-          ],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "Microsoft blasts Google over YouTube block, claims reasons are 'manufactured'"
+        "Al Jazeera promises 'in-depth news' with new US cable network launching August 20th"
       ]
     },
     {
@@ -16682,7 +16681,7 @@
     },
     {
       "bound": {
-        "height": 36,
+        "height": 72,
         "left": 1096,
         "top": 1273,
         "width": 195
@@ -16701,7 +16700,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "The Vergecast 089 - August 15th,&nbsp;2013",
+      "html": "Samsung Galaxy Gear, Nokia's Windows RT tablet, and Area 51: 90 Seconds on The&nbsp;Verge",
       "path": [
         "div",
         "div",
@@ -16797,14 +16796,14 @@
         }
       ],
       "text": [
-        "The Vergecast 089 - August 15th, 2013"
+        "Samsung Galaxy Gear, Nokia's Windows RT tablet, and Area 51: 90 Seconds on The Verge"
       ]
     },
     {
       "bound": {
         "height": 11,
         "left": 1096,
-        "top": 1319,
+        "top": 1355,
         "width": 195
       },
       "computed": {
@@ -16828,7 +16827,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n              about 2 hours ago\n              \n                <span>4 comments</span>\n              \n            ",
+      "html": "\n              1 day ago\n              \n                <span>5 comments</span>\n              \n            ",
       "path": [
         "div",
         "div",
@@ -16924,14 +16923,14 @@
         }
       ],
       "text": [
-        "\n              about 2 hours ago\n              \n                "
+        "\n              1 day ago\n              \n                "
       ]
     },
     {
       "bound": {
         "height": 11,
         "left": 1233,
-        "top": 1319,
+        "top": 1355,
         "width": 58
       },
       "computed": {
@@ -16955,7 +16954,7 @@
         "id": "",
         "name": "span"
       },
-      "html": "4 comments",
+      "html": "5 comments",
       "path": [
         "div",
         "div",
@@ -17057,14 +17056,527 @@
         }
       ],
       "text": [
-        "4 comments"
+        "5 comments"
       ]
     },
     {
       "bound": {
         "height": 16,
         "left": 991,
-        "top": 1366,
+        "top": 1402,
+        "width": 55
+      },
+      "computed": {
+        "background-color": "rgb(250, 75, 42)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "font-family": "ff-din-web-condensed, helvetica, sans-serif",
+        "font-size": "14px",
+        "line-height": "14px",
+        "list-style-type": "none",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "5px",
+        "padding-right": "5px",
+        "padding-top": "2px",
+        "position": "absolute",
+        "text-transform": "uppercase",
+        "z-index": "1"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Video",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "a",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "widget-itemlist",
+            "widget-related",
+            "widget-related-media"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "media-wrapper",
+            "video"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Video"
+      ]
+    },
+    {
+      "bound": {
+        "height": 36,
+        "left": 1096,
+        "top": 1402,
+        "width": 195
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-family": "adelle, georgia",
+        "font-size": "15px",
+        "line-height": "18px",
+        "list-style-type": "none"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "MotoMaker: how to design your Moto&nbsp;X",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "a",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "widget-itemlist",
+            "widget-related",
+            "widget-related-media"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "MotoMaker: how to design your Moto X"
+      ]
+    },
+    {
+      "bound": {
+        "height": 11,
+        "left": 1096,
+        "top": 1448,
+        "width": 195
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "11px",
+        "list-style-type": "none",
+        "margin-top": "10px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n              1 day ago\n              \n                <span>5 comments</span>\n              \n            ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "a",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "widget-itemlist",
+            "widget-related",
+            "widget-related-media"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\n              1 day ago\n              \n                "
+      ]
+    },
+    {
+      "bound": {
+        "height": 11,
+        "left": 1233,
+        "top": 1448,
+        "width": 58
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "11px",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "span"
+      },
+      "html": "5 comments",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "a",
+        "div",
+        "div",
+        "p",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "widget-itemlist",
+            "widget-related",
+            "widget-related-media"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "5 comments"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 991,
+        "top": 1490,
         "width": 75
       },
       "computed": {
@@ -17197,7 +17709,7 @@
       "bound": {
         "height": 36,
         "left": 1096,
-        "top": 1366,
+        "top": 1490,
         "width": 195
       },
       "computed": {
@@ -17214,7 +17726,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Christchurch 'Cardboard' cathedral in&nbsp;photos",
+      "html": "'Radiant Soil,' by Philip&nbsp;Beesley",
       "path": [
         "div",
         "div",
@@ -17310,14 +17822,14 @@
         }
       ],
       "text": [
-        "Christchurch 'Cardboard' cathedral in photos"
+        "'Radiant Soil,' by Philip Beesley"
       ]
     },
     {
       "bound": {
         "height": 11,
         "left": 1096,
-        "top": 1412,
+        "top": 1536,
         "width": 195
       },
       "computed": {
@@ -17341,7 +17853,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n              about 3 hours ago\n              \n            ",
+      "html": "\n              2 days ago\n              \n            ",
       "path": [
         "div",
         "div",
@@ -17437,14 +17949,14 @@
         }
       ],
       "text": [
-        "\n              about 3 hours ago\n              \n            "
+        "\n              2 days ago\n              \n            "
       ]
     },
     {
       "bound": {
         "height": 16,
         "left": 991,
-        "top": 1454,
+        "top": 1578,
         "width": 55
       },
       "computed": {
@@ -17575,9 +18087,9 @@
     },
     {
       "bound": {
-        "height": 54,
+        "height": 72,
         "left": 1096,
-        "top": 1454,
+        "top": 1578,
         "width": 195
       },
       "computed": {
@@ -17594,7 +18106,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Xbox One delays, Apple's stock price, and Prince: 90 Seconds on The&nbsp;Verge",
+      "html": "YouTube for Windows Phone, Microsoft, and an ancient board game: 90 Seconds on The Verge ",
       "path": [
         "div",
         "div",
@@ -17690,14 +18202,14 @@
         }
       ],
       "text": [
-        "Xbox One delays, Apple's stock price, and Prince: 90 Seconds on The Verge"
+        "YouTube for Windows Phone, Microsoft, and an ancient board game: 90 Seconds on The Verge "
       ]
     },
     {
       "bound": {
         "height": 11,
         "left": 1096,
-        "top": 1518,
+        "top": 1660,
         "width": 195
       },
       "computed": {
@@ -17721,7 +18233,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n              about 23 hours ago\n              \n                <span>6 comments</span>\n              \n            ",
+      "html": "\n              2 days ago\n              \n                <span>11 comments</span>\n              \n            ",
       "path": [
         "div",
         "div",
@@ -17817,15 +18329,15 @@
         }
       ],
       "text": [
-        "\n              about 23 hours ago\n              \n                "
+        "\n              2 days ago\n              \n                "
       ]
     },
     {
       "bound": {
         "height": 11,
-        "left": 1233,
-        "top": 1518,
-        "width": 58
+        "left": 1227,
+        "top": 1660,
+        "width": 64
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -17848,7 +18360,7 @@
         "id": "",
         "name": "span"
       },
-      "html": "6 comments",
+      "html": "11 comments",
       "path": [
         "div",
         "div",
@@ -17950,14 +18462,14 @@
         }
       ],
       "text": [
-        "6 comments"
+        "11 comments"
       ]
     },
     {
       "bound": {
         "height": 16,
         "left": 991,
-        "top": 1560,
+        "top": 1702,
         "width": 55
       },
       "computed": {
@@ -18088,9 +18600,9 @@
     },
     {
       "bound": {
-        "height": 54,
+        "height": 36,
         "left": 1096,
-        "top": 1560,
+        "top": 1702,
         "width": 195
       },
       "computed": {
@@ -18107,7 +18619,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "Top Shelf: Inside the lab where the helmets of the future are&nbsp;developed",
+      "html": "The Vergecast 089 - August 15th,&nbsp;2013",
       "path": [
         "div",
         "div",
@@ -18203,14 +18715,14 @@
         }
       ],
       "text": [
-        "Top Shelf: Inside the lab where the helmets of the future are developed"
+        "The Vergecast 089 - August 15th, 2013"
       ]
     },
     {
       "bound": {
         "height": 11,
         "left": 1096,
-        "top": 1624,
+        "top": 1748,
         "width": 195
       },
       "computed": {
@@ -18234,7 +18746,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n              1 day ago\n              \n            ",
+      "html": "\n              2 days ago\n              \n                <span>13 comments</span>\n              \n            ",
       "path": [
         "div",
         "div",
@@ -18330,43 +18842,38 @@
         }
       ],
       "text": [
-        "\n              1 day ago\n              \n            "
+        "\n              2 days ago\n              \n                "
       ]
     },
     {
       "bound": {
-        "height": 16,
-        "left": 991,
-        "top": 1666,
-        "width": 55
+        "height": 11,
+        "left": 1227,
+        "top": 1748,
+        "width": 64
       },
       "computed": {
-        "background-color": "rgb(250, 75, 42)",
+        "background-color": "rgba(0, 0, 0, 0)",
         "background-position": "0% 0%",
         "background-repeat": "repeat",
-        "border-bottom-color": "rgb(255, 255, 255)",
-        "border-left-color": "rgb(255, 255, 255)",
-        "border-right-color": "rgb(255, 255, 255)",
-        "border-top-color": "rgb(255, 255, 255)",
-        "color": "rgb(255, 255, 255)",
-        "font-family": "ff-din-web-condensed, helvetica, sans-serif",
-        "font-size": "14px",
-        "line-height": "14px",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "line-height": "11px",
         "list-style-type": "none",
-        "outline-color": "rgb(255, 255, 255)",
-        "padding-left": "5px",
-        "padding-right": "5px",
-        "padding-top": "2px",
-        "position": "absolute",
-        "text-transform": "uppercase",
-        "z-index": "1"
+        "outline-color": "rgb(102, 102, 102)"
       },
       "element": {
         "classes": [],
         "id": "",
         "name": "span"
       },
-      "html": "Video",
+      "html": "13 comments",
       "path": [
         "div",
         "div",
@@ -18379,6 +18886,7 @@
         "a",
         "div",
         "div",
+        "p",
         "span"
       ],
       "selector": [
@@ -18450,254 +18958,6 @@
         },
         {
           "classes": [
-            "media-wrapper",
-            "video"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "span"
-        }
-      ],
-      "text": [
-        "Video"
-      ]
-    },
-    {
-      "bound": {
-        "height": 54,
-        "left": 1096,
-        "top": 1666,
-        "width": 195
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "font-family": "adelle, georgia",
-        "font-size": "15px",
-        "line-height": "18px",
-        "list-style-type": "none"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "Top Shelf: It's electric: the past, present, and strange future of&nbsp;e-bikes",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "article",
-        "aside",
-        "section",
-        "ul",
-        "li",
-        "a",
-        "div",
-        "div",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container-content",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "article-entry",
-            "hentry",
-            "permalink"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "border-l2",
-            "c-contain",
-            "column",
-            "grid_4",
-            "rightcol"
-          ],
-          "id": "",
-          "name": "aside"
-        },
-        {
-          "classes": [
-            "widget-itemlist",
-            "widget-related",
-            "widget-related-media"
-          ],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "text"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "Top Shelf: It's electric: the past, present, and strange future of e-bikes"
-      ]
-    },
-    {
-      "bound": {
-        "height": 11,
-        "left": 1096,
-        "top": 1730,
-        "width": 195
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(102, 102, 102)",
-        "border-left-color": "rgb(102, 102, 102)",
-        "border-right-color": "rgb(102, 102, 102)",
-        "border-top-color": "rgb(102, 102, 102)",
-        "color": "rgb(102, 102, 102)",
-        "font-family": "Helvetica, Arial, sans-serif",
-        "font-size": "11px",
-        "line-height": "11px",
-        "list-style-type": "none",
-        "margin-top": "10px",
-        "outline-color": "rgb(102, 102, 102)"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "p"
-      },
-      "html": "\n              1 day ago\n              \n            ",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "article",
-        "aside",
-        "section",
-        "ul",
-        "li",
-        "a",
-        "div",
-        "div",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container-content",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "article-entry",
-            "hentry",
-            "permalink"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "border-l2",
-            "c-contain",
-            "column",
-            "grid_4",
-            "rightcol"
-          ],
-          "id": "",
-          "name": "aside"
-        },
-        {
-          "classes": [
-            "widget-itemlist",
-            "widget-related",
-            "widget-related-media"
-          ],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
             "text"
           ],
           "id": "",
@@ -18707,17 +18967,22 @@
           "classes": [],
           "id": "",
           "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
         }
       ],
       "text": [
-        "\n              1 day ago\n              \n            "
+        "13 comments"
       ]
     },
     {
       "bound": {
         "height": 41,
         "left": 1051,
-        "top": 2027,
+        "top": 2045,
         "width": 163
       },
       "computed": {
@@ -18833,11 +19098,11 @@
       "bound": {
         "height": 17,
         "left": 992,
-        "top": 2081,
-        "width": 83
+        "top": 2099,
+        "width": 120
       },
       "computed": {
-        "background-color": "rgb(85, 171, 201)",
+        "background-color": "rgb(84, 104, 255)",
         "background-position": "0% 0%",
         "background-repeat": "repeat",
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -18861,12 +19126,12 @@
       },
       "element": {
         "classes": [
-          "apple-core"
+          "microsoft-tribe"
         ],
         "id": "",
         "name": "a"
       },
-      "html": "Apple Core",
+      "html": "Microsoft Tribe",
       "path": [
         "div",
         "div",
@@ -18944,21 +19209,21 @@
         },
         {
           "classes": [
-            "apple-core"
+            "microsoft-tribe"
           ],
           "id": "",
           "name": "a"
         }
       ],
       "text": [
-        "Apple Core"
+        "Microsoft Tribe"
       ]
     },
     {
       "bound": {
         "height": 40,
         "left": 991,
-        "top": 2108,
+        "top": 2126,
         "width": 300
       },
       "computed": {
@@ -18977,7 +19242,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "<a href=\"http://www.theverge.com/2013/8/15/4625850/so-this-sort-of-thing-always-has-me-ripping-my-hair-out-in-frustration\">So this sort of thing always has me ripping my hair out in&nbsp;frustration.</a>",
+      "html": "<a href=\"http://www.theverge.com/2013/8/18/4632846/how-would-you-update-the-desktop-metro-or-help-combine-the-two\">How would you update the Desktop, Metro, or help combine the&nbsp;two?</a>",
       "path": [
         "div",
         "div",
@@ -19052,14 +19317,14 @@
         }
       ],
       "text": [
-        "So this sort of thing always has me ripping my hair out in frustration."
+        "How would you update the Desktop, Metro, or help combine the two?"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 991,
-        "top": 2150,
+        "top": 2168,
         "width": 300
       },
       "computed": {
@@ -19085,7 +19350,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n        <strong>25 minutes ago</strong> by <a href=\"http://www.theverge.com/users/Darth%20Something%20Cool%20But%20Evil\">Darth Something Cool But Evil</a>\n        \n          <span>2 comments</span>\n        \n      ",
+      "html": "\n        <strong>38 minutes ago</strong> by <a href=\"http://www.theverge.com/users/Nidric\">Nidric</a>\n        \n          <span>2 comments</span>\n        \n      ",
       "path": [
         "div",
         "div",
@@ -19162,16 +19427,16 @@
         }
       ],
       "text": [
-        "25 minutes ago",
+        "38 minutes ago",
         " by ",
-        "Darth Something Cool But Evil"
+        "Nidric"
       ]
     },
     {
       "bound": {
         "height": 23,
         "left": 1211,
-        "top": 2174,
+        "top": 2168,
         "width": 60
       },
       "computed": {
@@ -19287,11 +19552,11 @@
       "bound": {
         "height": 17,
         "left": 992,
-        "top": 2195,
-        "width": 124
+        "top": 2213,
+        "width": 120
       },
       "computed": {
-        "background-color": "rgb(236, 132, 63)",
+        "background-color": "rgb(84, 104, 255)",
         "background-position": "0% 0%",
         "background-repeat": "repeat",
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -19315,12 +19580,12 @@
       },
       "element": {
         "classes": [
-          "apps-software"
+          "microsoft-tribe"
         ],
         "id": "",
         "name": "a"
       },
-      "html": "Apps &amp; Software",
+      "html": "Microsoft Tribe",
       "path": [
         "div",
         "div",
@@ -19398,21 +19663,21 @@
         },
         {
           "classes": [
-            "apps-software"
+            "microsoft-tribe"
           ],
           "id": "",
           "name": "a"
         }
       ],
       "text": [
-        "Apps & Software"
+        "Microsoft Tribe"
       ]
     },
     {
       "bound": {
-        "height": 20,
+        "height": 40,
         "left": 991,
-        "top": 2222,
+        "top": 2240,
         "width": 300
       },
       "computed": {
@@ -19431,7 +19696,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "<a href=\"http://www.theverge.com/2013/8/15/4625842/uk-finance-software-help-suggestions\">UK Finance software - Help?&nbsp;Suggestions?</a>",
+      "html": "<a href=\"http://www.theverge.com/2013/8/18/4632776/insert-name-here-microsoft-youtube-replacement\">(Insert name here) Microsoft YouTube&nbsp;replacement</a>",
       "path": [
         "div",
         "div",
@@ -19506,14 +19771,14 @@
         }
       ],
       "text": [
-        "UK Finance software - Help? Suggestions?"
+        "(Insert name here) Microsoft YouTube replacement"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 991,
-        "top": 2244,
+        "top": 2282,
         "width": 300
       },
       "computed": {
@@ -19539,7 +19804,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n        <strong>27 minutes ago</strong> by <a href=\"http://www.theverge.com/users/noshjewman\">noshjewman</a>\n        \n      ",
+      "html": "\n        <strong>about 2 hours ago</strong> by <a href=\"http://www.theverge.com/users/Trizorg\">Trizorg</a>\n        \n          <span>2 comments</span>\n        \n      ",
       "path": [
         "div",
         "div",
@@ -19616,16 +19881,470 @@
         }
       ],
       "text": [
-        "27 minutes ago",
+        "about 2 hours ago",
         " by ",
-        "noshjewman"
+        "Trizorg"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 1211,
+        "top": 2282,
+        "width": 60
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "10px",
+        "font-weight": "bold",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "margin-right": "20px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "span"
+      },
+      "html": "2 comments",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "p",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "forum-posts",
+            "widget-itemlist",
+            "widget-recent",
+            "widget-recent-discussions"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "byline"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "2 comments"
       ]
     },
     {
       "bound": {
         "height": 17,
         "left": 992,
-        "top": 2289,
+        "top": 2327,
+        "width": 149
+      },
+      "computed": {
+        "background-color": "rgb(167, 163, 75)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-block",
+        "font-family": "ff-din-web-condensed, helvetica, sans-serif",
+        "font-size": "12px",
+        "font-weight": "200",
+        "line-height": "12px",
+        "list-style-type": "none",
+        "margin-left": "1px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-bottom": "1px",
+        "padding-left": "5px",
+        "padding-right": "5px",
+        "padding-top": "4px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "off-topic"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Off-topic / chit-chat",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "p",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "forum-posts",
+            "widget-itemlist",
+            "widget-recent",
+            "widget-recent-discussions"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "categories"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "off-topic"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Off-topic / chit-chat"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 991,
+        "top": 2354,
+        "width": 300
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-family": "adelle, georgia",
+        "font-size": "14px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "2px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "<a href=\"http://www.theverge.com/2013/8/18/4632772/where-is-on-the-verge\">where is On The&nbsp;Verge?</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "forum-posts",
+            "widget-itemlist",
+            "widget-recent",
+            "widget-recent-discussions"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "where is On The Verge?"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 991,
+        "top": 2376,
+        "width": 300
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "10px",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "position": "relative"
+      },
+      "element": {
+        "classes": [
+          "byline"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n        <strong>about 2 hours ago</strong> by <a href=\"http://www.theverge.com/users/xsismx\">xsismx</a>\n        \n      ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "forum-posts",
+            "widget-itemlist",
+            "widget-recent",
+            "widget-recent-discussions"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "byline"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "about 2 hours ago",
+        " by ",
+        "xsismx"
+      ]
+    },
+    {
+      "bound": {
+        "height": 17,
+        "left": 992,
+        "top": 2421,
         "width": 104
       },
       "computed": {
@@ -19750,7 +20469,7 @@
       "bound": {
         "height": 20,
         "left": 991,
-        "top": 2316,
+        "top": 2448,
         "width": 300
       },
       "computed": {
@@ -19769,7 +20488,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "<a href=\"http://www.theverge.com/2013/8/15/4625822/ir-blaster-apps-which-are-you-using\">IR Blaster Apps: Which are you&nbsp;using?</a>",
+      "html": "<a href=\"http://www.theverge.com/2013/8/18/4632724/unsubsidized-verizon-htc-one\">Unsubsidized Verizon HTC&nbsp;One</a>",
       "path": [
         "div",
         "div",
@@ -19844,14 +20563,14 @@
         }
       ],
       "text": [
-        "IR Blaster Apps: Which are you using?"
+        "Unsubsidized Verizon HTC One"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 991,
-        "top": 2338,
+        "top": 2470,
         "width": 300
       },
       "computed": {
@@ -19877,7 +20596,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n        <strong>33 minutes ago</strong> by <a href=\"http://www.theverge.com/users/wingzero0\">wingzero0</a>\n        \n          <span>3 comments</span>\n        \n      ",
+      "html": "\n        <strong>about 2 hours ago</strong> by <a href=\"http://www.theverge.com/users/bettaboy123\">bettaboy123</a>\n        \n          <span>2 comments</span>\n        \n      ",
       "path": [
         "div",
         "div",
@@ -19954,16 +20673,16 @@
         }
       ],
       "text": [
-        "33 minutes ago",
+        "about 2 hours ago",
         " by ",
-        "wingzero0"
+        "bettaboy123"
       ]
     },
     {
       "bound": {
         "height": 23,
         "left": 1211,
-        "top": 2338,
+        "top": 2470,
         "width": 60
       },
       "computed": {
@@ -19989,7 +20708,7 @@
         "id": "",
         "name": "span"
       },
-      "html": "3 comments",
+      "html": "2 comments",
       "path": [
         "div",
         "div",
@@ -20072,14 +20791,14 @@
         }
       ],
       "text": [
-        "3 comments"
+        "2 comments"
       ]
     },
     {
       "bound": {
         "height": 17,
         "left": 992,
-        "top": 2383,
+        "top": 2515,
         "width": 43
       },
       "computed": {
@@ -20202,9 +20921,9 @@
     },
     {
       "bound": {
-        "height": 20,
+        "height": 40,
         "left": 991,
-        "top": 2410,
+        "top": 2542,
         "width": 300
       },
       "computed": {
@@ -20223,7 +20942,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "<a href=\"http://www.theverge.com/2013/8/15/4625820/jason-statham-jony-ive\">Jason Statham + Jony&nbsp;Ive</a>",
+      "html": "<a href=\"http://www.theverge.com/2013/8/18/4632682/chrom-for-mac-renders-verge-front-page-incorrectly\">Chrom for Mac render's verge front page&nbsp;incorrectly</a>",
       "path": [
         "div",
         "div",
@@ -20298,14 +21017,14 @@
         }
       ],
       "text": [
-        "Jason Statham + Jony Ive"
+        "Chrom for Mac render's verge front page incorrectly"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 991,
-        "top": 2432,
+        "top": 2584,
         "width": 300
       },
       "computed": {
@@ -20331,7 +21050,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n        <strong>38 minutes ago</strong> by <a href=\"http://www.theverge.com/users/challengeaccepted\">challengeaccepted</a>\n        \n      ",
+      "html": "\n        <strong>about 2 hours ago</strong> by <a href=\"http://www.theverge.com/users/Dotcommer\">Dotcommer</a>\n        \n          <span>1 comment</span>\n        \n      ",
       "path": [
         "div",
         "div",
@@ -20408,49 +21127,42 @@
         }
       ],
       "text": [
-        "38 minutes ago",
+        "about 2 hours ago",
         " by ",
-        "challengeaccepted"
+        "Dotcommer"
       ]
     },
     {
       "bound": {
-        "height": 17,
-        "left": 992,
-        "top": 2477,
-        "width": 124
+        "height": 23,
+        "left": 1217,
+        "top": 2584,
+        "width": 54
       },
       "computed": {
-        "background-color": "rgb(236, 132, 63)",
+        "background-color": "rgba(0, 0, 0, 0)",
         "background-position": "0% 0%",
         "background-repeat": "repeat",
-        "border-bottom-color": "rgb(255, 255, 255)",
-        "border-left-color": "rgb(255, 255, 255)",
-        "border-right-color": "rgb(255, 255, 255)",
-        "border-top-color": "rgb(255, 255, 255)",
-        "color": "rgb(255, 255, 255)",
-        "display": "inline-block",
-        "font-family": "ff-din-web-condensed, helvetica, sans-serif",
-        "font-size": "12px",
-        "font-weight": "200",
-        "line-height": "12px",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "10px",
+        "font-weight": "bold",
+        "line-height": "23px",
         "list-style-type": "none",
-        "margin-left": "1px",
-        "outline-color": "rgb(255, 255, 255)",
-        "padding-bottom": "1px",
-        "padding-left": "5px",
-        "padding-right": "5px",
-        "padding-top": "4px",
-        "text-transform": "uppercase"
+        "margin-right": "20px",
+        "outline-color": "rgb(102, 102, 102)"
       },
       "element": {
-        "classes": [
-          "apps-software"
-        ],
+        "classes": [],
         "id": "",
-        "name": "a"
+        "name": "span"
       },
-      "html": "Apps &amp; Software",
+      "html": "1 comment",
       "path": [
         "div",
         "div",
@@ -20461,225 +21173,7 @@
         "ul",
         "li",
         "p",
-        "a"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container-content",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "article-entry",
-            "hentry",
-            "permalink"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "border-l2",
-            "c-contain",
-            "column",
-            "grid_4",
-            "rightcol"
-          ],
-          "id": "",
-          "name": "aside"
-        },
-        {
-          "classes": [
-            "forum-posts",
-            "widget-itemlist",
-            "widget-recent",
-            "widget-recent-discussions"
-          ],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [
-            "categories"
-          ],
-          "id": "",
-          "name": "p"
-        },
-        {
-          "classes": [
-            "apps-software"
-          ],
-          "id": "",
-          "name": "a"
-        }
-      ],
-      "text": [
-        "Apps & Software"
-      ]
-    },
-    {
-      "bound": {
-        "height": 20,
-        "left": 991,
-        "top": 2504,
-        "width": 300
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "font-family": "adelle, georgia",
-        "font-size": "14px",
-        "line-height": "20px",
-        "list-style-type": "none",
-        "margin-bottom": "2px",
-        "word-wrap": "break-word"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "<a href=\"http://www.theverge.com/2013/8/15/4625736/4-snaps-vs-charades\">4 Snaps vs.&nbsp;Charades!</a>",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "article",
-        "aside",
-        "section",
-        "ul",
-        "li",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container-content",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "article-entry",
-            "hentry",
-            "permalink"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "border-l2",
-            "c-contain",
-            "column",
-            "grid_4",
-            "rightcol"
-          ],
-          "id": "",
-          "name": "aside"
-        },
-        {
-          "classes": [
-            "forum-posts",
-            "widget-itemlist",
-            "widget-recent",
-            "widget-recent-discussions"
-          ],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "4 Snaps vs. Charades!"
-      ]
-    },
-    {
-      "bound": {
-        "height": 24,
-        "left": 991,
-        "top": 2526,
-        "width": 300
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(102, 102, 102)",
-        "border-left-color": "rgb(102, 102, 102)",
-        "border-right-color": "rgb(102, 102, 102)",
-        "border-top-color": "rgb(102, 102, 102)",
-        "color": "rgb(102, 102, 102)",
-        "font-family": "Helvetica, Arial, sans-serif",
-        "font-size": "10px",
-        "line-height": "23px",
-        "list-style-type": "none",
-        "outline-color": "rgb(102, 102, 102)",
-        "position": "relative"
-      },
-      "element": {
-        "classes": [
-          "byline"
-        ],
-        "id": "",
-        "name": "p"
-      },
-      "html": "\n        <strong>about 1 hour ago</strong> by <a href=\"http://www.theverge.com/users/iJcaP\">iJcaP</a>\n        \n      ",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "article",
-        "aside",
-        "section",
-        "ul",
-        "li",
-        "p"
+        "span"
       ],
       "selector": [
         {
@@ -20743,357 +21237,22 @@
           ],
           "id": "",
           "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
         }
       ],
       "text": [
-        "about 1 hour ago",
-        " by ",
-        "iJcaP"
+        "1 comment"
       ]
     },
     {
       "bound": {
         "height": 17,
         "left": 992,
-        "top": 2571,
-        "width": 104
-      },
-      "computed": {
-        "background-color": "rgb(142, 194, 65)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(255, 255, 255)",
-        "border-left-color": "rgb(255, 255, 255)",
-        "border-right-color": "rgb(255, 255, 255)",
-        "border-top-color": "rgb(255, 255, 255)",
-        "color": "rgb(255, 255, 255)",
-        "display": "inline-block",
-        "font-family": "ff-din-web-condensed, helvetica, sans-serif",
-        "font-size": "12px",
-        "font-weight": "200",
-        "line-height": "12px",
-        "list-style-type": "none",
-        "margin-left": "1px",
-        "outline-color": "rgb(255, 255, 255)",
-        "padding-bottom": "1px",
-        "padding-left": "5px",
-        "padding-right": "5px",
-        "padding-top": "4px",
-        "text-transform": "uppercase"
-      },
-      "element": {
-        "classes": [
-          "android-army"
-        ],
-        "id": "",
-        "name": "a"
-      },
-      "html": "Android Army",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "article",
-        "aside",
-        "section",
-        "ul",
-        "li",
-        "p",
-        "a"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container-content",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "article-entry",
-            "hentry",
-            "permalink"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "border-l2",
-            "c-contain",
-            "column",
-            "grid_4",
-            "rightcol"
-          ],
-          "id": "",
-          "name": "aside"
-        },
-        {
-          "classes": [
-            "forum-posts",
-            "widget-itemlist",
-            "widget-recent",
-            "widget-recent-discussions"
-          ],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [
-            "categories"
-          ],
-          "id": "",
-          "name": "p"
-        },
-        {
-          "classes": [
-            "android-army"
-          ],
-          "id": "",
-          "name": "a"
-        }
-      ],
-      "text": [
-        "Android Army"
-      ]
-    },
-    {
-      "bound": {
-        "height": 20,
-        "left": 991,
-        "top": 2598,
-        "width": 300
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "font-family": "adelle, georgia",
-        "font-size": "14px",
-        "line-height": "20px",
-        "list-style-type": "none",
-        "margin-bottom": "2px",
-        "word-wrap": "break-word"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "<a href=\"http://www.theverge.com/2013/8/15/4625708/tell-me-about-chromebooks-and-chrome-os\">Tell me about Chromebooks and Chrome&nbsp;OS.</a>",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "article",
-        "aside",
-        "section",
-        "ul",
-        "li",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container-content",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "article-entry",
-            "hentry",
-            "permalink"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "border-l2",
-            "c-contain",
-            "column",
-            "grid_4",
-            "rightcol"
-          ],
-          "id": "",
-          "name": "aside"
-        },
-        {
-          "classes": [
-            "forum-posts",
-            "widget-itemlist",
-            "widget-recent",
-            "widget-recent-discussions"
-          ],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "Tell me about Chromebooks and Chrome OS."
-      ]
-    },
-    {
-      "bound": {
-        "height": 24,
-        "left": 991,
-        "top": 2620,
-        "width": 300
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(102, 102, 102)",
-        "border-left-color": "rgb(102, 102, 102)",
-        "border-right-color": "rgb(102, 102, 102)",
-        "border-top-color": "rgb(102, 102, 102)",
-        "color": "rgb(102, 102, 102)",
-        "font-family": "Helvetica, Arial, sans-serif",
-        "font-size": "10px",
-        "line-height": "23px",
-        "list-style-type": "none",
-        "outline-color": "rgb(102, 102, 102)",
-        "position": "relative"
-      },
-      "element": {
-        "classes": [
-          "byline"
-        ],
-        "id": "",
-        "name": "p"
-      },
-      "html": "\n        <strong>about 1 hour ago</strong> by <a href=\"http://www.theverge.com/users/PatrickT\">PatrickT</a>\n        \n      ",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "article",
-        "aside",
-        "section",
-        "ul",
-        "li",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container-content",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "article-entry",
-            "hentry",
-            "permalink"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "border-l2",
-            "c-contain",
-            "column",
-            "grid_4",
-            "rightcol"
-          ],
-          "id": "",
-          "name": "aside"
-        },
-        {
-          "classes": [
-            "forum-posts",
-            "widget-itemlist",
-            "widget-recent",
-            "widget-recent-discussions"
-          ],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [
-            "byline"
-          ],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "about 1 hour ago",
-        " by ",
-        "PatrickT"
-      ]
-    },
-    {
-      "bound": {
-        "height": 17,
-        "left": 992,
-        "top": 2665,
+        "top": 2629,
         "width": 120
       },
       "computed": {
@@ -21218,7 +21377,7 @@
       "bound": {
         "height": 40,
         "left": 991,
-        "top": 2692,
+        "top": 2656,
         "width": 300
       },
       "computed": {
@@ -21237,7 +21396,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "<a href=\"http://www.theverge.com/2013/8/15/4625648/bing-news-loads-faster-on-wp-then-on-windows-rt-seriously-wtf\">Bing News loads faster on WP then on Windows RT. Seriously,&nbsp;wtf?</a>",
+      "html": "<a href=\"http://www.theverge.com/2013/8/17/4632534/shouldnt-ms-look-inwards-before-asking-others\">Shouldn't MS look inwards before asking&nbsp;others?</a>",
       "path": [
         "div",
         "div",
@@ -21312,14 +21471,14 @@
         }
       ],
       "text": [
-        "Bing News loads faster on WP then on Windows RT. Seriously, wtf?"
+        "Shouldn't MS look inwards before asking others?"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 991,
-        "top": 2734,
+        "top": 2698,
         "width": 300
       },
       "computed": {
@@ -21345,7 +21504,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n        <strong>about 1 hour ago</strong> by <a href=\"http://www.theverge.com/users/DevilMaySpeak\">DevilMaySpeak</a>\n        \n          <span>8 comments</span>\n        \n      ",
+      "html": "\n        <strong>about 3 hours ago</strong> by <a href=\"http://www.theverge.com/users/Ashwin%20B\">Ashwin B</a>\n        \n          <span>10 comments</span>\n        \n      ",
       "path": [
         "div",
         "div",
@@ -21422,17 +21581,17 @@
         }
       ],
       "text": [
-        "about 1 hour ago",
+        "about 3 hours ago",
         " by ",
-        "DevilMaySpeak"
+        "Ashwin B"
       ]
     },
     {
       "bound": {
         "height": 23,
-        "left": 1211,
-        "top": 2734,
-        "width": 60
+        "left": 1205,
+        "top": 2698,
+        "width": 66
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -21457,7 +21616,7 @@
         "id": "",
         "name": "span"
       },
-      "html": "8 comments",
+      "html": "10 comments",
       "path": [
         "div",
         "div",
@@ -21540,18 +21699,18 @@
         }
       ],
       "text": [
-        "8 comments"
+        "10 comments"
       ]
     },
     {
       "bound": {
         "height": 17,
         "left": 992,
-        "top": 2779,
-        "width": 124
+        "top": 2743,
+        "width": 83
       },
       "computed": {
-        "background-color": "rgb(236, 132, 63)",
+        "background-color": "rgb(85, 171, 201)",
         "background-position": "0% 0%",
         "background-repeat": "repeat",
         "border-bottom-color": "rgb(255, 255, 255)",
@@ -21575,12 +21734,12 @@
       },
       "element": {
         "classes": [
-          "apps-software"
+          "apple-core"
         ],
         "id": "",
         "name": "a"
       },
-      "html": "Apps &amp; Software",
+      "html": "Apple Core",
       "path": [
         "div",
         "div",
@@ -21658,21 +21817,21 @@
         },
         {
           "classes": [
-            "apps-software"
+            "apple-core"
           ],
           "id": "",
           "name": "a"
         }
       ],
       "text": [
-        "Apps & Software"
+        "Apple Core"
       ]
     },
     {
       "bound": {
         "height": 20,
         "left": 991,
-        "top": 2806,
+        "top": 2770,
         "width": 300
       },
       "computed": {
@@ -21691,7 +21850,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "<a href=\"http://www.theverge.com/2013/8/15/4625622/why-calendar-apps-are-booming\">Why Calendar Apps are&nbsp;booming?</a>",
+      "html": "<a href=\"http://www.theverge.com/2013/8/17/4632418/reactions-to-the-iphone-5s\">Reactions to the iPhone&nbsp;5S</a>",
       "path": [
         "div",
         "div",
@@ -21766,14 +21925,14 @@
         }
       ],
       "text": [
-        "Why Calendar Apps are booming?"
+        "Reactions to the iPhone 5S"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 991,
-        "top": 2828,
+        "top": 2792,
         "width": 300
       },
       "computed": {
@@ -21799,7 +21958,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n        <strong>about 2 hours ago</strong> by <a href=\"http://www.theverge.com/users/Atargatis\">Atargatis</a>\n        \n      ",
+      "html": "\n        <strong>about 4 hours ago</strong> by <a href=\"http://www.theverge.com/users/kvndugan\">kvndugan</a>\n        \n          <span>10 comments</span>\n        \n      ",
       "path": [
         "div",
         "div",
@@ -21876,354 +22035,470 @@
         }
       ],
       "text": [
-        "about 2 hours ago",
+        "about 4 hours ago",
         " by ",
-        "Atargatis"
-      ]
-    },
-    {
-      "bound": {
-        "height": 17,
-        "left": 992,
-        "top": 2873,
-        "width": 104
-      },
-      "computed": {
-        "background-color": "rgb(142, 194, 65)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(255, 255, 255)",
-        "border-left-color": "rgb(255, 255, 255)",
-        "border-right-color": "rgb(255, 255, 255)",
-        "border-top-color": "rgb(255, 255, 255)",
-        "color": "rgb(255, 255, 255)",
-        "display": "inline-block",
-        "font-family": "ff-din-web-condensed, helvetica, sans-serif",
-        "font-size": "12px",
-        "font-weight": "200",
-        "line-height": "12px",
-        "list-style-type": "none",
-        "margin-left": "1px",
-        "outline-color": "rgb(255, 255, 255)",
-        "padding-bottom": "1px",
-        "padding-left": "5px",
-        "padding-right": "5px",
-        "padding-top": "4px",
-        "text-transform": "uppercase"
-      },
-      "element": {
-        "classes": [
-          "android-army"
-        ],
-        "id": "",
-        "name": "a"
-      },
-      "html": "Android Army",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "article",
-        "aside",
-        "section",
-        "ul",
-        "li",
-        "p",
-        "a"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container-content",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "article-entry",
-            "hentry",
-            "permalink"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "border-l2",
-            "c-contain",
-            "column",
-            "grid_4",
-            "rightcol"
-          ],
-          "id": "",
-          "name": "aside"
-        },
-        {
-          "classes": [
-            "forum-posts",
-            "widget-itemlist",
-            "widget-recent",
-            "widget-recent-discussions"
-          ],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [
-            "categories"
-          ],
-          "id": "",
-          "name": "p"
-        },
-        {
-          "classes": [
-            "android-army"
-          ],
-          "id": "",
-          "name": "a"
-        }
-      ],
-      "text": [
-        "Android Army"
-      ]
-    },
-    {
-      "bound": {
-        "height": 20,
-        "left": 991,
-        "top": 2900,
-        "width": 300
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "font-family": "adelle, georgia",
-        "font-size": "14px",
-        "line-height": "20px",
-        "list-style-type": "none",
-        "margin-bottom": "2px",
-        "word-wrap": "break-word"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "h3"
-      },
-      "html": "<a href=\"http://www.theverge.com/2013/8/15/4625464/going-to-try-out-android-a-few-questions\">Going to try out Android, a few&nbsp;questions</a>",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "article",
-        "aside",
-        "section",
-        "ul",
-        "li",
-        "h3"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container-content",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "article-entry",
-            "hentry",
-            "permalink"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "border-l2",
-            "c-contain",
-            "column",
-            "grid_4",
-            "rightcol"
-          ],
-          "id": "",
-          "name": "aside"
-        },
-        {
-          "classes": [
-            "forum-posts",
-            "widget-itemlist",
-            "widget-recent",
-            "widget-recent-discussions"
-          ],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "h3"
-        }
-      ],
-      "text": [
-        "Going to try out Android, a few questions"
-      ]
-    },
-    {
-      "bound": {
-        "height": 24,
-        "left": 991,
-        "top": 2922,
-        "width": 300
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(102, 102, 102)",
-        "border-left-color": "rgb(102, 102, 102)",
-        "border-right-color": "rgb(102, 102, 102)",
-        "border-top-color": "rgb(102, 102, 102)",
-        "color": "rgb(102, 102, 102)",
-        "font-family": "Helvetica, Arial, sans-serif",
-        "font-size": "10px",
-        "line-height": "23px",
-        "list-style-type": "none",
-        "outline-color": "rgb(102, 102, 102)",
-        "position": "relative"
-      },
-      "element": {
-        "classes": [
-          "byline"
-        ],
-        "id": "",
-        "name": "p"
-      },
-      "html": "\n        <strong>about 2 hours ago</strong> by <a href=\"http://www.theverge.com/users/Majestik\">Majestik</a>\n        \n          <span>14 comments</span>\n        \n      ",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "article",
-        "aside",
-        "section",
-        "ul",
-        "li",
-        "p"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container-content",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "article-entry",
-            "hentry",
-            "permalink"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "border-l2",
-            "c-contain",
-            "column",
-            "grid_4",
-            "rightcol"
-          ],
-          "id": "",
-          "name": "aside"
-        },
-        {
-          "classes": [
-            "forum-posts",
-            "widget-itemlist",
-            "widget-recent",
-            "widget-recent-discussions"
-          ],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [
-            "byline"
-          ],
-          "id": "",
-          "name": "p"
-        }
-      ],
-      "text": [
-        "about 2 hours ago",
-        " by ",
-        "Majestik"
+        "kvndugan"
       ]
     },
     {
       "bound": {
         "height": 23,
         "left": 1205,
-        "top": 2922,
+        "top": 2792,
+        "width": 66
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "10px",
+        "font-weight": "bold",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "margin-right": "20px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "span"
+      },
+      "html": "10 comments",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "p",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "forum-posts",
+            "widget-itemlist",
+            "widget-recent",
+            "widget-recent-discussions"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "byline"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "10 comments"
+      ]
+    },
+    {
+      "bound": {
+        "height": 17,
+        "left": 992,
+        "top": 2837,
+        "width": 120
+      },
+      "computed": {
+        "background-color": "rgb(84, 104, 255)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-block",
+        "font-family": "ff-din-web-condensed, helvetica, sans-serif",
+        "font-size": "12px",
+        "font-weight": "200",
+        "line-height": "12px",
+        "list-style-type": "none",
+        "margin-left": "1px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-bottom": "1px",
+        "padding-left": "5px",
+        "padding-right": "5px",
+        "padding-top": "4px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "microsoft-tribe"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Microsoft Tribe",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "p",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "forum-posts",
+            "widget-itemlist",
+            "widget-recent",
+            "widget-recent-discussions"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "categories"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "microsoft-tribe"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Microsoft Tribe"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 991,
+        "top": 2864,
+        "width": 300
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-family": "adelle, georgia",
+        "font-size": "14px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "2px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "<a href=\"http://www.theverge.com/2013/8/17/4632444/rt-or-chromeos\">RT or&nbsp;ChromeOS?</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "forum-posts",
+            "widget-itemlist",
+            "widget-recent",
+            "widget-recent-discussions"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "RT or ChromeOS?"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 991,
+        "top": 2886,
+        "width": 300
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "10px",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "position": "relative"
+      },
+      "element": {
+        "classes": [
+          "byline"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n        <strong>about 4 hours ago</strong> by <a href=\"http://www.theverge.com/users/niceK\">niceK</a>\n        \n          <span>14 comments</span>\n        \n      ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "forum-posts",
+            "widget-itemlist",
+            "widget-recent",
+            "widget-recent-discussions"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "byline"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "about 4 hours ago",
+        " by ",
+        "niceK"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 1205,
+        "top": 2886,
         "width": 66
       },
       "computed": {
@@ -22339,7 +22614,461 @@
       "bound": {
         "height": 17,
         "left": 992,
-        "top": 2967,
+        "top": 2931,
+        "width": 59
+      },
+      "computed": {
+        "background-color": "rgb(233, 69, 128)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "display": "inline-block",
+        "font-family": "ff-din-web-condensed, helvetica, sans-serif",
+        "font-size": "12px",
+        "font-weight": "200",
+        "line-height": "12px",
+        "list-style-type": "none",
+        "margin-left": "1px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-bottom": "1px",
+        "padding-left": "5px",
+        "padding-right": "5px",
+        "padding-top": "4px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "gaming"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Gaming",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "p",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "forum-posts",
+            "widget-itemlist",
+            "widget-recent",
+            "widget-recent-discussions"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "categories"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "gaming"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Gaming"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 991,
+        "top": 2958,
+        "width": 300
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-family": "adelle, georgia",
+        "font-size": "14px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "2px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "<a href=\"http://www.theverge.com/2013/8/17/4632420/what-will-you-do-if-steam-shuts-down\">What will you do if Steam shuts&nbsp;down?</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "forum-posts",
+            "widget-itemlist",
+            "widget-recent",
+            "widget-recent-discussions"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "What will you do if Steam shuts down?"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 991,
+        "top": 2980,
+        "width": 300
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "10px",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "position": "relative"
+      },
+      "element": {
+        "classes": [
+          "byline"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n        <strong>about 4 hours ago</strong> by <a href=\"http://www.theverge.com/users/ifeu\">ifeu</a>\n        \n          <span>5 comments</span>\n        \n      ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "forum-posts",
+            "widget-itemlist",
+            "widget-recent",
+            "widget-recent-discussions"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "byline"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "about 4 hours ago",
+        " by ",
+        "ifeu"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 1211,
+        "top": 2980,
+        "width": 60
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "float": "right",
+        "font-family": "Helvetica, Arial, sans-serif",
+        "font-size": "10px",
+        "font-weight": "bold",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "margin-right": "20px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "span"
+      },
+      "html": "5 comments",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "p",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "forum-posts",
+            "widget-itemlist",
+            "widget-recent",
+            "widget-recent-discussions"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "byline"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "5 comments"
+      ]
+    },
+    {
+      "bound": {
+        "height": 17,
+        "left": 992,
+        "top": 3025,
         "width": 120
       },
       "computed": {
@@ -22462,9 +23191,9 @@
     },
     {
       "bound": {
-        "height": 40,
+        "height": 20,
         "left": 991,
-        "top": 2994,
+        "top": 3052,
         "width": 300
       },
       "computed": {
@@ -22483,7 +23212,7 @@
         "id": "",
         "name": "h3"
       },
-      "html": "<a href=\"http://www.theverge.com/2013/8/15/4625348/neilson-in-the-us-samsung-sells-more-wp-than-htc-58-of-nokia\">Neilson: In the US, Samsung sells more WP than HTC; 58% of&nbsp;Nokia</a>",
+      "html": "<a href=\"http://www.theverge.com/2013/8/17/4632272/i-just-dropped-my-lumia-820\">I just dropped my Lumia&nbsp;820..</a>",
       "path": [
         "div",
         "div",
@@ -22558,14 +23287,14 @@
         }
       ],
       "text": [
-        "Neilson: In the US, Samsung sells more WP than HTC; 58% of Nokia"
+        "I just dropped my Lumia 820.."
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 991,
-        "top": 3036,
+        "top": 3074,
         "width": 300
       },
       "computed": {
@@ -22591,7 +23320,7 @@
         "id": "",
         "name": "p"
       },
-      "html": "\n        <strong>about 3 hours ago</strong> by <a href=\"http://www.theverge.com/users/descendency\">descendency</a>\n        \n          <span>10 comments</span>\n        \n      ",
+      "html": "\n        <strong>about 5 hours ago</strong> by <a href=\"http://www.theverge.com/users/Kathranis\">Kathranis</a>\n        \n          <span>2 comments</span>\n        \n      ",
       "path": [
         "div",
         "div",
@@ -22668,17 +23397,17 @@
         }
       ],
       "text": [
-        "about 3 hours ago",
+        "about 5 hours ago",
         " by ",
-        "descendency"
+        "Kathranis"
       ]
     },
     {
       "bound": {
         "height": 23,
-        "left": 1205,
-        "top": 3036,
-        "width": 66
+        "left": 1211,
+        "top": 3074,
+        "width": 60
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -22703,7 +23432,7 @@
         "id": "",
         "name": "span"
       },
-      "html": "10 comments",
+      "html": "2 comments",
       "path": [
         "div",
         "div",
@@ -22786,14 +23515,14 @@
         }
       ],
       "text": [
-        "10 comments"
+        "2 comments"
       ]
     },
     {
       "bound": {
         "height": 47,
         "left": 1117,
-        "top": 3091,
+        "top": 3129,
         "width": 47
       },
       "computed": {
@@ -22919,7 +23648,7 @@
       "bound": {
         "height": 88,
         "left": 291,
-        "top": 3595,
+        "top": 3538,
         "width": 239
       },
       "computed": {
@@ -23007,7 +23736,7 @@
       "bound": {
         "height": 14,
         "left": 632,
-        "top": 3299,
+        "top": 3242,
         "width": 170
       },
       "computed": {
@@ -23083,7 +23812,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3320,
+        "top": 3263,
         "width": 148
       },
       "computed": {
@@ -23164,7 +23893,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3341,
+        "top": 3284,
         "width": 148
       },
       "computed": {
@@ -23245,7 +23974,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3362,
+        "top": 3305,
         "width": 148
       },
       "computed": {
@@ -23326,7 +24055,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3383,
+        "top": 3326,
         "width": 148
       },
       "computed": {
@@ -23407,7 +24136,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3404,
+        "top": 3347,
         "width": 148
       },
       "computed": {
@@ -23488,7 +24217,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3425,
+        "top": 3368,
         "width": 148
       },
       "computed": {
@@ -23569,7 +24298,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3446,
+        "top": 3389,
         "width": 148
       },
       "computed": {
@@ -23650,7 +24379,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3467,
+        "top": 3410,
         "width": 148
       },
       "computed": {
@@ -23731,7 +24460,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3488,
+        "top": 3431,
         "width": 148
       },
       "computed": {
@@ -23812,7 +24541,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3509,
+        "top": 3452,
         "width": 148
       },
       "computed": {
@@ -23893,7 +24622,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3530,
+        "top": 3473,
         "width": 148
       },
       "computed": {
@@ -23974,7 +24703,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3551,
+        "top": 3494,
         "width": 148
       },
       "computed": {
@@ -24055,7 +24784,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3572,
+        "top": 3515,
         "width": 148
       },
       "computed": {
@@ -24136,7 +24865,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3593,
+        "top": 3536,
         "width": 148
       },
       "computed": {
@@ -24217,7 +24946,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3614,
+        "top": 3557,
         "width": 148
       },
       "computed": {
@@ -24298,7 +25027,7 @@
       "bound": {
         "height": 21,
         "left": 654,
-        "top": 3635,
+        "top": 3578,
         "width": 148
       },
       "computed": {
@@ -24379,7 +25108,7 @@
       "bound": {
         "height": 14,
         "left": 803,
-        "top": 3299,
+        "top": 3242,
         "width": 170
       },
       "computed": {
@@ -24455,7 +25184,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 3320,
+        "top": 3263,
         "width": 148
       },
       "computed": {
@@ -24536,7 +25265,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 3341,
+        "top": 3284,
         "width": 148
       },
       "computed": {
@@ -24617,7 +25346,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 3362,
+        "top": 3305,
         "width": 148
       },
       "computed": {
@@ -24698,7 +25427,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 3383,
+        "top": 3326,
         "width": 148
       },
       "computed": {
@@ -24779,7 +25508,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 3404,
+        "top": 3347,
         "width": 148
       },
       "computed": {
@@ -24860,7 +25589,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 3425,
+        "top": 3368,
         "width": 148
       },
       "computed": {
@@ -24941,7 +25670,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 3446,
+        "top": 3389,
         "width": 148
       },
       "computed": {
@@ -25022,7 +25751,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 3467,
+        "top": 3410,
         "width": 148
       },
       "computed": {
@@ -25103,7 +25832,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 3488,
+        "top": 3431,
         "width": 148
       },
       "computed": {
@@ -25184,7 +25913,7 @@
       "bound": {
         "height": 21,
         "left": 825,
-        "top": 3509,
+        "top": 3452,
         "width": 148
       },
       "computed": {
@@ -25265,7 +25994,7 @@
       "bound": {
         "height": 14,
         "left": 974,
-        "top": 3299,
+        "top": 3242,
         "width": 170
       },
       "computed": {
@@ -25341,7 +26070,7 @@
       "bound": {
         "height": 31,
         "left": 996,
-        "top": 3320,
+        "top": 3263,
         "width": 148
       },
       "computed": {
@@ -25426,7 +26155,7 @@
       "bound": {
         "height": 31,
         "left": 996,
-        "top": 3359,
+        "top": 3302,
         "width": 148
       },
       "computed": {
@@ -25511,7 +26240,7 @@
       "bound": {
         "height": 31,
         "left": 996,
-        "top": 3398,
+        "top": 3341,
         "width": 148
       },
       "computed": {
@@ -25596,7 +26325,7 @@
       "bound": {
         "height": 31,
         "left": 996,
-        "top": 3437,
+        "top": 3380,
         "width": 148
       },
       "computed": {
@@ -25681,7 +26410,7 @@
       "bound": {
         "height": 31,
         "left": 996,
-        "top": 3476,
+        "top": 3419,
         "width": 148
       },
       "computed": {
@@ -25766,7 +26495,7 @@
       "bound": {
         "height": 31,
         "left": 996,
-        "top": 3515,
+        "top": 3458,
         "width": 148
       },
       "computed": {
@@ -25851,7 +26580,7 @@
       "bound": {
         "height": 32,
         "left": 1055,
-        "top": 3631,
+        "top": 3574,
         "width": 233
       },
       "computed": {
@@ -26290,7 +27019,7 @@
           "name": "img"
         }
       ],
-      "src": "http://cdn0.sbnation.com/entry_photo_images/8755045/Untitled-1_large_small.jpg"
+      "src": "http://cdn3.sbnation.com/entry_photo_images/8760485/Pollock-detail_large_small.jpg"
     },
     {
       "bound": {
@@ -26410,13 +27139,13 @@
           "name": "img"
         }
       ],
-      "src": "http://cdn1.sbnation.com/entry_photo_images/8755219/5264271568_6c810b23ba_z_large_small.jpg"
+      "src": "http://cdn2.sbnation.com/entry_photo_images/8760361/800px-Monosodium_glutamate_spacefill_large_small.png"
     },
     {
       "bound": {
         "height": 56,
         "left": 991,
-        "top": 949,
+        "top": 932,
         "width": 85
       },
       "computed": {
@@ -26530,13 +27259,13 @@
           "name": "img"
         }
       ],
-      "src": "http://cdn2.sbnation.com/entry_photo_images/8755103/ESPN_large_small.jpg"
+      "src": "http://cdn3.sbnation.com/entry_photo_images/8760709/twitter-android-app-41_2040_large_small.jpg"
     },
     {
       "bound": {
         "height": 56,
         "left": 991,
-        "top": 1052,
+        "top": 1018,
         "width": 85
       },
       "computed": {
@@ -26650,13 +27379,13 @@
           "name": "img"
         }
       ],
-      "src": "http://cdn3.sbnation.com/entry_photo_images/8754827/f1fb2db4e51611e2b05d22000a1f9375_7_large_small.jpg"
+      "src": "http://cdn3.sbnation.com/entry_photo_images/8760189/outlookoutage1_640_large_small.jpg"
     },
     {
       "bound": {
         "height": 56,
         "left": 991,
-        "top": 1138,
+        "top": 1121,
         "width": 85
       },
       "computed": {
@@ -26770,7 +27499,7 @@
           "name": "img"
         }
       ],
-      "src": "http://cdn0.sbnation.com/entry_photo_images/8754893/youtubewp81_640_large_small.jpg"
+      "src": "http://cdn1.sbnation.com/entry_photo_images/8760145/aljazeera_large_small.png"
     },
     {
       "bound": {
@@ -26905,13 +27634,148 @@
           "name": "img"
         }
       ],
-      "src": "http://cdn1.sbnation.com/entry_photo_images/8754883/The_Vergecast_large_small.jpg"
+      "src": "http://cdn1.sbnation.com/entry_photo_images/8759097/90sotv1_1020_large_small.jpg"
     },
     {
       "bound": {
         "height": 55,
         "left": 991,
-        "top": 1366,
+        "top": 1402,
+        "width": 85
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(251, 72, 52)",
+        "border-left-color": "rgb(251, 72, 52)",
+        "border-right-color": "rgb(251, 72, 52)",
+        "border-top-color": "rgb(251, 72, 52)",
+        "color": "rgb(251, 72, 52)",
+        "float": "left",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "margin-right": "20px",
+        "outline-color": "rgb(251, 72, 52)",
+        "position": "absolute"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "aside",
+        "section",
+        "ul",
+        "li",
+        "a",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "widget-itemlist",
+            "widget-related",
+            "widget-related-media"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "media-wrapper",
+            "video"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "image-window",
+            "shadowbox"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://cdn1.sbnation.com/entry_photo_images/8757821/VHO_089_MotoMaker_still_large_small.jpg"
+    },
+    {
+      "bound": {
+        "height": 55,
+        "left": 991,
+        "top": 1490,
         "width": 85
       },
       "computed": {
@@ -27040,13 +27904,13 @@
           "name": "img"
         }
       ],
-      "src": "http://cdn2.sbnation.com/entry_photo_images/8752983/9457067672_f8cd517738_b_small.jpg"
+      "src": "http://cdn1.sbnation.com/entry_photo_images/8752369/radiant_9_large_small.jpg"
     },
     {
       "bound": {
         "height": 55,
         "left": 991,
-        "top": 1454,
+        "top": 1578,
         "width": 85
       },
       "computed": {
@@ -27175,13 +28039,13 @@
           "name": "img"
         }
       ],
-      "src": "http://cdn3.sbnation.com/entry_photo_images/8750353/90sotv1_1020_large_small.jpg"
+      "src": "http://cdn3.sbnation.com/entry_photo_images/8756571/90sotv1_1020_large_small.jpg"
     },
     {
       "bound": {
         "height": 55,
         "left": 991,
-        "top": 1560,
+        "top": 1702,
         "width": 85
       },
       "computed": {
@@ -27310,357 +28174,13 @@
           "name": "img"
         }
       ],
-      "src": "http://cdn1.sbnation.com/entry_photo_images/8749293/TOP_020_Bikes_v2.Still005_large_small.jpg"
-    },
-    {
-      "bound": {
-        "height": 55,
-        "left": 991,
-        "top": 1666,
-        "width": 85
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(251, 72, 52)",
-        "border-left-color": "rgb(251, 72, 52)",
-        "border-right-color": "rgb(251, 72, 52)",
-        "border-top-color": "rgb(251, 72, 52)",
-        "color": "rgb(251, 72, 52)",
-        "float": "left",
-        "font-size": "11px",
-        "line-height": "17px",
-        "list-style-type": "none",
-        "margin-right": "20px",
-        "outline-color": "rgb(251, 72, 52)",
-        "position": "absolute"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "article",
-        "aside",
-        "section",
-        "ul",
-        "li",
-        "a",
-        "div",
-        "div",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container-content",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "article-entry",
-            "hentry",
-            "permalink"
-          ],
-          "id": "",
-          "name": "article"
-        },
-        {
-          "classes": [
-            "border-l2",
-            "c-contain",
-            "column",
-            "grid_4",
-            "rightcol"
-          ],
-          "id": "",
-          "name": "aside"
-        },
-        {
-          "classes": [
-            "widget-itemlist",
-            "widget-related",
-            "widget-related-media"
-          ],
-          "id": "",
-          "name": "section"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "ul"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "li"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "media-wrapper",
-            "video"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "image-window",
-            "shadowbox"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://cdn3.sbnation.com/entry_photo_images/8749179/TSS_043_EWheels_v10.Still004_large_small.jpg"
+      "src": "http://cdn1.sbnation.com/entry_photo_images/8754883/The_Vergecast_large_small.jpg"
     },
     {
       "bound": {
         "height": 1,
         "left": 0,
-        "top": 15,
-        "width": 1
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "display": "inline",
-        "text-align": "center",
-        "visibility": "hidden"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "btf-leaderboard",
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "open_x_ad",
-            "open_x_btf_leaderboard"
-          ],
-          "id": "open_x_ad_unit_321091",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "beacon_99081457",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://ox-d.sbnation.com/w/1.0/ri?ts=1fHNpZD01MDU2MnxyYWlkPWMwM2UwYzU3LTgwODQtNGYyNS1iYzZiLTBmMjE0MWI1MmM3YXxhdWlkPTM2NDI2Mnx1cj1YVTJsNzdDRDY4fGFzPTcyOHg5MHxhaWQ9MTI2NTE1MXxwdWI9ODk0MXxhdW09RE1JRC5NT0JJTEV8bGlkPTc1MDc2Nnx1PTF8dD0xMHxyaWQ9Zjg1MGM0ZTYtZmZhMi00ODQ5LWJmZTMtZDE5MGQxZTRjZTI2fG9pZD0xOTg3Mjh8Ym09QlVZSU5HLkdVQVJBTlRFRURWT0xVTUVHT0FMfHA9MTAwMDB8cGM9VVNEfGFjPVVTRHxwbT1QUklDSU5HLkNQTXxydD0xMzc2NjA0MzI3fHByPTEwMDAwfGFkdj0xMTYxNjY"
-    },
-    {
-      "bound": {
-        "height": 90,
-        "left": 436,
-        "top": 3171,
-        "width": 728
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "border-bottom-color": "rgb(251, 72, 52)",
-        "border-left-color": "rgb(251, 72, 52)",
-        "border-right-color": "rgb(251, 72, 52)",
-        "border-top-color": "rgb(251, 72, 52)",
-        "color": "rgb(251, 72, 52)",
-        "display": "inline",
-        "outline-color": "rgb(251, 72, 52)",
-        "text-align": "center"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "a",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "btf-leaderboard",
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "open_x_ad",
-            "open_x_btf_leaderboard"
-          ],
-          "id": "open_x_ad_unit_321091",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "a"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://ox-i.sbnation.com/023/0238cbd0c099a74a0f401d17ffde973b8e941e1d/5e6/5e6e19c22956a8d8210ef21de710ffa3.jpg"
-    },
-    {
-      "bound": {
-        "height": 1,
-        "left": 0,
-        "top": 15,
-        "width": 1
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-position": "0% 0%",
-        "background-repeat": "repeat",
-        "display": "inline",
-        "text-align": "center",
-        "visibility": "hidden"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "img"
-      },
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "img"
-      ],
-      "selector": [
-        {
-          "classes": [],
-          "id": "super",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "container",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "btf-leaderboard",
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "open_x_ad",
-            "open_x_btf_leaderboard"
-          ],
-          "id": "open_x_ad_unit_321091",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "img"
-        }
-      ],
-      "src": "http://ad.doubleclick.net/ad/N8334.529834.VOXMEDIAINC/B7678650.11;sz=1x1;ord=[timestamp]?"
-    },
-    {
-      "bound": {
-        "height": 1,
-        "left": 0,
-        "top": 3709,
+        "top": 3652,
         "width": 1
       },
       "computed": {
