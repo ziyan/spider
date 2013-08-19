@@ -1,0 +1,2615 @@
+[
+  {
+    "confidence": 0.08333333333333333,
+    "score": 4.714619985366585,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4616820/heathrow-future-expansion-report": {
+        "content": "Drunk and chic meet Lapka BAM the iPhone of breathalyzers",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4604896/praktrik-burr-puzzle-furniture": {
+        "content": "Civilization Online will turn Sid Meier s strategy classic into a",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4604876/national-geographic-living-with-lions-serengeti-robot-drone-photography": {
+        "content": "Verge favorites Matt Stroud",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "Card Hunter is the next great board game and it s all in your browser",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605758/memory-observation-and-manipulation-techniques": {
+        "content": "Twitter Music iOS app aims to improve listening with top tracks library",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/8/4604048/nsa-chief-wants-to-replace-employees-with-machines": {
+        "content": "Silent Circle sees writing on the wall shuts down secure email service",
+        "score": 4.714619985366585
+      },
+      "http://www.theverge.com/2013/8/9/4604890/xbox-live-home-gold-xbox-one-game-sharing": {
+        "content": "Apple shouldn t be rewarded with less severe punishments for ebook price",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/13/4617930/message-unread-silicon-valleys-secret-failed-bid-to-save-blackberry": {
+        "content": "Verge Mobile Show 058 when two avocados really love one another",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "Microsoft committed to original Xbox One plans reveals new Home Gold",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4606616/president-obama-announces-new-surveillance-reforms": {
+        "content": "Up director Pete Docter wows with Inside Out preview at Disney s D23 Expo",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/8/4602772/elon-musk-richard-branson-google-hangout-offers-startup-ceo-advice": {
+        "content": "A terrifying robot shows you the emotions slime mold can t express",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/5/4587566/jeff-bezos-buys-the-washington-post/in/4359725": {
+        "content": "Redefining the espresso shot scientists convert coffee grounds into liquor",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > nav.clearfix.story-navigation.row > ul > li.column.grid_6.next > a": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story-navigation",
+            "row"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "column",
+            "grid_6",
+            "next"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 7.487208707606365,
+    "pages": {
+      "http://www.theverge.com/2013/8/8/4602772/elon-musk-richard-branson-google-hangout-offers-startup-ceo-advice": {
+        "content": "Google4Entrepreneurs YouTube",
+        "score": 7.487208707606365
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.article-entry.hentry.permalink > div.border-r.c-contain.column.grid_8.pad-bot0 > div.article-body.entry-content.instapaper_body > div.article-meta.clearfix > ul.clearfix.simplelist.sourcelist > li.clearfix.source > span > a": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-r",
+            "c-contain",
+            "column",
+            "grid_8",
+            "pad-bot0"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body",
+            "entry-content",
+            "instapaper_body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-meta",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "simplelist",
+            "sourcelist"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "source"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.8333333333333334,
+    "score": 5610.089009684149,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4617930/message-unread-silicon-valleys-secret-failed-bid-to-save-blackberry": {
+        "content": "Former Blackberry co CEO sells off entire stake in the company he helped build RIM s first patent settlement payment to Nokia is 65 million RIM agrees to pay Nokia for patent licenses US Immigration and Customs Enforcement agency ends BlackBerry contract will issue iPhones instead Microsoft and RIM battle for third place but is four a crowd",
+        "score": 1467.6166990546856
+      },
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "Pushing pixels with Paul Robertson the artist behind Mercenary Kings and Scott Pilgrim The Game It s Bruce Sterling s novel we just live in it Welcome to The World s End a conversation with Edgar Wright Simon Pegg and Nick Frost Remembering Stanley Christiane Kubrick on protecting the legacy of a master How murderers tell stories director Joshua Oppenheimer on The Act of Killing",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "Apple s award in Samsung trial chopped to 598 million from over 1 billion Judge rules that Samsung did not infringe Apple patents willfully Apple denied permanent sales ban on infringing Samsung products Samsung argues jury foreman was deliberately dishonest in Apple trial Apple rebuts juror misconduct claims says Samsung dropped the ball",
+        "score": 906.8336703597213
+      },
+      "http://www.theverge.com/2013/8/8/4604048/nsa-chief-wants-to-replace-employees-with-machines": {
+        "content": "Snowden reportedly had access to classified NSA documents even as a Dell contractor Top secret NSA audit reveals thousands of privacy violations per year White House says intelligence chief James Clapper won t lead NSA review NSA analysts earned skilz points by training for XKeyscore surveillance says new report House Intelligence Committee kept Congress in the dark about NSA spying says representative NSA memo says the agency monitors 1 6 percent of all internet traffic",
+        "score": 9660.93286153133
+      },
+      "http://www.theverge.com/2013/8/5/4587566/jeff-bezos-buys-the-washington-post/in/4359725": {
+        "content": "What if you could Amazon the news Why Jeff Bezos invested in The Washington Post Sources at Washington Post during Bezos announcement It was like a funeral Jeff Bezos memo to Washington Post staff I already have a day job",
+        "score": 11605.294623987906
+      },
+      "http://www.theverge.com/2013/8/9/4606616/president-obama-announces-new-surveillance-reforms": {
+        "content": "Snowden reportedly had access to classified NSA documents even as a Dell contractor Top secret NSA audit reveals thousands of privacy violations per year White House says intelligence chief James Clapper won t lead NSA review NSA analysts earned skilz points by training for XKeyscore surveillance says new report House Intelligence Committee kept Congress in the dark about NSA spying says representative NSA memo says the agency monitors 1 6 percent of all internet traffic",
+        "score": 4409.767193487099
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > aside.column.rightcol.border-l2.c-contain.grid_4 > section.storystream-nav > div > div#stream0.active.stream-pane.pane > ul#stream0_updates.updatelist > li.clearfix > a": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "rightcol",
+            "border-l2",
+            "c-contain",
+            "grid_4"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "storystream-nav"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "active",
+            "stream-pane",
+            "pane"
+          ],
+          "id": "stream0",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "updatelist"
+          ],
+          "id": "stream0_updates",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.09090909090909091,
+    "score": 1.1162826881059327,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4617930/message-unread-silicon-valleys-secret-failed-bid-to-save-blackberry": {
+        "content": "Samsung Galaxy Gear Nokia s Windows RT tablet and Area 51 90 Seconds on The Verge MotoMaker how to design your Moto X Radiant Soil by Philip Beesley YouTube for Windows Phone Microsoft and an ancient board game 90 Seconds on The Verge The Vergecast 089 August 15th 2013",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4604896/praktrik-burr-puzzle-furniture": {
+        "content": "Samsung Galaxy Gear Nokia s Windows RT tablet and Area 51 90 Seconds on The Verge MotoMaker how to design your Moto X Radiant Soil by Philip Beesley YouTube for Windows Phone Microsoft and an ancient board game 90 Seconds on The Verge The Vergecast 089 August 15th 2013",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4604876/national-geographic-living-with-lions-serengeti-robot-drone-photography": {
+        "content": "Samsung Galaxy Gear Nokia s Windows RT tablet and Area 51 90 Seconds on The Verge MotoMaker how to design your Moto X Radiant Soil by Philip Beesley YouTube for Windows Phone Microsoft and an ancient board game 90 Seconds on The Verge The Vergecast 089 August 15th 2013",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "Samsung Galaxy Gear Nokia s Windows RT tablet and Area 51 90 Seconds on The Verge MotoMaker how to design your Moto X Radiant Soil by Philip Beesley YouTube for Windows Phone Microsoft and an ancient board game 90 Seconds on The Verge The Vergecast 089 August 15th 2013",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605758/memory-observation-and-manipulation-techniques": {
+        "content": "Samsung Galaxy Gear Nokia s Windows RT tablet and Area 51 90 Seconds on The Verge MotoMaker how to design your Moto X Radiant Soil by Philip Beesley YouTube for Windows Phone Microsoft and an ancient board game 90 Seconds on The Verge The Vergecast 089 August 15th 2013",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/8/4604048/nsa-chief-wants-to-replace-employees-with-machines": {
+        "content": "Samsung Galaxy Gear Nokia s Windows RT tablet and Area 51 90 Seconds on The Verge MotoMaker how to design your Moto X Radiant Soil by Philip Beesley YouTube for Windows Phone Microsoft and an ancient board game 90 Seconds on The Verge The Vergecast 089 August 15th 2013",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4604890/xbox-live-home-gold-xbox-one-game-sharing": {
+        "content": "Samsung Galaxy Gear Nokia s Windows RT tablet and Area 51 90 Seconds on The Verge MotoMaker how to design your Moto X Radiant Soil by Philip Beesley YouTube for Windows Phone Microsoft and an ancient board game 90 Seconds on The Verge The Vergecast 089 August 15th 2013",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "Samsung Galaxy Gear Nokia s Windows RT tablet and Area 51 90 Seconds on The Verge MotoMaker how to design your Moto X Radiant Soil by Philip Beesley YouTube for Windows Phone Microsoft and an ancient board game 90 Seconds on The Verge The Vergecast 089 August 15th 2013",
+        "score": 1.1162826881059327
+      },
+      "http://www.theverge.com/2013/8/9/4606616/president-obama-announces-new-surveillance-reforms": {
+        "content": "Samsung Galaxy Gear Nokia s Windows RT tablet and Area 51 90 Seconds on The Verge MotoMaker how to design your Moto X Radiant Soil by Philip Beesley YouTube for Windows Phone Microsoft and an ancient board game 90 Seconds on The Verge The Vergecast 089 August 15th 2013",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/8/4602772/elon-musk-richard-branson-google-hangout-offers-startup-ceo-advice": {
+        "content": "Samsung Galaxy Gear Nokia s Windows RT tablet and Area 51 90 Seconds on The Verge MotoMaker how to design your Moto X Radiant Soil by Philip Beesley YouTube for Windows Phone Microsoft and an ancient board game 90 Seconds on The Verge The Vergecast 089 August 15th 2013",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/5/4587566/jeff-bezos-buys-the-washington-post/in/4359725": {
+        "content": "Samsung Galaxy Gear Nokia s Windows RT tablet and Area 51 90 Seconds on The Verge MotoMaker how to design your Moto X Radiant Soil by Philip Beesley YouTube for Windows Phone Microsoft and an ancient board game 90 Seconds on The Verge The Vergecast 089 August 15th 2013",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > aside.column.rightcol.border-l2.c-contain.grid_4 > section.widget-related-media.widget-itemlist.widget-related > ul > li > a > div.clearfix > div.text > h3": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "rightcol",
+            "border-l2",
+            "c-contain",
+            "grid_4"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "widget-related-media",
+            "widget-itemlist",
+            "widget-related"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 900271.9643690072,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4617930/message-unread-silicon-valleys-secret-failed-bid-to-save-blackberry": {
+        "content": "In the summer of 2012 just a few months into the job RIM now BlackBerry CEO Thorsten Heins was trying to guide the company through an ongoing crisis The stock price had slipped to an eight year low BlackBerry 10 had been pushed back to the next year And a Silicon Valley investor was secretly trying to buy the company out from under its management team Yesterday entrepreneur and angel investor Robin Chan posted a slide deck for Project BBX a now abandoned plan to turn around the company with a small product and engineering team With BlackBerry now officially exploring a sale Chan s plan offers a glimpse of what BlackBerry might have become a purely business focused company with no BlackBerry 10 fewer devices and no reason to hire Alicia Keys as a creative director Instead it would focus on its trademark phones and data network leaning on iOS and Android in order to survive Chan pitched the project between June and August of last year some six months after former COO Heins stepped up to lead RIM The slides aptly pegged RIM as a company coming apart at the seams pointing to its plummeting value and utter failure to develop an app ecosystem To save it Chan tells The Verge he assembled an elite dream team of designers and engineers whose names he won t reveal The thing that surprised me is there were a lot of people who loved the BlackBerry product and were sad to see it deteriorate to such a state he says The group reached out to RIM s board of directors hoping to get enough momentum to buy out the company Essentially what we were doing was a coup d etat Ultimately the group failed to raise enough funds ending up with 1 billion rather than the minimum of 6 billion they needed to pursue the plan The team s plan for BlackBerry played to the company s obvious strengths and recognized some weaknesses that Heins wouldn t admit RIM s servers were still ubiquitous for businesses even as iOS and Android devices edged out BlackBerry phones in the office Chan referenced other symbols of the BlackBerry in its heyday including the much loved hardware keyboard and the CrackBerry moniker the only other true brand in mobile along with Apple If Apple had opened up smartphones to consumers he believed the BlackBerry could rebuild its cachet with high powered executives To do so RIM would have had to all but scrap its plans to compete with other smartphone platforms In the summer of 2012 Heins was insisting that BlackBerry 10 would be the only completely new mobile platform on the market but to Chan it was an albatross There was going to be a duopoly in operating systems between Android and iOS he says Facing those trends and riding those trends was a bigger opportunity than tinkering with what they were trying to do While Heins and RIM saw themselves in a war of operating systems they should have been focusing on the surrounding infrastructure BlackBerry 10 was misallocation of meager resources says Chan His plan would have jettisoned the upcoming platform in favor of an Android fork optimized for security and enterprise with a few BlackBerry 10 features thrown in And RIM s secure networks would have been opened up to iOS and Android an iBerry system was planned for launch within six months He compared the turnaround to that of IBM which reinvented itself by selling off its flagging hardware business Despite the comparison Chan wouldn t have discontinued hardware altogether His plan for devices was similar to what RIM ultimately released in 2013 with one keyboard and one all touch device though he also proposed a new 7 inch tablet a slide out keyboard for the all touch model and an E Ink strip for notifications A year after his proposal Chan thinks BlackBerry still has valuable resources but it s going to be a tougher sell A lot of momentum has been lost he says In a note beside his slide deck he writes that the strategy of an enterprise grade Android company is still sound but it just might be too late to save Blackberry as an independent company Tom Moss former head of business development for Android is a little more optimistic Honestly what you suggested might even still be possible today he says on Chan s Facebook wall if coupled with technology that would make apps themselves secure BlackBerry remains the platform of choice for many top businesses and government agencies and Heins adopted some of the same strategies Chan had proposed including a pared down device portfolio and limited integration with Android and iOS in the form of a BBM app Its userbase and cash reserves remain large its debt nonexistent But Chan says that even in 2012 a buyout wasn t considered a safe bet It was considered an absolutely crazy idea which was why it attracted incredibly talented people who wanted to do something ballsy he says But in general people thought it was too crazy While Chan was pitching his takeover proposal Thorsten Heins was categorically denying that RIM was in trouble in fact he insisted that there was nothing wrong with the company as it exists right now But ongoing rumors suggested that RIM might spin off its hardware or enterprise divisions all signs point to Chan being one of several people who considered picking up at least part of the company It s only now however that BlackBerry has officially acknowledged the strategic alternative of selling itself off As it does it will have to weigh its old strengths against its reinvented image and decide whether shooting for third place in the smartphone wars was worth the cost",
+        "score": 491182.5430898662
+      },
+      "http://www.theverge.com/2013/8/9/4604896/praktrik-burr-puzzle-furniture": {
+        "content": "Putting together ready to assemble furniture can often be an arduous task but if you consider yourself a master assembler here s a range of furniture that could be perfect for you As Wired reports Bulgarian design house Praktrik takes fiendishly difficult Burr puzzles and transforms them into household objects In order to make the pieces function as furniture the designers had to dial down the difficulty somewhat most Burr puzzles are too complicated to be directly translated There are a number of different designs including chairs tables and chandeliers all of which lock together using notched wooden sticks no glue or screws are required The most complex of these furniture puzzles is the 430 575 side table pictured at the top of this article A 24 piece puzzle it requires not only spatial vision but also a certain dexterity to complete Even with the included instructions the furniture can take anywhere from 10 minutes to more than an hour to assemble Without the instructions you might never finish To see the full range of furniture you can visit Praktrik s website or for an interview with the designer head to Wired",
+        "score": 11212.035218450887
+      },
+      "http://www.theverge.com/2013/8/9/4604876/national-geographic-living-with-lions-serengeti-robot-drone-photography": {
+        "content": "Michael Nichols National Geographic Michael Nichols has spent the past two years living with lions in Tanzania An award winning photographer and editor Nichols ventured into Africa s Serengeti Plain in July 2011 to document a pride of lions for a feature story in this month s issue of National Geographic The idea according to the magazine was to provide a more intimate glimpse into the daily lives of one of the world s most fearsome predators and to photograph them like never before You don t want to be looking down on animals They hate it it is demeaning to them the photographer said in an interview with National Geographic earlier this month I couldn t bear photographing lions looking down on them it made me sick to my stomach Yet capturing the lions from an up close ground level posed obvious risks both to the safety of Nichols team and the welfare of the Vumbi pride they were following They could have easily photographed the lions from afar with standard telephoto lenses but National Geographic had a more innovative solution in mind one that involved aerial drones robots and infrared lights And the results published last week in an online gallery and interactive website are nothing short of astounding Images available at The Serengeti Lion on National Geographic s website After extensive trials and testing Nichols and cinematographer Nathan Williamson sent a small remote controlled robot into the field to capture images from within inches of the lions The camera equipped mini tank was manufactured by SuperDroid Robots a North Carolina based engineering company that specializes in bomb defusing robotics As the tank patrolled the ground snapping the Vumbi pride from a bug s eye view a German made MikroKopter drone took to the skies capturing aerial shots with an off the shelf Canon camera Nichols and Williamson meanwhile were stationed in a customized Land Rover parked nearby capturing wide shots from the floor of the car and controlling the robot and drone remotely Because lions sleep during the day and hunt at night the team was forced to do the majority of their work in darkness illuminating the Tanzanian landscape with infrared lights mounted to the top of their Land Rover The invisible infrared rays allowed National Geographic to capture scenes without disturbing the lions regular habits though the blind conditions involved plenty of trial and error At one point we were high fiving thinking we had captured a herd of zebra by moonrise from the micro copter only to find out later we had been photographing a pile of rocks Williamson said in an email to The Verge Nichols captured more than 240 000 shots over the course of the expedition with Williams shooting an additional 200 hours of video footage There was also concern over how the lions would react to the drone and robot but according to Nichols they adapted rather quickly After only three visits they didn t care about that tank he told the magazine At first they were cautious But after five or six times they were all falling asleep with it Drones have played an increasingly large role in wildlife preservation and filmmaking in recent years In 2011 a team of filmmakers used a quadrotor drone to capture scenes of the Serengeti for a TV documentary in Japan Researchers in Kenya meanwhile have begun using unmanned aerial drones to monitor areas susceptible to rhino poaching According to Nichols the technology provided an opportunity to photograph animals on their terms though it s unclear whether similar devices could be used to capture elephants zebras or other species Lions are both confident and conservative in how they expend their energy the photographer told The Verge And although they were aware that the machines belonged to the green truck that had been following them they never perceived the robot as a threat A lion named C Boy mates with a Kibumbu pride female Michael Nichols National Geographic For Nichols and National Geographic this month s publication marks the culmination of more than five years of research and planning Yet as remarkable as the imagery is the project extends well beyond the realm of the visual With worldwide lion populations declining at alarming rates National Geographic sought not only to provide an unfiltered glimpse into the Vumbi pride s social hierarchy and behavior but to prove that man and beast can peacefully coexist as well This is more than a wildlife behavior story this is a conservation story says Kathy Moran senior photo editor at National Geographic Our goal was to dispel myths about lions to show how lions live and what it means for people to live with lions",
+        "score": 2555684.56928776
+      },
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "Choire Sicha is the coproprietor of the culture and current events website The Awl which was founded in 2009 Sicha describes The Awl as that friend of yours who s really funny until he has one too many drinks and then he gets kind of creepy Before The Awl he was an editor at Gawker twice as well at The New York Observer He is also the author of Very Recent History An Entirely Factual Account of a Year c AD 2009 in a Large City available today and published by Harper I conducted an interview with Choire on Google Docs We never once took it to phone So you have written a book Is it fiction or nonfiction I read it and I m not sure Does it matter if it s fiction or non fiction This has been a really wacko cool experience that people are like Hey what the hell is this book Usually that s expressed as some complicated emoji sentence often combining the triangular poop icon with that weird one of someone in the bathtub and sometimes the gun So I think that it matters very much to me and it matters to librarians and it might matter to the people in the book who are all very real and delightful but it won t matter at all to most readers That s totally cool I mean hey You do you LOL gross sorry For the certain kind of reader who does care I am here to verify that the book is 100 percent true Every person every fact every piece of dialogue all of it Any errors of fact are mine obviously And carefully true for instance right away I declare that for a while the richest person in the city is the mayor This is true but it really was for a brief time and it was only as near as anyone could calculate It s hard to figure out who s richer than whom But definitely everyone agrees that a while back now Ol Mayor Mike got outgunned as richest bro in town Did you enjoy writing it Was it the worst How did you do it did you set aside specific chunks of time or just fit it in when the mood struck Well publishing a book the part when it goes out in the world is even worse It s kind of like when you think you re having a deep private session on Spotify and then you realize NOPE everyone can see you listening to Mariah Carey remixes Actually it s like being one of those people who put a photo up on eBay of some stupid furniture and then everyone figures out they can see you in some reflection and you re REALLY NAKED AND NOT PRETTY But yeah Writing a book basically eats a bag of dog balls You just gotta write all the time That s the secret Great fucking secret right STUPID SECRET But I firmly believe that anyone who wants to can and should do it You could be done with a book before Christmas It s actually not brain surgery because no one really agrees what a good book is so maybe even though you have no idea what you re doing it s possible everyone will be like Hey this is awesome I mean I didn t go to college I barely graduated high school and no one taught me how to write properly and then a Rupert Murdoch company gave me a decent pile of money to write a book and actually published it even though it was clearly a piece of craziness So it could happen to anyone Go for it You re probably better off learning how to trade securities though so consider that The book seems very personal in that I get the sense there are a lot of people who will read it and recognize themselves or others in it So are you now panicking asking yourself What have I done Or are you at peace with it You mean like emotionally recognize No that s good That s supposed to happen Or if you mean like IRL recognize well the number of people who d be like Oh is this person that friend of that guy is pretty vanishingly small in the world The reason the book s characters are anonymous is because we didn t think it was fair to their Google record honestly Books are short because they re between two covers but Google is forever One thing that s cool to me about the book is people talking about technology actually There s a weird long monologue by this guy who s convinced that growing up with Gchat kind of ruined him that he s so much better in chat than he is IRL I might be better in chat than I am in real life too And there s whole comedies of errors about how to communicate with people when you re simultaneously using text message Facebook and hookup sites There s Grindr there s Missed Connections Also the semi modern agony of being nonconsensually blogged about That s the worst thing Especially since you also run The Awl After editing and writing at for other places what made you want to run your OWN website Do you find it easier to work for yourself It seems like in a lot of ways it would be far far more stressful Well I could never do it without a business partner I still need someone to be accountable to Fortunately we both have the same high level of Oh all these plans went to shit FUCK IT LET S GO TO LUNCH The thing that 2008 and 2009 convinced me of and really that s what the book is about is that no employer will ever give a fuck about me Or really about most anyone Like it s all good until the funding dries up or the grants dry up or until a recession comes or until some stupid asshole rich person has a whim and decides to close up shop Then you re out on your ass and what about your commitments to your friends spouses children parents cats rents and stomachs But the money people don t care They don t have to care That s not in the agreements of how we work So fine That s not an agreement I want to have either then I think I m ruined with working for other people now Uh we ll see how that works out The fun thing about being an independently owned non investment backed company is that you have to stay profitable or it s CURTAINS for you Really more people should operate like that It s good for the soul In running an independent website what is the best part The writing editing the designing selling ads It seems like you re probably involved in all aspects of it so What is the best part and what is the worst I think we kind of love almost all of it really The good joke answer is I love delegating Which I do honestly But I particularly love editing most of the time I do hate that because we re so lean it can take a really long time to get things done that we really care about Making new sites takes forever I get jealous sometimes of people with all that borrowed cash But I don t get jealous for long Pretty much all of my least favorite things involve let s take it to phone Fuck phones People who take it to the phone Back to books for a second What is your favorite Do you have one I hate this question but it s so fun to ask My three favorite books are probably The Dispossessed Reckless Disregard Westmoreland v CBS et al Sharon v Time and hmm right now Iphigenia in Forest Hills That one s still sitting with me pretty hard Although I could probably also say My 10 favorite books are these 10 Ursula Le Guin books in this particular order What level are you on in Candy Crush Will have follow up based on your answer Oh shit Low blow Okay I am on level 272 The sad thing about this is not that I am on level 272 though that is sad but that it has disrupted my love affair with Robot Wants Kitty Do you play Robot Wants Kitty The genius of the app is that they rolled out a Kitty Connect level builder a while back and there are tons of people building games in this world And many of them are geniuses There was this guy named Fomb who built the best game levels of any game I ve ever seen And then a couple months ago now he retired I wonder what he s putting all his energy into now He s a really remarkable thinker I realize that s a big thing to say about someone who builds platform game levels If Candy Crush had existed when you were writing the book would you have finished it yet I think procrastination is good for us My writing process is Turn on loud music type for a while take a smoke break write a little while watch 30 minutes of TV write for two minutes take a shower jump out of the shower and write down some notes watch some more TV write for awhile The point being the back of our animal brain does things while we are doing other stupider things It s important Candy Crush is magical brain shut down time What kind of phone do you have Also what are the apps on your homescreen and why Like every loser I have an iPhone You know I could make the switch for the right non Apple product I go out and touch one every now and again I guess I m just scared Fine here is my homescreen This is a weird self doxx Um I never update my apps answer my phone open my Snapchats or check GroupMe or Vine so why do I have a phone anyway Actually I use it for notes for writing and for recording interviews so that s useful And cat pictures When you wake up I assume it s very early what are the first three things you read This terrible new thing happens where because I sleep with my phone under my pillow I just wake up at dawn and then turn on my phone and start wherever I stopped So this means that I often fall asleep and I reawake with half written emails or like unsent tweets that are like asdfhhjjjjjjjjjjj because I fell asleep writing them This is no way to live The upside is that the first thing I read is some random links that some English person tweeted because they re the only ones awake I saw a tweet of yours the other day of your two cats in the backseat of your car It appeared that the cats were in charge How many cats do you have Do you ever let them drive Which of your cats would theoretically make the best driver Where do you think they would go I only have two cats Only They are Miami street rescues One of them is a fucking ENORMOUS cool black and white frat boy The other is this tiny neurotic gray lady THEY ARE IN LOVE The car thing comes from our last cat Cat The Cat RIP When he was about 18 years old we moved down to Miami for a little while and he spent his last year there I was back in New York a lot for work and when I was away my husband used to drive him around at night He was this scrawny old beast but he d stand up on his hind legs with his front feet on the dashboard and stare out the window or stand on my husband s lap while he drove Cats love cars So yeah We drive cats around a lot Looks around awkwardly The Awl endorsed Eliot Spitzer for governor of NY in a recent editorial written by you But the biggest story of a politician with shady woman problems in NYC is the famous sexter okay it was Formspring Anthony Weiner Since everyone is talking about it what do you think about the whole situation Should he resign Is he going to win I still don t know what Formspring is Formcock Cockspring Whatever I really do wish he d just leave us alone I don t really care who he dongs with and when I mean dongs away fuck it right But we re not cut out for it as a culture It s incredibly disruptive to a race that is actually about deciding on the leadership of a city that is going to be headed for some serious serious adjustment shocks in the next four years This mayoral choice is some serious business Looking at that dude s cock all the time is distracting everyone Everyone also seems to have an opinion on his wife Huma Abedin Do you have one to share as well I ve actually been in the same room with her at least a few times and also barely talked to her Once about five years ago we were at a diner at a campaign event and she d never heard of cheese fries I think it was and her co workers were teasing her about this and she thought cheese fries were the most delightful idea Isn t that sweet It s possible that the article in question was a milkshake and she d never had a milkshake Isn t memory funny Somewhere I have this written down in a notebook But definitely she was an adult who d never had either cheese fries or a milkshake And then she did If you could have one wish literally anything what would it be I d already have written my next book and that whole nightmare would be over I want it to be a really happy nonfiction book about a bunch of old people in an apartment building somewhere Doesn t that sound relaxing Just old people playing Canasta and talking trash Do you have any final questions you d like me to ask Wouldn t that be presumptuous of me That s a dick move Yes ask me about how amaaaazing I am LOL People Oh yes let s talk about White Twitter smh",
+        "score": 400793.69732459646
+      },
+      "http://www.theverge.com/2013/8/9/4605758/memory-observation-and-manipulation-techniques": {
+        "content": "If we had the technology to rewire our brains to help remember certain things and forget others it could help millions of people struggling with neurological conditions from Alzheimer s to post traumatic stress disorder But it also raises the frightening possibility depicted over and over again in sci fi that someone would be able to use such technology to mess with people s minds without their consent For good or ill such techniques are edging closer to reality In the last few months several teams of scientists have made enormous leaps in visualizing memories and manipulating them The work is confined to animals for now but helping adjust the functioning of the human brain is the ultimate goal raising the questions just how far can and should we go In June a team of scientists led by researchers at the University of Southern California published a paper explaining that they had figured out a way to watch memories form in the brains of mice and zebrafish in real time The paper was largely overlooked by the mainstream press at the time but its implications for the future of neurobiology are enormous This provides a much clearer window into the brain than anyone s ever had before it s hard to predict where this will go from here says Donald Arnold an associate professor of molecular and computational biology at the University of Southern California who led the team Using this technique it should be possible to use this to delete and modify memory in some way he explains Microscopic image of a neuron in the brain of a living mouse showing synapses lit up with fluorescent probes Credit Donald Arnold University of Southern California Prior to the work by Arnold and his colleagues scientists weren t exactly sure how memories were encoded in the brain The basic consensus was that whenever you experience something your memory is stored in neurons specialized tree branch like nerve cells that number in the tens of billions in a single human brain and which carry information in the form of electrical signals Neurons communicate with one another across gaps known as synapses When an electrical signal carrying information say a memory reaches the end of a neuron it triggers the release of a chemical called a neurotransmitter which then floats across the synapse and lands on the receiving end of another neuron Think of pollen floating from one tree to another If all goes correctly the receiving neuron picks up the neurotransmitter and fires its own electrical signal which may cause it to release a neurotransmitter to yet another neuron It s this passage of information between neurons that lets your brain function The vividness of a particular memory is thought to be related to the strength of synapses that is how reliably the neuron fires when it picks up a neurotransmitter But scientists haven t been able to see this process of memory encoding in action until now What Arnold and his colleagues did was create a protein that sticks to the portion of a neuron responsible for absorbing the neurotransmitter called the receptor Then they took a green fluorescent protein from jellyfish and stuck that onto the other end of their protein When they implanted their glowing proteins into mice and zebrafish brains they were able to look through a fluorescence microscope and watch as their proteins collected around the receptors Microscopic image of the dendrite or electrically conductive branchlike ends of a neuron in a mouse with glowing proteins showing synaptic strength Credit Donald Arnold University of Southern California This allows us not only to see where synapses are but how strong they are by how bright and big these dots are Arnold tells The Verge We can see new synapses forming and old synapses disappearing and changes in synaptic strength Arnold says that his team s next work would involve teaching zebrafish and mice particular tasks and watching to see how their synapses change Ultimately the experiment we envision is looking at a mouse having the mouse learn something seeing how the synapses change then going back in there and modifying the synapses to see if you can get rid of the memory Arnold says Deleting a memory using this technique would involve simply sticking a natural protein made in the brain on to the same protein made by researchers which carries the glowing material It s like a guided missile you can put whatever payload you want on it Arnold says But as he says deleting memories in people using this method seems way far off to me Instead he says it would be easier to screen for drugs that would help you forget Already his team has begun work on arming the proteins they ve made to help delete some other proteins such as those that build up in the brains of those suffering neurodegenerative diseases such as Parkinson s and amyotrophic lateral sclerosis ALS It s known that the vast majority of proteins in the brain turn over every week or faster Arnold says A week from now your brain is essentially built from entirely new proteins Nobody knows how that happens and your memories are retained It s crazy But in neurodegenerative diseases certain proteins that would ordinarily disappear linger and build up in brain cells causing memory problems A bit of this trash doesn t seem to get picked up it just builds and builds Arnold explains Can you get rid of the junk that builds up Why does it build up We want to at least start to answer these questions Other scientists are taking a different approaching to understanding how the brain stores and transmits information coming at it from other body parts connected to an animal s nervous system For instance a team of researchers at the Massachusetts Institute of Technology and the Max Planck Institute for Medical Research in Germany reported earlier this week that they d successfully mapped 950 neurons in a slice of retina from a dead mouse s eye This technique could have applications for restoring sight and if applied to the brain for manipulating memory Diagram of neurons in a slice of mouse retina Credit Fabian Isensee Julia Kuhl Helmstaedter et all We can imagine that our wiring diagram of the retina can help scientists down the road design and target retinal prosthetics to the right neurons says Srinivas Turaga one of the MIT scientists involved in an email to The Verge And like you suggest with memory manipulation having a circuit diagram will tell us which neurons to manipulate and how Turaga and his colleagues created their map of the mouse retina by using an electron microscope to take 3D images of the slice of retina then having no less than 225 undergraduate students look at the images and physically trace the wiring connecting them by hand which took a collective 20 000 hours He tells The Verge that his German colleagues were working on additional microscopic technology that would be able to image larger slices and that we hope that this will eventually allow us to scan a mouse brain in about a year Turuga says that tracing all those neurons could take up to another 5 to 10 years total Still when the researchers achieve that goal they also hope to use their advances to help treat those suffering from neurological diseases Having this wiring diagram or connectome will allow us to better understand what a normal neural circuit looks like and to detect and shed light on abnormalities in the circuitry associated with neurological disorders Turaga says Once we can better understand such circuit abnormalities or connectopathies we can develop targeted methods of treatment Although some groups of scientists are getting closer to figuring out just how the brain works to store information others have already begun tinkering with memories Last week a team of scientists led by a different group at MIT made headlines around the world for their success at implanting a false memory into mouse subjects getting the mice to think that they had been painfully shocked in one location when in reality they d been shocked in an entirely different one The scientists achieved this by stimulating specific neurons in one area of the mouse brains Diagram showing light stimulation of a mouse neuron in order to implant a false memory Credit Science Magazine MIT One of the scientists involved in that MIT project neurobiologist Steve Ramirez later told The New York Times that he thought it would soon be possible to use similar techniques to delete specific parts of memories Rather than wiping out the whole memory of a relationship and an ex girlfriend as in the 2004 sci fi romantic comedy movie Eternal Sunshine of the Spotless Mind Ramirez says we can get rid of the sad part of that memory only Indeed humans have fantasized about being able to reprogram our minds at will since the early days of written history In ancient Greek mythology the souls of the dead were supposed to drink from a river of forgetfulness in the underworld in order to forget their lives and be reincarnated Aside from Eternal Sunshine of the Spotless Mind many other stories and movies have tackled the subject of memory manipulation from Total Recall to Inception to Dark City But some scientists think that even given all these recent advances humans won t and shouldn t ever get to the point where the scenarios described in sci fi are possible Those memory altering techniques are invasive using either genetic engineering or virus methods to manipulate genes in the mouse brain comments Joe Tsien a neurology professor who serves as co director of Georgia Regents University s Brain and Behavior Discovery Institute Tsien would know given that back in 2008 he and his colleagues successfully deleted specific memories in mice by targeting yet another type of brain protein Going forward Tsien says It is unlikely these experimental techniques in mice can be directly transferred for use in wiping a human person s memories He points out that memories of upsetting or traumatic events are actually crucial to our evolution teaching us resilience and to avoid certain situations or behaviors that may lead to hardship Removing them might make a person feel better but would also doom them to repeat their mistakes Memories whether good or bad serve an adaptive purpose Tsien says",
+        "score": 3423078.1492800033
+      },
+      "http://www.theverge.com/2013/8/8/4604048/nsa-chief-wants-to-replace-employees-with-machines": {
+        "content": "NSA director Gen Keith Alexander might have had a difficult time recruiting hackers at the Def Con and Black Hat security conferences but he might not need to recruit again anytime soon Speaking at a cybersecurity conference in New York City where he sat down with the heads of the FBI and CIA he told an audience that he d like to replace the vast majority of his employees and contractors with machines No joke What we re in the process of doing not fast enough is reducing our system administrators by about 90 percent he said according to a Reuters report What we ve done is put people in the loop of transferring data securing networks and doing things that machines are probably better at doing he added The Huffington Post also in attendance reports that Alexander said he could replace employees with a thin virtual cloud structure Alexander previously testified that the NSA has 1 000 system administrators While the publication said that Alexander didn t mention whistleblower Edward Snowden by name one such NSA system administrator and the man who revealed the extent of the US government s surveillance efforts it seems likely the comments were directed at keeping future would be whistleblowers from walking away with sensitive data which certainly makes sense We trust people with data At the end of the day it s all about trust And people who have access to data as part of their missions if they misuse that trust they can cause huge damage Alexander reportedly said But as society continues to discuss in the context of weaponized drones and self driving cars should we trust machines instead",
+        "score": 36269.700949131846
+      },
+      "http://www.theverge.com/2013/8/9/4604890/xbox-live-home-gold-xbox-one-game-sharing": {
+        "content": "Microsoft had originally planned to let Xbox One users share any games digitally but a backlash over the used games policies and online check forced the company to reverse most of its promising plans Although disc based games can no longer be converted into digitally shareable copies Microsoft is outlining what can be shared this week and it s very similar to how the Xbox 360 works today The reversal of policies may have changed Microsoft s plans but Xbox chief product officer Marc Whitten tells us that most people will use this platform connected and the company still plans to bring back some of the original Xbox One features Xbox One games purchased digitally can be used by all players in a household on an Xbox One Just as discs can be played by any family member today Microsoft will allow Xbox One owners to create a virtual game library that includes different games that family members have purchased digitally Any family member will be able to pick a digital game and sign in with their account even if the original owner is not signed in Xbox One owners will also be able to play digitally downloaded games without being online Essentially Xbox Live digital games are tied to your gamertag but they re also tied to your primary console Despite this Microsoft is not commenting on when features like being able to resell digital games will become available but Whitten says Xbox One s digital vision is going to drive a lot of different business models over time Xbox One owners will be able to use a Microsoft Account as a type of digital passport to sign in and use games on another console A key part of this sharing and cloud powered Xbox Live is a new feature that Microsoft is calling Home Gold Existing Xbox Live Gold members will be able to set up an Xbox One at home and anyone who uses the console will be able to access multiplayer gaming and the entertainment apps even if the main account holder is not signed in or at home An Xbox One owner with an Xbox Live Gold subscription could also log in at a friend s house and everyone on that particular console would then be able to use multiplayer gaming and the entertainment apps while the Gold member is signed in It sounds a little complicated that s because it is but in reality Microsoft is extending its Xbox Live Gold subscription so that you don t have to buy individual subscriptions for each family member On the gaming side it means that friends can use an Xbox One owners console and play online multiplayer with their own gamertag Currently a friend would also have to subscribe to Xbox Live Gold to play online with a gamertag otherwise the friend gets the same gamertag with a number tagged on the end Although Xbox One owners will be able to sign in on other consoles and access their digital games and let friends play them too it won t be like handing a friend an unprotected MP3 that they can play over and over again with no limits Microsoft says existing Xbox Live Gold members won t have to do anything to access the new Home Gold features as they re available as part of the subscription for Xbox One and Xbox 360 consoles Despite the changes not being very different to how things are today with the Xbox 360 Microsoft says it still wants to bring the improved digital sharing features that it has retreated from to the Xbox One in time We are completely committed to the digital vision we laid out and we plan and intend to deliver all the things we said before Microsoft s Yusuf Mehdi tells us Mehdi explains that Microsoft wants to and can do it but it s seeking feedback before any future changes are made You re going to see more of the things that we talked about with digital he confirms including a Family Sharing feature that Microsoft previously revealed as an option to share digital content with family members regardless of console or location Mehdi says Microsoft still has creative pricing models for games and trial games on their list for post launch For now Microsoft is clearly approaching any potential changes with caution to avoid a backlash over policy changes that have left consumers confused by its Xbox One launch so far",
+        "score": 377541.46935058746
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "Long after Apple s victory over Samsung in a patent suit the two companies met again today in court as a panel of judges decides whether to issue a sales ban on over two dozen Samsung devices These phones and tablets were found to use features and designs patented by Apple but so far that decision has only resulted in a major fine for Samsung in December Judge Lucy Koh found that damages were enough for Apple to recoup its losses so an out and out ban wasn t warranted Now Apple has brought its case to the Federal Court of Appeals which is set to make what could be a near final call on the issue Apple s requested ban doesn t mean much in the short term Of the 26 phones and tablets it listed 23 have been discontinued and Samsung has worked to design around Apple s patents in the remaining three Samsung meanwhile says the ban would have little impact on its design process So why does this case matter on either side For its part Apple hopes that getting an injunction will make it easier to bring cases against newer products Taking a quick dig at Samsung s design process Apple attorney William Lee said that a new Samsung device might be almost identical to an old banned one What they re saying to you is the product with this name is off the market he said If it gets the ban Apple would still need to bring more cases but it could have an easier time in court This would hurt Samsung obviously but it s not the company s only fear Any injunction it says would hurt its relationship with retail stores and carriers who would worry about whether they were accidentally selling an infringing product Likewise this could have a major impact on the second ongoing Apple vs Samsung case which should go to trial early next year Though it decisively won the original case Apple is on the defensive here Koh decided Apple hadn t proved its patents were a driving factor in how customers chose phones For Apple to get its injunction it first has to convince the court that this bar was set far too high then make a case for why it meets a different lower standard I don t think that anybody in Apple s position could absolutely prove a major link between a single feature or collection of features and sales said Lee Companies can be required to prove irreparable harm but holding Apple to this standard would be a fundamental change in American patent law he argued But Samsung has steadily claimed that the patents in question weren t major factors when buying a phone There s no proof of any infringement here being a driver much less the driver of consumer demand said Samsung lawyer Kathleen Sullivan During the case Apple presented a report showing how much customers would pay for the extra UI features Samsung copied on phones an extra 100 Sullivan questioned whether the survey itself was relevant an argument that seemed to hold little water with the judges She used the example of one car company copying another s cupholders The fact that I d pay 10 more for a car that I was going to buy anyways doesn t show that it s driving consumer demand she said It still doesn t tell you that the phone with the infringing feature will be chosen over the non infringing product she said Judge William Bryson disagreed It shows that consumers value that feature he said That seems to me to be the very essence of what a driver of demand is He then moved the question from cupholders to something like a hybrid engine which he said could be an important feature even if customers still decided on a cheaper non hybrid one It wouldn t be too surprising to see Koh s earlier decision overturned she and the appeals court have frequently disagreed on when to ban a product Early in the case the court decided she was wrong to let Samsung keep selling devices that arguably infringed on Apple s design Later though it overturned her ban on the Galaxy Nexus saying Apple hadn t proven its universal search was a major sales driver In this case the court won t be deciding whether to temporarily ban something before deciding whether it s infringing it will be making a call after a jury overwhelmingly decided that Samsung did in fact copy Apple And though Samsung s lawyer denied it the judges repeatedly asked whether she was arguing against bans for entire broad classes of lawsuits which would back up Apple s claim of a fundamental change in the law Depending on how convincing the court finds Apple s argument it could either completely uphold Koh s decision or throw it out at which point either company could potentially appeal to the Supreme Court Conversely it could hand the issue back to Koh giving her instructions to consider it further or issue specific injunctions Closure has been slow in coming with this lawsuit but today s hearing marked a step towards the end of at least one part of it",
+        "score": 441699.7209255908
+      },
+      "http://www.theverge.com/2013/8/9/4606616/president-obama-announces-new-surveillance-reforms": {
+        "content": "President Obama held a press conference at the White House on Friday afternoon to announce four reforms he says will increase transparency and public awareness of the surveillance programs being carried out by the NSA and other US intelligence agencies It s not enough for me as President to have confidence in these programs the American people need to have confidence as well Obama said To others around the world I want to make clear once again that America is not interested in spying on ordinary people Our intelligence is focused above all on finding the information that s necessary to protect our people and in many cases protect our allies His remarks came after months of his repeated defenses of the surveillance efforts and the reforms seemed designed less to actually change things and more to change public perception After all the administration recently moved to continue phone data collection As the President declared it s true we have significant capabilities What s also true is we show a restraint that many governments around the world don t even think to do refuse to show He said the reforms announced today came after conversations he had with members of Congress and civil liberties advocates who were concerned about the surveillance activity revealed in leaked documents from former NSA contractor Edward Snowden Given the history of abuse by governments it s right to ask questions about surveillance Obama said Particularly as technology is reshaping every aspect of our lives Check out the full transcript of the President s remarks released by The White House The President also said while critics of surveillance were patriots I don t think Mr Snowden was a patriot and the government is still pursuing him for three felonies But he added there s no doubt that Mr Snowden s leaks triggered a rapid and much more passionate response than would ve been the case without the leaks The four proposed transparency reforms include The President took reporters questions on a variety of surveillance matters and other unrelated topics such as the controversy over recent anti gay rights legislation in Russia ahead of the 2014 Winter Olympics in the country and his frosty relations with Russian leader Vladimir Putin following the country s decision to grant temporary asylum to Snowden Explaining his abrupt cancellation earlier this week of an upcoming one on one meeting with Putin Obama said Keep in mind that our decision to not participate in the summit was not simply around Mr Snowden it had to do with frankly on a whole bunch of issues where we think we can make progress Russia has not moved The American Civil Liberties Union an advocacy group that is one of Obama s most persistent critics on surveillance and privacy released a statement saying the reforms didn t go nearly far enough While the initial reforms outlined by the president are a necessary and welcome first step they are not nearly sufficient the ACLU said Friday Chris Welch and Josh Kopstein contributed to this report",
+        "score": 215709.113038063
+      },
+      "http://www.theverge.com/2013/8/8/4602772/elon-musk-richard-branson-google-hangout-offers-startup-ceo-advice": {
+        "content": "On Thursday Elon Musk and Richard Branson sat down for a Hangout video chat with Google for Entrepreneurs to talk about the struggles and satisfaction of starting a business The hourlong talk which can be seen in full on YouTube covered a broad range of topics such as why Silicon Valley attracts talent and the danger of burning out by not delegating enough responsibility to others Musk even hyped up the Hyperloop a proposed train system that could travel from Los Angeles to San Francisco in 30 minutes and that Musk won t be building himself stating that he d share the full details of his idea on Monday One thing Musk was willing to share today was the fact that the two companies he s currently running Tesla and Space X both almost went bankrupt in 2008 due to failed rocket launches and a US financial crisis that later grew into a recession Branson who is the chairman of the 400 company Virgin Group said I knew Elon in those days and I m surprised his hair is still black and not grey Later he added that there s a very thin dividing line between success and failure And all that matters when you re building a company is survival A key tip the two shared for any entrepreneurs listen and look for advice You should seek negative feedback particularly from friends Musk said Friends don t want to tell you exactly what s wrong because they don t want to hurt your feelings but they often know",
+        "score": 11883.44278039896
+      },
+      "http://www.theverge.com/2013/8/5/4587566/jeff-bezos-buys-the-washington-post/in/4359725": {
+        "content": "Jeff Bezos the founder of Amazon and the world s 19th richest man has acquired The Washington Post long one of the country s most influential and prestigious daily newspapers for 250 million in cash the company announced today The purchaser is an entity that belongs to Mr Bezos in his individual capacity and is not Amazon com Inc a press release issued by The Washington Post said The purchase includes all of the papers The Washington Post owns and their websites including the Express daily The Gazette Newspapers and the Southern Maryland Newspapers but does not include Slate TheRoot com or Foreign Policy which will remain with the Washington Post Company Last week Bezos sold about 185 million worth of Amazon shares though it s unclear whether the sale is connected to the acquisition By acquiring a cornerstone of Washington DC media Bezos had immediately become a player in the nation s capital and expands his already significant profile in the media world Founded 136 years ago the Post is best known for its reporting on the Watergate scandal which led to the resignation of US President Richard Nixon in 1974 That story elevated the publication from a well respected regional daily paper to an internationally recognized news organization At first glance the deal looks like a natural extension of Amazon s media strategy Much has been made of Bezos and Amazon s increasing desire to become major media producers In recent years Amazon has become an ebook publisher and enabled authors to self publish The company created a film studio to supply Amazon Instant Video with original TV shows and movies But speculation over what Amazon may have planned for a general newspaper should be tempered by the fact that the acquisition was not made by Amazon but by Bezos personally In a memo to the staff of the Washington Post Bezos praised the previous owners saying I would highlight two kinds of courage the Grahams have shown as owners that I hope to channel The first is the courage to say wait be sure slow down get another source Real people and their reputations livelihoods and families are at stake The second is the courage to say follow the story no matter the cost He also added I won t be leading The Washington Post day to day I am happily living in the other Washington where I have a day job that I love Besides that the Post already has an excellent leadership team that knows much more about the news business than I do and I m extremely grateful to them for agreeing to stay on Bezos is taking over the Post during a dark period for the publication and for newspapers in general The Post has hemorrhaged readers and revenue for many years Last week the Washington Post Company reported an operating loss of 49 3 million in the first six months of 2013 compared to a 33 2 million loss for the same period a year earlier a 14 percent decline The New York Times announced last weekend that it had sold The Boston Globe for 70 million in cash The Times which paid 1 1 billion 20 years ago for the daily newspaper had hoped to get 100 million The past decade has been a period of painful belt tightening at the Post that included the closing of overseas news bureaus a general scaling back of coverage and numerous rounds of employee buyouts The paper was at one time regarded as a peer of The New York Times and The Wall Street Journal In the mid 1990s the Post s weekday circulation topped 750 000 readers but has since fallen to 474 000 In addition the newspaper has struggled to maintain its status as the go to outlet for national politics against scrappy blogs and news organizations with far less overhead such as Politico and The Huffington Post In the past two years the Post s uncertain future has led to an exodus of many of its top writers According to Forbes Bezos has a personal net worth of 25 billion Through Bezos Expeditions he invested in at least two dozen companies including Twitter Uber and Blue Origin the commercial spaceflight company he founded according to Bezos Expeditions website In April Bezos Expeditions led a 5 million round of funding into online news blog Business Insider Thus far those investments have played little if any role in forwarding Amazon s agenda Then what does this second investment in a news organization mean Does Bezos want to be Rupert Murdoch When that investment was announced Bezos told Brad Stone of Businessweek that he saw an opportunity in how technology is streamlining news distribution and cutting out middlemen Even well meaning gatekeepers slow innovation Bezos told the magazine According to Stone Bezos is a fan of email newsletters that are short well written and are delivered right to readers via email with minimal fuss and no expense It s hard to conceive of someone repackaging the Post into an outlet for bite size news stories The newspaper has won 47 Pulitzer Prizes and the brand is associated with long form investigative journalism But shorter stories is the direction print journalism has been headed for years and there s no denying the Post is a much more diminished version of itself than the one immortalized in the Robert Redford film All The President s Men Still the acquisition of the Post should give Bezos greater access to power The paper was purchased in 1933 by Eugene Meyer and it s been in his family ever since Under the leadership of Katharine Graham Meyer s daughter the paper had a part in publishing the Pentagon Papers and it was her decision to back Bob Woodward and Carl Bernstein s reporting on Watergate She became the doyenne of Washington s social scene and the paper allowed her to cultivate friendships with Presidents John F Kennedy Lyndon B Johnson and Ronald Reagan After Katharine Graham died in 2001 the company was turned over to Donald Graham one of her sons In 2008 his niece Katharine Weymouth 47 was made publisher Oddly enough the Times profiled Weymouth last week and she sounded as if she was settling in for the long haul I don t feel like my job is to be beloved Weymouth was quoted saying in the story I certainly hope to be a great publisher and if people want to love me too that s even better Weymouth said in a statement that she has agreed to stay on as both publisher and CEO of the Post For his part Bezos hasn t shown much of an interest in wielding the kind of power that the Post might supply him A libertarian Bezos has contributed relatively small sums to both major political parties Last year the CEO and his wife donated 2 5 million to a group trying to get a same sex marriage law passed in Washington And interestingly enough Amazon scored a coup last week when President Barack Obama agreed to give a speech at one of the company s warehouses As for Amazon the retailer is plenty concerned with several political issues key among them the debate over taxing online retailers Then there was the ebook scandal Many suspect that Amazon spurred the government to investigate five of the top six book publishers as well as Apple for scheming to raise and fix ebook prices a move that forced Amazon to stop discounting ebooks The feds sued and the publishers paid a 160 million settlement Apple fought in court but last month was found liable for antitrust violations So sure Bezos is now the owner of the Post and not Amazon But having a CEO who s a big shot in Washington certainly won t hurt",
+        "score": 1937937.1668146304
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > div.column.border-r.c-contain.grid_8.pad-bot0 > div.entry-content.instapaper_body.article-body > p.pgh-paragraph": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "border-r",
+            "c-contain",
+            "grid_8",
+            "pad-bot0"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body",
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 960720.6453003024,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4605528/your-meat-addiction-is-destroying-the-planet-but-we-can-fix-it": {
+        "content": "For Brin a billionaire who wears Google Glass in the promo video for the Cultured Beef project maybe that s true he s already living in a future where man can augment himself and surpass any obstacle For the rest of us meat actual beef which has never been an animal undercuts one of our basic assumptions about it For us to eat meat something must die The research Brin is funding is according to its leader Post about 20 to 25 years away from producing a commercially available product but they re clearly working at a breakneck pace to reach their goals If they succeed they would be part of a long and concerted effort to change the way that we the human race eat every single day It would broadly affect our health our well being our environment and our sense of who we are and the creatures we share the planet with A growing consensus among scientists doctors environmentalists and animal rights activists suggest that our current system of food specifically meat production is not sustainable By 2050 the global demand for meat will double as our population continues to rapidly grow The effects of all this farming on our environment are currently devastating and getting worse Simply put we are destroying the planet and meat production and consumption is arguably the most to blame This is why people like Post and his team are not the only ones working on solutions there is a small but growing community who with financial backing and vocal support from some of the most powerful technologists and VCs in Silicon Valley hope to apply scientific innovations to the course of human history and change the way we live This lofty desire to apply our brains to complicated seemingly overwhelming problems in fact is the story of human history And really in a way it all comes down to meat And yes that sounds like science fiction Sergey It s fair to say that meat eating is critical to our history Joseph Ferraro an anthropologist at Baylor University says and without the consumption of meat we would not have large brains and wouldn t be where we are today When humans really got started on earth there weren t very many of us and we weren t very smart Man was outnumbered by orders of magnitude for millennia by animals Two million years ago if you were just plopped down into a random point on the inhabited earth Ferraro says you probably wouldn t have seen another person for days or even weeks The population he says was probably close to 10 000 What you would have seen Ferraro explains is a vast number of animals Men and animals evolved together on the planet over the course of thousands of years with a supportive relationship crucial to our evolution A paper Ferraro co authored this past April suggests that early humans began to hunt or at least to scavenge and butcher animals for food around 2 million years ago And at just about that time we see big shifts in the human fossil record of the increase in brain size increase in body size and hominins leaving Africa for Eurasia he says Around 10 000 years ago humans began practicing agriculture in earnest and with it the process of bringing other animals into the domestic circle All of this has meant that for most of our history men and animals have had a complex and emotional give and take relationship For a very high percentage of the 7 billion people living on earth what to eat is not a decision that is made so much as it is passed on to us from our parents Most people have historically eaten similarly to their families if you re Hindu for example you might not eat cows and if you re Jewish you sometimes avoid pork or seafood There are also regional differences in what we eat informed by a host of evolutionary geographic cultural and religious practices For most of human history we ate what was local because there were no airplanes steamships or refrigerated trucks to bring us exotic or non local foods Plants that were found to be poisonous were added to the arsenal of things we don t eat Over time however culture took over and man began to form customs for what food mostly animals was for eating and what was not Generally all bets are off in times of starvation but our ideas about food are deeply ingrained in our communities and we haven t bothered to examine them very closely We figured out how to hunt Ferarro says and that enabled so much of our development Eventually it allowed the population to explode This presented us with a new challenge how to scale the hunt Those are chickens said Crake Chicken parts Just the breasts on this one They ve got ones that specialize in drumsticks too twelve to a growth unit But there aren t any heads That s the head in the middle said the woman There s a mouth opening at the top they dump nutrients in there No eyes or beak or anything they don t need those Margaret Atwood Oryx and Crake 2003 We teach children that Old MacDonald had a farm and that on that farm he had a cow moo moo a goat baa baa a chicken cluck cluck and a pig oink oink The reality most of us know is that Old MacDonald was largely replaced long ago by massive operations run by multinational corporations that often don t even bear the name farm Family farms were responsible for 90 percent of the United States chicken production until around the 1960s Today it is estimated that approximately 99 percent of the animals raised for slaughter in the US live on factory farms Throughout the 19th and early 20th centuries families increasingly grew and produced less of their own food on small farms and those operations were consolidated into the growing food industry which began to apply manufacturing techniques to the raising of livestock so that the growing millions then billions could be fed fast and cheap By the middle of the 20th century factory farms were so ubiquitous that the Old MacDonald farms of our childhood imaginations were quickly becoming an endangered species These are just a few of the ways in which factory farms are able to meet the ever increasing demand for animal based food The availability of large quantities of cheap meat has unsurprisingly increased demand steeply The average person in the US now eats about 270 pounds of meat a year Beef consumption has gone down but overall consumption of fish meat poultry and eggs has continued to rise steadily Over the past 100 years meat consumption has steadily grown in proportion to the rest of our diets now composing roughly 15 percent of the calories in the average US citizen s diet Thanks to population growth and demand in developing nations meat consumption globally is predicted to double by the year 2050 All of this comes at a very high cost a cost which many experts say will be devastating There are other devastating effects on the environment too the EPA estimates that runoff which it regulates from factory farms into waterways is the largest single pollutant in the US Livestock also drink about half of the country s potable water each year and they produce more excrement than humans waste which is usually just spread on the ground further contaminating the water and remember there s a decent amount of antibiotics in that waste too This is what people mean when they tell you as Ashley Byrne of PETA told me that factory farming is unsustainable The population explosion means more mouths to feed and meat consumption overall has been on the rise proportionally to the rest of our diets this increases pressure to raise more animals and more food to feed them which in turn gravely stresses our environment The huge number of animals produces waste and polluting byproducts and eventually we re going to not only simply lack the livestock to meet demand but will face the high environmental costs to boot Most experts believe that our effect on climate change is reversible but only if we act immediately Initiatives like Meatless Monday which encourages families to replace meat in just one weekly meal have proven quite popular But for most people when you cut out meat you need to replace it with something Americans aren t going to go for a plant based diet that easily right And that s where a handful of new Silicon Valley funded companies swoop in Meat eaters know the feeling you re at a barbecue with friends or around the table at a family holiday and the one lone vegetarian drops a pale tofu dog on the fire or pulls a basketball shaped Tofurkey out of the oven Maybe they don t know they re missing out maybe they do Either way what they re eating doesn t look that great does it Does it taste like meat Does it even matter To the vegetarian it usually really doesn t Meatless meats have been around for a long time big names in the market include Boca Burger owned by Kraft Foods Morningstar Farms and Gardenburger both owned by Kellogg s and Lightlife ConAgra But the new companies trying to create meat alternatives or meat replacements aren t really trying to go after vegetarians We already have them says Ethan Brown CEO of Los Angeles based Beyond Meat and we know that His company founded in 2009 was privately funded by Kleiner Perkins and The Obvious Corporation Obvious is a web incubator that was founded in 2006 by Evan Williams and Biz Stone and has gone on to also create and launch products like Medium The goal is to get everyone else on board For Beyond Meat and a handful of other companies such as Hampton Creek Foods a San Francisco based startup that makes egg replacement products the model is pretty straightforward They work in concert with world class food scientists to come up with meat alternatives let s call them Tofurkey 2 0 for consumer products that aren t only better tasting than their ancestors but they re healthier and often cheaper and marketed in a way that meat eaters won t be turned off of Hampton Creek Foods takes a similar approach but it s trying to convince people to replace eggs An easier sell if you consider that many doctors regularly suggest people limit their egg consumption anyway with 184 mg of cholesterol egg yolks contain one of the highest concentrations per serving of any food which in addition to foods high in saturated fat raise cholesterol levels in the blood But it s also true that eggs are the most consumed animal protein in the world says Josh Tetrick CEO of Hampton Creek Foods People have been using egg based egg replacements for years but a lot of those products aren t good for baking or using in recipes or they aren t that much cheaper than eggs themselves The goal of Beyond Eggs Hampton Creek s egg product is to function just like an egg regardless of how it s being used and still be cheaper than eggs Their powdered egg alternative is made from peas and sorghum among other things It s totally plant based Hampton Creek Foods is funded by Khosla Ventures which routinely supports technology based environmentally disruptive businesses and also by Gates himself through Khosla For both of these companies selling to consumers is only part of the equation Selling wholesale to other much larger food companies is also a big piece of their business If we can convince a General Mills that our product will be cheaper and taste just as good Tetrick says that s how we succeed And he s probably correct if General Mills can use a cheaper egg substitute that tastes identical in its processed foods or baked goods who will know or care I started out wanting to create a world changing business Tetrick says He doesn t bother using the word vegan on his products though they are in fact animal free In many ways Tetrick is angling to change the world s egg consumption the way that margarine changed the world s butter consumption by being much cheaper while still behaving a lot like the original There s a lot of money to be made in these startups they re nascent markets ready for growth Astute money men people like Khosla or Gates are often best at seeing the future and in this case they see tremendous market potential in the words of Gates They re small companies which apply scientific methods and develop their products in labs and at universities And they have the environment in mind Ethan Brown sees reducing meat consumption by 25 percent as a reasonable goal and one which would have a very very positive impact on the environment according to experts like Robert Goodland whom he cites But what about your hardliner The person who regardless of health food safety environmental or ethical concerns just wants a great burger made of real beef at his weekend brunch He hasn t been forgotten either In fact he s getting arguably the biggest chunk of money and scientific research in food technology Because in this case the goal is nothing less than putting the egg before the chicken Or more properly the chicken breast before the chicken or even the burger before the cow Fifty years hence we shall escape the absurdity of growing a whole chicken in order to eat the breast or the wing by growing these parts separately in a suitable medium Winston Churchill 1936 Since the 1990s the possibility of growing animal cells in a lab by using stem cells has become a viable prospect NASA spent the early 2000s working with turkey stem cells and the first edible specimen cultured goldfish cells were successfully produced in 2002 In the United States the effort to grow meat in a lab has been most vocally supported by Jason Matheny who in 2005 authored an influential paper in the journal Tissue Engineering a paper responsible for renewed interest in the topic of growing meat in a lab in the US In 2009 he told the University of Chicago Magazine that cultured meat will be the purest meat ever lacking the additives antibiotics and growth hormones given to most livestock today In 2004 he founded New Harvest a non profit dedicated to raising awareness of in vitro meat also called test tube meat or cultured meat In 2008 Mark Post began investigating culturing meat in a lab with 4 million in funding from the Dutch government When that funding ended Matheny worked to broker a deal for Brin to begin funding Post s work though it was done anonymously until last week Nicholas Genovese of the University of Missouri estimates that around 30 labs most of them at universities often with some private funding are working on creating cultured meats It s nearly identical in some ways to research being done in tissue engineering and organ creation work both using stem cells Geneovese s own work has been funded by PETA for the past two years In 2008 PETA announced a 1 million prize for the first lab to successfully grow test tube chicken We want to focus on chicken Ashley Byrne of PETA says because chickens are the most widely abused animals in the world Most scientists are focusing on one particular part of the problem says Genovese For example he s working on creating the best non animal medium in which to grow the cells The process of creating meat in a lab is a complex one In the simplest of terms the most common procedure begins with extracting stem cells from a live adult animal A growth serum Post s contains animal blood but future growth mediums will be animal free is then added to the cells which are grown on a scaffolding like a skeleton to form a muscular structure This muscle is often exercised to create a richer tastier flesh There are of course serious challenges to getting a product to market and at the scale which would be required There s still no fat in the meat and for a product to be marketable it s going to need to be nearly identical to real meat or it will simply be an expensive Gardenburger as one environmental scientist with doubts about the project called it It s also insanely expensive right now calling Post s tester the 325 000 burger as the media has over and over is generous Post s research has cost conservatively in the realm of 5 million so far But theoretically there s no reason this product couldn t be much cheaper than meat from an animal in the future that s how it worked in Neuromancer and it makes sense mathematically The final challenge however is whether people will buy it Can we get over our sense of how weird cultured meat is To me Ethan Brown says that will all be a question of how it s marketed Once we stop talking and thinking about it as the Frankenburger we ll go a long way towards realizing just how world changing such a product could be Of course there are those who say we don t have 20 to 25 years left to address the environmental issues For them the in vitro meat project even if successful is just too far off and they believe that people need to reduce their meat consumption now to impact the environment positively But that s not going to stop us from trying And it s not going to stop people like Sergey Brin who see business opportunities in addition to the ability to address ethical and environmental concerns from pouring money into projects that the rest of us still think of as science fiction Two million years ago there were probably naysayers too laughing at the guy with the DIY spear running after a bear And there were also probably plenty of people who disagreed when it was first suggested that you could raise massive quantities of animals and that meat could be something which even poor people could afford to eat on a daily basis At every turn man s innovative nature has answered the call to solve critical problems Why should this time be any different",
+        "score": 960720.6453003024
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.feature-entry.hentry.permalink.show-borders > div.entry-content.instapaper_body > div.column.grid_12 > div.snippet-n > div.g8-3 > p.pgh-paragraph": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "feature-entry",
+            "hentry",
+            "permalink",
+            "show-borders"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column",
+            "grid_12"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "snippet-n"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "g8-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.6363636363636364,
+    "score": 3184.663324437008,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4617930/message-unread-silicon-valleys-secret-failed-bid-to-save-blackberry": {
+        "content": "bb10 blackberry 10 enterprise robin chan project bbx BlackBerry",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4604896/praktrik-burr-puzzle-furniture": {
+        "content": "bulgaria furniture puzzle praktrik burr puzzle",
+        "score": 134.4301781462876
+      },
+      "http://www.theverge.com/2013/8/9/4604876/national-geographic-living-with-lions-serengeti-robot-drone-photography": {
+        "content": "science photography lions robot national geographic camera nature drone uav living with lions michael nichols nathan williamson",
+        "score": 1132.349357415625
+      },
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "the awl recurring choire sicha",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605758/memory-observation-and-manipulation-techniques": {
+        "content": "memories mind mit neuroscience brain university of southern california genetic engineering alzheimer s disease neurology massachusetts institute of technology neuron synapse bioengineering nervous system protein synthetic biology biotechnology alzheimer s neurobiology brain mapping human brain neurotransmitter joe tsien georgia regents university eternal sunshine donald arnold max planck institute for medical research srinivas turaga connectopathies connectome neural network",
+        "score": 2525.7732563461373
+      },
+      "http://www.theverge.com/2013/8/8/4604048/nsa-chief-wants-to-replace-employees-with-machines": {
+        "content": "trust data security robot machine autonomous nsa keith alexander edward snowden iccs",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4604890/xbox-live-home-gold-xbox-one-game-sharing": {
+        "content": "games gaming family xbox live subscription sharing digital policy xbox one xbox live gold family sharing xbox live home gold xbox family sharing Xbox One Microsoft Home consoles",
+        "score": 14268.082366671422
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "design ban patent injunction patent lawsuit patent infringement Apple Samsung",
+        "score": 1214.7472427763262
+      },
+      "http://www.theverge.com/2013/8/9/4606616/president-obama-announces-new-surveillance-reforms": {
+        "content": "white house president obama patriot act transparency spying reform surveillance prism nsa whistleblower metadata fisa fisc xkeyscore fisa court",
+        "score": 754.0968387214867
+      },
+      "http://www.theverge.com/2013/8/8/4602772/elon-musk-richard-branson-google-hangout-offers-startup-ceo-advice": {
+        "content": "google startups space x elon musk richard branson google hangouts tesla motors entrepreneurship hyperloop google4entrepreneurs virgin group",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/5/4587566/jeff-bezos-buys-the-washington-post/in/4359725": {
+        "content": "the washington post newspapers wapo future of newspapers amazon acquisition jeff bezos bezos expeditions",
+        "score": 2263.164030981769
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > div.column.border-r.pad-bot0.grid_8.c-contain > div.entry-content.instapaper_body.article-body > div.clearfix.article-meta > ul.clearfix.simplelist.sourcelist > li.clearfix.tags > span > a": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "border-r",
+            "pad-bot0",
+            "grid_8",
+            "c-contain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body",
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "article-meta"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "simplelist",
+            "sourcelist"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "tags"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 38547.168000549114,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4616820/heathrow-future-expansion-report": {
+        "content": "Nestled in the outskirts of London Heathrow Airport began life 83 years ago as a modest facility for testing and assembling aircraft It didn t serve commercial flights until a decade and a half later when the conclusion of World War II made it available to civil purposes but since then it has rapidly grown in importance to become one of the world s preeminent transport hubs Like the centerpiece in a global matryoshka doll Heathrow can be found at the heart of many overlapping spheres of interest It s the nexus of transatlantic business and trade the landing spot for millions of tourists every year and the departure point for British royalty and subjects alike Heathrow s unplanned beginnings and burgeoning popularity have combined to create a chronic problem for the airport demand for its services continually exceeds the available supply In a March 2013 submission to the UK Airports Commission Heathrow Airport Limited reports that it s already operating at its permitted capacity What s more it goes on to note estimates from the Department for Transport indicate that by 2020 there will be 11M of un served passenger demand at Heathrow and 28M by 2030 Multiple efforts to accommodate the increasingly globalized traveler community have resulted in the opening of the 4 3 billion 6 7BN Terminal 5 and the currently ongoing 2 5 billion 3 9BN refurbishment of Terminal 2 Despite their immense cost these projects will only marginally improve Heathrow s capacity primarily by routing passenger and aircraft flows more efficiently Ultimately if the airport wants to fully live up to its dual role as an international hub and a gateway into London it ll have to grow to include a third runway",
+        "score": 38547.168000549114
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.feature-entry.hentry.permalink > div.entry-content.instapaper_body > div.column.grid_12 > div.article-body > div.snippet.entry-summary.count-me > p.pgh-paragraph": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "feature-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column",
+            "grid_12"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "snippet",
+            "entry-summary",
+            "count-me"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.3333333333333333,
+    "score": 19.16841504168501,
+    "pages": {
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "You just gotta write all the time That s the secret I do hate that because we re so lean it can take a really long time to get things done that we really care about",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605758/memory-observation-and-manipulation-techniques": {
+        "content": "just how far can and should we go It s like a guided missile we can get rid of the sad part of that memory",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/8/4604048/nsa-chief-wants-to-replace-employees-with-machines": {
+        "content": "What we ve done is put people in the loop",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4604890/xbox-live-home-gold-xbox-one-game-sharing": {
+        "content": "Xbox Live Home Gold is basically family account sharing but better",
+        "score": 20.589823945917505
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "There s no proof of any infringement here being a driver much less the driver of consumer demand",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4606616/president-obama-announces-new-surveillance-reforms": {
+        "content": "I don t think Mr Snowden was a patriot",
+        "score": 17.747006137452512
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > div.column.border-r.pad-bot0.grid_8.c-contain > div.entry-content.instapaper_body.article-body > p.pgh-paragraph > q.right": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "border-r",
+            "pad-bot0",
+            "grid_8",
+            "c-contain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body",
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "right"
+          ],
+          "id": "",
+          "name": "q"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 59.57825255761449,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4617930/message-unread-silicon-valleys-secret-failed-bid-to-save-blackberry": {
+        "content": "Message unread Silicon Valley s secret failed bid to save BlackBerry",
+        "score": 59.42653751822539
+      },
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "Choire Sicha on Very Recent History a book that is 100 percent true",
+        "score": 58.60229543413811
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "Apple to judges not banning Samsung products would be a fundamental change in patent law",
+        "score": 48.465595269171445
+      },
+      "http://www.theverge.com/2013/8/5/4587566/jeff-bezos-buys-the-washington-post/in/4359725": {
+        "content": "Amazon s Jeff Bezos buys The Washington Post for 250 million",
+        "score": 71.81858200892303
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > aside.column.rightcol.border-l2.c-contain.grid_4 > section.storystream-nav > div > div#stream0.active.stream-pane.pane > ul#stream0_updates.updatelist > li.active.article.clearfix > a": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "rightcol",
+            "border-l2",
+            "c-contain",
+            "grid_4"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "storystream-nav"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "active",
+            "stream-pane",
+            "pane"
+          ],
+          "id": "stream0",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "updatelist"
+          ],
+          "id": "stream0_updates",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "active",
+            "article",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 1455.2691465392022,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4605528/your-meat-addiction-is-destroying-the-planet-but-we-can-fix-it": {
+        "content": "We have three options moving forward says Sergey Brin in the Cultured Beef promo As he tells it we can all become vegetarians we can continue to destroy the planet or we can try something new Vegetarianism is on the rise by some estimates it s at an all time high of 10 percent in the United States but it also feels fair to agree with Brin when he dismisses it as the most likely way to address our problems even as some meat eaters reduce their consumption People know that how they eat affects their health Dr Donald Smith of Mount Sinai Hospital in New York City says and that affects their behavior Beef consumption has been on a slight decline in the US in recent decades partially because people have recognized it s better for their hearts a 2001 study found that people who avoided meat were far healthier especially in terms of coronary heart disease and 40 percent less likely to develop cancer compared to meat eaters There is a growing market of educated consumers Brown says They shop at places like Whole Foods incidentally the first place Beyond Meat sold its products to These consumers Brown says some of whom are vegetarians but many who are not are health conscious and they care about the environment Beyond Meat started in June of 2012 by selling a chicken like product to Whole Foods which used it in prepared foods such as chicken salad In April of 2013 their consumer packaged Chicken less Strips were put on Whole Foods shelves nationwide The products are vegan and made from a combination of soy and vegetable proteins What we envision Brown says are supermarket aisles where in the future you ll have two choices meat or meat free protein sold side by side You won t need to go to a special vegetarian section in most supermarkets he says because most people will eat a combination of both Beyond Meat s products are attractively packaged the food itself looks a lot more like meat than its meatless 1 0 predecessors I tasted Beyond Meat s chicken alternative Microsoft founder Bill Gates wrote this past March and honestly couldn t tell it from real chicken At Mark Post s London tasting both Hanni R tzler and Josh Schonwald noted the same thing was missing from the meat fat Post calls it a technical bottleneck and it s one of the next phases of research What we love about meat is the fat that s what makes it taste good says Ethan Brown but it s also the least healthy part of the meat For people developing cultured meat however the goal is to get it as close to the real thing as possible fat and all They re going to get there Isha Datar director of New Harvest says it s just a question of when Post estimates that within 20 to 25 years we could have a commercial product lab grown beef which is indistinguishable from that which comes from an animal grown in a lab Theoretically one crop of stem cells could create a huge amount of meat with no animals harmed no grazing land needed grown in a sterile environment This product would address all of the major concerns of large scale farming today Datar says environmental health and ethical PETA thinks their chicken challenge is likely to bring a product to market in far less time though I do think we ll make the goal within the next few years Byrne says",
+        "score": 1455.2691465392022
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.feature-entry.hentry.permalink.show-borders > div.entry-content.instapaper_body > div.column.grid_12 > div.snippet-n > div > p.pgh-paragraph": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "feature-entry",
+            "hentry",
+            "permalink",
+            "show-borders"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column",
+            "grid_12"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "snippet-n"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 286.31051325566284,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4605528/your-meat-addiction-is-destroying-the-planet-but-we-can-fix-it": {
+        "content": "Extract tissue from a living animal via biopsy Exercise to boost protein levels Extract myosatellite stem cells from the tissue Grind up muscle strips Add growth serum to multiply cells Add flavor iron and vitamins if necessary Grow cells on scaffolding to form muscle Dinner time",
+        "score": 286.31051325566284
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.feature-entry.hentry.permalink.show-borders > div.entry-content.instapaper_body > div.column.grid_12 > div.snippet-n > div > p.caption.pgh-paragraph": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "feature-entry",
+            "hentry",
+            "permalink",
+            "show-borders"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column",
+            "grid_12"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "snippet-n"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption",
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.375,
+    "score": 22.428907525232518,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4604896/praktrik-burr-puzzle-furniture": {
+        "content": "Praktrik Wired",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/13/4617930/message-unread-silicon-valleys-secret-failed-bid-to-save-blackberry": {
+        "content": "SlideShare",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "Choire Sicha",
+        "score": 43.604139076846124
+      },
+      "http://www.theverge.com/2013/8/9/4605758/memory-observation-and-manipulation-techniques": {
+        "content": "NIH Director s Blog MIT News Neuron Nature",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/8/4604048/nsa-chief-wants-to-replace-employees-with-machines": {
+        "content": "Reuters The Huffington Post",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4604890/xbox-live-home-gold-xbox-one-game-sharing": {
+        "content": "Xbox Wire",
+        "score": 13.10261523831114
+      },
+      "http://www.theverge.com/2013/8/9/4606616/president-obama-announces-new-surveillance-reforms": {
+        "content": "The White House",
+        "score": 10.579968260540292
+      },
+      "http://www.theverge.com/2013/8/8/4602772/elon-musk-richard-branson-google-hangout-offers-startup-ceo-advice": {
+        "content": "VentureBeat",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > div.column.border-r.pad-bot0.grid_8.c-contain > div.entry-content.instapaper_body.article-body > div.clearfix.article-meta > ul.clearfix.simplelist.sourcelist > li.clearfix > span > a": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "border-r",
+            "pad-bot0",
+            "grid_8",
+            "c-contain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body",
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "article-meta"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "simplelist",
+            "sourcelist"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 11989.692600263656,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4605528/your-meat-addiction-is-destroying-the-planet-but-we-can-fix-it": {
+        "content": "Here is the truth The earth is round Saddam Hussein did not attack us on 9 11 Elvis is dead Obama was born in the United States and the climate crisis is real Al Gore To produce 1 pound of beef the friendly neighborhood farmer will need 13 pounds of grain and an estimated 2 500 gallons of water If a 1 000 pound cow yields 600 pounds of beef that cow used 1 5 million gallons of water and 7 800 pounds of grain So on a basic level farming at this scale is pretty inefficient when you could effectively feed thousands of people with just the grain and water it takes to produce that one cow It s not that inefficient if you re one farmer with a few cows and chickens though it s more expensive to raise animals that actually graze and just your family to feed But even when you re as good as Tyson Foods is at maximizing profits it s a mathematically unsustainable equation Today up to a third of earth s landmass is used for grazing and growing crops In the US 70 percent of our grain goes to feeding livestock This has led to a critical situation where demand is expected to far outweigh supply in the next 50 years But inefficiency isn t nearly the only problem Man made climate change or global warming is primarily caused by an increased concentration of greenhouse gasses GHG water vapor carbon dioxide methane ozone in the atmosphere Activities such as deforestation burning fossil fuels and yes raising livestock emit greenhouses gasses and all have been on a steep rise since large scale manufacturing processes were applied to various industries including farming The levels of greenhouse gas emissions have seriously increased since the Industrial Revolution and most scientists agree that we re facing a devastating climate situation The year 2013 will go down as the hottest on record and livestock is partially to blame A 2006 report by the Food and Agriculture Organization FAO for the UN estimated that around 18 percent of worldwide human caused GHG emissions were the result of livestock This study has been widely cited but is also disputed experts believe that the 18 percent figure vastly undercounts GHGs caused by raising animals Robert Goodland who was the lead environmental adviser to the World Bank Group for 23 years co authored an influential 2009 study for the World Watch Institute with Jeffrey Anhang also of the World Bank It estimated the figure was actually closer to 50 percent once undercounted emissions from respiration land use and methane were taken into consideration Goodland who is now retired notes that the Kyoto Protocol originally focused primarily on efforts to reduce fossil fuels or come up with renewable energy alternatives But if the emissions from livestock are close to 50 percent of the rising GHG levels it follows that the only pragmatic solution at this point as Goodland says is likely to be increasing plant based diets and drastically reduced animal consumption It s a behavior he says that can be changed overnight Having a positive impact on the environment by moving to a plant based diet Goodland and Anhang argue would be the most effective way to immediately and significantly reduce our man made GHG emissions In fact some estimate that if we globally reduced our animal consumption by 25 percent we could reach our GHG emission goals as set forth by the United Nations",
+        "score": 11989.692600263656
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.feature-entry.hentry.permalink.show-borders > div.entry-content.instapaper_body > div.column.grid_12 > div.snippet-n > div.g6-3 > p.pgh-paragraph": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "feature-entry",
+            "hentry",
+            "permalink",
+            "show-borders"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column",
+            "grid_12"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "snippet-n"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "g6-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 1327532.6900714594,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4616820/heathrow-future-expansion-report": {
+        "content": "Plans for a third runway and a sixth terminal at Heathrow were approved by the UK government in 2009 but were scrapped a year later following a change in leadership Some of the strongest opposition to expansion has come from local community groups councils and grassroots organisations John Stewart chairman of the Heathrow Association for the Control of Aircraft Noise HACAN tells The Verge that some 725 000 local residents are affected by Heathrow aircraft noise which amounts to more than a quarter of all people suffering from aircraft noise in Europe Whether departing or arriving most planes have to follow a flight path directly over London and their environmental impact has drawn the ire of more than just the locals Before the 2009 plan was announced Greenpeace and a group of celebrity endorsers purchased a plot of land at Heathrow in order to obstruct the building of a third runway Heathrow s response to these concerns has been bullish the operating company argues that it can deliver a sustainable airport that will handle more flights with less noise It already levies a variable landing charge that incentivizes airlines to use quieter aircraft and it also has a flightpath respite scheme that aims to spread out the noise by alternating runways These and other efforts have helped Heathrow reduce its noise footprint over recent years while growing to handle nearly half a million flights per year Even with 70 million passengers and 1 5 million metric tons of cargo passing through Heathrow annually business leaders maintain that greater expansion is absolutely essential Without it the argument goes the surrounding region risks losing jobs as well as its international competitiveness with airports like Frankfurt Amsterdam s Schiphol and Paris Charles de Gaulle ready to pounce on any business that Heathrow can t handle These economic interests are in direct conflict with the concerns of local residents and environmental groups leaving open the thorny question of what is to be done The UK Airports Commission has been set up specifically to tackle the multifaceted challenge of expanding London s air connectivity and is presently assessing more than 50 different proposals Heathrow itself is pitching in three different options for constructing that controversial third runway The airport authority claims that expansion of its infrastructure would deliver a 100 billion 155BN boost to the UK economy at a cost of 14 billion nearly 22BN and with a completion date in 2025 Ambitious as ever each of the Heathrow proposals also allows room for a fourth runway should one ever prove necessary However profitable it may turn out to be the idea of a four runway Heathrow is already being disputed by anti expansion campaigners John Stewart of HACAN goes for intentional understatement when he describes Heathrow s estimates as hugely optimistic He also points out that flight demand could be drastically reduced if oil prices rise or the industry s tax breaks are curtailed HACAN and other skeptical groups support more incremental upgrades to London s Gatwick and Stansted airports as a means to reduce Heathrow s burden London Mayor Boris Johnson has advanced a far more radical plan for the outright replacement of Heathrow with a multi runway hub airport to be built atop a man made island in the estuary of the River Thames He has since moved to support an alternative plan authored by renowned architect Sir Norman Foster that pitches a similar four runway behemoth to take over Heathrow s role of primacy Among the key benefits touted by these plans is a lower noise impact allowing the airport to operate 24 hours a day plus a cohesive layout that would cut flight connection times down to 45 minutes The cost of the Foster Partners bid is estimated at 24 billion 37BN which the designers claim can be raised through private investment with the project becoming partially operational in 2029 Accounting for all potential economic benefits the Thames Hub Airport would deliver 75 billion 116BN paying off its initial costs within the first decade These numbers don t compare well to the projected timescale or revenues of a Heathrow expansion however they re also not subject to the same burden of widespread public disapproval Gatwick and Stansted offer the most modest ideas with the former airport asking for a frugal 9 billion 14BN to get a new runway up and running by 2025 The vision is for London s air traffic to be redistributed among a constellation of competing airports which is expected to result in up to 56 billion 87BN of economic growth As Mayor Johnson s competing proposal points out however fragmenting London s air connectivity in that fashion would deprive the city of its ability to function as a hub for connecting flights which it is ideally positioned to do given its centrality in the developed world The alternatives to Heathrow are numerous varied and in some ways preferable but they may already be irrelevant The Financial Times reported this week that none of the major airline alliances currently operating out of Heathrow are willing to move away SkyTeam the Oneworld Alliance and the Star Alliance among whose members you ll find Delta United Swissair Lufthansa and both British and US Airways are all equally resolute in their commitment to Heathrow The FT also notes that SkyTeam has already declared that relocating to another London or UK airport is not an option for our members The independent Airports Commission will offer its preliminary report on the various pitches for air capacity expansion by the end of this year It ll suggest incremental strategies to cover the UK s short and mid term aviation goals but the Commission s final assessment will be reserved until summer 2015 With Heathrow s established cachet as a global brand improving customer satisfaction ratings and almost universal airline support that 2015 report is shaping up to recommend a future that looks like a bigger version of the present",
+        "score": 1327532.6900714594
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.feature-entry.hentry.permalink > div.entry-content.instapaper_body > div.column.grid_12 > div.snippet-n > div.g8-3 > p.pgh-paragraph": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "feature-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column",
+            "grid_12"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "snippet-n"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "g8-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.42857142857142855,
+    "score": 78.50708272509873,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4617930/message-unread-silicon-valleys-secret-failed-bid-to-save-blackberry": {
+        "content": "If the iPhone was for consumers Chan wanted to bring back the business CrackBerry",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "If successful Apple could have an easier time in future cases",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4604876/national-geographic-living-with-lions-serengeti-robot-drone-photography": {
+        "content": "we thought we had captured a herd of zebra by moonrise only to find out we had been photographing a pile of rocks",
+        "score": 20.519594859692294
+      },
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "She was an adult who d never had either cheese fries or a milkshake",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605758/memory-observation-and-manipulation-techniques": {
+        "content": "it should be possible to use this to delete and modify memory in some way having a circuit diagram will tell us which neurons to manipulate and how Memories whether good or bad serve an adaptive purpose",
+        "score": 188.93383311753465
+      },
+      "http://www.theverge.com/2013/8/9/4604890/xbox-live-home-gold-xbox-one-game-sharing": {
+        "content": "Microsoft is still committed to its original Xbox One vision",
+        "score": 26.06782019806925
+      },
+      "http://www.theverge.com/2013/8/5/4587566/jeff-bezos-buys-the-washington-post/in/4359725": {
+        "content": "The purchaser is an entity that belongs to Mr Bezos and is not Amazon com the Post s uncertain future has led to an exodus of many of its top writers It s hard to conceive of someone repackaging the Post into an outlet for bite size news stories",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > div.column.border-r.pad-bot0.grid_8.c-contain > div.entry-content.instapaper_body.article-body > p.pgh-paragraph > q.center": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "border-r",
+            "pad-bot0",
+            "grid_8",
+            "c-contain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body",
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "center"
+          ],
+          "id": "",
+          "name": "q"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.75,
+    "score": 6.265487731774158,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4604876/national-geographic-living-with-lions-serengeti-robot-drone-photography": {
+        "content": "This is more than a wildlife story",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/13/4617930/message-unread-silicon-valleys-secret-failed-bid-to-save-blackberry": {
+        "content": "Could switching to Android and focusing on business have turned the company around",
+        "score": 1.0494570578699642
+      },
+      "http://www.theverge.com/2013/8/9/4605758/memory-observation-and-manipulation-techniques": {
+        "content": "New techniques could help with neurological disease but how far should they go",
+        "score": 10.259797429846147
+      },
+      "http://www.theverge.com/2013/8/13/4616820/heathrow-future-expansion-report": {
+        "content": "Where next for the world s busiest international airport",
+        "score": 7.487208707606365
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.permalink > header > h2.subheadline > p": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "subheadline"
+          ],
+          "id": "",
+          "name": "h2"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 64.72970000607346,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4604890/xbox-live-home-gold-xbox-one-game-sharing": {
+        "content": "Microsoft committed to original Xbox One plans reveals new Home Gold sharing features",
+        "score": 40.77562939625726
+      },
+      "http://www.theverge.com/2013/8/9/4606616/president-obama-announces-new-surveillance-reforms": {
+        "content": "Obama announces surveillance reforms but doesn t think Snowden is a patriot",
+        "score": 67.56547774768774
+      },
+      "http://www.theverge.com/2013/8/9/4604876/national-geographic-living-with-lions-serengeti-robot-drone-photography": {
+        "content": "National Geographic uses drones and robots to capture stunning images of African lions",
+        "score": 84.30284120460728
+      },
+      "http://www.theverge.com/2013/8/8/4602772/elon-musk-richard-branson-google-hangout-offers-startup-ceo-advice": {
+        "content": "Elon Musk discusses Tesla and Space X s near bankruptcies during Google Hangout",
+        "score": 82.5389564126436
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "Apple to judges not banning Samsung products would be a fundamental change in patent law",
+        "score": 48.465595269171445
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > header > h1#stream_title.headline.entry-title.instapaper_title": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "headline",
+            "entry-title",
+            "instapaper_title"
+          ],
+          "id": "stream_title",
+          "name": "h1"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.8333333333333334,
+    "score": 19.572970706993214,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4617930/message-unread-silicon-valleys-secret-failed-bid-to-save-blackberry": {
+        "content": "Turmoil at RIM a new CEO BlackBerry 10 delays and buyout rumors",
+        "score": 16.125145705019854
+      },
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "The Verge interviews",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "Apple vs Samsung the verdict",
+        "score": 1.6705408466316625
+      },
+      "http://www.theverge.com/2013/8/8/4604048/nsa-chief-wants-to-replace-employees-with-machines": {
+        "content": "Whistleblower reveals massive surveillance effort by NSA FBI on consumer services",
+        "score": 13.10261523831114
+      },
+      "http://www.theverge.com/2013/8/5/4587566/jeff-bezos-buys-the-washington-post/in/4359725": {
+        "content": "One click payment tracking Jeff Bezos Washington Post purchase",
+        "score": 53.86393650669227
+      },
+      "http://www.theverge.com/2013/8/9/4606616/president-obama-announces-new-surveillance-reforms": {
+        "content": "Whistleblower reveals massive surveillance effort by NSA FBI on consumer services",
+        "score": 13.10261523831114
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > aside.column.rightcol.border-l2.c-contain.grid_4 > section.storystream-nav > div > div#stream0.active.stream-pane.pane > h2": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "rightcol",
+            "border-l2",
+            "c-contain",
+            "grid_4"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "storystream-nav"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "active",
+            "stream-pane",
+            "pane"
+          ],
+          "id": "stream0",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5,
+    "score": 28257.424078043503,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4606616/president-obama-announces-new-surveillance-reforms": {
+        "content": "Changing section 215 of the Patriot Act which is the part of the law that allows the NSA to collect blanket phone records of all customers from US wireless companies such as Verizon The President didn t specify what types of changes would be made beyond greater oversight greater transparency and constraints on the use of this authority but said he d work with Congress to reform the law In terms of immediate transparency measures the White House on Friday afternoon released a document detailing its interpretation of section 215 Reforming the Foreign Intelligence Surveillance Court FISC or FISA Court the secret court that approves NSA phone and Internet surveillance requests so that there s an advocate challenging those requests on behalf of the public Previously the court only heard one side of the story as President Obama admitted the government s Today the White House also promised it would make public a 2011 FISA Court ruling that found some spying unconstitutional and is set to release on August 12 to the Electronic Frontier Foundation which had been engaged in a years long lawsuit to get ahold of it The NSA is working to appoint a privacy and civil liberties officer according to the President The broader US intelligence community which includes the NSA and CIA is also going to launch a new website that Obama said will include more information on what activities the agencies are involved in Finally the President said the White House is creating an independent advisory group made up of outside experts who will be allowed to review the government s surveillance activities and publish a public report within two months 60 days and a final report by the end of the year It s unclear if this committee will have any real power to change things though or if the government will follow any of their suggestions",
+        "score": 28257.424078043503
+      },
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "Managed server product guys Other startups who have a product they want to explain to you but like if their website can t explain why would taking it to the phone make it better People who want to buy your company for too little money Accountants Lawyers they re okay really at least Needy writers sorry I love you needy writers",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > div.column.border-r.c-contain.grid_8.pad-bot0 > div.entry-content.instapaper_body.article-body > ul > li": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "border-r",
+            "c-contain",
+            "grid_8",
+            "pad-bot0"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body",
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.2,
+    "score": 10.259797429846147,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4604876/national-geographic-living-with-lions-serengeti-robot-drone-photography": {
+        "content": "an opportunity to photograph animals on their terms",
+        "score": 10.259797429846147
+      },
+      "http://www.theverge.com/2013/8/13/4617930/message-unread-silicon-valleys-secret-failed-bid-to-save-blackberry": {
+        "content": "There were a lot of people who loved the BlackBerry product and were sad to see it deteriorate",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605758/memory-observation-and-manipulation-techniques": {
+        "content": "vividness of a memory is thought to be related to the strength of synapses we hope that this will eventually allow us to scan a mouse brain",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "Is Apple s user experience like a cupholder or a hybrid engine",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "There s a weird long monologue by this guy who s convinced that growing up with Gchat kind of ruined him Candy Crush is magical brain shut down time",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > div.column.border-r.pad-bot0.grid_8.c-contain > div.entry-content.instapaper_body.article-body > p.pgh-paragraph > q.left": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "border-r",
+            "pad-bot0",
+            "grid_8",
+            "c-contain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body",
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "left"
+          ],
+          "id": "",
+          "name": "q"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 51.02242546861146,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4604896/praktrik-burr-puzzle-furniture": {
+        "content": "This side table will be a lasting testament to your intelligence",
+        "score": 27.434400192735964
+      },
+      "http://www.theverge.com/2013/8/13/4617930/message-unread-silicon-valleys-secret-failed-bid-to-save-blackberry": {
+        "content": "Message unread Silicon Valley s secret failed bid to save BlackBerry",
+        "score": 59.42653751822539
+      },
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "Choire Sicha on Very Recent History a book that is 100 percent true",
+        "score": 58.60229543413811
+      },
+      "http://www.theverge.com/2013/8/9/4605758/memory-observation-and-manipulation-techniques": {
+        "content": "Matter over mind scientists begin to observe and manipulate memories",
+        "score": 44.15568821439777
+      },
+      "http://www.theverge.com/2013/8/8/4604048/nsa-chief-wants-to-replace-employees-with-machines": {
+        "content": "How the NSA plans to avoid future leaks replace employees with machines",
+        "score": 44.69704944324852
+      },
+      "http://www.theverge.com/2013/8/5/4587566/jeff-bezos-buys-the-washington-post/in/4359725": {
+        "content": "Amazon s Jeff Bezos buys The Washington Post for 250 million",
+        "score": 71.81858200892303
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > header > h1#stream_title.headline.entry-title.instapaper_title": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "headline",
+            "entry-title",
+            "instapaper_title"
+          ],
+          "id": "stream_title",
+          "name": "h1"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 41.32162022209589,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4604876/national-geographic-living-with-lions-serengeti-robot-drone-photography": {
+        "content": "National Geographic photos of Serengeti lions",
+        "score": 41.32162022209589
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.article-entry.hentry.permalink > div.border-r.c-contain.column.grid_8.pad-bot0 > div.article-body.entry-content.instapaper_body > div#gallery4369079.gallery.inline > h3": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-r",
+            "c-contain",
+            "column",
+            "grid_8",
+            "pad-bot0"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body",
+            "entry-content",
+            "instapaper_body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "gallery",
+            "inline"
+          ],
+          "id": "gallery4369079",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 2736.849525838418,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4616820/heathrow-future-expansion-report": {
+        "content": "All flight paths lead to Heathrow If Heathrow can no longer be Heathrow will someone else step into its big shoes A visionary architect and a floppy haired mayor unite to offer an ambitious alternative In 2012 close to one percent of the world s population passed through Heathrow",
+        "score": 2736.849525838418
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.feature-entry.hentry.permalink > div.entry-content.instapaper_body > div.column.grid_12 > div.snippet-n > div.g8-3 > h3": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "feature-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column",
+            "grid_12"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "snippet-n"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "g8-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 24891.894352070118,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4605528/your-meat-addiction-is-destroying-the-planet-but-we-can-fix-it": {
+        "content": "Before that humans were predominantly plant eaters Meat is rarely a majority of the diet of any human even today Ferraro says our diets and those of hunter gatherers were still primarily vegetative fruit with that extra meat component Once our innovations and technological advances meant that we could start hunting however the animal food seems to have enabled some of our most critical early evolutionary processes The key thing about meat he says however wasn t intrinsically the meat itself it was a lot of calories a lot of nutrients and vitamins and minerals in these packages meat was the only possible source at the time and place in man s evolution The history of man and animal is more complicated than a simple hunting relationship of course humans began to domesticate the gray wolf the origin animal of all currently domesticated dogs around 33 000 years ago some estimates and evidence exist for a much much earlier relationship giving us a source of fur security beasts of burden and eventually the companionship which dogs are predominantly known for today In US law factory farms are called concentrated animal feeding operations CAFOs for short In practice factory farms are very large four farms in the United States produce 80 percent of the cattle raised for slaughter and half of the chickens They re operations that raise livestock in highly confined high density conditions with more than 125 000 animals under one roof The largest food production company in the United States is Tyson Foods which reported a revenue of 32 billion in 2011 Tyson employs 115 000 people and has 400 operation centers in the United States It works with nearly 7 000 farms who supply it with animals for the final stages of life slaughter and processing The life cycle of an animal through large scale farming operations is generally birth at a farm most come from factories as defined by the EPA movement to a feedlot for finishing a highly confined city for animals and finally processing at a plant such as Tyson In 2010 Tyson processed slaughtered an average of 42 3 million chickens 143 000 cows and nearly 390 000 pigs per week The company makes its profit by processing animals in efficient and brutal circumstances For example in 1925 the average Tyson chicken lived approximately 112 days weighed around 2 5 pounds at the time of slaughter and had consumed about 4 7 pounds of grain per pound of its body weight In 2010 the same chicken lived just 45 days was slaughtered at an average weight of 5 63 pounds and consumed just 1 92 pounds of grain per pound Simply put the animals live less than half as long eat half as much and are more than double the size they were 100 years ago The efficiency of these operations has enabled them to produce an ever increasing amount of animals for ballooning profits The first few decades of the 20th century saw the introduction of vitamin supplements Combined with artificial lighting it allowed animals to be raised indoors chickens will even lay eggs year round now and at increasing body weights The advent of refrigeration meant that animal meat could be kept much longer and transported farther distances before going bad A growing understanding of genetics led to the selective breeding of the strongest healthiest birds In the 1950s livestock vaccination became standard Around the same time the largest and most often cited technological advance in factory farming came with the introduction of low grade antibiotics into the chickens feed and water supply Farmers were raising animals in such large quantities that disease could quickly and easily wipe out huge numbers of them the application of antibiotics it was thought would lessen some of that risk It also meant they could be raised in far less sterile conditions But there was also an unforeseen consequence the animals quickly grew fatter Antibiotics it turns out kill off the bacterium which makes up the microbiome found in the guts of all animals and helps digest carbohydrates Unable to process the bacteria the animal puts on weight and fast The cause of such rapid weight gain wasn t understood until early 2013 but it became a standard method of fattening livestock in the 1950s Today around 80 percent of all antibiotics produced in the US are used for livestock",
+        "score": 24891.894352070118
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.feature-entry.hentry.permalink.show-borders > div.entry-content.instapaper_body > div.column.grid_12 > div.snippet-n > div.g5-3 > p.pgh-paragraph": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "feature-entry",
+            "hentry",
+            "permalink",
+            "show-borders"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column",
+            "grid_12"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "snippet-n"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "g5-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 56.86158816076386,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4616820/heathrow-future-expansion-report": {
+        "content": "Heathrow s expansion plans would make it bigger faster and louder",
+        "score": 56.86158816076386
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.feature-entry.hentry.permalink > header > h1#stream_title.entry-title.headline.instapaper_title": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "feature-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "entry-title",
+            "headline",
+            "instapaper_title"
+          ],
+          "id": "stream_title",
+          "name": "h1"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5,
+    "score": 44.45528321283603,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4606616/president-obama-announces-new-surveillance-reforms": {
+        "content": "Read more Everything you need to know about NSA spying and PRISM",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605758/memory-observation-and-manipulation-techniques": {
+        "content": "The mind s eye Mapping the mind Eternal sunshine on the distant horizon",
+        "score": 44.45528321283603
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > div.column.border-r.c-contain.grid_8.pad-bot0 > div.entry-content.instapaper_body.article-body > h2": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "border-r",
+            "c-contain",
+            "grid_8",
+            "pad-bot0"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body",
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 529.1977717215781,
+    "pages": {
+      "http://www.theverge.com/2013/8/13/4605528/your-meat-addiction-is-destroying-the-planet-but-we-can-fix-it": {
+        "content": "Jesus Molly said her own plate empty gimme that You know what this costs She took his plate They gotta raise a whole animal for years and then they kill it This isn t vat stuff She forked a mouthful up and chewed William Gibson Neuromancer 1984 On Monday August 5th 2013 at a television studio in London in front of around 100 people Dr Mark Post of Maastricht University in the Netherlands unveiled the culmination of five years of research a lab grown test tube beef burger cooked in a pan and served to two members of the public Though a handful of tiny pieces of such meat had previously been displayed the burger in that pan was the first fully cooked specimen tasted and admired by everyday citizens A few cells that we take from a cow Post says can be turned into 10 tons of meat What Hanni R tzler an Austrian researcher and Josh Schonwald a Chicago based food writer the tasters were eating was 100 percent perfect beef It had never been slaughtered had never been properly alive and most importantly had never been a living breathing animal The meat which contained no fat was pronounced to have quite a bit of flavor by R tzler and the consistency was said to be perfect Some people think this is science fiction Sergey Brin founder of Google and the single donor who provided funding nearly 1 million thus far for Post s research said but he sees it as an achievable goal",
+        "score": 529.1977717215781
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.feature-entry.hentry.permalink.show-borders > div.entry-content.instapaper_body > div.column.grid_12 > div.article-body > div.snippet.entry-summary.count-me > p.pgh-paragraph": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "feature-entry",
+            "hentry",
+            "permalink",
+            "show-borders"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column",
+            "grid_12"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "snippet",
+            "entry-summary",
+            "count-me"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 13.10261523831114,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4604890/xbox-live-home-gold-xbox-one-game-sharing": {
+        "content": "Microsoft Xbox One",
+        "score": 13.10261523831114
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.article-entry.hentry.permalink > div.border-r.c-contain.column.grid_8.pad-bot0 > div.breaker.breaker-best.breaker-scroller.clearfix.column.grid_8.related-products.row > div#related-products.breaker-body.clearfix > div.pane > div.clearfix.slider > div.column.section.the-best > a > h4": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-r",
+            "c-contain",
+            "column",
+            "grid_8",
+            "pad-bot0"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "breaker",
+            "breaker-best",
+            "breaker-scroller",
+            "clearfix",
+            "column",
+            "grid_8",
+            "related-products",
+            "row"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "breaker-body",
+            "clearfix"
+          ],
+          "id": "related-products",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pane"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "slider"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column",
+            "section",
+            "the-best"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 7.190776818991479,
+    "pages": {
+      "http://www.theverge.com/2013/8/6/4592158/choire-sicha-very-recent-history-interview": {
+        "content": "very recent history an entirely factual account of a year c ad 2009 in a large city",
+        "score": 7.190776818991479
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.article-entry.hentry.permalink > div.border-r.c-contain.column.grid_8.pad-bot0 > div.article-body.entry-content.instapaper_body > div.article-meta.clearfix > ul.clearfix.simplelist.sourcelist > li.clearfix.tags > span > a": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-r",
+            "c-contain",
+            "column",
+            "grid_8",
+            "pad-bot0"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body",
+            "entry-content",
+            "instapaper_body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-meta",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "simplelist",
+            "sourcelist"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "tags"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  }
+]

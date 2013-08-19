@@ -1,0 +1,2961 @@
+[
+  {
+    "confidence": 0.1,
+    "score": 125.99330106084633,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "education physics",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "food art",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "farm labor farmers agriculture",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "aetna Health Insurance social media",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "Edward Snowden President Obama",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "polyphenols grape pomace winemaking food waste",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Malaria Global Health Vaccines",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "beef cattle meat",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Seattle Children s Hospital Buckyballs magnets Children s Health",
+        "score": 125.99330106084633
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "San Bernardino good news",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story.story-blogpost > div.tags > ul > li > a": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "tags"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5625,
+    "score": 138.5095642490651,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "Technology Technology Technology",
+        "score": 146.115339085974
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Health Health Health Care",
+        "score": 34.592617002110494
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "Food Food Food",
+        "score": 0.0
+      },
+      "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy": {
+        "content": "Technology Politics National Security",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "Politics Politics Politics",
+        "score": 201.75819121103993
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "Health Health Health Care",
+        "score": 34.592617002110494
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Health Health Health Care",
+        "score": 69.18523400422099
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "Technology Movie Interviews Movie Interviews",
+        "score": 204.91284762645304
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "Politics Politics Politics",
+        "score": 201.75819121103993
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "Technology Technology Technology",
+        "score": 146.115339085974
+      },
+      "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal": {
+        "content": "Technology Movie Interviews Movie Interviews",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "Food Food Food",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "Food Food Food",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "Food Food Food",
+        "score": 207.55570201266298
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "Sports U S Sports",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "Sports U S Sports",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#main_sidebar > div#resMore > div#relatedstorieswrap > section#relatedstories > div#resMoreAPI.apiquery.bucketwrap.responsive_more > article.clearfix.story > a > div.storyinfo > h2.slug": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "apiquery",
+            "bucketwrap",
+            "responsive_more"
+          ],
+          "id": "resMoreAPI",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "storyinfo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 661877.1034713762,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "You don t need to be a social scientist to know there is a gender diversity problem in technology The tech industry in Silicon Valley and across the nation is overwhelmingly male dominated That isn t to say there aren t women working at tech firms Yahoo CEO Marissa Mayer and Sheryl Sandberg of Facebook have raised the profile of women at high tech firms But those prominent exceptions do not accurately portray who makes up the engineering ranks at those and other tech companies Visit Silicon Valley and you will hear many people talk about the need to increase the number of female hackers The conventional wisdom about why there are so few female coders usually points a finger at disparities in the talent pool which is linked to disparities in tech education In fact starting as early as adolescence girls and boys often choose different academic paths When the time comes for young people to elect to go into engineering school serious gender disparities become visible A new study by University of Texas sociologist Catherine Riegle Crumb in the journal Social Science Quarterly offers an interesting new perspective on this divide Along with co author Chelsea Moore Riegle Crumb decided to dive into the gender divide in high school physics courses Even as the gender divide in some areas of science has diminished a stubborn gap has persisted for decades in high school physics Riegle Crumb had a simple question The national divide showed boys were more likely to take physics than girls But was this divide constant across the country In an analysis of some 10 000 students at nearly 100 schools Riegle Crumb found that the divide was anything but constant What we find is that there are many schools where boys and girls take high school physics at the same rate Riegle Crumb said in an interview And that there are many other schools where more girls actually take physics than boys And so when you look at the aggregate you see a pattern where boys are taking physics more than girls but there is a lot of variation around that There are some obvious things that could cause those variations If parents of some kids are scientists or highly educated they might push their daughters to take tough courses in high school Wealthy families might be able to afford tutoring or have one parent stay home to help kids with homework Better funded suburban schools might be at an advantage over inner city schools But when Riegle Crumb controlled for those and other possibilities she found one reason remained What we found is that in communities that had a higher percentage of women in the labor force who are working in science technology engineering and math that in those schools girls were as likely as boys to take physics or even more likely Riegle Crumb s finding about the importance of local role models meshes with a broad range of earlier work that shows the decision to pursue math and science is not about innate differences between boys and girls but about social context and norms Countries with greater gender equality for example reveal more equal math test scores among boys and girls Teenage girls growing up in communities where women are better represented in tech are more likely to see women commenting on tech issues in public forums and in school discussions and more likely to run into a friend s astrophysicist mom at a birthday party By contrast Riegle Crumb said girls growing up in communities where most working women are in jobs traditionally held by women such as child care or nursing might not see the possibilities that exist If I am a young woman growing up in a community or culture like that then that s what I see as Well this is what I am expected to do Riegle Crumb said And so it may not ever occur to me that Oh you know I don t actually have to do that There s a vast array of things I could choose to do But if no one around me is doing those things it s hard for me to even consider that possibility",
+        "score": 751244.4226063828
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "About five years ago emergency room doctor Julie Brown met an 8 year old girl who complained about a weeklong stomach ache The girl was tight lipped about what might be causing the pain and she ended up visiting the Seattle Children s Hospital where Brown works twice And then a third time When I examined her she was sitting up and chatting with me Brown tells Shots She looked so well Then the young girl s doctors ordered an X ray and found something odd She had a stack of magnets and batteries in her stomach Brown says She went right to the operating room where they did an endoscopy They only found a couple of them The doctors realized they would have to open her up and look for the rest What they found was a minefield of tiny round rare earth magnets she had swallowed A battery and a magnet were stuck together in her stomach which caused an ulcer A little further down the line in her gastrointestinal tract was another ulcer The 8 year old ended up losing about 10 centimeters of her intestines that had become seriously damaged We actually do pretty well with less intestine generally speaking Brown says But anyone who has had surgery involving opening the bowel has an increased lifelong risk of bowel obstruction due to adhesions So it is definitely something we wish we could avoid The case pushed Brown already interested in studying foreign objects in the body to track kids who have an appetite for magnets In a recent study published in the Annals of Emergency Medicine Brown and colleagues documented an increase in magnet related ailments that eventually bring young people into the emergency room Using national emergency room data from 2002 to 2011 Brown and other researchers found a fivefold increase in young people up to age 21 who swallowed magnets and wound up in the hospital Over that period there were about 22 500 injuries to kids from magnets Most of the time the magnets went through the mouth but nearly a quarter of the injuries were caused when kids stuck magnets up their noses The thing that motivated this research was what happened when the Consumer Product Safety Commission tried to get all of these makers of spherical magnet sets to take their products off the market Brown says Last summer NPR reported the CPSC issued its first stop sale order in 11 years The products included those of Maxfield Oberton the since liquidated maker of strong toy magnets called Buckyballs The national data are usually sparse on details about the nature of the magnet Brown says But there are a lot of magnets available in the community now than there were previously A lot more About 3 million sets of Buckyballs magnets were sold in the U S from 2010 on which is also when Brown saw an increase in Seattle cases involving magnet ingestion My local study showed a similar pattern of increase that the national study showed and all the increases were in the years between 2010 and 2012 Brown says Her Seattle Children s Hospital study collected more detailed information about each magnet related injury including type of magnet By 2012 about two thirds of ingestions were caused by spherical balls from magnet sets that look a lot like Buckyballs That s up from 25 percent in 2010 We did find the increase could be explained by Buckyballs type magnets she says Most of the incidents involve young children but there was also a rise among older ones including teens But why the uptick in magnets being swallowed by teens Shouldn t they know better It turns out they re not gobbling magnets like younger kids Instead she says they re mostly using them to mimic body piercings like say a nose or tongue stud And while these older kids are out looking cool sometimes those little round magnets come loose Next thing you know they re in the stomach or lower Definitely not cool",
+        "score": 1316386.9800995784
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "Babies come in pretty cute packaging we re pretty sure it has something to do with Mother Nature wanting you to coo over a burping pooping little freeloader But now Chinese Internet users have found a way to one up nature They re wrapping those already adorable babes in watermelons Yep watermelons Apparently the melon children meme started circulating in July when this little guy dressed in watermelon overalls showed up on the streets of Wenzhou a city in Zhejiang province the Chinese news agency Xinhua reports Photos of the tiny Wenzhou watermelon fashionista soon inspired a wave of online imitators many looking dapper in melon caps including this swashbuckling little tyke according to Chinese media reports In the middle of a record setting summer heat wave Chinese parents have to find something to amuse themselves right As Brian Ashcraft writes over at Kotaku not all parents in China are dressing their kids in melon wear and there isn t an army of watermelon children roaming the street However this does seem to be a thing Duly noted Of course the concept of photographing produce wrapped bundles of joy is hardly new Photographer Anne Geddes became famous and rich with her iconic images of infants as pumpkins peas in a pod and you guessed it watermelon babies Perhaps Geddes will consider the current Chinese meme a more appropriate tribute to her art than this Vice spoof Oof",
+        "score": 47340.24539409549
+      },
+      "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy": {
+        "content": "People have been talking a lot lately about the National Security Agency But there s another important NSA in the federal government the president s national security adviser That person is a sort of funnel gathering information from the military the intelligence community the State Department and channeling it all to the president Susan Rice has been in the job for only a month but it s been one heck of a month The day Rice started her new job Egypt s military overthrew the Egyptian government Then the controversy surrounding leaker Edward Snowden blew up And last week with both of those fires still raging another crisis pulled Rice and the national security team into the White House Situation Room a terrorist threat that led to the closing of U S embassies and consulates in the Middle East and North Africa This latest threat has deep personal significance for the new national security adviser Fifteen years ago this week Rice was the State Department s undersecretary for African affairs when terrorists blew up two U S embassies in East Africa Hundreds of people were killed and thousands wounded Prudence Bushnell who was the American ambassador to Kenya at the time says the attack had a huge impact on Rice I know it did because she came to visit a few months afterward Bushnell says You couldn t have been in the Department of State without having been impacted and certainly not in African affairs Last year Rice was ambassador to the United Nations when terrorists struck again this time in Benghazi Libya Four Americans were killed Following that attack Rice used talking points that were wrong on Sunday morning news shows That mistake may have kept her from being nominated for secretary of state Susan Rice should have known better Republican Sen John McCain said on Fox News and if she didn t know better she s not qualified Rice did not need Senate confirmation to be President Obama s national security adviser Those crucible experiences shape the person Rice is today She painfully learned the cost of not doing enough Ben Rhodes works closely with Rice as deputy national security adviser at the White House where he says there s definitely a lean toward action because there s an understanding that there s really no margin for error Action is a word that comes up a lot when people talk about Rice Her predecessor Tom Donilon was extremely low key Nobody would describe Rice that way Instead people call her style energetic no nonsense or rigorous At the White House her meetings start and end on time Bruce Riedel of the Brookings Institution has known Rice for 20 years If someone from an agency is giving her an inadequate answer or giving her the runaround Susan s going to cut to the chase and say Look this is what I need to know he says Tommy Vietor who was a White House national security spokesman during Obama s first term says Rice gets into the weeds She knows the details She is tough and smart and will get your attention if you re slipping Vietor says When Rice arrived at the White House a month ago she made a point to meet each person who works on the National Security Council Rhodes says And she s gone out of her way to make people know that their work is going to reach the president and their voice is going to reach the president he says That s one reason national security adviser is such a powerful job She hears from everyone with a stake in the argument but the president may hear only from her Vietor describes how a typical decision might play out say to close embassies around the world The national security adviser is convening the broader national security apparatus and saying FBI CIA State Defense come to the table and let s discuss this Let s figure out all the implications of these decisions and then let s vote he explains And he says they do literally take a vote The president gets a number of decisions every day that are unanimous and he gets many others that are divided Some national security advisers weigh in at stakeholder meetings while others hold their counsel for the president People in these meetings say not surprisingly that Rice expresses a strong view During this harried month folks at the White House say they have more than once heard the president joke with Rice about whether she s sure she wants the job It s not too late to back out he tells her She always replies Happy to be here",
+        "score": 1859966.6531487005
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "Sen Mitch McConnell undoubtedly had no illusions that he would be the ideal candidate of Tea Party conservatives Still the Republican leader in the Senate couldn t have expected what sounds like disdain from his own campaign manager Between you and me I m sorta holding my nose for two years because what we re doing here is going to be a big benefit to Rand Paul in 16 So that s my long vision Jesse Benton the campaign manager said during a phone call secretly recorded early this year by a conservative activist and recently published by Economic Policy Journal Benton a libertarian has been a top campaign aide to both Ron Paul the former congressman from Texas and his son the junior senator from Kentucky who is talked of as a possible presidential candidate Benton is also married to a granddaughter of the elder Paul Benton hired by McConnell 11 months ago was supposed to be the Senate minority leader s emissary to Tea Party conservatives especially now that he tries to get past a primary challenge from businessman Matt Bevin Benton s words could prove damaging to McConnell if it gives enough Kentucky conservatives one more reason to vote against the four term incumbent And Benton tried to clean up the political mess in a statement released by the McConnell campaign All in all it s not easy being McConnell right about now He is viewed by many conservatives including evidently his campaign manager as an establishment Republican too ready to make deals with Democrats If it s too much for him to both grin and bear the diss by Benton he at least has to bear it Firing Benton would inflame exactly the voters McConnell was hoping Benton could soothe So that doesn t appear to be an option He also has a feisty Republican primary foe who could require McConnell to burn through a lot of his 10 million war chest and if the senator succeeds soften him up for the Democrat And that Democrat Alison Lundergan Grimes recently showed that she can deliver a devastating attack line when she said McConnell couldn t even pass a kidney stone But more painful than that for McConnell might be a recent poll albeit by a Democratic pollster that found Grimes and McConnell essentially tied Still it s early and McConnell is an experienced political infighter While The Cook Political Report has moved the race to toss up status Larry Sabato s Crystal Ball still favors McConnell to win the race",
+        "score": 334038.86837041937
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "A few weeks back Sharon Roberts who had been diagnosed with endometrial cancer last year tweeted The 55 year old teacher in Houston was surprised when aetnahelp a Twitter account created for customer assistance by the insurance company Aetna quickly responded Through Twitter and subsequent phone calls Aetna clarified that she didn t need to take the more expensive test and then figured out that she had been charged double by her hospital for other treatments If I hadn t put out that snarky tweet about the BRCA test back in July I would have probably just set up a payment plan to the hospital and paid out that bill she said The experience appears to bring new meaning to the company s catchy old ads featuring the tagline Aetna I m glad I met ya The aetnahelp Twitter feed is an example of how insurance companies are increasing their social media presence to deal with customers The accounts also help companies manage their brands and do quick damage control for complaints The accounts which include askanthem cignaquestions and several accounts for various Blue Cross Blue Shield companies around the country are often separate from larger company accounts that focus on marketing and general health care news Social media gives us a tremendous opportunity to learn what the community needs said Carissa O Brien social media director at Aetna She works with six people to address the approximately 250 people who seek help through social media with claims or other services each month O Brien said the team tries to respond within an hour to users Last year Aetna made news when CEO Mark T Bertolini engaged in an extended Twitter conversation with colon cancer patient Arijit Guha who said his insurance didn t cover his treatment At the end of a publicized debate and Guha s campaign which he dubbed Poop Strong Bertolini directed Aetna to pay Guha s medical bills and tweeted The system is broken and I am committed to fixing it Guha died in March O Brien said the social media team learned from the case and that it eventually reinforced their commitment to interacting with our customers and members on the channels where they already are Guha s case was out of the ordinary The day to day fare doesn t earn personal responses from the CEO Questions come in about financial woes or health plan coverage And there are more than a few complaints In both cases the companies responded to these queries with resources or further contact information to resolve the issues Though companies are accustomed to fielding feedback and questions from their customers the public nature of a platform like Twitter or Facebook can also be a call for accountability said Ini Augustine head of SocialWise Media Group Social media acts as a public documentation of how you resolve the situation she said It s more than a marketing tool Augustine predicts that the implementation of the health law in the coming months will spur the companies to use their platforms further from organizing Twitter chats to engage customers to answering questions about Obamacare for a new demographic While insurance companies are hoping to connect with their customers through social networks they aren t dropping call centers Teeing off on Twitter is often just a gateway for a phone call or private message since many personal questions can t be answered through a public forum Nevertheless O Brien said the company learns more about their customers through this medium allowing them to respond more efficiently whether it is through the phone or interview She said there is an added benefit of using the platform to educate and inform their community about health and wellness especially during a time of many changes in the health care system Even so O Brien said it s just the beginning If we re looking to focus a 100 plus year old company on social media that s massive cultural change she said",
+        "score": 547778.9465174258
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "A viable effective vaccine against malaria has long eluded scientists Results from a preliminary study have ignited hope that a new type of vaccine could change that The experimental vaccine offered strong protection against malaria when given at high doses scientists report Thursday in the journal Science The study was extremely small and short term And the candidate vaccine still has a long way to go before it could be used in the developing world Nevertheless Dr Anthony Fauci who leads the National Institute of Allergies and Infectious Diseases calls the findings unprecedented The vaccine called PfSPZ protected 12 of the 15 volunteers from malaria including all six who received the high dose By contrast 11 of the 12 participants who weren t vaccinated came down with malaria It s true to say that this is really impressive to have this degree of protection Fauci says about the results But on the other hand you have to temper it by saying the numbers are still relatively small The trial needs to be replicated on a far larger scale he says And it s still unknown how long the malaria protection lasts The participants in this study were all bitten by five mosquitoes infected with the malaria parasite Plasmodium falciparum three weeks after getting the vaccine shot Because everyone got exposed at the same time this study wasn t designed to show how PfSPZ works over time For any vaccine to be successful in the field it would need to ward off the disease for years after the inoculation Three weeks would be way too short Previous experimental vaccines have shown some effectiveness against the malaria parasite but none have provided high levels of protection against the disease In November another candidate vaccine showed disappointing results in tests among young infants though it provided children moderate protection against the parasite PfSPZ is different from these previous vaccines because it uses whole weakened parasites to trigger an immune response instead of just a small part of the parasite like a protein on its surface We don t have any vaccines against parasitic infections like malaria because the parasite is so complex It changes itself in your body It morphs from one stage to the next says Stephen Hoffman the CEO of the Rockville Md company Sanaria which developed PfSPZ Specially PfSPZ gets certain immune cells called T cells to attack the parasite directly instead of relying primarily on an antibody response The idea that somehow one is going to make a vaccine that just attacks one of those thousands of proteins and that s going to provide long term protective immunity has always seemed odd to me he says But that s what all the other approaches are about Sanaria is moving quickly to conduct larger scale trials of PfSPZ in Africa A study in Tanzania is slated to start in six weeks If things go well with the upcoming trials Hoffman says the earliest the vaccine might be available for widespread use would be in late 2017 or early 2018",
+        "score": 614162.9511617504
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "Lee Daniels has directed critically acclaimed films that deal with difficult subject matter before but he says working on The Butler was the hardest thing he s ever done The film chronicles the life of a man who rose from the cotton fields of North Carolina to work in the White House witnessing some of the most important moments in this nation s history The movie s main character Cecil Gaines is loosely based on the life of Eugene Allen who worked at the White House for over three decades Allen and his wife Helene were profiled by Washington Post writer Wil Haygood during the 2008 presidential election Daniels and Haygood sat down with Tell Me More host Michel Martin to talk about The Butler and the man who inspired it all On the search for a witness In the midst of the 2008 presidential campaign journalist Wil Haygood had a feeling that Barack Obama was going to win And he wanted to profile someone who had witnessed the civil rights movement from the 1960s to the present time I just knew it was going to exhaust the hell out of me Haygood says I was just looking for anybody a butler a maid somebody who washed the windows Haygood made call after call searching for someone who would fit the bill Eventually he struck gold with Eugene Allen I was under the impression he had worked for three presidents He corrected me and he said it was eight On the story s relationship with the civil rights era Although it delves into the civil rights movement Daniels says that wasn t his initial intention This story is really a love affair for me A father son love affair that transcended race It wasn t until we started shooting some of the atrocities that happened in the South that I realized that this was on another level Daniels described one scene in particular that stood out for him We were shooting the bus scene there were freedom riders on the bus It was hot it was a real bus and I m in the center of the bus with these kids on a bridge where black men were lynched Daniels says that after yelling action actors playing the role of KKK members stormed the bus carrying burning crosses and yelling insults I m a little scared and I think so were the actors on the bus and I yell to the window cut But they can t hear me says Daniels And I realize when it happened there was no one to yell cut for these children and that these kids were really fighting for the soul of our country and that they were heroes in a way that I could never be That s when I realized it was a bigger movie than just a father son story It s not a movie it s a movement On why the story is relevant today Daniels says that when he makes a movie he goes into a cocoon and often disconnects from the outside world and news of the day to focus on painting an accurate historical picture But he noted that the film s conversations about race are still relevant today I come out and Trayvon Martin is happening It s out of body It leaves me speechless I m at a sense of loss because I did the movie we end on hope Cecil walking down and Obama s speaking and this glorious music and those iconic words from those presidents are inundating us and you know where are we On what the movie would mean to Eugene Allen Allen died in 2010 and wasn t able to see the film inspired by his life make it to the big screen But Haygood thinks there s still something beautiful about that To me it s almost biblical The last shall be first The movie is about the butler He s up in heaven He can tell President Eisenhower Truman Kennedy Johnson Carter Ford Nixon Reagan He can tell them Hey we re having a movie in the theater of heaven tonight It s called Lee Daniels The Butler and it s really not about any eight of you it s about the guy who used to serve you the popcorn at the White House theater It s about me Have a seat I think that s beautiful",
+        "score": 333925.45686715696
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "Heading into Friday s news conference President Obama had a delicate balancing act before him how to acknowledge widespread concerns about National Security Agency surveillance without in any way legitimizing the actions of leaker Edward Snowden The best course the president decided was to acknowledge that Snowden s revelations to some degree forced his administration to accelerate and expand a review of the federal government s surveillance activities But Obama wanted to make clear that he not some random event set in motion the administration s policy review even before details of the NSA data gathering involving phone records and Internet communications became public The president sought to rip off the hero s mantle some have placed on Snowden after his leaks began appearing in the Guardian newspaper I don t think Mr Snowden was a patriot The fact is is that Mr Snowden s been charged with three felonies It also was a fact however and Obama spoke to it that Snowden s disclosures did push the administration in ways it would have avoided if it could have There s no doubt that Mr Snowden s leaks triggered a much more rapid and passionate response than would have been the case if I had simply appointed this review board to go through and I d sat down with Congress and we had worked this thing through The president reminded his audience of his May speech when he addressed the use of drones and targeted killings in U S counterterrorism efforts It was then before Snowden became a household name that the president told the nation he had ordered a broad examination of the government surveillance But Obama s May message the essence of which was we ve got this and the assurances since then clearly haven t tamped down enough of the fears or criticisms Americans have become significantly less trusting of government assurances on civil liberties the more 9 11 recedes into the background A recent Pew Research Center survey found half of Americans approving government anti terrorism programs that collect telephone and Internet data with 44 percent disapproving But for the first time since Pew Research began tracking it in 2004 Americans expressed more concern about restrictions of civil liberties going too far than protection from terrorism And in a remarkable change since 2006 Pew found the same percentage of Democrats and Republicans 38 percent who agreed that the government s policies didn t go far enough to protect Americans There was a 9 percentage point difference in 2006 Part of what we seemed to be witnessing with Obama was the education of a president and the difference between having the ultimate responsibility of protecting the nation and being a legislator in the policymaking process As Obama himself acknowledged again Friday when he was a senator during the Bush administration he thought somewhat differently Now keep in mind that as a senator I expressed a healthy skepticism about these programs he said He gave the strong impression that knowing what he now knows from sitting in the Oval Office his inclinations run in a different direction Still he understood that though he may have thought the existing checks and balances were enough to assure Americans he now realizes they re not In explaining that he now gets it the president arrived at what may have been one of the stranger metaphors he s used in some time invoking the first lady and household chores It was a jarring version of Ronald Reagan s trust but verify and a comparison unlikely to come out of the presidential cupboard again But the point was made",
+        "score": 203805.3123710723
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "Each Friday we round up the big conversations in tech and culture during the week that was We also revisit the work that appeared on this blog and highlight what we re reading from our fellow technology writers and observers at other organizations ICYMI In case you missed it here on All Tech we looked at how Amazon founder Jeff Bezos 250 million purchase of The Washington Post is the latest sign that the tech and media worlds are melding Speaking of Amazon Laura Sydell says the online retailer s foray into fine art doesn t have traditional galleries too worried Elise Hu took a look at efforts by several states to write laws to cover what happens to your digital life after you die And Laura noted how Apple is increasingly in Washington s sights Tom Bowman reported on technology being developed to give special ops troops Iron Man like suits to protect them in battle Elise followed up on the hackable Japanese toilet and learned that its app collects perhaps a bit TMI Steve Henn examined the backlash against Twitter after threats and abusive messages targeted prominent women in the U K And Steve says another backlash is feared this one against the new wireless emergency alert system after Amber Alerts startled millions of mobile phone users Daniel Hajek reported on advertisers looking for an audience six seconds at a time on the Vine video app Leslie Bradshaw chief operating officer at the startup Guide wrote about how women are having a bigger influence at the top of the tech industry in their own way And finally our weekly innovation pick was the Kite Patch a sticker that hopefully makes you invisible to mosquitoes What s Catching Our Eye In no particular order Fast Company This Tooth Sensor Puts Wearable Computing In Your Mouth Say aaaah A researcher in Taiwan has developed an embeddable tooth sensor that can track your eating habits Of course a Bluetooth connection to smartphones is being contemplated so that people could monitor their diet through a health app The New York Times Bits Blog YouTube s Founders Challenge Vine and Instagram With New Video App The latest mash up toy is here Chad Hurley and Steve Chen who brought YouTube to the world have launched MixBit an app that looks to do Vine and Instagram videos one better Their new app lets you mix edit and collaborate on videos even those who didn t shoot to create and share stories BBC Confused Xerox copiers rewrite scanned documents expert finds That s right blame the machine Some Xerox copiers are changing numbers on documents according to a German computer scientist who found that scans he made of construction plans had altered room dimensions Xerox said the problem is limited to scans made under a certain setting",
+        "score": 69963.32435266678
+      },
+      "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal": {
+        "content": "Don LaFontaine had a voice anyone would recognize As a voice over artist he recorded thousands of movie trailers and TV commercials and became famous for his delivery of the phrase In a world which kicked off countless trailers He died in 2008 but the new comedy In a World written and directed by actress Lake Bell tells the story of voice over artists competing to become the next LaFontaine Bell co stars opposite Fred Melamed who doesn t just play a voice over artist he is one with any number of ads trailers and TV network commercials He s an actor too perhaps best known for his performance as Sy Ableman in the Coen Brothers movie A Serious Man Bell for her part starred with Meryl Streep in It s Complicated and co stars on the Adult Swim comedy series Childrens Hospital At this year s Sundance Film Festival she won the Waldo Salt Screenwriting Award for In a World which casts her as a veteran voice coach who wants to break into the male dominated world of voice overs One of the men she s competing with is her father played by Melamed who s already near the top of the field Bell and Melamed joined Fresh Air s Terry Gross to talk about the attractions of voice over work researching an accent and the perils of sexy baby vocal virus On what initially drew them to voice over work Bell I always wanted to be an actor and I guess it seemed like the ultimate acting to me You know the idea of blind voice was very alluring because in a way you weren t judged by what you looked like you could be any character and create any characterization It s the only medium where you can be anyone any social level any nationality any gender for that matter Melamed I always felt frankly I couldn t stand the way I looked and voice over was an opportunity to play anything Voice over acting has always been my waitress job I got out of drama school in 1981 and I ve never had to have another job outside of being a performer And it s strictly because I do voice overs that I was able to tough it out through the periods when there was scant work which is something that happens to all actors On how male and female voice overs are used differently Bell If a man is selling you a car in a voice over it s like Buy this car and you ll get to be me And if a woman is selling a car via the voice over then it s sort of Buy this car and you ll get to be with me So it s this interesting dynamic On sexy voice trends through the ages Bell The vocal trend that is infecting the female youth in this fine nation is the sexy baby vocal virus It s a huge problem for a myriad of reasons one being is that sexy Because I think what is intended is this submissive I m a 12 year old and you can tell me what to do thing which I think is pretty weird for that to be considered sexually enticing But I think women of all ages adopted this thing Whilst when I was growing up and I first saw Lauren Bacall in a movie and I heard her voice and Faye Dunaway and Anne Bancroft I mean that sounded hot to me That sounded like something I wanted to aspire to And I mean Lauren Bacall is like 19 years old in To Have and Have Not and she was talking like a Big Girl The sexy baby vocal virus originate d and then festered from reality television in some respects I would love to talk to some of the ladies who are on reality television shows I have a fantasy of helping them find their true voice On researching what a Bulgarian woman educated in England sounds like Bell The first thing I thought was obviously I m going to go to the embassy because they have a lot of those kinds of people there So I went out there 20 years old with a tape recorder an American to boot and knocked on the door of the Bulgarian Embassy I realized that perhaps it s not the ideal to dress all in black with a tape recorder and start asking questions in an embassy You know you gotta learn There are growing pains That didn t play out so great I had to go to a Bulgarian restaurant which are really hard to come by On Don LaFontaine s larger than life personality and work ethic Melamed Don LaFontaine was famous for having a white stretch limo with the letters DLF on the side with a little coronet and he would run around from one studio to another all day And this is before cellphones He had a very expensive ship to shore phone which is a thing that costs many many thousands of dollars that barely worked that he had installed in his stretch limo And he hooked up a fax machine to it and while he was riding from say Fox to Columbia he would have the next set of scripts faxed to him so he could rehearse So by the time he got to the studio he could do it quickly and he could go to the next studio So his whole day was spent going from one studio to another But there was nobody who came close to him in terms of the amount of work that he did or the money that he generated",
+        "score": 973968.1416239413
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "When winemakers crush the juice from grapes what s left is a goopy pile of seeds stems and skins called pomace Until several years ago these remains were more than likely destined for the dump The pomace pile was one of the largest problems that the wine industry had with sustainability says Paul Novak general manager for WholeVine Products a sister company to winemaker Kendall Jackson in Northern California Currently some wineries compost the unwanted leftovers for their own use or to sell to gardeners But now scientists and entrepreneurs are finding new and often surprising uses for this former waste product Some winemakers for instance are using pomace as the basis of grapeseed oil Researchers are also exploring pomace s properties as a food preservative studies have shown that compounds called polyphenols found in grapes and in pomace kill bacteria that can cause food to spoil One Oregon State University professor Yanyun Zhao has even toyed with turning pomace into a biodegradable material to make flower pots We re continuously looking for new options says Zhao who has spent several years studying pomace and its potential uses in and out of the kitchen And right now one of the most promising commercial uses of pomace is also one of the tastiest It s being turned into a gluten free flour substitute WholeVine has partnered with a local miller to produce the flour which comes in 16 different varieties based on the different wine grapes such as chardonnay Riesling and merlot used to make it The journey from vine to oven begins in September with the harvest WholeVine collects pomace left from after grapes are pressed The seeds and skins need to be separated dried and milled The process takes place within a two month period Workers must move quickly to get the pomace dried and stabilized before mold takes hold and the polyphenols in pomace which have been linked to many health benefits start to degrade There s a lot of nutrition and goodness that we are currently letting the mold get to and throw away Novak says We think that nutrition should be put into the system for humans WholeVine says its products are also high in iron fiber protein and other nutrients That s all well and good but in order for the flour to have commercial success it has to taste good too There s good news on that end says Oregon State s Zhao Her testing has found that grape pomace flour can replace as much as 20 percent of regular flour in baked goods like bread brownies and muffins without altering the taste or texture Add more than that though and you can start to change the flavor of food pomace flour can be bitter in large quantities Can consumers taste the difference At Washington State University food science undergraduate Gena McKahan tested out reactions to granola bars made with anywhere from 0 to 15 percent grape pomace flour Participants in a blind taste test McKahan says preferred the bars with 5 percent or less grape flour Even that small amount of pomace flour McKahan says can add a significant amount of polyphenols to a sweet treat Rachel Klemek a baker in Orange County Calif admits she was skeptical when four years ago a friend suggested she experiment with a purple powder in the kitchen If it s not butter sugar flour or eggs I don t want it says Klemek But eventually Klemek decided to mix what she called wine flour into basic recipes for baked goods and pasta These days you ll fine Klemek selling several flavors of cabernet brownies and violet colored pasta at Blackmarket Bakery the shop she runs in Costa Mesa Calif The taste is slightly grape y she says It retains the tannin quality of a cabernet sauvignon the dryness associated with some red wines I sampled several of her creations and can testify to their tastiness Right now only a fraction of the pomace produced nationally is meeting such a sweet afterlife WholeVine s Novak says the goal is to create a market for its pomace based products that will eventually allow the company to scale up operations We are doing things he says that in essence close the loop for sustainability for the fine wine industry",
+        "score": 1041862.4227650248
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "As the supply chain that delivers our food to us gets longer and more complicated many consumers want to understand and control where their food comes from But even if we meet farmers at the farmers market urban consumers are still largely divorced from the people who grow pick and package our food And we may even willfully ignore their suffering argues Seth Holmes a medical anthropologist and professor of health and social behavior at the University of California Berkeley in his provocative new book Fresh Fruit Broken Bodies For two summers between 2003 and 2005 Holmes lived on a farm in the Skagit Valley of Washington state The farm produces strawberries apples raspberries and blueberries to sell to berry companies like Driscoll and dairy companies like H agen Dazs He traveled there with a group of Triqui Indians across the border from their hometown of San Miguel in Oaxaca Mexico As Holmes soon learned the Triquis make up the very bottom rung of the agricultural labor ladder and earn between 5 000 to 8 000 a year Holmes stayed in the camp with the other laborers in a shack with a tin roof and no insulation Over the winter he traveled with the Triquis to Madera Calif to prune grapevines in a vineyard In 2005 Holmes went back to medical school but he has continued to visit the same workers nearly every year since On the berry farm Holmes picked fruit once or twice a week the Triqui workers picked seven days a week rain or shine without a day off And that took a heavy toll on their bodies back and knee pain slipped disks Type 2 diabetes premature births As one Triqui worker he calls Abelino told him You pick with your hands bent over kneeling your back hurts you get knee pains and hip pains You suffer a lot We talked to Holmes about his time with the Triquis here s part of our conversation edited for brevity and clarity What was the most surprising or shocking aspect of the food system that you uncovered in your research Before I did the research I had a sense of the hierarchy of people involved in the food labor chain But over the course of the first five months it became clear that the hierarchy is much more detailed and subtle There are indigenous Mexicans like the Triqui who occupy the rung with the most demanding physical labor they re the ones who are bent over picking The mestizos operate the machines that s not quite as demanding Then the U S born Latinos are in charge of some things and use English and Spanish The white Americans have the most control What was troubling was that people on every rung of hierarchy are legitimizing and justifying it Farmworkers are doing that too Do you think that hierarchy is representative of farms in other states in the U S I think it is The indigenous people from Mexico and Central America have the least powerful position The system is different in California because farms tend to hire a contractor to get big fields picked or pruned The contractor goes out and finds laborers and in my field research I found that system to be worse in the sense that farmworkers are not paid directly by the farm There s no paper trail When we were in California every time we pruned we were paid less than minimum wage With that system labor laws are less likely to be enforced But in Washington state the farmworkers were hired directly by farmers who were more likely to pay minimum wage Do you think that the American public cares about the labor required to produce our food We talk so little about the people who do the work that gives us the fresh fruit and vegetables that we want Farmworkers are pretty hidden and there s a concept from Jean Paul Sartre the French philosopher called bad faith meaning self deception My simplified version of that is that we consciously hide from ourselves the difficult realities of the workers We somewhat know them but we don t think about them much In that way it seems like communal bad faith Why do you think the people in the food movement calling for changes in the industrial food system don t talk much about the labor issues On some level a lot of the food movement is concerned with How does this food affect me and my body Are there hormones in it Antibiotics Pesticides But the workers who are harvesting the food and spraying the pesticides their bodies are human too Ideally we would think about them and what s going into that work If there are ways that we as consumers can lend a voice towards farmworkers having health care that will protect the bodies that are working so hard to give us the healthy food we can eat I think that s really important So you think the health care available to farmworkers is deficient In Washington state and California the people I met were pretty lucky to have independently run grant funded nonprofit clinics to go to But it s unclear what will happen with the Affordable Care Act The law is wonderful in lots of ways and will increase access for a lot of people but there are no provisions for immigrants Meanwhile immigration reform is stalled and it looks like part of the reason is that several representatives won t vote for reform unless newly legalized immigrants will not be eligible for full health care But the people who are getting sick to help us get a healthy diet deserve health care It s clear from the book that you don t really blame the farm owners for the poor living and working conditions of berry pickers As you write The corporatization of U S agriculture and the growth of international free markets squeeze growers such that they cannot easily imagine increasing the pay of the pickers or improving the labor camps without bankrupting the farm many of the most powerful inputs into the suffering of farmworkers are structural not willed by individuals Sometimes it is fair for us to blame farm owners But sometimes it isn t We also have to look at the North American Free Trade Agreement and other free trade agreements In general the problems in agriculture are long standing What do you think is the most important thing for consumers to know about the people behind their food Farmworkers help us be healthy by harvesting fruits and vegetables and they re helping the health of our economy by paying sales taxes and Social Security But we are not prone to value their health or bodies or well being That seems disrespectful and unfair",
+        "score": 770591.6492088985
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "Tyson Foods Inc announced this week that it would soon suspend purchases of cattle that had been treated with a controversial drug citing animal welfare concerns But many in the industry wonder if the real reason is the battle for sales in other countries where certain drugs that make livestock grow faster are banned I really do think this is more of a marketing ploy from Tyson to raise some awareness so they can garner some export business from our overseas export partners says Dan Norcini an independent commodities broker Surprising many in the industry Tyson sent a letter to cattle feeders saying that as of Sept 6 the company would no longer buy animals that had been treated with Zilmax a drug that bulks up cattle by as much as 30 pounds just before slaughter Tyson controls 26 percent of the U S beef supply and is the first company in the industry to make this change The letter cited recent reports of cattle being delivered for processing that couldn t walk or move We do not know the specific cause of these problems but some animal health experts have suggested that the use of the feed supplement Zilmax also known as zilpaterol is one possible cause the letter said adding that it wasn t a food safety issue The company that manufactures Zilmax Merck Animal Health issued a statement saying the product is safe We are surprised by Tyson s letter the statement said We are confident that based on all of the available data on Zilmax the experience reported by Tyson is not attributable to Zilmax Zilmax approved by the FDA for use in livestock is a beta agonist and acts as a steroid turning fat into muscle As the Chronicle of Higher Education reported in 2012 the drug can make meat tough and tasteless But new reports have surfaced recently suggesting that cattle are growing so large up to 1 300 pounds that they can t walk Lilly Callaway an animal scientist who works for JBS the largest beef producing company in the world told a meeting of cattle producers in Denver this week that her company is seeing increasing reports of animals fed beta agonists as stressed Truck drivers have indicated that there is a difference between loading cattle depending on the beta agonist status of the diet she told Feedstuffs a weekly agribusiness newspaper Our plants have indicated that particular lots of cattle are showing up as tender footed they do not want to move seem lethargic and stiff and have no energy Mike Callicrate a Kansas cattle rancher and president of the Organization for Competitive Markets a small group of beef producers fighting consolidation of the industry says he wasn t surprised by Tyson s move Consumers are growing increasingly aware of how their food is produced he says and they don t like what the use of what he calls performance enhancing drugs to dope livestock The Lance Armstrong baseball player type of compounds are precisely the same compounds being used in livestock production he says We have killed our export markets with the use of all these growth promoting growth enhancing performance enhancing type drugs China Russia and many countries in the European Union have banned the use of these drugs in meat production In May Smithfield Foods the largest pork producer in the world announced it would cut in half its purchase of animals raised with a similar drug ractopamine Just a week later Smithfield announced its sale to a Chinese company Patty Lovera assistant director of Food and Water Watch in Washington D C says she hopes that large companies barring the use of such drugs will become a trend It s a little bit unfortunate that it takes other countries having good standards to make an improvement in the U S marketplace she said but at this point we ll take what we can get I think when it comes to how we look at the drugs that are allowed to be given to food animals But not everyone is happy about Tyson s decision The last few years have been tough on cattle ranchers and farmers They ve suffered through drought drying up their hay and grass then watched as that weather killed off corn and sent feed prices sky high Norcini the commodities broker says Zilmax was a godsend to producers allowing them to feed the cattle less and get a better price thanks to the added pounds He thinks Tyson is taking a big risk They may appease or they may keep some people happy in the animal rights front They may gain some followers and some accolades from that he says But I think the cattle industry as a whole is not going to look at this particularly in a good light Meanwhile Lovera and others wonder if Tyson is simply sending a message to all those countries now negotiating two large trade agreements with the U S This stuff is front and center in these trade negotiations so I just think it s really interesting to see a big player like this volunteer some change probably to make export markets happy she says Peggy Lowe is a reporter for Harvest Public Media a public radio reporting collaboration that focuses on agriculture and food production",
+        "score": 1620125.0302096163
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "U S trade officials have ruled that South Korea s Samsung infringed on patents owned by Apple for specific smartphone features ratcheting up a tit for tat legal battle between the two electronics giants that is matched only by the ferocity of their marketplace competition Bloomberg says the patent dispute is over multitouch features and phone jack detection and that the U S International Trade Commission has ordered Samsung to quit importing selling and distributing devices in the U S However The ITC decision follows another last weekend in which U S Trade Representative Michael Froman overturned a ban on the import of the iPhone 4 and the iPad2 after an earlier ITC ruling that those Apple products had violated patents held by Samsung And in March a judge overseeing another Apple Samsung patent case threw out half of a 1 billion damage settlement against Samsung It all comes as competition in the smartphone market has heated up and Apple with the iPhone has seen its once dominant position eroded by Samsung s Galaxy",
+        "score": 59644.384658926516
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "Update at 7 30 a m on Aug 9 Click here for new information about efforts to help the agency pay for the damage done to its office Let s start our day with a feel good story The burglar or burglars who broke into the offices of the San Bernardino County Calif Sexual Assault Services on July 31 and stole several computers and monitors apparently had a change of heart after finding out that the people at the agency help victims of sexual violence The next night someone returned the stolen goods and also left behind a note as the California Governor s Office of Emergency Services and local news outlets report The note s message Candy Stallings the center s director thinks she knows who spread the word that led to the stolen goods return After the burglary police talked with homeless people in the area around the center s offices explaining what our facility does and the services we provide to the community she says Stallings believes those homeless people then told others Los Angeles KABC TV has a video report here It adds that the agency is still out 5 000 because of damage that they will have to raise themselves The agency is looking for help in covering those costs Its website is here and its Facebook page is here Update at 7 30 a m ET Aug 9 How To Donate The agency says on its website that it is thankful for the outpouring of support It also says it s been having trouble with its online donation tab So it has set up a new page for online donations here As Friday dawned about 1 870 of the agency s 10 000 goal had been raised H T to NPR s Kathy Rushlow Return to the top of this post",
+        "score": 45228.86618636385
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > div#storytext.linkLocation.storytext.storylocation > p": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storytext",
+            "storylocation"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.8461538461538461,
+    "score": 8.572483795407605,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "All Tech Considered explores how technology is changing culture and connection It s hosted by Elise Hu with contributions from technology correspondents Steve Henn Laura Sydell and other curious NPR journalists Reach us on Twitter NPRAllTech or contact us via our handy form",
+        "score": 8.811486322582395
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Shots is the online channel for health stories from the NPR Science Desk We report on news that can make a difference for your health and show how policy shapes our choices about health Look to Shots for the latest news on research and medical treatments as well as dispatches about health from around the globe Scott Hensley is your host You can reach Scott and the rest of the Shots team via our contact form",
+        "score": 16.04661715515677
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "With a pinch of skepticism and a dash of fun The Salt covers food news from the farm to the plate and beyond You can connect with senior editor and host Maria Godoy and the rest of The Salt team via our contact form or directly by email",
+        "score": 3.4894524294170424
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "It s All Politics covers political news from the nation s capital and its many states It s hosted by Frank James with contributions from the NPR politics team You can reach Frank and the team via our contact form",
+        "score": 6.695905734286686
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "Shots is the online channel for health stories from the NPR Science Desk We report on news that can make a difference for your health and show how policy shapes our choices about health Look to Shots for the latest news on research and medical treatments as well as dispatches about health from around the globe Scott Hensley is your host You can reach Scott and the rest of the Shots team via our contact form",
+        "score": 10.161641637086413
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Shots is the online channel for health stories from the NPR Science Desk We report on news that can make a difference for your health and show how policy shapes our choices about health Look to Shots for the latest news on research and medical treatments as well as dispatches about health from around the globe Scott Hensley is your host You can reach Scott and the rest of the Shots team via our contact form",
+        "score": 12.672016346530535
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "It s All Politics covers political news from the nation s capital and its many states It s hosted by Frank James with contributions from the NPR politics team You can reach Frank and the team via our contact form",
+        "score": 8.421998168997371
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "All Tech Considered explores how technology is changing culture and connection It s hosted by Elise Hu with contributions from technology correspondents Steve Henn Laura Sydell and other curious NPR journalists Reach us on Twitter NPRAllTech or contact us via our handy form",
+        "score": 12.970369405942066
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "With a pinch of skepticism and a dash of fun The Salt covers food news from the farm to the plate and beyond You can connect with senior editor and host Maria Godoy and the rest of The Salt team via our contact form or directly by email",
+        "score": 3.89004660729061
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "With a pinch of skepticism and a dash of fun The Salt covers food news from the farm to the plate and beyond You can connect with senior editor and host Maria Godoy and the rest of The Salt team via our contact form or directly by email",
+        "score": 3.4894524294170424
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "With a pinch of skepticism and a dash of fun The Salt covers food news from the farm to the plate and beyond You can connect with senior editor and host Maria Godoy and the rest of The Salt team via our contact form or directly by email",
+        "score": 7.648335512776714
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "The Two Way is the place to come for breaking news analysis and for stories that are just too interesting or too entertaining to pass up It s hosted by Mark Memmott and Eyder Peralta who invite you to get in touch with your questions comments and leads",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "The Two Way is the place to come for breaking news analysis and for stories that are just too interesting or too entertaining to pass up It s hosted by Mark Memmott and Eyder Peralta who invite you to get in touch with your questions comments and leads",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > footer#contentfooter > div.modules > div.module.first > div#footer_module.linkLocation.agglocation > div.bucketwrap.listtext > div.bucket > p": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "modules"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module",
+            "first"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "agglocation"
+          ],
+          "id": "footer_module",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "listtext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucket"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.23076923076923078,
+    "score": 13.47460311445293,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "Privacy Security Gadgets Apps The Industry",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Treatments Tests Health Inc Policy ish Public Health",
+        "score": 7.687248222691222
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "Foodways Producers Food For Thought For Foodies",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "Follow The Money Power Centers Faces Wonky",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "Treatments Tests Health Inc Policy ish Public Health",
+        "score": 7.687248222691222
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Treatments Tests Health Inc Policy ish Public Health",
+        "score": 25.049312897976346
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "Follow The Money Power Centers Faces Wonky",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "Privacy Security Gadgets Apps The Industry",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "Foodways Producers Food For Thought For Foodies",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "Foodways Producers Food For Thought For Foodies",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "Foodways Producers Food For Thought For Foodies",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "International Economy Must Reads Contact Us",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "International Economy Must Reads Contact Us",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > header.contentheader > nav > ul > li > a": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 159.76584992578785,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "Science Rap B A T T L E S Bring Hip Hop Into The Classroom How One College Is Closing The Computer Science Gender Gap Blazing The Trail For Female Programmers",
+        "score": 121.84050742222173
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Experimental Malaria Vaccine Disappoints But Work Continues A View From The Ground Thailand Confronts Drug Resistant Malaria",
+        "score": 311.3335530189945
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "A Director s Precious Project Oprah Tyler Perry And A Painful Precious Life",
+        "score": 46.12348933614733
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > div#storytext.linkLocation.storytext.storylocation > div.small.con1col.container > div.inset2col.internallink.bucketwrap.insettwocolumn > div.bucket.img > div.bucketblock > h3": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storytext",
+            "storylocation"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "small",
+            "con1col",
+            "container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "inset2col",
+            "internallink",
+            "bucketwrap",
+            "insettwocolumn"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucket",
+            "img"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketblock"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 175.38940673743843,
+    "pages": {
+      "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy": {
+        "content": "Rice talks with Yousef Al Otaiba the United Arab Emirates ambassador to the United States before the start of a dinner celebrating Ramadan at the White House last month",
+        "score": 19.67869766022731
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "Jesse Benton left talks with then Republican presidential candidate Rep Ron Paul R Texas in Ames Iowa on Aug 13 2011 Benton is now campaign manager for Sen Mitch McConnell R Ky",
+        "score": 46.257411027342584
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "Evidently an old insurer can learn new tricks",
+        "score": 8.369882167858357
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "Amazon CEO Jeff Bezos who purchased The Washington Post is the latest big name tech entrepreneur to buy a struggling media company",
+        "score": 46.37226264813339
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "After grapes are harvested and pressed WholeVine Products takes the leftover seeds stems and skins and turns them into a flour substitute Some pomace also becomes grapeseed oil Klemek holds a small dish of cabernet wine flour she uses in her brownies and pasta",
+        "score": 910.8637715042707
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "The vaccine contains whole malaria parasites red weakened by irradiation",
+        "score": 20.79441541679836
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > div#storytext.linkLocation.storytext.storylocation > div.image.medium.bucketwrap > div.captionwrap > div.caption > p": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storytext",
+            "storylocation"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "image",
+            "medium",
+            "bucketwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5384615384615384,
+    "score": 2.745712576800048,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "Technology News From NPR",
+        "score": 3.4894524294170424
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Health News From NPR",
+        "score": 1.3862943611198906
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "What s On Your Plate",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "Political News From NPR",
+        "score": 3.347952867143343
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "Health News From NPR",
+        "score": 1.3862943611198906
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Health News From NPR",
+        "score": 2.772588722239781
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "Political News From NPR",
+        "score": 3.347952867143343
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "Technology News From NPR",
+        "score": 3.4894524294170424
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "What s On Your Plate",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "What s On Your Plate",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "What s On Your Plate",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "Breaking News From NPR",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "Breaking News From NPR",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > footer#contentfooter > div.branding > a > span.tag": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "contentfooter",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "tag"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.23076923076923078,
+    "score": 1.8483924814931874,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "Society",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Your Health",
+        "score": 1.3862943611198906
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "Food For Thought",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "Faces",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "Health Inc",
+        "score": 1.3862943611198906
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Public Health",
+        "score": 2.772588722239781
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "Power Centers",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "The Industry",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "Producers",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "Producers",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "Producers",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "America",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "Must Reads",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story.story-blogpost > p.category": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "category"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 7.374853177585782,
+    "pages": {
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Julie Brown Seattle Children s Hospital",
+        "score": 3.4894524294170424
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "California Governor s Office of Emergency Services",
+        "score": 11.260253925754522
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story.story-blogpost > div#storytext.linkLocation.storytext.storylocation > div.small.image.bucketwrap > span.creditwrap": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storytext",
+            "storylocation"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "small",
+            "image",
+            "bucketwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "creditwrap"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.15384615384615385,
+    "score": 5.630126962877261,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "California s New Rules Could Change The Rideshare Game",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Experimental Malaria Vaccine Shows Promise In Human Test",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "Wine Waste Finds Sweet Afterlife In Baked Goods",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "Hubbub Over Hillary Clinton Movies A Dress Rehearsal For 2016",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "Camels May Be A Source Of The Middle East Coronavirus",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Scientists Disclose Plans To Make Superflu In Labs",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "As McConnell Aide Holds His Nose The Senator Stays His Hand",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "The Sheryl Sandberg Effect Rise Of Female COOs",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "Why Picking Your Berries For 8 000 A Year Hurts A Lot",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "Old Hawaiian Menus Tell Story Of Local Fish And Their Demise",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "Watermelon Babies Of China Your Friday Moment Of Zen",
+        "score": 5.021929300715015
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "5 Things To Know About The Legal Reasoning For Surveillance",
+        "score": 6.238324625039507
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "3 Winning Powerball Tickets Sold 2 In N J 1 In Minnesota",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story.story-blogpost > div.pnnavwrap > a#prev_nav.prev": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "pnnavwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "prev"
+          ],
+          "id": "prev_nav",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 19.200996195328802,
+    "pages": {
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Magnets In Kids",
+        "score": 26.857029543758287
+      },
+      "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal": {
+        "content": "Hear Voice Over King LaFontaine At Work",
+        "score": 16.189868250469274
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "More On Lee Daniels",
+        "score": 14.55609079175885
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > div#storytext.linkLocation.storytext.storylocation > div.small.con1col.container > h3.conheader": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storytext",
+            "storylocation"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "small",
+            "con1col",
+            "container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "conheader"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.0625,
+    "score": 1.124080348324232,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and terms of use and will be moderated prior to posting NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and terms of use and will be moderated prior to posting NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and Terms of Use NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and terms of use and will be moderated prior to posting NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and terms of use and will be moderated prior to posting NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and terms of use and will be moderated prior to posting NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and terms of use and will be moderated prior to posting NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and Terms of Use NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and terms of use and will be moderated prior to posting NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and terms of use and will be moderated prior to posting NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 1.124080348324232
+      },
+      "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and Terms of Use NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and Terms of Use NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and Terms of Use NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and Terms of Use NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and terms of use and will be moderated prior to posting NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "Please keep your community civil All comments must follow the NPR org Community rules and terms of use and will be moderated prior to posting NPR reserves the right to use the comments we receive in whole or in part and to use the commenter s name and location in any medium See also the Terms of Use Privacy Policy and Community FAQ",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > div#commentBlock > div#disqus-npr > p": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "commentBlock",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "disqus-npr",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 130.00090328356723,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "Code Switch All Tech Considered All Tech Considered",
+        "score": 69.18523400422099
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Shots Health News Shots Health News",
+        "score": 115.90462822002763
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "Movie Interviews Movie Interviews",
+        "score": 204.91284762645304
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > div#storytext.linkLocation.storytext.storylocation > div.small.con1col.container > div.inset2col.internallink.bucketwrap.insettwocolumn > div.bucket.img > div.bucketblock > h3.slug": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storytext",
+            "storylocation"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "small",
+            "con1col",
+            "container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "inset2col",
+            "internallink",
+            "bucketwrap",
+            "insettwocolumn"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucket",
+            "img"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketblock"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "slug"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.8125,
+    "score": 4.434786503131295,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "More From All Tech Considered",
+        "score": 4.1588830833596715
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "More From Shots Health News",
+        "score": 4.734247228263234
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "More From The Salt",
+        "score": 2.3263016196113617
+      },
+      "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy": {
+        "content": "More From National Security",
+        "score": 5.215544864127728
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "More From It s All Politics",
+        "score": 3.347952867143343
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "More From Shots Health News",
+        "score": 4.734247228263234
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "More From Shots Health News",
+        "score": 6.120541589383125
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "More From Movie Interviews",
+        "score": 8.369882167858357
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "More From It s All Politics",
+        "score": 3.347952867143343
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "More From All Tech Considered",
+        "score": 8.317766166719343
+      },
+      "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal": {
+        "content": "More From Movie Interviews",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "More From The Salt",
+        "score": 2.3263016196113617
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "More From The Salt",
+        "score": 2.3263016196113617
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "More From The Salt",
+        "score": 2.3263016196113617
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "More From The Two Way",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "More From The Two Way",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#main_sidebar > div#resMore > div#relatedstorieswrap > section#relatedstories > h4": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.8125,
+    "score": 4.434786503131295,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "More From All Tech Considered",
+        "score": 4.1588830833596715
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "More From Shots Health News",
+        "score": 4.734247228263234
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "More From The Salt",
+        "score": 2.3263016196113617
+      },
+      "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy": {
+        "content": "More From National Security",
+        "score": 5.215544864127728
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "More From It s All Politics",
+        "score": 3.347952867143343
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "More From Shots Health News",
+        "score": 4.734247228263234
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "More From Shots Health News",
+        "score": 6.120541589383125
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "More From Movie Interviews",
+        "score": 8.369882167858357
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "More From It s All Politics",
+        "score": 3.347952867143343
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "More From All Tech Considered",
+        "score": 8.317766166719343
+      },
+      "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal": {
+        "content": "More From Movie Interviews",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "More From The Salt",
+        "score": 2.3263016196113617
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "More From The Salt",
+        "score": 2.3263016196113617
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "More From The Salt",
+        "score": 2.3263016196113617
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "More From The Two Way",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "More From The Two Way",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#main_sidebar > div#resMore > div#relatedstorieswrap > section#relatedstories > p.more > a": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main_sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "resMore",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstorieswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "relatedstories",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "more"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.3076923076923077,
+    "score": 1.9061547465398494,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "Social Web",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Your Health",
+        "score": 1.3862943611198906
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "Eating And Health",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "The Stump",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "Your Health",
+        "score": 1.3862943611198906
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Your Health",
+        "score": 2.772588722239781
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "The Stump",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "Social Web",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "Eating And Health",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "Eating And Health",
+        "score": 2.0794415416798357
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "Eating And Health",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "America",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "America",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > header.contentheader > nav > ul > li > a": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 38.56712500666581,
+    "pages": {
+      "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal": {
+        "content": "In A World Is A Comedy About You Guessed It Voice Over Artists",
+        "score": 38.56712500666581
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > div#storytext.linkLocation.storylocation.storytext > div#res210135688.bucketwrap.inset2col.insettwocolumn.internallink > div.bucket.img > div.bucketblock > h3": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "inset2col",
+            "insettwocolumn",
+            "internallink"
+          ],
+          "id": "res210135688",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucket",
+            "img"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketblock"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.08333333333333333,
+    "score": 3.4894524294170424,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "Dominik Pabis iStockphoto com",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "dx365 Screengrab from Xinhuanet Weibo roll sohu com",
+        "score": 0.0
+      },
+      "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy": {
+        "content": "Charles Dharapak AP",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "Jacquelyn Martin AP",
+        "score": 0.0
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "Anne Marie Fox The Weinsten Co",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "Pablo Martinez Monsivais AP",
+        "score": 0.0
+      },
+      "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal": {
+        "content": "Bonnie Osborne Roadside Attractions",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "Mariana Dale NPR",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "Courtesy of Seth Holmes",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "Peggy Lowe Harvest Public Media",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Julie Brown Seattle Children s Hospital",
+        "score": 3.4894524294170424
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "Sean Gallup Getty Images",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > div#storytext.linkLocation.storytext.storylocation > div.large.image.bucketwrap > span.creditwrap": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storytext",
+            "storylocation"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "large",
+            "image",
+            "bucketwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "creditwrap"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5384615384615384,
+    "score": 2.745712576800048,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "Technology News From NPR",
+        "score": 3.4894524294170424
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Health News From NPR",
+        "score": 1.3862943611198906
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "What s On Your Plate",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "Political News From NPR",
+        "score": 3.347952867143343
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "Health News From NPR",
+        "score": 1.3862943611198906
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Health News From NPR",
+        "score": 2.772588722239781
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "Political News From NPR",
+        "score": 3.347952867143343
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "Technology News From NPR",
+        "score": 3.4894524294170424
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "What s On Your Plate",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "What s On Your Plate",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "What s On Your Plate",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "Breaking News From NPR",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "Breaking News From NPR",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > header.contentheader > div.branding > a > span.tag": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "contentheader"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "branding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "tag"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 39.5949002527942,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "Why Aren t More Girls Attracted To Physics",
+        "score": 34.18622688537173
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Swallowing Tiny Magnets Can Lead To Big Trouble For Kids",
+        "score": 58.12448519671216
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "Watermelon Babies Of China Your Friday Moment Of Zen",
+        "score": 35.21917213952248
+      },
+      "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy": {
+        "content": "Susan Rice s First Month On The Job Has Been A Doozy",
+        "score": 46.881336738860576
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "As McConnell Aide Holds His Nose The Senator Stays His Hand",
+        "score": 40.82514568828481
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "Aetna I m Glad I Met Ya On Twitter",
+        "score": 21.657461634153698
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210237243/experimental-malaria-vaccine-shows-promise-in-early-trial": {
+        "content": "Experimental Malaria Vaccine Shows Promise In Human Test",
+        "score": 39.96403898629848
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "The Butler It s Not A Movie It s A Movement",
+        "score": 22.92597295961721
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "Obama s Challenge Answer Snowden Without Seeming To",
+        "score": 23.366448600961448
+      },
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210538787/tech-week-that-was-bezos-buy-twitter-abuse-scary-alerts": {
+        "content": "Tech Week That Was Bezos Buy Twitter Abuse Scary Alerts",
+        "score": 66.71202837055014
+      },
+      "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal": {
+        "content": "In A World All Voice Overs Are Not Created Equal",
+        "score": 32.32880038162631
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "Wine Waste Finds Sweet Afterlife In Baked Goods",
+        "score": 29.462145150347464
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "Why Picking Your Berries For 8 000 A Year Hurts A Lot",
+        "score": 26.73150693600773
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "Did Tyson Ban Doping Cows With Zilmax To Boost Foreign Sales",
+        "score": 57.060083843849924
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "ITC Says Samsung Infringed On Apple Patents",
+        "score": 37.42994775023705
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "Burglars Return Loot To Group That Helps Sex Assault Victims",
+        "score": 60.64360278230604
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > div.storytitle > h1": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "storytitle"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.9166666666666666,
+    "score": 36.98810137369389,
+    "pages": {
+      "http://www.npr.org/blogs/alltechconsidered/2013/08/09/210251404/why-arent-more-girls-attracted-to-physics": {
+        "content": "Girls are more likely to take high school physics if they see women in their communities working in science technology engineering and math a new study finds",
+        "score": 66.46659090970782
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210567774/watermelon-babies-of-china-your-friday-moment-of-zen": {
+        "content": "Mom I m not so sure about this An example of the photos of babies dressed as watermelons being shared by Chinese Internet users Wenzhou s little trendsetter Warrior melon",
+        "score": 0.0
+      },
+      "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy": {
+        "content": "Susan Rice was the U S ambassador to the United Nations before taking over as President Obama s national security adviser",
+        "score": 49.48289791092516
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "Senate Minority Leader Mitch McConnell R Ky",
+        "score": 33.323180668016384
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "Forest Whitaker stars in The Butler loosely based on the life of Eugene Allen",
+        "score": 31.191623125197538
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "President Obama sought to address concerns over NSA surveillance measures at a White House news conference on Friday",
+        "score": 27.473215683182104
+      },
+      "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal": {
+        "content": "Both Lake Bell and Fred Melamed say they became interested in voice over work because it didn t matter what you looked like They play father and daughter voice over artists in In a World",
+        "score": 66.31848028871974
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/08/210265493/wine-waste-finds-sweet-afterlife-in-baked-goods": {
+        "content": "At her bakery in Costa Mesa Calif Rachel Klemek sells cabernet brownies made with a flour substitute derived from grape pomace a byproduct of winemaking packed with nutrients known as polyphenols",
+        "score": 58.394262203830806
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/07/209925420/why-picking-your-berries-for-8-000-a-year-hurts-a-lot": {
+        "content": "A Triqui Mexican picks strawberries at a farm in Washington state",
+        "score": 8.369882167858357
+      },
+      "http://www.npr.org/blogs/thesalt/2013/08/09/210538430/did-tyson-drop-zilmax-fed-beef-to-appease-foreign-buyers": {
+        "content": "A pen at a feedlot in central Kansas that houses 30 000 cattle Feedlots are where cattle are finished before slaughter often with the use of growth promoting drugs like zilpaterol",
+        "score": 32.577917486317425
+      },
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "A round link of high powered magnetic balls stuck inside the body of a youngster",
+        "score": 29.1121815835177
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "A woman talks on an iPhone as she walks past construction of a new Apple store in Berlin in April",
+        "score": 4.1588830833596715
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > div#storytext.linkLocation.storytext.storylocation > div.large.image.bucketwrap > div.captionwrap > div.caption > p": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storytext",
+            "storylocation"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "large",
+            "image",
+            "bucketwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.4,
+    "score": 17.43968703296584,
+    "pages": {
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/09/210604942/obamas-challenge-answer-snowden-without-seeming-to": {
+        "content": "If I tell Michelle that I did the dishes now granted in the White House I don t do the dishes that much but back in the day and she s a little skeptical well I d like her to trust me but maybe I need to bring her back and show her the dishes and not just have her take my word for it",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/itsallpolitics/2013/08/08/210280271/as-mcconnell-aide-holds-his-nose-the-senator-stays-his-hand": {
+        "content": "It is truly sick that someone would record a private phone conversation I had out of kindness and use it to try to hurt me I believe in Senator McConnell and am 100 percent committed to his re election Being selected to lead his campaign is one of the great honors of my life and I look forward to victory in November of 2014",
+        "score": 23.789019176972552
+      },
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "teachdance11 the BRCA gene test is 2 parts Aetna paid 300 part Not the 7000 part Gotta be rich to be in the know LadyBrik Got my insurance crazy charge worked out but sadly it was with no help from askanthem Bummed I never got my promised call",
+        "score": 0.0
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/09/210607853/itc-says-samsung-infringed-on-apple-patents": {
+        "content": "The ruling doesn t make clear how many of Samsung s phones would be affected by the import ban which is subject to review by the Obama administration Samsung can import all of its phones during that period",
+        "score": 11.090354888959125
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "We had no idea what we were takeing Here your stuff back We hope that you guys can continue to make a difference in peoples live God bless",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story.story-blogpost > div#storytext.linkLocation.storytext.storylocation > blockquote.edTag > div > p": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storytext",
+            "storylocation"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "edTag"
+          ],
+          "id": "",
+          "name": "blockquote"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 35.17479571047763,
+    "pages": {
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Magnet ingestion is primarily a problem of young children but there are more cases in older children than would typically occur with ingestions of other kinds",
+        "score": 35.17479571047763
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story.story-blogpost > div#storytext.linkLocation.storylocation.storytext > div#con210320800.con4col.container.large.nobar > div#res210320792.bucketwrap.image.large > div.captionwrap > div.caption > p": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "con4col",
+            "container",
+            "large",
+            "nobar"
+          ],
+          "id": "con210320800",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "image",
+            "large"
+          ],
+          "id": "res210320792",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 9.756176528978248,
+    "pages": {
+      "http://www.npr.org/blogs/health/2013/08/09/210474766/aetna-im-glad-i-met-ya-on-twitter": {
+        "content": "ganne hanrahan How can AetnaHelp be the most widely accepted health insurance and still not be in network me sic any of my doctors",
+        "score": 9.756176528978248
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story.story-blogpost > div#storytext.linkLocation.storylocation.storytext > blockquote.edTag > div > p": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "edTag"
+          ],
+          "id": "",
+          "name": "blockquote"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.6666666666666666,
+    "score": 7.629701732778878,
+    "pages": {
+      "http://www.npr.org/2013/08/09/210286841/susan-rices-first-month-on-the-job-has-been-a-doozy": {
+        "content": "News U S National Security",
+        "score": 5.215544864127728
+      },
+      "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal": {
+        "content": "Arts Life Movies Movie Interviews",
+        "score": 0.0
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "Arts Life Movies Movie Interviews",
+        "score": 10.04385860143003
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > ul.breadcrumb": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "breadcrumb"
+          ],
+          "id": "",
+          "name": "ul"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 166.4347014500473,
+    "pages": {
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Farewell Buckyballs Consumer Agency Files Suit Against Magnetic Toys July 25 2012 What Can Parents Do to Avoid Dangerous Toys Aug 14 2007",
+        "score": 125.31370088743162
+      },
+      "http://www.npr.org/2013/08/09/210506171/the-butler-not-a-movie-its-a-movement-says-director": {
+        "content": "Precious Director Daniels Flocks To Controversy Lee Daniels Makes Directorial Debut with Shadowboxer",
+        "score": 207.55570201266298
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > div#storytext.linkLocation.storytext.storylocation > div.small.con1col.container > div.internallink.bucketwrap > div": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storytext",
+            "storylocation"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "small",
+            "con1col",
+            "container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "internallink",
+            "bucketwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 22.204426304535563,
+    "pages": {
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Seattle Children s Hospital ER doctor Julie Brown explains magnet safety",
+        "score": 22.204426304535563
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story.story-blogpost > div#storytext.linkLocation.storylocation.storytext > div#res210318085.bucketwrap.graphic300.medium.video.youtube-video > div.captionwrap.externalasset > p": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "graphic300",
+            "medium",
+            "video",
+            "youtube-video"
+          ],
+          "id": "res210318085",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap",
+            "externalasset"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 52.77308777362011,
+    "pages": {
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "There s only one way to know if magnets and kids attract with an x ray",
+        "score": 26.857029543758287
+      },
+      "http://www.npr.org/blogs/thetwo-way/2013/08/08/210092385/burglars-return-loot-to-group-that-helps-sex-assault-victims": {
+        "content": "The note left behind by whoever took computers and other valuables from the offices of the San Bernadino County Calif Sexual Assault Services The goods were returned",
+        "score": 78.68914600348194
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story.story-blogpost > div#storytext.linkLocation.storytext.storylocation > div.small.image.bucketwrap > div.captionwrap > div.caption > p": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storytext",
+            "storylocation"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "small",
+            "image",
+            "bucketwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "captionwrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 26.857029543758287,
+    "pages": {
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Here s where kids magnets and news about both intersect",
+        "score": 26.857029543758287
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story.story-blogpost > div#storytext.linkLocation.storylocation.storytext > div#con210319027.con1col.container.small > p.conintrotext": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "con1col",
+            "container",
+            "small"
+          ],
+          "id": "con210319027",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "conintrotext"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 15.065787902145043,
+    "pages": {
+      "http://www.npr.org/2013/08/08/210135579/in-a-world-all-voice-overs-are-not-created-equal": {
+        "content": "Don LaFontaine Tribute King of Trailer Voice Over watch more funny videos",
+        "score": 15.065787902145043
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story > div#storytext.linkLocation.storylocation.storytext > div#con210143947.con1col.container.small > div#res210143827.bucketwrap.statichtml > div": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "con1col",
+            "container",
+            "small"
+          ],
+          "id": "con210143947",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bucketwrap",
+            "statichtml"
+          ],
+          "id": "res210143827",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 18.71497387511852,
+    "pages": {
+      "http://www.npr.org/blogs/health/2013/08/08/210200382/swallowing-tiny-magnets-can-lead-to-big-trouble-for-kids": {
+        "content": "Estimated number of magnet ingestions",
+        "score": 18.71497387511852
+      }
+    },
+    "selectors": {
+      "div#wrapper > div#sectionWrap.clearfix > section > article.story.story-blogpost > div#storytext.linkLocation.storylocation.storytext > div#con210320800.con4col.container.large.nobar > h3.conheader": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "sectionWrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "story",
+            "story-blogpost"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "linkLocation",
+            "storylocation",
+            "storytext"
+          ],
+          "id": "storytext",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "con4col",
+            "container",
+            "large",
+            "nobar"
+          ],
+          "id": "con210320800",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "conheader"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ]
+    }
+  }
+]

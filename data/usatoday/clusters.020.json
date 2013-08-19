@@ -1,0 +1,1834 @@
+[
+  {
+    "confidence": 0.05263157894736842,
+    "score": 14.978661367769954,
+    "pages": {
+      "http://www.usatoday.com/story/news/politics/2013/08/17/obama-golf-larry-david/2667983/": {
+        "content": "Photo Steven Senne AP",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/news/nation/2013/08/17/hunter-alaska-bear-mauling/2667641/": {
+        "content": "Photo Charles Rex Arbogast AP",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/news/nation/2013/08/17/ntsb-ups-crash/2668157/": {
+        "content": "Photo Frank Couch AP",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/mls/2013/08/18/federico-higuain-two-goals-columbus-crew-shut-out-toronto-fc/2668421/": {
+        "content": "Photo Rick Osentoski USA TODAY Sports",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/nfl/2013/08/17/nfl-injuries-miami-dolphins-dustin-keller-deandre-hopkins-houston-texans/2668265/": {
+        "content": "Photo Jerome Miron USA TODAY Sports",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/life/people/2013/08/17/british-police-are-investigating-dianas-death-again/2667705/": {
+        "content": "Photo Paul Vicente epa",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/money/business/2013/08/17/apple-most-valuable-exxon/2666007/": {
+        "content": "Photo AFP Getty Images",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/jobs-review/2581945/": {
+        "content": "Photo Glen Wilson Sundance Institute via AP",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/travel/destinations/2013/08/17/best-college-bars-in-america/2666313/": {
+        "content": "Photo Pavlov s Bar",
+        "score": 14.978661367769954
+      },
+      "http://www.usatoday.com/story/sports/nfl/broncos/2013/08/17/denver-broncos-derek-wolfe-injury/2668289/": {
+        "content": "Photo Chris Humphreys USA TODAY Sports",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/boxing/2013/08/18/darren-barker-defeats-daniel-geale-ibf-middleweight/2668393/": {
+        "content": "Photo Rich Schultz Getty Images",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/the-butler-review/2581949/": {
+        "content": "Photo Anne Marie Fox The Weinstein Company",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/mlb/2013/08/17/red-sox-broadcaster-jerry-remy-blasts-son-jared-remy-charged-with-murder/2668027/": {
+        "content": "Photo Elise Amendola AP",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/ufc/2013/08/17/chael-sonnen-submits-mauricio-shogun-rua-ufc-fight-night-26/2668319/": {
+        "content": "Photo Winslow Townson USA TODAY Sports",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/tech/personal/2013/08/18/tech-now-back-to-school-laptop-smartpen-wifi-ipad/2649637/": {
+        "content": "Photo Airbac",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/wnba/2013/08/18/san-antonio-silver-stars-phoenix-mercury-seattle-storm-indiana-fever/2668409/": {
+        "content": "Photo Soobum Im USA TODAY Sports",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/mlb/2013/08/18/adam-laroche-home-run-nationals-beat-braves-15-innings/2668413/": {
+        "content": "Photo Dale Zanine USA TODAY Sports",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/driveon/2013/08/17/chevrolet-corvette-racing/2667947/": {
+        "content": "Photo Chris Woodyard USA TODAY",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/ncaaf/bigten/2013/08/17/penn-state-jerry-sandusky-joe-paterno-nittany-lions-abuse-case-victim-settlement/2668183/": {
+        "content": "Photo Gene J Puskar AP",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.asset > div.double-wide.asset-double-wide > div.article-metadata-wrap > aside.single-photo.expandable-collapsed > p.image-credit-wrap": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "double-wide",
+            "asset-double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "single-photo",
+            "expandable-collapsed"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "image-credit-wrap"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 1309249.4700040568,
+    "pages": {
+      "http://www.usatoday.com/story/news/politics/2013/08/17/obama-golf-larry-david/2667983/": {
+        "content": "President Obama hit the links Saturday with comedian Larry David the star of HBO s Curb Your Enthusiasm as his weeklong vacation in Martha s Vineyard comes to a close The president rounded out his foursome with former U S trade representative Ron Kirk and businessman Glenn Hutchins a part owner of the Boston Celtics basketball team Obama has spent much of his vacation golfing including a five hour round to kick off his stay in which David designer Kenneth Cole filmmaker Peter Farrelly and restaurateur Patrick Lyons made up the foursome in front of the president the Boston Globe reports MORE Obama gets updates on Egypt THE OVAL Obama family takes bike ride Obama and the Seinfeld co creator also crossed paths on Wednesday at a sunset cocktail party thrown in the president s honor by cable TV mogul Brian Roberts David discussed his new movie set in Martha s Vineyard The New York Times reports Attorney General Eric Holder National Security Adviser Susan Rice and Obama adviser Valerie Jarrett were also in attendance The president wraps up his vacation Sunday He has made few public statements during his stay although he did condemn the bloody street battles in Egypt Contributing Associated Press Copyright 2013 The Associated Press All rights reserved This material may not be published broadcast rewritten or redistributed",
+        "score": 93781.80102109142
+      },
+      "http://www.usatoday.com/story/news/nation/2013/08/17/hunter-alaska-bear-mauling/2667641/": {
+        "content": "ANAKTUVUK PASS Alaska AP The Alaska Air National Guard says crews equipped with night vision goggles rescued a hunter more than 36 hours after he was mauled by a brown bear in northern Alaska s remote Brooks Range The man was part of a guided hunting party about 30 miles north of the tiny village of Anaktuvuk Pass Initial rescue efforts by local search teams and the Alaska State Troopers were turned back because of dense fog The Air Force Rescue Coordination Center learned of the man s plight Thursday A medical professional who happened to be in a nearby hunting party reached the mauling victim and stemmed his blood loss The Alaska Air National Guard launched a search and rescue plane and helicopter from an Air Force base near Fairbanks at 12 30 a m Friday The plane s crew launched flares to guide the helicopter through the pass and the helicopter reached the victim before 3 a m Friday The man was taken to Fairbanks Memorial Hospital Copyright 2013 The Associated Press All rights reserved This material may not be published broadcast rewritten or redistributed",
+        "score": 84573.07225385467
+      },
+      "http://www.usatoday.com/story/news/nation/2013/08/17/ntsb-ups-crash/2668157/": {
+        "content": "BIRMINGHAM Ala AP Federal investigators said Saturday they haven t found any problems with the controls in a UPS cargo jet that crashed while landing in Alabama killing the two pilots National Transportation Safety Board member Robert Sumwalt said the cockpit controls in the A300 aircraft appeared to be working before the crash and they matched the positions of the airplane s flaps and rudders Sumwalt s comments came during a news conference Saturday at Birmingham s airport where investigators are still sifting through the wreckage of the twin engine aircraft Investigators previously said they did not see any problems with the plane s engines but that a cockpit warning went off seconds before the crash The alarm called a sink rate warning indicated the plane was descending faster than normal Sumwalt said the plane s data recorder showed the autopilot was engaged until the final second before the end of the recording but he added that was not unusual The aircraft went down less than a mile from the end of a 7 000 foot runway that lacks the equipment for full instrument landings at Birmingham Shuttlesworth International Airport located a few miles east of the city s downtown A 12 000 foot runway with a more complete guidance system was closed for maintenance on its lights at the time of the crash which occurred about 4 45 a m CDT Wednesday Pilots consider the approach to the shorter runway more tricky because of the lack of full instrumentation and a large hill at the end of the runway but the NTSB has not indicated whether the runway s configuration might have been a factor in the accident The flight data recorder showed the airplane was traveling about 161 mph the expected speed for such an approach Sumwalt said UPS has identified the victims of the crash as Capt Cerea Beal Jr 58 of Matthews N C and First Officer Shanda Fanning 37 of Lynchburg Tenn Beal was flying the aircraft at the time of the accident the NTSB said previously but it s unkown so far whether either pilot had previously attempted a landing on the runway Investigators are trying to determine how much rest the pilots had before taking off for Birmingham The crew started its day Tuesday in Rockford Ill before making a stop in Peoria Ill Sumwalt said They then flew to Louisville Ky which was the final stop before the ill fated 45 minute trip to Birmingham Sumwalt said investigators have determined the pilots obtained keys to rooms that UPS has set aside for crew members to sleep and they are still trying to determine whether the rooms were used Copyright 2013 The Associated Press All rights reserved This material may not be published broadcast rewritten or redistributed",
+        "score": 288574.2527677829
+      },
+      "http://www.usatoday.com/story/sports/mls/2013/08/18/federico-higuain-two-goals-columbus-crew-shut-out-toronto-fc/2668421/": {
+        "content": "COLUMBUS Ohio AP Federico Higuain scored two goals for the second straight match lifting the Columbus Crew to a 2 0 victory over Toronto FC on Saturday night The Argentinean forward gave the Crew 8 11 5 the lead in the 19th minute then for the second straight game had an exquisite chip for the second tally in the 67th Higuain perfectly placed a looping ball from 23 yards over the futile effort of goalkeeper Joe Bendik who was only a few yards off the goal line Higuain is tied with Dominic Oduro for the team lead with nine goals as the Crew have consecutive wins for the first time since Aug 29 and Sept 1 2012 a span of 32 games Toronto FC 4 12 8 has lost two straight after winning its previous two MONTREAL 2 D C UNITED 1 MONTREAL AP Marco Di Vaio scored twice and Montreal snapped a two game skid by beating D C United Montreal 11 7 5 won for the second time in its last nine matches Conor Doyle scored for D C 3 17 4 which is winless in 11 road matches while totaling just three goals DiVaio got Montreal on the scoreboard in the 43rd minute After a strong effort on the right wing midfielder Justin Mapp crossed the ball in for Di Vaio and the striker scored his 12th goal of the season and his first since July 3 Doyle tied the score in the 81st and Di Vaio put Montreal back ahead in the 83rd as he converted from the left wing off a header by Patrice Bernier NEW ENGLAND 2 CHICAGO 0 FOXBOROUGH Mass AP Juan Agudelo returned to the lineup after a two month injury absence and scored a dazzling goal in the 54th minute to lead New England over Chicago Kelyn Rowe banged in a rebound of a Saer Sene drive in 1st minute of injury time for New England s second goal The 20 year old Agudelo took a long looping pass from midfielder Chris Tierney and nudged a one touch volley over on charging Chicago goalie Sean Johnson New England ended a two match winless and scoreless streak improving to 9 9 6 on the season 5 4 3 at home Chicago 9 10 4 had its four match 3 0 1 unbeaten streak end being shut out on the road for the fifth time this season The Fire had scored in 12 consecutive matches Agudelo missed eight games recovering from a right knee sprain PHILADELPHIA 0 NEW YORK 0 HARRISON N J AP Zac MacMath came up with the big saves that allowed Philadelphia to escape with a scoreless draw against New York The goalkeeper had a strong game from beginning to end saving Dax McCarty s point blank header in injury time inches from the goal line Philadelphia 10 7 8 came close to giving up a winning goal in the 63rd minute but was bailed out when MacMath leaped in front of Peguy Luyindula and grabbed Tim Cahill s header near the goalmouth MacMath made two huge saves in the first half as well He shares the MLS lead for clean sheets 9 The draw moved New York 11 8 6 into a tie for first in the Eastern Conference with Sporting Kansas City The Union are a point back in third with 38 points HOUSTON 3 SEATTLE 1 HOUSTON AP Giles Barnes scored twice in the first half and Will Bruin added a goal in the second half to lead Houston over Seattle The win was the second in three games for the Dynamo 10 7 6 while Seattle 10 8 4 saw its four game unbeaten streak end in U S national team captain Clint Dempsey s his first start for the Sounders Barnes had his first multi goal game in the MLS giving the Dynamo a 1 0 lead in the 17th minute and upped it to 2 0 five minutes later with a blast from 30 yards out Shalrie Joseph cut the lead in half on a header in the 65th minute Bruin scored in the 74th minute to extend Houston s lead to 3 1 COLORADO 2 VANCOUVER 0 COMMERCE CITY Colo AP Deshorn Brown scored in the 36th minute to lead surging Colorado past Vancouver Edson Buddle added a goal for the Rapids who extended their unbeaten streak to nine games They are 5 0 4 since an 0 3 1 stretch Colorado 10 7 9 moved ahead of the Whitecaps for sole possession of second place in the Western Conference Goalkeeper Clint Irwin earned his ninth shutout Vancouver 10 8 6 is 1 3 1 in its last five games LOS ANGELES 4 REAL SALT LAKE 2 CARSON Calif AP Robbie Keane scored three goals to help Los Angeles rally for a victory over Western Conference leading Real Salt Lake Keane scored in the 56th 67th and 86th minutes to help the Galaxy 11 9 4 pull four points behind Salt Lake and tighten an eight team battle for five West playoff berths The top seven teams are separated by eight points with San Jose another three points back Joao Plata gave Real Salt Lake 12 8 5 a lead in the 53rd minute Keane scored from a long pass by Jimenez to tie it then volleyed Los Angeles ahead 11 minutes later Omar Gonzalez made it 3 1 with a header from Landon Donovan s corner kick in the 75th and Keane got his 10th goal to complete his hat trick lifting the ball over rushing goalkeeper Nick Rimando Robbie Findley scored in the 90th for Salt Lake PORTLAND 2 FC DALLAS 1 PORTLAND Ore AP Darlington Nagbe scored the go ahead goal in the 33rd minute and Portland extended FC Dallas winless streak to a season high 11 straight matches The team s longest drought came last season when it went 13 straight games without a victory Ryan Johnson added a goal in the 26th minute for the Timbers who moved into third place in Major League Soccer s Western Conference but are just a point ahead of the Los Angeles Galaxy and two points in front of Vancouver The victory snapped a three match winless streak for Portland 9 3 11 which had last weekend off after playing to a 1 1 draw with Cascadia Cup rival Vancouver on Aug 3 Mauro Diaz scored in his first start for FC Dallas 8 7 9 in the 28th minute Copyright 2013 The Associated Press All rights reserved This material may not be published broadcast rewritten or redistributed",
+        "score": 2579904.0833704104
+      },
+      "http://www.usatoday.com/story/sports/highschool/2013/08/17/deantre-turman-creekside-high-school-death/2668275/": {
+        "content": "ATLANTA A high school football player has died from injuries sustained during a scrimmage Friday night De Antre Turman 16 of Creekside High School was taken to Grady hospital after being injured during the game and was pronounced dead overnight Saturday evening a Fulton County medical examiner ruled the cause of death was from a fracture of the third cervical vertebrae Witnesses at the scrimmage at Banneker High School including Turman s coach from an after school college prep program IDareU Glenn Ford watched Turman cover the Banneker receiver The receiver caught the ball downfield and Turman immediately tackled him As Ford says Turman just immediately went limp It was a fundamental tackle Ford said Turman s head was up It was a clean tackle It was a clean tackle He went down Only God knows You know only God knows what happened He was an outstanding kid you know through adversity through all the adversity that he d been going through losing his mom you know he was just a good kid Ford added The 5 foot 11 164 pound junior was a cornerback for the Seminoles and was just named the Top Defensive Back at MVP Camp this past June According to 247sports com he had a scholarship offer to play football at the University of Kentucky Another former coach of Turman George Purvis knew the football player since he was 7 years old Oh man It s hard It s hard I mean he s a special kid he said His goal was to play pro football And he was one of the special ones that had a good chance to do it The Georgia High School Association released a statement via their Facebook page Any kind of death of an adolescent it s a tragedy said Dr Ralph Swearngin GHSA Executive Director You think about the loss to the family and a young life being cut off whether it s an athletic event or car accident or natural causes As a father and grandfather it strikes you personally Ron Nakfoor works at WXIA TV Atlanta a Gannett property",
+        "score": 66471.17210191577
+      },
+      "http://www.usatoday.com/story/life/people/2013/08/17/british-police-are-investigating-dianas-death-again/2667705/": {
+        "content": "British police announced Saturday they are again investigating Princess Diana s death British media and the Associated Press reported that Scotland Yard is examining the relevance and credibility of newly received information relating to the deaths of Diana and her companion Dodi Fayed who also was killed along with their driver in a car crash in a Paris traffic tunnel on Aug 31 1997 In a statement Scotland Yard said that the assessment will be carried out by officers from its specialist crime and operations unit Palace press officials representing Diana s sons Prince William and Prince Harry declined to comment The Telegraph reported that the new information alleges that Diana was murdered by a member of the British military and that the allegation came to the Yard from the Royal Military Police who in turn got it from the in laws of a former soldier Conspiracy theories popped up practically from the moment the Princess of Wales death was announced to a stunned nation sending much of the United Kingdom prostrate with unprecedented public grieving Mohamed Fayed the Egyptian born tycoon who is Dodi s father accused the royal family of ordering the British secret services to kill Diana in order to prevent her from marrying a Muslim and giving birth to a Muslim half brother to a future king Prince William His claims were exposed as unfounded most recently by a British coroner s inquiry in 2008 Repeated investigations have concluded that Diana died because her driver was drunk and driving too fast in order to evade paparazzi and she was not wearing a seat belt when he lost control and the car slammed into a tunnel pillar at a high rate of speed The news of a new investigation comes just a month before the premiere in London of a new movie Diana starring Naomi Watts which chronicles her secret two year doomed love affair with a Pakistani heart surgeon",
+        "score": 140435.27022140607
+      },
+      "http://www.usatoday.com/story/sports/nfl/2013/08/17/nfl-injuries-miami-dolphins-dustin-keller-deandre-hopkins-houston-texans/2668265/": {
+        "content": "HOUSTON AP Miami tight end Dustin Keller sustained what appears to be a serious right leg injury in the second quarter against the Houston Texans Keller s leg bent unnaturally when he was tackled on the right knee by D J Swearinger on an incomplete pass Saturday night He immediately grabbed his right knee and was soon carted off the field NFL Sanchez leaves Jets QB question unanswered Dolphins coach Joe Philbin said he didn t have a diagnosis on Keller s injury but wide receiver Mike Wallace was preparing for the worst It looked pretty bad and I m pretty sure he s going to be out for a while Wallace said adding that he hadn t heard anything official on Keller s status Keller spent his first five seasons with the New York Jets before signing with the Dolphins in the offseason He had one reception for 14 yards on Saturday Texans rookie WR Hopkins leaves game with head injury HOUSTON AP Houston first round pick receiver DeAndre Hopkins left the Texans game against Miami because of a head injury It was unclear when he was injured but he was taken to the locker room to be evaluated in the second quarter and the team said he wouldn t return No further details on his injury were immediately available Texans coach Gary Kubiak said he wasn t sure how Hopkins was injured but saw him looking disoriented on the field He didn t run the route didn t get his depth was just stumbling all over the place Kubiak said So we got him out Hopkins the 27th overall pick this year out of Clemson had two receptions for 22 yards before leaving the game Raiders first rounder Hayden cleared for contact ALAMEDA Calif AP Oakland Raiders first round cornerback D J Hayden has been cleared for contact for the first time since a near fatal heart injury almost ended his career last November That news couldn t come at a better time for the Raiders Starting cornerback Tracy Porter injured his groin Friday night and will likely be sidelined this week and the rest of the defense failed to stop Drew Brees and the New Orleans Saints first team offense even once Brees led the Saints to scores on all five drives he played in a 28 20 exhibition victory Friday night as Oakland was once again unable to generate any pressure on the quarterback PHOTOS Top shots of preseason Copyright 2013 The Associated Press All rights reserved This material may not be published broadcast rewritten or redistributed",
+        "score": 108318.59905671327
+      },
+      "http://www.usatoday.com/story/money/business/2013/08/17/apple-most-valuable-exxon/2666007/": {
+        "content": "Apple may not have a new iPhone or watch to brag about yet but at least it can say it s No 1 with investors again Less than two months after Apple stock had fallen below 400 and seemed on a course for 300 or worse the stock is back above 500 and looking like a market leader again 24 7 WALL ST Apple a democracy now And leading in a big way The hottest stock in the Standard Poor s 500 last index last week up 10 Apple is adding to its lead as the world s most valuable company a title it reclaimed from Exxon Mobil at the end of July after losing it this January amid a brutal selloff of the stock Friday with shares closing up 4 42 at 502 33 Apple has a market value of more than 456 4 billion easily surpassing the value of Exxon at 386 9 billion and No 3 Google at 286 3 billion Returning to No 1 is a clear reason for optimism for Apple shareholders But the stock is still nearly 30 below its high of more than 700 a share The stock at the top of the market value charts has a mammoth impact on the markets because it sets the tone for industry leadership and affects the types of stocks that investors are looking for says Howard Silverblatt of S P Dow Jones Indices This horse race for Wall Street s No 1 reflects Apple getting a private investor bump Shares of Apple got big momentum this week after famed investor Carl Icahn disclosed he was building a position in the stock followed by word George Soros is buying too The stock wanted to go higher anyhow but Icahn pushed it says Kim Caughey Forrest Several private investors are eyeing Apple s mound of 150 billion in cash and investments as a potential windfall if released as stock buybacks or dividends The woes of Exxon The energy giant had ruled the No 1 perch since 2007 before behind toppled by Apple in 2012 But the company sorely disappointed investors when reporting a 57 decline in earnings in its quarter ended in June 2013 of 6 9 billion Analysts are now calling for Exxon Mobil to report 9 4 lower adjusted earnings per share in the current year Exxon needs its shares to top 105 to beat out Apple at its current price Silverblatt says Exxon closed Friday down 25 cents at 87 91 One company bucking the struggling technology sector Investors have turned sour on many technology stocks as earnings forecasts have moderated Analysts are calling for 1 7 growth in technology earnings this year says S P Capital IQ well below the expected 6 1 growth of the Standard Poor s 500 Meanwhile the Information Technology sector of the Standard Poor s 500 is up roughly 10 this year missing the S P 500 s 16 gain this year But despite Apple s recent stock gains investors like Caughey Forrest don t think investors should get back in since the company relies on breakthrough products which have been missing as competition intensifies Getting to the top is hard says Silverblatt Staying there is even harder",
+        "score": 276652.9071315452
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/jobs-review/2581945/": {
+        "content": "A famous ad for Apple Inc salutes the misfits rebels and troublemakers those who resist rules and have no respect for the status quo They can be glorified or vilified the ad continues but never ignored The reason Because they change things Steve Jobs fit squarely into that turf But Jobs out of four rated PG 13 opens Friday nationwide the biopic starring Ashton Kutcher as the late co founder of Apple can t seem to decide whether to glorify the man for his achievements or vilify him for his megalomania One thing it doesn t do is offer a revealing look at the mercurial entrepreneur The movie that bears his name settles on a blandly superficial treatment of a deeply complex man And for that it s easy to ignore REVIEWS The latest movie reviews from USA TODAY TRAILERS Coming soon to theaters It s a challenge to convey just what makes a cultural icon But pumped up orchestral strains and repeated scenes of standing ovations and thunderous applause don t shed any light on Jobs psyche Those scenes feel like filler anxious proof that their subject is worthy of his own movie Of course he is his innovative products have had an immeasurable impact But a film about such a game changing figure needs to be more incisive Kutcher nails Jobs hunched lurching gait his distinctive speech patterns and his steely gaze featured in far too many long close ups And the actor pulls off a fair approximation of some of the man s personal charm wily determination and explosive temper But Jobs sought to change the world What propelled him Walter Isaacson s exhaustive 2011 biography published shortly after Jobs died at 56 explored his psychology in detail but this movie with an unrelated script by Matt Whiteley falls short Aaron Sorkin is adapting another Jobs movie partly based on Isaacson s biography Montages of Jobs and his inner circle hard at work on the earliest incarnations of home computers don t offer a window into the man Nor does the sight of him zooming off in expensive cars often after he has done something selfish It s the cinematic equivalent of presenting the symptoms but not probing the cause VIDEO Kutcher and Gad talk about Steve Jobs legacy PREMIERE Ashton Kutcher Josh Gad bring Jobs to New York A prologue shows Jobs introducing the iPod in 2001 to great fanfare then flashes back to him as a child It seeks to establish his early artistic inclinations by exploring his youthful fascination with calligraphy But this feels like insignificant contrived shorthand Jobs disregard for the women in his life and years long repudiation of oldest daughter Lisa are presented but essentially glossed over Other noteworthy aspects of his life such as his involvement in Pixar are omitted Supporting characters are not fleshed out As Apple co founder and tech whiz Steve Wozniak Josh Gad brings gentle humor and sincerity to a role that could have used more development Other key players are on hand to suffer mostly in silence through Jobs tirades Overall Jobs the movie is a lazy effort that the real life Jobs with his laser focused drive for excellence and uncompromising nature would no doubt have sent back for reworking",
+        "score": 94658.10587668228
+      },
+      "http://www.usatoday.com/story/travel/destinations/2013/08/17/best-college-bars-in-america/2666313/": {
+        "content": "When you reminisce on your college days what comes to mind first The all nighters the 8 a m classes and ordering Dominos at all hours of the day Or do most of your memories or lack thereof come from the nights spent passing around pitchers of cheap beer and ordering rounds of Jose Cuervo at your favorite bar alongside your best friends There is no doubt that the classic college bar is a major part of an undergrad s life Where else can you acceptably order a round of cheap drinks play drinking games usually reserved for a basement at a house party and drunkenly belt out Wagonwheel and then proceed to cry as senior year comes to an end Everyone s got their favorite campus late night hangout that symbolizes and encompasses an entire college career But some of these college bars from universities and colleges big and small truly define what it means to be a insert your college mascot here PAR TAAY 2013 s trashiest spring break destinations Does your bar have free shots from 9 to 10 p m followed by free beer and free mixed drinks Yes that s a real thing With a small cover charge students at the University of Central Florida drink as much as they want or can handle at the Knight Library And that jukebox you filled with dollars just to hear Shout every single weekend Compare that to the DJs and live bands that play at the Red Square Bar Grill in Burlington Vt Based on the music alone you ll wish you had transferred to the University of Vermont In order to track down the best college bars around the country The Daily Meal went to the primary source the students Requests flooded in with students eager to put their go to bars on the list Naturally everyone has a little bias when it comes to his or her alma mater and an objective vote was difficult So as to keep subjectivity to a minimum a point system was put into place addressing all the factors that make a great college bar Recommended bars were then given a point for the following attributes Music That includes jukeboxes DJs and live music As long as the bar had some sort of method for drunk college students to fist pump and screech at the top of their lungs to Livin On A Prayer a point was assigned An outdoor area Students need somewhere to go to cool off from the dance floor after all A selection of 10 beers or more on the menu Dance floor What bar is complete without a cesspool of bumping and grinding Liquor Mixed drinks and shots get you drunk quicker no further explanation necessary The ability to get a beer for 3 or less on a weekend night Let s face it college students are not known for their deep pockets or refined tastes The cheaper the better no matter the taste Beer pitcher availability More cost efficient than single beers pitchers are a convenient way to buy a round of drinks without spending a pretty penny Shot specials Whether it s a free shot with a beer or 1 jello shots we need it all Drinking games Beer pong isn t just for the basement of a fraternity house Although illegal in some states public drinking games add a little something extra to your classic college bar Distance less than mile from campus No one drunk or sober wants to have a long trip home from the bar Food served after 10 p m on the weekends There is something exquisite and necessary about that bite of food when you re under the influence No cover charge See number 6 Points were deducted if the bar was only open on the weekends and if there is a notoriously long line to get inside In the case of a tie a panel of experts became the deciding factor College students from varying schools became the final decision in where a bar fell in the rankings THE DAILY MEAL 25 Best College Bars in America 1 The Boot Tulane University New Orleans And the title of the best college bar in America goes to none other than The Boot a Tulane favorite If you re a broke college student and only have a couple of quarters to spare you have enough for a drink at 50 cent drink night at The Boot The Knight Library was originally tied with this college bar but in the end location was the deciding factor The panel of college students came to a consensus that New Orleans especially during Mardi Gras is the ideal place to throw back a few drinks and celebrate 4 years of relative freedom 2 Knight Library University of Central Florida Orlando A ranked list of the best college bars in America would not be complete without the University of Central Florida s Knight Library The general size of the establishment is impressive in itself students have access to three full bars a giant dance floor a patio bar and even VIP sections Not a big dancer or drinker Knight Library has darts customized beer pong tables and corn hole boards to get you entertained Still not impressed An Island Oasis frozen drink machine is the newest development to the bar 3 The Wagon Wheel University of Kansas Lawrence Kan Jawhawks flock to the Wheel to join in on the fun cheap drinks and greasy pizza that this 3 college bar has to offer The booths walls bar and columns are all made of wood that are just begging to be written on so bring a Sharpie to leave a mark that will remain even after you graduate And if and when KU makes it to the Final Four of March Madness The games are projected on the wall outside in the patio area guaranteeing a ruckus time 4 Bullwinkle s Saloon Florida State University Tallahassee Fla Since 1979 Bullwinkle s Saloon has been catering to the needs and mouths of the Florida State Seminoles Bullwinkle s ranked so high on the list thanks to its convenient location to campus live rock and roll band massive dance floor and outside double deck area And for 10 students can drink as much as they want during the week How can you top that drink special 5 Bourbon Street University of Georgia Athens Ga Among Athens Ga s bars lies the infamous Bourbon Street Underclassmen are known to frequent this spot chugging through power hours and dancing on slippery tables be careful some have been known to fall off If neither swing dancing nor grinding is your thing head upstairs for a few rounds of pool and cheap beers 6 Kollege Klub University of Wisconsin Madison Wis You can t attend the University of Wisconsin or even visit without becoming a part of beer culture Kollege Klub presents the ultimate Wisconsin college bar experience with a location right on campus The Badgers customers spend their weekends feening for the Klub s sought after beer pong tables beer n shot night a free shot comes with your beer and every Sundays Kountry Night where you can bring your own mug and receive drink discounts ON WISCONSIN USA TODAY readers rank Madison best college football town 7 Brothers Bar Grill University of Iowa Iowa City Iowa Iowa City s Brothers Bar Grill is a combination of a college bar and a sports grill with all the fixings you need for a good night dartboards pool tables outside patio and a massive beer selection including 2 Blue Moon drafts on Mondays and 4 Keystone and Busch Light pitchers on Friday and Saturday nights Sure there s a cover charge on game days but you ll make up your money in drink deals like the 5 mug which you can fill up for 1 each time and you won t suffer from FOMO as this is where a majority of your fellow undergraduates will be 8 The TApp Room Appalachian State University Boone N C College students find the ultimate selection of craft beer at the TApp Room in the mountains of Boone North Carolina Beers on draft include Green Man Porter RJ Rocker s Son of a Peach and Dark Horse Scotty Karate The TApp Room may not seem like much but you ll be hard pressed to find better drink deals 2 bottles of beer are available to customers throughout the week The only thing that the TApp Room is missing is a dance floor 9 The Tombs Georgetown University Washington D C Staffed completely by Georgetown students and alumni The Tombs knows exactly how to please a college crowd as well as how to spot a fake ID when they see one It might not be easy for lower classmen to experience the delicious food or DJ s tunes on the dance floor that the Tombs offers but the experience is well worth the wait for that 21 year old license Make sure you save your heavy drinking for later in the night you ll be less likely to spot a professor or two later on 10 Zuma Grill Arizona State University Tempe Ariz Zuma Grill in Tempe Arizona starts the countdown to the top ten college bars in America Located half a mile away from the main campus of Arizona State University Zuma Grill is notorious among the student population for Toxic Mondays a night full of music and dancing and cocktails With drinks like the Snorkel a shot of vodka in a Red Bull which is then shotgunned and personal cocktail pitchers for 10 there is no question why Mondays are toxic or why students love Zuma Grill 11 Top of the Stairs Virginia Tech Blacksburg Va The Hokies do more than football and good food they also know how to party The Top of the Stairs or TOTS beat out the other nominated Virginia Tech bars for its karaoke outside bar area and general popularity among students After consuming a few Rails their signature drink a mix of gin vodka bourbon rum triple sec and whiskey you should watch your step If you can make your way from the top of the stairs down to the street you should be fine TOTS is conveniently located right next to campus 12 Pavlov s University of South Carolina Columbia S C Deep in South Carolina country in Cocky the mascot s territory is the busy college bar known as Pavlov s Students of the University of South Carolina a large portion of them Greek take advantage of the warm Southern weather on the patio at Pavlov s The cheap drinks like 50 cent shots on Mondays draw in quite a crowd but the lines move quickly allowing everyone to drink and dance the night away 13 The Dizzy Rooster University of Texas Austin Yes the one made famous or infamous by the cast of the Real World Austin If you re a college student looking to dance on a bar all night long look no further than the Dizzy Rooster You can get a jello shot anytime of the day for a mere 2 and maybe you ll run into co owner Season 15 Bachelor Brad Womack 14 The C I Ohio University Athens Ohio Ohio University students certainly aren t limited in choice when it comes to choosing a bar to down a few or more drinks in Athletes and those in the Greek scene tend to flock to the C I to take advantage of the photo booth and killer drink specials Plus for only 1 75 and an 1 for refills you can get a draft of beer AND keep the Get High With the C I cup 15 Salty Dog Saloon University of Florida Gainesville Fla Anyone from Florida knows that the Gators are big on football and drinking With a wide range of college bars in Gainesville how could you choose the best The Salty Dog Saloon a 50 year old establishment stands out in the crowd with its jukebox 50 cent drink happy hour and every Sunday s 2 for 1 mimosa special For less than 10 the Salty Dog s patrons can get the most booze for their buck",
+        "score": 15157608.857686816
+      },
+      "http://www.usatoday.com/story/sports/nfl/broncos/2013/08/17/denver-broncos-derek-wolfe-injury/2668289/": {
+        "content": "Denver Broncos defensive end Derek Wolfe was driven off the field at CenturyLink Field in Seattle after suffering a spine injury sustained in a helmet to helmet hit Saturday night Wolfe the Broncos second round pick in 2012 had shed a low block when he collided with Seahawks fullback Michael Robinson NFL Jets QB question still unanswered Wolfe was taken to a Seattle hospital where results of a CT scan and MRI were negative head coach John Fox said after the game Wolfe was released and allowed to fly home with the team late Saturday night So far so good Broncos head coach John Fox said We ll keep him in our prayers Wolfe was just one of several starters who had to leave the 40 10 Seattle win with injuries Cornerback Champ Bailey foot wide receiver Wes Welker ankle linebacker Stewart Bradley wrist and guard Louis Vasquez knee all were injured in the first half and did not return Follow Lindsay H Jones on Twitter bylindsayhjones PHOTOS Top shots from training camp",
+        "score": 18578.338753369255
+      },
+      "http://www.usatoday.com/story/sports/boxing/2013/08/18/darren-barker-defeats-daniel-geale-ibf-middleweight/2668393/": {
+        "content": "Darren Barker finally got the world title he s spent an entire career chasing surviving a knockdown to come back and take the IBF middleweight belt from champion Daniel Geale by split decision in a non stop action fight Saturday night at the Revel Casino in Atlantic City The 31 year old Barker 26 1 16 KOs started strong winning several of the early rounds by outworking Geale the Australian by way of Germany But Geale finally got to the tough Brit in the sixth round Barker went down from a powerful paralyzing body shot from Geale and nearly didn t make the 10 count But he got up just in time and amazingly came back strong to hurt Geale near the end of the round Barker kept it up much of the rest of the way and finished by landing 292 punches to Geale s 259 Barker also threw nearly 200 more punches He landed 244 power punches to 211 by Geale 29 2 15 KOs Judges Carlos Ortiz Jr 114 112 and Barbara Perez 116 111 both scored it for Barker while Alan Rubenstein had it 114 113 for Geale Barker leapt for joy after being named the winner on the two judges scorecards It s so difficult Nobody really knows the journey I ve been through said Barker whose only career loss was to middleweight champion Sergio Martinez nearly two years ago also in Atlantic City It s been a real Rocky story but I ve dedicated this to my late brother Everything I ve done is for him Barker bloodied and swollen afterwards was asked how he survived the body punch in the sixth that dropped him I take my hat off to Daniel Geale He s a great champion and a great man He caught me right on the solar plexus and completely took my breath away Barker said But the only thought that went through my head was my late brother and the rest of my family everyone who stuck by me They pulled me through it Without them I couldn t do anything Geale 32 who was making the fifth defense of his IBF title was disappointed by the loss I m not going to whinee and cry and carry on he said Things didn t go my way tonight I m very very disappointed I worked so hard for that put everything into that I did everything I needed to do I pushed him so hard I hurt him But that s what happens It was a close fight I m very disappointed Asked who he wanted to fight next Barker said I just want to go home and see my daughter I miss her badly But before I do that there might be a couple of beers consumed In the co feature Spain s Kiko Martinez used a relentless aggressive attack to upset IBF super bantamweight champion Jhonatan Romero of Colombia with a sixth round TKO Referee David Fields stopped the fight at 2 40 with a defenseless Romero 23 1 pinned in a neutral corner and absorbing a beating Martinez 29 4 dropped to his knees in the center of the ring and began to sob while his cornermen hugged him This is a dream for me Martinez said through a translator HBO ring announcer Michael Buffer called out my name as the new champion This is a dream I am so happy I have no words Today is a marvelous day We re going to have a big party when I get back home Martinez who is managed by WBC middleweight champion Sergio Martinez no relation took control at the outset of the bout and never relinquished it In the sixth he rocked Romero with a left hook and right hook early in the round then unleashed a bevy of punishing blows that left Romero staggering along the ropes Romero briefly tried to fight back but was soon overwhelmed Martinez pinned him in a neutral corner and continued to fire punches until Fields wisely stepped in I just kept throwing punches Martinez said I had to keep the attack on and I knew the referee was going eventually going to have to stop the fight Romero was making his first title defense He won the belt last February when he gained a 12 round split decision over Alejandro Lopez in Lopez s hometown of Tijuana Mexico",
+        "score": 1134501.1750405272
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/the-butler-review/2581949/": {
+        "content": "Authentic emotion competes with manufactured sentiment for the heart of Lee Daniels The Butler The reality based film out of four rated PG 13 opens Friday nationwide is both deeply affecting and blatant Oscar bait It s inspiring and filled with fine performances but the insistently swelling musical score and melodramatic moments seem calculated and undercut a powerful story A revolving door of stars in quasi cameos takes the audience out of the movie Viewers will find themselves musing Wow Jane Fonda really looks like Nancy Reagan and Who knew Robin Williams could look so much like Eisenhower or Wait was that catatonic woman Mariah Carey It is however refreshing to see a mainstream film dominated by black actors in which white actors have small supporting roles Forest Whitaker is superb as Cecil Gaines a fictional domestic worker at the White House who served in seven presidential administrations from 1957 to 1986 The story is inspired by Wil Haygood s Washington Post article about real life presidential butler Eugene Allen With exquisite subtlety Whitaker evokes the inner strength and concealed turmoil that belie his subservient post REVIEWS The latest movie reviews from USA TODAY TRAILERS Coming soon to theaters Gaines story begins when he s a child in 1926 picking cotton on a Georgia plantation Disturbing events lead to Gaines working indoors as a servant for an imperious matriarch Vanessa Redgrave Forced into servility he learns fine manners As a young man he runs away and lands a job at a tony Washington D C hotel There he comes to the attention of an administration official who hires him to work at the White House After his poverty stricken childhood Gaines is grateful for work that allows him to support his wife Gloria Oprah Winfrey and sons Louis David Oyelowo and Charlie Elijah Kelley Focused on change Louis clashes with his more deferential father and becomes a Freedom Rider One of the film s most moving scenes features Louis protesting at a segregated lunch counter in the South juxtaposed with a white gloved Gaines quietly serving a sumptuous meal at a White House dinner Oyelowo gives a masterful performance as the film chronicles the civil rights movement and director Daniels offers a compelling look at the strikingly different ways two African American men chose to deal with racial discrimination Winfrey has substantial chemistry with Whitaker and gives a solid performance though it s hard to forget we re watching the TV star STORY Forest Whitaker pours his heart into The Butler VIDEO Oprah on her raunchy Butler scenes PREMIERE Oprah apologizes for bag gate at The Butler premiere At times the film comes off as a more serious minded Forrest Gump in the way it superficially covers key events in U S history with Gaines thrust into these moments The story is more successful when it focuses on Gaines point of view and how his job often bangs up against familial concerns After President Kennedy James Marsden is shot a shattered Gaines stays late and approaches Jacqueline Minka Kelly still wearing her blood stained pink suit inquiring if there s anything he can do to help She is unresponsive He goes home to find Gloria upset about family issues They have a row over his paying more attention to what is going on in the White House than in his own home The Butler brings into clear focus how the civil rights struggle paved the way for Barack Obama to become president The film ends with just the right sense of portent after Obama is elected in 2008 As a sweeping multi generational saga The Butler verges on heavy handed But it s also poignant powerful and worth seeing",
+        "score": 120726.6858505305
+      },
+      "http://www.usatoday.com/story/sports/mlb/2013/08/17/red-sox-broadcaster-jerry-remy-blasts-son-jared-remy-charged-with-murder/2668027/": {
+        "content": "BOSTON AP Longtime Boston Red Sox broadcaster Jerry Remy said Saturday he could not describe his disgust and remorse over allegations his son fatally stabbed his girlfriend a day after being released from custody for allegedly assaulting her In a statement released through his Twitter account Remy said he and his wife are heartbroken over the death of Jennifer Martel on Thursday night allegedly at the hands of his son Jared Words cannot describe my wife s and my grief Jerry Remy wrote Son or not I am at loss for words articulating my disgust and remorse over this senseless and tragic act STORY Jared Remy charged with murder Jared Remy 34 pleaded not guilty in Waltham District Court on Friday on charges of murder and domestic assault and battery in the killing of Martel 27 In court prosecutors described a brutal and determined attack saying Jared Remy assaulted Martel in the kitchen living room on a stairway and then pinned her to the ground in the patio where he stabbed her several times At least one neighbor who tried to help Martel was driven back when Remy slashed at him a prosecutor told a judge in court Martel s 4 year old child was in the apartment and was not hurt The child is now in the custody of child welfare officials Remy was arrested at the scene his clothes soaked in the victim s blood On Wednesday Remy had been released on personal recognizance in an open assault and battery case in which Martel was the alleged victim Middlesex District Attorney Marian Ryan said There was no active restraining order against him she said Remy has a violent criminal history including a total of 15 criminal charges since 1998 according to Waltham court records He has been accused of assaulting five people including four women Remy was ordered held without bail His attorney Peter Bella said he was trying to figure out what happened leading up to Martel s stabbing pointing out that his client had what could be considered as defensive wounds Jerry Remy is a former Red Sox second baseman who has been a color analyst on team broadcasts on the New England Sports Network since 1988 He has struggled with health problems in recent years NESN announced Friday that he will be off the air through next weekend Jerry Remy said Saturday that his thoughts and prayers go out to the victim s mom and her family Jared Remy is a former Red Sox security staffer who was fired by the team in 2008 during a steroid investigation Copyright 2013 The Associated Press All rights reserved This material may not be published broadcast rewritten or redistributed",
+        "score": 818590.5584488481
+      },
+      "http://www.usatoday.com/story/sports/ufc/2013/08/17/chael-sonnen-submits-mauricio-shogun-rua-ufc-fight-night-26/2668319/": {
+        "content": "Chael Sonnen has long been known for his ground game but it wasn t until his victory over Mauricio Rua on Saturday night that he proved how quickly he can finish fights there After a back and forth first round Sonnen locked up a guillotine choke late in the opening frame forcing the former UFC light heavyweight champion to tap out at the 4 47 mark of Round 1 The light heavyweight bout headlined Saturday s UFC Fight Night 26 event at Boston s TD Garden It aired on FOX Sports 1 as part of the new cable channel s first day on air FULL COVERAGE MMA news at MMAjunkie com Sonnen s trademark style was on display early as he wasted no time diving for the takedown and planting Shogun on the mat in the opening seconds of the bout Rua wasn t content to stay there long however and he quickly scrambled to his feet and got a takedown of his own to even things up To Sonnen s credit he stayed calm and collected early on and it wasn t long before he had reversed the position and resumed the grinding ground and pound style from the top that most people expected from him in this fight But the real surprise came in the final minute of the round when Sonnen locked up the guillotine choke and finished it from his back leaving his Brazilian opponent with no escape route as he squeezed for the submission victory After the fight the always verbose Sonnen first dedicated his win to his grandmother who he said has battled cancer then launched almost immediately into his pro wrestling style schtick praising his own performance with an impromptu poem and then calling out longtime Brazilian rival Wanderlei Silva Right here on the UFC s new home FOX Sports 1 Wanderlei Silva 6 feet tall and 205 pounds Sonnen said in his post fight interview with UFC color commentator Joe Rogan Boy until I met you I didn t know they could stack crap that high After being briefly interrupted by Rogan Sonnen was soon back on track offering Silva a fight in three months time before storming out of the cage With the win Sonnen 28 13 1 MMA 7 6 UFC gets his first victory since January 2012 snapping a two fight losing streak that saw him suffer defeats in bouts for both the UFC middleweight and light heavyweight titles Rua 21 8 MMA 5 6 UFC has now lost two in a row in the UFC Full UFC Fight Night 26 results Ben Fowlkes writes for MMAjunkie com a USA TODAY Sports Media Group affiliate Follow Ben on Twitter benfowlkesMMA",
+        "score": 402111.0765309017
+      },
+      "http://www.usatoday.com/story/tech/personal/2013/08/18/tech-now-back-to-school-laptop-smartpen-wifi-ipad/2649637/": {
+        "content": "From lunchboxes to laptops smartphones to smartpens most parents like me are staring down at areally long back to school shopping list and feeling pretty overwhelmed When it comes to tech ing our kids how do we give them what they really need for a price we can really afford Here s a start on some top tech tools for a whole range of budgets FOR COMPUTING ON THE GO ULTRAPORTABLE LAPTOP Today s slender laptops are the crown jewel of the back to school buy By elementary school most students will need access to a computer whether at home or on the go If they are of an age where they need to pack one around with them you ll want to find something that has an all day battery life is sturdy yet lightweight and small so that it can fit in a backpack and that won t be obsolete in a year or a two In this category it s hard to beat the MacBook Air which is as portable as they come the 11 inch model weighs just over 2 pounds and has truly extraordinary nine hours of battery life Prices start at 950 with student discounts Another great pick is the new Sony Vaio Pro 13 which is one of the best new ultrabooks I ve ever reviewed Its fourth generation Intel processor delivers ultra fast speeds masters the most demanding tasks and keeps the battery boosted all day long Prices on this little beauty start around 1 250 If you re on a tight budget and you d still like to get a lightweight laptop don t despair Samsung s 11 inch Chromebook starts at just 250 It s runs Google s Chrome operating system instead of Mac OS or Windows and focuses on running applications over the Internet This means the Chromebook could take a while to get used to but that s not a big deal since kids are so tech adaptable Overall it does a fine job doing most things your average student needs like researching topics online or writing papers with online tools like Google Docs FOR TAKING NOTES LIVESCRIBE SKY WI FI SMARTPEN Today s students have a modern equivalent of the No 2 pencil on steroids in the Livescribe Sky Wi Fi Smartpen It records a digital copy of what you write and draw as well as audio of your class lectures You just takes notes normally then later go back tap any word symbol or doodle and the pen plays back the lecture that it was recording while you were writing It also syncs digital copies to an Evernote account via Wi Fi so you can access everything from your computer or mobile device wherever you have Internet access The Sky Wi Fi Smartpen starts at 150 The only downfall They are easy to lose so be sure to put your name and contact information all over it I used bright pink duct tape for mine FOR APPS AND READING IPAD MINI While I m really fond of the size price and performance of the Google Nexus 7 and Amazon Kindle Fire HD and love that the Sony Xperia Tablet Z is waterproof Apple s iPad Mini is still the tablet I find myself recommending to parents the most Oh sure we read everyday how quickly Android s catching up but iPads still offer the most robust selection of learning study and organizational apps overall It s also an easy way to access to digital textbooks as well as iTunes U which gives your student free easy access to college level courses as podcasts videos lecture notes and other media Best of all the iPad Mini has a mini ish price tag too starting at 330 There are of course great non Apple options out there for students of all ages so be sure to see our full story just on tablets for teens later this month FOR KEEPING IN TOUCH SMARTER SMARTPHONES Giving your child a smartphone may not seem like a great idea but it is the best way for them to stay in touch not just with their friends but with parents family and emergency services if needed But there is so much to cover in this one topic when is the right time to give a child a phone what safeguards should be in place what are the best prices that we ll have an entire series on the subject in a few weeks as well DORM TECH Get more back to school essentials from Reviewed com DORM TECH Marshall Guitar amplifier fridge spices up a dorm room COFFEE TECH Espresso maker is prefect for students FOR TAKING A LOAD OFF AIRBAC BACKPACK My daughter s backpack seems bigger than she is and often times seems it weighs more too Roller bags are outlawed at her school yet bad backs apparently are not For this issue there s Airbac with a built in air cushion that nestles in against your lower back and quite literally takes a load off It has a built in air pump to put more air in whenever and wherever you need The whole design alleviates the pressure pulling down on your shoulders while distributing weight more evenly throughout and resting more comfortably on your hips For this you ll pay around 60 FOR MUSIC ANYWHERE Satechi iFit 1 This speaker dock for your smartphone or tablet is compact and portable but still features the power to provide great sound wherever you need it with a battery that will last for up to six hours This gadget is compatible with most smartphones and tablets and best of all comes in at a bargain price of 16 FOR THE WOW FACTOR PEBBLE SMARTWATCH The Pebble Smartwatch is more for the college age student who wants to look both tech and fashion forward It s a great way to know what time it is and gives you a way to read to read texts e mails and get calendar notifications all on your wrist But if you or your student is prone to attention issues this could be a huge distraction since it vibrates and flashes social media alerts right on hang on a minute I m getting a text oh right your wrist Prices start at 150 FOR STUDENTS WHO STILL NEED A PRINTER EPSON ALL IN ONE There s been a great debate among the tech recommending crowd Do students still need printers or is a USB memory stick or trip to the nearest campus Kinko s enough I took that question to you the viewers and readers who overwhelmingly responded that YES many students still need the ability to print papers and projects and it s too inconvenient to go someplace to have them printed all the time For a decent printer that works wirelessly across most mobile devices the 99 Epson XP 410 is a fine choice Yes the ink will still be the biggest cost so teach your students to print wisely FOR GOING FROM LOST TO FOUND StickNFind Once you ve invested in this great tech be sure your kids don t lose it with StickNFind These quarter sized stickers broadcast a Bluetooth signal that you can track within a 150 foot range using StickNFind s smartphone app At 50 for a pack of two stickers these are probably best used on the items that are easily lost like wallets smartphones tablets or even one another What other gadgets have you or your student stumbled across this fall that you can t imagine living without Or what s one back to school tool you miss from your days as the big man on campus Be sure to let us know Jennifer Jolly is an Emmy Award winning consumer tech contributor and host of USA TODAY s digital video show TECH NOW E mail her at techcomments usatoday com Follow her on Twitter JenniferJolly",
+        "score": 698094.1560462108
+      },
+      "http://www.usatoday.com/story/sports/wnba/2013/08/18/san-antonio-silver-stars-phoenix-mercury-seattle-storm-indiana-fever/2668409/": {
+        "content": "SAN ANTONIO AP Danielle Adams and Danielle Robinson scored 20 points each and the San Antonio Silver Stars beat Phoenix 88 82 on Saturday night handing the Mercury their first loss under interim coach Russ Pennell Jia Perkins added 17 points and Shenise Johnson had 15 for San Antonio 9 15 Robinson sporting a pink Mohawk in honor of the team s Breast Cancer Awareness Night also had eight assists while going 10 for 11 on free throws in a chippy contest between the Western Conference rivals Diana Taurasi scored 23 points Charde Houston had 15 Brittney Giner added 11 and Candice Dupree 10 for Phoenix 13 12 which had won three straight since Pennell replaced Corey Gaines on Aug 8 BOX SCORE Silver Stars 88 Mercury 82 Phoenix had 44 points in the paint compared to 28 by San Antonio but the Silver Stars backcourt dominated their Mercury counterparts Perkins and Robinson led a 14 4 run to close the first quarter using their quickness to outwork the Mercury Perkins hit an 18 foot jumper and a 3 pointer and Robinson had a layup after passing to Catherine Kraayeveld for a breakaway layup Shameka Christon closed the quarter by rattling in a 3 pointer at the buzzer to give San Antonio a 23 13 lead Taurasi took matters into her own hands in the second quarter after complaining of a lack of calls She made two 3 pointers and drove for an open layup after nearly flooring Robinson with a shoulder Taurasi s run pulled Phoenix within 45 33 with 1 23 left in the first half but the points did little to quell the fiery play Robinson and Alexis Hornbuckle were twice warned by officials watch it you two after grabbing and pulling on each other while fighting through a series of picks Robinson picked up her dribble to call time late in the first half but Hornbuckle attempted to reach around for a steal prompting the Silver Stars point guard to throw an elbow that just missed Hornbuckle s head Robinson hit the court hard in the third quarter after being undercut by Houston on a layup but quickly rose after rolling over in pain She was nearly floored again later in the quarter after being struck in the neck on a full sprint when Lynetta Kizer stuck her arm out and nearly clotheslined her Neither was ruled a flagrant foul despite the protests of the Silver Stars bench Thompson powers Storm past Fever SEATTLE AP Tina Thompson scored 14 of her 23 points in the second half to lead the Seattle Storm in a 77 70 win over the defending champion Indiana Fever on Saturday night Tanisha Wright added 16 points and Shekinna Stricklen 15 for Seattle 11 13 which has won two of three and remained two games ahead of San Antonio for the fourth and final playoff spot in the Western Conference Tamika Catchings had 21 points for Indiana 11 14 which has lost three straight and four of five Briann January scored 17 points and Eriana Larkins added 14 points and nine rebounds The Fever fell one game behind third place Washington in the Eastern Conference and had their lead over fifth place New York trimmed to one half game BOX SCORE Storm 77 Fever 70 The Storm beat the Fever for the first time since 2011 snapping a four game losing streak and evened their home record to 6 6 this season Thompson scored nine and Stricklen and Wright each had eight to help the Storm to a 40 39 halftime lead Seattle led by 11 early in the second quarter before the Fever rallied to take a one point lead late in the period Larkins scored 13 and Catchings 11 to lead the Fever in the first half In the third quarter Thompson became the third WNBA player to reach 3 000 career rebounds Thompson the league s all time leading scorer and only player to have appeared in each of the WNBA s 17 seasons trails just Lisa Leslie 3 307 and Taj McWilliams Franklin 3 013 Indiana starting guard Shavonte Zellous who averages 15 points per game missed her fourth straight game with plantar fasciitis Copyright 2013 The Associated Press All rights reserved This material may not be published broadcast rewritten or redistributed",
+        "score": 402078.06908252096
+      },
+      "http://www.usatoday.com/story/sports/mlb/2013/08/18/adam-laroche-home-run-nationals-beat-braves-15-innings/2668413/": {
+        "content": "ATLANTA AP The Nationals celebrated Adam LaRoche s 15th inning homer that gave Washington an 8 7 win over the Atlanta Braves on Saturday night The team also was left with lingering concerns about Stephen Strasburg s ejection and closer Rafael Soriano s blown save Strasburg was tossed in the second inning He hit Justin Upton with a pitch in the first and was tossed after throwing two straight pitches behind Andrelton Simmons back BOX SCORE Nationals 8 Braves 7 15 EJECTED Strasburg tossed in second inning The Nationals insisted Strasburg wasn t trying to hit Simmons but instead was unable to regain his control after walking Jordan Schafer on four pitches to open the second He s still kind of learning to deal with the adversities of pitching up here said Nationals manager Davey Johnson who also was ejected by plate umpire Marvin Hudson when he argued in defense of Strasburg When he went back out in the second inning I ve never seen his command so bad Johnson said He couldn t come close to the first hitter he faced Then he threw a curveball that was eight feet outside and then a couple balls that were behind the hitter It didn t look like he was trying to hit Simmons He couldn t find the strike zone Entering the game Strasburg had thrown three wild pitches in 146 1 3 innings He doubled that total by unleashing three consecutive wild pitches including the two behind Simmons back When Johnson and Strasburg were in the clubhouse after being tossed Johnson said he immediately sought to find out if his ace was hurt The first thing I said when we were both in here was Are you hurt Is something wrong with you Johnson said He said No I m just out of sorts VIDEO STRASBURG THROWS BEHIND SIMMONS The Nationals loaded the bases and scored two runs in each of the first two innings On a night when the game time temperature was 66 degrees Strasburg said he just got a little cold I was just missing spots Asked if it was a mechanical problem Strasburg said I can t really explain it I just didn t really feel good out there and couldn t hit the spot Braves manager Fredi Gonzalez said it was just weird to see Strasburg s suddenly unable to throw strikes He said he didn t think Strasburg was trying to hit Simmons I don t know if there s something wrong with him physically because it just didn t look right Gonzalez said It didn t look right LaRoche lifted a high fly ball into the right field seats for this 18th homer off Kris Medlen 10 11 who was pressed into service after Atlanta exhausted its bullpen The game lasted 5 hours 29 minutes Jason Heyward hit two homers including a two run shot in the ninth as Soriano blew a 7 5 lead Craig Stammen 6 5 allowed no hits in three scoreless innings striking out five with one walk Dan Haren pitched the 15th for his first career save Haren said he threw 30 to 35 pitches in his regular bullpen session before the game but didn t hesitate to volunteer for the rare relief appearance We needed a game like this Haren said Atlanta s Brian McCann had three hits including a two run homer Freddie Freeman also homered for the Braves Ryan Zimmerman hit a homer for Washington Each team used all its relievers Medlen scheduled to start Tuesday at the Mets made his first relief appearance of the season as Atlanta s ninth pitcher of the night Soriano suffered his sixth blown save Heyward s second homer of the game a two run shot to right center with two outs in the ninth sent the game to extra innings Braves pitchers hit Bryce Harper with two pitches in Atlanta s win on Friday night leaving the outfielder bruised and unable to start on Saturday night That set the stage for Strasburg Strasburg hit Upton in the first inning one pitch after Heyward s leadoff home run The pitch hit Upton s backside and he quickly ran to first Asked if he meant to hit Upton Strasburg said I m not going to get into that But the answer seemed clear Well after somebody goes deep and you hit him in the rear end I don t think it s a big deal Johnson said I don t know if he did it on purpose or not The second inning meltdown by Strasburg was more difficult to figure out The drama left Braves fans howling but no players emerged from either dugout There were no additional incidents in the game There were tensions between the teams that carried over from the Braves three game sweep at Washington on Aug 5 7 Both benches emptied when Harper was hit by a Julio Teheran pitch in the second game of the series Tanner Roark dominated the Braves after taking over for Strasburg Roark allowed only one hit in four scoreless innings He had a run scoring double in the fifth for his first major league hit and RBI Mike Minor allowed four runs in only 1 2 3 innings the shortest of his 78 career starts Minor gave up bases loaded two run singles to Wilson Ramos in the first and Jayson Werth in the second Harper was in Johnson s original lineup but was held out with bruised triceps until entering the game as a defensive replacement in the ninth Strasburg gave up two runs and two hits two walks and one hit batter in one plus inning Like Minor he also had the shortest start of his career Werth doubled off Luis Ayala in the sixth and scored on a single by Wilson Ramos NOTES Washington s Scott Hairston was ejected by Hudson in the ninth for arguing a called third strike The Nationals placed RHP Taylor Jordan on the 15 day DL with a lower back strain Tyler Moore was recalled from Triple A Syracuse and had two hits while starting at first base The Braves signed IF Tyler Greene to a minor league contract Greene released by the Chicago White Sox on Tuesday was assigned to Triple A Gwinnett 2B Dan Uggla who had corrective eye surgery on Friday said a test Saturday showed his vision at 20 15 He expects to be ready to play when eligible to come off the 15 day DL on Aug 28 The series concludes on Sunday when Nationals LHP Gio Gonzalez faces Atlanta s Julio Teheran Copyright 2013 The Associated Press All rights reserved This material may not be published broadcast rewritten or redistributed",
+        "score": 2256108.144612633
+      },
+      "http://www.usatoday.com/story/driveon/2013/08/17/chevrolet-corvette-racing/2667947/": {
+        "content": "MONTEREY Calif As if anyone had any doubt about a racing version of the new 2014 Chevrolet Corvette the answer came Sunday at the Rolex Monterey Motorsports Reunion Without any prior warning to the hundreds of Corvette fans gathered here what is expected to be the next racing Corvette clad in black and white camouflage took a lap at the Mazda Raceway Laguna Seca It was supposed to be a parade lap but it seemed mighty fast The Corvette designated the C7 R was driven hard around the track apparently to signal that it intends to be a force like never before on the racing circuit It s the seventh generation Corvette and the R stands for racing The lap comes days after the new seventh generation Corvette made available for drives bythe press near here last week The new car is more powerful and more capable than the one it replaces and it has dramatic new styling The styling stood out in particular when it came to the racing version of the Corvette Its first racing appearance won t come until January in Daytona Beach Fla",
+        "score": 71259.91653907557
+      },
+      "http://www.usatoday.com/story/sports/ncaaf/bigten/2013/08/17/penn-state-jerry-sandusky-joe-paterno-nittany-lions-abuse-case-victim-settlement/2668183/": {
+        "content": "HARRISBURG Pa AP The first civil claim brought against Penn State over child sexual abuse at the hands of former assistant football coach Jerry Sandusky has been settled an attorney for one of Sandusky s victims said Saturday The Philadelphia Inquirer first reported that the young man known as Victim 5 who testified at Sandusky s criminal trial last year settled for several million dollars Attorney Tom Kline confirmed the deal in an email to The Associated Press but did not immediately provide any other details STUNNING QUOTES PSU players comment in new book The paper reported the deal is the first of 26 settlements expected soon among 31 young men who have pressed claims over the actions of Sandusky The Inquirer said it had interviewed Kline on Friday along with Michael Rozen one of the lawyers brought in by Penn State to resolve the civil claims Rozen told the paper that Victim 5 s case was considered to be more serious than others because his abuse occurred in August 2001 months after top school officials were informed by a graduate assistant that he saw Sandusky assaulting a boy in a team shower EARLIER Penn State ex officials face trial in abuse case The pivotal issue from the university s perspective in dealing with the victims is where the incident occurred and when it occurred proximate to the 2001 shower incident Rozen told the paper A spokesman for the university declined comment on the deal Saturday saying the school continues to make progress on multiple settlements Penn State announced a year ago the day Sandusky was convicted of 45 criminal counts that it hoped to compensate his victims fairly and quickly Sandusky 69 is serving a 30 to 60 year state prison sentence for child molestation and related offenses Penn State s trustees authorized some 60 million in settlements last month Victim 5 was among eight young men testified at Sandusky s trial last year about abuse that included grooming fondling oral sex and anal rape including incidents on school property Sandusky spent three decades at Penn State under former head coach Joe Paterno He met some of his victims through The Second Mile a charity for at risk youth he founded in 1977 and continued to operate after he retired from Penn State in 1999 A 1998 complaint about Sandusky showering with a boy one of those who testified against him was investigated by university police but no charges were filed A graduate assistant Mike McQueary witnessed a different incident in the team shower in 2001 and notified Paterno and other high ranking school officials but police were not called The response of university leaders including Paterno was heavily criticized in a report commissioned by the school last year Paterno died in January 2012 but criminal charges for an alleged cover up are pending against three others former president Graham Spanier retired vice president Gary Schultz and retired athletic director Tim Curley All three deny the allegations Penn State had fostered an image of a model football program under Paterno whose statue outside the football stadium was taken down after the scandal broke The school has spent nearly 50 million on the Sandusky scandal not including any payments to the victims and accusers Copyright 2013 The Associated Press All rights reserved This material may not be published broadcast rewritten or redistributed",
+        "score": 1371963.1576883025
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.asset > div.double-wide.asset-double-wide > div.article-body > p": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "double-wide",
+            "asset-double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 68.19916278632273,
+    "pages": {
+      "http://www.usatoday.com/story/life/people/2013/08/17/british-police-are-investigating-dianas-death-again/2667705/": {
+        "content": "Princess Grace s grandson to marry this month Al Roker oversleeps misses early show Pair tied to Ind slayings returned killed woman The BizJet Case The Drama Unfolds Woman pleads guilty to distributing obscene photos The Most Dangerous Place to Be Black NBA Draft 25 Biggest Busts Where Are They Now",
+        "score": 68.19916278632273
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > div.more-stories-wrap.more > div.more-stories-content > div#outbrain-more-stories > div.OUTBRAIN > div.ob_strip_container > div.ob_container > div.ob_container_recs > a.item-link-container > div.item-container > div.ob-text-content > div.ob-tcolor.strip-rec-link-title": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "more-stories-wrap",
+            "more"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "more-stories-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "outbrain-more-stories",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "OUTBRAIN"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob_strip_container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob_container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob_container_recs"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "item-link-container"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "item-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob-text-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob-tcolor",
+            "strip-rec-link-title"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5333333333333333,
+    "score": 1151.5382247845457,
+    "pages": {
+      "http://www.usatoday.com/story/news/politics/2013/08/17/obama-golf-larry-david/2667983/": {
+        "content": "The president s vacation ends Sunday U S trade representative Ron Kirk and businessman Glenn Hutchins rounded out the foursome",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/news/nation/2013/08/17/ntsb-ups-crash/2668157/": {
+        "content": "Investigators have not found any problems with the plane Capt Cerea Beal Jr 58 and First Officer Shanda Fanning 37 died in the crash",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/nfl/2013/08/17/nfl-injuries-miami-dolphins-dustin-keller-deandre-hopkins-houston-texans/2668265/": {
+        "content": "Dolphins TE Dustin Keller was carted off after suffering a right leg injury Texans rookie WR DeAndre Hopkins left the same game after suffering a head injury",
+        "score": 824.583873677118
+      },
+      "http://www.usatoday.com/story/life/people/2013/08/17/british-police-are-investigating-dianas-death-again/2667705/": {
+        "content": "The anniversary of the princess death is in two weeks The Paris car crash in 1997 has been investigated multiple times",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/money/business/2013/08/17/apple-most-valuable-exxon/2666007/": {
+        "content": "Big weekly gain in Apple solidifies the company as the world s most valuable again retaking spot from Exxon Apple shares get a boost in news that Carl Icahn is buying and pushing for change",
+        "score": 364.2541539229318
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/jobs-review/2581945/": {
+        "content": "USA TODAY Review out of four Stars Ashton Kutcher Dermot Mulroney Josh Gad Matthew Modine J K Simmons",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/mls/2013/08/18/federico-higuain-two-goals-columbus-crew-shut-out-toronto-fc/2668421/": {
+        "content": "Federico Higuain scored two goals for the second straight game to lead Crew to 2 0 win Marco Di Vaio scored twice as Montreal snapped two game skid with 2 1 win over D C United",
+        "score": 684.755021249302
+      },
+      "http://www.usatoday.com/story/sports/boxing/2013/08/18/darren-barker-defeats-daniel-geale-ibf-middleweight/2668393/": {
+        "content": "Darren Barker won a split decision victory over Daniel Geale for the IBF middleweight title Barker survived a knockdown in the sixth round when Geale caught him with a powerful body shot",
+        "score": 3327.4782587055647
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/the-butler-review/2581949/": {
+        "content": "USA TODAY review out of four Stars Forest Whitaker Oprah Winfrey John Cusack Mariah Carey Vanessa Redgrave Cuba Gooding Jr Robin Williams",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/mlb/2013/08/17/red-sox-broadcaster-jerry-remy-blasts-son-jared-remy-charged-with-murder/2668027/": {
+        "content": "Jerry Remy said he could not describe his disgust and remorse over the allegations against his son Jared Remy is charged with murder and domestic assault and battery in stabbing death of his girlfriend",
+        "score": 1197.0000745740062
+      },
+      "http://www.usatoday.com/story/sports/ufc/2013/08/17/chael-sonnen-submits-mauricio-shogun-rua-ufc-fight-night-26/2668319/": {
+        "content": "Chael Sonnen submitted Mauricio Rua with a guillotine choke late in the first round In typical Sonnen fashion he then immediately called out longtime rival Wanderlei Silva",
+        "score": 1048.415489975858
+      },
+      "http://www.usatoday.com/story/tech/personal/2013/08/18/tech-now-back-to-school-laptop-smartpen-wifi-ipad/2649637/": {
+        "content": "Top computer picks include MacBook Air Sony Vaio Pro Wi Fi Smartpen records digital copies of writing",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/wnba/2013/08/18/san-antonio-silver-stars-phoenix-mercury-seattle-storm-indiana-fever/2668409/": {
+        "content": "The Silver Stars handed the Mercury their first loss since interim coach Russ Pennell took over Danielle Adams and Danielle Robinson scored 20 points each for the Silver Stars",
+        "score": 969.8860812017109
+      },
+      "http://www.usatoday.com/story/sports/mlb/2013/08/18/adam-laroche-home-run-nationals-beat-braves-15-innings/2668413/": {
+        "content": "Adam LaRoche hit a tiebreaking solo home run to lead off the top of the 15th inning for the Nationals Jason Heyward hit two homers for the Braves including a two run shot in the ninth to send it to extras",
+        "score": 795.9328449698745
+      },
+      "http://www.usatoday.com/story/sports/ncaaf/bigten/2013/08/17/penn-state-jerry-sandusky-joe-paterno-nittany-lions-abuse-case-victim-settlement/2668183/": {
+        "content": "The civil claim brought by Victim 5 has been settled A report says the settlement is for several million dollars",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > div.double-wide.asset-double-wide > div.article-metadata-wrap > div.article-metadata > aside.comp.story-highlights > ul.hlt > li.hlt-item": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "double-wide",
+            "asset-double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comp",
+            "story-highlights"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "hlt"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "hlt-item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 50.920985263571936,
+    "pages": {
+      "http://www.usatoday.com/story/news/politics/2013/08/17/obama-golf-larry-david/2667983/": {
+        "content": "Obama ends vacation golfing with HBO s Larry David",
+        "score": 73.2494814128386
+      },
+      "http://www.usatoday.com/story/news/nation/2013/08/17/hunter-alaska-bear-mauling/2667641/": {
+        "content": "Hunter rescued after northern Alaska bear mauling",
+        "score": 92.397696850928
+      },
+      "http://www.usatoday.com/story/news/nation/2013/08/17/ntsb-ups-crash/2668157/": {
+        "content": "NTSB No problem with controls in fatal UPS crash",
+        "score": 43.724271726889754
+      },
+      "http://www.usatoday.com/story/sports/mls/2013/08/18/federico-higuain-two-goals-columbus-crew-shut-out-toronto-fc/2668421/": {
+        "content": "Roundup Higuain scores twice to lift Columbus by Toronto",
+        "score": 75.3679934159999
+      },
+      "http://www.usatoday.com/story/sports/highschool/2013/08/17/deantre-turman-creekside-high-school-death/2668275/": {
+        "content": "High school player dies from injuries after tackle",
+        "score": 22.255742708244384
+      },
+      "http://www.usatoday.com/story/life/people/2013/08/17/british-police-are-investigating-dianas-death-again/2667705/": {
+        "content": "British police are investigating Diana s death again",
+        "score": 52.31842595944212
+      },
+      "http://www.usatoday.com/story/sports/nfl/2013/08/17/nfl-injuries-miami-dolphins-dustin-keller-deandre-hopkins-houston-texans/2668265/": {
+        "content": "Dolphins TE Dustin Keller suffers gruesome leg injury",
+        "score": 64.22374883508174
+      },
+      "http://www.usatoday.com/story/money/business/2013/08/17/apple-most-valuable-exxon/2666007/": {
+        "content": "Apple regains No 1 most valuable crown",
+        "score": 28.494067333283894
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/jobs-review/2581945/": {
+        "content": "Jobs doesn t really bite into Apple founder s story",
+        "score": 35.40182261226603
+      },
+      "http://www.usatoday.com/story/travel/destinations/2013/08/17/best-college-bars-in-america/2666313/": {
+        "content": "Best college bars in America",
+        "score": 37.2456980826331
+      },
+      "http://www.usatoday.com/story/sports/nfl/broncos/2013/08/17/denver-broncos-derek-wolfe-injury/2668289/": {
+        "content": "Broncos DE Derek Wolfe driven off field in ambulance",
+        "score": 41.892818776521246
+      },
+      "http://www.usatoday.com/story/sports/boxing/2013/08/18/darren-barker-defeats-daniel-geale-ibf-middleweight/2668393/": {
+        "content": "Barker upsets Geale to take IBF middleweight title",
+        "score": 71.40385440943274
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/the-butler-review/2581949/": {
+        "content": "The Butler is mannered and moving",
+        "score": 23.66575359598159
+      },
+      "http://www.usatoday.com/story/sports/mlb/2013/08/17/red-sox-broadcaster-jerry-remy-blasts-son-jared-remy-charged-with-murder/2668027/": {
+        "content": "Red Sox broadcaster blasts son charged with murder",
+        "score": 37.151631573594024
+      },
+      "http://www.usatoday.com/story/sports/ufc/2013/08/17/chael-sonnen-submits-mauricio-shogun-rua-ufc-fight-night-26/2668319/": {
+        "content": "UFC Fight Night Sonnen submits Rua in first round",
+        "score": 49.178262708748846
+      },
+      "http://www.usatoday.com/story/tech/personal/2013/08/18/tech-now-back-to-school-laptop-smartpen-wifi-ipad/2649637/": {
+        "content": "TECH NOW Best back to school gadgets",
+        "score": 19.588514501662427
+      },
+      "http://www.usatoday.com/story/sports/wnba/2013/08/18/san-antonio-silver-stars-phoenix-mercury-seattle-storm-indiana-fever/2668409/": {
+        "content": "WNBA roundup Silver Stars rough up Mercury",
+        "score": 58.30520755864572
+      },
+      "http://www.usatoday.com/story/sports/mlb/2013/08/18/adam-laroche-home-run-nationals-beat-braves-15-innings/2668413/": {
+        "content": "Nationals outlast Braves in 15 on Adam LaRoche s homer",
+        "score": 61.970370486142336
+      },
+      "http://www.usatoday.com/story/driveon/2013/08/17/chevrolet-corvette-racing/2667947/": {
+        "content": "Chevrolet offers sneak peek at new racing Corvette",
+        "score": 62.59410821533012
+      },
+      "http://www.usatoday.com/story/sports/ncaaf/bigten/2013/08/17/penn-state-jerry-sandusky-joe-paterno-nittany-lions-abuse-case-victim-settlement/2668183/": {
+        "content": "Lawyer says first Penn State abuse claim settled",
+        "score": 67.99023450777202
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.asset > h1": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5,
+    "score": 641.0657214377419,
+    "pages": {
+      "http://www.usatoday.com/story/life/people/2013/08/17/british-police-are-investigating-dianas-death-again/2667705/": {
+        "content": "People 2 weeks ago People 2 weeks ago Nation 2 weeks ago Corruption Crime Compliance 04 06 2013 Channel NewsAsia 08 12 2013 Pacific Standard Magazine 08 07 2013 LostLettermen com 06 24 2013",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/mlb/2013/08/17/red-sox-broadcaster-jerry-remy-blasts-son-jared-remy-charged-with-murder/2668027/": {
+        "content": "Sports 6 hours ago Sports 1 day ago Sports 6 hours ago Tennis 2 days ago HOOPSWORLD 1 day ago MMAjunkie com 1 day ago Channel NewsAsia Corruption Crime Compliance",
+        "score": 641.0657214377419
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > div.more-stories-wrap.more > div.more-stories-content > div#outbrain-more-stories > div.OUTBRAIN > div.ob_strip_container > div.ob_container > div.ob_container_recs > a.item-link-container > div.item-container > div.ob-text-content > div.ob-lcolor.strip-rec-link-source": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "more-stories-wrap",
+            "more"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "more-stories-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "outbrain-more-stories",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "OUTBRAIN"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob_strip_container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob_container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob_container_recs"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "item-link-container"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "item-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob-text-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob-lcolor",
+            "strip-rec-link-source"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 52.822948793411875,
+    "pages": {
+      "http://www.usatoday.com/story/life/people/2013/08/17/british-police-are-investigating-dianas-death-again/2667705/": {
+        "content": "What more is there to investigate about the death of Princess Diana British police aren t saying but they re re examining the 1997 car crash",
+        "score": 61.305622780104095
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/jobs-review/2581945/": {
+        "content": "The performances are decent but the film is in the end only a superficial biopic",
+        "score": 36.332287397177545
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/the-butler-review/2581949/": {
+        "content": "The reality based film is both deeply affecting and blatant Oscar bait",
+        "score": 60.83093620295398
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > div.double-wide.asset-double-wide > h2.lead-in": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "double-wide",
+            "asset-double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lead-in"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.6666666666666666,
+    "score": 62.36896608639622,
+    "pages": {
+      "http://www.usatoday.com/story/sports/mlb/2013/08/17/red-sox-broadcaster-jerry-remy-blasts-son-jared-remy-charged-with-murder/2668027/": {
+        "content": "Jared Remy pleaded not guilty to charges of murder and domestic assault and battery Photo Mark Garfinkel The Boston Herald via AP",
+        "score": 34.31450433021668
+      },
+      "http://www.usatoday.com/story/news/politics/2013/08/17/obama-golf-larry-david/2667983/": {
+        "content": "Actor Larry David hit the links Saturday with President Barack Obama not shown at Farm Neck Golf Club in Oak Bluffs Mass on the island of Martha s Vineyard Photo Steven Senne AP",
+        "score": 90.42342784257576
+      },
+      "http://www.usatoday.com/story/tech/personal/2013/08/18/tech-now-back-to-school-laptop-smartpen-wifi-ipad/2649637/": {
+        "content": "The Pebble smartwatch starts at 150 Photo Pebble The StickNFind costs 50 for a pack of two stickers Photo StickNFind",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > div.double-wide.asset-double-wide > div.article-body > aside.wide.single-photo > p": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "double-wide",
+            "asset-double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wide",
+            "single-photo"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 7697.579255101783,
+    "pages": {
+      "http://www.usatoday.com/story/news/politics/2013/08/17/obama-golf-larry-david/2667983/": {
+        "content": "News conference Obama talks about Petraeus taxes 4 more years What to expect of Obama s 2nd term A look at exit polls county by county trends News conference Obama talks about Petraeus taxes 4 more years What to expect of Obama s 2nd term A look at exit polls county by county trends",
+        "score": 7697.579255101783
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > div.full.content-bar > div.head > div.content-bar-block": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "full",
+            "content-bar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "head"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-bar-block"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.6,
+    "score": 17.510575616040835,
+    "pages": {
+      "http://www.usatoday.com/story/news/politics/2013/08/17/obama-golf-larry-david/2667983/": {
+        "content": "Obama and David both attended a sunset cocktail party Wednesday",
+        "score": 20.99852538939964
+      },
+      "http://www.usatoday.com/story/news/nation/2013/08/17/ntsb-ups-crash/2668157/": {
+        "content": "Investigators are trying to determine how much rest the pilots had before the crash",
+        "score": 25.328436022934504
+      },
+      "http://www.usatoday.com/story/sports/nfl/2013/08/17/nfl-injuries-miami-dolphins-dustin-keller-deandre-hopkins-houston-texans/2668265/": {
+        "content": "Raiders rookie CB D J Hayden has been cleared for contact",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/life/people/2013/08/17/british-police-are-investigating-dianas-death-again/2667705/": {
+        "content": "Some people still unwilling to accept a drunk driver verdict",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/money/business/2013/08/17/apple-most-valuable-exxon/2666007/": {
+        "content": "Investors wonder if Apple still has the ability to command premium pricing as competition heats up",
+        "score": 5.691359954657644
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/jobs-review/2581945/": {
+        "content": "Rated PG 13 Runtime 2 hours 2 minutes Opens Friday nationwide",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/mls/2013/08/18/federico-higuain-two-goals-columbus-crew-shut-out-toronto-fc/2668421/": {
+        "content": "Juan Agudelo scored in his return from a knee sprain to help New England blank Chicago 2 0",
+        "score": 6.01986402162968
+      },
+      "http://www.usatoday.com/story/sports/boxing/2013/08/18/darren-barker-defeats-daniel-geale-ibf-middleweight/2668393/": {
+        "content": "Barker dedicated the win to his late brother and said there might be a couple of beers consumed",
+        "score": 14.978661367769954
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/the-butler-review/2581949/": {
+        "content": "Rated PG 13 runtime 2 hours 12 minutes opens Friday nationwide",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/mlb/2013/08/17/red-sox-broadcaster-jerry-remy-blasts-son-jared-remy-charged-with-murder/2668027/": {
+        "content": "Jerry Remy said he and his wife are heartbroken over the senseless and tragic act",
+        "score": 26.491586832740182
+      },
+      "http://www.usatoday.com/story/sports/ufc/2013/08/17/chael-sonnen-submits-mauricio-shogun-rua-ufc-fight-night-26/2668319/": {
+        "content": "Sonnen got his first win since January 2012 and snapped a two fight losing streak",
+        "score": 19.806975105072254
+      },
+      "http://www.usatoday.com/story/tech/personal/2013/08/18/tech-now-back-to-school-laptop-smartpen-wifi-ipad/2649637/": {
+        "content": "Speaker dock provides great sound from smartphone tablet",
+        "score": 8.987196820661973
+      },
+      "http://www.usatoday.com/story/sports/wnba/2013/08/18/san-antonio-silver-stars-phoenix-mercury-seattle-storm-indiana-fever/2668409/": {
+        "content": "Tina Thompson scored 23 points to lead the Storm past the Fever",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/mlb/2013/08/18/adam-laroche-home-run-nationals-beat-braves-15-innings/2668413/": {
+        "content": "Craig Stammen pitched three scoreless inning for the win and Dan Haren got his first career save",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/ncaaf/bigten/2013/08/17/penn-state-jerry-sandusky-joe-paterno-nittany-lions-abuse-case-victim-settlement/2668183/": {
+        "content": "Penn State announced a year ago that it hoped to compensate his victims fairly and quickly",
+        "score": 29.292575029501663
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > div.double-wide.asset-double-wide > div.article-metadata-wrap > div.article-metadata > aside.comp.story-highlights > ul.hlt > li.hlt-item": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "double-wide",
+            "asset-double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-metadata"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comp",
+            "story-highlights"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "hlt"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "hlt-item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 21.225809780713362,
+    "pages": {
+      "http://www.usatoday.com/story/tech/personal/2013/08/18/tech-now-back-to-school-laptop-smartpen-wifi-ipad/2649637/": {
+        "content": "Contributor Jennifer Jolly takes a look at some of the season s top tech products for students heading back to school",
+        "score": 10.601317681000456
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/jobs-review/2581945/": {
+        "content": "Ashton Kutcher plays the iconic innovator and Apple founder Steve Jobs in this biopic",
+        "score": 28.494067333283887
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/the-butler-review/2581949/": {
+        "content": "Forest Whitaker plays a White House butler and former slave who moved presidents and made history in The Butler The film also stars Oprah Winfrey Robin Williams Terrence Howard and Cuba Gooding Jr",
+        "score": 24.582044327855744
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > p.video-desc": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "video-desc"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5,
+    "score": 73.7301560290441,
+    "pages": {
+      "http://www.usatoday.com/story/travel/destinations/2013/08/17/best-college-bars-in-america/2666313/": {
+        "content": "Streetcar ride down St Charles Ave Cheryl DalPozzal cdalpozzal cr",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/driveon/2013/08/17/chevrolet-corvette-racing/2667947/": {
+        "content": "The Corvette Racing C7 R takes a turn at the Rolex Monterey Motorsports Reunion in Monterey California Chevy Racing",
+        "score": 73.7301560290441
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.asset > div.double-wide.asset-double-wide > div.hasendslate.embedded_story-priority-gallery.galleries > div.gallery-viewport.viewport > div.active.horizontal.slide.gallery-viewport-slide > div.gallery-photo-border > div.meta.gallery-viewport-meta > div.gallery-viewport-caption.caption": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "double-wide",
+            "asset-double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hasendslate",
+            "embedded_story-priority-gallery",
+            "galleries"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "gallery-viewport",
+            "viewport"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "active",
+            "horizontal",
+            "slide",
+            "gallery-viewport-slide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "gallery-photo-border"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "meta",
+            "gallery-viewport-meta"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "gallery-viewport-caption",
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 122752.53177821997,
+    "pages": {
+      "http://www.usatoday.com/story/sports/ufc/2013/08/17/chael-sonnen-submits-mauricio-shogun-rua-ufc-fight-night-26/2668319/": {
+        "content": "Chael Sonnen def Mauricio Shogun Rua via submission guillotine choke Round 1 4 47 Travis Browne def Alistair Overeem via KO head kick punches Round 1 4 08 Urijah Faber def Yuri Alcantara via unanimous decision 30 26 30 26 30 27 Matt Brown def Mike Pyle via KO punches Round 1 0 29 John Howard def Uriah Hall via split decision 30 27 28 29 29 28 Michael Johnson def Joe Lauzon via unanimous decision 30 27 30 27 30 25 Michael McDonald def Brad Pickett via submission triangle choke Round 2 3 43 Conor McGregor def Max Holloway via unanimous decision 30 27 30 27 30 26 Steven Siler def Mike Brown via KO punches Round 1 0 50 Diego Brandao def Daniel Pineda via unanimous decision 29 28 29 28 29 28 Manny Gamburyan def Cole Miller via unanimous decision 30 27 29 28 29 28 Ovince St Preux def Cody Donovan via KO punches Round 1 2 07 James Vick def Ramsey Nijem via submission guillotine choke Round 1 0 58",
+        "score": 122752.53177821997
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > div.double-wide.asset-double-wide > div.article-body > ul > li": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "double-wide",
+            "asset-double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 241.23705029630915,
+    "pages": {
+      "http://www.usatoday.com/story/sports/mlb/2013/08/17/red-sox-broadcaster-jerry-remy-blasts-son-jared-remy-charged-with-murder/2668027/": {
+        "content": "Strasburg ejected for throwing behind batter twice Former Yankees outfielder guilty in sex assault case John Lackey sharp to lead Red Sox past Yankees Dec 17 trial for Jennifer Capriati for battery NBA Chat With Jabari Davis 8 17 13 If Nick Diaz uninterested UFC s Tim Kennedy says he ll fight Lyoto Machida Woman jailed 21 months for abusing maid The Jodi Arias Trial Lessons Learned",
+        "score": 241.23705029630915
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > div.more-stories-wrap.more > div.more-stories-content > div#outbrain-more-stories > div.OUTBRAIN > div.ob_strip_container > div.ob_container > div.ob_container_recs > a.item-link-container > div.item-container > div.ob-text-content > div.ob-tcolor.strip-rec-link-title": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "more-stories-wrap",
+            "more"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "more-stories-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "outbrain-more-stories",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "OUTBRAIN"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob_strip_container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob_container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob_container_recs"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "item-link-container"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "item-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob-text-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ob-tcolor",
+            "strip-rec-link-title"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 6.907755278982138,
+    "pages": {
+      "http://www.usatoday.com/story/life/movies/2013/08/15/jobs-review/2581945/": {
+        "content": "Take a look at the films heading to the box office this August complete with trailers reviews clips related stories and more",
+        "score": 6.907755278982138
+      },
+      "http://www.usatoday.com/story/life/movies/2013/08/15/the-butler-review/2581949/": {
+        "content": "Take a look at the films heading to the box office this August complete with trailers reviews clips related stories and more",
+        "score": 6.907755278982138
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > div.secondary-interactives > aside.timeline.interactive > section.header > div.chatter": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "secondary-interactives"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "timeline",
+            "interactive"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "header"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "chatter"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.3333333333333333,
+    "score": 1832.8767241990226,
+    "pages": {
+      "http://www.usatoday.com/story/life/people/2013/08/17/british-police-are-investigating-dianas-death-again/2667705/": {
+        "content": "U K police checking new information on Diana death Is Prince George ready for his first close up Duchess Kate set for first post baby appearance Prince William in Wales for first royal event post baby Man falls from upper deck to death at Braves game",
+        "score": 1832.8767241990226
+      },
+      "http://www.usatoday.com/story/travel/destinations/2013/08/17/best-college-bars-in-america/2666313/": {
+        "content": "10 Midwestern foods you must try Best minor league ballparks 10Best Readers Choice winners",
+        "score": 0.0
+      },
+      "http://www.usatoday.com/story/sports/nfl/2013/08/17/nfl-injuries-miami-dolphins-dustin-keller-deandre-hopkins-houston-texans/2668265/": {
+        "content": "Broncos DE Derek Wolfe driven off field in ambulance NFL doles out fines for first week of preseason action Tom Brady nearly perfect for Patriots after knee injury Browns Barkevious Mingo remains in hospital with bruised lung",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > aside.right > div#taboola-div-text-links-vertical.trc_related_container.trc_spotlight_widget > div.trc_rbox_container > div > div.trc_rbox.text-links-vertical > div.trc_rbox_outer > div#rbox-t2m.trc_rbox_border_elm.trc_rbox_div > div > div.trc_spotlight_item.horizontal.thumbnail_none.origin-default.videoCube > a.item-label-href > span.video-label-box > span.video-label.video-title": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "right"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "trc_related_container",
+            "trc_spotlight_widget"
+          ],
+          "id": "taboola-div-text-links-vertical",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "trc_rbox_container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "trc_rbox",
+            "text-links-vertical"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "trc_rbox_outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "trc_rbox_border_elm",
+            "trc_rbox_div"
+          ],
+          "id": "rbox-t2m",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "trc_spotlight_item",
+            "horizontal",
+            "thumbnail_none",
+            "origin-default",
+            "videoCube"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "item-label-href"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "video-label-box"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "video-label",
+            "video-title"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5,
+    "score": 16.341239202272533,
+    "pages": {
+      "http://www.usatoday.com/story/sports/nfl/broncos/2013/08/17/denver-broncos-derek-wolfe-injury/2668289/": {
+        "content": "Seattle Seahawks middle linebacker Bobby Wagner 54 celebrates a play by Seattle Seahawks defensive tackle Brandon Mebane 92 against the Denver Broncos during the second quarter at CenturyLink Field Joe Nicholson USA TODAY Sports",
+        "score": 16.341239202272533
+      },
+      "http://www.usatoday.com/story/sports/nfl/2013/08/17/nfl-injuries-miami-dolphins-dustin-keller-deandre-hopkins-houston-texans/2668265/": {
+        "content": "Seattle Seahawks middle linebacker Bobby Wagner 54 celebrates a play by Seattle Seahawks defensive tackle Brandon Mebane 92 against the Denver Broncos during the second quarter at CenturyLink Field Joe Nicholson USA TODAY Sports",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > div.double-wide.asset-double-wide > div.article-body > div.hasendslate.embedded_story.galleries > div.gallery-viewport.viewport > div.active.horizontal.slide.gallery-viewport-slide > div.gallery-photo-border > div.meta.gallery-viewport-meta > div.gallery-viewport-caption.caption": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "double-wide",
+            "asset-double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hasendslate",
+            "embedded_story",
+            "galleries"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "gallery-viewport",
+            "viewport"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "active",
+            "horizontal",
+            "slide",
+            "gallery-viewport-slide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "gallery-photo-border"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "meta",
+            "gallery-viewport-meta"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "gallery-viewport-caption",
+            "caption"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 8.987196820661973,
+    "pages": {
+      "http://www.usatoday.com/story/sports/highschool/2013/08/17/deantre-turman-creekside-high-school-death/2668275/": {
+        "content": "Turman had a scholarship offer to play football at the University of Kentucky",
+        "score": 8.987196820661973
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.asset.clearfix.story > div.asset-double-wide.double-wide > div.article-body > aside.comp.first.story-highlights > ul.hlt > li.hlt-item": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "asset",
+            "clearfix",
+            "story"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "asset-double-wide",
+            "double-wide"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comp",
+            "first",
+            "story-highlights"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "hlt"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "hlt-item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 678.6429581412351,
+    "pages": {
+      "http://www.usatoday.com/story/news/politics/2013/08/17/obama-golf-larry-david/2667983/": {
+        "content": "Barack Obama Barack Obama",
+        "score": 678.6429581412351
+      }
+    },
+    "selectors": {
+      "div#overlay > div.transition-wrap > article.clearfix.story.asset > div.full.content-bar > div.head > div.content-bar-block.title > h3.content-bar-heading > a.content-bar-block-link.content-bar-em": [
+        {
+          "classes": [],
+          "id": "overlay",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "transition-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "story",
+            "asset"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "full",
+            "content-bar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "head"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-bar-block",
+            "title"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "content-bar-heading"
+          ],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [
+            "content-bar-block-link",
+            "content-bar-em"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  }
+]

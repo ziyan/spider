@@ -1,0 +1,405 @@
+[
+  {
+    "confidence": 1.0,
+    "score": 72.0679520877302,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4604890/xbox-live-home-gold-xbox-one-game-sharing": {
+        "content": "games gaming family xbox live subscription sharing digital policy xbox one xbox live gold family sharing xbox live home gold xbox family sharing Xbox One Microsoft Home consoles",
+        "score": 23.061744668073665
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "design ban patent injunction patent lawsuit patent infringement Apple Samsung",
+        "score": 121.07415950738675
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > div.column.border-r.c-contain.grid_8.pad-bot0 > div.entry-content.instapaper_body.article-body > div.clearfix.article-meta > ul.clearfix.simplelist.sourcelist > li.clearfix.tags > span > a": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "border-r",
+            "c-contain",
+            "grid_8",
+            "pad-bot0"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body",
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "article-meta"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "simplelist",
+            "sourcelist"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "tags"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 21.13993261240086,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "Apple s award in Samsung trial chopped to 598 million from over 1 billion Judge rules that Samsung did not infringe Apple patents willfully Apple denied permanent sales ban on infringing Samsung products Samsung argues jury foreman was deliberately dishonest in Apple trial Apple rebuts juror misconduct claims says Samsung dropped the ball",
+        "score": 21.13993261240086
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > aside.column.rightcol.border-l2.c-contain.grid_4 > section.storystream-nav > div > div#stream0.active.stream-pane.pane > ul#stream0_updates.updatelist > li.clearfix.article > a": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "rightcol",
+            "border-l2",
+            "c-contain",
+            "grid_4"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "storystream-nav"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "active",
+            "stream-pane",
+            "pane"
+          ],
+          "id": "stream0",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "updatelist"
+          ],
+          "id": "stream0_updates",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "article"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 23549.884930214575,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4604890/xbox-live-home-gold-xbox-one-game-sharing": {
+        "content": "Microsoft had originally planned to let Xbox One users share any games digitally but a backlash over the used games policies and online check forced the company to reverse most of its promising plans Although disc based games can no longer be converted into digitally shareable copies Microsoft is outlining what can be shared this week and it s very similar to how the Xbox 360 works today The reversal of policies may have changed Microsoft s plans but Xbox chief product officer Marc Whitten tells us that most people will use this platform connected and the company still plans to bring back some of the original Xbox One features Xbox One games purchased digitally can be used by all players in a household on an Xbox One Just as discs can be played by any family member today Microsoft will allow Xbox One owners to create a virtual game library that includes different games that family members have purchased digitally Any family member will be able to pick a digital game and sign in with their account even if the original owner is not signed in Xbox One owners will also be able to play digitally downloaded games without being online Essentially Xbox Live digital games are tied to your gamertag but they re also tied to your primary console Despite this Microsoft is not commenting on when features like being able to resell digital games will become available but Whitten says Xbox One s digital vision is going to drive a lot of different business models over time Xbox One owners will be able to use a Microsoft Account as a type of digital passport to sign in and use games on another console A key part of this sharing and cloud powered Xbox Live is a new feature that Microsoft is calling Home Gold Existing Xbox Live Gold members will be able to set up an Xbox One at home and anyone who uses the console will be able to access multiplayer gaming and the entertainment apps even if the main account holder is not signed in or at home An Xbox One owner with an Xbox Live Gold subscription could also log in at a friend s house and everyone on that particular console would then be able to use multiplayer gaming and the entertainment apps while the Gold member is signed in It sounds a little complicated that s because it is but in reality Microsoft is extending its Xbox Live Gold subscription so that you don t have to buy individual subscriptions for each family member On the gaming side it means that friends can use an Xbox One owners console and play online multiplayer with their own gamertag Currently a friend would also have to subscribe to Xbox Live Gold to play online with a gamertag otherwise the friend gets the same gamertag with a number tagged on the end Although Xbox One owners will be able to sign in on other consoles and access their digital games and let friends play them too it won t be like handing a friend an unprotected MP3 that they can play over and over again with no limits Microsoft says existing Xbox Live Gold members won t have to do anything to access the new Home Gold features as they re available as part of the subscription for Xbox One and Xbox 360 consoles Despite the changes not being very different to how things are today with the Xbox 360 Microsoft says it still wants to bring the improved digital sharing features that it has retreated from to the Xbox One in time We are completely committed to the digital vision we laid out and we plan and intend to deliver all the things we said before Microsoft s Yusuf Mehdi tells us Mehdi explains that Microsoft wants to and can do it but it s seeking feedback before any future changes are made You re going to see more of the things that we talked about with digital he confirms including a Family Sharing feature that Microsoft previously revealed as an option to share digital content with family members regardless of console or location Mehdi says Microsoft still has creative pricing models for games and trial games on their list for post launch For now Microsoft is clearly approaching any potential changes with caution to avoid a backlash over policy changes that have left consumers confused by its Xbox One launch so far",
+        "score": 11930.609241616778
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "Long after Apple s victory over Samsung in a patent suit the two companies met again today in court as a panel of judges decides whether to issue a sales ban on over two dozen Samsung devices These phones and tablets were found to use features and designs patented by Apple but so far that decision has only resulted in a major fine for Samsung in December Judge Lucy Koh found that damages were enough for Apple to recoup its losses so an out and out ban wasn t warranted Now Apple has brought its case to the Federal Court of Appeals which is set to make what could be a near final call on the issue Apple s requested ban doesn t mean much in the short term Of the 26 phones and tablets it listed 23 have been discontinued and Samsung has worked to design around Apple s patents in the remaining three Samsung meanwhile says the ban would have little impact on its design process So why does this case matter on either side For its part Apple hopes that getting an injunction will make it easier to bring cases against newer products Taking a quick dig at Samsung s design process Apple attorney William Lee said that a new Samsung device might be almost identical to an old banned one What they re saying to you is the product with this name is off the market he said If it gets the ban Apple would still need to bring more cases but it could have an easier time in court This would hurt Samsung obviously but it s not the company s only fear Any injunction it says would hurt its relationship with retail stores and carriers who would worry about whether they were accidentally selling an infringing product Likewise this could have a major impact on the second ongoing Apple vs Samsung case which should go to trial early next year Though it decisively won the original case Apple is on the defensive here Koh decided Apple hadn t proved its patents were a driving factor in how customers chose phones For Apple to get its injunction it first has to convince the court that this bar was set far too high then make a case for why it meets a different lower standard I don t think that anybody in Apple s position could absolutely prove a major link between a single feature or collection of features and sales said Lee Companies can be required to prove irreparable harm but holding Apple to this standard would be a fundamental change in American patent law he argued But Samsung has steadily claimed that the patents in question weren t major factors when buying a phone There s no proof of any infringement here being a driver much less the driver of consumer demand said Samsung lawyer Kathleen Sullivan During the case Apple presented a report showing how much customers would pay for the extra UI features Samsung copied on phones an extra 100 Sullivan questioned whether the survey itself was relevant an argument that seemed to hold little water with the judges She used the example of one car company copying another s cupholders The fact that I d pay 10 more for a car that I was going to buy anyways doesn t show that it s driving consumer demand she said It still doesn t tell you that the phone with the infringing feature will be chosen over the non infringing product she said Judge William Bryson disagreed It shows that consumers value that feature he said That seems to me to be the very essence of what a driver of demand is He then moved the question from cupholders to something like a hybrid engine which he said could be an important feature even if customers still decided on a cheaper non hybrid one It wouldn t be too surprising to see Koh s earlier decision overturned she and the appeals court have frequently disagreed on when to ban a product Early in the case the court decided she was wrong to let Samsung keep selling devices that arguably infringed on Apple s design Later though it overturned her ban on the Galaxy Nexus saying Apple hadn t proven its universal search was a major sales driver In this case the court won t be deciding whether to temporarily ban something before deciding whether it s infringing it will be making a call after a jury overwhelmingly decided that Samsung did in fact copy Apple And though Samsung s lawyer denied it the judges repeatedly asked whether she was arguing against bans for entire broad classes of lawsuits which would back up Apple s claim of a fundamental change in the law Depending on how convincing the court finds Apple s argument it could either completely uphold Koh s decision or throw it out at which point either company could potentially appeal to the Supreme Court Conversely it could hand the issue back to Koh giving her instructions to consider it further or issue specific injunctions Closure has been slow in coming with this lawsuit but today s hearing marked a step towards the end of at least one part of it",
+        "score": 35169.16061881237
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > div.column.border-r.pad-bot0.grid_8.c-contain > div.entry-content.instapaper_body.article-body > p.pgh-paragraph": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "column",
+            "border-r",
+            "pad-bot0",
+            "grid_8",
+            "c-contain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "instapaper_body",
+            "article-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pgh-paragraph"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 4.852030263919617,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "Apple to judges not banning Samsung products would be a fundamental change in patent law",
+        "score": 4.852030263919617
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.article-entry.hentry.permalink > aside.border-l2.c-contain.column.grid_4.rightcol > section.storystream-nav > div > div#stream0.active.pane.stream-pane > ul#stream0_updates.updatelist > li.active.article.clearfix > a": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-entry",
+            "hentry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "border-l2",
+            "c-contain",
+            "column",
+            "grid_4",
+            "rightcol"
+          ],
+          "id": "",
+          "name": "aside"
+        },
+        {
+          "classes": [
+            "storystream-nav"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "active",
+            "pane",
+            "stream-pane"
+          ],
+          "id": "stream0",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "updatelist"
+          ],
+          "id": "stream0_updates",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "active",
+            "article",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5,
+    "score": 4.852030263919617,
+    "pages": {
+      "http://www.theverge.com/2013/8/9/4604890/xbox-live-home-gold-xbox-one-game-sharing": {
+        "content": "Microsoft committed to original Xbox One plans reveals new Home Gold sharing features",
+        "score": 0.0
+      },
+      "http://www.theverge.com/2013/8/9/4605956/apple-argues-case-for-banning-samsung-products-before-federal-court": {
+        "content": "Apple to judges not banning Samsung products would be a fundamental change in patent law",
+        "score": 4.852030263919617
+      }
+    },
+    "selectors": {
+      "div#super > div#container > div#container-content > article.hentry.article-entry.permalink > header > h1#stream_title.headline.entry-title.instapaper_title": [
+        {
+          "classes": [],
+          "id": "super",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "container-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hentry",
+            "article-entry",
+            "permalink"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "headline",
+            "entry-title",
+            "instapaper_title"
+          ],
+          "id": "stream_title",
+          "name": "h1"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,2685 @@
+[
+  {
+    "confidence": 0.3333333333333333,
+    "score": 13.20888343149322,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "SCOTT WEISS AARON LEVIE MIKKEL SVANE CHRIS KEMP",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/amazons-silk-web-browser-gets-a-whole-new-look/": {
+        "content": "AMAZON",
+        "score": 6.865804771082083
+      },
+      "http://techcrunch.com/2013/08/14/microsoft-acknowledges-outlook-com-messenger-skydrive-outages/": {
+        "content": "MICROSOFT",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "GOOGLE",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "GOOGLE",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/founder-stories-serial-entrepreneur-steven-kirsch-on-building-a-remote-engineering-team/": {
+        "content": "STEVE KIRSCH ONEID MICHAEL ABBOTT",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "PETER DENG INSTAGRAM FACEBOOK",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "HTC CORP",
+        "score": 22.18070977791825
+      },
+      "http://techcrunch.com/2013/08/14/google-for-android-swaps-messenger-for-hangouts-integrates-with-google-drive-more/": {
+        "content": "GOOGLE PLUS",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "CHEGG",
+        "score": 13.391811468573373
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "DRYNC",
+        "score": 10.39720770839918
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "APPLE APPLE",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > div.module-crunchbase > div.configuration-neighbor > div#tabs-crunchbase.ui-tabs.ui-corner-all.container.ui-widget.ui-widget-content > ul.ui-tabs-nav.ui-helper-clearfix.ui-helper-reset.ui-corner-all.ui-widget-header.tab-container > li.ui-state-default.ui-corner-top": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-crunchbase"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "configuration-neighbor"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-tabs",
+            "ui-corner-all",
+            "container",
+            "ui-widget",
+            "ui-widget-content"
+          ],
+          "id": "tabs-crunchbase",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-tabs-nav",
+            "ui-helper-clearfix",
+            "ui-helper-reset",
+            "ui-corner-all",
+            "ui-widget-header",
+            "tab-container"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "ui-state-default",
+            "ui-corner-top"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 0.4005941778735677,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/founder-stories-serial-entrepreneur-steven-kirsch-on-building-a-remote-engineering-team/": {
+        "content": "Oh no It is time to upgrade your flash player Please click the button below",
+        "score": 0.4005941778735677
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.media.module-post-detail > div.body-copy > div#SmartPlayer_0.fmvps-wrapper > div > div": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "media",
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fmvps-wrapper"
+          ],
+          "id": "SmartPlayer_0",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.6923076923076923,
+    "score": 25071.678388742217,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/microsoft-acknowledges-outlook-com-messenger-skydrive-outages/": {
+        "content": "yes my Skydrive has not been uploading pictures taken from my Nokia 920 smartphone since Fri Aug 2nd any suggestions It s on premises not on premise Get a dictionary",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "Glad to see this but just as with Google Now this creates issues for those of us using multiple Google accounts Plenty of us have a personal GMail account and a work account using Google Apps Features like this just don t work well for people like me it s as if each account is crippled and we don t enjoy the full potential Hopefully one day Google will listen and sort this out until then Google Now and these cards while helpful at times are just something to toy with Interesting I could see this being very useful personally and may be overtime what propels me to switch from iOS to Android",
+        "score": 17.19944473732792
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Check out us for best iphoneapplicationdevelopment services where is K 2 I m packing now No wait I m getting a coffee and coming back for another trek This is fantastic nice STUNNING WAY TO GO GOOGLE",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/founder-stories-serial-entrepreneur-steven-kirsch-on-building-a-remote-engineering-team/": {
+        "content": "I agree there is some great talent at Stanford University Steve is lucky enough to have a daughter that gives him inside access to that talent",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "He doesn t look like a rockstar insert negative hipster ironic comment on how foto sharing sites can never be monetized unless they sell out to brand promotions A negative comment does not imply jealousy See http www philolzophy com 2010 12 is youre just jealous a good argument Finally It s nice to see the person behind this amazing products and features Congrats Peter Deng i don t like instagram i find it pointless and only for children and teens what abt photos cheers he is just playing with the title not really saying all works on his own This article is a PR project It is materially meaningless Saurav Tyagi you obviously don t get sarcasm about the title of this post Considering I ve worked at VMWare EMC2 BMC Support Com WebMD I think I have a pretty good idea on how software companies work u obviously dnt knw how a company works Don t fuck it up its hard for me to believe one person working alone builds anything this is myth and stupid Sad to say those features are horrible Mohammad Moa z Y Osama Maghrabi Y Awesome Dennnng he s a smart dude I thought Lucy Zhang and co from Beluga built Messenger If I have to see one more social media post using the word rockstar when referring to tech company employees God I m coming wait Did he work on any other features no one uses Willson Ng did you obviously read the title of this post Perhaps you should read it again of course I know he didn t do it on his own One thing the Messenger and chat and group have nothing original in them so he is the guy who copied I hope he is the one that finally fixed the IM implementation it only took about 5 years It was the joke of all web based IM implementations for years So he s the one who s fucking with people s time and mins Ah he is the one to blame for such horrible features of facebook Dare we say deng P well done to all the negative comments shows how jealous people can get did you read the article If Instagram s primary challenge is monetization how does a person who has built instruments that have limited monetization potential Chat Groups Messenger solve this primary challenge This just seems like they re doubling down on community building and Instagram has a pretty solid community of users with the hope of retention bridging the adolescent segment back to Facebook Proper Do fewer things better You mean like Instagram did before Facebook bought it and added tagging and video It used to do one thing amazingly well and I used it daily Now I barely use it because it s bloated and has lost the original concept And he goes on really nice vacations too He visited Jiro Jiro Dreams of Sushi fame Programmer rockstar or creative rockstar Awesome news Congrats Peter u need to more He is awesome Incidentally I hate those features Hmm so he built all by himself No staff that probably bounced ideas around Hope he got millions for all that work Pleased to meet you Well I think Rudy Huyn is more talented Congrats on building all the things I never use Yandi gulum keten helva",
+        "score": 49469.776790903314
+      },
+      "http://techcrunch.com/2013/08/14/yes-gmail-users-have-some-privacy-heres-what-you-can-expect/": {
+        "content": "Great post I suggest you read this http blog mdsolutions pe 2013 08 what does google know about me html The problem is that Google chose to make a legal argument that would allow them to have humans look at your emails if they want to And legal decisions don t just apply in one instance If a legal precedent is set that there is no expectation of privacy for email communication then other companies could have humans read your email at will If Google wants a special exception for automated electronic scanning only then that s what it should have argued this site has an article about internet privacy and then tries to get you to sign in using the biggest privacy violators there are ROFLMFAO http www theguardian com technology 2013 aug 14 google gmail users privacy email lawsuit Who would be cool with big brother reading all your real mail like you were an inmate Wake up No Yuz Can t Gomorron gubbar The short answer is still misleading Here s the real answer you only have privacy insofar as the powers that be are uninterested in you A soon as you get on some bureaucrat s radar you can kiss your constitutional rights goodbye If you don t pay for Gmail Google reads your email to serve you contextual ads If you do pay for Gmail you re a sucker No we don t You expect us to believe we have any privacy What a joke Really who cares I would rather see ads relating to my internet and email trendsWhy not go one step further and let google maps track when and where you check in on facenook twitter etc so your friends cantrack you or even nqvigate to you if you are meeting up I ll just leave this right here http gawker com 5637234 gcreep google engineer stalked teens spied on chats",
+        "score": 862.7355923362466
+      },
+      "http://techcrunch.com/2013/08/14/made-in-space-makers-of-the-only-3d-printer-in-orbit-answer-some-pressing-questions-about-manufacturing-and-yoda/": {
+        "content": "I ordered a house with a white picket fence on Ganymede When is tech crunch going to do an article on www iChipped com We have been in touch with several of your reporters met with the cake boss and submitted our story and they said publication for out article would be out in September We just want everyone to know we are doing big things and growing helping many people out across the nation with work and repairing iPhones and having fun in the process Looks like they are on a 737 modified for zero gravity parabolic flight B S that s Kaylee from Firefly Another post about 3D printers oh and something NASA is doing Fascinating What s Cheri Oteri doing there VERY COOL Although the guy with the short hair and thumbs up in the bottom right picture looks like he has a boner",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "I have seen it on CodeMink already it first appeared there It is not a patch on the ordinal light spacious minimal Time And Relative Dimension In Space interior Now that s I call it a real easter egg Inside the TARDIS rules I am not able to get pass the main room how come its bigger on the inside AAAAHHHHHHH OMG OH GOOGLE THOU ART NOW DUBBED THE MASTER Just did it with my mobile Thatwas amazing P S Click on the Reviews and read some of the comments just look up the address on google earth The Tardis Just tell me where Zordon is and shut up Kelly Bedard Hmmm can t get it to work with the new Google Maps D Sure looks bigger on the inside VERY cool Now let s link this to Zillow so they can put an estimated price on the TARDIS and I want to see the realtor s description of the property Pool multiple control rooms and humanoid sized dishwasher included Location location location Timey wimey timey wimey timey wimey Jo Cool I love geekery Try this https maps google com maps q layer c z 17 sll 51 492140 0 193029 cid 12502927659667388442 panoid LYc4W m BJQAAAQIt IsCQ cbp 13 121 56930908213091 0 0 ved 0CA8Q2wU sa X ei 17wLUqn1LKLmwAG hoDIAg gl US hl en and click on the picture in the left panel it s like myst lol looks like a dishwasher o O Loving the studio strip lights visible through the roof Hilarious Love this post Thanks for sharing You missed the REALLY big story here The Google employee who got to take these pictures went on a ride in the Tardis Here s proof http www alwayssababa com google employee traveled in tardis fuck off is there really a police call box near Earl s Court I went to college their for a year and never remember seeing it there Maybe its a new addition or perhaps it was just there for a little bit Can anyone local tell me if it s still there Would love to take my son to have a look at it next time we re in London as you just don t see them around these days and it would be so cool to link it up with the google map images awsome That was the best thing I have ever seen on Google maps Damn you re good Yutai Just an FYI I tried this in IE8 and it worked fine It worked perfectly for me with the new Maps preview in Firefox 19 Don t you mean be still my beating heart s It s smaller on the outside Donghee Lucy Hong It is bigger on the inside It s bigger on the inside what this The new Google Maps doesn t have the arrows but there s an image in the bottom imagery bar titled See Inside that takes you Inside Google Maps now bigger on the inside This is Fantastic",
+        "score": 3957.040272568172
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "Hell of Tech Crunch And expensive This is not confusing at all if you understand marketing This is all about branding That commercial rules this is terrifying Here s The Catch Doesn t it mean Hostile Takeover China High Tech Computer is a backronym The founder of HTC is HT Cho You can do the math Someone had to try to out weird the Miley Cyrus music video Troll dolls come to life How about HERES THE CODE as in open source everything you ve got Well you guys can just keep being curmudgeons I thoroughly enjoyed the off beat quirky humor I d remember this ad for a lot longer than I d remember some pretentious douchebaggy Apple commercial that picks fun at the competition The way the mind remembers things through odd image associations Half baked Trite Commercial you mention that this ad doesn t feature any HTC products but there is an HTC One in almost every scene Hipster Troll Carwash Hippie Troll Carwash Horribly Thought out Campaign a little harsh but companies are supposed to tell us what they do and what we should like If it s just for visibility and getting people to talk about them then well done there is hank lol it is breaking bad new season lol Horrible Themed Campaign Horrible Theme Campaign Here s The Change If HTC aren t careful this could turn into a Hot Topical Conversation Held The Car They took our jobs Love the Hipster Troll Carwash These ads are just weird enough to be catchy and it s getting people talking about the brand which is what you hope a marketing campaign will do I like it Head To China hTC LOLL Here sTheCrap This video could ve started with them entering the initial boardroom meeting Ok people focus up I like the idea of figuring out what HTC means because I never knew Don t think I cared but now I do What s good is that it s a simple and fun idea I think that instead of blowing the wad here they should break it up into several spots and turn to Twitter to have users submit their best ideas for what HTC means Produce spots around the most entertaining ideas Have people vote via hashtag This creates a better buzz engagement and people will pay attention when the spots come on Not a bad attempt Nicee HTC Helluva Tramps Crowd brucespringsteen bossfans LOL HTC quietly weird",
+        "score": 149592.02960583902
+      },
+      "http://techcrunch.com/2013/08/14/google-for-android-swaps-messenger-for-hangouts-integrates-with-google-drive-more/": {
+        "content": "I personally don t like the Hangout option I installed it and then quickly removed it to revert to Google Talk on my phone I couldn t see who was online anymore and was blindly messaging folks to see if they were there Nah The real name policy is so foolish that I don t participate in G and Hangouts is abysmally bad at this point Every time android prompts me to update Talk I hit skip Google is definitely not impressing of late I don t see any problems cropping up from deeper integration of Hangouts As a Google Service it will probably only appear as an optional install for most devices as they are based off of AOSP Android rather than Google Android This integration will likely happen primarily out of box within Google Nexus and Google Play variants as well as Motorola Phones They re taking way too long with the Google Voice integration That should have been implemented on Day 1",
+        "score": 1846.3519584158482
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "As long this company doesn t ask for bailouts Unsold books vs money printing supply Replant trees and wait 50 years Perhaps a good service but a truly terrible business The company has burned 195M 55M debt 22M remaining 228M of cash and yet are still at 10 margins and only a 200M run rate So they are still a long way from profitability and aren t growing all fast at all They re likely even further from being cashflow positive since by the very nature of the business they have to buy more books in order to grow This isn t an IPO of liquidity it is an IPO of necessity If they don t get that 150M they are dead within 6 months at the current burn rate and my guess is they ve talked to every growth equity firm on the planet and no one will touch them with a ten foot poll Chegg is an incredibly company a hugely valuable service with a great team Congrats Finally probably good to i p o a s a p b4 this model d e e p 6s",
+        "score": 219.7842192074585
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "Agreed on the lack of research or critical review there are other apps that connect users direct to the retailer s and or purchase of specific wines including WinePoynt While we haven t ramped up yet to the level of others mentioned though we hope to be able to soon WinePoynt has sales integration functionality for 3rd party wine retailers too Plus other cool stuff New iPhone version eta is early September I think of all those times I ve looked at a wine label and thought if only there were some way of finding out what the name vintage and varietal of this wine is Ravens Wood huh well i guess we know who the target market is or maybe isn t Doesn t the target market for this app primarily drink wine that comes with UPC codes to put up with fuzzy pattern recognition of the label Or is a typical user expected to be too drunk to find the UPC my classmate s step mother makes 71 every hour on the laptop She has been out of a job for 5 months but last month her pay was 12191 just working on the laptop for a few hours Read more here www Rush64 m This may be the best TC article title ever https www vivino com this is much better Drync is cool but I prefer Hello Vino It s still the leader in wine apps Finally a decent wine app Smartphone WIne Crunk",
+        "score": 16313.273923007537
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "spooky exactly 366 times the all time low price in 1982 Okay MG If must be such a comfort for Americans that all the money CAN T be spent in America on an American company Mm considering almost all of this gain came from one tweet of a rich investor I m not entirely sure why anyone would be cheering It doesn t represent any real structural strength more a reflex reaction which can vanish almost as quickly Nice press release I m sure Tim appreciates it When did MG change his name And I thought he had work to do at Google Ventures spooky exactly 366 times the all time low price in 1982 Okay MG If must be such a comfort for Americans that all the money CAN T be spent in America on an American company Mm considering almost all of this gain came from one tweet of a rich investor I m not entirely sure why anyone would be cheering It doesn t represent any real structural strength more a reflex reaction which can vanish almost as quickly Nice press release I m sure Tim appreciates it When did MG change his name And I thought he had work to do at Google Ventures",
+        "score": 3366.913691665016
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-article > div.fyre-comment-wrapper > section.fyre-comment-body > div.fyre-comment > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-body"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "fyre-comment"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.7777777777777778,
+    "score": 11287.429126693403,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/amazons-silk-web-browser-gets-a-whole-new-look/": {
+        "content": "Wow very cool indeed I like it www Tactical Anon tk",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "This makes a lot of sense dude I mean like totally Wow www Tactical Anon tk I wonder why you journalists like managers do much and why you do not write about people who MADE all this staff Whenever you write about Google Facebook Microsoft products you always interview schedule fairies but you never interview makers Is it american cult of success It is considered to be successful if one does not code if one doesn t know technologies But attends 5 meetings every day ehat this cult of VPs directors managers all about Please write about people who know ho to make staff",
+        "score": 24.575084441143915
+      },
+      "http://techcrunch.com/2013/08/14/yes-gmail-users-have-some-privacy-heres-what-you-can-expect/": {
+        "content": "I did not know that the state of New York was monitoring me when I claimed my weekly unemployment benefits using a virtual private network app vpn from a public wifi hotspot They immediately terminated my benefits because my i p address showed me being in another country even though I have never left the lower 48 in my entire life It s been two months now without income and I am now homeless carless and hungry My child support is in default and I cannot afford my three b p meds I used a v p n to protect me from public strangers but now I know that my privacy is going to end about one second from now when I press this send button that one deems a supreme court decision to be antiquated has no bearing whatsoever on the fact that it is being held up as an applicable supreme court decision by siting this decision google is not claiming that no humans are scanning one s emails what they are doing is declaring themselves the de facto second of three parties in all email traffic between users of gmail and any other service then they posit that they are entitled to scan such content even if the non google user has no notice that sending content to a gmail user is a forfeiture of any expectation of privacy it is my personal opinion that those with whom i interact should have blanket coverage under my rights to privacy when interacting with me that google justifies its action not via clear user policies but by what the writer here has deemed an antiquated court decision is disingenuous at best that they can point to nothing of support since the dawning of the use of email is quite telling i do have a say in what mail my office intern can and cannot open and my clients can rest assured that that instruction is subject to my discretion and not that of my very capable intern further for my intern to approach one of my clients with some sort of arrogant you a ought to know attitude would be grounds for termination just sayin as for the gmail user this is not about what laws he or she may or may not be breaking as honest or dishonest citizens it is about the laws a dishonest company policy might be breaking when harvesting private information from my personal correspondence there is much to be said for prophylactic outrage every unfair law this nation has sought to repeal got it s foothold by lazy people saying well it doesn t affect me until it does Ok this seems so simple to me a 99 9 of email that 99 9 of people send they don t care whether google or the NSA or GCHQ reads Frankly if you want to spy on me forwarding lolcatz pictures to my mum go ahead you re wasting your own time b In the few cases where privacy SHOULD be respected i e commercially sensitive or legal emails which could do damage falling into the wrong hands gmail should provide an encrypt button next to send When this is clicked gmail checks a server for a public key attached to the recipient email address and encrypts two versions one with your public key so you can read it again later and one with the recipients private key doing all on the client side in javascript This would keep you emails hidden and then storing these encrypted versions on google servers is fine because no one can read them apart from you and the recipient This would solve the privacy problem for when you really need it and people could stop fearing google and gmail and we can all get on with our lives Dear Google I m British and I expect my e mail to be treated like my Royal Mail SCAROSCANCT Come on mailvelope is NOT that hard www mailvelope com It s openPGP and the simplest way I ve seen in a long time I would say it s not completely MOM friendly yet but darn it s simple enough for a LOT Of people Privacy has been dead for much longer than most people realize Why all the fuss now From Nineteen eighty four Privacy is a very valuable thing Are we all look into renting the room above the antique shop Well then beware of the old renter don t know why but wherever I see Google in any techcrunch news all I see is they moan about google and google failed or did something wrong It s all visible that you see google as enemy so what you say about them may never be an open minded opinion for me your war is not my war so I wouldn t even care if you are right or not while you see google as enemy It s all up to paranoid speculation at the moment Go home AOL you re drunk OK so I m one of 400 million people who took the bait Google lured us in with to use Gmail Shame on all of us for being naive and thinking that Google only had our best interests in mind Now we re shocked shocked to learn that they had their best interests in mind all along We are here now and the question is what do we do about it First realize we re never going back to the way things were That s why I urge everyone to make themselves as small a target as possible Start encrypting phone calls emails text messages browsing Stop storing files on Dropbox in Gmail attachments in iCloud etc and stash everything in a Cloudlocker www cloudlocker it which stays in your house where they still need a warrant to look inside What a shame it s come to this but we ll need more tools like these to safeguard the little bit of privacy that s left Privacy is a problem proportional to how much it is abused Much coverage has been given to the automated collection and usage of the information to imply that somehow it is not as much of a privacy issue as opposed to be seen by a human There is a huge problem with this reasoning In an increasingly automated world that is getting more and more connected one s information can be increasingly mis used for things that humans did earlier or the use wasn t possible earlier because of lack of aggregation and cross indexing For example with the information available from just use of Google apps alone one can foresee the following kind of abuses from companies that work with Google 1 The availability of a restaurant reservation for your desired time within the Google ecosystem depends on your previous habits what areas you have visited what you have purchased via Google where you live etc No identifiable information is necessary for this to happen 2 Your records of local travel and addresses visited tied to your phone can be subpoenaed for affecting actions against you 3 Auto insurance quotes may depend on your specific travel patterns collected while using Google maps if you ask for a quote via automated means within the same ecosystem The list goes on Not saying any of the above will necessarily happen but none of the privacy rules would prevent it if there was vested interest in doing so The problem is that the world envisioned by Kurzweil assumes a benevolent entity doing this information gathering and aggregation with no commercial interests by the entity in other uses of the system This assumption cannot be taken for granted with Google Google could very well offer the same personalization as a paid service to you with no vested interest in making that information available for any other commercial use and contractually obligated to you for using it only for the specific things you have authorized without getting additional permission But that is not their business model because there is more money in using that information while the services are free The question is where does one draw the line as to what usage is OK and what is an intrusion into privacy Everyone draws a line somewhere The problem is there is no transparency when such information is used for a specific purpose or a new purpose and so users cannot make decisions whether to participate in such an ecosystem So the only choices are for one to be totally paranoid or totally permissive which is not good for users More importantly it is not good for Google in the long term which is likely to face a hysterical backlash at some point to affect even its limited use when a specific usage becomes public and is considered an abuse by reasonable people The only guard against this at the moment appears to be the much stricter European privacy regulations that hold back what Google can do globally as a uniform service",
+        "score": 63465.00112816779
+      },
+      "http://techcrunch.com/2013/08/14/made-in-space-makers-of-the-only-3d-printer-in-orbit-answer-some-pressing-questions-about-manufacturing-and-yoda/": {
+        "content": "3D Printing For Dummies Today 60 Off Free Shipping Shop Now GOTO http www amazon com exec obidos ASIN 1118660757 08 2013 20 Next Day Shipping Guaranteed Upload 3D CAD Compare Prices Find Your Stratasys 3D Printer Now Stratasys has 370 followers on Google",
+        "score": 92.82496362031972
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "For anyone who didn t recall what the Tardis is was http en wikipedia org wiki TARDIS That is so cool I wonder how many eggs Google has Love it that one is outside Earls Court Underground I m with AndrewPincock The show is pretty atrocious But a lot of people consider my interests to be awful so no one is really truly correct in this situation But one thing that I will not back down from is my opinion on the series fan base I have been to several comic conventions As you know those places are LOADED with weirdos and super fans alike But the Who fans are by far the most obnoxious most socially awkward and rude people I ve ever met Here is a link that takes you directly into Tardis regardless of which version of Google Maps you use https www google com maps ll 51 492072 0 061798 spn 0 37579 1 056747 cbp 12 21 73 0 31 55 layer c panoid RA6ASa5hdRQAAAQIt7zt7Q cbll 51 492159 0 193002 t m z 11",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "amazing yrrrr try this also http autotechbits com HTC ONE MINI PHOTO LEAKED http www suhelsayyad com 2013 07 at htc one mini press photo leaked html Did you just say That s what makes for an effective ad It s 2 minutes long which means it was made for viewing and sharing by bloggers It will never even run as a TV ad Somebody else here suggests signing Downey was a coup Giving him millions of dollars from your ad budget was a coup This was simply an ad agency creative director s wet dream Hubris Takes Chutzpah Yes and no on this Signing up Downey Jnr is a coup for HTC beats the hell out of the Alicia Keys and Blackberry tie up and there s something interesting about the direction of this campaign the execution of the idea leaves a bit to be desired From a practitioner s point of view HTC haven t displayed the courage of their convictions and the repeated shoe horning of the HTC One into the ad feels forced Then again as an awareness raising effort it s probably a heck of a lot cheaper than the method that Samsung chose being taken to court by Apple for ripping off the iPhone",
+        "score": 12382.882566100592
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Does the writer know nothing about this subject matter You talk about 150M being a multiple of something The 150M is a of the company for sale what they are selling in the public market The multiple should be the entire value of the company eule of thumb is that you sell 10 in an IPO Lets say 5 in an IPO and 5 in a follow on offering That puts the valuation at 3B which is roughly in line with real market multiples You can pay me 20 for this lesson later This also means that if they do burn through this 150M they can still raise plenty more Not sure what the trolling is all about it is a great company with sound fundamentals and some good folks a level edit below the leadership No one else in the space has accomplished what they have and they re quickly becoming a force to be reckoned with on e online learning It s business relating heavily to the education market is seasonal Turning to its profitability Chegg doesn t have any of that However after a long period of increasing losses it does appear to be hemorrhaging less money than before which is evidenced by its growing revenue and flat expenses this helps margins It s hard to take the author of this article seriously when he doesn t know how to use proper spelling or grammar This article reads like a basic high schooler s class report TechCrunch is a great site but this journalist is awful",
+        "score": 779.7363159774548
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "Actually I m pretty disappointed in this article It seems like a fluff piece where the writer applied almost no critical thought or industry research There are plenty of competitive if not better companies not just apps in the wine space and beyond In fact there are clearly those way ahead of pack like Vivino and Delectable arguably the favorite of those actually in the wine industry Why is TC losing the pedigree and ability to actually offer an opinion insights instead of just publishing whatever a company s pitch deck has in it Please attempt to be more professional instead of a hack site and prove that you actually can be a source of real meaningful news and insights Odd to see zero mention of Vivino just raised 10M and has been doing this for quite some time http www rudebaguette com 2013 07 17 winetech gets a boost as balderton invests 10m in the danish yelp for wine app vivino Then again a US startup NEVER copies a European one right",
+        "score": 804.2783452990691
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "good work by admin try this one too http autotechbits com b i Buy on speculation and sell on news i b Once again Wall Street proves its run by greedy idiots My ex wife had a theory as to why prices went up It was called b i A Bee Farts in Ireland and Other Pricing Decision Inputs i b Dear TechCrunch We don t want to know when a stock goes up or down We want to know what start ups are doing If I wanted speculative advice on stocks I would go somewhere else Thanks Jonathan good work by admin try this one too http autotechbits com b i Buy on speculation and sell on news i b Once again Wall Street proves its run by greedy idiots My ex wife had a theory as to why prices went up It was called b i A Bee Farts in Ireland and Other Pricing Decision Inputs i b Dear TechCrunch We don t want to know when a stock goes up or down We want to know what start ups are doing If I wanted speculative advice on stocks I would go somewhere else Thanks Jonathan",
+        "score": 1462.7054832474475
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-source-5.fyre-comment-article > div.fyre-comment-wrapper > section.fyre-comment-body > div.fyre-comment > p > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-body"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "fyre-comment"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 112653.03664365289,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Weiss believes that the next franchises will be built around three areas mobile SaaS and cloud infrastructure Cloud storage giant Box has been doubling down on mobile acquiring HTML5 document embedding service Crocodoc in its efforts to allow businesses to store and manage documents anywhere As Levie has told us in the past Box is trying to invent what real time collaboration looks like in the mobile era and could be eying a public offering as early as next year Zendesk s SaaS help desk support ticketing application has seen tremendous success as the key to service efficiency for any customer facing company As of last year monthly recurring revenue has grown five fold since 2010 for the company While Zendesk s bread and butter has been catering to small to medium sized businesses of late Svane and the company has been pulling major enterprise deals including L Oreal Groupon and many others In terms of cloud infrastructure there may be no better person to disrupt this sector than Nebula s Kemp who was the former CTO of NASA and the co founder of OpenStack With Nebula Kemp and his team are building an infrastructure that allows businesses to deploy large private cloud computing infrastructures Together Weiss Levie Svane and Kemp are going to talk about how they are building their own franchises and attempting to build lasting institutions in the enterprise world The conference starts September 7 and runs until the 11th at our favorite location the San Francisco Design Concourse Stay tuned for more speaker announcements and a few surprises to be announced soon General admission tickets and exhibitor packages are currently available Buy tickets here Our sponsors help make Disrupt happen If you are interested in learning more about sponsorship opportunities please contact our sponsorship team here sponsors techcrunch com",
+        "score": 15349.565933503389
+      },
+      "http://techcrunch.com/2013/08/14/amazons-silk-web-browser-gets-a-whole-new-look/": {
+        "content": "One of the new features rolling out today has to do with how Silk appears to first time users Like many apps do today the browser now launches with a brief tutorial to explain its features Instead of screens you have to swipe through Silk adopts the overlay interface which darkens the background to point out various navigational buttons like the Action Menu Reading View and Left Panel slider for example which is where users can view their Most Visited pages Bookmarks and History But one of the bigger changes especially for current users is Silk s new Start page something Amazon revamped based on user studies and feedback Previously this page featured links to users bookmarks and browsing history as well as a Starter section which showed the most visited pages trending pages across all Kindle Fire devices and a list of selected sites Some users didn t care for the way what other people were surfing and reading on their Kindle Fires took up so much of their own new tab interface and Amazon didn t let users customize this screen which was an annoyance too Not surprisingly Amazon found that the Most Visited links and direct URL entry were the two most commonly used navigational options so it has now made them more prominent in the new tab view The other links like Trending section Bookmarks and History section are now tucked away off to the left side of the screen which is also where you can access Settings These pages received updates too with Bookmarks now offering two view modes a single column of entries with thumbnails or a grid view with larger thumbnails Other more subtle tweaks include performance improvements a rounding of the tabs on the tab bar to make it easier for users to see where tabs stop and start and updated browser controls This includes making the Reading View the view that strips out the related links and ads to leave only the text easier to find than before as well as an improved full screen view Combined the refreshed feature set makes for a notable overhaul of Silk s browser which has never really been one of the stronger mobile browsers out there at least in terms of its user interface despite its long touted cloud accelerated underpinnings That s been frustrating since a good browser is a key component to any tablet experience but even if you only use your Fire for reading the browser is still needed in order to browse and checkout books from your local library s website in many cases The refreshed Silk browser is rolling out now and Amazon has also published a Silk Developer Guide along with today s release",
+        "score": 91664.61086718945
+      },
+      "http://techcrunch.com/2013/08/14/microsoft-acknowledges-outlook-com-messenger-skydrive-outages/": {
+        "content": "The latest from Microsoft s Live com status board remember Live com is simple Outlook com SkyDrive and the People services are all on the rocks at the moment Some such as ZDNet s Mary Jo Foley are not impacted by the issue My account for whatever it is worth is also working However Microsoft has officially noted the issues stating that users might not be able to see all their email messages And under the SkyDrive tab it plainly notes that services such as Hotmail Messenger and SkyDrive are experiencing technical difficulties Microsoft promises an update by 11 this morning so we should know more soon This sort of issue is somewhat pedestrian and normal provided that it doesn t bang on for too long So if Microsoft manages to right its server ship quickly no worries But if the outage continues for more than a few hours or so it undermines Microsoft s cloud premise that users should turn to hosted services over on premise or on desktop solutions Microsoft has put SkyDrive into an increasingly important position in the Windows environment boosting its integration points in Windows 8 1 over an already intertwined Windows 8 experience To have it go down is subpar For live updates on the status head here In the meantime this will make you smile Top Image Credit Todd Bishop",
+        "score": 4658.414280730253
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "All of these features are opt out and will roll out to all users in the U S in English over the next few days It ll be available on all platforms with the exception of Google Glass and you can of course also use Google s voice recognition to ask your questions If you are familiar with the Gmail Search Field Trial and of course Google Now you ll have seen some of these cards pop up in your searches over the last few months As a Google spokesperson told me though today s launch only graduates a subset of the Gmail Search Field Trial and for now the trial will continue as a test bed for new features for those who want to remain on the cutting edge Over time Google expects to bring more of the Field Trial feature to the rest of Google Search Except for the photos a feature that was previously only available on Google and which analyzes your uploads to Google Photos Google extracts most of this information from your Gmail inbox Given the privacy implications and sensitive nature of some of this information it s interesting that Google has decided to make this feature opt out As Google notes all your information is sent over encrypted connections and only visible to you when you are signed in to Google You can always turn it off completely look for the new Private results section in your search settings or on a per session basis by clicking on the globe icon at the top of the search results page You can find a list of some of the queries that Google can now answer here Below are a few examples As Google tells me the system is quite flexible in recognizing questions and even though these queries are guaranteed to bring up the new search results similarly phrased questions may also work",
+        "score": 7216.805716897307
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Besides being an awesome time killer for when you have some hours to spare the Trek microsites give Google a way to show off a number of its products all in one place It combines YouTube Maps Maps tours HTML5 web technologies slideshows and more which also has the benefit of revealing some of the greater potential of Chrome as a browser Currently the Street View Treks microsites cover the Burj Khalifa Iqaluit Mt Everest the Grand Canyon the Great Barrier Reef the Amazon Basin and the Kennedy Space Center Additional tours for the Galapagos Islands and Venice are said to be coming soon by Google too Remember that Google is looking for organizations to help out with the Google Trekker program so your views could be among the next featured on these microsites Sometimes it may be tempting to question the utility of Google s more ambitious initiatives but as these microsites show they sure can paint a pretty picture",
+        "score": 7805.6889583845505
+      },
+      "http://techcrunch.com/2013/08/14/founder-stories-serial-entrepreneur-steven-kirsch-on-building-a-remote-engineering-team/": {
+        "content": "Steven Kirsch whose past startup successes include Mouse Systems FrameMaker and Infoseek says that people are very hard to change and admits that he has made many of the same mistakes at all of the companies he has led over the years This is why according to Kirsch hiring the right people who have complementary skills is important In our discussion Kirsch also talks about how he learned that recruiting top talent who look at the world in new and interesting ways is crucial He explains how early in his career he tended to under hire opting instead to bring people up with the company But in recent years he has looked to companies like Tesla and Google to learn that the best employees build the best products This is why for OneID Kirsch hired an engineering team in Austin Watch to hear his advice on creating culture at a company that is growing in two separate locations Editor s Note Michael Abbott is a general partner at Kleiner Perkins Caufield Byers previously Twitter s VP of Engineering and a founder himself Mike also writes a blog called uncapitalized You can follow him on Twitter mabb0tt",
+        "score": 1343.4683484631419
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "Deng doesn t get up on stage as much as Zuck Sheryl and Chris Cox do but he s responsible for much of what we know as Facebook today He previously interned at Microsoft and later worked on product at Google before joining Facebook in 2007 Here s a quick run down of what Peter s worked on since then After all that he still wasn t sick of the Facebook ecosystem telling me he never planned to leave the company Instead Deng wants to bring the insights from building these products to Instagram as he reports to its CEO Kevin Systrom That s great news for Facebook which has seen a lot of talented veterans move on to launch their own startups after doing their duty to the social network Naomi Gleit Facebook s longest running employee other than Mark Zuckerberg will now be leading the messaging team Peter previously managed Moving to Instagram will give Deng a fresh set of puzzles to solve while still going to work at 1 Hacker Way He explains Systrom said about Deng Instagram s potential to transport us and offer new perspectives endeared it to Deng There are these guys in Russia and Indiana that I follow I don t know them they re not my friends but that I get to see the world through their lens is truly amazing he tells me And Instagram s ability to preserve our memories took on new meaning for Deng this morning as he had his phone stolen He recounts At first I was kind of pissed for 30 seconds But then I thought Hey it s just a tool to make my life better I can get another tool and my life stays the same All my moments are already on Instagram and Facebook We have photo sync Nothing is actually on the phone It s just the window While Deng has great product vision himself he tells me his job isn t to meddle with Instagram s focus on simplicity embodied in its design philosophy Do Fewer Things Better The team is 50 people now up from 13 when it was bought by Facebook in April 2012 It s not a startup scrambling to define itself It s a tool used by hundreds of millions of people where a little more efficiency makes a huge difference Deng concludes I want to fulfill the vision of the path it s already on One of the biggest things I can do is try to hire the product team to fulfill the vision Mark wanted to make the world more open and connected We want to capture and share the world s moments It s a beautiful mission We make the world just a little more compassionate with each other and understanding of each other s points of view",
+        "score": 61104.134201693465
+      },
+      "http://techcrunch.com/2013/08/14/yes-gmail-users-have-some-privacy-heres-what-you-can-expect/": {
+        "content": "Short Legal Background That Tells You Nothing About Your Privacy Expectations In a class action lawsuit Google is seeking to dismiss charges that it illegally mines users data The search giant cites an antiquated 1979 Supreme Court decision Smith v Maryland to cover its digital behind in a technical catch all strategy to avoid any legal culpability The language of the decision may freak you out Just as a sender of a letter to a business colleague cannot be surprised that the recipient s assistant opens the letter people who use web based email today cannot be surprised if their emails are processed by the recipient s e mail provider in the course of delivery Indeed a person has no legitimate expectation of privacy in information he voluntarily turns over to third parties But in practice Google has a vested interest in respecting at least some privacy Here s what you can expect Google Robots Scan Content And Serve You Ads If you ve been sending out a lot of wedding invitations there s a good chance you ve been seeing advertisements for event planners dress makers and couples therapy and for the truly prepared divorce lawyers Google automatically scans the content of email to optimize its ad targeting According to Google no human can actually read the content of your messages Google Can Share Your Data Across Services Such As Maps and Docs Google s new Director Of Engineering futurist Ray Kurzweil told me that he wants to build a search engine that knows what users want before they do In order to give you up to date traffic directions on your commute shopping recommendations and tailored search answers it s helpful to know where you live where you visit and what you ve searched for in the past Unless you re an avid Kanye West fan the term north west probably refers to an actual region of the world So last year Google adopted a major change to its privacy policy that allowed cross reference data across all of the services from Maps to Docs This is the subject of the class action lawsuit Plaintiffs claim that this gives Google too much information and violates your privacy rights While Plaintiffs have not established any harm if it freaks you out for Google to combine your Maps and Gmail searches you should probably jump ship Personally I can t figure out how this hurts me so I m staying with Gmail Google Must Comply With Government Spying Requests We know for a fact that Google is legally required to hand over the content of emails if they receive a court order For instance the Feds snagged the emails of famed WikiLeaks informant Herbert Snorrason If you are a threat to the U S government and they know it you might want to rethink your email habits Thanks to Edward Snowden we now know spy agencies around the world allegedly also scan the records and content of most major email providers We do not know whether they can read any of this information without a court order or which agencies they can share it with It s all up to paranoid speculation at the moment No Alternatives Against Government Surveillance If you re freaked out about government spying there really aren t any alternative email providers Last year two of the most popular secure email services preemptively shut down their web apps after admitting they could not keep users information safe from the government There are some more sophisticated read complicated ways of encrypting email on your own but you ll need to coordinate with your respondents and they can t use any major email service provider Short Answer Yes You Have Privacy From Humans",
+        "score": 21530.104730936007
+      },
+      "http://techcrunch.com/2013/08/14/made-in-space-makers-of-the-only-3d-printer-in-orbit-answer-some-pressing-questions-about-manufacturing-and-yoda/": {
+        "content": "That company has a great sense of humor and wanted to talk a little bit more about their product and the printer In fact they explained that they are currently working on a closed loop system that would allow the astronauts to reuse plastic over and over again in the printer I spoke with the founders of Made In Space Aaron Kemmer Jason Dunn and Mike Chen about their new product and what it feels like to be the first additive manufacturing company to send their product into orbit TC Let s start with this question How can you be sure the printer won t become sentient and lock the pod bay doors Made In Space I m sorry Dave I m afraid I can t answer that TC Tell us about the printer Why is it special MIS Our printer will be the first device to ever manufacture anything off of the Earth This milestone is significant because up until now everything that is needed in space must be made on Earth and then launched to space which is an incredibly expensive and time consuming process This is a tremendous impediment to progress in the space industry and is also one of the primary factors that makes space missions so risky You really need to plan for every contingency ahead of time In 2014 When our 3D printer starts manufacturing parts on demand in space NASA and other space entities will have the capability to repair their space missions on the fly if something goes wrong Astronauts will be able to create new parts as needed on the station in a matter of minutes or hours instead of waiting months to years for the needed parts to arrive on station This will speed up development time accelerate the innovation cycle and increase the safety of space missions TC Why didn t you just buy a Makerbot and fly it into space MIS When we started to bring additive manufacturing to space we originally looked at adapting commercial off the shelf 3D printers In 2011 we conducted in depth testing of off the shelf 3D printers in microgravity The results of our testing clearly indicated that no 3D printers designed for terrestrial use were fit for the space environment There are quite a number of significant differences between a 3D printer designed for use on Earth and one that is fit for use in space We have had the good fortune of working with and employing quite a few highly experienced aerospace engineers with extensive experience creating space ready hardware Not only does the printer need to work in extended microgravity but it needs to be capable of surviving the extreme forces imposed on it during launch and meet a very long list of NASA imposed requirements to fly hardware to the International Space Station These are just some of the developments we ve needed to make It s taken us thousands of pages of internal documentation just to describe the engineering work we ve done to get our printer ready for space TC How are you associated with NASA NASA spins of companies now Like Tang MIS NASA is one of our customers It is common for NASA to contract private companies to provide products and services for space exploration A good example is Boeing One of the most featured in the media these days is SpaceX who is now delivering goods for NASA to the Space Station on their rockets The new space industry is getting more exciting with every passing year where startups in Silicon Valley like Made in Space are working with NASA and other groups to push the envelope of what is possible with space missions TC How did you test this for space travel MIS The process starts with an extensive suite of modeling and simulation tools that we use to run analyses on every detail of our design The primary way that we test our hardware for space travel though is by repeatedly testing our systems in an actual microgravity environment on parabolic aircraft flights through the NASA Flight Opportunities Program To date we ve accumulated over 500 parabolas of zero gravity manufacturing time We also put our printer through rigorous environmental testing with NASA at Marshall Space Flight Center where we test everything from electromagnetic interference and radiated emissions the ability to survive launch vibrations crew safety and just about everything in between We now have over a dozen full time employees and a team of 20 people TC So this is very important will they ever print a Yoda in space MIS We asked our team and they told us that they would try We told them do or do not there is no try",
+        "score": 853834.6860948383
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "Tucked away in a single streetview image of what appears to be a mere police box a newly discovered Google Maps easter egg lets you go inside the TARDIS If you don t know what the TARDIS is come on How to do it I figured it d just be a single static shot but no you can click all around the control room complete with StreetView s signature panoramas navigating all the way down below the main platform for a glimpse at the heart of the TARDIS itself You don t seem to be able to click into any of the hallways that s probably for the better really as we don t want any of you getting lost Can t find your way in Look for these arrows Man I wish I had something like this back when I was building my AR TARDIS While I based the innards of mine on the last generation control room figuring out how everything fit together in the interior from one off set shots and screengrabs alone was a bit of a pain Note Word is that this easter egg doesn t always work in the new Google Maps interface which many of you have likely opted into by now No problem just open the link in Chrome s incognito mode or whatever your browser s private browsing mode might be called and you should be back at the old Google Maps interface without requiring you to tweak any settings or log out of Google Nice find Jalopnik",
+        "score": 4412.821133009839
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "As Natasha explained when HTC released the teaser HTC is asking almost rhetorically what their initials stand for Like Humongous Tinfoil Catamaran and Hipster Troll Carwash says the ad You get it Hyper Tongue Circus Hello Titicaca Coast Hippopotamuses Tightroping Carelessly There s good reason for this Despite being a major player in Android since the very beginning HTC isn t a household name These clever and mostly silly acronyms will act as a sort of mnemonic for the brand Because really anything is better than High Tech Computer Corporation which is what the initials really stand for Not very catchy",
+        "score": 2091.9836153596907
+      },
+      "http://techcrunch.com/2013/08/14/google-for-android-swaps-messenger-for-hangouts-integrates-with-google-drive-more/": {
+        "content": "At this year s Google I O conference Google announced it was uniting Gmail and Google chat under the new branding of Hangouts a then already widely rumored attempt by Google to bring all its communications efforts under one roof Over the years Google had launched a multitude of services for messaging and video chat including Google Talk Google Messenger and Google Hangouts for example The company began the move to Hangouts by launching a standalone Hangouts app on iOS and Android to replace Google Talk and it offered an upgrade from Google Talk to Hangouts within Gmail But until now Messenger still hung on in the main Google application on both iOS and Android Now it s getting pulled out for good Google says that all users Messenger conversations will be available for download later today including text and photos through Google Takeout Messenger s removal is not the only major change in the Google app update The company says that it s also rolling out a few other top requested features including support for Google Apps for Business features improved account and page switching more location sharing controls pinpoint and city level by Circle and access to Google Drive photos and videos This latter upgrade between the storage and social services being another much needed integration Pull to refresh functionality has also been added Details on all these features were posted earlier today on where else Google Not everyone is happy with Google s changes as of late Many reviews on the Google Play store report issues with crashes while others complain about problems with the location service following the shutdown of Google Latitude Hangouts haven t impressed everyone either overheard at the TechCrunch office today for example was this scoff the only thing that s good about new Hangouts is the wider variety of emoticons Ouch Though Google has run messaging and chat services for some time it s lately been having to play catch up in a world where mobile messaging apps like Facebook Messenger Whatsapp LINE Kakao Talk WeChat and others from startups like Path Snapchat MessageMe Viber and more have found traction worldwide with millions of users each in tow Those numbers may still pale next to SMS though We ve heard whispers that Google is far from done in terms of this communications consolidation and may integrate Hangouts more deeply into the Android OS in the future beyond just adding SMS integration making it more like the Google version of Apple s iMessage for example a great selling point for consumers but something that could be potentially tricky in terms of Android OEMs who have been their own messaging interfaces and services like Samsung s ChatOn The updated version of Google for Android is rolling out now An iOS update will follow",
+        "score": 25525.396062680124
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "The company had revenue of 149 million in 2010 172 million in 2011 and 213 million in 2012 In the first half of 2013 Chegg had revenue of 117 million That compares favorably to its first half 2012 revenue of 92 million So Chegg is growing its topline at a material if modest pace If we take its first half 2013 revenue double it and contrast that to its full year 2012 revenue Chegg will have grown its net revenue by just under 10 percent However in comparing first year halves Chegg is experiencing faster revenue growth It s business relating heavily to the education market is seasonal The company notes this fact directly That said Chegg is not experiencing any sort of hyper growth Turning to its profitability Chegg doesn t have any of that However after a long period of increasing losses it does appear to be hemorrhaging less money than before which is evidenced by its growing revenue and flat expenses this helps margins The company had a net loss of 26 million in 2010 38 million in 2011 and 49 million in 2012 For the first half of 2013 Chegg lost 21 million This compares favorably with its first half year loss in 2012 of 32 million How much cash does the company have Some but not much compared to how much it wants to raise The 150 million maximum that the company wants to raise through its initial public offering is a massive multiple on its current 22 million in cash and equivalents So Chegg is looking to dramatically bolster its war chest through its offering The company has lost a total of 170 million to date Chegg has raised a total of 195 million to date not including 55 million in raised debt A final caveat of Chegg s filing The company is taking advantage of the JOBS Act allowing it to avoid disclosing as much as other companies might as it is classified as an emerging growth company As it notes the rules allow it to take advantage of certain exemptions from reporting requirements that are applicable to other public companies that are not emerging growth companies Those exemptions include reduced disclosure obligations regarding executive compensation and compliance with the auditor attestation requirements of Section 404 of the Sarbanes Oxley Act Less red tape sure but also less disclosure to investors That increases risk What Chegg must prove to investors is that its growing revenue can be converted to profits However given the scale of its raise compared to its current cash position it doesn t appear to be in a hurry to reach the black Top Image Credit Tom Caswell",
+        "score": 161070.88744348276
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "Whether it be a fine Night Train vintage or a delectable bag of Boone s Drync allows you to scan the label of nearly any grand cru and bring up a detailed listing of the vintage varietal and brand It also allows you to order the wine right from your cellphone ensuring the party doesn t stop even three to five business days after it began To reach their goal of bringing a robotic sommelier to every phone the company has raised 900 000 from angel investors including Mark Hastings Andrew Moss and Jack Remondi The founders Bill Kirtley and Brad Rosen are entrepreneurs with years of app experience in their wineskins Rosen built and sold companies to Phillips Motorola and Cisco among others and Kirtley worked at Apple on the Safari and Calendar products How does Drync work Think of it as Shazam for booze Once you scan the bottle the system reads the label and tries to match it in its 1 7 million bottle database You can then order the wine right through the app Considering most other wine apps focus on collection of labels for later perusal Drync is a godsend We are focused on mobile wine commerce enabling people to buy the wines they like at the moment they try them with their iPhone We think of it as a Shazam or SoundHound for wine Other players in the space create social networks for wine give people ways to log the wines they drink offer wine pairings or provide generic or limited selections of wines to order online said Rosen To test the app I pulled out a few bottles of fine tipple to scan and or drink at 9am My initial tests didn t look very promising I scanned a Ravenswood Chardonnay non vintage 9 99 at Kroger and Drync brought up everything except the chard However some of the team began scanning other wines they had lying around their hovels and got far better results For example our own Romain Dillet was able to identify a fine French bouteille without issue Rosen explained that many of Ravenswood labels are nearly exactly the same and that they ve gotten to about 80 correct in their scanning process Even if it doesn t scan in the proper bottle however you can always consult the image it took to update the database and help the system return the proper vino next time I especially liked the checkout system which allowed you to scan your credit card and have it shipped to your house in a few clicks We at Drync are the first to connect the experiential part of drinking wine with the purchase using your phone to capture and purchase nearly any wine instantly at the point of consumption said Rosen Just as we don t all have the same taste in food the idea of a wine being good is largely subjective With Drync you can buy based on your taste Rosen and the team have been working on the app for years starting in 2008 when it was a simple wine scanner Now however by adding a bit of cash and a lot of back end smarts they have an app that true connoisseurs can use and love It s an enormous market with a lot of potential We ve been brewing this platform and model for 5 years and are really excited about our positioning said Rosen So next time you end up in a culvert howling away at the filthy songs of your fathers and going blurp blurp in between as it might be a filthy old orchestra in your stinking rotten guts remember to pull out your iPhone for a bit of the old Drync You ll most probably be glad you did if you remember in the morning",
+        "score": 211225.48782243073
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "On June 27 of this year shares closed at 393 78 roughly back to their December 2011 level Today s price represents a 27 8 percent increase in just 48 days The last time shares were trading above 500 was on January 23 It proves once again that AAPL still suffers from a lot of volatility and uncertainty Even though net profit is still declining Apple reported good numbers for its Q3 2013 fiscal quarter After multiple mixed quarters the company managed to beat the analysts expectations Retrospectively the market reaction to Q1 and Q2 numbers was certainly too harsh when you compare it to the actual numbers Apple still has more than 145 billion in cash and a comfortable market position iPhone sales are still growing 20 percent year over year Moreover Apple started a huge 100 billion share buyback program last year and investors are starting to see the effects As a result earnings per share has mechanically increased over time Investor Carl Icahn revealed yesterday that he was lobbying to accelerate the share buyback program It drove the stock up 4 percent in just minutes proving that investors are confident that Apple shares are a good component in their portfolios When it comes to products back in April Apple s growth prospects were gloomy the magical period of double digit growth for both sales and profit was over Yet the analysts expectations led to distortion For years they were setting the bar too high for units and market share and too low for profit and sales Now that analysts are more accurate the perception of Apple is changing at the same time While the company didn t release any new product after WWDC aside from the updated MacBook Air the keynote was received very well by commentators The star of the show was iOS 7 It proved that Apple was still ready to make radical changes to its core products without fearing backlash In other words Apple is still innovating But customers are now more likely than ever to buy old iPhone models Apple needs to contract the production costs of old models or to find an alternative In addition to releasing a new flagship iPhone it will probably release a new low cost iPhone probably the iPhone 5C As the company is now switching to another product strategy with the iPhone 5C right around the corner it will become easier to understand Apple numbers in the coming months Similarly to the iPad mini Apple now wants to capture another segment of the smartphone market with a low cost iPhone and to stay dominant when it comes to profit As a consequence the company could fight back in the market share war with Android It would give a great perception boost to Apple More importantly investors are already taking into account the upcoming iPhone event On September 19 of 2012 shares peaked at 702 10 following a very strong summer This year the stock is experiencing the exact same scenario and it will be interesting to see the trend following the new iPhone releases On June 27 of this year shares closed at 393 78 roughly back to their December 2011 level Today s price represents a 27 8 percent increase in just 48 days The last time shares were trading above 500 was on January 23 It proves once again that AAPL still suffers from a lot of volatility and uncertainty Even though net profit is still declining Apple reported good numbers for its Q3 2013 fiscal quarter After multiple mixed quarters the company managed to beat the analysts expectations Retrospectively the market reaction to Q1 and Q2 numbers was certainly too harsh when you compare it to the actual numbers Apple still has more than 145 billion in cash and a comfortable market position iPhone sales are still growing 20 percent year over year Moreover Apple started a huge 100 billion share buyback program last year and investors are starting to see the effects As a result earnings per share has mechanically increased over time Investor Carl Icahn revealed yesterday that he was lobbying to accelerate the share buyback program It drove the stock up 4 percent in just minutes proving that investors are confident that Apple shares are a good component in their portfolios When it comes to products back in April Apple s growth prospects were gloomy the magical period of double digit growth for both sales and profit was over Yet the analysts expectations led to distortion For years they were setting the bar too high for units and market share and too low for profit and sales Now that analysts are more accurate the perception of Apple is changing at the same time While the company didn t release any new product after WWDC aside from the updated MacBook Air the keynote was received very well by commentators The star of the show was iOS 7 It proved that Apple was still ready to make radical changes to its core products without fearing backlash In other words Apple is still innovating But customers are now more likely than ever to buy old iPhone models Apple needs to contract the production costs of old models or to find an alternative In addition to releasing a new flagship iPhone it will probably release a new low cost iPhone probably the iPhone 5C As the company is now switching to another product strategy with the iPhone 5C right around the corner it will become easier to understand Apple numbers in the coming months Similarly to the iPad mini Apple now wants to capture another segment of the smartphone market with a low cost iPhone and to stay dominant when it comes to profit As a consequence the company could fight back in the market share war with Android It would give a great perception boost to Apple More importantly investors are already taking into account the upcoming iPhone event On September 19 of 2012 shares peaked at 702 10 following a very strong summer This year the stock is experiencing the exact same scenario and it will be interesting to see the trend following the new iPhone releases",
+        "score": 220961.4944451943
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.7272727272727273,
+    "score": 34.88861938367366,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Tags Disrupt",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/microsoft-acknowledges-outlook-com-messenger-skydrive-outages/": {
+        "content": "Tags Microsoft",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "Tags google search google gmail search field trial",
+        "score": 11.57350002458255
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Tags google trek Street View Maps",
+        "score": 19.408121055678468
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "Tags instagram facebook peter deng",
+        "score": 29.112181583517703
+      },
+      "http://techcrunch.com/2013/08/14/made-in-space-makers-of-the-only-3d-printer-in-orbit-answer-some-pressing-questions-about-manufacturing-and-yoda/": {
+        "content": "Tags space 3d printing",
+        "score": 8.317766166719343
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "Tags google Google Maps Doctor Who",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "Tags htc",
+        "score": 22.18070977791825
+      },
+      "http://techcrunch.com/2013/08/14/google-for-android-swaps-messenger-for-hangouts-integrates-with-google-drive-more/": {
+        "content": "Tags google plus android communications Messaging",
+        "score": 9.468494456526468
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Tags chegg IPO",
+        "score": 15.117903903284057
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "Tags apple aapl NASDAQ Tags apple aapl NASDAQ",
+        "score": 163.9302781011624
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div.single-tags": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "single-tags"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.13333333333333333,
+    "score": 31.19699644451106,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "next story Valve s Former Steam Guru Jason Holtman Lands At Microsoft To Spearhead Its PC Gaming Efforts",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/amazons-silk-web-browser-gets-a-whole-new-look/": {
+        "content": "next story Founder Stories Serial Entrepreneur Steven Kirsch On Building A Remote Engineering Team",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/microsoft-acknowledges-outlook-com-messenger-skydrive-outages/": {
+        "content": "next story Google Search Gets More Personal Now Lets You Find Your Flight Info Reservations Photos And More",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "next story Apple Shares Hit 500 Again Representing A Massive 100 Billion Market Cap Gain In 48 Days",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "next story Online Tutoring Platform InstaEDU Raises 4 Million Series A Led By Battery Ventures",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/founder-stories-serial-entrepreneur-steven-kirsch-on-building-a-remote-engineering-team/": {
+        "content": "next story Online Textbook Rental Firm Chegg Files For 150 Million IPO",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "next story Made In Space Makers Of The Only 3D Printer In Orbit Answer Some Pressing Questions About Manufacturing And Yoda",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/yes-gmail-users-have-some-privacy-heres-what-you-can-expect/": {
+        "content": "next story Amazon s Silk Web Browser Gets A Whole New Look",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/made-in-space-makers-of-the-only-3d-printer-in-orbit-answer-some-pressing-questions-about-manufacturing-and-yoda/": {
+        "content": "next story Yes Gmail Users Have Some Privacy Here s What You Can Expect",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "next story eShares Raises 1 8 Million In Funding To Replace Paper Stock Certificates With Electronic Shares At Private Companies",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "next story Say Hello To Slack The Newest Enterprise Social Network And The Latest Effort From Flickr Co Founder Stewart Butterfield s Tiny Speck",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-for-android-swaps-messenger-for-hangouts-integrates-with-google-drive-more/": {
+        "content": "next story Microsoft Acknowledges Outlook com Messenger SkyDrive Outages",
+        "score": 9.305206478445447
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "next story A16Z s Scott Weiss Box Zendesk And Nebula To Talk About Winning In The Enterprise At Disrupt SF",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "next story Google For Android Swaps Messenger For Hangouts Integrates With Google Drive More",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "next story Facebook s Star Manager Peter Deng Becomes Instagram Director Of Product To Do Fewer Things Better next story Facebook s Star Manager Peter Deng Becomes Instagram Director Of Product To Do Fewer Things Better",
+        "score": 53.088786410576674
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div.post-prev-next-links > div.next": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-prev-next-links"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "next"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.14285714285714285,
+    "score": 791.7251526755459,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/amazons-silk-web-browser-gets-a-whole-new-look/": {
+        "content": "3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/microsoft-acknowledges-outlook-com-messenger-skydrive-outages/": {
+        "content": "3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/founder-stories-serial-entrepreneur-steven-kirsch-on-building-a-remote-engineering-team/": {
+        "content": "2 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/yes-gmail-users-have-some-privacy-heres-what-you-can-expect/": {
+        "content": "12 hours ago 19 hours ago 2 days ago 2 days ago 2 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/made-in-space-makers-of-the-only-3d-printer-in-orbit-answer-some-pressing-questions-about-manufacturing-and-yoda/": {
+        "content": "2 days ago 3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "10 hours ago 1 day ago 2 days ago 2 days ago 2 days ago 2 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago",
+        "score": 1216.377734565157
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-for-android-swaps-messenger-for-hangouts-integrates-with-google-drive-more/": {
+        "content": "3 days ago 3 days ago 3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "1 day ago 2 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "2 days ago 2 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 2 days ago 2 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago",
+        "score": 367.07257078593494
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-source-5.fyre-comment-article > div.fyre-comment-wrapper > header.fyre-comment-head > time.fyre-comment-date": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-head"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fyre-comment-date"
+          ],
+          "id": "",
+          "name": "time"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.9090909090909091,
+    "score": 68.47128656670859,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Scott Weiss is a partner at Andreessen Horowitz Formerly he was co founder and CEO of IronPort Systems which was acquired by Cisco in 2007 While at Cisco Weiss was the vice president and general manager of the Security Technology Group Previously he was also a managing director and entrepreneur in residence at IdeaLab where he met IronPort co founder Scott Banister Prior to IdeaLab Weiss was employee no 13 at Hotmail and was responsible for all partnership and revenue generating",
+        "score": 58.68194427628258
+      },
+      "http://techcrunch.com/2013/08/14/amazons-silk-web-browser-gets-a-whole-new-look/": {
+        "content": "Amazon com Inc AMZN is a leading global Internet company and one of the most trafficked Internet retail destinations worldwide Amazon is one of the first companies to sell products deep into the long tail by housing them in numerous warehouses and distributing products from many partner companies Amazon directly sells or acts as a platform for the sale of a broad range of products These include books music videos consumer electronics clothing and household products The majority of Amazon s",
+        "score": 16.42255427536344
+      },
+      "http://techcrunch.com/2013/08/14/microsoft-acknowledges-outlook-com-messenger-skydrive-outages/": {
+        "content": "Microsoft founded in 1975 by Bill Gates and Paul Allen is a veteran software company best known for its Microsoft Windows operating system and the Microsoft Office suite of productivity software Starting in 1980 Microsoft formed a partnership with IBM allowing Microsoft to sell its software package with the computers IBM manufactured Microsoft is widely used by professionals worldwide and largely dominates the American corporate market Additionally the company has ventured into hardware with consumer products such as the Zune and",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "Google provides search and advertising services which together aim to organize and monetize the world s information In addition to its dominant search engine it offers a plethora of online tools and platforms including Gmail Maps YouTube and Google the company s extension into the social space Most of its Web based products are free funded by Google s highly integrated online advertising platforms AdWords and AdSense Google promotes the idea that advertising should be highly targeted and relevant to users thus providing",
+        "score": 21.61735862601258
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Google provides search and advertising services which together aim to organize and monetize the world s information In addition to its dominant search engine it offers a plethora of online tools and platforms including Gmail Maps YouTube and Google the company s extension into the social space Most of its Web based products are free funded by Google s highly integrated online advertising platforms AdWords and AdSense Google promotes the idea that advertising should be highly targeted and relevant to users thus providing",
+        "score": 1.8800145169829425
+      },
+      "http://techcrunch.com/2013/08/14/founder-stories-serial-entrepreneur-steven-kirsch-on-building-a-remote-engineering-team/": {
+        "content": "Steve has been at the forefront of tech innovation for more than three decades He invented and owns a patent on an early version of the optical mouse founded Infoseek one of the first Internet search engines and helped create FrameMaker a popular publication tool used by technical writers Sick of having 357 different usernames and passwords Steve founded OneID in September 2011 The company is backed by Vinod Khosla s Khosla Ventures He helped rid the world of junk",
+        "score": 7.198534590848498
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "Peter Deng is the Director of Product Management at FaceBook He works on core products messages groups photos locations and events Previously he worked in Product Marketing at Google on developer products",
+        "score": 28.323839380538892
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "HTC Corp TAIEX 2498 produces smartphones running the Android and Windows Phone 8 operating systems for themselves and as an OEM to other manufacturers Since launching its own brand in late 2006 the company has introduced hundreds of HTC branded products around the world Its current flagship product is the Android running HTC One Founded in 1997 by Cher Wang Chairwoman and H T Cho former CEO who is a chairman now HTC made its name as the company behind many",
+        "score": 30.498475944637594
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Chegg an online textbook rental company was inspired by Osman Rashid and Aayush Phumbhra s frustration with the policies and procedures of their own university s bookstore Osman and Aayush knew there had to be a better solution one that worked for students professors and publishers alike Chegg was launched at Iowa State University in 2005 as a hyper local classifieds directory In fall 2007 Chegg introduced their revolutionary textbook rental service Chegg now offers its services to more than 6 400 universities and",
+        "score": 52.48288751649205
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "Drync builds mobile lifestyle solutions that simplify the way people research and remember specialty products Drync s first product Drync Wine enables people to research and remember wine using their mobile phone Drync scours the web of nearly 1 million wine listings in real time to identify a user s exact wine Find the wine read professional ratings and reviews save to a virtual cellar with a photo rating or tasting notes or purchase immediately",
+        "score": 40.84131062513816
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "Started by Steve Jobs Steve Wozniak and Ronald Wayne Apple has expanded from computers to consumer electronics over the last 30 years officially changing their name from Apple Computer Inc to Apple Inc in January 2007 Among the key offerings from Apple s product line are Pro line laptops MacBook Pro and desktops Mac Pro consumer line laptops MacBook Air and desktops iMac servers Xserve Apple TV the Mac OS X and Mac OS X Server operating systems the iPod the Started by Steve Jobs Steve Wozniak and Ronald Wayne Apple has expanded from computers to consumer electronics over the last 30 years officially changing their name from Apple Computer Inc to Apple Inc in January 2007 Among the key offerings from Apple s product line are Pro line laptops MacBook Pro and desktops Mac Pro consumer line laptops MacBook Air and desktops iMac servers Xserve Apple TV the Mac OS X and Mac OS X Server operating systems the iPod the",
+        "score": 426.7659459147891
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > div.module-crunchbase > div.configuration-neighbor > div#tabs-crunchbase.ui-tabs.ui-corner-all.container.ui-widget.ui-widget-content > div#tabs-crunchbase-1.ui-corner-bottom.panel.ui-widget-content.ui-tabs-panel > div.leftgreen > div.body-copy > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-crunchbase"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "configuration-neighbor"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-tabs",
+            "ui-corner-all",
+            "container",
+            "ui-widget",
+            "ui-widget-content"
+          ],
+          "id": "tabs-crunchbase",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-corner-bottom",
+            "panel",
+            "ui-widget-content",
+            "ui-tabs-panel"
+          ],
+          "id": "tabs-crunchbase-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "leftgreen"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.2857142857142857,
+    "score": 571.3604187327991,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "Rafael Martinez",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/made-in-space-makers-of-the-only-3d-printer-in-orbit-answer-some-pressing-questions-about-manufacturing-and-yoda/": {
+        "content": "CostaVerdeLambdas If this was my job im fairly certain i d have a boner pretty much all day every day Cant really fault the guy for being excited about his job",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "SophiaWildman Gurung Of it s not there anymore The Doctor wouldn t hang around for that long he s probably long gone by now SophiaWildman Gurung Joking aside it does actually exist It was built in 1996 and actually has a working emergency telephone in it http h2g2 com approved entry A13746215 Audience Killer Loop EXTERRRRMINATE I can safely say just from reading your post the problem isn t with the Doctor Who fanbase Audience Killer Loop You have obviously never met a hardcore soccer fan Hardcore Dr Who fans no matter how obnoxious socially awkward or rude they might be will probably never punch you in the face if you tell them that you dislike their favorite Doctor So yeah give me hardcore sci fi fans over hardcore sports fans any day of the week Audience Killer Loop You must have met a very few people in your life then I know groups that are far far worse than mere fans Consider Politicians for one",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "JonM at the same time its nice to have a change from worbly raises 5m in series A or snooblor a new way to get thing done JonM Apple is a tech company This is techcrunch Nobody made you open the article read it and then comment JonM In one way or the other most tech startups are also heavily impacted by the financial state of the overall market defined by the big players Although I agree that there is maybe too much focus on shares and the like I do see the relevance of this article AhrMon of course he will after all they published exactly what he wrote JonM at the same time its nice to have a change from worbly raises 5m in series A or snooblor a new way to get thing done JonM Apple is a tech company This is techcrunch Nobody made you open the article read it and then comment JonM In one way or the other most tech startups are also heavily impacted by the financial state of the overall market defined by the big players Although I agree that there is maybe too much focus on shares and the like I do see the relevance of this article AhrMon of course he will after all they published exactly what he wrote",
+        "score": 1105.8933559270213
+      },
+      "http://techcrunch.com/2013/08/14/google-for-android-swaps-messenger-for-hangouts-integrates-with-google-drive-more/": {
+        "content": "squealingrat I definitely have to agree with you there Google Voice has been sorely in need of attention for a very very long time",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "LG123 My god ACTUAL analysis in the comments Great post And you re right the textbook rental market has always been a bit shaky and Chegg hasn t done much to improve the current models",
+        "score": 36.82748153857678
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "real ben hicks I assume he means that there aren t any direct references to their products There is of course product placement Trace Cohen That s actually what most advertising is for No one wants to watch an advert which describes the advantages of one brand If someone cares enough about that they ll research it on the internet themselves or ask friends or a sale assistant Rami Kayvan They took our jibs Rockson Kiang except it isn t insert HTC One",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-article > div.fyre-outer-comment-container > div.fyre-comment-container.fyre-comment-replies-indent.fyre-comment-replies > article.fyre-comment-source-5.fyre-comment-article > div.fyre-comment-wrapper > section.fyre-comment-body > div.fyre-comment > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-outer-comment-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-container",
+            "fyre-comment-replies-indent",
+            "fyre-comment-replies"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-body"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "fyre-comment"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.16666666666666666,
+    "score": 308.159689054859,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "2 days ago 3 days ago 3 days ago 3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "2 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/yes-gmail-users-have-some-privacy-heres-what-you-can-expect/": {
+        "content": "3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/made-in-space-makers-of-the-only-3d-printer-in-orbit-answer-some-pressing-questions-about-manufacturing-and-yoda/": {
+        "content": "3 days ago 3 days ago 3 days ago 3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago",
+        "score": 308.159689054859
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "2 days ago 2 days ago 3 days ago 3 days ago 3 days ago 3 days ago 3 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-source-6.fyre-comment-article > div.fyre-comment-wrapper > header.fyre-comment-head > time.fyre-comment-date": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-6",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-head"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fyre-comment-date"
+          ],
+          "id": "",
+          "name": "time"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.6666666666666666,
+    "score": 10.46038911860195,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "The first version of Facebook Chat",
+        "score": 6.695905734286686
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "Flights Ask Google Is my flight on time to get info on your upcoming flights and live status on your current flights",
+        "score": 14.224872502917215
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "Click this link",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > ul > li": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.2222222222222222,
+    "score": 90.90177678867383,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/yes-gmail-users-have-some-privacy-heres-what-you-can-expect/": {
+        "content": "3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/made-in-space-makers-of-the-only-3d-printer-in-orbit-answer-some-pressing-questions-about-manufacturing-and-yoda/": {
+        "content": "3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "4 days ago 4 days ago 4 days ago 4 days ago 4 days ago 4 days ago",
+        "score": 11.99583564659919
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "3 days ago 3 days ago 3 days ago 4 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-for-android-swaps-messenger-for-hangouts-integrates-with-google-drive-more/": {
+        "content": "3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "2 days ago 3 days ago 3 days ago 3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "3 days ago",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "2 days ago 3 days ago 3 days ago 3 days ago 3 days ago 2 days ago 3 days ago 2 days ago 3 days ago 3 days ago 3 days ago 3 days ago 2 days ago 3 days ago",
+        "score": 169.80771793074845
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-article > div.fyre-outer-comment-container > div.fyre-comment-container.fyre-comment-replies-indent.fyre-comment-replies > article.fyre-comment-source-5.fyre-comment-article > div.fyre-comment-wrapper > header.fyre-comment-head > time.fyre-comment-date": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-outer-comment-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-container",
+            "fyre-comment-replies-indent",
+            "fyre-comment-replies"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-head"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "fyre-comment-date"
+          ],
+          "id": "",
+          "name": "time"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.13333333333333333,
+    "score": 3.712595980731252,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "previous story Online Textbook Rental Firm Chegg Files For 150 Million IPO",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/amazons-silk-web-browser-gets-a-whole-new-look/": {
+        "content": "previous story Yes Gmail Users Have Some Privacy Here s What You Can Expect",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/microsoft-acknowledges-outlook-com-messenger-skydrive-outages/": {
+        "content": "previous story Google For Android Swaps Messenger For Hangouts Integrates With Google Drive More",
+        "score": 4.6526032392227235
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "previous story Microsoft Acknowledges Outlook com Messenger SkyDrive Outages",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "previous story Tapastic Hits A Million Monthly Uniques And Gets An Additional 650 000 In Funding From Adam D Angelo And Others",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/founder-stories-serial-entrepreneur-steven-kirsch-on-building-a-remote-engineering-team/": {
+        "content": "previous story Amazon s Silk Web Browser Gets A Whole New Look",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "previous story Apple Shares Hit 500 Again Representing A Massive 100 Billion Market Cap Gain In 48 Days",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/yes-gmail-users-have-some-privacy-heres-what-you-can-expect/": {
+        "content": "previous story Made In Space Makers Of The Only 3D Printer In Orbit Answer Some Pressing Questions About Manufacturing And Yoda",
+        "score": 2.772588722239781
+      },
+      "http://techcrunch.com/2013/08/14/made-in-space-makers-of-the-only-3d-printer-in-orbit-answer-some-pressing-questions-about-manufacturing-and-yoda/": {
+        "content": "previous story Facebook s Star Manager Peter Deng Becomes Instagram Director Of Product To Do Fewer Things Better",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "previous story Grades io Launches To Simplify And Beautify College Classroom Management",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "previous story RichRelevance Acquires Precog To Add Large Scale Analytics Engine To E Commerce Personalization Platform",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-for-android-swaps-messenger-for-hangouts-integrates-with-google-drive-more/": {
+        "content": "previous story Drync A Wine Scanning App Raises 900K To Help You Get Crunk",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "previous story Founder Stories Serial Entrepreneur Steven Kirsch On Building A Remote Engineering Team",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "previous story London Startup Pocket Shop Launches 1 Hour Supermarket Delivery Service Powered By Local Pedestrian Pickers",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "previous story Google Search Gets More Personal Now Lets You Find Your Flight Info Reservations Photos And More previous story Google Search Gets More Personal Now Lets You Find Your Flight Info Reservations Photos And More",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div.post-prev-next-links > div.prev": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-prev-next-links"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "prev"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 522.7350896117005,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "I see a lot of the same challenges that Facebook faced in getting to where it is today How do you build a product organization how do you understand how people use the product how do you make the product relevant internationally Fo me it was an exciting time to come to a team that s probably going to face a lot of these challenges and make it less painful to go through some of these things Peter joins in good company too as we ve built out our Instagram leadership team to take on the challenges of building a world class product and company Through our many discussions it s clear his unique skills in building out product management teams creating scalable structures for building new products and his experience building out Facebook News Feed and Messenger make him the perfect fit for our company Ever since we worked at Google together many years ago I ve been able to call Peter a good friend and now years later I m thrilled we get to work together again on the Instagram that we all know and love",
+        "score": 1009.5578599033184
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "The fourth quarter is typically our highest performing quarter as we are recognizing a full quarter of revenue from peak volumes in August and September and partial revenue from peak volumes in December while the second quarter typically is our lowest performing quarter as students start their summer vacations and the volume of textbook rentals and sales and purchases of supplemental materials and Homework Help decreases",
+        "score": 35.91231932008242
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.image.module-post-detail > div.body-copy > blockquote > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "image",
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "blockquote"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.4,
+    "score": 45140.780247896146,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "Christian Andresen management rockstar",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Mike19 You probably work for Chegg or have a family member that does which is why you re defending them I don t care either way what happens to Chegg as I m an objective observer Do you honestly believe that sales of digital textbooks won t increasingly eat into the revenues from sales of physical textbooks in the next 5 10 years Chegg can and does sell rent digital textbooks but they have to compete with lots of other much larger companies in that area such as Amazon Apple Google etc who have much larger marketing budgets and access to many more people to sell to As physical textbooks are phased out Chegg will lose more and more of it s market share This is definitely not a stock to hold onto LG123 True I don t think their business model can ever become profitable at least when it comes to renting physical textbooks They might purchase a new edition physical textbook for 100 and rent it out for 25 a semester Not taking into account costs of warehouse labor it will take them at least 4 semesters to make back the money they initially spent on that textbook by which point a new edition might have been released by the publisher making the old edition command less in rental prices because students would be able to purchase the old edition outright for about the same price and be able to keep it forever if they wished to do so The only way that they can continue to attract students to their rentals is by offering steep discounts but that strategy will just cause them to continue to burn through investor money andy4 Exactly They know that the future is digital textbooks so their market dominance in renting physical textbooks won t matter 5 years down the road since Apple Amazon Google and lots of other companies will be competing with them to sell or rent digital textbooks This move to IPO seems like a plan by investors to cash out before it s too late Anyone left holding Chegg stock in a few years will be screwed",
+        "score": 80191.90280029378
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "TheWerewolf Actually most of it did NOT come from that tweet Stock had already gone up about 65 per share in the five weeks before that But of course you would have to you know glance at the chart in the article for a few seconds before writing your comment in order to see that I guess that s too much to ask JonM I agree with you but they hired so many people they need to write something doesn t matter if it is related to some new shoe camera Aol vs alexis or stock price JonM Dear JonM there are literally 21 articles on the home page right now about startups But instead of reading one of those 21 articles you chose one of the two Apple articles the only one of the two focusing on Apple s stock news so you could write a comment complaining about Techcrunch posting too many stock related articles and not enough startup related articles Really TheWerewolf Actually most of it did NOT come from that tweet Stock had already gone up about 65 per share in the five weeks before that But of course you would have to you know glance at the chart in the article for a few seconds before writing your comment in order to see that I guess that s too much to ask JonM I agree with you but they hired so many people they need to write something doesn t matter if it is related to some new shoe camera Aol vs alexis or stock price JonM Dear JonM there are literally 21 articles on the home page right now about startups But instead of reading one of those 21 articles you chose one of the two Apple articles the only one of the two focusing on Apple s stock news so you could write a comment complaining about Techcrunch posting too many stock related articles and not enough startup related articles Really",
+        "score": 10089.65769549851
+      },
+      "http://techcrunch.com/2013/08/14/yes-gmail-users-have-some-privacy-heres-what-you-can-expect/": {
+        "content": "JTReyn Yeah stay off the radar by doing even more suspicious things like encrypting your phone lines and everything else that contains anything you write or say That sounds like a plan",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "LiamBoogar do they send you the booze if you order it through the app",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-article > div.fyre-outer-comment-container > div.fyre-comment-container.fyre-comment-replies-indent.fyre-comment-replies > article.fyre-comment-source-5.fyre-comment-article > div.fyre-comment-wrapper > section.fyre-comment-body > div.fyre-comment > p > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-outer-comment-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-container",
+            "fyre-comment-replies-indent",
+            "fyre-comment-replies"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-body"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "fyre-comment"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 154.91687518562793,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "A16Z s Scott Weiss Box Zendesk And Nebula To Talk About Winning In The Enterprise At Disrupt SF",
+        "score": 70.39977931128428
+      },
+      "http://techcrunch.com/2013/08/14/amazons-silk-web-browser-gets-a-whole-new-look/": {
+        "content": "Amazon s Silk Web Browser Gets A Whole New Look",
+        "score": 32.51244548701483
+      },
+      "http://techcrunch.com/2013/08/14/microsoft-acknowledges-outlook-com-messenger-skydrive-outages/": {
+        "content": "Microsoft Acknowledges Outlook com Messenger SkyDrive Outages",
+        "score": 24.740320442082783
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "Google Search Gets More Personal Now Lets You Find Your Flight Info Reservations Photos And More",
+        "score": 31.762922990181252
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Google Lets You Peek Behind The Scenes Of Its Treks Street View Tours With Stunning Microsites",
+        "score": 70.00786523655448
+      },
+      "http://techcrunch.com/2013/08/14/founder-stories-serial-entrepreneur-steven-kirsch-on-building-a-remote-engineering-team/": {
+        "content": "Founder Stories Serial Entrepreneur Steven Kirsch On Building A Remote Engineering Team",
+        "score": 28.031286377852513
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "Facebook s Star Manager Peter Deng Becomes Instagram Director Of Product To Do Fewer Things Better",
+        "score": 42.0168839549424
+      },
+      "http://techcrunch.com/2013/08/14/yes-gmail-users-have-some-privacy-heres-what-you-can-expect/": {
+        "content": "Yes Gmail Users Have Some Privacy Here s What You Can Expect",
+        "score": 8.704997293544771
+      },
+      "http://techcrunch.com/2013/08/14/made-in-space-makers-of-the-only-3d-printer-in-orbit-answer-some-pressing-questions-about-manufacturing-and-yoda/": {
+        "content": "Made In Space Makers Of The Only 3D Printer In Orbit Answer Some Pressing Questions About Manufacturing And Yoda",
+        "score": 60.7903969075841
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "Google Maps Easter Egg Lets You Explore The TARDIS",
+        "score": 8.317766166719343
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "HTC Hell That s Confusing",
+        "score": 41.58883083359672
+      },
+      "http://techcrunch.com/2013/08/14/google-for-android-swaps-messenger-for-hangouts-integrates-with-google-drive-more/": {
+        "content": "Google For Android Swaps Messenger For Hangouts Integrates With Google Drive More",
+        "score": 31.508504269601215
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Online Textbook Rental Firm Chegg Files For 150 Million IPO",
+        "score": 65.28833256869976
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "Drync A Wine Scanning App Raises 900K To Help You Get Crunk",
+        "score": 36.095769390256166
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "Apple Shares Hit 500 Again Representing A Massive 100 Billion Market Cap Gain In 48 Days Apple Shares Hit 500 Again Representing A Massive 100 Billion Market Cap Gain In 48 Days",
+        "score": 1771.9870265545048
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > h1.headline": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "headline"
+          ],
+          "id": "",
+          "name": "h1"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 989.0394017876196,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Enterprise is sexier than ever As Andreessen Horowitz partner Scott Weiss aptly predicted in his brilliant guest post titled 30 New Franchises there is an unprecedented opportunity to create new multi billion dollar enterprise franchises despite incumbents throwing massive amounts of money to acquire these franchises Weiss post created such an engaging conversation around the future of enterprise software that we decided to build a panel at Disrupt SF around the thesis featuring Weiss himself Box CEO and founder Aaron Levie Zendesk CEO and founder Mikkel Svane and Chris Kemp the CEO of Nebula",
+        "score": 212.3472237226299
+      },
+      "http://techcrunch.com/2013/08/14/amazons-silk-web-browser-gets-a-whole-new-look/": {
+        "content": "Amazon s Silk web browser which comes built into Kindle Fire devices has received its first major upgrade since September 2012 the company announced today Though there have been steady under the hood improvements over time this is the first release since last fall to introduce consumer facing changes to the way the browser looks and behaves including a new tutorial redesigned tabs better browser controls simpler navigation options and easier access to Silk s Reading View feature",
+        "score": 124.54873822930045
+      },
+      "http://techcrunch.com/2013/08/14/microsoft-acknowledges-outlook-com-messenger-skydrive-outages/": {
+        "content": "Having a hard time accessing your SkyDrive files or your email on Outlook com You are not alone and Microsoft says that it is working on the issue",
+        "score": 34.4163645129453
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "Google today announced a number of search features that make it easier for you to find your own personal information through Google Search The search engine can now find information about your upcoming flights Is my flight on time hotel or OpenTable reservations package delivery information When will my package arrive your purchases and what s on your calendar Just like on Google you can also now use the regular Google search to find your own photos through queries like Show me my photos of beaches",
+        "score": 87.32678639047778
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Google has spent a lot of time and human hours mapping some of the more remote areas of the globe with its Trekker program and now users have a chance to go behind the scenes and learn more about both those places and the process Google put up a new Behind The Scenes site for the Treks Street View project complete with video amazing images maps and audio and visual tours",
+        "score": 115.15626084842872
+      },
+      "http://techcrunch.com/2013/08/14/founder-stories-serial-entrepreneur-steven-kirsch-on-building-a-remote-engineering-team/": {
+        "content": "We spend a lot of time on Founder Stories talking about hiring and culture largely because there is no secret sauce or fail proof way that guarantees success My guest this week is a serial entrepreneur who attributes the success of his current company OneID to creating a culture that attracts the best hires",
+        "score": 98.1198329146167
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "Peter Deng built Facebook Chat Groups and Messenger as its product management director for the last six years Now he s going to execute the vision of Instagram s founders as its new Director Of Product I m not trying to come in and make changes Deng tells me Kevin and Mike have a great thing going How can we move faster and build more beautiful products That s what I m coming here to do",
+        "score": 74.02231094314061
+      },
+      "http://techcrunch.com/2013/08/14/yes-gmail-users-have-some-privacy-heres-what-you-can-expect/": {
+        "content": "Google is in hot water after its lawyers were caught claiming that Gmail users have no reasonable expectations of privacy The short answer is that yes Gmail users do have some expectation of privacy and there have been no major privacy policy changes in the past year But since the press is freaking out let us review what kind of privacy users can and cannot expect",
+        "score": 42.68050314760085
+      },
+      "http://techcrunch.com/2013/08/14/made-in-space-makers-of-the-only-3d-printer-in-orbit-answer-some-pressing-questions-about-manufacturing-and-yoda/": {
+        "content": "This week we learned that NASA was sending its own 3D printer into space to support the astronauts on the International Space Station But NASA didn t build the printer Instead they farmed it out to a company called Made In Space a startup focused on making a solid space ready 3D printer that can survive the vast darkness of the cosmos",
+        "score": 114.33757153870901
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "Gasp I would ve had this post written 20 minutes ago but I was too busy geeking the hell out",
+        "score": 50.42290516941663
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "After much fanfare including a mundane video teaser HTC just released the first part of their latest advertising campaign Starring Robert Iron Man Downey Jr the video spot is well memorable It s a touch crazy a bit confusing and doesn t showcase anything HTC makes But you won t forget it And that s what makes for an effective ad",
+        "score": 167.98826975368516
+      },
+      "http://techcrunch.com/2013/08/14/google-for-android-swaps-messenger-for-hangouts-integrates-with-google-drive-more/": {
+        "content": "Google is continuing to unify its communications mess today with an update to its Google Android application which among other things finally kills off Messenger Previously Messenger allowed the app s users to bring in friends into group conversations for text messaging photo sharing and face to face video chat But now Hangouts serves this purpose in Google and beyond",
+        "score": 92.85500314582094
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Online textbook rental company Chegg today filed for a 150 million initial public offering Its proposed ticker symbol is CHGG",
+        "score": 114.49647878944525
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "As vonny drunk I often find myself in the presence of a fine bottle of plonk that I would like to purchase again in the future Thankfully Drync one of the best bottle scanning apps I ve used is on the case",
+        "score": 65.79460912529619
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "Apple shares NASDAQ AAPL are currently up 2 79 percent to 503 25 a share in the wake of Carl Icahn s lobbying efforts on Twitter Yet the stock performance of the past two days shouldn t diminish the overall performance over the past two months In less than two months Apple has indeed gained 100 billion in market capitalization Apple shares NASDAQ AAPL are currently up 2 79 percent to 503 25 a share in the wake of Carl Icahn s lobbying efforts on Twitter Yet the stock performance of the past two days shouldn t diminish the overall performance over the past two months In less than two months Apple has indeed gained 100 billion in market capitalization",
+        "score": 13441.07816858278
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.4166666666666667,
+    "score": 238.02882192335696,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Scott Weiss Andreessen Horowitz Quirky IronPort Systems Cisco",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/amazons-silk-web-browser-gets-a-whole-new-look/": {
+        "content": "Amazon amazon com 1994 NASDAQ AMZN",
+        "score": 53.873457319558284
+      },
+      "http://techcrunch.com/2013/08/14/microsoft-acknowledges-outlook-com-messenger-skydrive-outages/": {
+        "content": "Microsoft microsoft com April 4 1974 NASDAQ MSFT",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "Google google com September 7 1998 NASDAQ GOOG",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Google google com September 7 1998 NASDAQ GOOG",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/founder-stories-serial-entrepreneur-steven-kirsch-on-building-a-remote-engineering-team/": {
+        "content": "Steve Kirsch skirsch com OneID",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "Peter Deng Facebook",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/htc-hell-thats-confusing/": {
+        "content": "HTC Corp htc com 1997",
+        "score": 491.9838862522382
+      },
+      "http://techcrunch.com/2013/08/14/google-for-android-swaps-messenger-for-hangouts-integrates-with-google-drive-more/": {
+        "content": "Google Plus",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Chegg chegg com 2005 NYSE CHGG",
+        "score": 253.60058530606912
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "Drync drync com June 2008 900k",
+        "score": 172.9630850105525
+      },
+      "http://techcrunch.com/2013/08/14/apple-shares-hit-500-again-representing-a-massive-100-billion-market-cap-gain-in-48-days/": {
+        "content": "Apple apple com April 1 1976 NASDAQ AAPL Apple apple com April 1 1976 NASDAQ AAPL",
+        "score": 217.72309572836676
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > div.module-crunchbase > div.configuration-neighbor > div#tabs-crunchbase.ui-tabs.ui-corner-all.container.ui-widget.ui-widget-content > div#tabs-crunchbase-1.ui-corner-bottom.panel.ui-widget-content.ui-tabs-panel > div.leftgreen > div.info-container-stack-view.info-container > div.left-align > span": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-crunchbase"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "configuration-neighbor"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-tabs",
+            "ui-corner-all",
+            "container",
+            "ui-widget",
+            "ui-widget-content"
+          ],
+          "id": "tabs-crunchbase",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-corner-bottom",
+            "panel",
+            "ui-widget-content",
+            "ui-tabs-panel"
+          ],
+          "id": "tabs-crunchbase-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "leftgreen"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "info-container-stack-view",
+            "info-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-align"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.6666666666666666,
+    "score": 377.8838430045543,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/facebooks-star-manager-peter-deng-becomes-instagram-director-of-product-to-do-fewer-things-better/": {
+        "content": "Early updates to Events Brought a voice to Pages giving them the ability to post to the News Feed Led the News Feed and homepage team for two years redesigning it to update in real time The profile redesign that focused on collecting structured data about users the fuel for Facebook s ads engine Transformed Groups from bumper stickers on your profile into collaborative communication spaces Founded the mobile messaging team after pushing Facebook to acquire Beluga",
+        "score": 142.71466305165475
+      },
+      "http://techcrunch.com/2013/08/14/google-search-gets-more-personal-now-lets-you-find-your-flight-info-reservations-photos-and-more/": {
+        "content": "Reservations Ask for my reservations to see your dining plans or my hotel to get your hotel name and address With one tap you can get driving or public transit directions straight there saving you lots of steps Purchases Ask for my purchases and you ll get the status of your current orders so you know whether your mom s birthday present will arrive on time Plans Ask Google What are my plans for tomorrow to see a summary of upcoming flights hotels restaurant reservations and events very useful when you re traveling Photos Say Show me my photos from Thailand to see the photos you uploaded to Google You can also ask for my photos of sunsets if you want to show off the shots you ve taken over the year Google will try to automatically recognize the type of photo you re asking for",
+        "score": 613.0530229574539
+      },
+      "http://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/": {
+        "content": "Move your mouse around a bit The standard Google Maps directional arrows should pop up with one little addition a pair of double arrows Click those Note If you re enrolled in the new Google Maps UI beta the arrows might not appear Instead hit the up arrow on your keyboard Thanks for the heads up on this trick Eric If it s still not working for you see the note at the bottom of this post Bam You should now be in the TARDIS bigger on the inside smaller on the outside interior",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > ul > li": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5,
+    "score": 32.56420050626915,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/yes-gmail-users-have-some-privacy-heres-what-you-can-expect/": {
+        "content": "purmou JTReyn lol exactly what I was thinking More importantly only hide the stuff you need to hide Sounds like a fool s errand but today most people are putting everything in the open social media or nothing at all definitely suspicious If we walk the middle we should be okay Besides most of the information Google learns about us is information that we re willing to dole out to them",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "johnbiggs True But I believe their catalog of wine of users and relationship with wine makers makes this an easy feature to add on You make a fair point but it seems like Vivino would ve been relevant to mention even if only to point out that they lack a particular feature Nonetheless I d consider myself served",
+        "score": 32.56420050626915
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-source-5.fyre-comment-article > div.fyre-outer-comment-container > div.fyre-comment-container.fyre-comment-replies-indent.fyre-comment-replies > article.fyre-comment-source-5.fyre-comment-article > div.fyre-outer-comment-container > div.fyre-comment-container.fyre-comment-replies-indent.fyre-comment-replies > article.fyre-comment-source-5.fyre-comment-article > div.fyre-comment-wrapper > section.fyre-comment-body > div.fyre-comment > p > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-outer-comment-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-container",
+            "fyre-comment-replies-indent",
+            "fyre-comment-replies"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-outer-comment-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-container",
+            "fyre-comment-replies-indent",
+            "fyre-comment-replies"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-body"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "fyre-comment"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 652.3603523464664,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/": {
+        "content": "johnbiggs LiamBoogar You can t purchase directly from vivino Drync is unique in that sense johnbiggs LiamBoogar wonder how is it relevant as you scan either you already have the wine or you are inside a store if you are why would i want to buy it online and not have it right away",
+        "score": 652.3603523464664
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-source-5.fyre-comment-article > div.fyre-outer-comment-container > div.fyre-comment-container.fyre-comment-replies-indent.fyre-comment-replies > article.fyre-comment-source-5.fyre-comment-article > div.fyre-outer-comment-container > div.fyre-comment-container.fyre-comment-replies-indent.fyre-comment-replies > article.fyre-comment-source-5.fyre-comment-article > div.fyre-comment-wrapper > section.fyre-comment-body > div.fyre-comment > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-outer-comment-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-container",
+            "fyre-comment-replies-indent",
+            "fyre-comment-replies"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-outer-comment-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-container",
+            "fyre-comment-replies-indent",
+            "fyre-comment-replies"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-body"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "fyre-comment"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  }
+]

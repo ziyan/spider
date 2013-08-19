@@ -1,0 +1,1114 @@
+[
+  {
+    "confidence": 1.0,
+    "score": 5546.501549498736,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Weiss believes that the next franchises will be built around three areas mobile SaaS and cloud infrastructure Cloud storage giant Box has been doubling down on mobile acquiring HTML5 document embedding service Crocodoc in its efforts to allow businesses to store and manage documents anywhere As Levie has told us in the past Box is trying to invent what real time collaboration looks like in the mobile era and could be eying a public offering as early as next year Zendesk s SaaS help desk support ticketing application has seen tremendous success as the key to service efficiency for any customer facing company As of last year monthly recurring revenue has grown five fold since 2010 for the company While Zendesk s bread and butter has been catering to small to medium sized businesses of late Svane and the company has been pulling major enterprise deals including L Oreal Groupon and many others In terms of cloud infrastructure there may be no better person to disrupt this sector than Nebula s Kemp who was the former CTO of NASA and the co founder of OpenStack With Nebula Kemp and his team are building an infrastructure that allows businesses to deploy large private cloud computing infrastructures Together Weiss Levie Svane and Kemp are going to talk about how they are building their own franchises and attempting to build lasting institutions in the enterprise world The conference starts September 7 and runs until the 11th at our favorite location the San Francisco Design Concourse Stay tuned for more speaker announcements and a few surprises to be announced soon General admission tickets and exhibitor packages are currently available Buy tickets here Our sponsors help make Disrupt happen If you are interested in learning more about sponsorship opportunities please contact our sponsorship team here sponsors techcrunch com",
+        "score": 1642.9772142409001
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "The company had revenue of 149 million in 2010 172 million in 2011 and 213 million in 2012 In the first half of 2013 Chegg had revenue of 117 million That compares favorably to its first half 2012 revenue of 92 million So Chegg is growing its topline at a material if modest pace If we take its first half 2013 revenue double it and contrast that to its full year 2012 revenue Chegg will have grown its net revenue by just under 10 percent However in comparing first year halves Chegg is experiencing faster revenue growth It s business relating heavily to the education market is seasonal The company notes this fact directly That said Chegg is not experiencing any sort of hyper growth Turning to its profitability Chegg doesn t have any of that However after a long period of increasing losses it does appear to be hemorrhaging less money than before which is evidenced by its growing revenue and flat expenses this helps margins The company had a net loss of 26 million in 2010 38 million in 2011 and 49 million in 2012 For the first half of 2013 Chegg lost 21 million This compares favorably with its first half year loss in 2012 of 32 million How much cash does the company have Some but not much compared to how much it wants to raise The 150 million maximum that the company wants to raise through its initial public offering is a massive multiple on its current 22 million in cash and equivalents So Chegg is looking to dramatically bolster its war chest through its offering The company has lost a total of 170 million to date Chegg has raised a total of 195 million to date not including 55 million in raised debt A final caveat of Chegg s filing The company is taking advantage of the JOBS Act allowing it to avoid disclosing as much as other companies might as it is classified as an emerging growth company As it notes the rules allow it to take advantage of certain exemptions from reporting requirements that are applicable to other public companies that are not emerging growth companies Those exemptions include reduced disclosure obligations regarding executive compensation and compliance with the auditor attestation requirements of Section 404 of the Sarbanes Oxley Act Less red tape sure but also less disclosure to investors That increases risk What Chegg must prove to investors is that its growing revenue can be converted to profits However given the scale of its raise compared to its current cash position it doesn t appear to be in a hurry to reach the black Top Image Credit Tom Caswell",
+        "score": 13162.881098288784
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Besides being an awesome time killer for when you have some hours to spare the Trek microsites give Google a way to show off a number of its products all in one place It combines YouTube Maps Maps tours HTML5 web technologies slideshows and more which also has the benefit of revealing some of the greater potential of Chrome as a browser Currently the Street View Treks microsites cover the Burj Khalifa Iqaluit Mt Everest the Grand Canyon the Great Barrier Reef the Amazon Basin and the Kennedy Space Center Additional tours for the Galapagos Islands and Venice are said to be coming soon by Google too Remember that Google is looking for organizations to help out with the Google Trekker program so your views could be among the next featured on these microsites Sometimes it may be tempting to question the utility of Google s more ambitious initiatives but as these microsites show they sure can paint a pretty picture",
+        "score": 1833.6463359665242
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.3333333333333333,
+    "score": 3.243720864865315,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "SCOTT WEISS AARON LEVIE MIKKEL SVANE CHRIS KEMP",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "CHEGG",
+        "score": 3.243720864865315
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "GOOGLE",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > div.module-crunchbase > div.configuration-neighbor > div#tabs-crunchbase.ui-tabs.ui-corner-all.container.ui-widget.ui-widget-content > ul.ui-tabs-nav.ui-helper-clearfix.ui-helper-reset.ui-corner-all.ui-widget-header.tab-container > li.ui-state-default.ui-corner-top": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-crunchbase"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "configuration-neighbor"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-tabs",
+            "ui-corner-all",
+            "container",
+            "ui-widget",
+            "ui-widget-content"
+          ],
+          "id": "tabs-crunchbase",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-tabs-nav",
+            "ui-helper-clearfix",
+            "ui-helper-reset",
+            "ui-corner-all",
+            "ui-widget-header",
+            "tab-container"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "ui-state-default",
+            "ui-corner-top"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.3333333333333333,
+    "score": 17.648908255462956,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Scott Weiss Andreessen Horowitz Quirky IronPort Systems Cisco",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Chegg chegg com 2005 NYSE CHGG",
+        "score": 17.648908255462956
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Google google com September 7 1998 NASDAQ GOOG",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > div.module-crunchbase > div.configuration-neighbor > div#tabs-crunchbase.ui-tabs.ui-corner-all.container.ui-widget.ui-widget-content > div#tabs-crunchbase-1.ui-corner-bottom.panel.ui-widget-content.ui-tabs-panel > div.leftgreen > div.info-container-stack-view.info-container > div.left-align > span": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-crunchbase"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "configuration-neighbor"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-tabs",
+            "ui-corner-all",
+            "container",
+            "ui-widget",
+            "ui-widget-content"
+          ],
+          "id": "tabs-crunchbase",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-corner-bottom",
+            "panel",
+            "ui-widget-content",
+            "ui-tabs-panel"
+          ],
+          "id": "tabs-crunchbase-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "leftgreen"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "info-container-stack-view",
+            "info-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-align"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5,
+    "score": 42.76309923780221,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "As long this company doesn t ask for bailouts Unsold books vs money printing supply Replant trees and wait 50 years Perhaps a good service but a truly terrible business The company has burned 195M 55M debt 22M remaining 228M of cash and yet are still at 10 margins and only a 200M run rate So they are still a long way from profitability and aren t growing all fast at all They re likely even further from being cashflow positive since by the very nature of the business they have to buy more books in order to grow This isn t an IPO of liquidity it is an IPO of necessity If they don t get that 150M they are dead within 6 months at the current burn rate and my guess is they ve talked to every growth equity firm on the planet and no one will touch them with a ten foot poll Chegg is an incredibly company a hugely valuable service with a great team Congrats Finally probably good to i p o a s a p b4 this model d e e p 6s",
+        "score": 42.76309923780221
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Check out us for best iphoneapplicationdevelopment services where is K 2 I m packing now No wait I m getting a coffee and coming back for another trek This is fantastic nice STUNNING WAY TO GO GOOGLE",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-article > div.fyre-comment-wrapper > section.fyre-comment-body > div.fyre-comment > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-body"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "fyre-comment"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 177.77724031200634,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Does the writer know nothing about this subject matter You talk about 150M being a multiple of something The 150M is a of the company for sale what they are selling in the public market The multiple should be the entire value of the company eule of thumb is that you sell 10 in an IPO Lets say 5 in an IPO and 5 in a follow on offering That puts the valuation at 3B which is roughly in line with real market multiples You can pay me 20 for this lesson later This also means that if they do burn through this 150M they can still raise plenty more Not sure what the trolling is all about it is a great company with sound fundamentals and some good folks a level edit below the leadership No one else in the space has accomplished what they have and they re quickly becoming a force to be reckoned with on e online learning It s business relating heavily to the education market is seasonal Turning to its profitability Chegg doesn t have any of that However after a long period of increasing losses it does appear to be hemorrhaging less money than before which is evidenced by its growing revenue and flat expenses this helps margins It s hard to take the author of this article seriously when he doesn t know how to use proper spelling or grammar This article reads like a basic high schooler s class report TechCrunch is a great site but this journalist is awful",
+        "score": 177.77724031200634
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-source-5.fyre-comment-article > div.fyre-comment-wrapper > section.fyre-comment-body > div.fyre-comment > p > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-body"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "fyre-comment"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 20.62139145712645,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "A16Z s Scott Weiss Box Zendesk And Nebula To Talk About Winning In The Enterprise At Disrupt SF",
+        "score": 16.62406943243474
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Online Textbook Rental Firm Chegg Files For 150 Million IPO",
+        "score": 13.380348567569424
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Google Lets You Peek Behind The Scenes Of Its Treks Street View Tours With Stunning Microsites",
+        "score": 31.859756371375184
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > h1.headline": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "headline"
+          ],
+          "id": "",
+          "name": "h1"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 11.806087125149665,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Scott Weiss is a partner at Andreessen Horowitz Formerly he was co founder and CEO of IronPort Systems which was acquired by Cisco in 2007 While at Cisco Weiss was the vice president and general manager of the Security Technology Group Previously he was also a managing director and entrepreneur in residence at IdeaLab where he met IronPort co founder Scott Banister Prior to IdeaLab Weiss was employee no 13 at Hotmail and was responsible for all partnership and revenue generating",
+        "score": 20.076254301856114
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Chegg an online textbook rental company was inspired by Osman Rashid and Aayush Phumbhra s frustration with the policies and procedures of their own university s bookstore Osman and Aayush knew there had to be a better solution one that worked for students professors and publishers alike Chegg was launched at Iowa State University in 2005 as a hyper local classifieds directory In fall 2007 Chegg introduced their revolutionary textbook rental service Chegg now offers its services to more than 6 400 universities and",
+        "score": 10.947557918920438
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Google provides search and advertising services which together aim to organize and monetize the world s information In addition to its dominant search engine it offers a plethora of online tools and platforms including Gmail Maps YouTube and Google the company s extension into the social space Most of its Web based products are free funded by Google s highly integrated online advertising platforms AdWords and AdSense Google promotes the idea that advertising should be highly targeted and relevant to users thus providing",
+        "score": 4.394449154672439
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > div.module-crunchbase > div.configuration-neighbor > div#tabs-crunchbase.ui-tabs.ui-corner-all.container.ui-widget.ui-widget-content > div#tabs-crunchbase-1.ui-corner-bottom.panel.ui-widget-content.ui-tabs-panel > div.leftgreen > div.body-copy > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-crunchbase"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "configuration-neighbor"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-tabs",
+            "ui-corner-all",
+            "container",
+            "ui-widget",
+            "ui-widget-content"
+          ],
+          "id": "tabs-crunchbase",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-corner-bottom",
+            "panel",
+            "ui-widget-content",
+            "ui-tabs-panel"
+          ],
+          "id": "tabs-crunchbase-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "leftgreen"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 60.67730999256326,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Enterprise is sexier than ever As Andreessen Horowitz partner Scott Weiss aptly predicted in his brilliant guest post titled 30 New Franchises there is an unprecedented opportunity to create new multi billion dollar enterprise franchises despite incumbents throwing massive amounts of money to acquire these franchises Weiss post created such an engaging conversation around the future of enterprise software that we decided to build a panel at Disrupt SF around the thesis featuring Weiss himself Box CEO and founder Aaron Levie Zendesk CEO and founder Mikkel Svane and Chris Kemp the CEO of Nebula",
+        "score": 82.82848882497308
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Online textbook rental company Chegg today filed for a 150 million initial public offering Its proposed ticker symbol is CHGG",
+        "score": 36.97445477336427
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Google has spent a lot of time and human hours mapping some of the more remote areas of the globe with its Trekker program and now users have a chance to go behind the scenes and learn more about both those places and the process Google put up a new Behind The Scenes site for the Treks Street View project complete with video amazing images maps and audio and visual tours",
+        "score": 62.22898637935243
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.6666666666666666,
+    "score": 6.565615731439151,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Tags Disrupt",
+        "score": 0.0
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Tags chegg IPO",
+        "score": 3.243720864865315
+      },
+      "http://techcrunch.com/2013/08/14/google-lets-you-peek-behind-the-scenes-of-its-treks-street-view-tours-with-stunning-microsites/": {
+        "content": "Tags google trek Street View Maps",
+        "score": 9.887510598012987
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div.single-tags": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "single-tags"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 7240.672360342575,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Mike19 You probably work for Chegg or have a family member that does which is why you re defending them I don t care either way what happens to Chegg as I m an objective observer Do you honestly believe that sales of digital textbooks won t increasingly eat into the revenues from sales of physical textbooks in the next 5 10 years Chegg can and does sell rent digital textbooks but they have to compete with lots of other much larger companies in that area such as Amazon Apple Google etc who have much larger marketing budgets and access to many more people to sell to As physical textbooks are phased out Chegg will lose more and more of it s market share This is definitely not a stock to hold onto LG123 True I don t think their business model can ever become profitable at least when it comes to renting physical textbooks They might purchase a new edition physical textbook for 100 and rent it out for 25 a semester Not taking into account costs of warehouse labor it will take them at least 4 semesters to make back the money they initially spent on that textbook by which point a new edition might have been released by the publisher making the old edition command less in rental prices because students would be able to purchase the old edition outright for about the same price and be able to keep it forever if they wished to do so The only way that they can continue to attract students to their rentals is by offering steep discounts but that strategy will just cause them to continue to burn through investor money andy4 Exactly They know that the future is digital textbooks so their market dominance in renting physical textbooks won t matter 5 years down the road since Apple Amazon Google and lots of other companies will be competing with them to sell or rent digital textbooks This move to IPO seems like a plan by investors to cash out before it s too late Anyone left holding Chegg stock in a few years will be screwed",
+        "score": 7240.672360342575
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-source-5.fyre-comment-article > div.fyre-outer-comment-container > div.fyre-comment-container.fyre-comment-replies-indent.fyre-comment-replies > article.fyre-comment-source-5.fyre-comment-article > div.fyre-comment-wrapper > section.fyre-comment-body > div.fyre-comment > p > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-outer-comment-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-container",
+            "fyre-comment-replies-indent",
+            "fyre-comment-replies"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-body"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "fyre-comment"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 8.109302162163289,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "The fourth quarter is typically our highest performing quarter as we are recognizing a full quarter of revenue from peak volumes in August and September and partial revenue from peak volumes in December while the second quarter typically is our lowest performing quarter as students start their summer vacations and the volume of textbook rentals and sales and purchases of supplemental materials and Homework Help decreases",
+        "score": 8.109302162163289
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.image.module-post-detail > div.body-copy > blockquote > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "image",
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "blockquote"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 8.920232378379616,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "LG123 My god ACTUAL analysis in the comments Great post And you re right the textbook rental market has always been a bit shaky and Chegg hasn t done much to improve the current models",
+        "score": 8.920232378379616
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-article.fyre-comment-source-5 > div.fyre-outer-comment-container > div.fyre-comment-container.fyre-comment-replies.fyre-comment-replies-indent > article.fyre-comment-article.fyre-comment-source-5 > div.fyre-comment-wrapper > section.fyre-comment-body > div.fyre-comment > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-article",
+            "fyre-comment-source-5"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-outer-comment-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-container",
+            "fyre-comment-replies",
+            "fyre-comment-replies-indent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-article",
+            "fyre-comment-source-5"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-body"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "fyre-comment"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  }
+]

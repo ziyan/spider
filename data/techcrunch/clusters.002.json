@@ -1,0 +1,359 @@
+[
+  {
+    "confidence": 1.0,
+    "score": 487.6598091269743,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Weiss believes that the next franchises will be built around three areas mobile SaaS and cloud infrastructure Cloud storage giant Box has been doubling down on mobile acquiring HTML5 document embedding service Crocodoc in its efforts to allow businesses to store and manage documents anywhere As Levie has told us in the past Box is trying to invent what real time collaboration looks like in the mobile era and could be eying a public offering as early as next year Zendesk s SaaS help desk support ticketing application has seen tremendous success as the key to service efficiency for any customer facing company As of last year monthly recurring revenue has grown five fold since 2010 for the company While Zendesk s bread and butter has been catering to small to medium sized businesses of late Svane and the company has been pulling major enterprise deals including L Oreal Groupon and many others In terms of cloud infrastructure there may be no better person to disrupt this sector than Nebula s Kemp who was the former CTO of NASA and the co founder of OpenStack With Nebula Kemp and his team are building an infrastructure that allows businesses to deploy large private cloud computing infrastructures Together Weiss Levie Svane and Kemp are going to talk about how they are building their own franchises and attempting to build lasting institutions in the enterprise world The conference starts September 7 and runs until the 11th at our favorite location the San Francisco Design Concourse Stay tuned for more speaker announcements and a few surprises to be announced soon General admission tickets and exhibitor packages are currently available Buy tickets here Our sponsors help make Disrupt happen If you are interested in learning more about sponsorship opportunities please contact our sponsorship team here sponsors techcrunch com",
+        "score": 224.85201051371823
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "The company had revenue of 149 million in 2010 172 million in 2011 and 213 million in 2012 In the first half of 2013 Chegg had revenue of 117 million That compares favorably to its first half 2012 revenue of 92 million So Chegg is growing its topline at a material if modest pace If we take its first half 2013 revenue double it and contrast that to its full year 2012 revenue Chegg will have grown its net revenue by just under 10 percent However in comparing first year halves Chegg is experiencing faster revenue growth It s business relating heavily to the education market is seasonal The company notes this fact directly That said Chegg is not experiencing any sort of hyper growth Turning to its profitability Chegg doesn t have any of that However after a long period of increasing losses it does appear to be hemorrhaging less money than before which is evidenced by its growing revenue and flat expenses this helps margins The company had a net loss of 26 million in 2010 38 million in 2011 and 49 million in 2012 For the first half of 2013 Chegg lost 21 million This compares favorably with its first half year loss in 2012 of 32 million How much cash does the company have Some but not much compared to how much it wants to raise The 150 million maximum that the company wants to raise through its initial public offering is a massive multiple on its current 22 million in cash and equivalents So Chegg is looking to dramatically bolster its war chest through its offering The company has lost a total of 170 million to date Chegg has raised a total of 195 million to date not including 55 million in raised debt A final caveat of Chegg s filing The company is taking advantage of the JOBS Act allowing it to avoid disclosing as much as other companies might as it is classified as an emerging growth company As it notes the rules allow it to take advantage of certain exemptions from reporting requirements that are applicable to other public companies that are not emerging growth companies Those exemptions include reduced disclosure obligations regarding executive compensation and compliance with the auditor attestation requirements of Section 404 of the Sarbanes Oxley Act Less red tape sure but also less disclosure to investors That increases risk What Chegg must prove to investors is that its growing revenue can be converted to profits However given the scale of its raise compared to its current cash position it doesn t appear to be in a hurry to reach the black Top Image Credit Tom Caswell",
+        "score": 750.4676077402304
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 0.5,
+    "score": 8.317766166719343,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Scott Weiss is a partner at Andreessen Horowitz Formerly he was co founder and CEO of IronPort Systems which was acquired by Cisco in 2007 While at Cisco Weiss was the vice president and general manager of the Security Technology Group Previously he was also a managing director and entrepreneur in residence at IdeaLab where he met IronPort co founder Scott Banister Prior to IdeaLab Weiss was employee no 13 at Hotmail and was responsible for all partnership and revenue generating",
+        "score": 8.317766166719343
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Chegg an online textbook rental company was inspired by Osman Rashid and Aayush Phumbhra s frustration with the policies and procedures of their own university s bookstore Osman and Aayush knew there had to be a better solution one that worked for students professors and publishers alike Chegg was launched at Iowa State University in 2005 as a hyper local classifieds directory In fall 2007 Chegg introduced their revolutionary textbook rental service Chegg now offers its services to more than 6 400 universities and",
+        "score": 0.0
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > div.module-crunchbase > div.configuration-neighbor > div#tabs-crunchbase.ui-tabs.ui-corner-all.container.ui-widget.ui-widget-content > div#tabs-crunchbase-1.ui-corner-bottom.panel.ui-widget-content.ui-tabs-panel > div.leftgreen > div.body-copy > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-crunchbase"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "configuration-neighbor"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-tabs",
+            "ui-corner-all",
+            "container",
+            "ui-widget",
+            "ui-widget-content"
+          ],
+          "id": "tabs-crunchbase",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ui-corner-bottom",
+            "panel",
+            "ui-widget-content",
+            "ui-tabs-panel"
+          ],
+          "id": "tabs-crunchbase-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "leftgreen"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 215.24295023535413,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Mike19 You probably work for Chegg or have a family member that does which is why you re defending them I don t care either way what happens to Chegg as I m an objective observer Do you honestly believe that sales of digital textbooks won t increasingly eat into the revenues from sales of physical textbooks in the next 5 10 years Chegg can and does sell rent digital textbooks but they have to compete with lots of other much larger companies in that area such as Amazon Apple Google etc who have much larger marketing budgets and access to many more people to sell to As physical textbooks are phased out Chegg will lose more and more of it s market share This is definitely not a stock to hold onto LG123 True I don t think their business model can ever become profitable at least when it comes to renting physical textbooks They might purchase a new edition physical textbook for 100 and rent it out for 25 a semester Not taking into account costs of warehouse labor it will take them at least 4 semesters to make back the money they initially spent on that textbook by which point a new edition might have been released by the publisher making the old edition command less in rental prices because students would be able to purchase the old edition outright for about the same price and be able to keep it forever if they wished to do so The only way that they can continue to attract students to their rentals is by offering steep discounts but that strategy will just cause them to continue to burn through investor money andy4 Exactly They know that the future is digital textbooks so their market dominance in renting physical textbooks won t matter 5 years down the road since Apple Amazon Google and lots of other companies will be competing with them to sell or rent digital textbooks This move to IPO seems like a plan by investors to cash out before it s too late Anyone left holding Chegg stock in a few years will be screwed",
+        "score": 215.24295023535413
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#comments > div#fyre-comment-count > div#livefyre > div.fyre.fyre-width-medium > div.fyre-widget > div.fyre-comment-stream > div.fyre-stream-content > article.fyre-comment-source-5.fyre-comment-article > div.fyre-outer-comment-container > div.fyre-comment-container.fyre-comment-replies-indent.fyre-comment-replies > article.fyre-comment-source-5.fyre-comment-article > div.fyre-comment-wrapper > section.fyre-comment-body > div.fyre-comment > p > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "fyre-comment-count",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "livefyre",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre",
+            "fyre-width-medium"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-widget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-stream"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-stream-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-outer-comment-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-container",
+            "fyre-comment-replies-indent",
+            "fyre-comment-replies"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-source-5",
+            "fyre-comment-article"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "fyre-comment-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fyre-comment-body"
+          ],
+          "id": "",
+          "name": "section"
+        },
+        {
+          "classes": [
+            "fyre-comment"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  },
+  {
+    "confidence": 1.0,
+    "score": 29.45875517379767,
+    "pages": {
+      "http://techcrunch.com/2013/08/14/a16zs-scott-weiss-box-zendesk-and-nebula-to-talk-about-winning-in-the-enterprise-at-disrupt-sf/": {
+        "content": "Enterprise is sexier than ever As Andreessen Horowitz partner Scott Weiss aptly predicted in his brilliant guest post titled 30 New Franchises there is an unprecedented opportunity to create new multi billion dollar enterprise franchises despite incumbents throwing massive amounts of money to acquire these franchises Weiss post created such an engaging conversation around the future of enterprise software that we decided to build a panel at Disrupt SF around the thesis featuring Weiss himself Box CEO and founder Aaron Levie Zendesk CEO and founder Mikkel Svane and Chris Kemp the CEO of Nebula",
+        "score": 42.28197801415665
+      },
+      "http://techcrunch.com/2013/08/14/online-textbook-rental-firm-chegg-files-for-150-million-ipo/": {
+        "content": "Online textbook rental company Chegg today filed for a 150 million initial public offering Its proposed ticker symbol is CHGG",
+        "score": 16.635532333438686
+      }
+    },
+    "selectors": {
+      "div#page-container > div.column-container > div.left-container > div#module-post-detail.module-post-detail > div.body-copy > p": [
+        {
+          "classes": [],
+          "id": "page-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "column-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "left-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "module-post-detail"
+          ],
+          "id": "module-post-detail",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "body-copy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    }
+  }
+]
