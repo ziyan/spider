@@ -86,6 +86,7 @@ class Processor(object):
             discrete={},
             continuous=[],
             label=0,
+            area=0.0,
         )))
 
         for page, text, label in zip(self.pages, self.texts, labels):
@@ -98,6 +99,7 @@ class Processor(object):
             cluster['score'] += relevance_score
             cluster['tokens'].append(text['tokens'])
             cluster['text'] += text['text']
+            cluster['area'] += text['bound']['width'] + text['bound']['height']
 
             # collect discrete features
             cluster['discrete'].update(text['computed'].items())
@@ -113,6 +115,7 @@ class Processor(object):
             cluster['label'] = 1
 
             for cluster in clusters.values():
+                cluster['continuous'].append(float(len(cluster['tokens'])) / float(cluster['area']))
                 discrete_features.append(cluster['discrete'])
                 continuous_features.append(cluster['continuous'])
                 labels.append(cluster['label'])

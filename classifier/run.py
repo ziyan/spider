@@ -38,12 +38,12 @@ def main(args):
     pages, features, labels = processor.prepare(labels)
 
     # train
-    clf = svm.SVC()
-    n = int(len(labels) * 0.8)
+    clf = svm.SVC(verbose=True)
+    n = int(len(labels) * 1.0)
     print np.sum(labels[:n])
     print clf.fit(features[:n], labels[:n])
 
-    print np.sum(clf.predict(features[n:]) != labels[n:])
+    print np.sum(clf.predict(features) != labels)
     print len(labels[n:])
     
     with open(os.path.join(path, 'svm.json'), 'w') as f:
