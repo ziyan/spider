@@ -43,7 +43,7 @@ def main(args):
     print np.sum(labels[:n])
     print clf.fit(features[:n], labels[:n])
 
-    print np.sum(clf.predict(features[n:]) == labels[n:])
+    print np.sum(clf.predict(features[n:]) != labels[n:])
     print len(labels[n:])
     
     with open(os.path.join(path, 'svm.json'), 'w') as f:

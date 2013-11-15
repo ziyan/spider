@@ -1,6 +1,7 @@
 import collections
 import math
 import numpy as np
+import mlpy
 
 class TermFrequencyAnalyzer(object):
 
@@ -49,7 +50,12 @@ class LongestAnalyzer(object):
         pass
 
     def get_similarity(self, a, b):
-        return self.lcs(a, b)
+        #return self.lcs(a, b)
+
+        a = np.array(list(a), dtype='U1').view(np.uint32)
+        b = np.array(list(b), dtype='U1').view(np.uint32)
+        length, path = mlpy.lcs_std(a, b)
+        return length
         
     def lcs(self, a, b):
         a = a[:200]
@@ -59,10 +65,6 @@ class LongestAnalyzer(object):
 
         M = len(a)
         N = len(b)
-        if (N > 10000):
-            raise Exception("Smaller string should be less than 10000. Length: " + N)
-        elif (M * N == 0):
-            return 0
 
         arr = np.zeros((2, N + 1))
         for i in range(1, M + 1):
@@ -75,6 +77,5 @@ class LongestAnalyzer(object):
                     arr[curIdx][j] = 1 + arr[prevIdx][j - 1]
                 else:
                     arr[curIdx][j] = max(arr[curIdx][j - 1], arr[prevIdx][j])
-            #print arr
 
         return arr[M % 2][N]

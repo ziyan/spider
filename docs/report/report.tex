@@ -153,7 +153,7 @@ Information can be lost while using this method to consolidate css selectors. Bu
 \begin{figure*}
 \centering
 \epsfig{file=accuracy.eps}
-\caption{Accuracy of our approach given different training sample set compared to data from DiffBot}
+\caption{Accuracy of our approach given different training set sizes compared to data from DiffBot}
 \end{figure*}
 
 To evaluate the accuracy of our approach, we use third-party data from DiffBot\cite{diffbot}, a commercially available article crawling platform, as a non-bias reference. We compare text from the most likely cluster with the highest score to the text extracted by DiffBot for every page. The matching ratio is computed by finding the edit distance between the pair of word sequences. And then a percentage accuracy is calculated by averaging the matching ratios for all pages.
