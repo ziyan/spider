@@ -2,6 +2,17 @@ import stemmer
 import re
 import os
 
+class GenericTokenizer(object):
+
+    def tokenize(self, *texts):
+        tokens_list = []
+
+        for text in texts:
+            if not text:
+                continue
+            tokens_list += text.lower().split()
+
+        return ''.join(tokens_list)
 
 class EnglishTokenizer(object):
 

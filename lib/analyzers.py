@@ -1,8 +1,8 @@
 import collections
 import math
+import numpy as np
 
-
-class TextAnalyzer(object):
+class TermFrequencyAnalyzer(object):
 
     def __init__(self, *documents):
         self.idf = self.compute_idf(*documents)
@@ -41,3 +41,40 @@ class TextAnalyzer(object):
             score += tf * self.idf[token]
 
         return score
+
+
+class LongestAnalyzer(object):
+
+    def __init__(self, *documents):
+        pass
+
+    def get_similarity(self, a, b):
+        return self.lcs(a, b)
+        
+    def lcs(self, a, b):
+        a = a[:200]
+        b = b[:200]
+        if (len(a) < len(b)):
+            a, b = b, a
+
+        M = len(a)
+        N = len(b)
+        if (N > 10000):
+            raise Exception("Smaller string should be less than 10000. Length: " + N)
+        elif (M * N == 0):
+            return 0
+
+        arr = np.zeros((2, N + 1))
+        for i in range(1, M + 1):
+            curIdx = i % 2
+            prevIdx = 1 - curIdx
+            ai = a[i - 1]
+            for j in range(1, N + 1):
+                bj = b[j - 1]
+                if (ai == bj):
+                    arr[curIdx][j] = 1 + arr[prevIdx][j - 1]
+                else:
+                    arr[curIdx][j] = max(arr[curIdx][j - 1], arr[prevIdx][j])
+            #print arr
+
+        return arr[M % 2][N]
