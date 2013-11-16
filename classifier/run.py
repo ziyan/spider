@@ -17,7 +17,7 @@ import analyzers
 import tokenizers
 import numpy as np
 from sklearn import svm, preprocessing, cross_validation
-from sklearn.metrics import precision_recall_curve, auc, classification_report
+from sklearn.metrics import precision_recall_curve, auc, classification_report, precision_recall_fscore_support
 import collections
 
 def main(args):
@@ -42,16 +42,37 @@ def main(args):
     # scale features
     features = preprocessing.scale(features)
 
+    precisions = []
+    recalls = []
+    f1scores = []
+    supports = []
 
     rs = cross_validation.KFold(len(labels), n_folds=4, shuffle=True, random_state=0)
     for train_index, test_index in rs:
         print 'training size = %d, testing size = %d' % (len(train_index), len(test_index))
 
-        clf = svm.SVC(verbose=True, kernel='linear', probability=False, random_state=0, cache_size=2000, class_weight='auto')
+        clf = svm.SVC(verbose=False, kernel='linear', probability=False, random_state=0, cache_size=2000, class_weight='auto')
         clf.fit(features[train_index], labels[train_index])
 
         predicted = clf.predict(features[test_index])
         print classification_report(labels[test_index], predicted)
+
+        precision, recall, f1score, support = precision_recall_fscore_support(labels[test_index], predicted)
+
+        precisions.append(precision)
+        recalls.append(recall)
+        f1scores.append(f1score)
+        supports.append(support)
+
+    precisions = np.mean(np.array(precisions), axis=0)
+    recalls = np.mean(np.array(recalls), axis=0)
+    f1scores = np.mean(np.array(f1scores), axis=0)
+    supports = np.mean(np.array(supports), axis=0)
+
+    for label in range(2):
+        print '%f\t%f\t%f\t%f' % (precisions[label], recalls[label], f1scores[label], supports[label])
+
+    return
 
     ham = collections.defaultdict(dict)
     spam = collections.defaultdict(dict)

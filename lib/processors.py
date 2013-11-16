@@ -112,17 +112,17 @@ class Processor(object):
             for page in cluster['pages'].values():
                 for text in page['texts']:
                     text_length = len(text['tokens'])
-                    area = text['bound']['height']
+                    area = text['bound']['height'] * text['bound']['width']
                     text_density = float(text_length) / float(area)
 
                     # continuous_feature
-                    continuous_feature = [text_length] #, text_density]
+                    continuous_feature = [text_length, text_density]
                     continuous_features.append(continuous_feature)
 
                     # discrete features
-                    discrete_feature = dict()
-                    #discrete_feature = dict(text['computed'].items())
-                    #discrete_feature['path'] = ' > '.join(text['path'])
+                    #discrete_feature = dict()
+                    discrete_feature = dict(text['computed'].items())
+                    discrete_feature['path'] = ' > '.join(text['path'])
                     discrete_features.append(discrete_feature)
 
                     # label
