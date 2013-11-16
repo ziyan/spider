@@ -17,6 +17,7 @@ import analyzers
 import tokenizers
 import numpy as np
 from sklearn import svm
+from sklearn.metrics import precision_recall_curve, auc, classification_report
 
 def main(args):
 
@@ -38,13 +39,26 @@ def main(args):
     pages, features, labels = processor.prepare(labels)
 
     # train
-    clf = svm.SVC(verbose=True, kernel='rbf')
-    n = int(len(labels) * 1.0)
+    clf = svm.SVC(verbose=True, kernel='linear', probability=True, random_state=0)
+    n = int(len(labels) * 0.5)
     print np.sum(labels[:n])
-    print clf.fit(features[:n], labels[:n])
 
-    print np.sum(clf.predict(features) != labels)
-    print len(labels[n:])
+    proba = clf.fit(features[:n], labels[:n]).predict_proba(features[n:])
+    precision, recall, thresholds = precision_recall_curve(labels[n:], proba[:, 1])
+
+    print 'precision:'
+    print precision
+    print 'recall:'
+    print recall
+    print 'thresholds:'
+    print thresholds
+    
+    area = auc(recall, precision)
+    print 'area under curve: %f' % area
+
+    print '======'
+    predicted = clf.predict(features[n:])
+    print classification_report(labels[n:], predicted)
     
     with open(os.path.join(path, 'svm.json'), 'w') as f:
         f.write(json.dumps(pages, indent=2, ensure_ascii=False).encode('utf8'))
