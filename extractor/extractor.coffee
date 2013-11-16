@@ -158,7 +158,6 @@ page.onLoadFinished = (status) ->
         while text = walker.nextNode()
             continue unless text.nodeValue.trim().length > 0
 
-
             # container node
             node = text.parentElement
             bound = spider.utils.bound(node)
@@ -187,6 +186,9 @@ page.onLoadFinished = (status) ->
                 computed: spider.utils.computed(node)
             texts.push node.spider
 
+            # debug
+            node.style.border = '1px solid red'
+
         return texts
 
     # extract images
@@ -207,6 +209,7 @@ page.onLoadFinished = (status) ->
 
     # write json
     fs.write(system.args[2] + '.json', JSON.stringify(data, undefined, 2))
+    page.render(system.args[2] + '.png')
 
     # done
     phantom.exit()

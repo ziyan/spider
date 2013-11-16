@@ -79,11 +79,13 @@ class Processor(object):
         Prepare SVM training data.
         """
 
-        pages = collections.defaultdict(lambda: collections.defaultdict(lambda: dict(
-            score=0.0,
-            texts=[],
+        clusters = collections.defaultdict(lambda: dict(
             label=0,
-        )))
+            score=0.0,
+            pages=collections.defaultdict(lambda: dict(
+                texts=[],
+            )),
+        ))
 
         # iterate over each block
         for page, text, label in zip(self.pages, self.texts, labels):
@@ -93,35 +95,34 @@ class Processor(object):
             score = self.analyzer.get_similarity(text['tokens'], hints) if hints else 0.0
 
             # find the cluster
-            cluster = pages[page['url']][int(label)]
-
+            cluster = clusters[int(label)]
             cluster['score'] += score
-            cluster['texts'].append(text)
 
-        # for each page, find the best cluster
-        for url, clusters in pages.iteritems():
-            cluster = max(clusters.values(), key=lambda x: x['score'])
-            cluster['label'] = 1
+            cluster['pages'][page['url']]['texts'].append(text)
+
+        best_cluster = max(clusters.values(), key=lambda x: x['score'])
+        best_cluster['label'] = 1
 
         # build features
         continuous_features = []
         discrete_features = []
         labels = []
 
-        for url, clusters in pages.iteritems():
-            for cluster in clusters.values():
-                for text in cluster['texts']:
+        for id, cluster in clusters.iteritems():
+            for page in cluster['pages'].values():
+                for text in page['texts']:
                     text_length = len(text['tokens'])
                     area = text['bound']['height']
                     text_density = float(text_length) / float(area)
 
                     # continuous_feature
-                    continuous_feature = [text_density]
+                    continuous_feature = [text_length] #, text_density]
                     continuous_features.append(continuous_feature)
 
                     # discrete features
-                    discrete_feature = dict(text['computed'].items())
-                    discrete_feature['path'] = ' > '.join(text['path'])
+                    discrete_feature = dict()
+                    #discrete_feature = dict(text['computed'].items())
+                    #discrete_feature['path'] = ' > '.join(text['path'])
                     discrete_features.append(discrete_feature)
 
                     # label
@@ -135,7 +136,7 @@ class Processor(object):
         vectorizer = DictVectorizer()
         discrete_features = vectorizer.fit_transform(discrete_features).toarray()
 
-        return pages, np.hstack([continuous_features, discrete_features]).astype(np.float32), labels.astype(np.float32)
+        return clusters, np.hstack([continuous_features, discrete_features]).astype(np.float32), labels.astype(np.float32)
 
     def score(self, labels):
 

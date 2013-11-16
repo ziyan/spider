@@ -16,8 +16,9 @@ import argparse
 import analyzers
 import tokenizers
 import numpy as np
-from sklearn import svm
+from sklearn import svm, preprocessing, cross_validation
 from sklearn.metrics import precision_recall_curve, auc, classification_report
+import collections
 
 def main(args):
 
@@ -35,33 +36,39 @@ def main(args):
     clusterer = clusterers.DBSCAN()
     labels = clusterer.cluster(features).labels_
 
-    # score
-    pages, features, labels = processor.prepare(labels)
+    # prepare features
+    clusters, features, labels = processor.prepare(labels)
 
-    # train
-    clf = svm.SVC(verbose=True, kernel='linear', probability=True, random_state=0)
-    n = int(len(labels) * 0.5)
-    print np.sum(labels[:n])
+    # scale features
+    features = preprocessing.scale(features)
 
-    proba = clf.fit(features[:n], labels[:n]).predict_proba(features[n:])
-    precision, recall, thresholds = precision_recall_curve(labels[n:], proba[:, 1])
 
-    print 'precision:'
-    print precision
-    print 'recall:'
-    print recall
-    print 'thresholds:'
-    print thresholds
-    
-    area = auc(recall, precision)
-    print 'area under curve: %f' % area
+    rs = cross_validation.KFold(len(labels), n_folds=4, shuffle=True, random_state=0)
+    for train_index, test_index in rs:
+        print 'training size = %d, testing size = %d' % (len(train_index), len(test_index))
 
-    print '======'
-    predicted = clf.predict(features[n:])
-    print classification_report(labels[n:], predicted)
-    
+        clf = svm.SVC(verbose=True, kernel='linear', probability=False, random_state=0, cache_size=2000, class_weight='auto')
+        clf.fit(features[train_index], labels[train_index])
+
+        predicted = clf.predict(features[test_index])
+        print classification_report(labels[test_index], predicted)
+
+    ham = collections.defaultdict(dict)
+    spam = collections.defaultdict(dict)
+
+    for id, cluster in clusters.iteritems():
+        for page in cluster['pages'].values():
+            content = ''
+            for text in page['texts']:
+                content += ' '.join(text['text'])
+            if cluster['label'] is 1:
+                ham[url][id] = content
+            else:
+                spam[url][id] = content
+
+
     with open(os.path.join(path, 'svm.json'), 'w') as f:
-        f.write(json.dumps(pages, indent=2, ensure_ascii=False).encode('utf8'))
+        f.write(json.dumps({'ham': ham, 'spam': spam}, indent=2, ensure_ascii=False).encode('utf8'))
 
 def parse_args():
     """

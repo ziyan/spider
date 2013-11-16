@@ -1,7 +1,7 @@
 {
   "body": {
     "bound": {
-      "height": 5011,
+      "height": 5196,
       "left": 0,
       "top": 0,
       "width": 1600
@@ -65,7 +65,7 @@
       "font-weight": "normal",
       "glyph-orientation-horizontal": "0deg",
       "glyph-orientation-vertical": "auto",
-      "height": "5001px",
+      "height": "5186px",
       "image-rendering": "auto",
       "kerning": "0",
       "left": "auto",
@@ -156,8 +156,8 @@
   ],
   "url": "http://news.sina.com.cn/s/p/2013-11-14/040328703425.shtml",
   "links": [
-    "http://news.sina.com.cn/c/2013-11-15/170428721681.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/170428721681.shtml",
+    "http://news.sina.com.cn/w/2013-11-16/110128727478.shtml",
+    "http://news.sina.com.cn/w/2013-11-16/110128727478.shtml",
     "javascript:void(0);",
     "http://news.sina.com.cn/m/sinanews.html",
     "javascript:;",
@@ -201,7 +201,7 @@
     "javascript:",
     "javascript:;",
     "javascript:;",
-    "http://1.irs02.com/main/c?db=iadvalue&bid=45305,21929,1&cid=19548,14700,67&sid=44717&show=ignore&url=http://www.suning.com/emall/cd_10052_10051_-7_Y_20089_20089_.html?utm_source=zq-sina&utm_medium=sinaqbb&utm_campaign=paiqi",
+    "http://waayes.tmall.com/",
     "http://sina.cn/redirect.php?pid=654",
     "http://news.sina.com.cn/s/2009-08-24/022218495305.shtml",
     "http://news.sina.com.cn/pl/2009-08-24/073418497802.shtml",
@@ -222,53 +222,81 @@
     "javascript:;",
     "javascript:;",
     "javascript:;",
-    "http://news.sina.com.cn/s/2013-11-15/150628720772.shtml",
-    "http://news.sina.com.cn/w/2013-11-15/150528721078.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/130028719968.shtml",
-    "http://news.sina.com.cn/s/p/2013-11-15/125828719781.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/123628719638.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/113828719391.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/101828718648.shtml",
-    "http://news.sina.com.cn/w/2013-11-15/094728718393.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/094228718385.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/084328717545.shtml",
-    "http://news.sina.com.cn/w/2013-11-15/083628717597.shtml",
-    "http://news.sina.com.cn/c/p/2013-11-15/075628716904.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/072728716565.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/070328716142.shtml",
-    "http://news.sina.com.cn/w/2013-11-15/061728715468.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/053728714973.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/050528714872.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/050428714811.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/050028714869.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/050028714853.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/150628720772.shtml",
-    "http://news.sina.com.cn/w/2013-11-15/150528721078.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/130028719968.shtml",
-    "http://news.sina.com.cn/s/p/2013-11-15/125828719781.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/123628719638.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/113828719391.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/101828718648.shtml",
-    "http://news.sina.com.cn/w/2013-11-15/094728718393.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/094228718385.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/084328717545.shtml",
-    "http://news.sina.com.cn/w/2013-11-15/083628717597.shtml",
-    "http://news.sina.com.cn/c/p/2013-11-15/075628716904.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/072728716565.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/070328716142.shtml",
-    "http://news.sina.com.cn/w/2013-11-15/061728715468.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/053728714973.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/050528714872.shtml",
-    "http://news.sina.com.cn/s/2013-11-15/050428714811.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/050028714869.shtml",
-    "http://news.sina.com.cn/c/2013-11-15/050028714853.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/110628727461.shtml",
+    "http://news.sina.com.cn/w/2013-11-16/103328727409.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/101328727303.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/094428727160.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/093628727139.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/090028727003.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/082928727110.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/055028725607.shtml",
+    "http://news.sina.com.cn/c/p/2013-11-16/051928725327.shtml",
+    "http://news.sina.com.cn/s/2013-11-16/044428725244.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/044428725243.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/044428725231.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/044428725248.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/044428725241.shtml",
+    "http://news.sina.com.cn/s/2013-11-16/044028725134.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/044028725141.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/044028725114.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/043128725083.shtml",
+    "http://news.sina.com.cn/s/p/2013-11-16/041628725062.shtml",
+    "http://news.sina.com.cn/s/2013-11-16/041128724901.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/110628727461.shtml",
+    "http://news.sina.com.cn/w/2013-11-16/103328727409.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/101328727303.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/094428727160.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/093628727139.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/090028727003.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/082928727110.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/055028725607.shtml",
+    "http://news.sina.com.cn/c/p/2013-11-16/051928725327.shtml",
+    "http://news.sina.com.cn/s/2013-11-16/044428725244.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/044428725243.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/044428725231.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/044428725248.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/044428725241.shtml",
+    "http://news.sina.com.cn/s/2013-11-16/044028725134.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/044028725141.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/044028725114.shtml",
+    "http://news.sina.com.cn/c/2013-11-16/043128725083.shtml",
+    "http://news.sina.com.cn/s/p/2013-11-16/041628725062.shtml",
+    "http://news.sina.com.cn/s/2013-11-16/041128724901.shtml",
     "http://news.sina.com.cn/s/p/2013-11-14/040328703425.shtml#",
+    "http://news.sina.com.cn/s/2013-11-14/151728710189.shtml",
+    "http://news.sina.com.cn/c/2013-11-15/041728714517.shtml",
+    "http://news.sina.com.cn/s/2013-11-14/152328710224.shtml",
+    "http://news.sina.com.cn/c/2013-11-13/213228701798.shtml",
+    "http://finance.sina.com.cn/stock/gujiayidong/20131115/104117334674.shtml",
     "http://sh.qihoo.com/index.html?src=lm&mt=10082_1&v=3&p=1",
     "http://sh.qihoo.com/index.html?src=lm&mt=10082_1&v=3&p=1",
     "http://news.baidu.com/?src=sina_news",
     "http://news.baidu.com/?src=sina_news",
     "http://news.baidu.com/?src=sina_news#enternews",
     "http://news.baidu.com/?src=sina_news#enternews",
+    "http://sports.sina.com.cn/l/2012-07-31/11376158457.shtml",
+    "http://news.sina.com.cn/s/p/2013-11-14/040328703425.shtml#J_Comment_Wrap",
+    "javascript:;",
+    "javascript:void(0)",
+    "javascript:void(0)",
+    "javascript:void(0)",
+    "javascript:void(0)",
+    "javascript:void(0)",
+    "javascript:void(0)",
+    "javascript:void(0)",
+    "javascript:;",
+    "https://login.sina.com.cn/signup/signup.php",
+    "https://login.sina.com.cn/getpass.html",
+    "javascript:;",
+    "http://news.sina.com.cn/s/p/2013-11-14/040328703425.shtml#url",
+    "http://weibo.com/",
+    "http://weibo.com/",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
     "http://news.sina.com.cn/",
     "http://news.sina.com.cn/c/2013-11-14/030028703003.shtml",
     "http://sports.sina.com.cn/",
@@ -308,17 +336,17 @@
     "http://blog.sina.com.cn/s/blog_61fe8a7f0101hir8.html?tj=1",
     "http://blog.sina.com.cn/s/blog_7e84ef460101msqd.html?tj=1",
     "http://blog.sina.com.cn/s/blog_485dcc670102e1ae.html?tj=1",
-    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=GZcFGY2tRXB/vzwlAc64oqrXV9kOLCgIZ1aIEUgqNASCvi6dg5uENqidmQwWjiEDt9MR1YPIKr/8T8LUVe1vbGBCiXRoB+ZGxstNyw6fxvsDMLOtpZURyc1T58gdoWzR7KFRCwvsfcIMkH0tzH/h86nE2XOYo/eNYl6OSVGB4GJmFJEkyaaDbw==",
-    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=6U4JZmk2V+5/vzwlAc64oqrXV9kOLCgIFjuUCyKjWZzw9aEsSZZwBYmVjTufPxR9kVRSv3cqN0rOGpvqLRhdhg==",
-    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=mcvJMgtqK6J/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbLK57eHJ3nuSUrIiEHs+eLQ==",
-    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=/DlNpzD1+Ht/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbhWshYRPDbI/hZXm80Ci7Mg==",
-    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=8snrafD7etJ/vzwlAc64oqrXV9kOLCgIEL+LQ8MADOePjLjQj/RhX1MV6PYzu0v2HGvnIrgSH0wM0USG2/5apCxTkNjn8nE8uvtfEQfauKk=",
+    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=GZcFGY2tRXB/vzwlAc64oqrXV9kOLCgIZ1aIEUgqNASCvi6dg5uENqidmQwWjiEDt9MR1YPIKr/8T8LUVe1vbGBCiXRoB+ZGxstNyw6fxvsDMLOtpZURyc1T58gdoWzR7KFRCwvsfcIMkH0tzH/h86nE2XOYo/eNBqcT4IAXV16yUbh65dgOfw==",
+    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=6U4JZmk2V+5/vzwlAc64oqrXV9kOLCgIFjuUCyKjWZzw9aEsSZZwBYmVjTufPxR9u/pLVcvJJHYLCwQRrB8Ujg==",
+    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=mcvJMgtqK6J/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAb79DOHSN6J8dJW1erqoZJeQ==",
+    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=/DlNpzD1+Ht/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbgYdepY4qbRz9GVydAhkraQ==",
+    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=8snrafD7etJ/vzwlAc64oqrXV9kOLCgIEL+LQ8MADOePjLjQj/RhX1MV6PYzu0v2HGvnIrgSH0wM0USG2/5apHoi7v+B6S5AJfOqswGNjhU=",
     "http://news.sina.com.cn/s/p/2013-11-14/040328703425.shtml##",
-    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=AbwWVEmoLRd/vzwlAc64oqrXV9kOLCgIlxQP3InBGDh2cmCL98CJvVJTnQmkgqOl4sgsiB0J48w=",
-    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=/BN5poRSXnx/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbxWZDNfv1AH7Vjkzksq3t9A==",
-    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=Ni8TT/NuTSt/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbuEUmhimiDnXVt0zxiNXBVA==",
-    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=jDFGqQM/JyZ/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbMuoiDyPNEZHg/NR8vozBtw==",
-    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=K/fIOmcnZBl/vzwlAc64oqrXV9kOLCgIHuHNlW8mQlxxrO6PpJMt+RoJYxSc4tXgIZqOYDBiRBg=",
+    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=AbwWVEmoLRd/vzwlAc64oqrXV9kOLCgIlxQP3InBGDh2cmCL98CJveQizFeE+sTfIzB1pViFO3o=",
+    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=K/fIOmcnZBl/vzwlAc64oqrXV9kOLCgIHuHNlW8mQlxxrO6PpJMt+cWmIBtop5YQoEgyqlyGpqs=",
+    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=/BN5poRSXnx/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbf/imaVOlMqu+k/GqQBWQ5w==",
+    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=jDFGqQM/JyZ/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAb+Xw6bv6xDiel7diSGsR5CA==",
+    "http://pfpclick.sina.com.cn/click/cpcclick.php?ad=Ni8TT/NuTSt/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbpjNFFCiHWNXQwHUMPcheeA==",
     "http://news.sina.com.cn/s/p/2013-11-14/040328703425.shtml##",
     "http://app.sina.com.cn/appdetail.php?appID=1202481&f=p_wenjiao&w=p_wenjiao",
     "http://app.sina.com.cn/appdetail.php?appID=719776&f=p_wenjiao&w=p_wenjiao",
@@ -396,18 +424,18 @@
     "http://www.xynbg.com/sina/2452.html",
     "http://bd2.huowan.com/fy62001.html",
     "http://bd2.huowan.com/fy62001.html",
-    "http://blog.sina.com.cn/lm/ruiblog",
-    "http://blog.sina.com.cn/lm/ruiblog",
-    "http://edu.sina.com.cn/",
-    "http://edu.sina.com.cn/",
     "http://edu.sina.com.cn/official/",
     "http://edu.sina.com.cn/official/",
-    "http://sports.sina.com.cn/nba/",
-    "http://sports.sina.com.cn/nba/",
     "http://edu.sina.com.cn/",
     "http://edu.sina.com.cn/",
     "http://blog.sina.com.cn/lm/ruiblog",
     "http://blog.sina.com.cn/lm/ruiblog",
+    "http://edu.sina.com.cn/",
+    "http://edu.sina.com.cn/",
+    "http://blog.sina.com.cn/lm/ruiblog",
+    "http://blog.sina.com.cn/lm/ruiblog",
+    "http://sports.sina.com.cn/nba/",
+    "http://sports.sina.com.cn/nba/",
     "http://corp.sina.com.cn/chn/",
     "http://corp.sina.com.cn/eng/",
     "http://emarketing.sina.com.cn/",
@@ -426,34 +454,15 @@
     "javascript:;",
     "http://login.sina.com.cn/getpass.html",
     "https://login.sina.com.cn/signup/signup.php?entry=account",
-    "https://login.sina.com.cn/signup/signup.php?entry=account",
-    "http://www.bshare.cn/intro",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "javascript:;",
-    "http://www.bshare.cn/"
+    "https://login.sina.com.cn/signup/signup.php?entry=account"
   ],
   "texts": [
     {
       "bound": {
         "height": 48,
-        "left": 711,
+        "left": 682,
         "top": 3951,
-        "width": 191
+        "width": 250
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -476,10 +485,10 @@
         "classes": [
           "rtw2-md-title"
         ],
-        "id": "rtw13845076088795464Title",
+        "id": "rtw13845756297896585Title",
         "name": "a"
       },
-      "html": "李某某等强奸案下周二二审",
+      "html": "美华人就辱华言论发起抵制迪士尼",
       "path": [
         "div",
         "div",
@@ -506,19 +515,19 @@
           "classes": [
             "rtw2-md"
           ],
-          "id": "rtw13845076088795464Md",
+          "id": "rtw13845756297896585Md",
           "name": "div"
         },
         {
           "classes": [
             "rtw2-md-title"
           ],
-          "id": "rtw13845076088795464Title",
+          "id": "rtw13845756297896585Title",
           "name": "a"
         }
       ],
       "text": [
-        "李某某等强奸案下周二二审"
+        "美华人就辱华言论发起抵制迪士尼"
       ]
     },
     {
@@ -574,7 +583,7 @@
       "bound": {
         "height": 18,
         "left": 1350,
-        "top": 494,
+        "top": 496,
         "width": 40
       },
       "computed": {
@@ -626,7 +635,7 @@
         "height": 32,
         "left": 317,
         "top": 2,
-        "width": 40
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -690,9 +699,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 357,
+        "left": 360,
         "top": 2,
-        "width": 40
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -756,9 +765,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 397,
+        "left": 403,
         "top": 2,
-        "width": 40
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -822,7 +831,7 @@
     {
       "bound": {
         "height": 32,
-        "left": 437,
+        "left": 446,
         "top": 2,
         "width": 41
       },
@@ -888,7 +897,7 @@
     {
       "bound": {
         "height": 32,
-        "left": 478,
+        "left": 489,
         "top": 2,
         "width": 41
       },
@@ -954,9 +963,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 519,
+        "left": 532,
         "top": 2,
-        "width": 39
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1020,7 +1029,7 @@
     {
       "bound": {
         "height": 32,
-        "left": 558,
+        "left": 575,
         "top": 2,
         "width": 41
       },
@@ -1086,9 +1095,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 599,
+        "left": 618,
         "top": 2,
-        "width": 39
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1152,9 +1161,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 638,
+        "left": 661,
         "top": 2,
-        "width": 39
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1218,7 +1227,7 @@
     {
       "bound": {
         "height": 32,
-        "left": 677,
+        "left": 704,
         "top": 2,
         "width": 41
       },
@@ -1284,9 +1293,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 718,
+        "left": 747,
         "top": 2,
-        "width": 40
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1350,7 +1359,7 @@
     {
       "bound": {
         "height": 32,
-        "left": 758,
+        "left": 790,
         "top": 2,
         "width": 41
       },
@@ -1416,9 +1425,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 799,
+        "left": 833,
         "top": 2,
-        "width": 40
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1482,9 +1491,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 839,
+        "left": 876,
         "top": 2,
-        "width": 39
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1548,9 +1557,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 878,
+        "left": 919,
         "top": 2,
-        "width": 39
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1614,9 +1623,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 917,
+        "left": 962,
         "top": 2,
-        "width": 39
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1680,9 +1689,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 956,
+        "left": 1005,
         "top": 2,
-        "width": 39
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1746,9 +1755,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 995,
+        "left": 1048,
         "top": 2,
-        "width": 40
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1812,9 +1821,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 1035,
+        "left": 1091,
         "top": 2,
-        "width": 40
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1878,9 +1887,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 1075,
+        "left": 1134,
         "top": 2,
-        "width": 40
+        "width": 42
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -1948,10 +1957,74 @@
     },
     {
       "bound": {
+        "height": 26,
+        "left": 1189,
+        "top": 2,
+        "width": 86
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "padding-bottom": "0px",
+        "padding-right": "6px",
+        "padding-top": "6px"
+      },
+      "element": {
+        "classes": [
+          "wt_unlogin"
+        ],
+        "id": "J_Unlogin_A",
+        "name": "div"
+      },
+      "html": "<a href=\"https://login.sina.com.cn/signup/signup.php\" target=\"_blank\">注册</a> | <span id=\"J_Login_Btn_A\"><a class=\"outlogin_LoginBtn\" href=\"javascript:;\"><span class=\"LoginIcon\"></span><span class=\"LoginTx\">登录</span></a></span><!-- <a href=\"javascript:;\" class=\"wt_login_btn\" title=\"用微博登陆\" id=\"J_Login_Btn_A\"></a> -->",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "navFixed",
+            "navTop"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nc"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav_weibo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wt_unlogin"
+          ],
+          "id": "J_Unlogin_A",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "注册",
+        " | ",
+        "登录"
+      ]
+    },
+    {
+      "bound": {
         "height": 32,
         "left": 434,
         "top": 55,
-        "width": 169
+        "width": 173
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -2106,7 +2179,7 @@
       "bound": {
         "height": 35,
         "left": 346,
-        "top": 102,
+        "top": 103,
         "width": 598
       },
       "computed": {
@@ -2191,7 +2264,7 @@
       "bound": {
         "height": 43,
         "left": 346,
-        "top": 137,
+        "top": 140,
         "width": 598
       },
       "computed": {
@@ -2217,7 +2290,7 @@
         "id": "",
         "name": "div"
       },
-      "html": "\n              <span id=\"pub_date\">2013年11月14日04:03</span>&nbsp;&nbsp;<span id=\"media_name\"><span data-sudaclick=\"media_name\"><a href=\"http://e.chinacqsb.com/html/2013-11/14/content_391045.htm\" target=\"_blank\">重庆商报</a> <a href=\"http://e.chinacqsb.com/html/2013-11/14/content_391045.htm\" target=\"_blank\"></a> </span><a id=\"media_weibo\" data-sudaclick=\"media_weibo\" class=\"weibo-card-dropdown\" href=\"http://weibo.com/cqsb?zwm=news\" onmouseover=\"WeiboCard.show(1884334303, 'news' , this)\">微博</a>\n</span> <a id=\"media_comment\" href=\"#J_Comment_Wrap\" rel=\"我有话说\" class=\"J_Comment_Count_Txt\" style=\"display:none;\" action-type=\"anchorGo\" action-data=\"y=-50\" data-sudaclick=\"media_comment\">我有话说</a>\n                <div class=\"font_change\" data-sudaclick=\"font_change\" id=\"J_Font_Zoomer\">\n                    <span font-size=\"14\">\n                      <a class=\"J_Font_Zoomer_Trigger icon font_down font_down_disable\" action-type=\"fontZoom\" action-data=\"type=down\" href=\"javascript:void(0);\" title=\"减小字号\"></a><a class=\"J_Font_Zoomer_Trigger icon font_up\" action-type=\"fontZoom\" action-data=\"type=up\" href=\"javascript:void(0);\" title=\"加大字号\"></a></span>\n                </div>  \n",
+      "html": "\n              <span id=\"pub_date\">2013年11月14日04:03</span>&nbsp;&nbsp;<span id=\"media_name\"><span data-sudaclick=\"media_name\"><a href=\"http://e.chinacqsb.com/html/2013-11/14/content_391045.htm\" target=\"_blank\">重庆商报</a> <a href=\"http://e.chinacqsb.com/html/2013-11/14/content_391045.htm\" target=\"_blank\"></a> </span><a id=\"media_weibo\" data-sudaclick=\"media_weibo\" class=\"weibo-card-dropdown\" href=\"http://weibo.com/cqsb?zwm=news\" onmouseover=\"WeiboCard.show(1884334303, 'news' , this)\">微博</a>\n</span> <a id=\"media_comment\" href=\"#J_Comment_Wrap\" rel=\"我有话说\" class=\"J_Comment_Count_Txt\" style=\"display:none;\" action-type=\"anchorGo\" action-data=\"y=-50\" data-sudaclick=\"media_comment\">我有话说</a>\n                <div class=\"font_change\" data-sudaclick=\"font_change\" id=\"J_Font_Zoomer\">\n                    <span font-size=\"14\">\n                      <a class=\"J_Font_Zoomer_Trigger icon font_down font_down_disable\" action-type=\"fontZoom\" action-data=\"type=down\" href=\"javascript:void(0);\" title=\"\"></a><a class=\"J_Font_Zoomer_Trigger icon font_up\" action-type=\"fontZoom\" action-data=\"type=up\" href=\"javascript:void(0);\" title=\"加大字号\"></a></span>\n                </div>  \n",
       "path": [
         "div",
         "div",
@@ -2279,9 +2352,9 @@
     {
       "bound": {
         "height": 22,
-        "left": 713,
-        "top": 147,
-        "width": 39
+        "left": 715,
+        "top": 151,
+        "width": 41
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -2384,8 +2457,8 @@
       "bound": {
         "height": 30,
         "left": 381,
-        "top": 662,
-        "width": 61
+        "top": 668,
+        "width": 66
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -2462,7 +2535,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -2503,9 +2578,9 @@
     {
       "bound": {
         "height": 32,
-        "left": 572,
-        "top": 1065,
-        "width": 147
+        "left": 567,
+        "top": 1071,
+        "width": 156
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -2580,7 +2655,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -2608,7 +2685,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 1122,
+        "top": 1130,
         "width": 560
       },
       "computed": {
@@ -2675,7 +2752,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -2694,7 +2773,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 1160,
+        "top": 1170,
         "width": 560
       },
       "computed": {
@@ -2761,7 +2840,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -2780,7 +2861,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 1198,
+        "top": 1210,
         "width": 560
       },
       "computed": {
@@ -2847,7 +2928,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -2866,7 +2949,7 @@
       "bound": {
         "height": 92,
         "left": 365,
-        "top": 1236,
+        "top": 1250,
         "width": 560
       },
       "computed": {
@@ -2933,7 +3016,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -2952,7 +3037,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 1343,
+        "top": 1359,
         "width": 560
       },
       "computed": {
@@ -3019,7 +3104,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -3038,7 +3125,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 1381,
+        "top": 1399,
         "width": 560
       },
       "computed": {
@@ -3105,7 +3192,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -3124,7 +3213,7 @@
       "bound": {
         "height": 92,
         "left": 365,
-        "top": 1419,
+        "top": 1439,
         "width": 560
       },
       "computed": {
@@ -3191,7 +3280,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -3210,7 +3301,7 @@
       "bound": {
         "height": 92,
         "left": 365,
-        "top": 1526,
+        "top": 1548,
         "width": 560
       },
       "computed": {
@@ -3277,7 +3368,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -3296,7 +3389,7 @@
       "bound": {
         "height": 92,
         "left": 365,
-        "top": 1633,
+        "top": 1657,
         "width": 560
       },
       "computed": {
@@ -3363,7 +3456,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -3382,7 +3477,7 @@
       "bound": {
         "height": 115,
         "left": 365,
-        "top": 1740,
+        "top": 1766,
         "width": 560
       },
       "computed": {
@@ -3449,7 +3544,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -3468,7 +3565,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 1870,
+        "top": 1898,
         "width": 560
       },
       "computed": {
@@ -3535,7 +3632,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -3554,7 +3653,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 1908,
+        "top": 1938,
         "width": 560
       },
       "computed": {
@@ -3621,7 +3720,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -3640,7 +3741,7 @@
       "bound": {
         "height": 69,
         "left": 365,
-        "top": 1946,
+        "top": 1978,
         "width": 560
       },
       "computed": {
@@ -3707,7 +3808,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -3726,7 +3829,7 @@
       "bound": {
         "height": 138,
         "left": 365,
-        "top": 2030,
+        "top": 2064,
         "width": 560
       },
       "computed": {
@@ -3793,7 +3896,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -3810,9 +3915,9 @@
     },
     {
       "bound": {
-        "height": 92,
+        "height": 115,
         "left": 365,
-        "top": 2183,
+        "top": 2219,
         "width": 560
       },
       "computed": {
@@ -3879,7 +3984,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -3898,7 +4005,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 2290,
+        "top": 2351,
         "width": 560
       },
       "computed": {
@@ -3965,7 +4072,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -3984,7 +4093,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 2328,
+        "top": 2391,
         "width": 560
       },
       "computed": {
@@ -4051,7 +4160,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -4070,7 +4181,7 @@
       "bound": {
         "height": 46,
         "left": 365,
-        "top": 2366,
+        "top": 2431,
         "width": 560
       },
       "computed": {
@@ -4137,7 +4248,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -4156,7 +4269,7 @@
       "bound": {
         "height": 92,
         "left": 365,
-        "top": 2427,
+        "top": 2494,
         "width": 560
       },
       "computed": {
@@ -4223,7 +4336,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -4242,7 +4357,7 @@
       "bound": {
         "height": 92,
         "left": 365,
-        "top": 2534,
+        "top": 2603,
         "width": 560
       },
       "computed": {
@@ -4309,7 +4424,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -4328,7 +4445,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 2641,
+        "top": 2712,
         "width": 560
       },
       "computed": {
@@ -4395,7 +4512,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -4414,7 +4533,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 2679,
+        "top": 2752,
         "width": 560
       },
       "computed": {
@@ -4481,7 +4600,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -4500,7 +4621,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 2717,
+        "top": 2792,
         "width": 560
       },
       "computed": {
@@ -4567,7 +4688,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -4586,7 +4709,7 @@
       "bound": {
         "height": 69,
         "left": 365,
-        "top": 2755,
+        "top": 2832,
         "width": 560
       },
       "computed": {
@@ -4653,7 +4776,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -4672,7 +4797,7 @@
       "bound": {
         "height": 207,
         "left": 365,
-        "top": 2839,
+        "top": 2941,
         "width": 560
       },
       "computed": {
@@ -4739,7 +4864,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -4758,7 +4885,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 3061,
+        "top": 3165,
         "width": 560
       },
       "computed": {
@@ -4825,7 +4952,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -4844,7 +4973,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 3099,
+        "top": 3205,
         "width": 560
       },
       "computed": {
@@ -4911,7 +5040,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -4930,7 +5061,7 @@
       "bound": {
         "height": 23,
         "left": 365,
-        "top": 3137,
+        "top": 3245,
         "width": 560
       },
       "computed": {
@@ -4997,7 +5128,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -5016,7 +5149,7 @@
       "bound": {
         "height": 92,
         "left": 365,
-        "top": 3175,
+        "top": 3285,
         "width": 560
       },
       "computed": {
@@ -5083,7 +5216,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -5102,7 +5237,7 @@
       "bound": {
         "height": 92,
         "left": 365,
-        "top": 3282,
+        "top": 3394,
         "width": 560
       },
       "computed": {
@@ -5169,7 +5304,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -5188,7 +5325,7 @@
       "bound": {
         "height": 33,
         "left": 365,
-        "top": 3427,
+        "top": 3541,
         "width": 560
       },
       "computed": {
@@ -5259,7 +5396,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -5280,7 +5419,7 @@
       "bound": {
         "height": 28,
         "left": 365,
-        "top": 3460,
+        "top": 3576,
         "width": 560
       },
       "computed": {
@@ -5344,7 +5483,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -5365,8 +5506,8 @@
       "bound": {
         "height": 30,
         "left": 369,
-        "top": 3510,
-        "width": 66
+        "top": 3628,
+        "width": 64
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -5478,7 +5619,7 @@
       "bound": {
         "height": 24,
         "left": 372,
-        "top": 3545,
+        "top": 3663,
         "width": 549
       },
       "computed": {
@@ -5599,7 +5740,7 @@
       "bound": {
         "height": 24,
         "left": 372,
-        "top": 3569,
+        "top": 3689,
         "width": 549
       },
       "computed": {
@@ -5720,7 +5861,7 @@
       "bound": {
         "height": 24,
         "left": 372,
-        "top": 3593,
+        "top": 3715,
         "width": 549
       },
       "computed": {
@@ -5841,7 +5982,7 @@
       "bound": {
         "height": 24,
         "left": 372,
-        "top": 3617,
+        "top": 3741,
         "width": 549
       },
       "computed": {
@@ -5962,7 +6103,7 @@
       "bound": {
         "height": 24,
         "left": 372,
-        "top": 3641,
+        "top": 3767,
         "width": 549
       },
       "computed": {
@@ -6083,7 +6224,7 @@
       "bound": {
         "height": 30,
         "left": 366,
-        "top": 3692,
+        "top": 3820,
         "width": 558
       },
       "computed": {
@@ -6185,9 +6326,9 @@
     {
       "bound": {
         "height": 25,
-        "left": 703,
-        "top": 3779,
-        "width": 41
+        "left": 700,
+        "top": 3907,
+        "width": 44
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -6283,7 +6424,7 @@
       "bound": {
         "height": 20,
         "left": 366,
-        "top": 3844,
+        "top": 3972,
         "width": 558
       },
       "computed": {
@@ -6371,8 +6512,8 @@
       "bound": {
         "height": 30,
         "left": 366,
-        "top": 3885,
-        "width": 66
+        "top": 4015,
+        "width": 64
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -6476,7 +6617,7 @@
       "bound": {
         "height": 24,
         "left": 366,
-        "top": 3924,
+        "top": 4054,
         "width": 297
       },
       "computed": {
@@ -6499,7 +6640,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/150628720772.shtml\" target=\"_blank\" title=\"网友盘点最适合做女友十大职业:护士空姐上榜\">网友盘点最适合做女友十大职业:护士空姐上榜</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/110628727461.shtml\" target=\"_blank\" title=\"新疆巴楚暴力恐怖事件15名烈士母亲获救助金\">新疆巴楚暴力恐怖事件15名烈士母亲获救助金</a>",
       "path": [
         "div",
         "div",
@@ -6587,14 +6728,14 @@
         }
       ],
       "text": [
-        "网友盘点最适合做女友十大职业:护士空姐上榜"
+        "新疆巴楚暴力恐怖事件15名烈士母亲获救助金"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 366,
-        "top": 3948,
+        "top": 4080,
         "width": 297
       },
       "computed": {
@@ -6617,7 +6758,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/w/2013-11-15/150528721078.shtml\" target=\"_blank\" title=\"美国客机一名乘客从600米高空跌出机舱\">美国客机一名乘客从600米高空跌出机舱</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/w/2013-11-16/103328727409.shtml\" target=\"_blank\" title=\"台风海燕致菲律宾遇难人数升至4460人\">台风海燕致菲律宾遇难人数升至4460人</a>",
       "path": [
         "div",
         "div",
@@ -6705,14 +6846,14 @@
         }
       ],
       "text": [
-        "美国客机一名乘客从600米高空跌出机舱"
+        "台风海燕致菲律宾遇难人数升至4460人"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 366,
-        "top": 3972,
+        "top": 4106,
         "width": 297
       },
       "computed": {
@@ -6735,7 +6876,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/130028719968.shtml\" target=\"_blank\" title=\"李克强见荷兰首相提大黄鸭:表明两国可沟通心灵\">李克强见荷兰首相提大黄鸭:表明两国可沟通心灵</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/101328727303.shtml\" target=\"_blank\" title=\"上海民众悼念静安区高层特大火灾3周年\">上海民众悼念静安区高层特大火灾3周年</a>",
       "path": [
         "div",
         "div",
@@ -6823,14 +6964,14 @@
         }
       ],
       "text": [
-        "李克强见荷兰首相提大黄鸭:表明两国可沟通心灵"
+        "上海民众悼念静安区高层特大火灾3周年"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 366,
-        "top": 3996,
+        "top": 4132,
         "width": 297
       },
       "computed": {
@@ -6853,7 +6994,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/p/2013-11-15/125828719781.shtml\" target=\"_blank\" title=\"14岁少年流浪乞讨 每攒2000元回家孝顺爷爷(图)\">14岁少年流浪乞讨 每攒2000元回家孝顺爷爷(图)</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/094428727160.shtml\" target=\"_blank\" title=\"毛泽东诞辰120年音乐会将举行 曾庆淮任总策划\">毛泽东诞辰120年音乐会将举行 曾庆淮任总策划</a>",
       "path": [
         "div",
         "div",
@@ -6941,14 +7082,14 @@
         }
       ],
       "text": [
-        "14岁少年流浪乞讨 每攒2000元回家孝顺爷爷(图)"
+        "毛泽东诞辰120年音乐会将举行 曾庆淮任总策划"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 366,
-        "top": 4020,
+        "top": 4158,
         "width": 297
       },
       "computed": {
@@ -6971,7 +7112,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/123628719638.shtml\" target=\"_blank\" title=\"大学生拉条幅向女生示爱遭拒 啜泣踩灭蜡烛离场\">大学生拉条幅向女生示爱遭拒 啜泣踩灭蜡烛离场</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/093628727139.shtml\" target=\"_blank\" title=\"哈尔滨火车站前商服楼起火 伤亡情况不明\">哈尔滨火车站前商服楼起火 伤亡情况不明</a>",
       "path": [
         "div",
         "div",
@@ -7059,14 +7200,14 @@
         }
       ],
       "text": [
-        "大学生拉条幅向女生示爱遭拒 啜泣踩灭蜡烛离场"
+        "哈尔滨火车站前商服楼起火 伤亡情况不明"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 663,
-        "top": 3924,
+        "top": 4054,
         "width": 297
       },
       "computed": {
@@ -7089,7 +7230,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/113828719391.shtml\" target=\"_blank\" title=\"大连翻斗车与面包车相撞致7死多伤\">大连翻斗车与面包车相撞致7死多伤</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/090028727003.shtml\" target=\"_blank\" title=\"武大出租教育用地建商场 租期50年租金1亿元\">武大出租教育用地建商场 租期50年租金1亿元</a>",
       "path": [
         "div",
         "div",
@@ -7177,14 +7318,14 @@
         }
       ],
       "text": [
-        "大连翻斗车与面包车相撞致7死多伤"
+        "武大出租教育用地建商场 租期50年租金1亿元"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 663,
-        "top": 3948,
+        "top": 4080,
         "width": 297
       },
       "computed": {
@@ -7207,7 +7348,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/101828718648.shtml\" target=\"_blank\" title=\"夫妻因两个患尿毒症孩子去世打医生 打人者被拘\">夫妻因两个患尿毒症孩子去世打医生 打人者被拘</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/082928727110.shtml\" target=\"_blank\" title=\"专家称大陆至少拒绝5个台“邦交国”建交请求\">专家称大陆至少拒绝5个台“邦交国”建交请求</a>",
       "path": [
         "div",
         "div",
@@ -7295,14 +7436,14 @@
         }
       ],
       "text": [
-        "夫妻因两个患尿毒症孩子去世打医生 打人者被拘"
+        "专家称大陆至少拒绝5个台“邦交国”建交请求"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 663,
-        "top": 3972,
+        "top": 4106,
         "width": 297
       },
       "computed": {
@@ -7325,7 +7466,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/w/2013-11-15/094728718393.shtml\" target=\"_blank\" title=\"日本市议员涉嫌携毒在中国被拘留\">日本市议员涉嫌携毒在中国被拘留</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/055028725607.shtml\" target=\"_blank\" title=\"中国等要求污染量计算从工业革命开始 美欧反对\">中国等要求污染量计算从工业革命开始 美欧反对</a>",
       "path": [
         "div",
         "div",
@@ -7413,14 +7554,14 @@
         }
       ],
       "text": [
-        "日本市议员涉嫌携毒在中国被拘留"
+        "中国等要求污染量计算从工业革命开始 美欧反对"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 663,
-        "top": 3996,
+        "top": 4132,
         "width": 297
       },
       "computed": {
@@ -7443,7 +7584,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/094228718385.shtml\" target=\"_blank\" title=\"大陆将领后代访两蒋园区:让上一代恩怨留上一代\">大陆将领后代访两蒋园区:让上一代恩怨留上一代</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/p/2013-11-16/051928725327.shtml\" target=\"_blank\" title=\"咸阳科协官网发官员穿鞋套调研图 网友围观(图)\">咸阳科协官网发官员穿鞋套调研图 网友围观(图)</a>",
       "path": [
         "div",
         "div",
@@ -7531,14 +7672,14 @@
         }
       ],
       "text": [
-        "大陆将领后代访两蒋园区:让上一代恩怨留上一代"
+        "咸阳科协官网发官员穿鞋套调研图 网友围观(图)"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 663,
-        "top": 4020,
+        "top": 4158,
         "width": 297
       },
       "computed": {
@@ -7561,7 +7702,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/084328717545.shtml\" target=\"_blank\" title=\"台媒称冈比亚宣布与台北断绝“外交关系”\">台媒称冈比亚宣布与台北断绝“外交关系”</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-16/044428725244.shtml\" target=\"_blank\" title=\"聋哑人士跑6趟难领结婚证 民政局称其无法表达\">聋哑人士跑6趟难领结婚证 民政局称其无法表达</a>",
       "path": [
         "div",
         "div",
@@ -7649,14 +7790,14 @@
         }
       ],
       "text": [
-        "台媒称冈比亚宣布与台北断绝“外交关系”"
+        "聋哑人士跑6趟难领结婚证 民政局称其无法表达"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 960,
-        "top": 3924,
+        "top": 4054,
         "width": 297
       },
       "computed": {
@@ -7679,7 +7820,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/w/2013-11-15/083628717597.shtml\" target=\"_blank\" title=\"日媒称朝鲜普及娱乐设施 市民溜冰0.3元人民币\">日媒称朝鲜普及娱乐设施 市民溜冰0.3元人民币</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/044428725243.shtml\" target=\"_blank\" title=\"央行杭州分行领导殴打女医生被免职\">央行杭州分行领导殴打女医生被免职</a>",
       "path": [
         "div",
         "div",
@@ -7767,14 +7908,14 @@
         }
       ],
       "text": [
-        "日媒称朝鲜普及娱乐设施 市民溜冰0.3元人民币"
+        "央行杭州分行领导殴打女医生被免职"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 960,
-        "top": 3948,
+        "top": 4080,
         "width": 297
       },
       "computed": {
@@ -7797,7 +7938,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/p/2013-11-15/075628716904.shtml\" target=\"_blank\" title=\"习近平28年前给万元户签章颁发证书现身(图)\">习近平28年前给万元户签章颁发证书现身(图)</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/044428725231.shtml\" target=\"_blank\" title=\"重庆被劳教大学生村官任建宇：终于等到这一天\">重庆被劳教大学生村官任建宇：终于等到这一天</a>",
       "path": [
         "div",
         "div",
@@ -7885,14 +8026,14 @@
         }
       ],
       "text": [
-        "习近平28年前给万元户签章颁发证书现身(图)"
+        "重庆被劳教大学生村官任建宇：终于等到这一天"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 960,
-        "top": 3972,
+        "top": 4106,
         "width": 297
       },
       "computed": {
@@ -7915,7 +8056,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/072728716565.shtml\" target=\"_blank\" title=\"我军今日将在渤海海峡黄海进行军事行动\">我军今日将在渤海海峡黄海进行军事行动</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/044428725248.shtml\" target=\"_blank\" title=\"安徽芜湖民生工程被质疑为获利搭车多征土地\">安徽芜湖民生工程被质疑为获利搭车多征土地</a>",
       "path": [
         "div",
         "div",
@@ -8003,14 +8144,14 @@
         }
       ],
       "text": [
-        "我军今日将在渤海海峡黄海进行军事行动"
+        "安徽芜湖民生工程被质疑为获利搭车多征土地"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 960,
-        "top": 3996,
+        "top": 4132,
         "width": 297
       },
       "computed": {
@@ -8033,7 +8174,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/070328716142.shtml\" target=\"_blank\" title=\"小伙诈骗单身妈妈豪车名表及百万现金后失踪\">小伙诈骗单身妈妈豪车名表及百万现金后失踪</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/044428725241.shtml\" target=\"_blank\" title=\"湖南民企老总政府跳楼 警方不交遗书引家属不满\">湖南民企老总政府跳楼 警方不交遗书引家属不满</a>",
       "path": [
         "div",
         "div",
@@ -8121,14 +8262,14 @@
         }
       ],
       "text": [
-        "小伙诈骗单身妈妈豪车名表及百万现金后失踪"
+        "湖南民企老总政府跳楼 警方不交遗书引家属不满"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 960,
-        "top": 4020,
+        "top": 4158,
         "width": 297
       },
       "computed": {
@@ -8151,7 +8292,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/w/2013-11-15/061728715468.shtml\" target=\"_blank\" title=\"奥巴马安保小组主管与女子开房 子弹落在房内\">奥巴马安保小组主管与女子开房 子弹落在房内</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-16/044028725134.shtml\" target=\"_blank\" title=\"12岁女孩梦游6楼坠落双腿骨折 无性命危险\">12岁女孩梦游6楼坠落双腿骨折 无性命危险</a>",
       "path": [
         "div",
         "div",
@@ -8239,14 +8380,14 @@
         }
       ],
       "text": [
-        "奥巴马安保小组主管与女子开房 子弹落在房内"
+        "12岁女孩梦游6楼坠落双腿骨折 无性命危险"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1257,
-        "top": 3924,
+        "top": 4054,
         "width": 297
       },
       "computed": {
@@ -8269,7 +8410,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/053728714973.shtml\" target=\"_blank\" title=\"醉酒驾车村干部联合民警交警辅警换血样均获刑\">醉酒驾车村干部联合民警交警辅警换血样均获刑</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/044028725141.shtml\" target=\"_blank\" title=\"北京市民政局否认离婚率为39% 称实际为2.1‰\">北京市民政局否认离婚率为39% 称实际为2.1‰</a>",
       "path": [
         "div",
         "div",
@@ -8357,14 +8498,14 @@
         }
       ],
       "text": [
-        "醉酒驾车村干部联合民警交警辅警换血样均获刑"
+        "北京市民政局否认离婚率为39% 称实际为2.1‰"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1257,
-        "top": 3948,
+        "top": 4080,
         "width": 297
       },
       "computed": {
@@ -8387,7 +8528,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/050528714872.shtml\" target=\"_blank\" title=\"女教师为报复同事将其儿子勒死 庭审下跪求原谅\">女教师为报复同事将其儿子勒死 庭审下跪求原谅</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/044028725114.shtml\" target=\"_blank\" title=\"三中全会《决定》说明首次公布\">三中全会《决定》说明首次公布</a>",
       "path": [
         "div",
         "div",
@@ -8475,14 +8616,14 @@
         }
       ],
       "text": [
-        "女教师为报复同事将其儿子勒死 庭审下跪求原谅"
+        "三中全会《决定》说明首次公布"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1257,
-        "top": 3972,
+        "top": 4106,
         "width": 297
       },
       "computed": {
@@ -8505,7 +8646,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/050428714811.shtml\" target=\"_blank\" title=\"男子解救被困女孩遭殴打下肢截瘫 寻当事人作证\">男子解救被困女孩遭殴打下肢截瘫 寻当事人作证</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/043128725083.shtml\" target=\"_blank\" title=\"李某某案二审下周二开庭 尚未明确表达赔偿意愿\">李某某案二审下周二开庭 尚未明确表达赔偿意愿</a>",
       "path": [
         "div",
         "div",
@@ -8593,14 +8734,14 @@
         }
       ],
       "text": [
-        "男子解救被困女孩遭殴打下肢截瘫 寻当事人作证"
+        "李某某案二审下周二开庭 尚未明确表达赔偿意愿"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1257,
-        "top": 3996,
+        "top": 4132,
         "width": 297
       },
       "computed": {
@@ -8623,7 +8764,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/050028714869.shtml\" target=\"_blank\" title=\"国家统计局专家:居民收入34年增长71倍计算有误\">国家统计局专家:居民收入34年增长71倍计算有误</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/p/2013-11-16/041628725062.shtml\" target=\"_blank\" title=\"货车高速侧翻31吨橘子洒落 村民边抢边吃(组图)\">货车高速侧翻31吨橘子洒落 村民边抢边吃(组图)</a>",
       "path": [
         "div",
         "div",
@@ -8711,14 +8852,14 @@
         }
       ],
       "text": [
-        "国家统计局专家:居民收入34年增长71倍计算有误"
+        "货车高速侧翻31吨橘子洒落 村民边抢边吃(组图)"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1257,
-        "top": 4020,
+        "top": 4158,
         "width": 297
       },
       "computed": {
@@ -8741,7 +8882,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/050028714853.shtml\" target=\"_blank\" title=\"民进党否认党内已达成放弃法理台独共识\">民进党否认党内已达成放弃法理台独共识</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-16/041128724901.shtml\" target=\"_blank\" title=\"的哥失恋后报复社会劫杀6名女乘客被执行死刑\">的哥失恋后报复社会劫杀6名女乘客被执行死刑</a>",
       "path": [
         "div",
         "div",
@@ -8829,14 +8970,14 @@
         }
       ],
       "text": [
-        "民进党否认党内已达成放弃法理台独共识"
+        "的哥失恋后报复社会劫杀6名女乘客被执行死刑"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1554,
-        "top": 3924,
+        "top": 4054,
         "width": 297
       },
       "computed": {
@@ -8859,7 +9000,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/150628720772.shtml\" target=\"_blank\" title=\"网友盘点最适合做女友十大职业:护士空姐上榜\">网友盘点最适合做女友十大职业:护士空姐上榜</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/110628727461.shtml\" target=\"_blank\" title=\"新疆巴楚暴力恐怖事件15名烈士母亲获救助金\">新疆巴楚暴力恐怖事件15名烈士母亲获救助金</a>",
       "path": [
         "div",
         "div",
@@ -8947,14 +9088,14 @@
         }
       ],
       "text": [
-        "网友盘点最适合做女友十大职业:护士空姐上榜"
+        "新疆巴楚暴力恐怖事件15名烈士母亲获救助金"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1554,
-        "top": 3948,
+        "top": 4080,
         "width": 297
       },
       "computed": {
@@ -8977,7 +9118,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/w/2013-11-15/150528721078.shtml\" target=\"_blank\" title=\"美国客机一名乘客从600米高空跌出机舱\">美国客机一名乘客从600米高空跌出机舱</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/w/2013-11-16/103328727409.shtml\" target=\"_blank\" title=\"台风海燕致菲律宾遇难人数升至4460人\">台风海燕致菲律宾遇难人数升至4460人</a>",
       "path": [
         "div",
         "div",
@@ -9065,14 +9206,14 @@
         }
       ],
       "text": [
-        "美国客机一名乘客从600米高空跌出机舱"
+        "台风海燕致菲律宾遇难人数升至4460人"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1554,
-        "top": 3972,
+        "top": 4106,
         "width": 297
       },
       "computed": {
@@ -9095,7 +9236,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/130028719968.shtml\" target=\"_blank\" title=\"李克强见荷兰首相提大黄鸭:表明两国可沟通心灵\">李克强见荷兰首相提大黄鸭:表明两国可沟通心灵</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/101328727303.shtml\" target=\"_blank\" title=\"上海民众悼念静安区高层特大火灾3周年\">上海民众悼念静安区高层特大火灾3周年</a>",
       "path": [
         "div",
         "div",
@@ -9183,14 +9324,14 @@
         }
       ],
       "text": [
-        "李克强见荷兰首相提大黄鸭:表明两国可沟通心灵"
+        "上海民众悼念静安区高层特大火灾3周年"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1554,
-        "top": 3996,
+        "top": 4132,
         "width": 297
       },
       "computed": {
@@ -9213,7 +9354,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/p/2013-11-15/125828719781.shtml\" target=\"_blank\" title=\"14岁少年流浪乞讨 每攒2000元回家孝顺爷爷(图)\">14岁少年流浪乞讨 每攒2000元回家孝顺爷爷(图)</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/094428727160.shtml\" target=\"_blank\" title=\"毛泽东诞辰120年音乐会将举行 曾庆淮任总策划\">毛泽东诞辰120年音乐会将举行 曾庆淮任总策划</a>",
       "path": [
         "div",
         "div",
@@ -9301,14 +9442,14 @@
         }
       ],
       "text": [
-        "14岁少年流浪乞讨 每攒2000元回家孝顺爷爷(图)"
+        "毛泽东诞辰120年音乐会将举行 曾庆淮任总策划"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1554,
-        "top": 4020,
+        "top": 4158,
         "width": 297
       },
       "computed": {
@@ -9331,7 +9472,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/123628719638.shtml\" target=\"_blank\" title=\"大学生拉条幅向女生示爱遭拒 啜泣踩灭蜡烛离场\">大学生拉条幅向女生示爱遭拒 啜泣踩灭蜡烛离场</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/093628727139.shtml\" target=\"_blank\" title=\"哈尔滨火车站前商服楼起火 伤亡情况不明\">哈尔滨火车站前商服楼起火 伤亡情况不明</a>",
       "path": [
         "div",
         "div",
@@ -9419,14 +9560,14 @@
         }
       ],
       "text": [
-        "大学生拉条幅向女生示爱遭拒 啜泣踩灭蜡烛离场"
+        "哈尔滨火车站前商服楼起火 伤亡情况不明"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1851,
-        "top": 3924,
+        "top": 4054,
         "width": 297
       },
       "computed": {
@@ -9449,7 +9590,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/113828719391.shtml\" target=\"_blank\" title=\"大连翻斗车与面包车相撞致7死多伤\">大连翻斗车与面包车相撞致7死多伤</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/090028727003.shtml\" target=\"_blank\" title=\"武大出租教育用地建商场 租期50年租金1亿元\">武大出租教育用地建商场 租期50年租金1亿元</a>",
       "path": [
         "div",
         "div",
@@ -9537,14 +9678,14 @@
         }
       ],
       "text": [
-        "大连翻斗车与面包车相撞致7死多伤"
+        "武大出租教育用地建商场 租期50年租金1亿元"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1851,
-        "top": 3948,
+        "top": 4080,
         "width": 297
       },
       "computed": {
@@ -9567,7 +9708,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/101828718648.shtml\" target=\"_blank\" title=\"夫妻因两个患尿毒症孩子去世打医生 打人者被拘\">夫妻因两个患尿毒症孩子去世打医生 打人者被拘</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/082928727110.shtml\" target=\"_blank\" title=\"专家称大陆至少拒绝5个台“邦交国”建交请求\">专家称大陆至少拒绝5个台“邦交国”建交请求</a>",
       "path": [
         "div",
         "div",
@@ -9655,14 +9796,14 @@
         }
       ],
       "text": [
-        "夫妻因两个患尿毒症孩子去世打医生 打人者被拘"
+        "专家称大陆至少拒绝5个台“邦交国”建交请求"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1851,
-        "top": 3972,
+        "top": 4106,
         "width": 297
       },
       "computed": {
@@ -9685,7 +9826,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/w/2013-11-15/094728718393.shtml\" target=\"_blank\" title=\"日本市议员涉嫌携毒在中国被拘留\">日本市议员涉嫌携毒在中国被拘留</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/055028725607.shtml\" target=\"_blank\" title=\"中国等要求污染量计算从工业革命开始 美欧反对\">中国等要求污染量计算从工业革命开始 美欧反对</a>",
       "path": [
         "div",
         "div",
@@ -9773,14 +9914,14 @@
         }
       ],
       "text": [
-        "日本市议员涉嫌携毒在中国被拘留"
+        "中国等要求污染量计算从工业革命开始 美欧反对"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1851,
-        "top": 3996,
+        "top": 4132,
         "width": 297
       },
       "computed": {
@@ -9803,7 +9944,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/094228718385.shtml\" target=\"_blank\" title=\"大陆将领后代访两蒋园区:让上一代恩怨留上一代\">大陆将领后代访两蒋园区:让上一代恩怨留上一代</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/p/2013-11-16/051928725327.shtml\" target=\"_blank\" title=\"咸阳科协官网发官员穿鞋套调研图 网友围观(图)\">咸阳科协官网发官员穿鞋套调研图 网友围观(图)</a>",
       "path": [
         "div",
         "div",
@@ -9891,14 +10032,14 @@
         }
       ],
       "text": [
-        "大陆将领后代访两蒋园区:让上一代恩怨留上一代"
+        "咸阳科协官网发官员穿鞋套调研图 网友围观(图)"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 1851,
-        "top": 4020,
+        "top": 4158,
         "width": 297
       },
       "computed": {
@@ -9921,7 +10062,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/084328717545.shtml\" target=\"_blank\" title=\"台媒称冈比亚宣布与台北断绝“外交关系”\">台媒称冈比亚宣布与台北断绝“外交关系”</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-16/044428725244.shtml\" target=\"_blank\" title=\"聋哑人士跑6趟难领结婚证 民政局称其无法表达\">聋哑人士跑6趟难领结婚证 民政局称其无法表达</a>",
       "path": [
         "div",
         "div",
@@ -10009,14 +10150,14 @@
         }
       ],
       "text": [
-        "台媒称冈比亚宣布与台北断绝“外交关系”"
+        "聋哑人士跑6趟难领结婚证 民政局称其无法表达"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 2148,
-        "top": 3924,
+        "top": 4054,
         "width": 297
       },
       "computed": {
@@ -10039,7 +10180,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/w/2013-11-15/083628717597.shtml\" target=\"_blank\" title=\"日媒称朝鲜普及娱乐设施 市民溜冰0.3元人民币\">日媒称朝鲜普及娱乐设施 市民溜冰0.3元人民币</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/044428725243.shtml\" target=\"_blank\" title=\"央行杭州分行领导殴打女医生被免职\">央行杭州分行领导殴打女医生被免职</a>",
       "path": [
         "div",
         "div",
@@ -10127,14 +10268,14 @@
         }
       ],
       "text": [
-        "日媒称朝鲜普及娱乐设施 市民溜冰0.3元人民币"
+        "央行杭州分行领导殴打女医生被免职"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 2148,
-        "top": 3948,
+        "top": 4080,
         "width": 297
       },
       "computed": {
@@ -10157,7 +10298,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/p/2013-11-15/075628716904.shtml\" target=\"_blank\" title=\"习近平28年前给万元户签章颁发证书现身(图)\">习近平28年前给万元户签章颁发证书现身(图)</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/044428725231.shtml\" target=\"_blank\" title=\"重庆被劳教大学生村官任建宇：终于等到这一天\">重庆被劳教大学生村官任建宇：终于等到这一天</a>",
       "path": [
         "div",
         "div",
@@ -10245,14 +10386,14 @@
         }
       ],
       "text": [
-        "习近平28年前给万元户签章颁发证书现身(图)"
+        "重庆被劳教大学生村官任建宇：终于等到这一天"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 2148,
-        "top": 3972,
+        "top": 4106,
         "width": 297
       },
       "computed": {
@@ -10275,7 +10416,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/072728716565.shtml\" target=\"_blank\" title=\"我军今日将在渤海海峡黄海进行军事行动\">我军今日将在渤海海峡黄海进行军事行动</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/044428725248.shtml\" target=\"_blank\" title=\"安徽芜湖民生工程被质疑为获利搭车多征土地\">安徽芜湖民生工程被质疑为获利搭车多征土地</a>",
       "path": [
         "div",
         "div",
@@ -10363,14 +10504,14 @@
         }
       ],
       "text": [
-        "我军今日将在渤海海峡黄海进行军事行动"
+        "安徽芜湖民生工程被质疑为获利搭车多征土地"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 2148,
-        "top": 3996,
+        "top": 4132,
         "width": 297
       },
       "computed": {
@@ -10393,7 +10534,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/070328716142.shtml\" target=\"_blank\" title=\"小伙诈骗单身妈妈豪车名表及百万现金后失踪\">小伙诈骗单身妈妈豪车名表及百万现金后失踪</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/044428725241.shtml\" target=\"_blank\" title=\"湖南民企老总政府跳楼 警方不交遗书引家属不满\">湖南民企老总政府跳楼 警方不交遗书引家属不满</a>",
       "path": [
         "div",
         "div",
@@ -10481,14 +10622,14 @@
         }
       ],
       "text": [
-        "小伙诈骗单身妈妈豪车名表及百万现金后失踪"
+        "湖南民企老总政府跳楼 警方不交遗书引家属不满"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 2148,
-        "top": 4020,
+        "top": 4158,
         "width": 297
       },
       "computed": {
@@ -10511,7 +10652,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/w/2013-11-15/061728715468.shtml\" target=\"_blank\" title=\"奥巴马安保小组主管与女子开房 子弹落在房内\">奥巴马安保小组主管与女子开房 子弹落在房内</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-16/044028725134.shtml\" target=\"_blank\" title=\"12岁女孩梦游6楼坠落双腿骨折 无性命危险\">12岁女孩梦游6楼坠落双腿骨折 无性命危险</a>",
       "path": [
         "div",
         "div",
@@ -10599,14 +10740,14 @@
         }
       ],
       "text": [
-        "奥巴马安保小组主管与女子开房 子弹落在房内"
+        "12岁女孩梦游6楼坠落双腿骨折 无性命危险"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 2445,
-        "top": 3924,
+        "top": 4054,
         "width": 297
       },
       "computed": {
@@ -10629,7 +10770,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/053728714973.shtml\" target=\"_blank\" title=\"醉酒驾车村干部联合民警交警辅警换血样均获刑\">醉酒驾车村干部联合民警交警辅警换血样均获刑</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/044028725141.shtml\" target=\"_blank\" title=\"北京市民政局否认离婚率为39% 称实际为2.1‰\">北京市民政局否认离婚率为39% 称实际为2.1‰</a>",
       "path": [
         "div",
         "div",
@@ -10717,14 +10858,14 @@
         }
       ],
       "text": [
-        "醉酒驾车村干部联合民警交警辅警换血样均获刑"
+        "北京市民政局否认离婚率为39% 称实际为2.1‰"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 2445,
-        "top": 3948,
+        "top": 4080,
         "width": 297
       },
       "computed": {
@@ -10747,7 +10888,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/050528714872.shtml\" target=\"_blank\" title=\"女教师为报复同事将其儿子勒死 庭审下跪求原谅\">女教师为报复同事将其儿子勒死 庭审下跪求原谅</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/044028725114.shtml\" target=\"_blank\" title=\"三中全会《决定》说明首次公布\">三中全会《决定》说明首次公布</a>",
       "path": [
         "div",
         "div",
@@ -10835,14 +10976,14 @@
         }
       ],
       "text": [
-        "女教师为报复同事将其儿子勒死 庭审下跪求原谅"
+        "三中全会《决定》说明首次公布"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 2445,
-        "top": 3972,
+        "top": 4106,
         "width": 297
       },
       "computed": {
@@ -10865,7 +11006,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-15/050428714811.shtml\" target=\"_blank\" title=\"男子解救被困女孩遭殴打下肢截瘫 寻当事人作证\">男子解救被困女孩遭殴打下肢截瘫 寻当事人作证</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-16/043128725083.shtml\" target=\"_blank\" title=\"李某某案二审下周二开庭 尚未明确表达赔偿意愿\">李某某案二审下周二开庭 尚未明确表达赔偿意愿</a>",
       "path": [
         "div",
         "div",
@@ -10953,14 +11094,14 @@
         }
       ],
       "text": [
-        "男子解救被困女孩遭殴打下肢截瘫 寻当事人作证"
+        "李某某案二审下周二开庭 尚未明确表达赔偿意愿"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 2445,
-        "top": 3996,
+        "top": 4132,
         "width": 297
       },
       "computed": {
@@ -10983,7 +11124,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/050028714869.shtml\" target=\"_blank\" title=\"国家统计局专家:居民收入34年增长71倍计算有误\">国家统计局专家:居民收入34年增长71倍计算有误</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/p/2013-11-16/041628725062.shtml\" target=\"_blank\" title=\"货车高速侧翻31吨橘子洒落 村民边抢边吃(组图)\">货车高速侧翻31吨橘子洒落 村民边抢边吃(组图)</a>",
       "path": [
         "div",
         "div",
@@ -11071,14 +11212,14 @@
         }
       ],
       "text": [
-        "国家统计局专家:居民收入34年增长71倍计算有误"
+        "货车高速侧翻31吨橘子洒落 村民边抢边吃(组图)"
       ]
     },
     {
       "bound": {
         "height": 24,
         "left": 2445,
-        "top": 4020,
+        "top": 4158,
         "width": 297
       },
       "computed": {
@@ -11101,7 +11242,7 @@
         "id": "",
         "name": "li"
       },
-      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/c/2013-11-15/050028714853.shtml\" target=\"_blank\" title=\"民进党否认党内已达成放弃法理台独共识\">民进党否认党内已达成放弃法理台独共识</a>",
+      "html": "<a suda-uatrack=\"key=guess_v2&amp;value=click\" href=\"http://news.sina.com.cn/s/2013-11-16/041128724901.shtml\" target=\"_blank\" title=\"的哥失恋后报复社会劫杀6名女乘客被执行死刑\">的哥失恋后报复社会劫杀6名女乘客被执行死刑</a>",
       "path": [
         "div",
         "div",
@@ -11189,14 +11330,14 @@
         }
       ],
       "text": [
-        "民进党否认党内已达成放弃法理台独共识"
+        "的哥失恋后报复社会劫杀6名女乘客被执行死刑"
       ]
     },
     {
       "bound": {
         "height": 20,
         "left": 366,
-        "top": 4044,
+        "top": 4174,
         "width": 297
       },
       "computed": {
@@ -11290,9 +11431,9 @@
     {
       "bound": {
         "height": 20,
-        "left": 405,
-        "top": 4044,
-        "width": 63
+        "left": 407,
+        "top": 4175,
+        "width": 65
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -11396,8 +11537,8 @@
       "bound": {
         "height": 30,
         "left": 665,
-        "top": 3885,
-        "width": 147
+        "top": 4015,
+        "width": 144
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -11503,9 +11644,599 @@
     },
     {
       "bound": {
+        "height": 24,
+        "left": 668,
+        "top": 4054,
+        "width": 287
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -90px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "line-height": "24px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "13px",
+        "padding-top": "0px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a suda-uatrack=\"key=public_read&amp;value=1\" href=\"http://news.sina.com.cn/s/2013-11-14/151728710189.shtml\" target=\"_blank\" title=\"男子偷拍自己和女友开房经过骗钱财\">男子偷拍自己和女友开房经过骗钱财</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainerPblk"
+          ],
+          "id": "J_Article_Wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "content_aboutNews_new"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "can_right"
+          ],
+          "id": "readAndRead",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cblk_01",
+            "guess_dw"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "news-list-a"
+          ],
+          "id": "J_OtherViewList",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cc_list_01",
+            "cc_list_01t"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "男子偷拍自己和女友开房经过骗钱财"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 668,
+        "top": 4080,
+        "width": 287
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -90px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "line-height": "24px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "13px",
+        "padding-top": "0px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a suda-uatrack=\"key=public_read&amp;value=2\" href=\"http://news.sina.com.cn/c/2013-11-15/041728714517.shtml\" target=\"_blank\" title=\"人民日报:蓝天白云饿着肚皮不是美丽中国\">人民日报:蓝天白云饿着肚皮不是美丽中国</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainerPblk"
+          ],
+          "id": "J_Article_Wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "content_aboutNews_new"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "can_right"
+          ],
+          "id": "readAndRead",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cblk_01",
+            "guess_dw"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "news-list-a"
+          ],
+          "id": "J_OtherViewList",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cc_list_01",
+            "cc_list_01t"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "人民日报:蓝天白云饿着肚皮不是美丽中国"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 668,
+        "top": 4106,
+        "width": 287
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -90px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "line-height": "24px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "13px",
+        "padding-top": "0px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a suda-uatrack=\"key=public_read&amp;value=3\" href=\"http://news.sina.com.cn/s/2013-11-14/152328710224.shtml\" target=\"_blank\" title=\"八旬老人被五女一子遗弃寄宿派出所\">八旬老人被五女一子遗弃寄宿派出所</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainerPblk"
+          ],
+          "id": "J_Article_Wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "content_aboutNews_new"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "can_right"
+          ],
+          "id": "readAndRead",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cblk_01",
+            "guess_dw"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "news-list-a"
+          ],
+          "id": "J_OtherViewList",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cc_list_01",
+            "cc_list_01t"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "八旬老人被五女一子遗弃寄宿派出所"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 668,
+        "top": 4132,
+        "width": 287
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -90px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "line-height": "24px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "13px",
+        "padding-top": "0px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a suda-uatrack=\"key=public_read&amp;value=4\" href=\"http://news.sina.com.cn/c/2013-11-13/213228701798.shtml\" target=\"_blank\" title=\"青海1处收费站1日最多遭800辆车冲卡 特警上岗\">青海1处收费站1日最多遭800辆车冲卡 特警上岗</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainerPblk"
+          ],
+          "id": "J_Article_Wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "content_aboutNews_new"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "can_right"
+          ],
+          "id": "readAndRead",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cblk_01",
+            "guess_dw"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "news-list-a"
+          ],
+          "id": "J_OtherViewList",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cc_list_01",
+            "cc_list_01t"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "青海1处收费站1日最多遭800辆车冲卡 特警上岗"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 668,
+        "top": 4158,
+        "width": 287
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -90px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "line-height": "24px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "13px",
+        "padding-top": "0px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a suda-uatrack=\"key=public_read&amp;value=5\" href=\"http://finance.sina.com.cn/stock/gujiayidong/20131115/104117334674.shtml\" target=\"_blank\" title=\"快讯：新一轮上海国资改革启动将至 本地股暴涨\">快讯：新一轮上海国资改革启动将至 本地股暴涨</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainerPblk"
+          ],
+          "id": "J_Article_Wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "content_aboutNews_new"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "can_right"
+          ],
+          "id": "readAndRead",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cblk_01",
+            "guess_dw"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "news-list-a"
+          ],
+          "id": "J_OtherViewList",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cc_list_01",
+            "cc_list_01t"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "快讯：新一轮上海国资改革启动将至 本地股暴涨"
+      ]
+    },
+    {
+      "bound": {
         "height": 56,
         "left": 326,
-        "top": 4091,
+        "top": 4223,
         "width": 638
       },
       "computed": {
@@ -11593,7 +12324,7 @@
       "bound": {
         "height": 35,
         "left": 338,
-        "top": 4193,
+        "top": 4327,
         "width": 96
       },
       "computed": {
@@ -11693,7 +12424,7 @@
       "bound": {
         "height": 35,
         "left": 434,
-        "top": 4193,
+        "top": 4327,
         "width": 96
       },
       "computed": {
@@ -11793,7 +12524,7 @@
       "bound": {
         "height": 35,
         "left": 530,
-        "top": 4193,
+        "top": 4327,
         "width": 96
       },
       "computed": {
@@ -11893,7 +12624,7 @@
       "bound": {
         "height": 35,
         "left": 626,
-        "top": 4193,
+        "top": 4327,
         "width": 96
       },
       "computed": {
@@ -11993,7 +12724,7 @@
       "bound": {
         "height": 35,
         "left": 722,
-        "top": 4193,
+        "top": 4327,
         "width": 96
       },
       "computed": {
@@ -12093,7 +12824,7 @@
       "bound": {
         "height": 35,
         "left": 818,
-        "top": 4193,
+        "top": 4327,
         "width": 96
       },
       "computed": {
@@ -12193,7 +12924,7 @@
       "bound": {
         "height": 27,
         "left": 325,
-        "top": 4385,
+        "top": 4517,
         "width": 150
       },
       "computed": {
@@ -12288,7 +13019,7 @@
       "bound": {
         "height": 27,
         "left": 488,
-        "top": 4385,
+        "top": 4517,
         "width": 150
       },
       "computed": {
@@ -12383,7 +13114,7 @@
       "bound": {
         "height": 27,
         "left": 651,
-        "top": 4385,
+        "top": 4517,
         "width": 150
       },
       "computed": {
@@ -12478,7 +13209,7 @@
       "bound": {
         "height": 27,
         "left": 814,
-        "top": 4385,
+        "top": 4517,
         "width": 150
       },
       "computed": {
@@ -12573,8 +13304,8 @@
       "bound": {
         "height": 37,
         "left": 326,
-        "top": 4645,
-        "width": 77
+        "top": 4777,
+        "width": 76
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -12667,7 +13398,7 @@
       "bound": {
         "height": 20,
         "left": 336,
-        "top": 4783,
+        "top": 4916,
         "width": 145
       },
       "computed": {
@@ -12774,7 +13505,7 @@
       "bound": {
         "height": 22,
         "left": 490,
-        "top": 4697,
+        "top": 4830,
         "width": 150
       },
       "computed": {
@@ -12793,7 +13524,7 @@
         "id": "",
         "name": "dd"
       },
-      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=6U4JZmk2V+5/vzwlAc64oqrXV9kOLCgIFjuUCyKjWZzw9aEsSZZwBYmVjTufPxR9kVRSv3cqN0rOGpvqLRhdhg==\" name=\"res1335\" webtype=\"C\">2014年中高考命题核心全</a>",
+      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=6U4JZmk2V+5/vzwlAc64oqrXV9kOLCgIFjuUCyKjWZzw9aEsSZZwBYmVjTufPxR9u/pLVcvJJHYLCwQRrB8Ujg==\" name=\"res1335\" webtype=\"C\">2014年中高考命题核心全</a>",
       "path": [
         "div",
         "div",
@@ -12866,7 +13597,7 @@
       "bound": {
         "height": 22,
         "left": 490,
-        "top": 4719,
+        "top": 4854,
         "width": 150
       },
       "computed": {
@@ -12885,7 +13616,7 @@
         "id": "",
         "name": "dd"
       },
-      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=mcvJMgtqK6J/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbLK57eHJ3nuSUrIiEHs+eLQ==\" name=\"res1335\" webtype=\"C\">惊：数理化竟然可以这样</a>",
+      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=mcvJMgtqK6J/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAb79DOHSN6J8dJW1erqoZJeQ==\" name=\"res1335\" webtype=\"C\">惊：数理化竟然可以这样</a>",
       "path": [
         "div",
         "div",
@@ -12958,7 +13689,7 @@
       "bound": {
         "height": 22,
         "left": 490,
-        "top": 4741,
+        "top": 4878,
         "width": 150
       },
       "computed": {
@@ -12977,7 +13708,7 @@
         "id": "",
         "name": "dd"
       },
-      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=/DlNpzD1+Ht/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbhWshYRPDbI/hZXm80Ci7Mg==\" name=\"res1335\" webtype=\"C\">高中学数理化，提分妙招</a>",
+      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=/DlNpzD1+Ht/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbgYdepY4qbRz9GVydAhkraQ==\" name=\"res1335\" webtype=\"C\">高中学数理化，提分妙招</a>",
       "path": [
         "div",
         "div",
@@ -13050,7 +13781,7 @@
       "bound": {
         "height": 22,
         "left": 490,
-        "top": 4763,
+        "top": 4902,
         "width": 150
       },
       "computed": {
@@ -13069,7 +13800,7 @@
         "id": "",
         "name": "dd"
       },
-      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=8snrafD7etJ/vzwlAc64oqrXV9kOLCgIEL+LQ8MADOePjLjQj/RhX1MV6PYzu0v2HGvnIrgSH0wM0USG2/5apCxTkNjn8nE8uvtfEQfauKk=\" name=\"res1335\" webtype=\"C\">198元双腋下无限次脱毛</a>",
+      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=8snrafD7etJ/vzwlAc64oqrXV9kOLCgIEL+LQ8MADOePjLjQj/RhX1MV6PYzu0v2HGvnIrgSH0wM0USG2/5apHoi7v+B6S5AJfOqswGNjhU=\" name=\"res1335\" webtype=\"C\">198元双腋下无限次脱毛</a>",
       "path": [
         "div",
         "div",
@@ -13142,7 +13873,7 @@
       "bound": {
         "height": 22,
         "left": 490,
-        "top": 4785,
+        "top": 4926,
         "width": 150
       },
       "computed": {
@@ -13234,7 +13965,7 @@
       "bound": {
         "height": 20,
         "left": 654,
-        "top": 4783,
+        "top": 4916,
         "width": 145
       },
       "computed": {
@@ -13341,7 +14072,7 @@
       "bound": {
         "height": 22,
         "left": 808,
-        "top": 4697,
+        "top": 4830,
         "width": 150
       },
       "computed": {
@@ -13360,283 +14091,7 @@
         "id": "",
         "name": "dd"
       },
-      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=/BN5poRSXnx/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbxWZDNfv1AH7Vjkzksq3t9A==\" name=\"res1336\" webtype=\"C\">数理化巧学得高分有秘诀</a>",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "dl",
-        "dd"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "wrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "Main",
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "blkContainer"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "Ad_02",
-            "adNone"
-          ],
-          "id": "PublicRelation11",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "ztsh",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "zhitou_sheng"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "dl"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "dd"
-        }
-      ],
-      "text": [
-        "数理化巧学得高分有秘诀"
-      ]
-    },
-    {
-      "bound": {
-        "height": 22,
-        "left": 808,
-        "top": 4719,
-        "width": 150
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-image": "url(http://d3.sina.com.cn/shh/lechan/20130117zw/list.gif)",
-        "background-position": "0px 50%",
-        "background-repeat": "no-repeat",
-        "float": "left",
-        "line-height": "22px",
-        "padding-bottom": "0px",
-        "padding-left": "7px",
-        "padding-top": "0px"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "dd"
-      },
-      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=Ni8TT/NuTSt/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbuEUmhimiDnXVt0zxiNXBVA==\" name=\"res1336\" webtype=\"C\">学好数理化宝典—家长必</a>",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "dl",
-        "dd"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "wrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "Main",
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "blkContainer"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "Ad_02",
-            "adNone"
-          ],
-          "id": "PublicRelation11",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "ztsh",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "zhitou_sheng"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "dl"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "dd"
-        }
-      ],
-      "text": [
-        "学好数理化宝典—家长必"
-      ]
-    },
-    {
-      "bound": {
-        "height": 22,
-        "left": 808,
-        "top": 4741,
-        "width": 150
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-image": "url(http://d3.sina.com.cn/shh/lechan/20130117zw/list.gif)",
-        "background-position": "0px 50%",
-        "background-repeat": "no-repeat",
-        "float": "left",
-        "line-height": "22px",
-        "padding-bottom": "0px",
-        "padding-left": "7px",
-        "padding-top": "0px"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "dd"
-      },
-      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=jDFGqQM/JyZ/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbMuoiDyPNEZHg/NR8vozBtw==\" name=\"res1336\" webtype=\"C\">必看：数理化成绩差的诀</a>",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "dl",
-        "dd"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "wrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "Main",
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "blkContainer"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "Ad_02",
-            "adNone"
-          ],
-          "id": "PublicRelation11",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "ztsh",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "zhitou_sheng"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "dl"
-        },
-        {
-          "classes": [],
-          "id": "",
-          "name": "dd"
-        }
-      ],
-      "text": [
-        "必看：数理化成绩差的诀"
-      ]
-    },
-    {
-      "bound": {
-        "height": 22,
-        "left": 808,
-        "top": 4763,
-        "width": 150
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "background-image": "url(http://d3.sina.com.cn/shh/lechan/20130117zw/list.gif)",
-        "background-position": "0px 50%",
-        "background-repeat": "no-repeat",
-        "float": "left",
-        "line-height": "22px",
-        "padding-bottom": "0px",
-        "padding-left": "7px",
-        "padding-top": "0px"
-      },
-      "element": {
-        "classes": [],
-        "id": "",
-        "name": "dd"
-      },
-      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=K/fIOmcnZBl/vzwlAc64oqrXV9kOLCgIHuHNlW8mQlxxrO6PpJMt+RoJYxSc4tXgIZqOYDBiRBg=\" name=\"res1336\" webtype=\"C\">男孩女孩青少年服饰</a>",
+      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=K/fIOmcnZBl/vzwlAc64oqrXV9kOLCgIHuHNlW8mQlxxrO6PpJMt+cWmIBtop5YQoEgyqlyGpqs=\" name=\"res1336\" webtype=\"C\">男孩女孩青少年服饰</a>",
       "path": [
         "div",
         "div",
@@ -13709,7 +14164,283 @@
       "bound": {
         "height": 22,
         "left": 808,
-        "top": 4785,
+        "top": 4854,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://d3.sina.com.cn/shh/lechan/20130117zw/list.gif)",
+        "background-position": "0px 50%",
+        "background-repeat": "no-repeat",
+        "float": "left",
+        "line-height": "22px",
+        "padding-bottom": "0px",
+        "padding-left": "7px",
+        "padding-top": "0px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "dd"
+      },
+      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=/BN5poRSXnx/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbf/imaVOlMqu+k/GqQBWQ5w==\" name=\"res1336\" webtype=\"C\">数理化巧学得高分有秘诀</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "dl",
+        "dd"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Ad_02",
+            "adNone"
+          ],
+          "id": "PublicRelation11",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ztsh",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "zhitou_sheng"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "dd"
+        }
+      ],
+      "text": [
+        "数理化巧学得高分有秘诀"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 808,
+        "top": 4878,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://d3.sina.com.cn/shh/lechan/20130117zw/list.gif)",
+        "background-position": "0px 50%",
+        "background-repeat": "no-repeat",
+        "float": "left",
+        "line-height": "22px",
+        "padding-bottom": "0px",
+        "padding-left": "7px",
+        "padding-top": "0px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "dd"
+      },
+      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=jDFGqQM/JyZ/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAb+Xw6bv6xDiel7diSGsR5CA==\" name=\"res1336\" webtype=\"C\">必看：数理化成绩差的诀</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "dl",
+        "dd"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Ad_02",
+            "adNone"
+          ],
+          "id": "PublicRelation11",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ztsh",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "zhitou_sheng"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "dd"
+        }
+      ],
+      "text": [
+        "必看：数理化成绩差的诀"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 808,
+        "top": 4902,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://d3.sina.com.cn/shh/lechan/20130117zw/list.gif)",
+        "background-position": "0px 50%",
+        "background-repeat": "no-repeat",
+        "float": "left",
+        "line-height": "22px",
+        "padding-bottom": "0px",
+        "padding-left": "7px",
+        "padding-top": "0px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "dd"
+      },
+      "html": "<a href=\"http://pfpclick.sina.com.cn/click/cpcclick.php?ad=Ni8TT/NuTSt/vzwlAc64oqrXV9kOLCgI3wsmmaLDApKnTQGyWwbtQz2OwQPa1ZAbpjNFFCiHWNXQwHUMPcheeA==\" name=\"res1336\" webtype=\"C\">学好数理化宝典—家长必</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "dl",
+        "dd"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Ad_02",
+            "adNone"
+          ],
+          "id": "PublicRelation11",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ztsh",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "zhitou_sheng"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "dd"
+        }
+      ],
+      "text": [
+        "学好数理化宝典—家长必"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 808,
+        "top": 4926,
         "width": 150
       },
       "computed": {
@@ -13799,9 +14530,2101 @@
     },
     {
       "bound": {
+        "height": 33,
+        "left": 326,
+        "top": 4968,
+        "width": 83
+      },
+      "computed": {
+        "border-bottom-color": "rgb(1, 1, 1)",
+        "border-left-color": "rgb(1, 1, 1)",
+        "border-right-color": "rgb(223, 223, 223)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(1, 1, 1)",
+        "color": "rgb(1, 1, 1)",
+        "cursor": "default",
+        "float": "left",
+        "font-family": "微软雅黑",
+        "font-size": "14px",
+        "line-height": "32px",
+        "margin-bottom": "-1px",
+        "outline-color": "rgb(1, 1, 1)",
+        "padding-bottom": "1px",
+        "padding-left": "13px",
+        "padding-right": "13px",
+        "padding-top": "0px",
+        "position": "relative",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "selected"
+        ],
+        "id": "cbtn01",
+        "name": "span"
+      },
+      "html": "应用中心",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cmenu01"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "selected"
+          ],
+          "id": "cbtn01",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "应用中心"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 410,
+        "top": 4968,
+        "width": 83
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(223, 223, 223)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "cursor": "default",
+        "float": "left",
+        "font-family": "微软雅黑",
+        "font-size": "14px",
+        "line-height": "32px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "0px",
+        "padding-left": "13px",
+        "padding-right": "13px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "cbtn02",
+        "name": "span"
+      },
+      "html": "新浪公益",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cmenu01"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "cbtn02",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "新浪公益"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 494,
+        "top": 4968,
+        "width": 83
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(223, 223, 223)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "cursor": "default",
+        "float": "left",
+        "font-family": "微软雅黑",
+        "font-size": "14px",
+        "line-height": "32px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "0px",
+        "padding-left": "13px",
+        "padding-right": "13px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "cbtn03",
+        "name": "span"
+      },
+      "html": "新浪游戏",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cmenu01"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "cbtn03",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "新浪游戏"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 578,
+        "top": 4968,
+        "width": 83
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(223, 223, 223)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "cursor": "default",
+        "float": "left",
+        "font-family": "微软雅黑",
+        "font-size": "14px",
+        "line-height": "32px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "0px",
+        "padding-left": "13px",
+        "padding-right": "13px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "cbtn04",
+        "name": "span"
+      },
+      "html": "互动活动",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cmenu01"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "cbtn04",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "互动活动"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 662,
+        "top": 4968,
+        "width": 83
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(223, 223, 223)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "cursor": "default",
+        "float": "left",
+        "font-family": "微软雅黑",
+        "font-size": "14px",
+        "line-height": "32px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "0px",
+        "padding-left": "13px",
+        "padding-right": "13px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "cbtn05",
+        "name": "span"
+      },
+      "html": "热点推荐",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cmenu01"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "cbtn05",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "热点推荐"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 339,
+        "top": 5009,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=1202481&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">妹子集中营：抓妹子</a> ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "妹子集中营：抓妹子"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 493,
+        "top": 5009,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=719776&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">移动办公神器：轻办公</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "移动办公神器：轻办公"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 647,
+        "top": 5009,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=84554&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">千万MM的选择：粉粉日记</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "千万MM的选择：粉粉日记"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 801,
+        "top": 5009,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=1206094&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">英语学习利器：快乐学</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "英语学习利器：快乐学"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 339,
+        "top": 5034,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=1207985&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">最强横版格斗：时空猎人</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "最强横版格斗：时空猎人"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 493,
+        "top": 5034,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=1006553&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">最Q最搞笑：三国英雄</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "最Q最搞笑：三国英雄"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 647,
+        "top": 5034,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=618087&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">着迷：泡泡龙亚特兰蒂斯</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "着迷：泡泡龙亚特兰蒂斯"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 801,
+        "top": 5034,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=1191051&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">众人齐欢乐：歌剧之王</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "众人齐欢乐：歌剧之王"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 339,
+        "top": 5059,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=887637&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">铃声DIY：铃声魔术师</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "铃声DIY：铃声魔术师"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 493,
+        "top": 5059,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=622549&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">专治无聊：空气照相机</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "专治无聊：空气照相机"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 647,
+        "top": 5059,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=171634&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">谁与你同在：呼啦</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "谁与你同在：呼啦"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 801,
+        "top": 5059,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=725807&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">你可以瘦的：薄荷爱瘦身</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "你可以瘦的：薄荷爱瘦身"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 339,
+        "top": 5084,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=1208316&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">重口味角色扮演：白骨岛</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "重口味角色扮演：白骨岛"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 493,
+        "top": 5084,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=1180073&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">酷似红警手游：战斗指令</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "酷似红警手游：战斗指令"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 647,
+        "top": 5084,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=1209618&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">恶搞奇葩新作：大叔鸡蛋</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "恶搞奇葩新作：大叔鸡蛋"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 801,
+        "top": 5084,
+        "width": 152
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png)",
+        "background-position": "-47px -140px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "float": "left",
+        "line-height": "23px",
+        "list-style-type": "none",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-left": "8px",
+        "padding-top": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://app.sina.com.cn/appdetail.php?appID=1206213&amp;f=p_wenjiao&amp;w=p_wenjiao\" target=\"_blank\">约妹子掉凯子：请回复我</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "adNone",
+            "ad_06",
+            "ad_content"
+          ],
+          "id": "PublicRelation5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ad_cont_03"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ccont01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clist",
+            "cpot"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "约妹子掉凯子：请回复我"
+      ]
+    },
+    {
+      "bound": {
         "height": 20,
         "left": 346,
-        "top": 4835,
+        "top": 5136,
         "width": 152
       },
       "computed": {
@@ -13891,8 +16714,8 @@
     {
       "bound": {
         "height": 20,
-        "left": 498,
-        "top": 4835,
+        "left": 500,
+        "top": 5136,
         "width": 152
       },
       "computed": {
@@ -13982,8 +16805,8 @@
     {
       "bound": {
         "height": 20,
-        "left": 650,
-        "top": 4835,
+        "left": 654,
+        "top": 5136,
         "width": 152
       },
       "computed": {
@@ -14073,8 +16896,8 @@
     {
       "bound": {
         "height": 20,
-        "left": 802,
-        "top": 4835,
+        "left": 808,
+        "top": 5136,
         "width": 152
       },
       "computed": {
@@ -14165,7 +16988,7 @@
       "bound": {
         "height": 36,
         "left": 976,
-        "top": 1515,
+        "top": 2405,
         "width": 298
       },
       "computed": {
@@ -14241,9 +17064,9 @@
     {
       "bound": {
         "height": 20,
-        "left": 1219,
-        "top": 1523,
-        "width": 47
+        "left": 1217,
+        "top": 2414,
+        "width": 48
       },
       "computed": {
         "background-color": "rgba(0, 0, 0, 0)",
@@ -14320,7 +17143,7 @@
       "bound": {
         "height": 18,
         "left": 984,
-        "top": 1554,
+        "top": 2448,
         "width": 282
       },
       "computed": {
@@ -14411,7 +17234,7 @@
       "bound": {
         "height": 18,
         "left": 984,
-        "top": 1574,
+        "top": 2470,
         "width": 282
       },
       "computed": {
@@ -14508,7 +17331,7 @@
       "bound": {
         "height": 18,
         "left": 984,
-        "top": 1598,
+        "top": 2496,
         "width": 282
       },
       "computed": {
@@ -14599,7 +17422,7 @@
       "bound": {
         "height": 18,
         "left": 984,
-        "top": 1618,
+        "top": 2518,
         "width": 282
       },
       "computed": {
@@ -14696,383 +17519,7 @@
       "bound": {
         "height": 18,
         "left": 984,
-        "top": 1642,
-        "width": 282
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "margin-bottom": "2px",
-        "margin-left": "8px",
-        "margin-right": "8px",
-        "margin-top": "2px",
-        "overflow-x": "hidden",
-        "overflow-y": "hidden",
-        "padding-bottom": "0px",
-        "padding-top": "0px"
-      },
-      "element": {
-        "classes": [
-          "title"
-        ],
-        "id": "",
-        "name": "a"
-      },
-      "html": "<nobr>热点草根名博带你群观世界</nobr>",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "ins",
-        "a"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "wrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "Main",
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "sidebar"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "zhitou-wrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "zhitou-content"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "sinaads"
-          ],
-          "id": "",
-          "name": "ins"
-        },
-        {
-          "classes": [
-            "title"
-          ],
-          "id": "",
-          "name": "a"
-        }
-      ],
-      "text": [
-        "热点草根名博带你群观世界"
-      ]
-    },
-    {
-      "bound": {
-        "height": 18,
-        "left": 984,
-        "top": 1662,
-        "width": 282
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(153, 153, 153)",
-        "border-left-color": "rgb(153, 153, 153)",
-        "border-right-color": "rgb(153, 153, 153)",
-        "border-top-color": "rgb(153, 153, 153)",
-        "color": "rgb(153, 153, 153)",
-        "margin-bottom": "6px",
-        "margin-left": "8px",
-        "margin-right": "8px",
-        "margin-top": "2px",
-        "outline-color": "rgb(153, 153, 153)",
-        "overflow-x": "hidden",
-        "overflow-y": "hidden",
-        "padding-bottom": "0px",
-        "padding-top": "0px"
-      },
-      "element": {
-        "classes": [
-          "detail"
-        ],
-        "id": "",
-        "name": "a"
-      },
-      "html": "<nobr>最动人的情感博客，最自我的草根博客尽在新浪博客频道。</nobr>",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "ins",
-        "a"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "wrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "Main",
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "sidebar"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "zhitou-wrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "zhitou-content"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "sinaads"
-          ],
-          "id": "",
-          "name": "ins"
-        },
-        {
-          "classes": [
-            "detail"
-          ],
-          "id": "",
-          "name": "a"
-        }
-      ],
-      "text": [
-        "最动人的情感博客，最自我的草根博客尽在新浪博客频道。"
-      ]
-    },
-    {
-      "bound": {
-        "height": 18,
-        "left": 984,
-        "top": 1686,
-        "width": 282
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "margin-bottom": "2px",
-        "margin-left": "8px",
-        "margin-right": "8px",
-        "margin-top": "2px",
-        "overflow-x": "hidden",
-        "overflow-y": "hidden",
-        "padding-bottom": "0px",
-        "padding-top": "0px"
-      },
-      "element": {
-        "classes": [
-          "title"
-        ],
-        "id": "",
-        "name": "a"
-      },
-      "html": "<nobr>专家团热点教育知识大百科</nobr>",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "ins",
-        "a"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "wrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "Main",
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "sidebar"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "zhitou-wrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "zhitou-content"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "sinaads"
-          ],
-          "id": "",
-          "name": "ins"
-        },
-        {
-          "classes": [
-            "title"
-          ],
-          "id": "",
-          "name": "a"
-        }
-      ],
-      "text": [
-        "专家团热点教育知识大百科"
-      ]
-    },
-    {
-      "bound": {
-        "height": 18,
-        "left": 984,
-        "top": 1706,
-        "width": 282
-      },
-      "computed": {
-        "background-color": "rgba(0, 0, 0, 0)",
-        "border-bottom-color": "rgb(153, 153, 153)",
-        "border-left-color": "rgb(153, 153, 153)",
-        "border-right-color": "rgb(153, 153, 153)",
-        "border-top-color": "rgb(153, 153, 153)",
-        "color": "rgb(153, 153, 153)",
-        "margin-bottom": "6px",
-        "margin-left": "8px",
-        "margin-right": "8px",
-        "margin-top": "2px",
-        "outline-color": "rgb(153, 153, 153)",
-        "overflow-x": "hidden",
-        "overflow-y": "hidden",
-        "padding-bottom": "0px",
-        "padding-top": "0px"
-      },
-      "element": {
-        "classes": [
-          "detail"
-        ],
-        "id": "",
-        "name": "a"
-      },
-      "html": "<nobr>主要提供小升初、中考、高考、考研、自考等各类考试辅导</nobr>",
-      "path": [
-        "div",
-        "div",
-        "div",
-        "div",
-        "div",
-        "ins",
-        "a"
-      ],
-      "selector": [
-        {
-          "classes": [
-            "wrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "Main",
-            "clearfix"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "sidebar"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "zhitou-wrap"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "zhitou-content"
-          ],
-          "id": "",
-          "name": "div"
-        },
-        {
-          "classes": [
-            "sinaads"
-          ],
-          "id": "",
-          "name": "ins"
-        },
-        {
-          "classes": [
-            "detail"
-          ],
-          "id": "",
-          "name": "a"
-        }
-      ],
-      "text": [
-        "主要提供小升初、中考、高考、考研、自考等各类考试辅导"
-      ]
-    },
-    {
-      "bound": {
-        "height": 18,
-        "left": 984,
-        "top": 1730,
+        "top": 2544,
         "width": 282
       },
       "computed": {
@@ -15163,7 +17610,7 @@
       "bound": {
         "height": 18,
         "left": 984,
-        "top": 1750,
+        "top": 2566,
         "width": 282
       },
       "computed": {
@@ -15260,7 +17707,7 @@
       "bound": {
         "height": 18,
         "left": 984,
-        "top": 1774,
+        "top": 2592,
         "width": 282
       },
       "computed": {
@@ -15281,7 +17728,7 @@
         "id": "",
         "name": "a"
       },
-      "html": "<nobr>NBA官方授权视频直播网站</nobr>",
+      "html": "<nobr>新浪专业教育考试服务平台</nobr>",
       "path": [
         "div",
         "div",
@@ -15344,14 +17791,14 @@
         }
       ],
       "text": [
-        "NBA官方授权视频直播网站"
+        "新浪专业教育考试服务平台"
       ]
     },
     {
       "bound": {
         "height": 18,
         "left": 984,
-        "top": 1794,
+        "top": 2614,
         "width": 282
       },
       "computed": {
@@ -15378,7 +17825,7 @@
         "id": "",
         "name": "a"
       },
-      "html": "<nobr>提供NBA中国赛、NBA常规赛、NBA总决赛、NBA季后赛等NBA视频直播</nobr>",
+      "html": "<nobr>设有出国留学、商学院、中小学、校园、外语、教育视频等栏目</nobr>",
       "path": [
         "div",
         "div",
@@ -15441,14 +17888,202 @@
         }
       ],
       "text": [
-        "提供NBA中国赛、NBA常规赛、NBA总决赛、NBA季后赛等NBA视频直播"
+        "设有出国留学、商学院、中小学、校园、外语、教育视频等栏目"
       ]
     },
     {
       "bound": {
         "height": 18,
         "left": 984,
-        "top": 1818,
+        "top": 2640,
+        "width": 282
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "margin-bottom": "2px",
+        "margin-left": "8px",
+        "margin-right": "8px",
+        "margin-top": "2px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-top": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<nobr>热点草根名博带你群观世界</nobr>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ins",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sidebar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "zhitou-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "zhitou-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sinaads"
+          ],
+          "id": "",
+          "name": "ins"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "热点草根名博带你群观世界"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 984,
+        "top": 2662,
+        "width": 282
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "margin-bottom": "6px",
+        "margin-left": "8px",
+        "margin-right": "8px",
+        "margin-top": "2px",
+        "outline-color": "rgb(153, 153, 153)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-top": "0px"
+      },
+      "element": {
+        "classes": [
+          "detail"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<nobr>最动人的情感博客，最自我的草根博客尽在新浪博客频道。</nobr>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ins",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sidebar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "zhitou-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "zhitou-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sinaads"
+          ],
+          "id": "",
+          "name": "ins"
+        },
+        {
+          "classes": [
+            "detail"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "最动人的情感博客，最自我的草根博客尽在新浪博客频道。"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 984,
+        "top": 2688,
         "width": 282
       },
       "computed": {
@@ -15539,7 +18174,7 @@
       "bound": {
         "height": 18,
         "left": 984,
-        "top": 1838,
+        "top": 2710,
         "width": 282
       },
       "computed": {
@@ -15636,7 +18271,7 @@
       "bound": {
         "height": 18,
         "left": 984,
-        "top": 1862,
+        "top": 2736,
         "width": 282
       },
       "computed": {
@@ -15727,7 +18362,7 @@
       "bound": {
         "height": 18,
         "left": 984,
-        "top": 1882,
+        "top": 2758,
         "width": 282
       },
       "computed": {
@@ -15822,9 +18457,197 @@
     },
     {
       "bound": {
+        "height": 18,
+        "left": 984,
+        "top": 2784,
+        "width": 282
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "margin-bottom": "2px",
+        "margin-left": "8px",
+        "margin-right": "8px",
+        "margin-top": "2px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-top": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<nobr>NBA官方授权视频直播网站</nobr>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ins",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sidebar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "zhitou-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "zhitou-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sinaads"
+          ],
+          "id": "",
+          "name": "ins"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "NBA官方授权视频直播网站"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 984,
+        "top": 2806,
+        "width": 282
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "margin-bottom": "6px",
+        "margin-left": "8px",
+        "margin-right": "8px",
+        "margin-top": "2px",
+        "outline-color": "rgb(153, 153, 153)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-top": "0px"
+      },
+      "element": {
+        "classes": [
+          "detail"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<nobr>提供NBA中国赛、NBA常规赛、NBA总决赛、NBA季后赛等NBA视频直播</nobr>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ins",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sidebar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "zhitou-wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "zhitou-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sinaads"
+          ],
+          "id": "",
+          "name": "ins"
+        },
+        {
+          "classes": [
+            "detail"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "提供NBA中国赛、NBA常规赛、NBA总决赛、NBA季后赛等NBA视频直播"
+      ]
+    },
+    {
+      "bound": {
         "height": 30,
         "left": 0,
-        "top": 4901,
+        "top": 5204,
         "width": 1600
       },
       "computed": {
@@ -15886,9 +18709,9 @@
     },
     {
       "bound": {
-        "height": 30,
+        "height": 31,
         "left": 0,
-        "top": 4931,
+        "top": 5236,
         "width": 1600
       },
       "computed": {
@@ -15938,7 +18761,7 @@
       "bound": {
         "height": 30,
         "left": 0,
-        "top": 4961,
+        "top": 5269,
         "width": 1600
       },
       "computed": {
@@ -15988,8 +18811,8 @@
     {
       "bound": {
         "height": 90,
-        "left": 1290,
-        "top": 377,
+        "left": 1291,
+        "top": 378,
         "width": 90
       },
       "computed": {
@@ -16120,7 +18943,7 @@
       "bound": {
         "height": 352,
         "left": 497,
-        "top": 708,
+        "top": 714,
         "width": 295
       },
       "computed": {
@@ -16198,7 +19021,9 @@
         {
           "classes": [
             "BSHARE_POP",
-            "blkContainerSblkCon"
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
           ],
           "id": "artibody",
           "name": "div"
@@ -16220,9 +19045,127 @@
     },
     {
       "bound": {
+        "height": 300,
+        "left": 370,
+        "top": 2956,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(17, 62, 165)",
+        "border-left-color": "rgb(17, 62, 165)",
+        "border-right-color": "rgb(17, 62, 165)",
+        "border-top-color": "rgb(17, 62, 165)",
+        "color": "rgb(17, 62, 165)",
+        "display": "inline",
+        "font-size": "14px",
+        "line-height": "23px",
+        "outline-color": "rgb(17, 62, 165)",
+        "padding-bottom": "0px",
+        "padding-top": "0px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ins",
+        "ins",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "wrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Main",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainerPblk"
+          ],
+          "id": "J_Article_Wrap",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blkContainerSblk"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "BSHARE_POP",
+            "blkContainerSblkCon",
+            "blkContainerSblkCon_14",
+            "clearfix"
+          ],
+          "id": "artibody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "otherContent_01"
+          ],
+          "id": "ad_42120",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sinaads"
+          ],
+          "id": "Sinads49447",
+          "name": "ins"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ins"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://d9.sina.com.cn/pfpghc/b31beb3b58a74c7299e2ae8e38039c60.jpg"
+    },
+    {
+      "bound": {
         "height": 100,
         "left": 325,
-        "top": 4285,
+        "top": 4417,
         "width": 150
       },
       "computed": {
@@ -16312,7 +19255,7 @@
       "bound": {
         "height": 100,
         "left": 488,
-        "top": 4285,
+        "top": 4417,
         "width": 150
       },
       "computed": {
@@ -16402,7 +19345,7 @@
       "bound": {
         "height": 100,
         "left": 651,
-        "top": 4285,
+        "top": 4417,
         "width": 150
       },
       "computed": {
@@ -16492,7 +19435,7 @@
       "bound": {
         "height": 100,
         "left": 814,
-        "top": 4285,
+        "top": 4417,
         "width": 150
       },
       "computed": {
@@ -16582,7 +19525,7 @@
       "bound": {
         "height": 105,
         "left": 336,
-        "top": 4698,
+        "top": 4831,
         "width": 145
       },
       "computed": {
@@ -16678,7 +19621,7 @@
       "bound": {
         "height": 105,
         "left": 654,
-        "top": 4698,
+        "top": 4831,
         "width": 145
       },
       "computed": {
@@ -16800,7 +19743,7 @@
           "name": "img"
         }
       ],
-      "src": "http://sina.wrating.com/a.gif?a=1425b158e51&t=&i=49dff3da4.1425b158e51.0.9896d5c6&b=http%3A//news.sina.com.cn/s/p/2013-11-14/040328703425.shtml&c=860010-0310010000&s=1024x768x32&l=en-us&z=-8&j=0&f=-&n=0&u=1&ck=0"
+      "src": "http://sina.wrating.com/a.gif?a=1425f237954&t=&i=8a6de1df7.1425f237954.0.886d5da&b=http%3A//news.sina.com.cn/s/p/2013-11-14/040328703425.shtml&c=860010-0310010000&s=1440x900x32&l=en-us&z=-8&j=0&f=-&n=0&u=1&ck=0"
     }
   ]
 }

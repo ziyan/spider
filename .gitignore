@@ -5,6 +5,7 @@
 *.swp
 *.sublime-*
 *.mo
+*.png
 
 # Project specifics #
 #####################
