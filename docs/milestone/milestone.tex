@@ -1,0 +1,247 @@
+\documentclass{acm_proc_article-sp}
+\usepackage{hyperref}
+
+\makeatletter
+\newif\if@restonecol
+\makeatother
+\let\algorithm\relax
+\let\endalgorithm\relax
+\usepackage{algorithm2e}
+
+\hypersetup{
+    colorlinks = false,
+    pdfborder = {0 0 0},
+}
+
+\begin{document}
+
+\title{Web Content Extraction Through Machine Learning (Project Milestone)
+\titlenote{Source code for this project is avaiable on GitHub under the MIT License at \url{https://github.com/ziyan/spider}}}
+
+\numberofauthors{2}
+\author{
+\alignauthor
+Ziyan Zhou\\
+\email{ziyanjoe@stanford.edu}
+\alignauthor
+Muntasir Mashuq\\
+\email{muntasir@stanford.edu}
+}
+
+\maketitle
+
+\begin{abstract}
+Web content extraction is a key technology for enabling an array of applications aimed at understanding the web. While fully automated web extraction has been studied extensively, they often focus on extracting structured data that appear in multiples on a single web page. This project aims to extract not-so-structured web content, like news articles, that appear only once in a noisy web pages. Our approach tries to classify text blocks using a mixture of visual and language independent features. We uses clustering to automatically label a large data set, then train our model to classify each data point.
+\end{abstract}
+
+\keywords{Content Extraction; SVM; DBSCAN; Web Scraping}
+
+\section{Introduction and Related Work}
+
+Content extraction algorithms have been well studied and there are many interesting and useful applications\cite{diffbot}\cite{readability}. A survey by Laender at el.\cite{laender:brief} systematically covers a wide range of techniques used for this purpose. These tools range from wrapper development to NLP-based and modeling-based approach. Some of the modeling-based approach and wrapper induction approach requires supervised learning methods like labeling sample dataset. Miao at el.\cite{gengxin:extracting} proposed a fully automatic tag path clustering approach to extract structures on a single page. Sun at el.\cite{sun2011dom} applied a language independent approach by looking at text density at each area of the document.
+
+We wanted a better approach to this problem that is language independent, that incorporates visual features like font size, color and style, line spacing and block size etc., while also maintaining site and domain agnostic.
+
+\newpage
+\section{Data Collection}
+
+\begin{table}
+\centering
+\caption{\label{table:dataset}Collected Dataset}
+\begin{tabular}{|l|l|c|} \hline
+Site&Language&\# of Pages\\ \hline\hline
+NPR&English&25\\ \hline
+Prothom Alo&Begali&24\\ \hline
+QQ&Simplified Chinese&25\\ \hline
+Sina&Simplified Chinese&25\\ \hline
+TechCrunch&English&16\\ \hline
+The Verge&English&16\\ \hline
+USA Today&English&20\\ \hline
+\end{tabular}
+\end{table}
+
+The dataset is extracted from serveral popular English, Simplified Chinese, and Bengali news article sites on the Internet.\footnote{The collected dataset is available at \url{https://github.com/ziyan/spider/tree/master/data}} See \emph{Table \ref{table:dataset}}.
+
+Each page is downloaded and rendered in a virtual webkit browser.\cite{phantomjs}, restoring its original layout intended for human audience. Javascript can also be injected into the page to efficiently inspect DOM elements. Text enclosing blocks are identified. For each text element, the algorithm finds its closest parent element that are displayed as block. Inline links and other text decorators are not individually identified. Instead, their common parent element, which might be a paragraph, is identified as a whole.
+
+For each chosen block, a set of features are then extracted, including the size and position of the block, the contained text, the font configurations, color, line height, tag path, etc. In fact, there are some 300 different CSS properties for each block. Our algorithm automatically extracts those with a non-default value. Therefore, the number of features varies from block to block in the data collection phase.
+
+\section{Clustering Blocks}
+We have used text length, text density, tag path and CSS properties as features. They are explained in details in the \nameref{sec:feature} section.
+
+Using these features, we noticed that text blocks on the page are not necessarily clustered according to a known distribution (i.e. Gaussian distribution). Rather similar text blocks, like navigational buttons, horizontally distributed across the top of the page, can cluster together in any shape. We also noticed that some noisy elements only appears once on some of the pages. Furthermore, it is unclear that how many cluster there will be, since it depends heavily on the design and layout of the web page. Therefore, we have chosen DBSCAN\cite{ester:dbscan}, density-based spatial clustering of applications with noise, as our clustering algorithm. This algorithm handles the the problem of unknown number of clusters, unknown shape of clusters and noise quite nicely.
+
+DBSCAN can quite accurately cluster the text blocks on the training dataset. The clustering result shows that, the body text of the articles across multiple pages, which usually consist of blocks, are clustered together in a single cluster. The navigational links are also clustered together, as well as the links in the footers. Other common elements, like similar sidebar, advertisement, comments, etc., are also successfully clustered. Given all the visual features represented by the CSS properties, the algorithm is quite effective in discerning the different visual elements on the pages.
+
+\section{Automatic Labeling}
+
+Although all the blocks have been clustered quite precisely based on their visual properties, it is not trivial to find out which cluster contains the body text for a number of reasons.
+
+First, the DBSCAN algorithm views clusters as areas of high density separated by areas of low density. The number of clusters varies from website to website. Thus there is no way to know which clusters contain the body text we need. For our training set, the number of output clusters ranges from a couple of clusters to more than 20.
+
+What makes this task even harder is, it is very likely that the body text are classified into several different clusters, and the number of the ``useful'' clusters is unknown to us. The reason is that some sections of the body text have different CSS styles from others. For some domain in our training data set, for example, we notice there is one cluster containing all the quotes, and another containing all the bullet lists from different pages. For some domain, there is only one useful cluster containing what we need. But the number increases for visually stunning website designed with quotations and fancy section titles.
+
+Fortunately, most websites have some metadata in order to accommodate Google's web crawler or Facebook's Open Graph. So we can extract the description of an article by parsing the metadata of this page. The description usually contains a brief summary or just the first few words of the article content. With that, we are able to calculate the similarity between each cluster and the description. We are using the Longest Common Subsequence algorithm to calculate the similarity. The higher the common subsequence length (we call this number ``similarity score''), the more likely is the cluster to contain the body text.
+
+At first we tried \emph{Algorithm \ref{algorithm:1}} to automatically label the blocks, which is local to each page on a website.
+
+\begin{algorithm}
+\label{algorithm:1}
+ \SetLine
+ \For{each page of a website}{
+  Find the block(B) with with the highest similarity score\;
+  Label all the blocks of current page that are in the same cluster with B as 1\;
+  Label all other blocks of the current page as 0\;
+ }
+ \caption{Labelling from local score in a page}
+\end{algorithm}
+
+After training the SVM on this labeling, we found that for some websites, the precision on the test set was ~80\%. On closely examining the automatic labels, we found that some labels generated by the above labelling algorithm were incorrect. To fix the labelling, we implemented \emph{Algorithm \ref{algorithm:2}} which scores blocks across the website (rather than working locally on a single page).
+
+\begin{algorithm}
+\label{algorithm:2}
+\caption{Labeling from global score in a website}
+
+ \SetLine
+ score := {an array of zeros with the same size as the number of clusters}
+ \For{each cluster i of a website}{
+  \For{each block j under that cluster}{
+    score[i] := score[i] + similarity score block j\;
+  }
+ }
+ Pick the cluster(C) with the highest similarity score;
+ Label all the blocks of in the same cluster C as 1\;
+ Label all other blocks of the current page as 0\;
+
+\end{algorithm}
+
+This algorithm perform very accurately and removes the occasional scoring hiccups on a single page. After training the SVM with this updated labelling, the precision on the test set increased to ~100\%.
+
+\section{Feature Selection}
+\label{sec:feature}
+\subsection{Text Length}
+
+\begin{table}
+\centering
+\caption{Text Length}
+\begin{tabular}{|l|l|c|c|c|} \hline
+Site&Class&Precision&Recall&$F_1$\\ \hline
+npr&non-content&98.16\%&95.00\%&96.55\%\\ \hline
+npr&content&78.99\%&91.34\%&84.70\%\\ \hline
+prothomalo&non-content&99.03\%&95.93\%&97.45\%\\ \hline
+prothomalo&content&42.14\%&75.01\%&53.31\%\\ \hline
+qq&non-content&98.60\%&91.62\%&94.97\%\\ \hline
+qq&content&31.95\%&75.43\%&44.70\%\\ \hline
+sina&non-content&96.52\%&96.80\%&96.66\%\\ \hline
+sina&content&62.92\%&60.63\%&61.69\%\\ \hline
+techcrunch&non-content&99.30\%&93.51\%&96.32\%\\ \hline
+techcrunch&content&32.84\%&83.18\%&46.96\%\\ \hline
+theverge&non-content&99.47\%&97.06\%&98.25\%\\ \hline
+theverge&content&53.56\%&86.86\%&66.08\%\\ \hline
+usatoday&non-content&93.72\%&90.40\%&92.00\%\\ \hline
+usatoday&content&75.45\%&82.98\%&78.83\%\\ \hline
+\end{tabular}
+\end{table}
+
+
+\subsection{Text Density}
+
+\begin{table}
+\centering
+\caption{Text Density}
+\begin{tabular}{|l|l|c|c|c|} \hline
+npr&non-content&100.00\%&1.33\%&2.63\%\\ \hline
+npr&content&17.17\%&100.00\%&29.28\%\\ \hline
+prothomalo&non-content&96.89\%&43.23\%&59.77\%\\ \hline
+prothomalo&content&4.15\%&63.77\%&7.78\%\\ \hline
+qq&non-content&97.36\%&52.83\%&68.45\%\\ \hline
+qq&content&7.31\%&71.82\%&13.26\%\\ \hline
+sina&non-content&100.00\%&0.18\%&0.37\%\\ \hline
+sina&content&8.19\%&100.00\%&15.13\%\\ \hline
+techcrunch&non-content&100.00\%&10.16\%&18.43\%\\ \hline
+techcrunch&content&4.12\%&100.00\%&7.90\%\\ \hline
+theverge&non-content&98.43\%&58.70\%&73.54\%\\ \hline
+theverge&content&6.69\%&75.32\%&12.28\%\\ \hline
+usatoday&non-content&75.00\%&0.37\%&0.74\%\\ \hline
+usatoday&content&26.38\%&100.00\%&41.72\%\\ \hline
+\end{tabular}
+\end{table}
+
+
+\subsection{Tag Path}
+
+\begin{table}
+\centering
+\caption{Tag Path}
+\begin{tabular}{|l|l|c|c|c|} \hline
+npr&non-content&100.00\%&99.94\%&99.97\%\\ \hline
+npr&content&99.74\%&100.00\%&99.87\%\\ \hline
+prothomalo&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+prothomalo&content&100.00\%&100.00\%&100.00\%\\ \hline
+qq&non-content&100.00\%&96.41\%&98.17\%\\ \hline
+qq&content&58.68\%&100.00\%&73.88\%\\ \hline
+sina&non-content&100.00\%&99.50\%&99.75\%\\ \hline
+sina&content&94.61\%&100.00\%&97.22\%\\ \hline
+techcrunch&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+techcrunch&content&100.00\%&100.00\%&100.00\%\\ \hline
+theverge&non-content&100.00\%&99.68\%&99.84\%\\ \hline
+theverge&content&92.34\%&100.00\%&96.00\%\\ \hline
+usatoday&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+usatoday&content&100.00\%&100.00\%&100.00\%\\ \hline
+\end{tabular}
+\end{table}
+
+\subsection{CSS Properties}
+
+\begin{table}
+\centering
+\caption{CSS Properties}
+\begin{tabular}{|l|l|c|c|c|} \hline
+npr&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+npr&content&100.00\%&100.00\%&100.00\%\\ \hline
+prothomalo&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+prothomalo&content&100.00\%&100.00\%&100.00\%\\ \hline
+qq&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+qq&content&100.00\%&100.00\%&100.00\%\\ \hline
+sina&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+sina&content&100.00\%&100.00\%&100.00\%\\ \hline
+techcrunch&non-content&100.00\%&99.75\%&99.88\%\\ \hline
+techcrunch&content&94.27\%&100.00\%&97.03\%\\ \hline
+theverge&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+theverge&content&100.00\%&100.00\%&100.00\%\\ \hline
+usatoday&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+usatoday&content&100.00\%&100.00\%&100.00\%\\ \hline
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\centering
+\caption{Combined Features}
+\begin{tabular}{|l|l|c|c|c|} \hline
+npr&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+npr&content&100.00\%&100.00\%&100.00\%\\ \hline
+prothomalo&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+prothomalo&content&100.00\%&100.00\%&100.00\%\\ \hline
+qq&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+qq&content&100.00\%&100.00\%&100.00\%\\ \hline
+sina&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+sina&content&100.00\%&100.00\%&100.00\%\\ \hline
+techcrunch&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+techcrunch&content&100.00\%&100.00\%&100.00\%\\ \hline
+theverge&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+theverge&content&100.00\%&100.00\%&100.00\%\\ \hline
+usatoday&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+usatoday&content&100.00\%&100.00\%&100.00\%\\ \hline
+\end{tabular}
+\end{table}
+
+\section{Remaining Work}
+
+
+
+\bibliographystyle{abbrv}
+\bibliography{milestone}
+
+\end{document}
+
