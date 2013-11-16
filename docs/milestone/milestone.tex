@@ -31,7 +31,7 @@ Muntasir Mashuq\\
 \maketitle
 
 \begin{abstract}
-Web content extraction is a key technology for enabling an array of applications aimed at understanding the web. While fully automated web extraction has been studied extensively, they often focus on extracting structured data that appear in multiples on a single web page. This project aims to extract not-so-structured web content, like news articles, that appear only once in a noisy web pages. Our approach tries to classify text blocks using a mixture of visual and language independent features. We uses clustering to automatically label a large data set, then train our model to classify each data point.
+Web content extraction is a key technology for enabling an array of applications aimed at understanding the web. While fully automated web extraction has been studied extensively, they often focus on extracting structured data that appear in multiples on a single web page. This project aims to extract not-so-structured web content, like news articles, that appear only once in a noisy web pages. Our approach tries to classify text blocks using a mixture of visual and language independent features. We uses clustering to automatically label a large dataset, then train our model to classify each data point.
 \end{abstract}
 
 \keywords{Content Extraction; SVM; DBSCAN; Web Scraping}
@@ -40,9 +40,10 @@ Web content extraction is a key technology for enabling an array of applications
 
 Content extraction algorithms have been well studied and there are many interesting and useful applications\cite{diffbot}\cite{readability}. A survey by Laender at el.\cite{laender:brief} systematically covers a wide range of techniques used for this purpose. These tools range from wrapper development to NLP-based and modeling-based approach. Some of the modeling-based approach and wrapper induction approach requires supervised learning methods like labeling sample dataset. Miao at el.\cite{gengxin:extracting} proposed a fully automatic tag path clustering approach to extract structures on a single page. Sun at el.\cite{sun2011dom} applied a language independent approach by looking at text density at each area of the document.
 
-We wanted a better approach to this problem that is language independent, that incorporates visual features like font size, color and style, line spacing and block size etc., while also maintaining site and domain agnostic.
+We wanted a better approach to this problem, to train a SVM classifier that is language independent, that incorporates visual features like font size, color and style, line spacing and block size etc., while also maintaining site and domain agnostic.
 
-\newpage
+For this milestone, we wanted to obtain a sizable dataset with desired visual features and correct labeling in a short amount of time. Manual labeling is therefore not a viable option. So a method is devised to automatically label obtained dataset through clustering.
+
 \section{Data Collection}
 
 \begin{table}
@@ -62,70 +63,101 @@ USA Today&English&20\\ \hline
 
 The dataset is extracted from serveral popular English, Simplified Chinese, and Bengali news article sites on the Internet.\footnote{The collected dataset is available at \url{https://github.com/ziyan/spider/tree/master/data}} See \emph{Table \ref{table:dataset}}.
 
-Each page is downloaded and rendered in a virtual webkit browser.\cite{phantomjs}, restoring its original layout intended for human audience. Javascript can also be injected into the page to efficiently inspect DOM elements. Text enclosing blocks are identified. For each text element, the algorithm finds its closest parent element that are displayed as block. Inline links and other text decorators are not individually identified. Instead, their common parent element, which might be a paragraph, is identified as a whole.
+Each page is downloaded and rendered in a virtual webkit browser.\cite{phantomjs}, restoring its original layout intended for human audience. Javascript is then injected into the page to efficiently inspect DOM elements. Text enclosing blocks are identified. For each DOM element containing text, the algorithm finds its closest parent element that are displayed as block. Inline links and other text decorators are not individually identified. Instead, their common parent element, which might be a paragraph or a div, is identified as a whole.
 
-For each chosen block, a set of features are then extracted, including the size and position of the block, the contained text, the font configurations, color, line height, tag path, etc. In fact, there are some 300 different CSS properties for each block. Our algorithm automatically extracts those with a non-default value. Therefore, the number of features varies from block to block in the data collection phase.
+For each chosen block, a set of features are then extracted, including the size and position of the block, the contained text, the font configurations, color, line height, tag path, etc. In fact, there are over 300 different CSS properties for each block. Our algorithm automatically extracts those with a non-default value. Therefore, the number of features varies from block to block in the data collection phase.
 
 \section{Clustering Blocks}
-We have used text length, text density, tag path and CSS properties as features. They are explained in details in the \nameref{sec:feature} section.
 
-Using these features, we noticed that text blocks on the page are not necessarily clustered according to a known distribution (i.e. Gaussian distribution). Rather similar text blocks, like navigational buttons, horizontally distributed across the top of the page, can cluster together in any shape. We also noticed that some noisy elements only appears once on some of the pages. Furthermore, it is unclear that how many cluster there will be, since it depends heavily on the design and layout of the web page. Therefore, we have chosen DBSCAN\cite{ester:dbscan}, density-based spatial clustering of applications with noise, as our clustering algorithm. This algorithm handles the the problem of unknown number of clusters, unknown shape of clusters and noise quite nicely.
+We noticed that text blocks on the page are not necessarily clustered according to a known distribution (i.e. Gaussian distribution). Rather similar text blocks, like navigational buttons, horizontally distributed across the top of the page, can cluster together in any shape. We also noticed that some noisy elements only appears once on some of the pages. Furthermore, it is unclear that how many cluster there will be, since it depends heavily on the design and layout of the web page. Therefore, we have chosen DBSCAN\cite{ester:dbscan}, density-based spatial clustering of applications with noise, as our clustering algorithm. This algorithm handles the the problem of unknown number of clusters, unknown shape of clusters and noise quite nicely.
 
-DBSCAN can quite accurately cluster the text blocks on the training dataset. The clustering result shows that, the body text of the articles across multiple pages, which usually consist of blocks, are clustered together in a single cluster. The navigational links are also clustered together, as well as the links in the footers. Other common elements, like similar sidebar, advertisement, comments, etc., are also successfully clustered. Given all the visual features represented by the CSS properties, the algorithm is quite effective in discerning the different visual elements on the pages.
+The clustering result shows that, the body text of the articles across multiple pages, which usually consist of blocks, are clustered together in a single cluster. The navigational links are also clustered together, as well as the links in the footers. Other common elements, like similar sidebar, advertisement, comments, etc., are also successfully clustered. Given all the visual features represented by the CSS properties, the algorithm is quite effective in discerning the different visual elements on the pages.
 
 \section{Automatic Labeling}
 
-Although all the blocks have been clustered quite precisely based on their visual properties, it is not trivial to find out which cluster contains the body text for a number of reasons.
+Although all the blocks have been clustered quite precisely based on their visual properties, it is not trivial to find out which cluster contains the content text.
 
-First, the DBSCAN algorithm views clusters as areas of high density separated by areas of low density. The number of clusters varies from website to website. Thus there is no way to know which clusters contain the body text we need. For our training set, the number of output clusters ranges from a couple of clusters to more than 20.
+The DBSCAN algorithm views clusters as areas of high density separated by areas of low density. The number of clusters varies from website to website. Thus there is no way to know which clusters contain the content text we need. For our dataset, the number of output clusters ranges from a couple of clusters to more than 20.
 
-What makes this task even harder is, it is very likely that the body text are classified into several different clusters, and the number of the ``useful'' clusters is unknown to us. The reason is that some sections of the body text have different CSS styles from others. For some domain in our training data set, for example, we notice there is one cluster containing all the quotes, and another containing all the bullet lists from different pages. For some domain, there is only one useful cluster containing what we need. But the number increases for visually stunning website designed with quotations and fancy section titles.
+Fortunately, most websites have some metadata stored in meta tags in order to accommodate Google's web crawler or Facebook's Open Graph. So we can extract the description of an article by parsing the meta tags in the page. The description usually contains a brief summary or just the first few words of the article content. With that, we are able to calculate the similarity between each cluster and the description using the Longest Common Subsequence (LCS) algorithm. The longer the common subsequence (we call this number ``relevance score''), the more likely is the cluster to contain the content text. Note we used LCS instead of Term Frequency Inverse Document Frequency to ensure language independency as word segmentations are done differently for different languages.
 
-Fortunately, most websites have some metadata in order to accommodate Google's web crawler or Facebook's Open Graph. So we can extract the description of an article by parsing the metadata of this page. The description usually contains a brief summary or just the first few words of the article content. With that, we are able to calculate the similarity between each cluster and the description. We are using the Longest Common Subsequence algorithm to calculate the similarity. The higher the common subsequence length (we call this number ``similarity score''), the more likely is the cluster to contain the body text.
-
-At first we tried \emph{Algorithm \ref{algorithm:1}} to automatically label the blocks, which is local to each page on a website.
+At first we tried to automatically label the blocks by finding the best cluster local to each page on a website. After training the SVM on this labeling, we found that for some websites, the precision on the test was not ideal. On closer examinations, we found that on some rare pages, the best cluster that most relevently matches the page description would be user generated contents like comments. To fix this issue, we implemented \emph{Algorithm \ref{algorithm:1}} which scores thr blocks across the entire website (rather than working locally on a single page).
 
 \begin{algorithm}
 \label{algorithm:1}
- \SetLine
- \For{each page of a website}{
-  Find the block(B) with with the highest similarity score\;
-  Label all the blocks of current page that are in the same cluster with B as 1\;
-  Label all other blocks of the current page as 0\;
- }
- \caption{Labelling from local score in a page}
-\end{algorithm}
-
-After training the SVM on this labeling, we found that for some websites, the precision on the test set was ~80\%. On closely examining the automatic labels, we found that some labels generated by the above labelling algorithm were incorrect. To fix the labelling, we implemented \emph{Algorithm \ref{algorithm:2}} which scores blocks across the website (rather than working locally on a single page).
-
-\begin{algorithm}
-\label{algorithm:2}
 \caption{Labeling from global score in a website}
 
  \SetLine
- score := {an array of zeros with the same size as the number of clusters}
+ score := {array of zeros with length equal to \# of clusters}\;
  \For{each cluster i of a website}{
   \For{each block j under that cluster}{
-    score[i] := score[i] + similarity score block j\;
+    score[i] := score[i] + relevance score of block j\;
   }
  }
  Pick the cluster(C) with the highest similarity score;
  Label all the blocks of in the same cluster C as 1\;
- Label all other blocks of the current page as 0\;
+ Label all other blocks as 0\;
 
 \end{algorithm}
 
-This algorithm perform very accurately and removes the occasional scoring hiccups on a single page. After training the SVM with this updated labelling, the precision on the test set increased to ~100\%.
+This algorithm perform very accurately and removes the occasional labeling hiccups on a single page. After training the SVM with this updated labeling, the precision on the test dramatically improved.
+
+\section{SVM and Result Evaluation}
+
+We constructed a support vector classifier with a linear kernel. Due to the inbalance between the number of content blocks and the number of non-content blocks on a web page, we applied class weights to give our positive (content) examples higher weights.
+
+For this milestone, we trained a different classifier for each site using only labeled text blocks from that particular site. And we perform a 4-fold cross validation to evaluate the performance of our classifier.
 
 \section{Feature Selection}
-\label{sec:feature}
+
+In order to better evaluate our approach, we experimented with different feature sets.
+
 \subsection{Text Length}
+
+A common naive approach to web content extraction is to find the longgest continuous text in a web page. Therefore, to establish a baseline, we've experimented with using only text length as our feature set. The text length of each text block is simply the number of non-whitespace characters in the block. We normalize this number by scaling it to have a zero mean and variance of one.
+
+The results show that this approach works for some sites but performs quite poorly for others. See \emph{Table \ref{table:textlength}}.
+
+\subsection{Tag Path}
+
+The third approach is to use tag path of the block. Tag path is the path from the root of the document to the text block. For this milestone, we only incorporated the element type in the tag path. For example, a paragraph inside a div container in the body of the HTML page would have a tag path like \emph{``body > div > p''}. We treat each different tag path uniquely and vectorized this discrete feature then scaling it to $\{-1, +1\}$.
+
+The results show that this approach works quite well in general but fails for some particular site. We found that in the failure cases, the tag paths are indeed the same for content and some non-content. Therefore, this feature alone cannot sufficiently distinguish the two classes of blocks. \emph{Table \ref{table:tagpath}}.
+
+\subsection{CSS Properties}
+
+The forth approach is to use all visual related CSS properties (color, font-size, font-style, line-height etc.) as features. These features are treated as discrete features and are vectorized and scaled to $\{-1, +1\}$.
+
+The results show that similar to tag path, these features work quite well in general but not ideal for some sites. Especially for sites that do not distinguish content with other parts of the page visually (by color or font size or font style), these features are not sufficient. \emph{Table \ref{table:css}}.
+
+\subsection{Combined Features}
+
+When we combine text length, tag path and CSS properties, the results show that we can classify all text blocks within our dataset perfectly (even in each iteration of the 4-fold cross validation). \emph{Table \ref{table:combined}}.
+
+
+\section{Remaining Work}
+
+For this rest of this quarter, we will be working on a few improvements to this project.
+
+\subsection{Accurate Labeling}
+Our automatic labeling method is not perfect. While it correctly labels some content blocks, it misses our content blocks are slightly different (blockquote or a list within an article). We will work on improving the labeling method or even employing manual labeling.
+
+\subsection{Better Features}
+Some of our features have room for improvement. For example, tag path can include element ID and CSS classes. It can even include positional information to acurrately pinpoint a specific element in the web page. Using these additional information, perhaps tag path as a feature will sufficiently distinguish content vs non-content.
+
+On the other hand, some CSS properties can be bucketized or even transformed to linear values. For example, color of the text is currently treated as discrete values, but they are indeed continuous in the color space.
+
+\subsection{Demo}
+We are planning to create a Chrome extension to allow anyone to play with our classifier on the webpages they visit. This will dramatically expand our dataset and will also allow human assisted labeling of a more diversified dataset, thus leading to a better evaluation for our approaches.
+
+\bibliographystyle{abbrv}
+\bibliography{milestone}
 
 \begin{table}
 \centering
-\caption{Text Length}
+\caption{\label{table:textlength}Result using Text Length only}
 \begin{tabular}{|l|l|c|c|c|} \hline
-Site&Class&Precision&Recall&$F_1$\\ \hline
+Site&Class&Precision&Recall&$F_1$\\ \hline\hline
 npr&non-content&98.16\%&95.00\%&96.55\%\\ \hline
 npr&content&78.99\%&91.34\%&84.70\%\\ \hline
 prothomalo&non-content&99.03\%&95.93\%&97.45\%\\ \hline
@@ -143,37 +175,11 @@ usatoday&content&75.45\%&82.98\%&78.83\%\\ \hline
 \end{tabular}
 \end{table}
 
-
-\subsection{Text Density}
-
 \begin{table}
 \centering
-\caption{Text Density}
+\caption{\label{table:tagpath}Result using Tag Path only}
 \begin{tabular}{|l|l|c|c|c|} \hline
-npr&non-content&100.00\%&1.33\%&2.63\%\\ \hline
-npr&content&17.17\%&100.00\%&29.28\%\\ \hline
-prothomalo&non-content&96.89\%&43.23\%&59.77\%\\ \hline
-prothomalo&content&4.15\%&63.77\%&7.78\%\\ \hline
-qq&non-content&97.36\%&52.83\%&68.45\%\\ \hline
-qq&content&7.31\%&71.82\%&13.26\%\\ \hline
-sina&non-content&100.00\%&0.18\%&0.37\%\\ \hline
-sina&content&8.19\%&100.00\%&15.13\%\\ \hline
-techcrunch&non-content&100.00\%&10.16\%&18.43\%\\ \hline
-techcrunch&content&4.12\%&100.00\%&7.90\%\\ \hline
-theverge&non-content&98.43\%&58.70\%&73.54\%\\ \hline
-theverge&content&6.69\%&75.32\%&12.28\%\\ \hline
-usatoday&non-content&75.00\%&0.37\%&0.74\%\\ \hline
-usatoday&content&26.38\%&100.00\%&41.72\%\\ \hline
-\end{tabular}
-\end{table}
-
-
-\subsection{Tag Path}
-
-\begin{table}
-\centering
-\caption{Tag Path}
-\begin{tabular}{|l|l|c|c|c|} \hline
+Site&Class&Precision&Recall&$F_1$\\ \hline\hline
 npr&non-content&100.00\%&99.94\%&99.97\%\\ \hline
 npr&content&99.74\%&100.00\%&99.87\%\\ \hline
 prothomalo&non-content&100.00\%&100.00\%&100.00\%\\ \hline
@@ -191,12 +197,11 @@ usatoday&content&100.00\%&100.00\%&100.00\%\\ \hline
 \end{tabular}
 \end{table}
 
-\subsection{CSS Properties}
-
 \begin{table}
 \centering
-\caption{CSS Properties}
+\caption{\label{table:css}Result using CSS Properties}
 \begin{tabular}{|l|l|c|c|c|} \hline
+Site&Class&Precision&Recall&$F_1$\\ \hline\hline
 npr&non-content&100.00\%&100.00\%&100.00\%\\ \hline
 npr&content&100.00\%&100.00\%&100.00\%\\ \hline
 prothomalo&non-content&100.00\%&100.00\%&100.00\%\\ \hline
@@ -214,11 +219,11 @@ usatoday&content&100.00\%&100.00\%&100.00\%\\ \hline
 \end{tabular}
 \end{table}
 
-
 \begin{table}
 \centering
-\caption{Combined Features}
+\caption{\label{table:combined}Result using Combined Features}
 \begin{tabular}{|l|l|c|c|c|} \hline
+Site&Class&Precision&Recall&$F_1$\\ \hline\hline
 npr&non-content&100.00\%&100.00\%&100.00\%\\ \hline
 npr&content&100.00\%&100.00\%&100.00\%\\ \hline
 prothomalo&non-content&100.00\%&100.00\%&100.00\%\\ \hline
@@ -235,13 +240,6 @@ usatoday&non-content&100.00\%&100.00\%&100.00\%\\ \hline
 usatoday&content&100.00\%&100.00\%&100.00\%\\ \hline
 \end{tabular}
 \end{table}
-
-\section{Remaining Work}
-
-
-
-\bibliographystyle{abbrv}
-\bibliography{milestone}
 
 \end{document}
 
