@@ -6,6 +6,7 @@ import collections
 import itertools
 import utils
 import re
+from sklearn import preprocessing
 
 class Processor(object):
 
@@ -65,7 +66,7 @@ class Processor(object):
                 discrete_features.append(discrete_feature)
 
         # build numpy array
-        continuous_features = np.array(continuous_features)
+        continuous_features = preprocessing.scale(np.array(continuous_features))
 
         # vectorize discrete features
         vectorizer = DictVectorizer()
@@ -80,45 +81,51 @@ class Processor(object):
 
         pages = collections.defaultdict(lambda: collections.defaultdict(lambda: dict(
             score=0.0,
-            selectors=[],
-            tokens=[],
-            text=[],
-            discrete={},
-            continuous=[],
+            texts=[],
             label=0,
-            area=0.0,
         )))
 
+        # iterate over each block
         for page, text, label in zip(self.pages, self.texts, labels):
 
+            # first find out this text block's relevence score
             hints = page['titles'] + page['descriptions']
-            relevance_score = self.analyzer.get_similarity(text['tokens'], hints) if hints else 0.0
+            score = self.analyzer.get_similarity(text['tokens'], hints) if hints else 0.0
 
+            # find the cluster
             cluster = pages[page['url']][int(label)]
-            # cluster['selectors'].append(text['selector'])
-            cluster['score'] += relevance_score
-            cluster['tokens'].append(text['tokens'])
-            cluster['text'] += text['text']
-            cluster['area'] += text['bound']['width'] + text['bound']['height']
 
-            # collect discrete features
-            cluster['discrete'].update(text['computed'].items())
-            cluster['discrete']['path'] = ' > '.join(text['path'])
+            cluster['score'] += score
+            cluster['texts'].append(text)
 
-        continuous_features = []
-        discrete_features = []
-        labels = []
-
-        # for each page, find the best cluster and label it 1
+        # for each page, find the best cluster
         for url, clusters in pages.iteritems():
             cluster = max(clusters.values(), key=lambda x: x['score'])
             cluster['label'] = 1
 
+        # build features
+        continuous_features = []
+        discrete_features = []
+        labels = []
+
+        for url, clusters in pages.iteritems():
             for cluster in clusters.values():
-                cluster['continuous'].append(float(len(cluster['tokens'])) / float(cluster['area']))
-                discrete_features.append(cluster['discrete'])
-                continuous_features.append(cluster['continuous'])
-                labels.append(cluster['label'])
+                for text in cluster['texts']:
+                    text_length = len(text['tokens'])
+                    area = text['bound']['height']
+                    text_density = float(text_length) / float(area)
+
+                    # continuous_feature
+                    continuous_feature = [text_density]
+                    continuous_features.append(continuous_feature)
+
+                    # discrete features
+                    discrete_feature = dict(text['computed'].items())
+                    discrete_feature['path'] = ' > '.join(text['path'])
+                    discrete_features.append(discrete_feature)
+
+                    # label
+                    labels.append(cluster['label'])
 
         # build numpy array
         continuous_features = np.array(continuous_features)
@@ -129,7 +136,6 @@ class Processor(object):
         discrete_features = vectorizer.fit_transform(discrete_features).toarray()
 
         return pages, np.hstack([continuous_features, discrete_features]).astype(np.float32), labels.astype(np.float32)
-
 
     def score(self, labels):
 

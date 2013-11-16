@@ -38,7 +38,7 @@ def main(args):
     pages, features, labels = processor.prepare(labels)
 
     # train
-    clf = svm.SVC(verbose=True)
+    clf = svm.SVC(verbose=True, kernel='rbf')
     n = int(len(labels) * 1.0)
     print np.sum(labels[:n])
     print clf.fit(features[:n], labels[:n])
