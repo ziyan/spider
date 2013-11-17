@@ -1,5 +1,10 @@
 \documentclass{acm_proc_article-sp}
+\usepackage{graphicx}
 \usepackage{hyperref}
+\hypersetup{
+    colorlinks = false,
+    pdfborder = {0 0 0},
+}
 
 \makeatletter
 \newif\if@restonecol
@@ -7,11 +12,6 @@
 \let\algorithm\relax
 \let\endalgorithm\relax
 \usepackage{algorithm2e}
-
-\hypersetup{
-    colorlinks = false,
-    pdfborder = {0 0 0},
-}
 
 \begin{document}
 
@@ -38,7 +38,7 @@ Web content extraction is a key technology for enabling an array of applications
 
 \section{Introduction and Related Work}
 
-Content extraction algorithms have been well studied and there are many interesting and useful applications\cite{diffbot}\cite{readability}. A survey by Laender at el.\cite{laender:brief} systematically covers a wide range of techniques used for this purpose. These tools range from wrapper development to NLP-based and modeling-based approach. Some of the modeling-based approach and wrapper induction approach requires supervised learning methods like labeling sample dataset. Miao at el.\cite{gengxin:extracting} proposed a fully automatic tag path clustering approach to extract structures on a single page. Sun at el.\cite{sun2011dom} applied a language independent approach by looking at text density at each area of the document.
+Content extraction algorithms have been well studied and there are many interesting and useful applications\cite{diffbot}\cite{readability}. A survey by Laender at el.\cite{laender:brief} systematically covers a wide range of techniques used for this purpose. These tools range from wrapper development to NLP-based and modeling-based approach. Miao at el.\cite{gengxin:extracting} proposed a fully automatic tag path clustering approach to extract structures on a single page. Sun at el.\cite{sun2011dom} applied a language independent approach by looking at text density at each area of the document.
 
 We wanted a better approach to this problem, to train a SVM classifier that is language independent, that incorporates visual features like font size, color and style, line spacing and block size etc., while also maintaining site and domain agnostic.
 
@@ -63,7 +63,7 @@ USA Today&English&20\\ \hline
 
 The dataset is extracted from serveral popular English, Simplified Chinese, and Bengali news article sites on the Internet.\footnote{The collected dataset is available at \url{https://github.com/ziyan/spider/tree/master/data}} See \emph{Table \ref{table:dataset}}.
 
-Each page is downloaded and rendered in a virtual webkit browser.\cite{phantomjs}, restoring its original layout intended for human audience. Javascript is then injected into the page to efficiently inspect DOM elements. Text enclosing blocks are identified. For each DOM element containing text, the algorithm finds its closest parent element that are displayed as block. Inline links and other text decorators are not individually identified. Instead, their common parent element, which might be a paragraph or a div, is identified as a whole.
+Each page is downloaded and rendered in a virtual webkit browser.\cite{phantomjs}, restoring its original layout intended for human audience. Javascript is then injected into the page to efficiently inspect DOM elements. Text enclosing blocks are identified. For each DOM element containing text, the algorithm finds its closest parent element that are displayed as block. Inline links and other text decorators are not individually identified. Instead, their common parent element, which might be a paragraph or a div, is identified as a whole.\footnote{See a screenshot rendered by the virtual browser with extracted text blocks outlined by red boxes: \url{https://raw.github.com/ziyan/spider/master/docs/milestone/blocks.png}}
 
 For each chosen block, a set of features are then extracted, including the size and position of the block, the contained text, the font configurations, color, line height, tag path, etc. In fact, there are over 300 different CSS properties for each block. Our algorithm automatically extracts those with a non-default value. Therefore, the number of features varies from block to block in the data collection phase.
 
@@ -75,17 +75,14 @@ The clustering result shows that, the body text of the articles across multiple 
 
 \section{Automatic Labeling}
 
-Although all the blocks have been clustered quite precisely based on their visual properties, it is not trivial to find out which cluster contains the content text.
-
-The DBSCAN algorithm views clusters as areas of high density separated by areas of low density. The number of clusters varies from website to website. Thus there is no way to know which clusters contain the content text we need. For our dataset, the number of output clusters ranges from a couple of clusters to more than 20.
+Although all the blocks have been clustered quite precisely based on their visual properties, it is not trivial to find out which cluster contains the content text. The DBSCAN algorithm views clusters as areas of high density separated by areas of low density. The number of clusters varies from website to website. Thus there is no way to know which clusters contain the content text we need. For our dataset, the number of output clusters ranges from a couple of clusters to more than 20.
 
 Fortunately, most websites have some metadata stored in meta tags in order to accommodate Google's web crawler or Facebook's Open Graph. So we can extract the description of an article by parsing the meta tags in the page. The description usually contains a brief summary or just the first few words of the article content. With that, we are able to calculate the similarity between each cluster and the description using the Longest Common Subsequence (LCS) algorithm. The longer the common subsequence (we call this number ``relevance score''), the more likely is the cluster to contain the content text. Note we used LCS instead of Term Frequency Inverse Document Frequency to ensure language independency as word segmentations are done differently for different languages.
 
-At first we tried to automatically label the blocks by finding the best cluster local to each page on a website. After training the SVM on this labeling, we found that for some websites, the precision on the test was not ideal. On closer examinations, we found that on some rare pages, the best cluster that most relevently matches the page description would be user generated contents like comments. To fix this issue, we implemented \emph{Algorithm \ref{algorithm:1}} which scores thr blocks across the entire website (rather than working locally on a single page).
+At first we tried to automatically label the blocks by finding the best cluster local to each page on a website. After training the SVM on this labeling, we found that for some websites, the precision on the test set was not ideal. On closer examinations, we found that on some rare pages, the best cluster that most relevently matches the page description would be user generated contents like comments. To fix this issue, we implemented \emph{Algorithm \ref{algorithm:1}} which scores the blocks across the entire website (rather than working locally on a single page).
 
 \begin{algorithm}
-\label{algorithm:1}
-\caption{Labeling from global score in a website}
+\caption{\label{algorithm:1}Labeling from global score in a website}
 
  \SetLine
  score := {array of zeros with length equal to \# of clusters}\;
@@ -94,7 +91,7 @@ At first we tried to automatically label the blocks by finding the best cluster 
     score[i] := score[i] + relevance score of block j\;
   }
  }
- Pick the cluster(C) with the highest similarity score;
+ Pick the cluster(C) with the highest similarity score\;
  Label all the blocks of in the same cluster C as 1\;
  Label all other blocks as 0\;
 
@@ -120,19 +117,19 @@ The results show that this approach works for some sites but performs quite poor
 
 \subsection{Tag Path}
 
-The third approach is to use tag path of the block. Tag path is the path from the root of the document to the text block. For this milestone, we only incorporated the element type in the tag path. For example, a paragraph inside a div container in the body of the HTML page would have a tag path like \emph{``body > div > p''}. We treat each different tag path uniquely and vectorized this discrete feature then scaling it to $\{-1, +1\}$.
+The second approach is to use tag path of the block. Tag path is the path from the root of the document to the text block. For this milestone, we only incorporated the element type in the tag path. For example, a paragraph inside a div container in the body of the HTML page would have a tag path like \emph{``body > div > p''}. We treat each different tag path uniquely and vectorized this discrete feature then scaling it to $\{-1, +1\}$.
 
-The results show that this approach works quite well in general but fails for some particular site. We found that in the failure cases, the tag paths are indeed the same for content and some non-content. Therefore, this feature alone cannot sufficiently distinguish the two classes of blocks. \emph{Table \ref{table:tagpath}}.
+The results show that this approach works quite well in general but fails for some particular site. We found that in the failure cases, the tag paths are indeed the same for content and some non-content. Therefore, this feature alone cannot sufficiently distinguish the two classes of blocks. See \emph{Table \ref{table:tagpath}}.
 
 \subsection{CSS Properties}
 
-The forth approach is to use all visual related CSS properties (color, font-size, font-style, line-height etc.) as features. These features are treated as discrete features and are vectorized and scaled to $\{-1, +1\}$.
+The third approach is to use all visual related CSS properties (color, font-size, font-style, line-height etc.) as features. These features are treated as discrete features and are vectorized and scaled to $\{-1, +1\}$.
 
-The results show that similar to tag path, these features work quite well in general but not ideal for some sites. Especially for sites that do not distinguish content with other parts of the page visually (by color or font size or font style), these features are not sufficient. \emph{Table \ref{table:css}}.
+The results show that similar to tag path, these features work quite well in general but not ideal for some sites. Especially for sites that do not visually distinguish content with other parts of the page, these features are not sufficient. See \emph{Table \ref{table:css}}.
 
 \subsection{Combined Features}
 
-When we combine text length, tag path and CSS properties, the results show that we can classify all text blocks within our dataset perfectly (even in each iteration of the 4-fold cross validation). \emph{Table \ref{table:combined}}.
+When we combine text length, tag path and CSS properties, the results show that we can classify all text blocks within our dataset perfectly (even in each iteration of the 4-fold cross validation).
 
 
 \section{Remaining Work}
@@ -148,30 +145,29 @@ Some of our features have room for improvement. For example, tag path can includ
 On the other hand, some CSS properties can be bucketized or even transformed to linear values. For example, color of the text is currently treated as discrete values, but they are indeed continuous in the color space.
 
 \subsection{Demo}
-We are planning to create a Chrome extension to allow anyone to play with our classifier on the webpages they visit. This will dramatically expand our dataset and will also allow human assisted labeling of a more diversified dataset, thus leading to a better evaluation for our approaches.
+We are planning to create a Chrome extension to allow anyone to use our classifier on the webpages they visit. This will dramatically expand our dataset and will also allow human assisted labeling of a more diversified dataset, resulting in a better evaluation of our approaches.
 
-\bibliographystyle{abbrv}
-\bibliography{milestone}
+
 
 \begin{table}
 \centering
 \caption{\label{table:textlength}Result using Text Length only}
 \begin{tabular}{|l|l|c|c|c|} \hline
 Site&Class&Precision&Recall&$F_1$\\ \hline\hline
-npr&non-content&98.16\%&95.00\%&96.55\%\\ \hline
-npr&content&78.99\%&91.34\%&84.70\%\\ \hline
-prothomalo&non-content&99.03\%&95.93\%&97.45\%\\ \hline
-prothomalo&content&42.14\%&75.01\%&53.31\%\\ \hline
-qq&non-content&98.60\%&91.62\%&94.97\%\\ \hline
-qq&content&31.95\%&75.43\%&44.70\%\\ \hline
-sina&non-content&96.52\%&96.80\%&96.66\%\\ \hline
-sina&content&62.92\%&60.63\%&61.69\%\\ \hline
-techcrunch&non-content&99.30\%&93.51\%&96.32\%\\ \hline
-techcrunch&content&32.84\%&83.18\%&46.96\%\\ \hline
-theverge&non-content&99.47\%&97.06\%&98.25\%\\ \hline
-theverge&content&53.56\%&86.86\%&66.08\%\\ \hline
-usatoday&non-content&93.72\%&90.40\%&92.00\%\\ \hline
-usatoday&content&75.45\%&82.98\%&78.83\%\\ \hline
+NPR&non-content&98.16\%&95.00\%&96.55\%\\ \hline
+NPR&content&78.99\%&91.34\%&84.70\%\\ \hline
+Prothom Alo&non-content&99.03\%&95.93\%&97.45\%\\ \hline
+Prothom Alo&content&42.14\%&75.01\%&53.31\%\\ \hline
+QQ&non-content&98.60\%&91.62\%&94.97\%\\ \hline
+QQ&content&31.95\%&75.43\%&44.70\%\\ \hline
+Sina&non-content&96.52\%&96.80\%&96.66\%\\ \hline
+Sina&content&62.92\%&60.63\%&61.69\%\\ \hline
+TechCrunch&non-content&99.30\%&93.51\%&96.32\%\\ \hline
+TechCrunch&content&32.84\%&83.18\%&46.96\%\\ \hline
+The Verge&non-content&99.47\%&97.06\%&98.25\%\\ \hline
+The Verge&content&53.56\%&86.86\%&66.08\%\\ \hline
+USA Today&non-content&93.72\%&90.40\%&92.00\%\\ \hline
+USA Today&content&75.45\%&82.98\%&78.83\%\\ \hline
 \end{tabular}
 \end{table}
 
@@ -180,20 +176,20 @@ usatoday&content&75.45\%&82.98\%&78.83\%\\ \hline
 \caption{\label{table:tagpath}Result using Tag Path only}
 \begin{tabular}{|l|l|c|c|c|} \hline
 Site&Class&Precision&Recall&$F_1$\\ \hline\hline
-npr&non-content&100.00\%&99.94\%&99.97\%\\ \hline
-npr&content&99.74\%&100.00\%&99.87\%\\ \hline
-prothomalo&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-prothomalo&content&100.00\%&100.00\%&100.00\%\\ \hline
-qq&non-content&100.00\%&96.41\%&98.17\%\\ \hline
-qq&content&58.68\%&100.00\%&73.88\%\\ \hline
-sina&non-content&100.00\%&99.50\%&99.75\%\\ \hline
-sina&content&94.61\%&100.00\%&97.22\%\\ \hline
-techcrunch&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-techcrunch&content&100.00\%&100.00\%&100.00\%\\ \hline
-theverge&non-content&100.00\%&99.68\%&99.84\%\\ \hline
-theverge&content&92.34\%&100.00\%&96.00\%\\ \hline
-usatoday&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-usatoday&content&100.00\%&100.00\%&100.00\%\\ \hline
+NPR&non-content&100.00\%&99.94\%&99.97\%\\ \hline
+NPR&content&99.74\%&100.00\%&99.87\%\\ \hline
+Prothom Alo&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+Prothom Alo&content&100.00\%&100.00\%&100.00\%\\ \hline
+QQ&non-content&100.00\%&96.41\%&98.17\%\\ \hline
+QQ&content&58.68\%&100.00\%&73.88\%\\ \hline
+Sina&non-content&100.00\%&99.50\%&99.75\%\\ \hline
+Sina&content&94.61\%&100.00\%&97.22\%\\ \hline
+TechCrunch&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+TechCrunch&content&100.00\%&100.00\%&100.00\%\\ \hline
+The Verge&non-content&100.00\%&99.68\%&99.84\%\\ \hline
+The Verge&content&92.34\%&100.00\%&96.00\%\\ \hline
+USA Today&non-content&100.00\%&100.00\%&100.00\%\\ \hline
+USA Today&content&100.00\%&100.00\%&100.00\%\\ \hline
 \end{tabular}
 \end{table}
 
@@ -202,44 +198,14 @@ usatoday&content&100.00\%&100.00\%&100.00\%\\ \hline
 \caption{\label{table:css}Result using CSS Properties}
 \begin{tabular}{|l|l|c|c|c|} \hline
 Site&Class&Precision&Recall&$F_1$\\ \hline\hline
-npr&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-npr&content&100.00\%&100.00\%&100.00\%\\ \hline
-prothomalo&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-prothomalo&content&100.00\%&100.00\%&100.00\%\\ \hline
-qq&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-qq&content&100.00\%&100.00\%&100.00\%\\ \hline
-sina&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-sina&content&100.00\%&100.00\%&100.00\%\\ \hline
-techcrunch&non-content&100.00\%&99.75\%&99.88\%\\ \hline
-techcrunch&content&94.27\%&100.00\%&97.03\%\\ \hline
-theverge&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-theverge&content&100.00\%&100.00\%&100.00\%\\ \hline
-usatoday&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-usatoday&content&100.00\%&100.00\%&100.00\%\\ \hline
+TechCrunch&non-content&100.00\%&99.75\%&99.88\%\\ \hline
+TechCrunch&content&94.27\%&100.00\%&97.03\%\\ \hline
 \end{tabular}
+Note: rows that are entirely 100\% omitted.
 \end{table}
 
-\begin{table}
-\centering
-\caption{\label{table:combined}Result using Combined Features}
-\begin{tabular}{|l|l|c|c|c|} \hline
-Site&Class&Precision&Recall&$F_1$\\ \hline\hline
-npr&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-npr&content&100.00\%&100.00\%&100.00\%\\ \hline
-prothomalo&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-prothomalo&content&100.00\%&100.00\%&100.00\%\\ \hline
-qq&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-qq&content&100.00\%&100.00\%&100.00\%\\ \hline
-sina&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-sina&content&100.00\%&100.00\%&100.00\%\\ \hline
-techcrunch&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-techcrunch&content&100.00\%&100.00\%&100.00\%\\ \hline
-theverge&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-theverge&content&100.00\%&100.00\%&100.00\%\\ \hline
-usatoday&non-content&100.00\%&100.00\%&100.00\%\\ \hline
-usatoday&content&100.00\%&100.00\%&100.00\%\\ \hline
-\end{tabular}
-\end{table}
+\bibliographystyle{abbrv}
+\bibliography{milestone}
 
 \end{document}
 
