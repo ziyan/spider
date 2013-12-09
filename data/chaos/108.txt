@@ -1,7 +1,4 @@
-﻿Sets of large doubling and a question of Rudin
-
-Posted in math.CA, math.CO, Fourier Analysis, Paper by Mark Lewko on April 2, 2010
-Update (May 2, 2010): After posting this preprint, Stefan Neuwirth informed us that Rudin’s question had been previously answered by Y. Meyers in 1968. It appears that Meyers’ construction doesn’t, however, say anything about the anti-Freiman problem. Indeed Meyers’ set (and all of its subsets) contains a  set of density . Hence, the construction of a  set that doesn’t contain a large  set still appears to be new. A revised version of the paper has been posted reflecting this information.  Most notably, we have changed the title to “On the Structure of Sets of Large Doubling”.
+﻿Update (May 2, 2010): After posting this preprint, Stefan Neuwirth informed us that Rudin’s question had been previously answered by Y. Meyers in 1968. It appears that Meyers’ construction doesn’t, however, say anything about the anti-Freiman problem. Indeed Meyers’ set (and all of its subsets) contains a  set of density . Hence, the construction of a  set that doesn’t contain a large  set still appears to be new. A revised version of the paper has been posted reflecting this information.  Most notably, we have changed the title to “On the Structure of Sets of Large Doubling”.
 
 Allison Lewko and I recently arXiv’ed our paper “Sets of Large Doubling and a Question of Rudin“. The paper (1) answers a question of Rudin regarding the structure of  sets (2) negatively answers a question of O’Bryant about the existence of a certain “anti-Freiman” theorem (3) establishes a variant of the (solved) Erdös-Newman conjecture. I’ll briefly describe each of these results below.
 

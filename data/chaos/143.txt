@@ -1,7 +1,4 @@
-﻿The EuroMatrix Project (Sept. 2006 - Febr. 2009)
-
-For the follow-up project EuroMatrixPlus (March 2009 - February 2012) please see the new Website
-Summary
+﻿Summary
 EuroMatrix aims at a major push in machine translation (MT) technology applying the most advanced MT technologies systematically to all pairs of EU languages. Special attention is being paid to the languages of the new and near-term prospective member states. As part of this application development, EuroMatrix designs and investigates novel combinations of statistical techniques and linguistic knowledge sources as well as hybrid MT architectures. 
 EuroMatrix addresses urgent European economic and social needs by concentrating on European languages and on high-quality translation to be employed for the publication of technical, social, legal and political documents.
 EuroMatrix aims at enriching the statistical MT approach with novel learning paradigms and experiment with new combinations of methods and resources from statistical MT, rule-based MT, shallow language processing and computational lexicography/morphology.

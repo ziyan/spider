@@ -1,5 +1,4 @@
-﻿Report from ISAAC
-I've spent most of the past week in Korea, for the 21st International Symposium on Algorithms and Computation (ISAAC). Somehow I had the impression of Korea in December as being a very cold place, but although I needed to bundle up a little for a day of sightseeing in Seoul (and although we were treated one morning at the conference to the pretty sight of snow falling over the ocean) it's been quite mild here in Jeju where the conference has been held. And the food and hospitality here have been outstanding.
+﻿I've spent most of the past week in Korea, for the 21st International Symposium on Algorithms and Computation (ISAAC). Somehow I had the impression of Korea in December as being a very cold place, but although I needed to bundle up a little for a day of sightseeing in Seoul (and although we were treated one morning at the conference to the pretty sight of snow falling over the ocean) it's been quite mild here in Jeju where the conference has been held. And the food and hospitality here have been outstanding.
 
 As usual there were too many good talks to cover them all in any detail, so let me just summarize one per day.
 
@@ -10,11 +9,3 @@ On the second day, Gu and Tamaki presented a paper on the branchwidth of planar 
 I didn't think I would be able to see John Augustine's talk on the CNN problem, Friday morning, because I was scheduled to be the session chair for the other parallel session. But one of the sets of authors from my session had transportation difficulties that prevented them from getting to the conference, freeing a time slot at the end of the session and allowing me to move to the other one. In the version of the problem considered by Augustine, a point is moving continuously in the (L1-metric) plane under the control of an adversary, and the algorithm most move a second point so that, at all times, the algorithm's point and the adversary's point are on a common horizontal or vertical line. The cost to the algorithm is the L1 distance its point moves, and the quality of an algorithm is its competitive ratio, the ratio between the cost it actually achieves and the optimal cost that it could have achieved if only it knew the adversary's future moves. The difference between Augustine's version of the problem and previously considered versions is that in his problem the adversary's point must move continuously, where previously it was allowed to jump around arbitrarily, but it also generalizes another previously considered special case in which the adversary's point was only allowed to jump along horizontal or vertical lines. Augustine's algorithm alternates between two strategies, one in which it moves like a chess rook, keeping the adversary's point to its left on a horizontal line, and a second in which it moves like a chess bishop, trying to get its point closer to the adversary's point. He shows that his method achieves a competitive ratio of 3 + 2√3, improving a ratio of 9 for the more restrictive problem in which the adversary's motion is restricted to horizontal and vertical lines.
 
 My own talks were on regular labelings and flow in one-crossing-minor-free graphs; I also had a paper on finding cliques, presented by my co-author Darren Strash (a student of Mike Goodrich at UCI).
-
-Thanks... 
-(Anonymous) 
-2010-12-20 09:28 am UTC (link)
-David... appreciate the mention. I'd like to also give a quick shoutout to my coauthor Nick Gravin.
-
-John.
-(Reply to this)

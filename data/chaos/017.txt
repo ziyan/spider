@@ -1,9 +1,4 @@
-﻿Yext Organizes The Anti-Google Local Advertising Alliance (Screenshots)
-
-Erick Schonfeld
-10 hours ago
-
-
+﻿
 Google, as you may have heard, is making a big push into local advertising. It is currently offering $100 million in AdWords credits to new small businesses that sign up and promotes Google Places results for all local searches. Quite frankly, this is scaring the shit out of competitors like Citysearch, Yellowbook, SuperPages, WhitePages, and Yelp. They all rely on Google search results for people to find a good portion of their listings, and if Google displaces them collectively for local business listings, their businesses will be destroyed.
 
 In local, Google is already a big snowball getting bigger and bigger. So how do they fight back? They enter into an anti-Google alliance, of course. The company organizing this alliance is Yext, a New York City startup which specializes in pay-per-call advertising for local businesses and dashboards to help them manage their reputations and listings online. On Monday, it will launch a new feature called “Tags” which will let small businesses highlight their names with a little tag and customizable message across about a dozen local listings sites. Launch partners for this “Tag Alliance” (I like my name better) will include MapQuest, Citysearch, Yellowbook, Local.com, SuperPages, White Pages, MerchantCircle, and Topix, with more to come.

@@ -1,5 +1,4 @@
-﻿The dense model theorem
-
+﻿
 Posted in expository, math.IT, math.NT by Mark Lewko on December 14, 2009
 A key component in the work of Green, Tao, and Ziegler on arithmetic and polynomial progressions in the primes is the dense model theorem. Roughly speaking this theorem allows one to model a dense subset of a sparse pseudorandom set by dense subset of the the ambient space. In the work of Green, Tao, and Zeigler this enabled them to model (essentially) the characteristic function of the set of primes with (essentially) the characteristic function of a set of integers with greater density. They then were able to obtain the existence of certain structures in the model set via Szemerédi’s theorem and its generalizations.   
 
@@ -106,11 +105,3 @@ which completes the proof.
 Recalling that  we may apply Lemma 2 to complete the proof of the dense model theorem.   
 
  Remark 1 We note that the only step of the proof where we haven’t explicitly recorded the relationship between ,  and  is in the dependency of the polynomial  on . Using a quantitative form of Weierstrass’ approximation theorem one can obtain  and . We refer the reader here for details.
-
-Updated 12/17/2009: Fixed formatting in proof of Lemma 6.
-
-Tagged with: Dense Model Theorem, Green-Tao Theorem, pseudorandomness
-
-	 Binbin Zhou said, on January 5, 2010 at 11:16 am
-Later, Green-Tao post anther paper which generalise .
-

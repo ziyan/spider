@@ -1,7 +1,4 @@
-﻿WEDNESDAY, OCTOBER 20, 2010
-
-More Clouding
-When you plug your fridge into the mains electricity supply you don't worry about all the technology sitting behind the wall socket -- it just works. Cloud computing is starting to supply IT in a similar fashion. No more worrying about backups, no more wasted hours configuring a new or repaired machine -- just plug into the network, fire up your web browser and away you go.
+﻿When you plug your fridge into the mains electricity supply you don't worry about all the technology sitting behind the wall socket -- it just works. Cloud computing is starting to supply IT in a similar fashion. No more worrying about backups, no more wasted hours configuring a new or repaired machine -- just plug into the network, fire up your web browser and away you go.
 
 Researchers have tougher and more specialised IT needs than most, so to realise the same ease of use that the cloud now provides for email or word processing requires work in several areas. One of these areas is to adapt existing established research tools to the cloud, and that is what we plan to do with GATE in the next period. Over the last decade GATE has become a world leader for research and development of text mining algorithms.
 
@@ -22,7 +19,3 @@ Our plan for the next period is to work towards making use of these systems more
 A caveat: it is important to note that current commercial cloud offerings are not yet appropriate as a drop-in replacement for all academic computing facilities. For example, the cost of running a virtual machine on Amazon's EC2 continuously for 1 year is roughly equivalent to the cost of buying a similar machine. In the latter case the hardware may be expected to perform reliably for at least 3 years, which means that the Amazon option is only cost effective if the cost of hosting a server in your organisation is on the order of 3 times the cost of the server hardware. Careful quantification of the costs is important when moving to the cloud.
 
 See also this previous post on cloud computing.
-
-Permalink. On Blogspot.
-
-POSTED BY HAMISH CUNNINGHAM AT 12:44 PM

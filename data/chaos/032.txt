@@ -1,6 +1,4 @@
-﻿Information technology goes global Dec 29th 2010 | from PRINT EDITION
-
-
+﻿
 CLOUDS bear little resemblance to tanks, particularly when the clouds are of the digital kind. But statistical methods used to count tanks in the second world war may help to answer a question that is on the mind of many technology watchers: How big is the computing cloud?
 
 This is not just a question for geeks. Computing clouds—essentially digital-service factories—are the first truly global utility, accessible from all corners of the planet. They are among the world’s biggest energy hogs and thus account for a lot of carbon dioxide emissions. More happily, they allow firms in developing countries to leapfrog traditional information technology (IT) and benefit from advanced computing services without having to build expensive infrastructure.
@@ -29,5 +27,3 @@ These numbers give at least an estimate of the size of the market for IaaS. Amaz
 So how big is the cloud? And how big will it be in, say, ten years? It depends on the definition. If you count web-based applications and online platforms, it is already huge and will become huger. Forrester predicts that it will grow to nearly $56 billion by 2020. But raw computing services, the core of the cloud, is much smaller—and will not get much bigger. Forrester, reckons it will be worth $4 billion in 2020 (although this has much to do with the fact that even in the cloud, the cost of computer hardware will continue to drop, points out Stefan Ried of Forrester).
 
 At any rate, the cloud is not simply “water vapour”, as Larry Ellison, the boss of Oracle, a software giant, has deflatingly suggested. One day the cloud really will be big. Given a little more openness, more people might actually believe that.
-
-from PRINT EDITION | International

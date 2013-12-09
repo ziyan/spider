@@ -1,8 +1,4 @@
-﻿Will 2011 See App Makers Thinking Android-First? One Developer Thinks It’s Possible
-
-MG Siegler
-Dec 28, 2010
-
+﻿
 Over the weekend, there was a ton of talk about 2011 being the year in which Android “explodes” onto the market. You could argue that 2010 was already that year, but plenty of numbers indicate that 2011 will be much bigger for the platform. But despite Android as a whole already outselling the iPhone, there’s little debate that amongst developers, iOS is still the platform you develop for first. But this could change as well in 2011, at least according to one developer. And it’s significant because he’s been an iPhone-first guy up until now.
 
 Akshay Kothari	is the co-founder of Alphonso Labs, the development house behind the popular Pulse news reader app. Pulse started as an iPad app first, then expanded to the iPhone, then came to Android. Kothari credits both the support they’ve received from Apple and the press surrounding the iPad as the reason why they’ve been so iOS-centric up until now. But, “our thinking about the Android platform has changed significantly over the last couple weeks,” he writes to us.

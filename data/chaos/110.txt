@@ -1,8 +1,3 @@
-Dispersion relation
-
-From DispersiveWiki
-
-Jump to: navigation, search
 The dispersion relation  of a constant coefficient linear evolution equation determines how time oscillations  are linked to spatial oscillations  of wave number k. In other words, the dispersion relation is the function for which the plane waves  solve the equation. Note that for equations which are second-order in time rather than first-order, the dispersion relation is typically double-valued rather than single-valued.
 
 The dispersion relation for the model constant-coefficient linear dispersive and wave equations are as follows.
@@ -33,6 +28,3 @@ An equation is dispersive if different frequencies propagate at different group 
 If the group velocity is bounded we say that we have finite speed of propagation, otherwise we have infinite speed of propagation. Thus for instance, the phase rotation, transport, Klein-Gordon, and wave equations have finite speed of propagation, while the Schrodinger and Airy equation has infinite speed of propagation.
 
 Intuitively, a dispersive equation should spread out the physical support of a solution over time. One way to capture this is via dispersive estimates, which in turn lead to Strichartz estimates; when there is infinite speed of propagation, dispersion can also be captured inside local smoothing estimates.
-
-Retrieved from "http://tosio.math.utoronto.ca/wiki/index.php/Dispersion_relation"
-Category: Concept

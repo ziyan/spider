@@ -1,6 +1,4 @@
-﻿254A, Notes 6: Gaussian ensembles
-23 February, 2010 in math.CA, math.PR, math.AP, math.SP, math.RA, 254A - random matrices | Tags: GUE, determinantal processes, Hermite polynomials, method of steepest descent, ODE | by Terence Tao
-Our study of random matrices, to date, has focused on somewhat general ensembles, such as iid random matrices or Wigner random matrices, in which the distribution of the individual entries of the matrices was essentially arbitrary (as long as certain moments, such as the mean and variance, were normalised). In these notes, we now focus on two much more special, and much more symmetric, ensembles:
+﻿Our study of random matrices, to date, has focused on somewhat general ensembles, such as iid random matrices or Wigner random matrices, in which the distribution of the individual entries of the matrices was essentially arbitrary (as long as certain moments, such as the mean and variance, were normalised). In these notes, we now focus on two much more special, and much more symmetric, ensembles:
 
 The Gaussian Unitary Ensemble (GUE), which is an ensemble of random  Hermitian matrices  in which the upper-triangular entries are iid with distribution , and the diagonal entries are iid with distribution , and independent of the upper-triangular ones; and
 The Gaussian random matrix ensemble, which is an ensemble of random  (non-Hermitian) matrices  whose entries are iid with distribution .
@@ -763,75 +761,3 @@ Exercise 10 For any  and , show that
 as . This formula (in principle, at least) describes the asymptotic local -point correlation functions of the spectrum of gaussian matrices.
 
 Remark 8 One can use the above formulae as the starting point for many other computations on the spectrum of random gaussian matrices; to give just one example, one can show that expected number of eigenvalues which are real is of the order of  (see this paper of Edelman for more precise results of this nature). It remains a challenge to extend these results to more general ensembles than the gaussian ensemble.
-
-8 commentsComments feed for this article
-24 February, 2010 at 11:48 am
-Anonymous
-
-
-There’s a minor typo (“frac” should be “\frac”) in the statement of Exercise 9.
-
-[Corrected, thanks - T.]
-
-00  Rate This
-Reply
-26 February, 2010 at 6:49 pm
-Anonymous
-
-
-Dear Prof. Tao,
-
-Thank you for the great post.
-
-Which course are you going to teach next semester? If you give a hint, we can start to read related materials. your lecture notes are terrific but requires strong background.
-
-Thanks
-
-00  Rate This
-Reply
-5 March, 2010 at 1:47 pm
-254A, Notes 7: The least singular value « What’s new
-
-[...] of a gaussian random matrix can be computed explicitly by techniques similar to those employed in Notes 6. In particular, if is a real gaussian matrix (with all entries iid with distribution ), it was [...]
-00  Rate This
-Reply
-9 August, 2010 at 10:31 am
-Anonymous
-
-
-In deriving the pdf for GUE, “We can thus use the inverse function theorem in this local region of parameter space and make the ansatz ….”
-
-How is this true? Is there any reference to detailing this step?
-
-00  Rate This
-Reply
-9 August, 2010 at 12:46 pm
-Terence Tao
-
-
-As stated immediately after that quote, one computes the Jacobian of at  (and  equal to a diagonal unitary) and verifies that it is non-zero. This already gives the desired parameterisation in the  neighbourhood of any diagonal unitary , from the inverse function theorem (it may be convenient here to scale out the  and look at the map  instead). Since we already know  lies within  of a diagonal unitary, the claim follows.
-
-00  Rate This
-Reply
-23 October, 2010 at 12:57 pm
-The Dyson and Airy kernels of GUE via semiclassical analysis « What’s new
-
-[...] standard computation (given for instance in these lecture notes of mine) gives the Ginebre [...]
-00  Rate This
-Reply
-4 December, 2010 at 10:44 pm
-Anonymous
-
-
-Dear Prof. Tao,
-I don’t quite understand the argument after equation (20). You said you want to absorb K_n(x_l,x_{k+1}) into the l-th column. But isn’t the l-th column omitted in the matrix that follows? Maybe you meant the k+1th column? But I couldn’t figure out how to make it work.
-
-[Corrected, thanks. The strategy is to get to the point where one can use the identity .]
-
-00  Rate This
-Reply
-5 December, 2010 at 11:32 am
-Anonymous
-
-
-Ah I see. You are integrating  partially first. Thanks!

@@ -1,10 +1,4 @@
-﻿Skype’s Christmas Present: A Patent Infringement Lawsuit
-
-Robin Wauters
-Dec 27, 2010
-
-
-Poor Skype. A mere day after its key consumer service suffered a major outage, affecting tens of millions of users for hours on end, a patent infringement lawsuit against the company was filed in the United States. Plaintiff is the obscure Gradient Enterprises, a non-practicing entity (also lovingly known as an “obnoxious patent troll” in some parts).
+﻿Poor Skype. A mere day after its key consumer service suffered a major outage, affecting tens of millions of users for hours on end, a patent infringement lawsuit against the company was filed in the United States. Plaintiff is the obscure Gradient Enterprises, a non-practicing entity (also lovingly known as an “obnoxious patent troll” in some parts).
 
 The patent-in-suit is U.S. patent no. 7,669,207, entitled “METHOD FOR DETECTING, REPORTING AND RESPONDING TO NETWORK NODE-LEVEL EVENTS AND A SYSTEM THEREOF”.
 

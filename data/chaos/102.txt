@@ -1,5 +1,4 @@
-﻿Hash functions made easy
-One of the new papers on arXiv this week looks to me like an example of exactly what theoretical algorithms research should aim for: simple algorithms with nontrivial analysis, providing new and practical solutions to an important problem in which previous solutions were unsatisfactory. Unfortunately, the previous solutions were only unsatisfactory in practice, while from the theoretical point of view they were optimal; when this happens, it tends to make papers like this quite difficult to publish in algorithms conferences.
+﻿One of the new papers on arXiv this week looks to me like an example of exactly what theoretical algorithms research should aim for: simple algorithms with nontrivial analysis, providing new and practical solutions to an important problem in which previous solutions were unsatisfactory. Unfortunately, the previous solutions were only unsatisfactory in practice, while from the theoretical point of view they were optimal; when this happens, it tends to make papers like this quite difficult to publish in algorithms conferences.
 
 The paper: "The Power of Simple Tabulation Hashing", by Mihai Pătraşcu and Mikkel Thorup, arXiv:1011.5200.
 
@@ -15,29 +14,3 @@ In chaining (that is, resolving collisions by using linked lists of items that a
 Linear probing (that is, resolving collisions by placing each item into the nearest empty slot, and performing lookups by searching forwards from the hashed index until finding an empty slot) in a table with n items stored and (1+ε)n slots takes expected time O(1/ε2) per operation.
 Cuckoo hashing (a more complex collision resolution strategy with the advantage that search operations are extremely fast, although updates can be slower) has polynomially small failure probability (but not as good as the linearly small failure probability that one would get with a truly random hash function). This is not good enough to use this function for a dynamic cuckoo hash table, but is good enough for using cuckoo hashing in the static case.
 The tradeoff for using these newly simplified methods is that their analysis becomes a lot more complicated and ad-hoc. But since the analysis isn't the part that has to be implemented, that's probably the right tradeoff to make.
-
-or 
-(Anonymous) 
-2010-11-30 01:20 am UTC (link)
-h(x) = T[0,x0]+T[1,x1]+T[2,x2]+...
-
-Where + means xor...
-(Reply to this) (Thread)
-	
-Re: xor 
-11011110 
-2010-11-30 01:24 am UTC (link)
-You're correct, of course. When I posted this, I considered adding a clarification about that but I don't consider xor and binary integer addition to be very different from each other. Xor is just addition in a different ring (GF(2^32) rather than Z/2^32) and the carries don't make a lot of difference to how pseudorandom the combination is.
-(Reply to this) (Parent) (Thread)
-	
-Re: xor 
-(Anonymous) 
-2010-12-03 08:38 pm UTC (link)
-Actually, for the "plus" version we don't have a proof of minwise independence. It's almost certainly the case that it works, but very messy to think about it formally...
-(Reply to this) (Parent) (Thread)
-	
-Re: xor 
-11011110 
-2010-12-03 08:51 pm UTC (link)
-That's curious. So it doesn't just work automatically for any group. Fortunately, xors are easy to use.
-(Reply to this) (Parent)

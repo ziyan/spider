@@ -1,6 +1,3 @@
-FRIDAY, MAY 21, 2010
-
-Open Data at the National Archives
 The GATE team, Ontotext and SSL have won a contract to help open up the UK National Archive's records of .gov.uk websites (going back through 1997 and comprising some 340 million pages).
 
 I've been quite ignorant about this stuff until recently, and it has been a pleasure to discover that the archives and related organisations are actively pursuing the vision of open data and open knowledge. This project has taken a big step forward in the UK recently, with government funding allocated to publishing more and more material on data.gov.uk in open and accessible forms. The battle is by no means over, but I'm really looking forward to contributing in a small way to this work, and, hopefully, showing how GATE can help improve access to large volumes of government data.
@@ -36,8 +33,3 @@ Therefore we will take pains to measure accuracy and record provenance, and make
 So open science (and our open source implementations of measurement tools in GATE) will contribute to open data and open government.
 
 More open stuff.
-
-Permalink.
-
-POSTED BY HAMISH CUNNINGHAM AT 12:37 PM  
-LABELS: GATE, OPEN DATA, TNA

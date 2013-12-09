@@ -1,8 +1,4 @@
-﻿ Laptops
-Lenovo IdeaPad U260 review
-By Joanna Stern  posted Dec 27th 2010 12:01PM
-Review
-
+﻿
 
 We mean this with no disrespect to Lenovo, but when you first lay eyes (or hands) on the incredibly attractive IdeaPad U260, it's pretty hard to believe that it was made by the company. Sure, the Chinese laptop manufacturer has always had a certain knack for creating very powerful and well-rounded ultraportables, but "drop-dead gorgeous" isn't exactly how we'd describe systems like the Lenovo IdeaPad U160, Edge 11, or ThinkPad X301. The U260 is indeed a total 180 for the company, and it's one of the most dapper and svelte laptops we've seen in a long time -- there's no question about it, its magnesium-aluminum alloy shell, leather palm rest, and glass touchpad even give the newest MacBook Airs a run for their money. But even better, the 12.5-inch system has the brawn to match that external beauty – its 0.7-inch shell has been injected with a Core i5 ULV processor, 4GB of RAM, and 320GB of storage. At $1,100 (the Core i3 version starts at $999), there's no denying that it's more than enticing, but is the U260 immune to Lenovo's typical ultraportable pain points, including poor battery life and tepid temperatures? We've been lucky enough to spend the last few days with the beautiful machine (yes, we took it on vacation!), so jump down below to find out in our full review!
 Lenovo IdeaPad U260
@@ -36,18 +32,6 @@ Like the ThinkPad Edge 11, the U260 is available with both Core i3 and i5 ultra-
 Speaking of HD content, the machine has no problems with full HD video, but as you can see from its 3DMark scores, it's definitely not a gaming rig. It should be fine for some light mainstream or Flash games, but you're not gonna want to fire up Black Ops on this thing, unless you're cool with playing at very, very low settings. We have to admit it would have been nice to see Lenovo put the U260 up with both discrete graphics and SSD options, though the latter can be accomplished on your own as the entire bottom of the system is removable. Obviously, we didn't test the waters on that with our review unit. 
 
 
-PCMarkVantage	3DMark06 
-Battery Life
-Lenovo IdeaPad U260	3858	1153	2:56
-Lenovo IdeaPad U160 (Core i7 ULV)	3863	1175	3:10
-Lenovo ThinkPad Edge 11	2964	1105	4:42
-Dell Inspiron M101z (Athlon II Neo K325)	2572	1311	3:35
-ASUS Eee PC 1215N (Intel Atom D525)	1924	181/2480	5:42
-Acer Aspire One 721 (Athlon II Neo K125)
-1814	1235	3:30
-Alienware M11x (Intel Core 2 Duo SU7300)	2689	654 / 5593	4:30
-
-
 Unfortunately, battery life is the U260's (expected) Achilles heel. On our usual video rundown test, which loops the same standard definition video with brightness set at 65 percent, the integrated 20Whr, four-cell Lithium Polymer battery lasted just two hours and 56 minutes. In regular use -- basically surfing the web and writing this review -- the system ran for about three hours and 20 minutes. Obviously, for a highly mobile system like this, the endurance is pretty terrible, and because there's no way to swap out the battery, you're pretty much stuck dragging the AC adapter with this thing everywhere you go. 
 
 Thankfully, there's better news on the heat side of things. Given our experience with the U160, we expected the system to get rather warm, but for the most part the system stayed relatively cool thanks to its "breathable keyboard" and Intel's latest Advanced Cooling technology. While we did notice the bottom right edge getting slightly warm, the vents in the back kept the entire chassis, including the keyboard and touchpad, at room temperature. 
@@ -59,17 +43,3 @@ Wrap-up
 
 
 How much are you willing to sacrifice for love? If you're anything like us, you're absolutely smitten with the U260's metal build, soft leather palm rest, brushed glass touchpad, and the fact that it packs Core i5 power in such a thin shell. But you're also asking yourself one question: can you live with just three to three and a half hours of battery life? For us the answer is sadly a flat no -- in fact, that sort of battery life is simply unacceptable in our book, especially when you consider that equally portable systems like the Toshiba Portege R705 or the new MacBook Airs last at least two hours longer on a charge. It's a sad story of an amazingly attractive and solid performing laptop brought down by a single fatal flaw -- but if you can get past the battery life, nearly everything else about the U260 is almost perfect.
-119
-
-Leave A Comment
-
-
-core 2010, Core i3 ULV, Core i5 ulv, Core2010, CoreI3Ulv, CoreI5Ulv, ideapad u260, IdeapadU260, laptop, laptops, Lenovo, LenovoIdeapad, notebook, review, u260, ultraportable
-
-
-Lenovo LePad and U1 Hybrid early hands-on6 days ago
-Ion Personal Genome Machine: the DNA sequencer with an iPod dock7 days ago
-PhoneSuit’s Primo Power Core charges your iPad, BlackBerry, and pretty much...26 days ago
-From Our Partners
-Aigo’s iPhone 4 battery case features internal charge cable16 days ago
-Animated wallpaper running on a jailbroken iPad29 days ago

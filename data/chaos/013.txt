@@ -1,7 +1,4 @@
-﻿Lookout Identifies Advanced Android Trojan (But You’re Probably Safe)
-
-Jason Kincaid
-14 hours ago
+﻿
 The future of computing is mobile, and, unfortunately, the future of malware will probably lie there too. Well-funded mobile security startup Lookout has just posted a blog entry detailing what it calls “the most sophisticated Android malware to date”: a Trojan that’s being “grafted” onto legitimate applications. Fortunately, the odds of you being affected are quite low.
 
 The Trojan in question has only been seen on third-party Android app marketplaces in China, which aren’t accessible without turning on “Unknown Sources” from Android’s settings menu (the vast majority of users only download applications via the official Android Market). And the infected applications request access to far more of the user’s data than they normally would (users have to approve these requests before installing an app), which can tip users off that something is amiss.

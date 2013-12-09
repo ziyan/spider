@@ -1,0 +1,258 @@
+{
+  "body": {
+    "bound": {
+      "height": 3976,
+      "left": 8,
+      "top": 8,
+      "width": 1584
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgba(0, 0, 0, 0)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(0, 0, 0)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(0, 0, 0)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(0, 0, 0)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(0, 0, 0)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(0, 0, 0)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "'Times New Roman'",
+      "font-size": "16px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "3976px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "normal",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "8px",
+      "margin-left": "8px",
+      "margin-right": "8px",
+      "margin-top": "8px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(0, 0, 0)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1584px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [],
+  "titles": [
+    "Internal Server Error"
+  ],
+  "url": "http://www.theaustralian.com.au/news/opinion/angry-ipods-have-reason-to-revolt/story-e6frg6zo-1225978953213",
+  "links": [],
+  "texts": [
+    {
+      "bound": {
+        "height": 37,
+        "left": 8,
+        "top": 8,
+        "width": 1584
+      },
+      "computed": {
+        "font-size": "32px",
+        "font-weight": "bold",
+        "margin-bottom": "21px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "21px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "Internal Server Error - Read",
+      "path": [
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "Internal Server Error - Read"
+      ]
+    },
+    {
+      "bound": {
+        "height": 3976,
+        "left": 8,
+        "top": 8,
+        "width": 1584
+      },
+      "computed": {},
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "body"
+      },
+      "html": "\n<h1 style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">Internal Server Error - Read</h1>\nThe server encountered an internal error or misconfiguration and was unable to\ncomplete your request.<p>\nReference #3.357e434d.1386549067.1c038101\n\n</p>",
+      "path": [],
+      "selector": [],
+      "text": [
+        "\nThe server encountered an internal error or misconfiguration and was unable to\ncomplete your request."
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 9,
+        "top": 103,
+        "width": 1584
+      },
+      "computed": {
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-bottom-style": "none",
+        "border-bottom-width": "0px",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-left-style": "none",
+        "border-left-width": "0px",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-right-style": "none",
+        "border-right-width": "0px",
+        "border-top-color": "rgb(0, 0, 0)",
+        "border-top-style": "none",
+        "border-top-width": "0px",
+        "margin-bottom": "16px",
+        "margin-left": "0px",
+        "margin-right": "0px",
+        "margin-top": "16px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\nReference #3.357e434d.1386549067.1c038101\n\n",
+      "path": [
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\nReference #3.357e434d.1386549067.1c038101\n\n"
+      ]
+    }
+  ],
+  "images": []
+}

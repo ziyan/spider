@@ -1,5 +1,4 @@
-﻿The Bourgain-Guth argument for proving restriction theorems
-28 December, 2010 in expository, math.CA | Tags: Jean Bourgain, Larry Guth, restriction conjecture | by Terence Tao
+﻿
 One of my favourite unsolved problems in harmonic analysis is the restriction problem. This problem, first posed explicitly by Elias Stein, can take many equivalent forms, but one of them is this: one starts with a smooth compact hypersurface  (possibly with boundary) in , such as the unit sphere  in , and equips it with surface measure . One then takes a bounded measurable function  on this surface, and then computes the (inverse) Fourier transform
 
 
@@ -143,66 +142,3 @@ so the net contribution to  here is . This leads to the recursion
 For , the exponents of  and  are negative, and this allows one to induct on scales and get the required bound .
 
 The argument given above is not optimal; the main inefficiency here is the factor of  that one pays to convert the square function to the  function. This factor is only truly present if almost every cap  along a great circle is genuinely contributing to . However, one can use Kakeya estimates to prevent this event from happening too often. Indeed, thanks to the nature of parabolic scaling, the functions  are not merely essentially constant on balls of radius , but are in fact essentially constant on  tubes oriented in the normal direction of . One can use a Kakeya estimate (such as Wolff’s Kakeya estimate) to then prevent these tubes from congregating too often with too high of a multiplicity; quantifying this, Bourgain and Guth were able to relax the constraint  to . Unfortunately, there are still some residual inefficiencies, and even with the full Kakekya conjecture, the argument given in that paper only gets down to .
-
-Share this:
-Print
-Email
-Possibly related posts: (automatically generated)
-
-IMO 2009 Q6 as a mini-polymath project
-Problems With My Writing
-09/11/08
-Ads by Google
-Play Free Scrabble Online
-Play Online Games & Win Prizes! Brought to you by Microsoft.
-ClubBing.com
-Wizard 101
-Sign up for a free trial to play the new adventure game now!
-Wizard101.com
-1000 Free Flash Games
-Find more sources/options for 1000 Free Flash Games
-www.webcrawler.com
-
-4 commentsComments feed for this article
-28 December, 2010 at 5:06 pm
-Pedro Lauridsen Ribeiro
-
-
-Dear Prof. Tao,
-
-There is an historical question I have about the circle of ideas around the restriction problem, namely the decay estimates coming from stationary
-phase that enter the proof of Strichartz estimates, say, for the Schrödinger and wave / Klein-Gordon operators. When were these decay estimates first proved, and by whom? The oldest reference I know of is a landmark paper on axiomatic quantum field theory due to David Ruelle:
-
-- D. Ruelle, “On the Asymptotic Condition in Quantum Field Theory”.
-Helvetica Physica Acta 35 (1962) 147-163.
-
-He proves the aforementioned estimates for the wave and Klein-Gordon operators, with the purpose of constructing an axiomatic scattering theory for quantum fields following earlier ideas due to Rudolf Haag. As for the Schrödinger operator, I couldn’t track back to anything before Strichartz’s classic Duke Math. J. paper in ’75 and Hörmander’s paper on long range scattering theory (Math. Z. 146 (1976) 69-91). The first reference refers to
-explicit formulae for Green functions in the first volume of Gel’fand-Shilov’s book on generalized functions, whereas the second seems to do everything from scratch.
-
-10  Rate This
-Reply
-28 December, 2010 at 10:13 pm
-Terence Tao
-
-
-The earliest reference I know of is by Littman from 1963, http://www.ams.org/mathscinet-getitem?mr=146521 , where he gives counterexamples to various L^p dispersive inequalities. Another early reference is Segal’s 1976 paper http://www.ams.org/mathscinet-getitem?mr=492892 .
-
-10  Rate This
-Reply
-29 December, 2010 at 6:06 am
-Pedro Lauridsen Ribeiro
-
-
-Oh yes, I had forgotten Segal’s paper. I had seen Littman’s paper quoted in some lecture notes about Strichartz estimates, but only regarding some of the counterexamples you’ve mentioned – to wit, counterexamples to “energy-like” estimates in  for . Like Strichartz, Littman also seems to work with an explicit representation of Green’s functions for the wave operator.
-
-Neither Segal’s paper, nor Littman’s, seem to give earlier references for the proof of  decay estimates using stationary phase, though, which form the other “interpolation tip”. It seems that Ruelle’s paper is the oldest reference with respect to this, after all – however, he was only interested in these decay estimates by themselves, and didn’t try to interpolate them with energy estimates.
-
-00  Rate This
-Reply
-28 December, 2010 at 8:44 pm
-Zaher
-
-
-The left-hand side of the statement of the Bennet-Carbery-Tao result is written above as a product of norms rather than as the $L^{q/3}$ norm of the product.
-
-[Corrected, thanks - T.]

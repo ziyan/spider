@@ -1,0 +1,3599 @@
+{
+  "body": {
+    "bound": {
+      "height": 1161,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(255, 255, 255)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(0, 0, 0)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(0, 0, 0)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(0, 0, 0)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(0, 0, 0)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(0, 0, 0)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "Arial, Helvetica, sans-serif",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "1161px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "normal",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(0, 0, 0)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [],
+  "titles": [
+    "Google Wave Developer Blog: Wave open source next steps: \"Wave in a Box\""
+  ],
+  "url": "http://googlewavedev.blogspot.com/2010/09/wave-open-source-next-steps-wave-in-box.html",
+  "links": [
+    "http://googlewavedev.blogspot.com/2010/09/wave-open-source-next-steps-wave-in-box.html#main",
+    "http://googlewavedev.blogspot.com/2010/09/wave-open-source-next-steps-wave-in-box.html#sidebar",
+    "http://googlewavedev.blogspot.com/2010/09/wave-open-source-next-steps-wave-in-box.html",
+    "http://googlewavedev.blogspot.com/atom.xml",
+    "http://googlewavedev.blogspot.com/atom.xml",
+    "http://fusion.google.com/add?feedurl=http%3A//googlewavedev.blogspot.com/atom.xml",
+    "http://feeds2.feedburner.com/GoogleWaveDeveloperBlog",
+    "http://www.twitter.com/googlewavedev",
+    "http://www.blogger.com/rearrange?blogID=7938035922388048219&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar",
+    "http://www.blogger.com/rearrange?blogID=7938035922388048219&widgetType=CustomSearch&widgetId=CustomSearch1&action=editWidget&sectionId=sidebar",
+    "http://www.blogger.com/rearrange?blogID=7938035922388048219&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar",
+    "http://www.google.com/press/blogs/directory.html#tab0",
+    "http://www.blogger.com/rearrange?blogID=7938035922388048219&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar",
+    "http://www.blogger.com/",
+    "http://googlewavedev.blogspot.com/2010/09/wave-open-source-next-steps-wave-in-box.html",
+    "http://googleblog.blogspot.com/2010/08/update-on-google-wave.html",
+    "http://googlewave.blogspot.com/2010/08/quick-note-on-next-steps-for-google.html",
+    "http://waveprotocol.org/",
+    "http://wave.google.com/",
+    "http://googlewavedev.blogspot.com/2010/06/wave-federation-keeps-growing-rich-text.html",
+    "https://groups.google.com/group/wave-protocol?pli=1",
+    "http://www.blogger.com/blog-this.g",
+    "http://googlewavedev.blogspot.com/2010/10/wave-protocol-summit-november-8-12th.html",
+    "http://googlewavedev.blogspot.com/2010/08/upcoming-wave-api-talks-michigan.html",
+    "http://googlewavedev.blogspot.com/",
+    "http://google.com/intl/en/privacy.html",
+    "http://www.google.com/accounts/TOS?hl=en"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 34,
+        "left": 562,
+        "top": 83,
+        "width": 638
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(74, 130, 181)",
+        "border-left-color": "rgb(74, 130, 181)",
+        "border-right-color": "rgb(74, 130, 181)",
+        "border-top-color": "rgb(74, 130, 181)",
+        "color": "rgb(74, 130, 181)",
+        "font-size": "30px",
+        "outline-color": "rgb(74, 130, 181)",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "Google Wave Developer Blog",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "a",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "header-graphic",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "header_titles",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "Google Wave Developer Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 17,
+        "left": 562,
+        "top": 119,
+        "width": 638
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "15px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-left": "2px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "subheader"
+        ],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "Technical news &amp; updates related to the APIs and protocol",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "a",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "header-graphic",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "header_titles",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML4",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "subheader"
+          ],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "Technical news & updates related to the APIs and protocol"
+      ]
+    },
+    {
+      "bound": {
+        "height": 118,
+        "left": 1000,
+        "top": 196,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<a href=\"http://googlewavedev.blogspot.com/atom.xml\"><img alt=\"Site Feed\" src=\"http://www.google.com/images/feed-icon.gif\"></a> <a href=\"http://googlewavedev.blogspot.com/atom.xml\">Site Feed</a><br>\n<a href=\"http://fusion.google.com/add?feedurl=http%3A//googlewavedev.blogspot.com/atom.xml\"><img border=\"0\" alt=\"Add to Google\" style=\"padding-top:5px;\" width=\"104\" src=\"http://buttons.googlesyndication.com/fusion/add.gif\" height=\"17\"></a>\n<br>\n<p><a href=\"http://feeds2.feedburner.com/GoogleWaveDeveloperBlog\"><img width=\"88\" style=\"border:0\" alt=\"\" src=\"http://feeds2.feedburner.com/~fc/GoogleWaveDeveloperBlog?bg=99CCFF&amp;fg=444444&amp;anim=1\" height=\"26\"></a></p>\n<br>\n<a href=\"http://www.twitter.com/googlewavedev\">Follow us on Twitter</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Site Feed",
+        "Follow us on Twitter"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 1000,
+        "top": 335,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(74, 130, 181)",
+        "border-left-color": "rgb(74, 130, 181)",
+        "border-right-color": "rgb(74, 130, 181)",
+        "border-top-color": "rgb(74, 130, 181)",
+        "color": "rgb(74, 130, 181)",
+        "font-size": "13px",
+        "font-weight": "bold",
+        "margin-bottom": "2px",
+        "margin-top": "19px",
+        "outline-color": "rgb(74, 130, 181)",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Search This Blog",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "CustomSearch",
+            "widget"
+          ],
+          "id": "CustomSearch1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Search This Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 1000,
+        "top": 394,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(74, 130, 181)",
+        "border-left-color": "rgb(74, 130, 181)",
+        "border-right-color": "rgb(74, 130, 181)",
+        "border-top-color": "rgb(74, 130, 181)",
+        "color": "rgb(74, 130, 181)",
+        "font-size": "13px",
+        "font-weight": "bold",
+        "margin-bottom": "2px",
+        "margin-top": "19px",
+        "outline-color": "rgb(74, 130, 181)",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "small"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Archive",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "BlogArchive",
+            "widget"
+          ],
+          "id": "BlogArchive1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "small"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Archive"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 1000,
+        "top": 459,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(74, 130, 181)",
+        "border-left-color": "rgb(74, 130, 181)",
+        "border-right-color": "rgb(74, 130, 181)",
+        "border-top-color": "rgb(74, 130, 181)",
+        "color": "rgb(74, 130, 181)",
+        "font-size": "13px",
+        "font-weight": "bold",
+        "margin-bottom": "2px",
+        "margin-top": "19px",
+        "outline-color": "rgb(74, 130, 181)",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "More Blogs from Google",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "More Blogs from Google"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 1000,
+        "top": 478,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\nVisit our <a href=\"http://www.google.com/press/blogs/directory.html#tab0\"> directory</a> for more information about Google blogs.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\nVisit our ",
+        " directory",
+        " for more information about Google blogs.\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 406,
+        "top": 196,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "19px",
+        "line-height": "23px",
+        "margin-bottom": "3px",
+        "padding-top": "3px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "\n<a href=\"http://googlewavedev.blogspot.com/2010/09/wave-open-source-next-steps-wave-in-box.html\">Wave open source next steps: \"Wave in a Box\"</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Wave open source next steps: \"Wave in a Box\""
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 406,
+        "top": 227,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "margin-bottom": "2px",
+        "outline-color": "rgb(102, 102, 102)",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "post-subhead"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\nThursday, September 2, 2010 | 5:48 PM\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-subhead"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\nThursday, September 2, 2010 | 5:48 PM\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 60,
+        "left": 406,
+        "top": 256,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "margin-top": "12px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Since the <a href=\"http://googleblog.blogspot.com/2010/08/update-on-google-wave.html\">announcement that we will discontinue development</a> of Google Wave as a standalone product, many people have asked us about the future of the open source code and Wave federation protocol.  After spending some time on <a href=\"http://googlewave.blogspot.com/2010/08/quick-note-on-next-steps-for-google.html\">figuring out our next steps</a>, we'd like to share the plan for our contributions over the coming months.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Since the ",
+        "announcement that we will discontinue development",
+        " of Google Wave as a standalone product, many people have asked us about the future of the open source code and Wave federation protocol.  After spending some time on ",
+        "figuring out our next steps",
+        ", we'd like to share the plan for our contributions over the coming months."
+      ]
+    },
+    {
+      "bound": {
+        "height": 45,
+        "left": 406,
+        "top": 330,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "margin-top": "12px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n\n\nWe will expand upon the 200K lines of code we've already open sourced (detailed at <a href=\"http://waveprotocol.org/\">waveprotocol.org</a>) to flesh out the existing example Wave server and web client into a more complete application or \"Wave in a Box.\" ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\n\n\nWe will expand upon the 200K lines of code we've already open sourced (detailed at ",
+        "waveprotocol.org",
+        ") to flesh out the existing example Wave server and web client into a more complete application or \"Wave in a Box.\" "
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 406,
+        "top": 389,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "margin-top": "12px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n\n\nThis project will include:\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\n\n\nThis project will include:\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 446,
+        "top": 418,
+        "width": 500
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "15px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "an application bundle including a server and web client supporting real-time collaboration using the same structured conversations as the Google Wave system",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "an application bundle including a server and web client supporting real-time collaboration using the same structured conversations as the Google Wave system"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 446,
+        "top": 450,
+        "width": 500
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "15px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "a fast and fully-featured wave panel in the web client with complete support for threaded conversations",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "a fast and fully-featured wave panel in the web client with complete support for threaded conversations"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 446,
+        "top": 482,
+        "width": 500
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "15px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "a persistent wave store and search implementation for the server (building on contributed patches to implement a MongoDB store)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "a persistent wave store and search implementation for the server (building on contributed patches to implement a MongoDB store)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 446,
+        "top": 514,
+        "width": 500
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "15px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "refinements to the client-server protocols",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "refinements to the client-server protocols"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 446,
+        "top": 531,
+        "width": 500
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "15px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "gadget, robot and data API support ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "gadget, robot and data API support "
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 446,
+        "top": 548,
+        "width": 500
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "15px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "support for importing wave data from <a href=\"http://wave.google.com/\">wave.google.com</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "support for importing wave data from ",
+        "wave.google.com"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 446,
+        "top": 565,
+        "width": 500
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "15px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "the ability to federate across other Wave in a Box instances, with some additional configuration",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "the ability to federate across other Wave in a Box instances, with some additional configuration"
+      ]
+    },
+    {
+      "bound": {
+        "height": 537,
+        "left": 406,
+        "top": 330,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "div"
+      },
+      "html": "<p style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n\n\nWe will expand upon the 200K lines of code we've already open sourced (detailed at <a href=\"http://waveprotocol.org/\">waveprotocol.org</a>) to flesh out the existing example Wave server and web client into a more complete application or \"Wave in a Box.\" </p><p style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n\n\nThis project will include:\n</p><ul><li style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">an application bundle including a server and web client supporting real-time collaboration using the same structured conversations as the Google Wave system</li><li style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">a fast and fully-featured wave panel in the web client with complete support for threaded conversations</li><li style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">a persistent wave store and search implementation for the server (building on contributed patches to implement a MongoDB store)</li><li style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">refinements to the client-server protocols</li><li style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">gadget, robot and data API support </li><li style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">support for importing wave data from <a href=\"http://wave.google.com/\">wave.google.com</a></li><li style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">the ability to federate across other Wave in a Box instances, with some additional configuration</li></ul>This project will not have the full functionality of Google Wave as you know it today. However, we intend to give developers and enterprising users an opportunity to run wave servers and host waves on their own hardware. <p>\n\n\nSince the beginning, it has been our vision that the Google Wave protocols could support a new generation of communication and collaboration tools. The response from the developer community to date has been amazing and rewarding. Even more so now, we believe that developers and <a href=\"http://googlewavedev.blogspot.com/2010/06/wave-federation-keeps-growing-rich-text.html\">other projects</a> are a critical part of this story. </p><p>\n\n\nWhile Wave in a Box will be a functional application, the future of Wave will be defined by your contributions. We hope this project will help the Wave developer community continue to grow and evolve. We'll discuss more technical details of our plan on the <a href=\"https://groups.google.com/group/wave-protocol?pli=1\">Wave Protocol Forum</a>, which is the best place to keep up with the latest progress on the open source project and learn how you can contribute. </p><p>\n\n\n\nWave on </p><p>\n\n\n</p><div>\n<span class=\"post-author\">Posted by Alex North, Software Engineer, Google Wave team </span></div>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "This project will not have the full functionality of Google Wave as you know it today. However, we intend to give developers and enterprising users an opportunity to run wave servers and host waves on their own hardware. "
+      ]
+    },
+    {
+      "bound": {
+        "height": 60,
+        "left": 407,
+        "top": 667,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "margin-top": "12px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n\n\nSince the beginning, it has been our vision that the Google Wave protocols could support a new generation of communication and collaboration tools. The response from the developer community to date has been amazing and rewarding. Even more so now, we believe that developers and <a href=\"http://googlewavedev.blogspot.com/2010/06/wave-federation-keeps-growing-rich-text.html\">other projects</a> are a critical part of this story. ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\n\n\nSince the beginning, it has been our vision that the Google Wave protocols could support a new generation of communication and collaboration tools. The response from the developer community to date has been amazing and rewarding. Even more so now, we believe that developers and ",
+        "other projects",
+        " are a critical part of this story. "
+      ]
+    },
+    {
+      "bound": {
+        "height": 75,
+        "left": 407,
+        "top": 741,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "margin-top": "12px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n\n\nWhile Wave in a Box will be a functional application, the future of Wave will be defined by your contributions. We hope this project will help the Wave developer community continue to grow and evolve. We'll discuss more technical details of our plan on the <a href=\"https://groups.google.com/group/wave-protocol?pli=1\">Wave Protocol Forum</a>, which is the best place to keep up with the latest progress on the open source project and learn how you can contribute. ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\n\n\nWhile Wave in a Box will be a functional application, the future of Wave will be defined by your contributions. We hope this project will help the Wave developer community continue to grow and evolve. We'll discuss more technical details of our plan on the ",
+        "Wave Protocol Forum",
+        ", which is the best place to keep up with the latest progress on the open source project and learn how you can contribute. "
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 407,
+        "top": 830,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "margin-top": "12px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n\n\n\nWave on ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\n\n\n\nWave on "
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 407,
+        "top": 859,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<span class=\"post-author\">Posted by Alex North, Software Engineer, Google Wave team </span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Posted by Alex North, Software Engineer, Google Wave team "
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 406,
+        "top": 913,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "18px",
+        "font-weight": "bold",
+        "line-height": "15px",
+        "margin-bottom": "23px",
+        "margin-top": "23px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
+      "html": "Permalink",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comments"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "backlinks-container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "Blog1_backlinks-container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
+      "text": [
+        "Permalink"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 406,
+        "top": 953,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "margin-bottom": "12px",
+        "margin-top": "12px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "comment-footer"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n<a class=\"comment-link\" href=\"http://www.blogger.com/blog-this.g\" id=\"Blog1_backlinks-create-link\" target=\"_blank\">Create a Link</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts",
+            "hfeed"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comments"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "backlinks-container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "Blog1_backlinks-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comment-footer"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Create a Link"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 406,
+        "top": 994,
+        "width": 540
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "margin-bottom": "12px",
+        "margin-top": "12px",
+        "text-align": "center",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n<a class=\"blog-pager-newer-link\" href=\"http://googlewavedev.blogspot.com/2010/10/wave-protocol-summit-november-8-12th.html\" id=\"Blog1_blog-pager-newer-link\" title=\"Newer Post\">Newer Post</a>\n<a class=\"blog-pager-older-link\" href=\"http://googlewavedev.blogspot.com/2010/08/upcoming-wave-api-talks-michigan.html\" id=\"Blog1_blog-pager-older-link\" title=\"Older Post\">Older Post</a>\n<a class=\"home-link\" href=\"http://googlewavedev.blogspot.com/\">Home</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "post-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Newer Post",
+        "Older Post",
+        "Home"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 24,
+        "top": 1118,
+        "width": 1552
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "12px",
+        "line-height": "15px",
+        "margin-bottom": "12px",
+        "margin-top": "12px",
+        "outline-color": "rgb(102, 102, 102)",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n  ©2009 Google - <a href=\"http://google.com/intl/en/privacy.html\">Privacy Policy</a> - <a href=\"http://www.google.com/accounts/TOS?hl=en\">Terms of Service</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "footer-graphic",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer",
+            "section"
+          ],
+          "id": "footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML25",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\n  ©2009 Google - ",
+        "Privacy Policy",
+        " - ",
+        "Terms of Service"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 16,
+        "left": 1001,
+        "top": 197,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-top-color": "rgb(0, 0, 238)",
+        "color": "rgb(0, 0, 238)",
+        "display": "inline",
+        "font-size": "12px",
+        "line-height": "15px",
+        "outline-color": "rgb(0, 0, 238)",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.google.com/images/feed-icon.gif"
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1001,
+        "top": 217,
+        "width": 104
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-bottom-style": "solid",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-left-style": "solid",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-right-style": "solid",
+        "border-top-color": "rgb(0, 0, 238)",
+        "border-top-style": "solid",
+        "color": "rgb(0, 0, 238)",
+        "display": "inline",
+        "font-size": "12px",
+        "line-height": "15px",
+        "outline-color": "rgb(0, 0, 238)",
+        "padding-top": "5px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://buttons.googlesyndication.com/fusion/add.gif"
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 1001,
+        "top": 243,
+        "width": 88
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-top-color": "rgb(0, 0, 238)",
+        "color": "rgb(0, 0, 238)",
+        "display": "inline",
+        "font-size": "12px",
+        "line-height": "15px",
+        "outline-color": "rgb(0, 0, 238)",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://feeds2.feedburner.com/~fc/GoogleWaveDeveloperBlog?bg=99CCFF&fg=444444&anim=1"
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 1000,
+        "top": 510,
+        "width": 88
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-top-color": "rgb(0, 0, 238)",
+        "color": "rgb(0, 0, 238)",
+        "display": "inline",
+        "font-size": "12px",
+        "line-height": "15px",
+        "outline-color": "rgb(0, 0, 238)",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "template_white"
+          ],
+          "id": "template_fixed",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML23",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.blogger.com/buttons/blogger-powerby-blue.gif"
+    }
+  ]
+}

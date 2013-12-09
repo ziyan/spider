@@ -1,10 +1,4 @@
-﻿Ring in the new year with accessible content: Website clinic for non-profits
-Wednesday, December 22, 2010 at 10:55 AM
-Webmaster level: Beginner
-
-Cross-posted on the Google Grants Blog
-
-In our previous post, we did some source code housekeeping -- just in time for the holidays. But once users have landed on your site, how can you make sure they’ll know how to get around?
+﻿In our previous post, we did some source code housekeeping -- just in time for the holidays. But once users have landed on your site, how can you make sure they’ll know how to get around?
 
 As it turns out, easily accessible content on your site can make a big difference. Users tend to have a better experience when a site helps them find and understand its content. Having an accessible site not only empowers users, it also helps search engines understand what your site is really about.
 
@@ -68,26 +62,3 @@ We hope that this blog post has given you some ideas on how to ring in the new y
 To learn more about the features discussed here and in our previous two site clinic posts, check out our SEO Report Card and SEO Starter Guide.
 
 This blog post wraps up our website clinic for non-profits. We send our warmest regards to all the great non-profit causes you are working on, and thanks to everyone who took the time to submit their sites and read our posts!
-
-Posted by Jen Lee and Alexi Douvas, Search Quality Evaluation Team
-Contributors: Aditya Goradia, Brandon Falls, Charlene Perez, Diara Dankert, Michael Wyszomierski, and Nelson Bradley
-
-The comments you read here belong only to the person who posted them. We do, however, reserve the right to remove off-topic comments.
-4 comments:
- G-Force said...
-This post has been removed by the author.
-DECEMBER 22, 2010 10:58 AM
- jsma said...
-You have "color: transparent;" on the div wrapping the tables for the anchor text examples, so all of the text that is not wrapped in an a-tag is invisible.
-
-DECEMBER 22, 2010 12:00 PM
- Munaz Anjum said...
-It seems that Google's ranking algo is still directed towards very basic look n feel. As a certified usability professional, I don't think the website looks very impressive for users, may be it is good from Google perspective. In short, the website has failed to impress me and I'm sure many will have the same opinion.
-
-DECEMBER 22, 2010 9:45 PM
- Mostatil said...
-Hi,
-
-Pleaaaase update page ranks before new year. Pleaaaaaaase!!!
-
-DECEMBER 22, 2010 10:01 PM

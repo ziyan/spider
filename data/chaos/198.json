@@ -1,0 +1,4853 @@
+{
+  "body": {
+    "bound": {
+      "height": 1386,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(255, 255, 255)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(68, 68, 68)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(68, 68, 68)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(68, 68, 68)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(68, 68, 68)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(68, 68, 68)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "sans-serif",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "1386px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "22px",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(68, 68, 68)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [
+    "I am often asked how decisions are made for WordPress, who's involved in decision-making, and how the open source project is structured in general. WordPress is a meritocracy, meaning that anyone can get involved, and a combination of the quality of someone's contributions and their level of interest/time commitment will determine how much influence they have over decisions. Because these factors vary, we have several levels of contributors to the core WordPress application, ranging from full-time lead developers to casual one-patch contributors. I loved it when that Intel commercial in 2009 gave Ajay Bhatt, co-inventor of the USB, some recognition as a rock star of geekland (though I hated it that it wasn't actually Ajay Bhatt, but an actor -- way to kill the message, Intel).1 In WordPress-land, most people know who Matt Mullenweg is, but most of the other leaders and contributors are much less visible. Moving forward, I'm going to be posting profiles here of [...]"
+  ],
+  "titles": [
+    "WordPress ›   Coming Up: Meet the Makers",
+    "Coming Up: Meet the Makers"
+  ],
+  "url": "http://wordpress.org/news/2010/12/coming-up-meet-the-makers/",
+  "links": [
+    "http://wordpress.org/news/2010/12/coming-up-meet-the-makers/#",
+    "http://wordpress.org/",
+    "http://wordpress.org/showcase/",
+    "http://wordpress.org/themes/",
+    "http://wordpress.org/plugins/",
+    "http://wordpress.org/mobile/",
+    "http://wordpress.org/support/",
+    "http://wordpress.org/support/",
+    "http://codex.wordpress.org/Main_Page",
+    "http://make.wordpress.org/",
+    "http://make.wordpress.org/core/",
+    "http://make.wordpress.org/ui/",
+    "http://make.wordpress.org/accessibility/",
+    "http://make.wordpress.org/plugins/",
+    "http://make.wordpress.org/themes/",
+    "http://make.wordpress.org/support/",
+    "http://make.wordpress.org/polyglots/",
+    "http://make.wordpress.org/community/",
+    "http://make.wordpress.org/mobile/",
+    "http://wordpress.org/about/",
+    "http://wordpress.org/news/",
+    "http://wordpress.org/hosting/",
+    "http://wordpress.org/download/",
+    "http://wordpress.org/download/",
+    "http://wordpress.org/news/",
+    "http://wordpress.org/news/2010/12/coming-up-meet-the-makers/",
+    "http://profiles.wordpress.org/users/jane/",
+    "http://wordpress.org/news/category/community/",
+    "http://wordpress.org/support/topic/what-should-2011-hold-for-wordpress?",
+    "http://wordpress.tv/2010/09/18/jane-wells-how-wordpress-decisions-get-made/",
+    "http://vimeo.com/10662430",
+    "http://video.intel.com/?fr_story=8d8f50ebfdded3db4eb14514d66e4f9628f653b5&rf=sitemap",
+    "http://wordpress.org/news/2010/12/coming-up-meet-the-makers/?share=twitter&nb=1",
+    "http://wordpress.org/news/2010/12/coming-up-meet-the-makers/?share=facebook&nb=1",
+    "http://wordpress.org/news/2010/12/coming-up-meet-the-makers/?share=google-plus-1&nb=1",
+    "http://wordpress.org/news/2010/12/coming-up-meet-the-makers/?share=email&nb=1",
+    "http://wordpress.org/news/2010/12/wordpress-3-1-release-candidate/",
+    "http://wordpress.org/news/2010/12/3-0-4-update/",
+    "http://wordpress.org/news/2010/12/coming-up-meet-the-makers/feed/",
+    "http://planet.wordpress.org/",
+    "http://make.wordpress.org/core/",
+    "http://core.trac.wordpress.org/timeline",
+    "http://wordpress.org/news/category/releases/",
+    "http://wordpress.org/news/category/development/",
+    "http://wordpress.org/news/category/uncategorized/",
+    "http://wordpress.org/news/category/community/",
+    "http://wordpress.org/news/category/meta/",
+    "http://wordpress.org/news/category/security/",
+    "http://wordpress.org/news/category/events/",
+    "http://wordpress.org/news/category/testing/",
+    "http://wordpress.org/news/category/wordcamp/",
+    "http://wordpress.org/news/category/user-interface/",
+    "http://wordpress.org/about/",
+    "http://wordpress.org/news/",
+    "http://wordpress.org/hosting/",
+    "http://jobs.wordpress.net/",
+    "http://wordpress.org/support/",
+    "http://make.wordpress.org/",
+    "http://learn.wordpress.org/",
+    "http://wordpress.org/showcase/",
+    "http://wordpress.org/plugins/",
+    "http://wordpress.org/themes/",
+    "http://wordpress.org/ideas/",
+    "http://central.wordcamp.org/",
+    "http://wordpress.tv/",
+    "http://buddypress.org/",
+    "http://bbpress.org/",
+    "http://wordpress.com/?ref=wporg-footer",
+    "http://ma.tt/",
+    "http://wordpress.org/about/privacy/",
+    "http://wordpress.org/about/license/",
+    "http://wordpress.org/news/2010/12/coming-up-meet-the-makers/#cancel"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 88,
+        "left": 330,
+        "top": 0,
+        "width": 303
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://s.wordpress.org/style/images/wp-header-logo.png?1)",
+        "background-position": "0% 50%",
+        "background-repeat": "no-repeat",
+        "background-size": "303px 53px",
+        "border-bottom-color": "rgb(33, 117, 155)",
+        "border-left-color": "rgb(33, 117, 155)",
+        "border-right-color": "rgb(33, 117, 155)",
+        "border-top-color": "rgb(33, 117, 155)",
+        "color": "rgb(33, 117, 155)",
+        "font-size": "20px",
+        "outline-color": "rgb(33, 117, 155)",
+        "text-indent": "-9999px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "WordPress.org",
+      "path": [
+        "div",
+        "div",
+        "h1",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "WordPress.org"
+      ]
+    },
+    {
+      "bound": {
+        "height": 46,
+        "left": 324,
+        "top": 75,
+        "width": 72
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(221, 221, 221)",
+        "border-left-color": "rgb(221, 221, 221)",
+        "border-right-color": "rgb(221, 221, 221)",
+        "border-top-color": "rgb(221, 221, 221)",
+        "color": "rgb(221, 221, 221)",
+        "font-family": "'Open Sans', Helvetica, Arial, 'Liberation Sans', sans-serif",
+        "font-size": "13px",
+        "font-weight": "600",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "margin-left": "4px",
+        "margin-right": "4px",
+        "outline-color": "rgb(221, 221, 221)",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Showcase",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wporg-header-menu",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Showcase"
+      ]
+    },
+    {
+      "bound": {
+        "height": 46,
+        "left": 406,
+        "top": 75,
+        "width": 59
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(221, 221, 221)",
+        "border-left-color": "rgb(221, 221, 221)",
+        "border-right-color": "rgb(221, 221, 221)",
+        "border-top-color": "rgb(221, 221, 221)",
+        "color": "rgb(221, 221, 221)",
+        "font-family": "'Open Sans', Helvetica, Arial, 'Liberation Sans', sans-serif",
+        "font-size": "13px",
+        "font-weight": "600",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "margin-left": "4px",
+        "margin-right": "4px",
+        "outline-color": "rgb(221, 221, 221)",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Themes",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wporg-header-menu",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Themes"
+      ]
+    },
+    {
+      "bound": {
+        "height": 46,
+        "left": 475,
+        "top": 75,
+        "width": 55
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(221, 221, 221)",
+        "border-left-color": "rgb(221, 221, 221)",
+        "border-right-color": "rgb(221, 221, 221)",
+        "border-top-color": "rgb(221, 221, 221)",
+        "color": "rgb(221, 221, 221)",
+        "font-family": "'Open Sans', Helvetica, Arial, 'Liberation Sans', sans-serif",
+        "font-size": "13px",
+        "font-weight": "600",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "margin-left": "4px",
+        "margin-right": "4px",
+        "outline-color": "rgb(221, 221, 221)",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Plugins",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wporg-header-menu",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Plugins"
+      ]
+    },
+    {
+      "bound": {
+        "height": 46,
+        "left": 540,
+        "top": 75,
+        "width": 50
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(221, 221, 221)",
+        "border-left-color": "rgb(221, 221, 221)",
+        "border-right-color": "rgb(221, 221, 221)",
+        "border-top-color": "rgb(221, 221, 221)",
+        "color": "rgb(221, 221, 221)",
+        "font-family": "'Open Sans', Helvetica, Arial, 'Liberation Sans', sans-serif",
+        "font-size": "13px",
+        "font-weight": "600",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "margin-left": "4px",
+        "margin-right": "4px",
+        "outline-color": "rgb(221, 221, 221)",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Mobile",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wporg-header-menu",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Mobile"
+      ]
+    },
+    {
+      "bound": {
+        "height": 46,
+        "left": 600,
+        "top": 75,
+        "width": 57
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(221, 221, 221)",
+        "border-left-color": "rgb(221, 221, 221)",
+        "border-right-color": "rgb(221, 221, 221)",
+        "border-top-color": "rgb(221, 221, 221)",
+        "color": "rgb(221, 221, 221)",
+        "font-family": "'Open Sans', Helvetica, Arial, 'Liberation Sans', sans-serif",
+        "font-size": "13px",
+        "font-weight": "600",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "margin-left": "4px",
+        "margin-right": "4px",
+        "outline-color": "rgb(221, 221, 221)",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Support",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wporg-header-menu",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Support"
+      ]
+    },
+    {
+      "bound": {
+        "height": 46,
+        "left": 667,
+        "top": 75,
+        "width": 86
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(221, 221, 221)",
+        "border-left-color": "rgb(221, 221, 221)",
+        "border-right-color": "rgb(221, 221, 221)",
+        "border-top-color": "rgb(221, 221, 221)",
+        "color": "rgb(221, 221, 221)",
+        "font-family": "'Open Sans', Helvetica, Arial, 'Liberation Sans', sans-serif",
+        "font-size": "13px",
+        "font-weight": "600",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "margin-left": "4px",
+        "margin-right": "4px",
+        "outline-color": "rgb(221, 221, 221)",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Get Involved",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wporg-header-menu",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Get Involved"
+      ]
+    },
+    {
+      "bound": {
+        "height": 46,
+        "left": 763,
+        "top": 75,
+        "width": 46
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(221, 221, 221)",
+        "border-left-color": "rgb(221, 221, 221)",
+        "border-right-color": "rgb(221, 221, 221)",
+        "border-top-color": "rgb(221, 221, 221)",
+        "color": "rgb(221, 221, 221)",
+        "font-family": "'Open Sans', Helvetica, Arial, 'Liberation Sans', sans-serif",
+        "font-size": "13px",
+        "font-weight": "600",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "margin-left": "4px",
+        "margin-right": "4px",
+        "outline-color": "rgb(221, 221, 221)",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "About",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wporg-header-menu",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "About"
+      ]
+    },
+    {
+      "bound": {
+        "height": 46,
+        "left": 819,
+        "top": 75,
+        "width": 38
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(47, 170, 221)",
+        "border-left-color": "rgb(47, 170, 221)",
+        "border-right-color": "rgb(47, 170, 221)",
+        "border-top-color": "rgb(47, 170, 221)",
+        "color": "rgb(47, 170, 221)",
+        "font-family": "'Open Sans', Helvetica, Arial, 'Liberation Sans', sans-serif",
+        "font-size": "13px",
+        "font-weight": "600",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "margin-left": "4px",
+        "margin-right": "4px",
+        "outline-color": "rgb(47, 170, 221)",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "current"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Blog",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wporg-header-menu",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "current"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 46,
+        "left": 867,
+        "top": 75,
+        "width": 56
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(221, 221, 221)",
+        "border-left-color": "rgb(221, 221, 221)",
+        "border-right-color": "rgb(221, 221, 221)",
+        "border-top-color": "rgb(221, 221, 221)",
+        "color": "rgb(221, 221, 221)",
+        "font-family": "'Open Sans', Helvetica, Arial, 'Liberation Sans', sans-serif",
+        "font-size": "13px",
+        "font-weight": "600",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "margin-left": "4px",
+        "margin-right": "4px",
+        "outline-color": "rgb(221, 221, 221)",
+        "padding-left": "6px",
+        "padding-right": "6px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Hosting",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wporg-header-menu",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Hosting"
+      ]
+    },
+    {
+      "bound": {
+        "height": 46,
+        "left": 1109,
+        "top": 76,
+        "width": 156
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(221, 221, 221)",
+        "border-left-color": "rgb(221, 221, 221)",
+        "border-right-color": "rgb(221, 221, 221)",
+        "border-top-color": "rgb(221, 221, 221)",
+        "color": "rgb(221, 221, 221)",
+        "font-family": "'Open Sans', Helvetica, Arial, 'Liberation Sans', sans-serif",
+        "font-size": "13px",
+        "font-weight": "600",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "outline-color": "rgb(221, 221, 221)",
+        "padding-left": "16px",
+        "padding-right": "16px",
+        "text-align": "left",
+        "text-shadow": "rgba(0, 0, 0, 0.0976562) 0px 1px 0px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Download WordPress",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wporg-header-menu",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "button",
+            "download-button"
+          ],
+          "id": "download",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Download WordPress"
+      ]
+    },
+    {
+      "bound": {
+        "height": 46,
+        "left": 320,
+        "top": 124,
+        "width": 226
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(85, 85, 85)",
+        "border-left-color": "rgb(85, 85, 85)",
+        "border-right-color": "rgb(85, 85, 85)",
+        "border-top-color": "rgb(85, 85, 85)",
+        "color": "rgb(85, 85, 85)",
+        "float": "left",
+        "font-family": "HelveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', sans-serif",
+        "font-size": "28px",
+        "font-weight": "300",
+        "line-height": "28px",
+        "outline-color": "rgb(85, 85, 85)",
+        "padding-left": "9px",
+        "padding-top": "18px",
+        "text-rendering": "optimizelegibility",
+        "text-shadow": "rgb(255, 255, 255) 0px 1px 0px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "<a href=\"http://wordpress.org/news/\" title=\"WordPress News\" rel=\"home\">WordPress News</a>",
+      "path": [
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "headline",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "WordPress News"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 334,
+        "top": 218,
+        "width": 692
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Georgia, Times, 'Times New Roman', serif",
+        "font-size": "22px",
+        "font-weight": "300",
+        "margin-bottom": "6px",
+        "margin-top": "6px"
+      },
+      "element": {
+        "classes": [
+          "fancy"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "<a href=\"http://wordpress.org/news/2010/12/coming-up-meet-the-makers/\">Coming Up: Meet the Makers</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fancy"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Coming Up: Meet the Makers"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 334,
+        "top": 248,
+        "width": 692
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(119, 119, 119)",
+        "border-left-color": "rgb(119, 119, 119)",
+        "border-right-color": "rgb(119, 119, 119)",
+        "border-top-color": "rgb(119, 119, 119)",
+        "color": "rgb(119, 119, 119)",
+        "font-size": "12px",
+        "margin-bottom": "10px",
+        "outline-color": "rgb(119, 119, 119)"
+      },
+      "element": {
+        "classes": [
+          "meta"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "Posted December 27, 2010 by <a href=\"http://profiles.wordpress.org/users/jane/\">Jen Mylo</a>. Filed under <a href=\"http://wordpress.org/news/category/community/\" title=\"View all posts in Community\" rel=\"category tag\">Community</a>. ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "meta"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Posted December 27, 2010 by ",
+        "Jen Mylo",
+        ". Filed under ",
+        "Community",
+        ". "
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 334,
+        "top": 282,
+        "width": 692
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "13px",
+        "margin-bottom": "22px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "I am often asked how decisions are made for WordPress, who’s involved in decision-making, and how the open source project is structured in general. WordPress is a meritocracy, meaning that anyone can get involved, and a combination of the quality of someone’s contributions and their level of interest/time commitment will determine how much influence they have over decisions. Because these factors vary, we have several levels of contributors to the core WordPress application, ranging from full-time lead developers to casual one-patch contributors.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "storycontent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "I am often asked how decisions are made for WordPress, who’s involved in decision-making, and how the open source project is structured in general. WordPress is a meritocracy, meaning that anyone can get involved, and a combination of the quality of someone’s contributions and their level of interest/time commitment will determine how much influence they have over decisions. Because these factors vary, we have several levels of contributors to the core WordPress application, ranging from full-time lead developers to casual one-patch contributors."
+      ]
+    },
+    {
+      "bound": {
+        "height": 88,
+        "left": 334,
+        "top": 416,
+        "width": 692
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "13px",
+        "margin-bottom": "22px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "I loved it when that Intel commercial in 2009 gave Ajay Bhatt, co-inventor of the USB, some recognition as a rock star of geekland (though I hated it that it wasn’t actually Ajay Bhatt, but an actor — way to kill the message, Intel).<sup>1</sup> In WordPress-land, most people know who Matt Mullenweg is, but most of the other leaders and contributors are much less visible. Moving forward, I’m going to be posting profiles here of some of our more dedicated contributors.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "storycontent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "I loved it when that Intel commercial in 2009 gave Ajay Bhatt, co-inventor of the USB, some recognition as a rock star of geekland (though I hated it that it wasn’t actually Ajay Bhatt, but an actor — way to kill the message, Intel).",
+        "1",
+        " In WordPress-land, most people know who Matt Mullenweg is, but most of the other leaders and contributors are much less visible. Moving forward, I’m going to be posting profiles here of some of our more dedicated contributors."
+      ]
+    },
+    {
+      "bound": {
+        "height": 88,
+        "left": 334,
+        "top": 528,
+        "width": 692
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "13px",
+        "margin-bottom": "22px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Why now? We’re coming up on the second annual WordPress core leadership meetup in January 2011, and we’re thinking we’ll hold a video town hall at some point during our time together. Between now and then the profiles I post will be of the core developers who will be at the meetup. After that, I’ll be branching out and posting about other contributors, including developers, designers, forum moderators, etc.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "storycontent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Why now? We’re coming up on the second annual WordPress core leadership meetup in January 2011, and we’re thinking we’ll hold a video town hall at some point during our time together. Between now and then the profiles I post will be of the core developers who will be at the meetup. After that, I’ll be branching out and posting about other contributors, including developers, designers, forum moderators, etc."
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 334,
+        "top": 640,
+        "width": 692
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "13px",
+        "margin-bottom": "22px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "I’ll post here in January when we have dates/times set for the video town hall. In the meantime, you can submit questions for us to answer then in the forum thread <a title=\"Suggestions thread\" href=\"http://wordpress.org/support/topic/what-should-2011-hold-for-wordpress?\">What Should 2011 Hold for WordPress?</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "storycontent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "I’ll post here in January when we have dates/times set for the video town hall. In the meantime, you can submit questions for us to answer then in the forum thread ",
+        "What Should 2011 Hold for WordPress?"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 334,
+        "top": 708,
+        "width": 692
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "13px",
+        "margin-bottom": "22px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "To get a sense of how all these people fit together and how decisions are made, you can check out the presentation I did at WordCamp Portland in October on <a title=\"How WordPress Decisions Get Made video\" href=\"http://wordpress.tv/2010/09/18/jane-wells-how-wordpress-decisions-get-made/\">How WordPress Decisions Get Made</a><span style=\"font-size: 11.6667px\">.</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "storycontent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "To get a sense of how all these people fit together and how decisions are made, you can check out the presentation I did at WordCamp Portland in October on ",
+        "How WordPress Decisions Get Made",
+        "."
+      ]
+    },
+    {
+      "bound": {
+        "height": 72,
+        "left": 334,
+        "top": 776,
+        "width": 692
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "13px",
+        "margin-bottom": "22px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<sup>1 – And how lame is it that Conan O’Brien’s interview with the real Ajay Bhatt is no longer available on the The Tonight Show’s website, and everyone’s embedded videos are blank? I found a copy of it <a title=\"Conan interviews the real Ajay Bhatt\" href=\"http://vimeo.com/10662430\">here</a>. And here’s the <a title=\"Intel rock star commercial\" href=\"http://video.intel.com/?fr_story=8d8f50ebfdded3db4eb14514d66e4f9628f653b5&amp;rf=sitemap\">original Intel commercial</a> if you were living under a rock and never saw it. <img src=\"http://wordpress.org/news/wp-includes/images/smilies/icon_smile.gif\" alt=\":)\" class=\"wp-smiley\"> </sup>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "storycontent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "1 – And how lame is it that Conan O’Brien’s interview with the real Ajay Bhatt is no longer available on the The Tonight Show’s website, and everyone’s embedded videos are blank? I found a copy of it ",
+        "here",
+        ". And here’s the ",
+        "original Intel commercial",
+        " if you were living under a rock and never saw it. "
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 334,
+        "top": 888,
+        "width": 108
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "float": "left",
+        "font-family": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "line-height": "12px",
+        "margin-bottom": "3px",
+        "margin-top": "3px",
+        "outline-color": "rgb(51, 51, 51)"
+      },
+      "element": {
+        "classes": [
+          "sd-title"
+        ],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Share this:",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "storycontent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "robots-nocontent",
+            "sd-block",
+            "sd-sharing",
+            "sd-social",
+            "sd-social-icon-text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-title"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Share this:"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 459,
+        "top": 884,
+        "width": 82
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://wordpress.org/news/wp-content/plugins/jetpack/modules/sharedaddy/images/twitter.png?1)",
+        "background-position": "2px 50%",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "font-size": "12px",
+        "line-height": "18px",
+        "list-style-type": "none",
+        "opacity": "0.800000011920929",
+        "outline-color": "rgb(0, 0, 0)",
+        "padding-bottom": "1px",
+        "padding-left": "23px",
+        "padding-right": "5px",
+        "padding-top": "1px",
+        "z-index": "0"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Twitter<span class=\"share-count\">80</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "storycontent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "robots-nocontent",
+            "sd-block",
+            "sd-sharing",
+            "sd-social",
+            "sd-social-icon-text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share-twitter"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sd-button",
+            "share-icon",
+            "share-twitter"
+          ],
+          "id": "sharing-twitter-1633",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Twitter",
+        "80"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 550,
+        "top": 884,
+        "width": 97
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://wordpress.org/news/wp-content/plugins/jetpack/modules/sharedaddy/images/facebook.png)",
+        "background-position": "2px 50%",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "font-size": "12px",
+        "line-height": "18px",
+        "list-style-type": "none",
+        "opacity": "0.800000011920929",
+        "outline-color": "rgb(0, 0, 0)",
+        "padding-bottom": "1px",
+        "padding-left": "23px",
+        "padding-right": "5px",
+        "padding-top": "1px",
+        "z-index": "0"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Facebook<span class=\"share-count\">13</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "storycontent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "robots-nocontent",
+            "sd-block",
+            "sd-sharing",
+            "sd-social",
+            "sd-social-icon-text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share-facebook"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sd-button",
+            "share-facebook",
+            "share-icon"
+          ],
+          "id": "sharing-facebook-1633",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Facebook",
+        "13"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 656,
+        "top": 884,
+        "width": 84
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://wordpress.org/news/wp-content/plugins/jetpack/modules/sharedaddy/images/googleplus1.png?1)",
+        "background-position": "2px 50%",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "font-size": "12px",
+        "line-height": "18px",
+        "list-style-type": "none",
+        "opacity": "0.800000011920929",
+        "outline-color": "rgb(0, 0, 0)",
+        "padding-bottom": "1px",
+        "padding-left": "23px",
+        "padding-right": "5px",
+        "padding-top": "1px",
+        "z-index": "0"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Google +1",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "storycontent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "robots-nocontent",
+            "sd-block",
+            "sd-sharing",
+            "sd-social",
+            "sd-social-icon-text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share-google-plus-1"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sd-button",
+            "share-google-plus-1",
+            "share-icon"
+          ],
+          "id": "sharing-google-1633",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Google +1"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 749,
+        "top": 884,
+        "width": 57
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://wordpress.org/news/wp-content/plugins/jetpack/modules/sharedaddy/images/email.png)",
+        "background-position": "2px 50%",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(0, 0, 0)",
+        "border-left-color": "rgb(0, 0, 0)",
+        "border-right-color": "rgb(0, 0, 0)",
+        "border-top-color": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font-family": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "font-size": "12px",
+        "line-height": "18px",
+        "list-style-type": "none",
+        "opacity": "0.800000011920929",
+        "outline-color": "rgb(0, 0, 0)",
+        "padding-bottom": "1px",
+        "padding-left": "23px",
+        "padding-right": "5px",
+        "padding-top": "1px",
+        "z-index": "0"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Email",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "storycontent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-sharing-enabled",
+            "sharedaddy"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "robots-nocontent",
+            "sd-block",
+            "sd-sharing",
+            "sd-social",
+            "sd-social-icon-text"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "sd-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "share-email",
+            "share-service-visible"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "sd-button",
+            "share-email",
+            "share-icon"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Email"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 334,
+        "top": 941,
+        "width": 692
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(218, 218, 218)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "margin-bottom": "25px",
+        "padding-bottom": "1px",
+        "text-align": "right",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "feedback"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n\t<span>Comments Off</span> \n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "feedback"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Comments Off"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 334,
+        "top": 991,
+        "width": 692
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "13px",
+        "margin-bottom": "26px"
+      },
+      "element": {
+        "classes": [
+          "nextprev"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "<span class=\"prev\">« <a href=\"http://wordpress.org/news/2010/12/wordpress-3-1-release-candidate/\">WordPress 3.1 Release Candidate</a></span> <span class=\"next\"><a href=\"http://wordpress.org/news/2010/12/3-0-4-update/\">3.0.4 Important Security Update</a> »</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nextprev"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "« ",
+        "WordPress 3.1 Release Candidate",
+        "3.0.4 Important Security Update",
+        " »"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 334,
+        "top": 1041,
+        "width": 692
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Georgia, Times, 'Times New Roman', serif",
+        "font-size": "22px",
+        "font-weight": "300",
+        "margin-bottom": "6px",
+        "margin-top": "6px"
+      },
+      "element": {
+        "classes": [
+          "fancy"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "No Pings ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "fancy"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "No Pings "
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 334,
+        "top": 1071,
+        "width": 692
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "13px",
+        "margin-bottom": "22px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a href=\"http://wordpress.org/news/2010/12/coming-up-meet-the-makers/feed/\"><abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post.</a> \n\n\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "RSS",
+        " feed for comments on this post."
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 1054,
+        "top": 212,
+        "width": 212
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(222, 222, 222)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-size": "14px",
+        "font-weight": "bold",
+        "margin-bottom": "18px",
+        "outline-color": "rgb(51, 51, 51)",
+        "padding-bottom": "4px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
+      "html": "See Also:",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
+      "text": [
+        "See Also:"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 1054,
+        "top": 258,
+        "width": 212
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "13px",
+        "margin-bottom": "22px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "For more WordPress news, check out the <a href=\"http://planet.wordpress.org/\">WordPress Planet</a>.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "For more WordPress news, check out the ",
+        "WordPress Planet",
+        "."
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1054,
+        "top": 326,
+        "width": 212
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "13px",
+        "margin-bottom": "22px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "There’s also a <a href=\"http://make.wordpress.org/core/\">development P2 blog</a>.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "There’s also a ",
+        "development P2 blog",
+        "."
+      ]
+    },
+    {
+      "bound": {
+        "height": 66,
+        "left": 1054,
+        "top": 394,
+        "width": 212
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "13px",
+        "margin-bottom": "22px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "To see how active the project is <a href=\"http://core.trac.wordpress.org/timeline\">check out our Trac timeline</a>, it often has 20–30 updates per day.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "To see how active the project is ",
+        "check out our Trac timeline",
+        ", it often has 20–30 updates per day."
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 1054,
+        "top": 484,
+        "width": 212
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(222, 222, 222)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-size": "14px",
+        "font-weight": "bold",
+        "margin-bottom": "18px",
+        "outline-color": "rgb(51, 51, 51)",
+        "padding-bottom": "4px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
+      "html": "Categories",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
+      "text": [
+        "Categories"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1070,
+        "top": 530,
+        "width": 196
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "13px",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-14"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/news/category/releases/\" title=\"View all posts filed under Releases\">Releases</a> (120)\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-14"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Releases",
+        " (120)\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1070,
+        "top": 554,
+        "width": 196
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "13px",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-5"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/news/category/development/\" title=\"View all posts filed under Development\">Development</a> (96)\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-5"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Development",
+        " (96)\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1070,
+        "top": 578,
+        "width": 196
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "13px",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-1"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/news/category/uncategorized/\" title=\"View all posts filed under Uncategorized\">Uncategorized</a> (94)\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-1"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Uncategorized",
+        " (94)\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1070,
+        "top": 602,
+        "width": 196
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "13px",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-3"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/news/category/community/\" title=\"View all posts filed under Community\">Community</a> (33)\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-3"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Community",
+        " (33)\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1070,
+        "top": 626,
+        "width": 196
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "13px",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-12"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/news/category/meta/\" title=\"View all posts filed under Meta\">Meta</a> (32)\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-12"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Meta",
+        " (32)\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1070,
+        "top": 650,
+        "width": 196
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "13px",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-15"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/news/category/security/\" title=\"View all posts filed under Security\">Security</a> (28)\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-15"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Security",
+        " (28)\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1070,
+        "top": 674,
+        "width": 196
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "13px",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-7"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/news/category/events/\" title=\"View all posts filed under Events\">Events</a> (24)\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-7"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Events",
+        " (24)\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1070,
+        "top": 698,
+        "width": 196
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "13px",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-18"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/news/category/testing/\" title=\"View all posts filed under Testing\">Testing</a> (22)\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-18"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Testing",
+        " (22)\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1070,
+        "top": 722,
+        "width": 196
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "13px",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-22"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/news/category/wordcamp/\" title=\"View all posts filed under WordCamp\">WordCamp</a> (17)\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-22"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "WordCamp",
+        " (17)\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1070,
+        "top": 746,
+        "width": 196
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-size": "13px",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-129"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/news/category/user-interface/\" title=\"View all posts filed under User Interface\">User Interface</a> (14)\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-categories"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-129"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "User Interface",
+        " (14)\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 334,
+        "top": 1162,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/about/\" title=\"An introduction to the WordPress project\">About</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "About"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 334,
+        "top": 1187,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/news/\" title=\"News and Updates\">Blog</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 334,
+        "top": 1212,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/hosting/\" title=\"Recommended web hosting providers\">Hosting</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Hosting"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 334,
+        "top": 1237,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://jobs.wordpress.net/\" title=\"Find or post WordPress jobs\">Jobs</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Jobs"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 493,
+        "top": 1162,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/support/\" title=\"Forums, documentation, and other resources\">Support</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Support"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 493,
+        "top": 1187,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://make.wordpress.org/\" title=\"Give back to WordPress through code, support, translation and more\">Get Involved</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Get Involved"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 493,
+        "top": 1212,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://learn.wordpress.org/\" title=\"Workshops and training materials\">Learn</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Learn"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 652,
+        "top": 1162,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/showcase/\" title=\"Some of the best WordPress sites on the Web\">Showcase</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Showcase"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 652,
+        "top": 1187,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/plugins/\" title=\"Add extra functionality to WordPress\">Plugins</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Plugins"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 652,
+        "top": 1212,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/themes/\" title=\"Make your WordPress pretty\">Themes</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Themes"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 652,
+        "top": 1237,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/ideas/\" title=\"Share your ideas for improving WordPress\">Ideas</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Ideas"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 811,
+        "top": 1162,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://central.wordcamp.org/\" title=\"Find a WordPress event near you\">WordCamp</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "WordCamp"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 811,
+        "top": 1187,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.tv/\" title=\"Videos, tutorials, and WordCamp sessions\">WordPress.TV</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "WordPress.TV"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 811,
+        "top": 1212,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://buddypress.org/\" title=\"A set of plugins to transform your WordPress into a social network\">BuddyPress</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "BuddyPress"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 811,
+        "top": 1237,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://bbpress.org/\" title=\"Fast, slick forums built on WordPress\">bbPress</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "bbPress"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 970,
+        "top": 1162,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.com/?ref=wporg-footer\" title=\"Hassle-free WordPress hosting\">WordPress.com</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "WordPress.com"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 970,
+        "top": 1187,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://ma.tt/\" title=\"Co-founder of WordPress, an example of what WordPress can do\">Matt</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Matt"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 970,
+        "top": 1212,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/about/privacy/\" title=\"WordPress.org Privacy Policy\">Privacy</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Privacy"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 970,
+        "top": 1237,
+        "width": 135
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(187, 187, 187)",
+        "border-left-color": "rgb(187, 187, 187)",
+        "border-right-color": "rgb(187, 187, 187)",
+        "border-top-color": "rgb(187, 187, 187)",
+        "color": "rgb(187, 187, 187)",
+        "display": "list-item",
+        "font-size": "14px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "outline-color": "rgb(187, 187, 187)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordpress.org/about/license/\" title=\"WordPress is open source software\">License / GPLv2</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "License / GPLv2"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 705,
+        "top": 1312,
+        "width": 190
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://s.wordpress.org/style/images/codeispoetry.png?2)",
+        "background-position": "50% 50%",
+        "background-repeat": "no-repeat",
+        "background-size": "190px 15px",
+        "clear": "both",
+        "font-size": "7px",
+        "margin-bottom": "5px",
+        "margin-top": "50px",
+        "text-indent": "-9999px"
+      },
+      "element": {
+        "classes": [
+          "aligncenter"
+        ],
+        "id": "",
+        "name": "h6"
+      },
+      "html": "Code is Poetry",
+      "path": [
+        "div",
+        "h6"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wporg-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "aligncenter"
+          ],
+          "id": "",
+          "name": "h6"
+        }
+      ],
+      "text": [
+        "Code is Poetry"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 15,
+        "left": 367,
+        "top": 821,
+        "width": 15
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "line-height": "10px"
+      },
+      "element": {
+        "classes": [
+          "wp-smiley"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "sup",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "pagebody",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "storycontent"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "sup"
+        },
+        {
+          "classes": [
+            "wp-smiley"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wordpress.org/news/wp-includes/images/smilies/icon_smile.gif"
+    },
+    {
+      "bound": {
+        "height": 5,
+        "left": 10,
+        "top": 1408,
+        "width": 6
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "margin-left": "10px",
+        "margin-right": "10px",
+        "margin-top": "-10px"
+      },
+      "element": {
+        "classes": [],
+        "id": "wpstats",
+        "name": "img"
+      },
+      "path": [
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wpstats",
+          "name": "img"
+        }
+      ],
+      "src": "http://stats.wordpress.com/g.gif?host=wordpress.org&rand=0.09552562492899597&v=ext&j=1%3A2.4.2&blog=14607090&post=1633&tz=0&ref="
+    }
+  ]
+}

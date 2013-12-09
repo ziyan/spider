@@ -1,7 +1,4 @@
-﻿Suit Against Apple Alleges Privacy Breaches By Apps
-
-Devin Coldewey
-Dec 28, 2010
+﻿
 Here’s a bit of a sticky situation: Apple is facing a class-action lawsuit alleging that they are allowing apps and ad partners to identify specific users — a breach of Apple’s privacy policy and supposedly of privacy itself.
 
 Apple’s privacy policy touches on this directly, yet leaves plenty of room for movement on their side, which is really what the suit is all about, though Apple is simply the biggest target at the moment. The lawsuit alleges that the “non-personal information” collected by likes of Pandora and The Weather Channel can easily be collated and used to identify individuals.

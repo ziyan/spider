@@ -1,6 +1,4 @@
-﻿The Bourgain-Guth argument for proving restriction theorems
-28 December, 2010 in expository, math.CA | Tags: Jean Bourgain, Larry Guth, restriction conjecture | by Terence Tao | 4 comments
-One of my favourite unsolved problems in harmonic analysis is the restriction problem. This problem, first posed explicitly by Elias Stein, can take many equivalent forms, but one of them is this: one starts with a smooth compact hypersurface  (possibly with boundary) in , such as the unit sphere  in , and equips it with surface measure . One then takes a bounded measurable function  on this surface, and then computes the (inverse) Fourier transform
+﻿One of my favourite unsolved problems in harmonic analysis is the restriction problem. This problem, first posed explicitly by Elias Stein, can take many equivalent forms, but one of them is this: one starts with a smooth compact hypersurface  (possibly with boundary) in , such as the unit sphere  in , and equips it with surface measure . One then takes a bounded measurable function  on this surface, and then computes the (inverse) Fourier transform
 
 
 
@@ -34,7 +32,6 @@ As is often the case in this field, there is a lot of technical book-keeping and
 
 In order to focus on the ideas in the paper (rather than on the technical details), I will adopt an informal, heuristic approach, for instance by interpreting the uncertainty principle and the pigeonhole principle rather liberally, and by focusing on main terms in a decomposition and ignoring secondary terms. I will also be somewhat vague with regard to asymptotic notation such as . Making the arguments rigorous requires a certain amount of standard but tedious effort (and is one of the main reasons why the Bourgain-Guth paper is as long as it is), which I will not focus on here.
 
-Read the rest of this entry »
 
 Outliers in the spectrum of iid matrices with bounded rank perturbations
 22 December, 2010 in math.PR, math.RA, paper | Tags: circular law, iid matrices, outliers, random matrices | by Terence Tao | 8 comments
@@ -140,7 +137,7 @@ This is also the sum of the diagonal entries of a GUE matrix, and is thus normal
 
 Below the fold, I give a heuristic way to see this correlation, based on Taylor expansion of the convex Hamiltonian  around the minimum , which gives a conceptual probabilistic model for the mesoscopic structure of the GUE eigenvalues. While this heuristic is in no way rigorous, it does seem to explain many of the features currently known or conjectured about GUE, and looks likely to extend also to other models.
 
-Read the rest of this entry »
+
 
 Large values of the Gowers-Host-Kra seminorms
 16 December, 2010 in math.CA, math.CO, math.DS, paper | Tags: Gowers uniformity norms, Gowers-Host-Kra seminorms, inverse theorems, Tanja Eisner | by Terence Tao | Leave a comment
@@ -217,7 +214,7 @@ As compactness is such a useful property to have in analysis, various tools have
 
 Concentration compactness is usually stated and proved in the language of standard analysis: epsilons and deltas, limits and supremas, and so forth. In this post, I wanted to note that one could also state and prove the basic foundations of concentration compactness in the framework of nonstandard analysis, in which one now deals with infinitesimals and ultralimits instead of epsilons and ordinary limits. This is a fairly mild change of viewpoint, but I found it to be informative to view this subject from a slightly different perspective. The nonstandard proofs require a fair amount of general machinery to set up, but conversely, once all the machinery is up and running, the proofs become slightly shorter, and can exploit tools from (standard) infinitary analysis, such as orthogonal projections in Hilbert spaces, or the continuous-pure point decomposition of measures. Because of the substantial amount of setup required, nonstandard proofs tend to have significantly more net complexity than their standard counterparts when it comes to basic results (such as those presented in this post), but the gap between the two narrows when the results become more difficult, and for particularly intricate and deep results it can happen that nonstandard proofs end up being simpler overall than their standard analogues, particularly if the nonstandard proof is able to tap the power of some existing mature body of infinitary mathematics (e.g. ergodic theory, measure theory, Hilbert space theory, or topological group theory) which is difficult to directly access in the standard formulation of the argument.
 
-Read the rest of this entry »
+
 
 Nonstandard analysis as a completion of standard analysis
 27 November, 2010 in expository, math.CA, math.LO | Tags: Bolzano-Weierstrass theorem, correspondence principle, countable saturation, nonstandard analysis, szemeredi regularity lemma, ultralimit analysis | by Terence Tao | 36 comments
@@ -243,7 +240,7 @@ However, there are substantial benefits to working in the completed structure wh
 
 In this post, I wish to expand upon these above points with regard to elementary completion, and to present nonstandard analysis as a completion of standard analysis in much the same way as, say, complex algebra is a completion of real algebra, or real metric geometry is a completion of rational metric geometry.
 
-Read the rest of this entry »
+
 
 The Guth-Katz bound on the Erdős distance problem
 20 November, 2010 in expository, math.AG, math.AT, math.CO | Tags: cell decomposition decomposition, Erdos distance problem, Larry Guth, Nets Katz, polynomial ham sandwich theorem, polynomial method | by Terence Tao | 8 comments
@@ -269,7 +266,7 @@ I will also use asymptotic notation rather loosely, to avoid cluttering the expo
 
 See also Janos Pach’s recent reaction to the Guth-Katz paper on Kalai’s blog.
 
-Read the rest of this entry »
+
 
 UCLA Math Undergraduate Merit Scholarship for 2010
 16 November, 2010 in advertising | Tags: scholarship, UCLA, undergraduate study | by Terence Tao | 13 comments

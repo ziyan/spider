@@ -1,7 +1,4 @@
-﻿The Legacy of TRON
-December 14, 2010
-Ed Pegg Jr, Scientific Information Group
-Editorial note: A future post will explore some of the contributions to the visual arts and media facilitated by Mathematica.
+﻿Editorial note: A future post will explore some of the contributions to the visual arts and media facilitated by Mathematica.
 The year 1982 saw a lot of important movies: Blade Runner, E.T.: The Extra-Terrestrial, Poltergeist, Star Trek II: The Wrath of Khan, The Thing, Mad Max 2: The Road Warrior, Pink Floyd The Wall, First Blood, Conan the Barbarian, Fast Times at Ridgemont High, The Dark Crystal, and TRON.
 I used Mathematica functionality to turn the TRON logo into something you can manipulate. You can download my notebook to play with the logo. (Mathematica Home Edition could be used to do this as well.)
 
@@ -28,15 +25,4 @@ If a teapot appears in the movie, you can bet that it will be a Utah teapot, whi
 The director of the sequel is Joseph Kosinski, who got his start with computer graphics and their applications to architecture. Very early on in the development of TRON: Legacy, he digitally created all the sets. As always happens in architecture, these designs saw many changes. In some movies, the effort would have stopped there—the Star Wars prequels are good examples. Instead, most of the sets were physically built.
 Classically, movies created a sense of awe with “How did they do that?” type effects. Computer graphics have become so good that they became the answer to every question, which served to deflate the awe. The movie Iron Man broke that cliche by really using props in many cases where they could have used computer animation. TRON: Legacy has continued in that line, by letting the film crew control the computers instead of the other way around.
 I greatly look forward to seeing it.
-Download notebook
-Comments
-Here’s a related post about algorithms inspired by Tron — http://11011110.livejournal.com/210416.html
-Posted by Yaroslav BulatovDecember 14, 2010 at 6:04 pm
-I downloaded the .nb file, but there was no “turn the TRON logo into a Manipulate” code. Just the article….. Could you send a link?
-Thanks.
-Posted by Barrettt A. LeslieDecember 15, 2010 at 3:44 am
-http://www.wired.com/magazine/2010/11/ff_tron/
-Posted by Herbert ExnerDecember 17, 2010 at 8:15 am
-I like it , it is Very cool!!
-Posted by Jorge Gamaliel Frade ChàvezDecember 19, 2010 at 8:14 pm
 

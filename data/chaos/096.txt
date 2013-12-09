@@ -1,7 +1,4 @@
-﻿The Free-Form Linguistics Revolution in Mathematica
-November 15, 2010
-Stephen Wolfram
-With the release of Mathematica 8 today, the single most dramatic change is that you don’t have to communicate with Mathematica in the Mathematica language any more: you can just use free-form English instead.
+﻿With the release of Mathematica 8 today, the single most dramatic change is that you don’t have to communicate with Mathematica in the Mathematica language any more: you can just use free-form English instead.
 Wolfram|Alpha has pioneered the concept of specifying computations with free-form linguistic input. And with Mathematica 8, the powerful methods of Wolfram|Alpha become available within the Mathematica environment.
 All one has to do is to type an = at the beginning of a line. Then what follows is taken as free-form linguistic input.
 
@@ -71,69 +68,3 @@ But gradually as we worked through these issues, we began to see that a wonderfu
 I have to say that I was somewhat skeptical about our ability to make Wolfram|Alpha understand not just what amount to queries for knowledge, but also programs and commands. And certainly we are just at the beginning of being able to do this—and over the weeks and months and years to come we will continuously try to update and improve it.
 But I have been most encouraged by how far we have already been able to get. And indeed I have noticed that I myself have now routinely started to rely on free-form linguistics whenever I use Mathematica.
 The arrival of free-form linguistics will surely forever change how Mathematica is used, and learned. After nearly a quarter of a century, we have today a fundamentally new way to communicate with Mathematica. We cannot yet foresee all the consequences, but it is already clear that this is something tremendously important.
-
-Comments
-absolutely amazing, I can’t wait to try it.
-especially how it affects doing simulations and demonstrations,
-Thanks.
-Posted by markNovember 15, 2010 at 5:56 pm
-What a marvellous! Cheers.
-Posted by yuki fujimuraNovember 15, 2010 at 6:56 pm
-that’s truly fantastic!
-Posted by Xah LeeNovember 15, 2010 at 7:44 pm
-Fantastic! Keep up the good work.
-One question: Is speed compromised at all in later versions of Mathematica? With all of this functionality are we losing anything?
-Posted by Nicholas MecholskyNovember 15, 2010 at 7:46 pm
-Good step forward – however! No upgrade and rollout of TableView – which is an undocumented spreadsheet-lite? And no new graphics primitives, especially for solids modeling?
-And does CUDA run on ATI cards which are now standard on new Macs?
-Posted by Robert Prince-WrightNovember 16, 2010 at 12:11 am
-Nous étions plusieurs, parmi les utilisateurs réguliers, à craindre que le développement de Mathematica ne souffre de l’investissement de Wolfram Research dans Wolfram Alpha. Nous voilà pleinement rassurés autant qu’émerveillés. Quel bond en avant ! À l’heure où les politiques, les responsables de l’éducation et les enseignants s’inquiètent de l’image et de l’avenir de l’enseignement scientifique, Wolfram Research montre la voie. Encore faudrait-il que les décideurs connaissent les fantastiques possibilités de Mathematica et prennent conscience du rôle qu’il peut jouer dans la promotion des sciences.
-Congratulations Wolfram Research
-Posted by Bernard VuilleumierNovember 16, 2010 at 2:41 am
-Wow!! Thats What I call a revolution in mathematical Software.Please keep up your good work.
-Posted by Partha SinhaNovember 16, 2010 at 7:17 am
-The free-English interface is powerful for another reason as well: it provides people with little experience with Mathematica an interactive way to learn the language. In my opinion this is huge, as you don’t have to dig help menus and tutorials, thus cutting the workflow because of an unknown command.
-Posted by GeorgiNovember 16, 2010 at 8:25 am
-Very cool. By the way, a detail: I think that Mathematica should use a prettier default stylesheet.
-Posted by Luboš MotlNovember 16, 2010 at 12:13 pm
-@Nicholas Mecholsky:
-Not to worry. Many functions in Mathematica 8, in particular numerical functions and image processing functions, got multi-threading treatment, which means it is actually faster than ever (of course when you have multi-core system, which is highly likely).
-Posted by Yu-Sung ChangNovember 16, 2010 at 6:17 pm
-@Robert Prince-Wright:
-TableView is not fully integrated with Mathematica 8. Probably available in very next version. No solid modeling related primitives, but new primitives include curve constructors (JoinedCurve and FilledCurve) and their variations. And there is of course Texture.
-CUDA is NVIDIA’s proprietary technology, thus not available on ATI hardware. But, Mathematica 8 does support OpenCL, which is standard GPU computing architecture for both, and Mathematica 8 provides easy transition between two standards.
-Posted by Yu-Sung ChangNovember 16, 2010 at 6:23 pm
-One of these days, Mathematica will pass the Turing test.
-Posted by Frank KampasNovember 16, 2010 at 8:21 pm
-Hi,
-I know this is a little bit off topic, but Mmta 8 is said to have code conversion capability. How tight would it be? I mean in terms of memory usage? Would it generate code that could be further shortened?
-Mmta 8 seems to be the most awesome software ever. Thank you Stephen!
-Posted by KevinNovember 16, 2010 at 9:38 pm
-It sounds very impressive, though I wonder how it will end up in my workflow. I’m a bit worried about the internet connectivity requirement. At my office I’m not able to get through our firewall completely (strangely, only about half of the computable data gets through), and on the road, or on visits not being able to evaluate your notebook when required sounds like a problem. Is there a way to pre-cache the necessary data, as there was for the computable data paclets?
-Posted by Sjoerd de VriesNovember 17, 2010 at 9:42 am
-Stephen, this is very impressive stuff.
-However I am disappointed to see, on looking through the list of changes, that once again attention to parallelization is not on the list.
-As I have stated before, the 90s are gone and aren’t ever coming back — the future of computing is parallel. In spite of that fact, however, Mathematica continues to ignore this year after year.
-Sure, we have (machine precision) FFTs and linear algebra that use our 4 or 6 or 12 core machines (eg the latest Mac Pro), but strange as it may seem, some of us use Mathematica for purposes other than (machine precision) FFTs and linear algebra.
-At the very least, can we have the low-lying parallel fruit integrated into Mathematica ASAP? This would be things like
-- Ideally Map, Sum, Table, etc would automatically preprocess their code, determine it’s parallelizable, and auto-parallelize it. In the absence of that, at least have a single local (same-machine) kernel that handles ParallelMap, ParallelSum etc so that we don’t have to export definitions before we use them.
-- Plenty of Mathematica functions (eg numerical integration or plotting functions or much discrete optimization) perform many many repeated evaluations of the same function at different points, a trivially parallelizable problem. Sure, there are a .1% of weird functions that somehow rely on the order in which they are called when being plotted — let the people who want such things tag their functions as Volatile or whatever and let the rest of us with normal functions get a speedup.
-- Entropy Engine. If you’re a heavy user of random numbers (eg simulations or monte carlo integration) you can spend most of your time generating the random bits. Surely it is possible to
-(a) Have a random number generator that utilizes the full width of SSE registers (and on SandyBridge CPUs, the AVX registers) to generate more bits at once and
-(b) generate bits across multiple CPUs (and even a networked cluster) at once?
-What I have in mind is a block of code that generates a “block” of random bits fast, say of order 1KB or 4KB, and that can be spawned to run anywhere. These can be launched as needed, and their results will be stored in a warehouse, so that there is, generally, about 32KB of randomness available for easy access, and when it runs low, new randomness can rapidly be generated by having ALL the various entropy engines running, both locally and across the network.
-Continuing to work on input methods (and likewise on output, as we saw in 6 and 7) is very cool, but is completely orthogonal to the issue of taking advantage of parallelism. There seems no reason why both cannot happen simultaneously as Mathematica moves forward.
-Posted by Maynard HandleyNovember 19, 2010 at 12:25 am
-@Yu-Sung Chang
-“Not to worry. Many functions in Mathematica 8, in particular numerical functions and image processing functions, got multi-threading treatment, which means it is actually faster than ever (of course when you have multi-core system, which is highly likely).”
-Where is this documented or discussed? I try to follow this carefully (see my above comment) and I’ve never seen anything on this issue.
-Posted by Maynard HandleyNovember 19, 2010 at 12:27 am
-@Yu-Sung Chang
-In finance excel is ubiquitous therefore better excel integration would have been nice and given that TableView has been discussed on Mathgroup in the past it seems very strange that this function has been been made a documented function in V8. It is hard to understand the motivations sometimes. There are esoteric financial plots that a tiny number of users might like, but even then have severe limitations, but no widespread integration of things that are everywhere in finance.
-Posted by Dudley BurnsNovember 19, 2010 at 6:18 pm
-Dr. Wolfram,
-Sounds very impressive – another ’step’ in the right direction.
-I do have an idea which I will send to your r&d group which I believe would not only enhance mathematic considerably, but would also be an invaluable tool for investigators and researchers.
-Cool stuff.
-Kealey
-Posted by Larry KealeyDecember 19, 2010 at 7:00 am

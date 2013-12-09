@@ -1,7 +1,4 @@
-﻿Mi Casa Verde Vera review: Home automation, simplified
-By Thomas Ricker  posted Dec 17th 2010 11:49AM
-Review
-
+﻿
 
 Home automation and jetpacks are surprisingly similar in that both of these space-age technologies have, for decades, been over promised and under delivered. Who here wouldn't love to tap a single button when exiting the house to activate the alarm, shut off the lights in the kids' rooms, lower the thermostat, and lock all the doors? That's the convenience, the promise left unfilled as we say goodbye to 2010. We live on a planet that still requires humans to manually close the blinds at the end of the day and flip on a light switch some 90 years since the commercial introduction of the incandescent light bulb. How primitive. And it's downright criminal in ecological and financial terms that we still can't easily monitor and control the power usage in our homes let alone the trickle of wattage vampired off the individual electrical sockets feeding our greedy horde of household electronics.
 
@@ -56,10 +53,6 @@ The rest of our network functions on timers controlled by Vera. The very first s
 
 
 One thing that makes Vera so compelling to home automators is the free web service that gives you full, "secure" access to Vera from any internet connected device with a browser. It'll even send you email notifications when something happens, like, say, a door is unlocked or a motion sensor is tripped -- it just depends how you configure it. iPhone and iPod touch owners can download a free version of the iVera app to control two lights and two scenes. A whopping $29.99 update gives you full control over all of your devices. There's also the more comprehensive (and complex) SQ Remote app that expands control beyond Vera to any MiOS device (we're told that more are coming from OEMs) and to home entertainment systems via an IR blaster (sold separately). Again, it starts with a limited free version that can be expanded and highly customized for a $29.99 in app purchase. Otherwise, you can always access the Flash-free Vera dashboard from most any smartphone browser or install the custom-built WAP or Smartphone Web Interface Vera plugins from the integrated MiOS Marketplace -- a small app store of sorts. There you'll find interfaces for both generic and Panasonic IP surveillance cameras and Somfy blind controllers and alarm panels. There's even a Squeezebox plugin that gives you the ability to control and monitor your music as long as you're willing to live with the beta classification. But we digress. After testing all of the iPhone access methods we decided to bite the bullet and purchase the $29.99 iVera option as it was the easiest option to setup and use.
-iVera home automation app
-
-
-
 
 
 
@@ -72,17 +65,3 @@ We've been intermittently tinkering with two generations of Vera servers and Z-W
 We also think that Mi Casa Verde's small, yet enthusiastic user community deserves recognition for the value it adds to the Vera experience. The forums are full of active users that include Mi Casa Verde's own employees and affiliates who are more than happy to offer advice or even lend a hand with some advanced scripting for those who are ready for it. And it won't be too long before you shed those tentative ways with Vera 2. True, those first steps will be frustrating and retrofitting the entire house with Z-Wave devices will be costly. So pick a few small projects and build over time. Just don't give up. Seeing the delight in your child's eyes the first time you switch on the christmas tree lights from your cellphone will make it all worthwhile. And safely switching them off again while out of the house will go a long way towards justifying the cost to a reticent spouse. Besides, this hobby is way cheaper than a jetpack.
 
 Special thanks to zwave4u.com for the Z-Wave test gear.
-42
-
-Leave A Comment
-
-
-aeon, BCM5354, broadcom, broadcom BCM5354, BroadcomBcm5354, home automation, HomeAutomation, insteon, mi casa verde, MiCasaVerde, rcs, review, Sigma Designs, SigmaDesigns, ted, upnp, vera, video, x-10, x10, z wave, z-wave, Zensys, ZWave
-
-
-Fujitsu hybrid energy harvester makes power from light or heat, gets us closer to human...20 days ago
-Proverbial Wallets make your metaphysical money a little more tangible20 days ago
-ReWalk exoskeleton on sale in January, for a price you can’t afford23 days ago
-From Our Partners
-Super-Charge Your Wi-Fi: Upgrading to N14 days ago
-Best Boxes for Streaming Internet Video (And More) to Your TV27 days ago

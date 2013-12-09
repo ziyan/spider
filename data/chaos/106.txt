@@ -1,6 +1,4 @@
-﻿SPGL1 and TV: Answers from SPGL1 Authors
-By jackdurden
-Following the writing of my previous post, which obtained various interesting comments (many thanks to Gabriel Peyré, Igor Carron and Pierre Vandergheynst), I sent a mail to Michael P. Friedlander and Ewout van den Berg to point them this article and possibly obtain their point of views.
+﻿Following the writing of my previous post, which obtained various interesting comments (many thanks to Gabriel Peyré, Igor Carron and Pierre Vandergheynst), I sent a mail to Michael P. Friedlander and Ewout van den Berg to point them this article and possibly obtain their point of views.
 
 Nicely, they sent me interesting answers (many thanks to them). Here they are (using the notations of the previous post) :
 
@@ -41,4 +39,3 @@ where, as for the continuous setting,  is the discrete divergence operator defin
 
 Unfortunately, the G norm computation seems not so obvious that the one of its dual counterpart and an optimization method must be used. I don’t know if this could lead to an efficient implementation of a TV spgl1.
 
-This entry was posted on September 2, 2008 at 11:48 pm and is filed under General.	

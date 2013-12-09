@@ -1,0 +1,3639 @@
+{
+  "body": {
+    "bound": {
+      "height": 4001,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgba(0, 0, 0, 0)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(68, 68, 68)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(68, 68, 68)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(68, 68, 68)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(68, 68, 68)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(68, 68, 68)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "arial, sans-serif",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "4000px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "normal",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "100%",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(68, 68, 68)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "1px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "relative",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [],
+  "titles": [
+    "\nOfficial Gmail Blog: New in Labs: Smart mute and easier ways to unmute\n"
+  ],
+  "url": "http://gmailblog.blogspot.com/2010/12/new-in-labs-smart-mute-and-easier-ways.html",
+  "links": [
+    "http://gmailblog.blogspot.com/2010/12/new-in-labs-smart-mute-and-easier-ways.html",
+    "http://mail.google.com/support/bin/answer.py?hl=en&answer=47787",
+    "http://2.bp.blogspot.com/_JE4qNpFW6Yk/TPW29pTEjsI/AAAAAAAAAwY/aWd8uIvu6Ns/s1600/smartmute1.png",
+    "http://mail.google.com/mail/?ui=2&fs=1&view=pu&st=labs",
+    "http://mail.google.com/support/bin/request.py?contact_type=labs&selected=smart_mute",
+    "http://4.bp.blogspot.com/_JE4qNpFW6Yk/TPW3EfafaJI/AAAAAAAAAwg/bUMGTOix7FU/s1600/smartmute2.png",
+    "http://3.bp.blogspot.com/_JE4qNpFW6Yk/TPW3PXdyj6I/AAAAAAAAAwo/tvpMkOBQQnI/s1600/smartmute3.png",
+    "http://gmailblog.blogspot.com/search/label/Google%20Apps%20Blog",
+    "http://gmailblog.blogspot.com/search/label/googlenew",
+    "http://gmailblog.blogspot.com/search/label/labs",
+    "http://www.blogger.com/blog-this.g",
+    "http://gmailblog.blogspot.com/2010/12/call-credits-for-military-families-this.html",
+    "http://gmailblog.blogspot.com/2010/11/new-in-labs-recently-used-emoji.html",
+    "http://gmailblog.blogspot.com/",
+    "http://www.blogger.com/rearrange?blogID=6781693&widgetType=CustomSearch&widgetId=CustomSearch1&action=editWidget&sectionId=sidebar-top",
+    "http://www.blogger.com/rearrange?blogID=6781693&widgetType=HTML&widgetId=HTML5&action=editWidget&sectionId=sidebar",
+    "http://gmailblog.blogspot.com/search?updated-min=2013-01-01T00:00:00-08:00&updated-max=2014-01-01T00:00:00-08:00&max-results=24",
+    "http://gmailblog.blogspot.com/2013_12_01_archive.html",
+    "http://gmailblog.blogspot.com/2013_11_01_archive.html",
+    "http://gmailblog.blogspot.com/2013_10_01_archive.html",
+    "http://gmailblog.blogspot.com/2013_09_01_archive.html",
+    "http://gmailblog.blogspot.com/2013_07_01_archive.html",
+    "http://gmailblog.blogspot.com/2013_06_01_archive.html",
+    "http://gmailblog.blogspot.com/2013_05_01_archive.html",
+    "http://gmailblog.blogspot.com/2013_04_01_archive.html",
+    "http://gmailblog.blogspot.com/2013_03_01_archive.html",
+    "http://gmailblog.blogspot.com/search?updated-min=2012-01-01T00:00:00-08:00&updated-max=2013-01-01T00:00:00-08:00&max-results=35",
+    "http://gmailblog.blogspot.com/2012_12_01_archive.html",
+    "http://gmailblog.blogspot.com/2012_11_01_archive.html",
+    "http://gmailblog.blogspot.com/2012_10_01_archive.html",
+    "http://gmailblog.blogspot.com/2012_09_01_archive.html",
+    "http://gmailblog.blogspot.com/2012_08_01_archive.html",
+    "http://gmailblog.blogspot.com/2012_07_01_archive.html",
+    "http://gmailblog.blogspot.com/2012_06_01_archive.html",
+    "http://gmailblog.blogspot.com/2012_05_01_archive.html",
+    "http://gmailblog.blogspot.com/2012_04_01_archive.html",
+    "http://gmailblog.blogspot.com/2012_03_01_archive.html",
+    "http://gmailblog.blogspot.com/2012_02_01_archive.html",
+    "http://gmailblog.blogspot.com/2012_01_01_archive.html",
+    "http://gmailblog.blogspot.com/search?updated-min=2011-01-01T00:00:00-08:00&updated-max=2012-01-01T00:00:00-08:00&max-results=50",
+    "http://gmailblog.blogspot.com/2011_12_01_archive.html",
+    "http://gmailblog.blogspot.com/2011_11_01_archive.html",
+    "http://gmailblog.blogspot.com/2011_10_01_archive.html",
+    "http://gmailblog.blogspot.com/2011_09_01_archive.html",
+    "http://gmailblog.blogspot.com/2011_08_01_archive.html",
+    "http://gmailblog.blogspot.com/2011_07_01_archive.html",
+    "http://gmailblog.blogspot.com/2011_06_01_archive.html",
+    "http://gmailblog.blogspot.com/2011_05_01_archive.html",
+    "http://gmailblog.blogspot.com/2011_04_01_archive.html",
+    "http://gmailblog.blogspot.com/2011_03_01_archive.html",
+    "http://gmailblog.blogspot.com/2011_02_01_archive.html",
+    "http://gmailblog.blogspot.com/2011_01_01_archive.html",
+    "http://gmailblog.blogspot.com/search?updated-min=2010-01-01T00:00:00-08:00&updated-max=2011-01-01T00:00:00-08:00&max-results=50",
+    "http://gmailblog.blogspot.com/2010_12_01_archive.html",
+    "http://gmailblog.blogspot.com/2010/12/free-calling-in-gmail-extended-through.html",
+    "http://gmailblog.blogspot.com/2010/12/email-delegation-granting-access-to.html",
+    "http://gmailblog.blogspot.com/2010/12/restore-your-contacts.html",
+    "http://gmailblog.blogspot.com/2010/12/gmail-web-app-for-iphone-and-android-in.html",
+    "http://gmailblog.blogspot.com/2010/12/how-to-create-vacation-responder-and-50.html",
+    "http://gmailblog.blogspot.com/2010/12/gmail-for-android-better-priority-inbox.html",
+    "http://gmailblog.blogspot.com/2010/12/event-time-zones-in-google-calendar.html",
+    "http://gmailblog.blogspot.com/2010/12/priority-inbox-update-time-savings-new.html",
+    "http://gmailblog.blogspot.com/2010/12/call-credits-for-military-families-this.html",
+    "http://gmailblog.blogspot.com/2010/12/new-in-labs-smart-mute-and-easier-ways.html",
+    "http://gmailblog.blogspot.com/2010_11_01_archive.html",
+    "http://gmailblog.blogspot.com/2010_10_01_archive.html",
+    "http://gmailblog.blogspot.com/2010_09_01_archive.html",
+    "http://gmailblog.blogspot.com/2010_08_01_archive.html",
+    "http://gmailblog.blogspot.com/2010_07_01_archive.html",
+    "http://gmailblog.blogspot.com/2010_06_01_archive.html",
+    "http://gmailblog.blogspot.com/2010_05_01_archive.html",
+    "http://gmailblog.blogspot.com/2010_04_01_archive.html",
+    "http://gmailblog.blogspot.com/2010_03_01_archive.html",
+    "http://gmailblog.blogspot.com/2010_02_01_archive.html",
+    "http://gmailblog.blogspot.com/2010_01_01_archive.html",
+    "http://gmailblog.blogspot.com/search?updated-min=2009-01-01T00:00:00-08:00&updated-max=2010-01-01T00:00:00-08:00&max-results=50",
+    "http://gmailblog.blogspot.com/2009_12_01_archive.html",
+    "http://gmailblog.blogspot.com/2009_11_01_archive.html",
+    "http://gmailblog.blogspot.com/2009_10_01_archive.html",
+    "http://gmailblog.blogspot.com/2009_09_01_archive.html",
+    "http://gmailblog.blogspot.com/2009_08_01_archive.html",
+    "http://gmailblog.blogspot.com/2009_07_01_archive.html",
+    "http://gmailblog.blogspot.com/2009_06_01_archive.html",
+    "http://gmailblog.blogspot.com/2009_05_01_archive.html",
+    "http://gmailblog.blogspot.com/2009_04_01_archive.html",
+    "http://gmailblog.blogspot.com/2009_03_01_archive.html",
+    "http://gmailblog.blogspot.com/2009_02_01_archive.html",
+    "http://gmailblog.blogspot.com/2009_01_01_archive.html",
+    "http://gmailblog.blogspot.com/search?updated-min=2008-01-01T00:00:00-08:00&updated-max=2009-01-01T00:00:00-08:00&max-results=50",
+    "http://gmailblog.blogspot.com/2008_12_01_archive.html",
+    "http://gmailblog.blogspot.com/2008_11_01_archive.html",
+    "http://gmailblog.blogspot.com/2008_10_01_archive.html",
+    "http://gmailblog.blogspot.com/2008_09_01_archive.html",
+    "http://gmailblog.blogspot.com/2008_08_01_archive.html",
+    "http://gmailblog.blogspot.com/2008_07_01_archive.html",
+    "http://gmailblog.blogspot.com/2008_06_01_archive.html",
+    "http://gmailblog.blogspot.com/2008_05_01_archive.html",
+    "http://gmailblog.blogspot.com/2008_04_01_archive.html",
+    "http://gmailblog.blogspot.com/2008_03_01_archive.html",
+    "http://gmailblog.blogspot.com/2008_02_01_archive.html",
+    "http://gmailblog.blogspot.com/2008_01_01_archive.html",
+    "http://gmailblog.blogspot.com/search?updated-min=2007-01-01T00:00:00-08:00&updated-max=2008-01-01T00:00:00-08:00&max-results=38",
+    "http://gmailblog.blogspot.com/2007_12_01_archive.html",
+    "http://gmailblog.blogspot.com/2007_11_01_archive.html",
+    "http://gmailblog.blogspot.com/2007_10_01_archive.html",
+    "http://gmailblog.blogspot.com/2007_09_01_archive.html",
+    "http://gmailblog.blogspot.com/2007_08_01_archive.html",
+    "http://gmailblog.blogspot.com/2007_07_01_archive.html",
+    "http://www.blogger.com/rearrange?blogID=6781693&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar",
+    "http://gmailblog.blogspot.com/atom.xml",
+    "http://www.blogger.com/rearrange?blogID=6781693&widgetType=HTML&widgetId=HTML6&action=editWidget&sectionId=sidebar",
+    "http://productforums.google.com/forum/#!forum/gmail",
+    "http://www.blogger.com/rearrange?blogID=6781693&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar-bottom",
+    "http://groups.google.com/group/gmail-blog-posts",
+    "http://www.blogger.com/rearrange?blogID=6781693&widgetType=HTML&widgetId=HTML7&action=editWidget&sectionId=sidebar-bottom",
+    "https://mail.google.com/mail/help/intl/en/about.html",
+    "http://www.google.com/mobile/gmail/",
+    "http://www.google.com/enterprise/apps/business/?utm_medium=et&utm_source=consgmailblog&utm_campaign=en/",
+    "http://www.blogger.com/rearrange?blogID=6781693&widgetType=HTML&widgetId=HTML8&action=editWidget&sectionId=sidebar-bottom",
+    "http://googleblog.blogspot.com/",
+    "http://googlepublicpolicy.blogspot.com/",
+    "http://googleforstudents.blogspot.com/",
+    "http://www.blogger.com/rearrange?blogID=6781693&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=footer-1",
+    "http://googleenterprise.blogspot.com/",
+    "http://chrome.blogspot.com/",
+    "http://officialandroid.blogspot.com/",
+    "http://www.blogger.com/rearrange?blogID=6781693&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=footer-2",
+    "http://googleadsdeveloper.blogspot.com/",
+    "http://android-developers.blogspot.com/",
+    "http://googledevelopers.blogspot.com/",
+    "http://www.blogger.com/rearrange?blogID=6781693&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=footer-3",
+    "http://www.google.com/",
+    "http://www.google.com/intl/en/policies/"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 70,
+        "left": 331,
+        "top": 30,
+        "width": 400
+      },
+      "computed": {
+        "font-family": "'open sans'",
+        "font-size": "32px",
+        "font-weight": "300",
+        "line-height": "35px",
+        "margin-bottom": "10px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Official Gmail Blog",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "header-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Header",
+            "widget"
+          ],
+          "id": "Header1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-left"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-title"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Official Gmail Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 331,
+        "top": 112,
+        "width": 400
+      },
+      "computed": {
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "header-desc"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "News, tips and tricks from Google's Gmail team and friends.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "header-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Header",
+            "widget"
+          ],
+          "id": "Header1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-left"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-desc"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "News, tips and tricks from Google's Gmail team and friends."
+      ]
+    },
+    {
+      "bound": {
+        "height": 33,
+        "left": 331,
+        "top": 210,
+        "width": 660
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "font-size": "16px",
+        "font-weight": "bold",
+        "line-height": "32px",
+        "margin-bottom": "16px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "\n<a href=\"http://gmailblog.blogspot.com/2010/12/new-in-labs-smart-mute-and-easier-ways.html\" itemprop=\"url\" title=\"New in Labs: Smart mute and easier ways to unmute\">\nNew in Labs: Smart mute and easier ways to unmute\n</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "\nNew in Labs: Smart mute and easier ways to unmute\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 331,
+        "top": 262,
+        "width": 204
+      },
+      "computed": {
+        "float": "left",
+        "font-size": "11px",
+        "font-weight": "bold",
+        "line-height": "40px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "published"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "<span class=\"caption\">Posted:</span>\n<span class=\"publishdate\" itemprop=\"datePublished\">Wednesday, December 01, 2010</span>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-header"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "published"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Posted:",
+        "Wednesday, December 01, 2010"
+      ]
+    },
+    {
+      "bound": {
+        "height": 1109,
+        "left": 331,
+        "top": 328,
+        "width": 660
+      },
+      "computed": {
+        "line-height": "20px",
+        "margin-bottom": "25px",
+        "margin-top": "25px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "post-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<span class=\"byline-author\">Posted by Bruce DiBello, Software Engineer</span><br><br>If you subscribe to a lot of mailing lists and like to keep an empty inbox, <a href=\"http://mail.google.com/support/bin/answer.py?hl=en&amp;answer=47787\">muting</a> (or preventing a conversation from re-entering your inbox) is an essential feature. We just made a few changes that should make muting even better.<br><br>First up is “Smart Mute,” a new Gmail Labs feature that helps solve the problem of conversations that just won’t die. You know the ones I’m talking about: those emails with 10+ people cc’d where everyone replies all, but you lost interest five emails ago. The current mute behavior doesn’t do well in these situations since the messages are addressed to you. You end up with muted messages in your inbox, and the only way to prevent these emails from coming back to your inbox has been to create a custom filter for a specific conversation.<br><br><a onblur=\"try {parent.deselectBloggerImageGracefully();} catch(e) {}\" href=\"http://2.bp.blogspot.com/_JE4qNpFW6Yk/TPW29pTEjsI/AAAAAAAAAwY/aWd8uIvu6Ns/s1600/smartmute1.png\"><img style=\"display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;\" src=\"http://2.bp.blogspot.com/_JE4qNpFW6Yk/TPW29pTEjsI/AAAAAAAAAwY/aWd8uIvu6Ns/smartmute1.png\" border=\"0\" alt=\"\" id=\"BLOGGER_PHOTO_ID_5545539686350753474\"></a><br>If you enable “Smart Mute” from the <a href=\"http://mail.google.com/mail/?ui=2&amp;fs=1&amp;view=pu&amp;st=labs\">Labs tab in Gmail Settings</a>, muted conversations will only appear in your inbox if a new message in the conversation is addressed to you and no one else, or a new email in the conversation adds you to the “To” or “Cc” line. Once you enable Smart Mute, mute behavior will change across all versions of Gmail: web, mobile, Android, etc. Try it out and <a href=\"http://mail.google.com/support/bin/request.py?contact_type=labs&amp;selected=smart_mute\">let us know</a> what you think.<br><br>Since you’ll likely be muting more than ever, we also added easier ways to unmute muted conversations. Previously, the only way to unmute a conversation was to move it to your inbox -- not super intuitive and useless if the conversation was already in your inbox. Now there are two new ways to unmute a conversation. The first is through an \"Unmute\" option in the \"More actions\" menu. You’ll see this when you view or select a muted conversation.<br><br><a onblur=\"try {parent.deselectBloggerImageGracefully();} catch(e) {}\" href=\"http://4.bp.blogspot.com/_JE4qNpFW6Yk/TPW3EfafaJI/AAAAAAAAAwg/bUMGTOix7FU/s1600/smartmute2.png\"><img style=\"display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;\" src=\"http://4.bp.blogspot.com/_JE4qNpFW6Yk/TPW3EfafaJI/AAAAAAAAAwg/bUMGTOix7FU/smartmute2.png\" border=\"0\" alt=\"\" id=\"BLOGGER_PHOTO_ID_5545539803956603026\"></a>If you’re viewing a muted conversation, you’ll see the second new way to unmute: the \"Muted\" label next to the subject line now behaves just like all other labels. Clicking on the \"X\" will remove the Muted label and unmute the conversation. <br><br><a onblur=\"try {parent.deselectBloggerImageGracefully();} catch(e) {}\" href=\"http://3.bp.blogspot.com/_JE4qNpFW6Yk/TPW3PXdyj6I/AAAAAAAAAwo/tvpMkOBQQnI/s1600/smartmute3.png\"><img style=\"display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;\" src=\"http://3.bp.blogspot.com/_JE4qNpFW6Yk/TPW3PXdyj6I/AAAAAAAAAwo/tvpMkOBQQnI/smartmute3.png\" border=\"0\" alt=\"\" id=\"BLOGGER_PHOTO_ID_5545539990801518498\"></a><br>Hopefully these changes will make it easier to mute and unmute conversations.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Posted by Bruce DiBello, Software Engineer",
+        "If you subscribe to a lot of mailing lists and like to keep an empty inbox, ",
+        "muting",
+        " (or preventing a conversation from re-entering your inbox) is an essential feature. We just made a few changes that should make muting even better.",
+        "First up is “Smart Mute,” a new Gmail Labs feature that helps solve the problem of conversations that just won’t die. You know the ones I’m talking about: those emails with 10+ people cc’d where everyone replies all, but you lost interest five emails ago. The current mute behavior doesn’t do well in these situations since the messages are addressed to you. You end up with muted messages in your inbox, and the only way to prevent these emails from coming back to your inbox has been to create a custom filter for a specific conversation.",
+        "If you enable “Smart Mute” from the ",
+        "Labs tab in Gmail Settings",
+        ", muted conversations will only appear in your inbox if a new message in the conversation is addressed to you and no one else, or a new email in the conversation adds you to the “To” or “Cc” line. Once you enable Smart Mute, mute behavior will change across all versions of Gmail: web, mobile, Android, etc. Try it out and ",
+        "let us know",
+        " what you think.",
+        "Since you’ll likely be muting more than ever, we also added easier ways to unmute muted conversations. Previously, the only way to unmute a conversation was to move it to your inbox -- not super intuitive and useless if the conversation was already in your inbox. Now there are two new ways to unmute a conversation. The first is through an \"Unmute\" option in the \"More actions\" menu. You’ll see this when you view or select a muted conversation.",
+        "If you’re viewing a muted conversation, you’ll see the second new way to unmute: the \"Muted\" label next to the subject line now behaves just like all other labels. Clicking on the \"X\" will remove the Muted label and unmute the conversation. ",
+        "Hopefully these changes will make it easier to mute and unmute conversations.\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 331,
+        "top": 1464,
+        "width": 660
+      },
+      "computed": {
+        "font-size": "12px",
+        "line-height": "19px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "post-footer"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<span class=\"labels-caption\">Labels:</span>\n<span class=\"labels\">\n<a class=\"label\" href=\"http://gmailblog.blogspot.com/search/label/Google%20Apps%20Blog\" rel=\"tag\">Google Apps Blog</a>,\n<a class=\"label\" href=\"http://gmailblog.blogspot.com/search/label/googlenew\" rel=\"tag\">googlenew</a>,\n<a class=\"label\" href=\"http://gmailblog.blogspot.com/search/label/labs\" rel=\"tag\">labs</a>\n</span>\n<span class=\"post-comment-link\">\n</span>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-footer"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Labels:",
+        "Google Apps Blog",
+        ",\n",
+        "googlenew",
+        ",\n",
+        "labs"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 331,
+        "top": 1495,
+        "width": 660
+      },
+      "computed": {
+        "font-weight": "bold",
+        "line-height": "26px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
+      "html": "Links to this post",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comments"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "backlinks-container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "Blog1_backlinks-container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
+      "text": [
+        "Links to this post"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 356,
+        "top": 1529,
+        "width": 610
+      },
+      "computed": {
+        "line-height": "18px",
+        "margin-bottom": "19px",
+        "margin-left": "25px",
+        "margin-right": "25px",
+        "margin-top": "6px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "comment-footer"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n<a class=\"comment-link\" href=\"http://www.blogger.com/blog-this.g\" id=\"Blog1_backlinks-create-link\" target=\"_blank\">Create a Link</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comments"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "backlinks-container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "Blog1_backlinks-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comment-footer"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Create a Link"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 331,
+        "top": 1590,
+        "width": 77
+      },
+      "computed": {
+        "float": "left",
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "blog-pager-newer-link",
+        "name": "span"
+      },
+      "html": "\n<a class=\"blog-pager-newer-link\" href=\"http://gmailblog.blogspot.com/2010/12/call-credits-for-military-families-this.html\" id=\"Blog1_blog-pager-newer-link\" title=\"Newer Post\">Newer Post</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "blog-pager-newer-link",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Newer Post"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 919,
+        "top": 1590,
+        "width": 72
+      },
+      "computed": {
+        "float": "right",
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "blog-pager-older-link",
+        "name": "span"
+      },
+      "html": "\n<a class=\"blog-pager-older-link\" href=\"http://gmailblog.blogspot.com/2010/11/new-in-labs-recently-used-emoji.html\" id=\"Blog1_blog-pager-older-link\" title=\"Older Post\">Older Post</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "blog-pager-older-link",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Older Post"
+      ]
+    },
+    {
+      "bound": {
+        "height": 31,
+        "left": 331,
+        "top": 1579,
+        "width": 660
+      },
+      "computed": {
+        "border-top-color": "rgb(235, 235, 235)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "line-height": "18px",
+        "margin-bottom": "13px",
+        "margin-top": "13px",
+        "min-height": "0px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-top": "10px",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [
+          "blog-pager"
+        ],
+        "id": "blog-pager",
+        "name": "div"
+      },
+      "html": "\n<span id=\"blog-pager-newer-link\" style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n<a class=\"blog-pager-newer-link\" href=\"http://gmailblog.blogspot.com/2010/12/call-credits-for-military-families-this.html\" id=\"Blog1_blog-pager-newer-link\" title=\"Newer Post\">Newer Post</a>\n</span>\n<span id=\"blog-pager-older-link\" style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n<a class=\"blog-pager-older-link\" href=\"http://gmailblog.blogspot.com/2010/11/new-in-labs-recently-used-emoji.html\" id=\"Blog1_blog-pager-older-link\" title=\"Older Post\">Older Post</a>\n</span>\n<a class=\"home-link\" href=\"http://gmailblog.blogspot.com/\">Home</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Home"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 1062,
+        "top": 272,
+        "width": 206
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "font-size": "16px",
+        "font-weight": "bold",
+        "line-height": "32px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Google+ Followers",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar-top",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "PlusFollowers",
+            "widget"
+          ],
+          "id": "PlusFollowers1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Google+ Followers"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1111,
+        "top": 365,
+        "width": 109
+      },
+      "computed": {
+        "border-bottom-style": "inset",
+        "border-left-style": "inset",
+        "border-right-style": "inset",
+        "border-top-style": "inset",
+        "display": "inline",
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [
+          "twitter-follow-button",
+          "twitter-follow-button"
+        ],
+        "id": "",
+        "name": "iframe"
+      },
+      "html": "\n\t\t      &lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&amp;quot;//platform.twitter.com/widgets.js&amp;quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&amp;quot;script&amp;quot;,&amp;quot;twitter-wjs&amp;quot;);&lt;/script&gt;\n\t\t    ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "iframe"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "followgooglewrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "twitter-follow-button",
+            "twitter-follow-button"
+          ],
+          "id": "",
+          "name": "iframe"
+        }
+      ],
+      "text": [
+        "\n\t\t      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);</script>\n\t\t    "
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 1062,
+        "top": 430,
+        "width": 74
+      },
+      "computed": {
+        "background-image": "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAYAAADzoH0MAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAE1JREFUeNpiNDY23s9AAWBioBCwYBM8c+YMVsUmJibEGYBNMS5DaeMFfDYSZQA2v9I3FrB5AZeriI4FmnrBccCT8mhmGs1MwyAzAQQYAKEWG9zm9QFEAAAAAElFTkSuQmCC)",
+        "background-position": "0px 50%",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(36, 93, 193)",
+        "border-left-color": "rgb(36, 93, 193)",
+        "border-right-color": "rgb(36, 93, 193)",
+        "border-top-color": "rgb(36, 93, 193)",
+        "color": "rgb(36, 93, 193)",
+        "display": "inline-block",
+        "font-family": "'open sans', arial, sans-serif",
+        "line-height": "26px",
+        "min-height": "0px",
+        "outline-color": "rgb(36, 93, 193)",
+        "padding-bottom": "0px",
+        "text-indent": "30px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Archive",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "BlogArchive",
+            "widget"
+          ],
+          "id": "BlogArchive1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Archive"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 1062,
+        "top": 483,
+        "width": 206
+      },
+      "computed": {
+        "background-image": "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAX5JREFUeNqsVDGSgkAQHL2rIiIikohIc/EBRkbwAIwuwgfwAXiAD9AHSI7kEkECRCb6AIyINDLx7K0aa6kT7uq0q7YYtnZ7umdnt7darXbr9Zpegeu61DNNc0dvwCcH4/GYJpMJnc9nOhwOVJbl/4hAAokMECZJQtvt9k+kH7qufyEYDAakqqqYxFdRFBqNRmTbNg2HQ0rTlK7XayvR0xqBdDqdkuM4dE/0ULhYLOh4PHYrknG5XGi/31MYhuL/nkwonM1mlGUZ1XXdrsiyLGEDhY7juJEZ1u5tIixDGdYhmYw+B7CAzPP5nDabjdgIAgCksMX1832/3drtdqPT6SQWapomiGEFNkDEdpDMMAzK81ys/7XYy+XyoQgq2WoURSIJ2iIIgp/WZCCTvFm2wgeAU31aI3Q2GhIDMeB53qPYPIcm5VrxXIOIOxsDMStjVawAc1VViRgN22lNBiuQN3GR+SY07hpOoStmFQAKXRRFY93bnpG+fONfedi+BRgAbkS8Fxp7QQIAAAAASUVORK5CYII=)",
+        "background-position": "0px 50%",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(36, 93, 193)",
+        "border-left-color": "rgb(36, 93, 193)",
+        "border-right-color": "rgb(36, 93, 193)",
+        "border-top-color": "rgb(36, 93, 193)",
+        "color": "rgb(36, 93, 193)",
+        "font-family": "'open sans', arial, sans-serif",
+        "line-height": "26px",
+        "min-height": "0px",
+        "outline-color": "rgb(36, 93, 193)",
+        "padding-bottom": "0px",
+        "text-indent": "30px"
+      },
+      "element": {
+        "classes": [
+          "feed-title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Feed",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML6",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "feed-title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Feed"
+      ]
+    },
+    {
+      "bound": {
+        "height": 36,
+        "left": 1062,
+        "top": 539,
+        "width": 206
+      },
+      "computed": {
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\nGive us feedback in our <a href=\"http://productforums.google.com/forum/#!forum/gmail\">Product Forum</a>.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar-bottom",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\nGive us feedback in our ",
+        "Product Forum",
+        ".\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 1068,
+        "top": 616,
+        "width": 194
+      },
+      "computed": {
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "14px",
+        "font-weight": "bold",
+        "line-height": "20px",
+        "margin-bottom": "8px",
+        "margin-top": "2px",
+        "min-height": "0px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "div"
+      },
+      "html": "Get posts via email",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar-bottom",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML7",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Get posts via email"
+      ]
+    },
+    {
+      "bound": {
+        "height": 101,
+        "left": 1068,
+        "top": 645,
+        "width": 194
+      },
+      "computed": {
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "form"
+      },
+      "html": "\nEmail: <input type=\"text\" name=\"email\" size=\"19\"><br><br>\n <input type=\"submit\" name=\"sub\" value=\"Subscribe\"><br><br>\n<span style=\"font-size:.9em;\">Powered by <a href=\"http://groups.google.com/group/gmail-blog-posts\">Google Groups</a><span>\n</span></span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "form"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar-bottom",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML7",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "form"
+        }
+      ],
+      "text": [
+        "\nEmail: ",
+        "Powered by ",
+        "Google Groups"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 1062,
+        "top": 785,
+        "width": 206
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "font-size": "16px",
+        "font-weight": "bold",
+        "line-height": "32px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Useful Links",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar-bottom",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML8",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Useful Links"
+      ]
+    },
+    {
+      "bound": {
+        "height": 54,
+        "left": 1062,
+        "top": 819,
+        "width": 206
+      },
+      "computed": {
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<a onclick=\"_gaq.push(['_trackEvent','Gmail Blog','Useful Links','About Gmail']);\" href=\"https://mail.google.com/mail/help/intl/en/about.html\">About Gmail</a><br><a onclick=\"_gaq.push(['_trackEvent','Gmail Blog','Useful Links','Gmail for Mobile']);\" href=\"http://www.google.com/mobile/gmail/\">Gmail for Mobile</a><br><a onclick=\"_gaq.push(['_trackEvent','Gmail Blog','Useful Links','Gmail for Work']);\" href=\"http://www.google.com/enterprise/apps/business/?utm_medium=et&amp;utm_source=consgmailblog&amp;utm_campaign=en\n/\">Gmail for Work</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar-bottom",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML8",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "About Gmail",
+        "Gmail for Mobile",
+        "Gmail for Work"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 331,
+        "top": 1713,
+        "width": 191
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "line-height": "26px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Company-wide",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Company-wide"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 331,
+        "top": 1751,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googleblog.blogspot.com/\" title=\"Google\">Official Google Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Official Google Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 331,
+        "top": 1779,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googlepublicpolicy.blogspot.com/\" title=\"Public Policy\">Public Policy Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Public Policy Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 331,
+        "top": 1807,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googleforstudents.blogspot.com/\" title=\"Student\">Student Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Student Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 562,
+        "top": 1713,
+        "width": 191
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "line-height": "26px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Products",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Products"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 562,
+        "top": 1751,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googleenterprise.blogspot.com/\" title=\"Enterprise\">Official Google Enterprise Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Official Google Enterprise Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 562,
+        "top": 1779,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//chrome.blogspot.com/\" title=\"Chrome\">Chrome Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Chrome Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 562,
+        "top": 1807,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//officialandroid.blogspot.com/\" title=\"Android\">Official Android Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Official Android Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 793,
+        "top": 1713,
+        "width": 191
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "line-height": "26px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Developers",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML4",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Developers"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 793,
+        "top": 1751,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googleadsdeveloper.blogspot.com/\" title=\"Ads Developer\">Ads Developer Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML4",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Ads Developer Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 793,
+        "top": 1779,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//android-developers.blogspot.com/\" title=\"Android\">Android Developers Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML4",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Android Developers Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 793,
+        "top": 1807,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googledevelopers.blogspot.com/\" title=\"Developers\">Developers Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML4",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Developers Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 311,
+        "top": 1881,
+        "width": 978
+      },
+      "computed": {
+        "font-size": "11px",
+        "line-height": "24px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "ul"
+      },
+      "html": "\n<li><a href=\"//www.google.com/\">Google</a></li>\n<li><a href=\"//www.google.com/intl/en/policies/\">Privacy &amp; Terms</a></li>\n",
+      "path": [
+        "div",
+        "div",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "google-footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "google-footer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        "Google",
+        "Privacy & Terms"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 79,
+        "left": 331,
+        "top": 30,
+        "width": 126
+      },
+      "computed": {
+        "border-right-color": "rgb(221, 221, 221)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "float": "left",
+        "line-height": "18px",
+        "margin-right": "15px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "padding-right": "15px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "header-logo1"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "header-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Header",
+            "widget"
+          ],
+          "id": "Header1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-left"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-logo1"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://3.bp.blogspot.com/-ZImNJJqMMlo/UbD1siv_adI/AAAAAAAAMgc/Ce0tL_rj-IU/s1600/gmail_icon_166x120.png"
+    },
+    {
+      "bound": {
+        "height": 135,
+        "left": 406,
+        "top": 569,
+        "width": 512
+      },
+      "computed": {
+        "border-bottom-color": "rgb(36, 93, 193)",
+        "border-left-color": "rgb(36, 93, 193)",
+        "border-right-color": "rgb(36, 93, 193)",
+        "border-top-color": "rgb(36, 93, 193)",
+        "color": "rgb(36, 93, 193)",
+        "cursor": "pointer",
+        "line-height": "20px",
+        "margin-bottom": "10px",
+        "min-height": "0px",
+        "outline-color": "rgb(36, 93, 193)",
+        "padding-bottom": "0px",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "BLOGGER_PHOTO_ID_5545539686350753474",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "BLOGGER_PHOTO_ID_5545539686350753474",
+          "name": "img"
+        }
+      ],
+      "src": "http://2.bp.blogspot.com/_JE4qNpFW6Yk/TPW29pTEjsI/AAAAAAAAAwY/aWd8uIvu6Ns/smartmute1.png"
+    },
+    {
+      "bound": {
+        "height": 185,
+        "left": 406,
+        "top": 954,
+        "width": 512
+      },
+      "computed": {
+        "border-bottom-color": "rgb(36, 93, 193)",
+        "border-left-color": "rgb(36, 93, 193)",
+        "border-right-color": "rgb(36, 93, 193)",
+        "border-top-color": "rgb(36, 93, 193)",
+        "color": "rgb(36, 93, 193)",
+        "cursor": "pointer",
+        "line-height": "20px",
+        "margin-bottom": "10px",
+        "min-height": "0px",
+        "outline-color": "rgb(36, 93, 193)",
+        "padding-bottom": "0px",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "BLOGGER_PHOTO_ID_5545539803956603026",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "BLOGGER_PHOTO_ID_5545539803956603026",
+          "name": "img"
+        }
+      ],
+      "src": "http://4.bp.blogspot.com/_JE4qNpFW6Yk/TPW3EfafaJI/AAAAAAAAAwg/bUMGTOix7FU/smartmute2.png"
+    },
+    {
+      "bound": {
+        "height": 159,
+        "left": 452,
+        "top": 1229,
+        "width": 420
+      },
+      "computed": {
+        "border-bottom-color": "rgb(36, 93, 193)",
+        "border-left-color": "rgb(36, 93, 193)",
+        "border-right-color": "rgb(36, 93, 193)",
+        "border-top-color": "rgb(36, 93, 193)",
+        "color": "rgb(36, 93, 193)",
+        "cursor": "pointer",
+        "line-height": "20px",
+        "margin-bottom": "10px",
+        "min-height": "0px",
+        "outline-color": "rgb(36, 93, 193)",
+        "padding-bottom": "0px",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "BLOGGER_PHOTO_ID_5545539990801518498",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "BLOGGER_PHOTO_ID_5545539990801518498",
+          "name": "img"
+        }
+      ],
+      "src": "http://3.bp.blogspot.com/_JE4qNpFW6Yk/TPW3PXdyj6I/AAAAAAAAAwo/tvpMkOBQQnI/smartmute3.png"
+    }
+  ]
+}

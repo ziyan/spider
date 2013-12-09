@@ -1,8 +1,3 @@
- Gaming, Home Entertainment, HD Set Tops
-OnLive Game System review
-By Sean Hollister  posted Dec 16th 2010 1:52PM
-Review
-
 
 We're still a little ways away from completely disposable laptops that do everything in the cloud, but if all you want is a completely virtual game console connected to your TV, you can buy one right now. Eight years after the Phantom slowly got laughed off the face of the planet, the OnLive MicroConsole fulfills the same basic promise: it's a box less than an inch tall that streams games from powerful remote servers. We already told you what to expect from the OnLive's Game System, but now that we've given it our all, we can help you find the answer to the only remaining question: is it worth your funds? 
 OnLive Game System unboxing and hands-on
@@ -64,17 +59,3 @@ Wrap-up
 
 The OnLive Game System isn't for everyone, particularly folks who are cheap -- you'll find practically the exact same experience for free on Mac or PC, and OnLive has told us it plans to eventually integrate the tech into TVs and set-top-boxes too. It's also probably not for your average gamer armed with an Xbox 360, PS3 or capable gaming PC, as they'll likely have played the titles available and they won't be able to easily bring their existing online buddies along for the ride. If, however, you're an early adopter with an eye for quality hardware, a killer internet connection and your head literally in the cloud, $99 is a fantastic price for a taste of the future. It comes with a free game, too.
 400
-
-Leave A Comment
-
-
-802.15.4, armada, Armada 1000, Armada1000, game streaming, game system, GameStreaming, GameSystem, gaming, Marvell, Marvell Armada, Marvell Armada 1000, MarvellArmada, MarvellArmada1000, OGS, OnLive, OnLive Game Service, OnLive Game System, onlive microconsole, OnliveGameService, OnliveGameSystem, OnliveMicroconsole, review, set top box, set-top box, set-top-box, Set-topBox, SetTopBox, stb, streaming games, StreamingGames, video
-
-
-Sony¡¯s Kaz Hirai talks up virtues of touch controls, weighs in on PlayStation phone7 days ago
-OnLive demos Windows 7 on an iPad and Galaxy Tab, launches cloud computing tablet app22 days ago
-OnLive ushers in the MicroConsole with all-you-can-eat game plan for $10 a month27 days ago
-From Our Partners
-Best Nintendo DS and DSi Games of 2010, From Alice to Ace17 hours ago
-TUAW¡¯s Daily App: Burn the Rope1 day ago
-Valve expresses interest in eye tracking, improving experience for able and disabled...3 days ago

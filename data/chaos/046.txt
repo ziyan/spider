@@ -1,10 +1,4 @@
-﻿APPLE V GOOGLE
-
-
-One is a gadget-maker, the other a search engine—but now they are at odds. Robert Lane Greene on a clash of cultures ...
-
-From INTELLIGENT LIFE Magazine, Winter 2010
-
+﻿
 When Apple opened a new store on Fifth Avenue in Manhattan in 2006 it received an unusual complaint. Not the usual New York variety—you’re blocking the view I paid good money for, or you’re gentrifying the neighbourhood I just discovered. No, this new flagship store was criticised by an Islamist website. The steel-and-glass cube, the zealots complained, was meant to invoke the obsidian cube at the Kaaba in Mecca, and insult Islam.
 
 The story was ridiculous—it was one extremist website (albeit a big one), and the clever fanatics running it had only seen the cube with a black tarp over it, while it was under construction. A number of New York Muslims stood up to say that they loved the new store. But it isn’t insane to call Apple’s stores Meccas. Beautiful inside and usually outside too, they are temples to devotees of Apple’s gorgeous products. Unlike most gadget-makers, Apple sells more than sleekly designed toys. It sells a way of life and a way of being. Call it Appleism.
@@ -32,6 +26,3 @@ Google, by contrast, has no Jobs, but a quirky triumvirate of Schmidt, the CEO, 
 Google, a herky-jerky place compared with Apple, tends to put something out there and see what happens. Gmail, its hugely successful e-mail system, was released to the world in beta (ie, testing) mode and stayed that way for years. Google Wave, a wildly complex e-mail, messaging and collaboration tool, was taken up by few. Google Buzz, a social-networking site, was a privacy disaster because it made users’ frequent contacts publicly available. Such is the product cycle of a place that encourages staff to spend one day a week on personal projects, and glorifies the hacking, see-what-happens approach of the nerd over the exquisite work of the designer.
 
 As different as they have become, Google and Apple sprang from the same soil: California’s Silicon Valley. Tales from both companies suggest that many of the engineers and programmers at one could have worked at the other: Apple’s Mac-builders playing Nerf-ball tag in the offices in the early 1980s could have been Google’s founders building server racks from Lego in the late 1990s. The sheer number of companies created and destroyed in the Valley, perhaps the world’s most innovative place, encourages a “don’t tell me it’s never been tried” attitude that has driven both Apple and Google.
-
-12next ›last »Single Page
-Ideas  Issues and ideas  Techonology  winter 2010   Subscribe to Intelligent Life and get powerful writing, provocative opinions and memorable photography delivered to your door every quarter

@@ -1,0 +1,3563 @@
+{
+  "body": {
+    "bound": {
+      "height": 1585,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(255, 255, 255)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(51, 51, 51)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(51, 51, 51)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(51, 51, 51)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(51, 51, 51)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(51, 51, 51)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "'Times New Roman'",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "1585px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "normal",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(51, 51, 51)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "center",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [],
+  "titles": [
+    "Official Google Reader Blog: Spring Cleaning: Comments, offline, and older browser support"
+  ],
+  "url": "http://googlereader.blogspot.com/2010/05/spring-cleaning-comments-offline-and.html",
+  "links": [
+    "http://googlereader.blogspot.com/2010/05/spring-cleaning-comments-offline-and.html#main",
+    "http://googlereader.blogspot.com/2010/05/spring-cleaning-comments-offline-and.html#sidebar",
+    "http://googlereader.blogspot.com/",
+    "http://googlereader.blogspot.com/2010/05/spring-cleaning-comments-offline-and.html",
+    "http://www.erh.noaa.gov/cle/climate/info/seasons.html",
+    "http://googlereader.blogspot.com/2009/03/google-reader-is-your-new-watercooler.html",
+    "http://www.google.com/reader/view/#friends-manager-page",
+    "http://googledocs.blogspot.com/2010/01/web-browser-support-for-docs-and-sites.html",
+    "http://www.google.com/support/reader/bin/answer.py?answer=182666",
+    "http://googlereader.blogspot.com/2007/05/oh-sam-i-am-can-i-read-it-on-tram.html",
+    "http://gearsblog.blogspot.com/2010/02/hello-html5.html",
+    "http://www.newsgator.com/individuals/netnewswire/",
+    "http://www.newsgator.com/Individuals/FeedDemon/Default.aspx",
+    "http://liferea.sourceforge.net/",
+    "http://www.google.com/support/reader/bin/answer.py?answer=182658",
+    "http://inessential.com/2008/07/22/more_about_deleting_features",
+    "http://www.marco.org/595644480",
+    "http://blogs.adobe.com/jnack/2008/10/subtractive_sof.html",
+    "http://www.google.com/support/forum/p/reader",
+    "http://twitter.com/googlereader",
+    "http://googlereader.blogspot.com/2010/05/spring-cleaning-comments-offline-and.html",
+    "http://www.blogger.com/share-post.g?blogID=17412960&postID=2975972919810459381&target=email",
+    "http://www.blogger.com/share-post.g?blogID=17412960&postID=2975972919810459381&target=blog",
+    "http://www.blogger.com/share-post.g?blogID=17412960&postID=2975972919810459381&target=twitter",
+    "http://www.blogger.com/share-post.g?blogID=17412960&postID=2975972919810459381&target=facebook",
+    "http://googlereader.blogspot.com/2010/06/folder-and-tag-renaming.html",
+    "http://googlereader.blogspot.com/2010/05/little-bit-of-polish.html",
+    "http://googlereader.blogspot.com/",
+    "http://www.blogger.com/rearrange?blogID=17412960&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar",
+    "http://www.blogger.com/",
+    "http://www.blogger.com/rearrange?blogID=17412960&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=sidebar",
+    "http://www.google.com/privacy.html",
+    "http://www.google.com/terms_of_service.html",
+    "http://www.blogger.com/rearrange?blogID=17412960&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=footer"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 58,
+        "left": 425,
+        "top": 223,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(204, 102, 0)",
+        "border-left-color": "rgb(204, 102, 0)",
+        "border-right-color": "rgb(204, 102, 0)",
+        "border-top-color": "rgb(204, 102, 0)",
+        "color": "rgb(204, 102, 0)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "21px",
+        "line-height": "29px",
+        "outline-color": "rgb(204, 102, 0)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Spring Cleaning: Comments, offline, and older browser support",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-title"
+          ],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Spring Cleaning: Comments, offline, and older browser support"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 425,
+        "top": 283,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "outline-color": "rgb(102, 102, 102)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "date-header"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n5/24/2010 02:09:00 PM\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "date-header"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\n5/24/2010 02:09:00 PM\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 1105,
+        "left": 425,
+        "top": 283,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "post-body"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<div class=\"date-header\" style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n5/24/2010 02:09:00 PM\n</div>\nPosted by Mihai Parparita, Software Engineer\n\n<p>Springtime is a great opportunity to clean up, take care of loose ends, and generally spruce things up. Since we still have a few weeks of spring <a href=\"http://www.erh.noaa.gov/cle/climate/info/seasons.html\">left</a>, the Reader team is taking this opportunity to clean things up a bit.</p>\n\n<p><b>Simplifying comments</b></p>\n\n<p>Ever since we <a href=\"http://googlereader.blogspot.com/2009/03/google-reader-is-your-new-watercooler.html\">launched</a> support for comments on shared items, one of the most frequent points of confusion has been \"who can comment on my shared items?\" (or rather, \"why can't I comment on my friends' shared items?\"). Up until now, someone had to be in a designated sharing group to be able to comment on a post, even if you were sharing publicly. To make things a lot simpler, we've made it so that if you can see a shared item, you can comment on it.</p>\n\n<p>For those of you who are sharing publicly, the next time you log in to Reader you'll get a choice between continuing to share publicly and allowing anyone to comment on your shared items, or switching to protected sharing:</p>\n\n<p style=\"text-align: center\">\n<img src=\"http://4.bp.blogspot.com/_QriD2y6VZ-Y/S_qlWajx-MI/AAAAAAAAH_E/ZwOgnjpbT8o/s640/comments.png\" width=\"462\" height=\"250\" alt=\"Comments dialog\">\n</p>\n\n<p>Nothing will change for users who already had their shared items protected, since visibility and commenting for their shared items was already consistent. Keep in mind that you can always update who can view and comment on your shared items on the <a href=\"http://www.google.com/reader/view/#friends-manager-page\">sharing settings</a> page.</p>\n\n<p><b>Phasing out support for older browsers</b></p>\n\n<p>Reader is joining <a href=\"http://googledocs.blogspot.com/2010/01/web-browser-support-for-docs-and-sites.html\">Docs</a> (and many other sites) in removing support for older browsers, notably Internet Explorer 6, Firefox 1.0 and 2.0, Safari 2.0 and 3.0, and Chrome 1.0, 2.0. and 3.0. Reader is a cutting edge web application, and this will allow us to spend our time improving Reader instead of fixing issues with antiquated browsers. Starting on June 1, users of older browsers will begin to see a notification encouraging them to upgrade to any of Reader’s <a href=\"http://www.google.com/support/reader/bin/answer.py?answer=182666\">supported browsers</a>.</p>\n\n<p><b>Discontinuing offline access via Gears</b></p>\n\n<p>We launched <a href=\"http://googlereader.blogspot.com/2007/05/oh-sam-i-am-can-i-read-it-on-tram.html\">offline support</a> three years ago, but only a minority of Reader users actively use it today. Because supporting offline access requires a large ongoing engineering effort, and because Gears itself is being <a href=\"http://gearsblog.blogspot.com/2010/02/hello-html5.html\">surpassed by HTML5</a>, we've decided to remove offline support in Reader starting on June 1.</p>\n\n<p>Of course, we know that offline access is important to some of you, and with the wide range of third party clients that sync with Google Reader, you don’t need to give it up. Depending on your operating system, we recommend taking a look at:</p>\n\n<ul>\n<li><a href=\"http://www.newsgator.com/individuals/netnewswire/\">NetNewsWire</a> (Mac OS X)</li>\n<li><a href=\"http://www.newsgator.com/Individuals/FeedDemon/Default.aspx\">FeedDemon</a> (Windows)</li>\n<li><a href=\"http://liferea.sourceforge.net/\">Liferea</a> (Linux)</li>\n</ul>\n\n<p>Each of these alternatives will sync your subscriptions and read state with Reader, and continue to provide offline access to your feeds. For more information, please see our <a href=\"http://www.google.com/support/reader/bin/answer.py?answer=182658\">help center</a>.</p>\n\n<p>We realize that removing features and support <a href=\"http://inessential.com/2008/07/22/more_about_deleting_features\">is</a> <a href=\"http://www.marco.org/595644480\">not</a> <a href=\"http://blogs.adobe.com/jnack/2008/10/subtractive_sof.html\">easy</a>, but with this spring cleaning done, we've laid the groundwork for more Reader improvements down the line. We apologize for any inconvenience, and if you have any questions please head over to our <a href=\"http://www.google.com/support/forum/p/reader\">forum</a>, or message us on <a href=\"http://twitter.com/googlereader\">Twitter</a>.\n</p>\n<div style=\"clear: both;\"></div>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\nPosted by Mihai Parparita, Software Engineer\n\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 45,
+        "left": 426,
+        "top": 329,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Springtime is a great opportunity to clean up, take care of loose ends, and generally spruce things up. Since we still have a few weeks of spring <a href=\"http://www.erh.noaa.gov/cle/climate/info/seasons.html\">left</a>, the Reader team is taking this opportunity to clean things up a bit.",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Springtime is a great opportunity to clean up, take care of loose ends, and generally spruce things up. Since we still have a few weeks of spring ",
+        "left",
+        ", the Reader team is taking this opportunity to clean things up a bit."
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 426,
+        "top": 389,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<b>Simplifying comments</b>",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Simplifying comments"
+      ]
+    },
+    {
+      "bound": {
+        "height": 90,
+        "left": 426,
+        "top": 419,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Ever since we <a href=\"http://googlereader.blogspot.com/2009/03/google-reader-is-your-new-watercooler.html\">launched</a> support for comments on shared items, one of the most frequent points of confusion has been \"who can comment on my shared items?\" (or rather, \"why can't I comment on my friends' shared items?\"). Up until now, someone had to be in a designated sharing group to be able to comment on a post, even if you were sharing publicly. To make things a lot simpler, we've made it so that if you can see a shared item, you can comment on it.",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Ever since we ",
+        "launched",
+        " support for comments on shared items, one of the most frequent points of confusion has been \"who can comment on my shared items?\" (or rather, \"why can't I comment on my friends' shared items?\"). Up until now, someone had to be in a designated sharing group to be able to comment on a post, even if you were sharing publicly. To make things a lot simpler, we've made it so that if you can see a shared item, you can comment on it."
+      ]
+    },
+    {
+      "bound": {
+        "height": 45,
+        "left": 426,
+        "top": 524,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "For those of you who are sharing publicly, the next time you log in to Reader you'll get a choice between continuing to share publicly and allowing anyone to comment on your shared items, or switching to protected sharing:",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "For those of you who are sharing publicly, the next time you log in to Reader you'll get a choice between continuing to share publicly and allowing anyone to comment on your shared items, or switching to protected sharing:"
+      ]
+    },
+    {
+      "bound": {
+        "height": 60,
+        "left": 426,
+        "top": 858,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Nothing will change for users who already had their shared items protected, since visibility and commenting for their shared items was already consistent. Keep in mind that you can always update who can view and comment on your shared items on the <a href=\"http://www.google.com/reader/view/#friends-manager-page\">sharing settings</a> page.",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Nothing will change for users who already had their shared items protected, since visibility and commenting for their shared items was already consistent. Keep in mind that you can always update who can view and comment on your shared items on the ",
+        "sharing settings",
+        " page."
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 426,
+        "top": 933,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<b>Phasing out support for older browsers</b>",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Phasing out support for older browsers"
+      ]
+    },
+    {
+      "bound": {
+        "height": 90,
+        "left": 426,
+        "top": 963,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Reader is joining <a href=\"http://googledocs.blogspot.com/2010/01/web-browser-support-for-docs-and-sites.html\">Docs</a> (and many other sites) in removing support for older browsers, notably Internet Explorer 6, Firefox 1.0 and 2.0, Safari 2.0 and 3.0, and Chrome 1.0, 2.0. and 3.0. Reader is a cutting edge web application, and this will allow us to spend our time improving Reader instead of fixing issues with antiquated browsers. Starting on June 1, users of older browsers will begin to see a notification encouraging them to upgrade to any of Reader’s <a href=\"http://www.google.com/support/reader/bin/answer.py?answer=182666\">supported browsers</a>.",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Reader is joining ",
+        "Docs",
+        " (and many other sites) in removing support for older browsers, notably Internet Explorer 6, Firefox 1.0 and 2.0, Safari 2.0 and 3.0, and Chrome 1.0, 2.0. and 3.0. Reader is a cutting edge web application, and this will allow us to spend our time improving Reader instead of fixing issues with antiquated browsers. Starting on June 1, users of older browsers will begin to see a notification encouraging them to upgrade to any of Reader’s ",
+        "supported browsers",
+        "."
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 426,
+        "top": 1068,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<b>Discontinuing offline access via Gears</b>",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Discontinuing offline access via Gears"
+      ]
+    },
+    {
+      "bound": {
+        "height": 60,
+        "left": 426,
+        "top": 1098,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "We launched <a href=\"http://googlereader.blogspot.com/2007/05/oh-sam-i-am-can-i-read-it-on-tram.html\">offline support</a> three years ago, but only a minority of Reader users actively use it today. Because supporting offline access requires a large ongoing engineering effort, and because Gears itself is being <a href=\"http://gearsblog.blogspot.com/2010/02/hello-html5.html\">surpassed by HTML5</a>, we've decided to remove offline support in Reader starting on June 1.",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "We launched ",
+        "offline support",
+        " three years ago, but only a minority of Reader users actively use it today. Because supporting offline access requires a large ongoing engineering effort, and because Gears itself is being ",
+        "surpassed by HTML5",
+        ", we've decided to remove offline support in Reader starting on June 1."
+      ]
+    },
+    {
+      "bound": {
+        "height": 45,
+        "left": 426,
+        "top": 1173,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Of course, we know that offline access is important to some of you, and with the wide range of third party clients that sync with Google Reader, you don’t need to give it up. Depending on your operating system, we recommend taking a look at:",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Of course, we know that offline access is important to some of you, and with the wide range of third party clients that sync with Google Reader, you don’t need to give it up. Depending on your operating system, we recommend taking a look at:"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 466,
+        "top": 1233,
+        "width": 505
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.newsgator.com/individuals/netnewswire/\">NetNewsWire</a> (Mac OS X)",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "NetNewsWire",
+        " (Mac OS X)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 466,
+        "top": 1250,
+        "width": 503
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.newsgator.com/Individuals/FeedDemon/Default.aspx\">FeedDemon</a> (Windows)",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "FeedDemon",
+        " (Windows)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 466,
+        "top": 1267,
+        "width": 503
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://liferea.sourceforge.net/\">Liferea</a> (Linux)",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Liferea",
+        " (Linux)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 45,
+        "left": 426,
+        "top": 1297,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Each of these alternatives will sync your subscriptions and read state with Reader, and continue to provide offline access to your feeds. For more information, please see our <a href=\"http://www.google.com/support/reader/bin/answer.py?answer=182658\">help center</a>.",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Each of these alternatives will sync your subscriptions and read state with Reader, and continue to provide offline access to your feeds. For more information, please see our ",
+        "help center",
+        "."
+      ]
+    },
+    {
+      "bound": {
+        "height": 60,
+        "left": 426,
+        "top": 1357,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "We realize that removing features and support <a href=\"http://inessential.com/2008/07/22/more_about_deleting_features\">is</a> <a href=\"http://www.marco.org/595644480\">not</a> <a href=\"http://blogs.adobe.com/jnack/2008/10/subtractive_sof.html\">easy</a>, but with this spring cleaning done, we've laid the groundwork for more Reader improvements down the line. We apologize for any inconvenience, and if you have any questions please head over to our <a href=\"http://www.google.com/support/forum/p/reader\">forum</a>, or message us on <a href=\"http://twitter.com/googlereader\">Twitter</a>.\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "We realize that removing features and support ",
+        "is",
+        "not",
+        "easy",
+        ", but with this spring cleaning done, we've laid the groundwork for more Reader improvements down the line. We apologize for any inconvenience, and if you have any questions please head over to our ",
+        "forum",
+        ", or message us on ",
+        "Twitter",
+        ".\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 425,
+        "top": 1433,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "line-height": "18px",
+        "margin-bottom": "13px",
+        "margin-top": "13px",
+        "outline-color": "rgb(102, 102, 102)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "post-footer-line",
+          "post-footer-line-3"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n<a class=\"permalink\" href=\"http://googlereader.blogspot.com/2010/05/spring-cleaning-comments-offline-and.html\" title=\"permanent link\">Permalink</a>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-footer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-footer-line",
+            "post-footer-line-3"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Permalink"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 424,
+        "top": 1472,
+        "width": 20
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-top-color": "rgb(0, 0, 238)",
+        "color": "rgb(0, 0, 238)",
+        "font-family": "Arial, sans-serif",
+        "line-height": "18px",
+        "outline-color": "rgb(0, 0, 238)",
+        "text-align": "left",
+        "text-indent": "-9999px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "share-button-link-text"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Email This",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-footer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-share-buttons"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "goog-inline-block",
+            "sb-email",
+            "share-button"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "share-button-link-text"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Email This"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 443,
+        "top": 1472,
+        "width": 20
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-top-color": "rgb(0, 0, 238)",
+        "color": "rgb(0, 0, 238)",
+        "font-family": "Arial, sans-serif",
+        "line-height": "18px",
+        "outline-color": "rgb(0, 0, 238)",
+        "text-align": "left",
+        "text-indent": "-9999px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "share-button-link-text"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "BlogThis!",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-footer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-share-buttons"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "goog-inline-block",
+            "sb-blog",
+            "share-button"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "share-button-link-text"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "BlogThis!"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 462,
+        "top": 1472,
+        "width": 20
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-top-color": "rgb(0, 0, 238)",
+        "color": "rgb(0, 0, 238)",
+        "font-family": "Arial, sans-serif",
+        "line-height": "18px",
+        "outline-color": "rgb(0, 0, 238)",
+        "text-align": "left",
+        "text-indent": "-9999px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "share-button-link-text"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Share to Twitter",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-footer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-share-buttons"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "goog-inline-block",
+            "sb-twitter",
+            "share-button"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "share-button-link-text"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Share to Twitter"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 481,
+        "top": 1472,
+        "width": 20
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-top-color": "rgb(0, 0, 238)",
+        "color": "rgb(0, 0, 238)",
+        "font-family": "Arial, sans-serif",
+        "line-height": "18px",
+        "outline-color": "rgb(0, 0, 238)",
+        "text-align": "left",
+        "text-indent": "-9999px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "share-button-link-text"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Share to Facebook",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-footer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-share-buttons"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "goog-inline-block",
+            "sb-facebook",
+            "share-button"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "share-button-link-text"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Share to Facebook"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 425,
+        "top": 1545,
+        "width": 67
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "float": "left",
+        "font-family": "Arial, sans-serif",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "blog-pager-newer-link",
+        "name": "span"
+      },
+      "html": "\n<a class=\"blog-pager-newer-link\" href=\"http://googlereader.blogspot.com/2010/06/folder-and-tag-renaming.html\" id=\"Blog1_blog-pager-newer-link\" title=\"Newer Post\">Newer Post</a>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "blog-pager-newer-link",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Newer Post"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 908,
+        "top": 1545,
+        "width": 62
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "float": "right",
+        "font-family": "Arial, sans-serif",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "blog-pager-older-link",
+        "name": "span"
+      },
+      "html": "\n<a class=\"blog-pager-older-link\" href=\"http://googlereader.blogspot.com/2010/05/little-bit-of-polish.html\" id=\"Blog1_blog-pager-older-link\" title=\"Older Post\">Older Post</a>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "blog-pager-older-link",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Older Post"
+      ]
+    },
+    {
+      "bound": {
+        "height": 17,
+        "left": 425,
+        "top": 1545,
+        "width": 545
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-bottom": "13px",
+        "margin-top": "13px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "blog-pager"
+        ],
+        "id": "blog-pager",
+        "name": "div"
+      },
+      "html": "\n<span id=\"blog-pager-newer-link\" style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n<a class=\"blog-pager-newer-link\" href=\"http://googlereader.blogspot.com/2010/06/folder-and-tag-renaming.html\" id=\"Blog1_blog-pager-newer-link\" title=\"Newer Post\">Newer Post</a>\n</span>\n<span id=\"blog-pager-older-link\" style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n<a class=\"blog-pager-older-link\" href=\"http://googlereader.blogspot.com/2010/05/little-bit-of-polish.html\" id=\"Blog1_blog-pager-older-link\" title=\"Older Post\">Older Post</a>\n</span>\n<a class=\"home-link\" href=\"http://googlereader.blogspot.com/\">Home</a>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Home"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 980,
+        "top": 256,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "margin-top": "14px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "2px",
+        "padding-top": "7px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Archives",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "BlogArchive",
+            "widget"
+          ],
+          "id": "BlogArchive1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Archives"
+      ]
+    },
+    {
+      "bound": {
+        "height": 114,
+        "left": 980,
+        "top": 315,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "outline-color": "rgb(102, 102, 102)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<br><br>This blog is powered by Blogger. <a href=\"http://www.blogger.com/\">Start your own weblog</a>.<br><br>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "This blog is powered by Blogger. ",
+        "Start your own weblog",
+        "."
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 420,
+        "top": 1597,
+        "width": 760
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\nCopyright © 2008 Google Inc. All rights reserved.<br>\n   <a href=\"http://www.google.com/privacy.html\">Privacy Policy</a> | \n\t      <a href=\"http://www.google.com/terms_of_service.html\">Terms of Service</a>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\nCopyright © 2008 Google Inc. All rights reserved.",
+        "Privacy Policy",
+        " | \n\t      ",
+        "Terms of Service"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 134,
+        "left": 420,
+        "top": 40,
+        "width": 770
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-top-color": "rgb(0, 0, 238)",
+        "color": "rgb(0, 0, 238)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "outline-color": "rgb(0, 0, 238)",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://1.bp.blogspot.com/_QriD2y6VZ-Y/R44nkhtCsEI/AAAAAAAAAOY/nEL02VAs_XQ/s1600/reader-masthead.png"
+    },
+    {
+      "bound": {
+        "height": 258,
+        "left": 464,
+        "top": 584,
+        "width": 470
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "padding-bottom": "4px",
+        "padding-left": "4px",
+        "padding-right": "4px",
+        "padding-top": "4px",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://4.bp.blogspot.com/_QriD2y6VZ-Y/S_qlWajx-MI/AAAAAAAAH_E/ZwOgnjpbT8o/s640/comments.png"
+    }
+  ]
+}

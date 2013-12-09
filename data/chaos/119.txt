@@ -1,5 +1,4 @@
-﻿CLUSTERING THE TAGGED WEB (POSTED BY DANIEL RAMAGE)
-I'm looking forward to presenting Clustering the Tagged Web (mirror) at WSDM 2009. The paper is joint work with Paul Heymann, Hector Garcia-Molina, and Christopher D. Manning. We examine how and when social web bookmarks like those found on del.icio.us can be used to improve unsupervised flat clustering algorithms on a web corpus. The one-line summary is that tags should be incorporated as a parallel information channel to page text and to anchor text to gain maximum benefit on broad clustering tasks.
+﻿I'm looking forward to presenting Clustering the Tagged Web (mirror) at WSDM 2009. The paper is joint work with Paul Heymann, Hector Garcia-Molina, and Christopher D. Manning. We examine how and when social web bookmarks like those found on del.icio.us can be used to improve unsupervised flat clustering algorithms on a web corpus. The one-line summary is that tags should be incorporated as a parallel information channel to page text and to anchor text to gain maximum benefit on broad clustering tasks.
 
 A social web bookmark is like a regular web bookmark of a URL by some web user, except that the social web bookmark is posted to a centralized web site with a set of associated tags. A tag is (usually) a single-word annotation that describes the URL being bookmarked. Earlier this year, del.icio.us, a popular social bookmarking site, had a page up that defined a tag as:
 "A tag is simply a word you use to describe a bookmark. Unlike folders, you make up tags when you need them and you can use as many as you like. The result is a better way to organize your bookmarks and a great way to discover interesting things on the Web." -- del.icio.us
@@ -21,17 +20,3 @@ Anchor text - the text surrounding links to a target web page - is another kind 
 
 If you're trying to infer a relatively small number of clusters in a very diverse set of documents, it makes sense to utilize page text and tags jointly as described above. But if you're looking to cluster a set of pages that are already a specific subset (like pages about Programming Languages), tags often directly encode a sort of cluster membership (like "java" and "python"). So when tags are at the same level of specificity as the clusters you're trying to infer and you have enough tags to avoid sparsity issues, you might do better clustering on tags alone, ignoring page text.
 We invite you to read the paper and I hope to see some of you in Barcelona!
-Labels: clustering, daniel, ramage, socialbookmarking, tagging, wsdm
-
-2 COMMENTS
- BOB CARPENTER | DECEMBER 8, 2008 10:00 AM |
-What you're calling "MM-LDA" is what Newman, Chemudugunta and Smyth in their KDD '06 paper "Statistical Entity-Topic Models" called "CI-LDA". The "CI" was for "conditionally independent", because the two views (tags and words here; entities and words in their paper) are being generated independently given the document's topic distribution.
-
-They found the CI-LDA model tended to focus some of the K topics on entities and some on words, then went on to develop several more latent topic models to account for the correlations. They also cite a bunch of previous work on related author-topic models. 
-
-There's also a bunch of somewhat related work on co-clustering (or bi-clustering) in two dimensions simultaneously, which is popular in genomic microarray analysis. It's aimed at clustering rows and columns of a co-occurrence matrix to get a single clustering to explain both.
-
-Part of our NIH SBIR involves using similar latent topic models to deal with text along with gene mentions (entities) plus MeSH terms (tags) to cluster query-specific subsets of MEDLINE. I'll be adding some more collapsed Gibbs samplers to LingPipe over the next nine months to deal with a range of these entity-topic-tag models.
-
- DRAMAGE | DECEMBER 30, 2008 3:16 PM |
-Thanks for the reference to Newman et al. Indeed, that work and this one trace their lineage to Blei and Jordan's SIGIR '03 paper "Modeling annotated data," which extends LDA with the same trick of generating more than one set of observations from the per-document multinomial (in that case, the extra observations were image regions). I look forward to checking out the additions to LingPipe.

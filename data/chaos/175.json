@@ -1,0 +1,2808 @@
+{
+  "body": {
+    "bound": {
+      "height": 4001,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgba(0, 0, 0, 0)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(68, 68, 68)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(68, 68, 68)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(68, 68, 68)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(68, 68, 68)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(68, 68, 68)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "arial, sans-serif",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "4000px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "normal",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "100%",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(68, 68, 68)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "1px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "relative",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [],
+  "titles": [
+    "\nGoogle Chrome Blog: An update on Chrome, the Web Store and Chrome OS\n",
+    "An update on Chrome, the Web Store and Chrome OS",
+    "An update on Chrome, the Web Store and Chrome OS"
+  ],
+  "url": "http://chrome.blogspot.com/2010/12/update-on-chrome-web-store-and-chrome.html",
+  "links": [
+    "http://chrome.blogspot.com/",
+    "http://chrome.blogspot.com/",
+    "http://chrome.blogspot.com/2010/12/update-on-chrome-web-store-and-chrome.html",
+    "http://blog.chromium.org/2010/12/new-crankshaft-for-v8.html",
+    "http://www.chromium.org/getting-involved/dev-channel",
+    "https://chrome.google.com/webstore",
+    "http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html",
+    "http://www.google.com/chromeos",
+    "http://chrome.blogspot.com/search/label/chrome%20os",
+    "http://chrome.blogspot.com/2010/12/keep-calm-and-carry-on-chrome-notebook.html",
+    "http://chrome.blogspot.com/2010/11/curious-guide-to-browsers-and-web.html",
+    "http://chrome.blogspot.com/",
+    "http://www.blogger.com/rearrange?blogID=2250394496987063687&widgetType=CustomSearch&widgetId=CustomSearch1&action=editWidget&sectionId=sidebar-top",
+    "http://www.blogger.com/rearrange?blogID=2250394496987063687&widgetType=HTML&widgetId=HTML7&action=editWidget&sectionId=sidebar-top",
+    "http://chrome.blogspot.com/search?updated-min=2013-01-01T00:00:00-05:00&updated-max=2014-01-01T00:00:00-05:00&max-results=50",
+    "http://chrome.blogspot.com/2013_12_01_archive.html",
+    "http://chrome.blogspot.com/2013_11_01_archive.html",
+    "http://chrome.blogspot.com/2013_10_01_archive.html",
+    "http://chrome.blogspot.com/2013_09_01_archive.html",
+    "http://chrome.blogspot.com/2013_08_01_archive.html",
+    "http://chrome.blogspot.com/2013_07_01_archive.html",
+    "http://chrome.blogspot.com/2013_06_01_archive.html",
+    "http://chrome.blogspot.com/2013_05_01_archive.html",
+    "http://chrome.blogspot.com/2013_04_01_archive.html",
+    "http://chrome.blogspot.com/2013_03_01_archive.html",
+    "http://chrome.blogspot.com/2013_02_01_archive.html",
+    "http://chrome.blogspot.com/2013_01_01_archive.html",
+    "http://chrome.blogspot.com/search?updated-min=2012-01-01T00:00:00-05:00&updated-max=2013-01-01T00:00:00-05:00&max-results=50",
+    "http://chrome.blogspot.com/2012_12_01_archive.html",
+    "http://chrome.blogspot.com/2012_11_01_archive.html",
+    "http://chrome.blogspot.com/2012_10_01_archive.html",
+    "http://chrome.blogspot.com/2012_09_01_archive.html",
+    "http://chrome.blogspot.com/2012_08_01_archive.html",
+    "http://chrome.blogspot.com/2012_07_01_archive.html",
+    "http://chrome.blogspot.com/2012_06_01_archive.html",
+    "http://chrome.blogspot.com/2012_05_01_archive.html",
+    "http://chrome.blogspot.com/2012_04_01_archive.html",
+    "http://chrome.blogspot.com/2012_03_01_archive.html",
+    "http://chrome.blogspot.com/2012_02_01_archive.html",
+    "http://chrome.blogspot.com/2012_01_01_archive.html",
+    "http://chrome.blogspot.com/search?updated-min=2011-01-01T00:00:00-05:00&updated-max=2012-01-01T00:00:00-05:00&max-results=44",
+    "http://chrome.blogspot.com/2011_12_01_archive.html",
+    "http://chrome.blogspot.com/2011_11_01_archive.html",
+    "http://chrome.blogspot.com/2011_10_01_archive.html",
+    "http://chrome.blogspot.com/2011_09_01_archive.html",
+    "http://chrome.blogspot.com/2011_08_01_archive.html",
+    "http://chrome.blogspot.com/2011_07_01_archive.html",
+    "http://chrome.blogspot.com/2011_06_01_archive.html",
+    "http://chrome.blogspot.com/2011_05_01_archive.html",
+    "http://chrome.blogspot.com/2011_04_01_archive.html",
+    "http://chrome.blogspot.com/2011_03_01_archive.html",
+    "http://chrome.blogspot.com/2011_02_01_archive.html",
+    "http://chrome.blogspot.com/2011_01_01_archive.html",
+    "http://chrome.blogspot.com/search?updated-min=2010-01-01T00:00:00-05:00&updated-max=2011-01-01T00:00:00-05:00&max-results=46",
+    "http://chrome.blogspot.com/2010_12_01_archive.html",
+    "http://chrome.blogspot.com/2010/12/appy-holidays-from-chrome-web-store.html",
+    "http://chrome.blogspot.com/2010/12/60-million-tabs-towards-good-causes.html",
+    "http://chrome.blogspot.com/2010/12/guest-post-from-demo-lab-help-us-test.html",
+    "http://chrome.blogspot.com/2010/12/safer-plug-ins-faster-search-and-richer.html",
+    "http://chrome.blogspot.com/2010/12/browse-for-good-cause.html",
+    "http://chrome.blogspot.com/2010/12/chrome-is-ready-for-business.html",
+    "http://chrome.blogspot.com/2010/12/how-to-upgrade-your-browser-and-50.html",
+    "http://chrome.blogspot.com/2010/12/x-g-chrom-3.html",
+    "http://chrome.blogspot.com/2010/12/keep-calm-and-carry-on-chrome-notebook.html",
+    "http://chrome.blogspot.com/2010/12/update-on-chrome-web-store-and-chrome.html",
+    "http://chrome.blogspot.com/2010_11_01_archive.html",
+    "http://chrome.blogspot.com/2010_10_01_archive.html",
+    "http://chrome.blogspot.com/2010_09_01_archive.html",
+    "http://chrome.blogspot.com/2010_08_01_archive.html",
+    "http://chrome.blogspot.com/2010_07_01_archive.html",
+    "http://chrome.blogspot.com/2010_06_01_archive.html",
+    "http://chrome.blogspot.com/2010_05_01_archive.html",
+    "http://chrome.blogspot.com/2010_04_01_archive.html",
+    "http://chrome.blogspot.com/2010_03_01_archive.html",
+    "http://chrome.blogspot.com/2010_02_01_archive.html",
+    "http://chrome.blogspot.com/2010_01_01_archive.html",
+    "http://chrome.blogspot.com/search?updated-min=2009-01-01T00:00:00-05:00&updated-max=2010-01-01T00:00:00-05:00&max-results=42",
+    "http://chrome.blogspot.com/2009_12_01_archive.html",
+    "http://chrome.blogspot.com/2009_11_01_archive.html",
+    "http://chrome.blogspot.com/2009_10_01_archive.html",
+    "http://chrome.blogspot.com/2009_09_01_archive.html",
+    "http://chrome.blogspot.com/2009_08_01_archive.html",
+    "http://chrome.blogspot.com/2009_07_01_archive.html",
+    "http://chrome.blogspot.com/2009_06_01_archive.html",
+    "http://chrome.blogspot.com/2009_05_01_archive.html",
+    "http://chrome.blogspot.com/2009_04_01_archive.html",
+    "http://chrome.blogspot.com/2009_03_01_archive.html",
+    "http://www.blogger.com/rearrange?blogID=2250394496987063687&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar",
+    "http://chrome.blogspot.com/search/label/3d",
+    "http://chrome.blogspot.com/search/label/accessibility",
+    "http://chrome.blogspot.com/search/label/apps",
+    "http://chrome.blogspot.com/search/label/chrome",
+    "http://chrome.blogspot.com/search/label/chrome%20for%20a%20cause",
+    "http://chrome.blogspot.com/search/label/chrome%20notebook",
+    "http://chrome.blogspot.com/search/label/chrome%20os",
+    "http://chrome.blogspot.com/search/label/chrome%20web%20store",
+    "http://chrome.blogspot.com/search/label/chromebook",
+    "http://chrome.blogspot.com/search/label/college%20basketball",
+    "http://chrome.blogspot.com/search/label/cr-48",
+    "http://chrome.blogspot.com/search/label/demo%20lab",
+    "http://chrome.blogspot.com/search/label/demolab",
+    "http://chrome.blogspot.com/search/label/extensions",
+    "http://chrome.blogspot.com/search/label/google%20cloud%20print",
+    "http://chrome.blogspot.com/search/label/googlenew",
+    "http://chrome.blogspot.com/search/label/holidays",
+    "http://chrome.blogspot.com/search/label/instant",
+    "http://chrome.blogspot.com/search/label/lab%20tech",
+    "http://chrome.blogspot.com/search/label/mac",
+    "http://chrome.blogspot.com/search/label/web%20apps",
+    "http://chrome.blogspot.com/search/label/webgl",
+    "http://chrome.blogspot.com/search/label/webrtc",
+    "http://www.blogger.com/rearrange?blogID=2250394496987063687&widgetType=Label&widgetId=Label1&action=editWidget&sectionId=sidebar",
+    "http://chrome.blogspot.com/atom.xml",
+    "http://www.blogger.com/rearrange?blogID=2250394496987063687&widgetType=HTML&widgetId=HTML6&action=editWidget&sectionId=sidebar",
+    "http://www.blogger.com/rearrange?blogID=2250394496987063687&widgetType=HTML&widgetId=HTML5&action=editWidget&sectionId=sidebar-bottom",
+    "http://www.google.com/chrome/index.html?brand=CHNQ&utm_campaign=en&utm_source=en-et-chromeblog&utm_medium=et",
+    "https://www.google.com/intl/en/chrome/browser/mobile?brand=CHYE&utm_campaign=en&utm_source=en-et-chromeblog&utm_medium=et",
+    "http://blog.chromium.org/",
+    "http://www.chromium.org/",
+    "http://www.blogger.com/rearrange?blogID=2250394496987063687&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar-bottom",
+    "http://googleblog.blogspot.com/",
+    "http://googlepublicpolicy.blogspot.com/",
+    "http://googleforstudents.blogspot.com/",
+    "http://www.blogger.com/rearrange?blogID=2250394496987063687&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=footer-1",
+    "http://officialandroid.blogspot.com/",
+    "http://insidesearch.blogspot.com/",
+    "http://google-latlong.blogspot.com/",
+    "http://www.blogger.com/rearrange?blogID=2250394496987063687&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=footer-2",
+    "http://googledevelopers.blogspot.com/",
+    "http://blog.chromium.org/",
+    "http://android-developers.blogspot.com/",
+    "http://www.blogger.com/rearrange?blogID=2250394496987063687&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=footer-3",
+    "http://www.google.com/",
+    "http://www.google.com/intl/en/policies/"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 51,
+        "left": 331,
+        "top": 18,
+        "width": 490
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "font-size": "32px",
+        "font-weight": "300",
+        "line-height": "35px",
+        "margin-bottom": "20px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "padding-top": "16px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Google Chrome Blog",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "header-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Header",
+            "widget"
+          ],
+          "id": "Header1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-left"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-title"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Google Chrome Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 331,
+        "top": 91,
+        "width": 490
+      },
+      "computed": {
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "header-desc"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "The latest news from the Google Chrome team",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "header-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Header",
+            "widget"
+          ],
+          "id": "Header1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-left"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-desc"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "The latest news from the Google Chrome team"
+      ]
+    },
+    {
+      "bound": {
+        "height": 33,
+        "left": 331,
+        "top": 210,
+        "width": 660
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "font-size": "16px",
+        "font-weight": "bold",
+        "line-height": "32px",
+        "margin-bottom": "16px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "\n<a href=\"http://chrome.blogspot.com/2010/12/update-on-chrome-web-store-and-chrome.html\" itemprop=\"url\" title=\"An update on Chrome, the Web Store and Chrome OS\">\nAn update on Chrome, the Web Store and Chrome OS\n</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "\nAn update on Chrome, the Web Store and Chrome OS\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 331,
+        "top": 262,
+        "width": 183
+      },
+      "computed": {
+        "float": "left",
+        "font-size": "11px",
+        "font-weight": "bold",
+        "line-height": "40px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "published"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "<span class=\"caption\">Posted:</span>\n<span class=\"publishdate\" itemprop=\"datePublished\">Tuesday, December 7, 2010</span>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-header"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "published"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Posted:",
+        "Tuesday, December 7, 2010"
+      ]
+    },
+    {
+      "bound": {
+        "height": 846,
+        "left": 331,
+        "top": 328,
+        "width": 660
+      },
+      "computed": {
+        "line-height": "18px",
+        "margin-bottom": "25px",
+        "margin-top": "25px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "post-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\nOn the Chrome team, we’re constantly amazed by the speed of innovation on the web. We designed Chrome to make the web shine, and we hope our upcoming efforts will help support this vibrant ecosystem even more. By making the web faster, helping people discover great apps, and making computers more fun to use, the next year of computing should be even more exciting than the last one.<br><br><b>Chrome</b><br><br>This year, the number of people using Chrome has tripled from 40 to 120 million. Speed is what people love most about Chrome, and we’re always working to make the browser even faster. Therefore we’re bringing Google Instant to the Omnibox, showing search results and loading web pages as you type. We’ve also overhauled V8, Chrome’s JavaScript engine. It now runs complex JavaScript programs up to <a href=\"http://blog.chromium.org/2010/12/new-crankshaft-for-v8.html\" class=\"vt-p\">twice as fast</a> as before. These two features are available in our <a href=\"http://www.chromium.org/getting-involved/dev-channel\" class=\"vt-p\">early access channels</a> and will be rolling out to all users soon.<br><br><b>Chrome Web Store</b><br><br>Today the <a href=\"https://chrome.google.com/webstore\" class=\"vt-p\">Chrome Web Store</a> is open for business. Developers have already started uploading apps, and we expect the number to grow over time. Right now the store is only available in the U.S., but will expand to many countries and currencies early next year. The store will be featured prominently in Chrome, helping people discover great apps and developers reach millions of users around the world.<br><br><b>Chrome OS</b><br><br>Last year, we <a href=\"http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html\" class=\"vt-p\">announced</a> our effort to design an operating system that is built and optimized for the web. Many people already spend all their time in a web browser, and by building an operating system that is essentially a browser, we can make computers faster, much simpler and fundamentally more secure.<br><br>We’re not done yet, but Chrome OS is at the stage where we need feedback from real users. Some of the features of Chrome OS require new hardware, but we didn’t want to sell pre-beta computers. Instead we’re launching a pilot program where we will give test notebooks to qualified users, developers, schools and businesses. We're starting with the U.S. and will expand to other countries once we get the necessary certifications. To participate in the pilot program, visit the <a href=\"http://www.google.com/chromeos\" class=\"vt-p\">Chrome notebook website</a>.<br><br>The test notebooks exist only to test the software—they are black, have no branding, no logos, no stickers, nothing. They do have 12.1 inch screens, full-sized keyboards and touch pads, integrated 3G from Verizon, eight hours of battery life and eight days of standby time. Chrome notebooks are designed to reach the web instantly, are easy to share among friends and family, and simply by logging in, all of your apps, bookmarks and other browser settings are there. Setting up a new machine takes less than a minute. And even at this early stage, we feel there is no consumer or business operating system that is more secure.<br><br>In the first half of next year Chrome notebooks will be available for sale from Acer and Samsung. More manufacturers will follow. Also, Chrome OS is designed to work across a wide range of screen sizes and form factors, enabling our partners to deliver computing devices beyond notebooks.<br><br>We’re excited to get Chrome notebooks into the hands of users. The data from our test pilots is key to building something wonderful. We look forward to working together to make computers better.<br><br><span class=\"post-author\">Posted by Linus Upson, VP Engineering and Sundar Pichai, VP Product Management</span>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\nOn the Chrome team, we’re constantly amazed by the speed of innovation on the web. We designed Chrome to make the web shine, and we hope our upcoming efforts will help support this vibrant ecosystem even more. By making the web faster, helping people discover great apps, and making computers more fun to use, the next year of computing should be even more exciting than the last one.",
+        "Chrome",
+        "This year, the number of people using Chrome has tripled from 40 to 120 million. Speed is what people love most about Chrome, and we’re always working to make the browser even faster. Therefore we’re bringing Google Instant to the Omnibox, showing search results and loading web pages as you type. We’ve also overhauled V8, Chrome’s JavaScript engine. It now runs complex JavaScript programs up to ",
+        "twice as fast",
+        " as before. These two features are available in our ",
+        "early access channels",
+        " and will be rolling out to all users soon.",
+        "Chrome Web Store",
+        "Today the ",
+        "Chrome Web Store",
+        " is open for business. Developers have already started uploading apps, and we expect the number to grow over time. Right now the store is only available in the U.S., but will expand to many countries and currencies early next year. The store will be featured prominently in Chrome, helping people discover great apps and developers reach millions of users around the world.",
+        "Chrome OS",
+        "Last year, we ",
+        "announced",
+        " our effort to design an operating system that is built and optimized for the web. Many people already spend all their time in a web browser, and by building an operating system that is essentially a browser, we can make computers faster, much simpler and fundamentally more secure.",
+        "We’re not done yet, but Chrome OS is at the stage where we need feedback from real users. Some of the features of Chrome OS require new hardware, but we didn’t want to sell pre-beta computers. Instead we’re launching a pilot program where we will give test notebooks to qualified users, developers, schools and businesses. We're starting with the U.S. and will expand to other countries once we get the necessary certifications. To participate in the pilot program, visit the ",
+        "Chrome notebook website",
+        ".",
+        "The test notebooks exist only to test the software—they are black, have no branding, no logos, no stickers, nothing. They do have 12.1 inch screens, full-sized keyboards and touch pads, integrated 3G from Verizon, eight hours of battery life and eight days of standby time. Chrome notebooks are designed to reach the web instantly, are easy to share among friends and family, and simply by logging in, all of your apps, bookmarks and other browser settings are there. Setting up a new machine takes less than a minute. And even at this early stage, we feel there is no consumer or business operating system that is more secure.",
+        "In the first half of next year Chrome notebooks will be available for sale from Acer and Samsung. More manufacturers will follow. Also, Chrome OS is designed to work across a wide range of screen sizes and form factors, enabling our partners to deliver computing devices beyond notebooks.",
+        "We’re excited to get Chrome notebooks into the hands of users. The data from our test pilots is key to building something wonderful. We look forward to working together to make computers better.",
+        "Posted by Linus Upson, VP Engineering and Sundar Pichai, VP Product Management"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 331,
+        "top": 1201,
+        "width": 660
+      },
+      "computed": {
+        "font-size": "12px",
+        "line-height": "19px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "label-footer"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<span class=\"labels-caption\">Labels:</span>\n<span class=\"labels\">\n<a class=\"label\" href=\"http://chrome.blogspot.com/search/label/chrome%20os\" rel=\"tag\">chrome os</a>\n</span>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-footer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "label-footer"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Labels:",
+        "chrome os"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 331,
+        "top": 1263,
+        "width": 77
+      },
+      "computed": {
+        "float": "left",
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "blog-pager-newer-link",
+        "name": "span"
+      },
+      "html": "\n<a class=\"blog-pager-newer-link\" href=\"http://chrome.blogspot.com/2010/12/keep-calm-and-carry-on-chrome-notebook.html\" id=\"Blog1_blog-pager-newer-link\" title=\"Newer Post\">Newer Post</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "blog-pager-newer-link",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Newer Post"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 919,
+        "top": 1263,
+        "width": 72
+      },
+      "computed": {
+        "float": "right",
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "blog-pager-older-link",
+        "name": "span"
+      },
+      "html": "\n<a class=\"blog-pager-older-link\" href=\"http://chrome.blogspot.com/2010/11/curious-guide-to-browsers-and-web.html\" id=\"Blog1_blog-pager-older-link\" title=\"Older Post\">Older Post</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "blog-pager-older-link",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Older Post"
+      ]
+    },
+    {
+      "bound": {
+        "height": 31,
+        "left": 331,
+        "top": 1252,
+        "width": 660
+      },
+      "computed": {
+        "border-top-color": "rgb(235, 235, 235)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "line-height": "18px",
+        "margin-bottom": "13px",
+        "margin-top": "13px",
+        "min-height": "0px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-top": "10px",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [
+          "blog-pager"
+        ],
+        "id": "blog-pager",
+        "name": "div"
+      },
+      "html": "\n<span id=\"blog-pager-newer-link\" style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n<a class=\"blog-pager-newer-link\" href=\"http://chrome.blogspot.com/2010/12/keep-calm-and-carry-on-chrome-notebook.html\" id=\"Blog1_blog-pager-newer-link\" title=\"Newer Post\">Newer Post</a>\n</span>\n<span id=\"blog-pager-older-link\" style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n<a class=\"blog-pager-older-link\" href=\"http://chrome.blogspot.com/2010/11/curious-guide-to-browsers-and-web.html\" id=\"Blog1_blog-pager-older-link\" title=\"Older Post\">Older Post</a>\n</span>\n<a class=\"home-link\" href=\"http://chrome.blogspot.com/\">Home</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Home"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 1062,
+        "top": 286,
+        "width": 104
+      },
+      "computed": {
+        "background-image": "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAYAAADzoH0MAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAE1JREFUeNpiNDY23s9AAWBioBCwYBM8c+YMVsUmJibEGYBNMS5DaeMFfDYSZQA2v9I3FrB5AZeriI4FmnrBccCT8mhmGs1MwyAzAQQYAKEWG9zm9QFEAAAAAElFTkSuQmCC)",
+        "background-position": "0px 50%",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(36, 93, 193)",
+        "border-left-color": "rgb(36, 93, 193)",
+        "border-right-color": "rgb(36, 93, 193)",
+        "border-top-color": "rgb(36, 93, 193)",
+        "color": "rgb(36, 93, 193)",
+        "display": "inline-block",
+        "line-height": "26px",
+        "min-height": "0px",
+        "outline-color": "rgb(36, 93, 193)",
+        "padding-bottom": "0px",
+        "text-indent": "30px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Blog Archive",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "BlogArchive",
+            "widget"
+          ],
+          "id": "BlogArchive1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Blog Archive"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 1062,
+        "top": 339,
+        "width": 68
+      },
+      "computed": {
+        "background-image": "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUxJREFUeNpiNDY23s9AAMycOfM7UF05kHkZmzwTMkdSUhKrIcXFxZy3bt3qBjIN8RrS09PDsHnzZjCNDr58+cKQlpbGDjSoHcg1w2oIyAUODg5gARCNzUVIBrUCuVYYhjx//pzhwIEDYAEQDeJjA1CDWIAGNQK59jBxRuSABbkAlwHIgIeHh2HWrFn/1NTU2oDcvSgBS4wBSC5iArqoCsj1YGIgEyAZVMoEchqlBjEB/cZAiUHg2AEGznpKDAImxOeM////B4VLKtBvEUCngZ1ILKivr3/u6+ubBzJAGZQ9gC5aQoqLgAY8BhkAZL4BuQQkxgXE34A4BuiiZEIuAhrwEGhAEZD5DpzYoIaA2UAM4kQADUrHZRDUgAIg8wO2XAwzbQXQa5OweQ1owB10AyA6gS7BgX1u3ry5397eHow3bdo0EyjGi00tQIABANPgyAH1q1eaAAAAAElFTkSuQmCC)",
+        "background-position": "0px 50%",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(36, 93, 193)",
+        "border-left-color": "rgb(36, 93, 193)",
+        "border-right-color": "rgb(36, 93, 193)",
+        "border-top-color": "rgb(36, 93, 193)",
+        "color": "rgb(36, 93, 193)",
+        "display": "inline-block",
+        "line-height": "26px",
+        "min-height": "0px",
+        "outline-color": "rgb(36, 93, 193)",
+        "padding-bottom": "0px",
+        "text-indent": "30px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Labels",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Label",
+            "widget"
+          ],
+          "id": "Label1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Labels"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 1062,
+        "top": 392,
+        "width": 206
+      },
+      "computed": {
+        "background-image": "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAX5JREFUeNqsVDGSgkAQHL2rIiIikohIc/EBRkbwAIwuwgfwAXiAD9AHSI7kEkECRCb6AIyINDLx7K0aa6kT7uq0q7YYtnZ7umdnt7darXbr9Zpegeu61DNNc0dvwCcH4/GYJpMJnc9nOhwOVJbl/4hAAokMECZJQtvt9k+kH7qufyEYDAakqqqYxFdRFBqNRmTbNg2HQ0rTlK7XayvR0xqBdDqdkuM4dE/0ULhYLOh4PHYrknG5XGi/31MYhuL/nkwonM1mlGUZ1XXdrsiyLGEDhY7juJEZ1u5tIixDGdYhmYw+B7CAzPP5nDabjdgIAgCksMX1832/3drtdqPT6SQWapomiGEFNkDEdpDMMAzK81ys/7XYy+XyoQgq2WoURSIJ2iIIgp/WZCCTvFm2wgeAU31aI3Q2GhIDMeB53qPYPIcm5VrxXIOIOxsDMStjVawAc1VViRgN22lNBiuQN3GR+SY07hpOoStmFQAKXRRFY93bnpG+fONfedi+BRgAbkS8Fxp7QQIAAAAASUVORK5CYII=)",
+        "background-position": "0px 50%",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(36, 93, 193)",
+        "border-left-color": "rgb(36, 93, 193)",
+        "border-right-color": "rgb(36, 93, 193)",
+        "border-top-color": "rgb(36, 93, 193)",
+        "color": "rgb(36, 93, 193)",
+        "font-family": "'open sans', arial, sans-serif",
+        "line-height": "26px",
+        "min-height": "0px",
+        "outline-color": "rgb(36, 93, 193)",
+        "padding-bottom": "0px",
+        "text-indent": "30px"
+      },
+      "element": {
+        "classes": [
+          "feed-title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Feed",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML6",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "feed-title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Feed"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 1062,
+        "top": 528,
+        "width": 206
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "font-size": "16px",
+        "font-weight": "bold",
+        "line-height": "32px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "All things Google Chrome",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar-bottom",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "All things Google Chrome"
+      ]
+    },
+    {
+      "bound": {
+        "height": 72,
+        "left": 1062,
+        "top": 562,
+        "width": 206
+      },
+      "computed": {
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<a href=\"http://www.google.com/chrome/index.html?brand=CHNQ&amp;utm_campaign=en&amp;utm_source=en-et-chromeblog&amp;utm_medium=et\">Download Chrome</a><br>\n<a href=\"https://www.google.com/intl/en/chrome/browser/mobile?brand=CHYE&amp;utm_campaign=en&amp;utm_source=en-et-chromeblog&amp;utm_medium=et\">Download Chrome for Mobile</a><br>\n<a href=\"http://blog.chromium.org/\">Chromium Blog</a><br>\n<a href=\"http://www.chromium.org/\">Chromium homepage</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "cols-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "col-right"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar-bottom",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Download Chrome",
+        "Download Chrome for Mobile",
+        "Chromium Blog",
+        "Chromium homepage"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 331,
+        "top": 1386,
+        "width": 191
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "line-height": "26px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Company-wide",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Company-wide"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 331,
+        "top": 1424,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googleblog.blogspot.com/\" title=\"Official Google\">Official Google Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Official Google Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 331,
+        "top": 1452,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googlepublicpolicy.blogspot.com/\" title=\"Public Policy\">Public Policy Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Public Policy Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 331,
+        "top": 1480,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googleforstudents.blogspot.com/\" title=\"Student\">Student Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Student Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 562,
+        "top": 1386,
+        "width": 191
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "line-height": "26px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Products",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Products"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 562,
+        "top": 1424,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//officialandroid.blogspot.com/\" title=\"Android\">Android Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Android Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 562,
+        "top": 1452,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//insidesearch.blogspot.com/\" title=\"Inside Search\">Inside Search Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Inside Search Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 562,
+        "top": 1480,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//google-latlong.blogspot.com/\" title=\"Lat Long\">Lat Long Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Lat Long Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 793,
+        "top": 1386,
+        "width": 191
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "line-height": "26px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Developers",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML4",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Developers"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 793,
+        "top": 1424,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googledevelopers.blogspot.com/\" title=\"Developers\">Developers Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML4",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Developers Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 793,
+        "top": 1452,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"http://blog.chromium.org/\" title=\"Chromium\">Chromium Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML4",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Chromium Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 793,
+        "top": 1480,
+        "width": 191
+      },
+      "computed": {
+        "display": "list-item",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//android-developers.blogspot.com/\" title=\"Android\">Android Developers Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer-inner-2"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "footer-3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML4",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Android Developers Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 311,
+        "top": 1554,
+        "width": 978
+      },
+      "computed": {
+        "font-size": "11px",
+        "line-height": "24px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "ul"
+      },
+      "html": "\n<li><a href=\"//www.google.com/\">Google</a></li>\n<li><a href=\"//www.google.com/intl/en/policies/\">Privacy &amp; Terms</a></li>\n",
+      "path": [
+        "div",
+        "div",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "google-footer-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "google-footer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        "Google",
+        "Privacy & Terms"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 116,
+        "left": 331,
+        "top": 18,
+        "width": 131
+      },
+      "computed": {
+        "border-right-color": "rgb(221, 221, 221)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "float": "left",
+        "line-height": "18px",
+        "margin-right": "15px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "padding-right": "15px"
+      },
+      "element": {
+        "classes": [
+          "header-logo1"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "header-outer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Header",
+            "widget"
+          ],
+          "id": "Header1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-left"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "header-logo1"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "https://lh3.googleusercontent.com/-n-BbMOeuK08/Unz0Z00nFqI/AAAAAAAANog/BRjgByHTPr4/w115-h116-no/chrome-128.png"
+    }
+  ]
+}

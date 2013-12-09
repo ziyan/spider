@@ -1,6 +1,4 @@
-﻿16 December 2009
-From Kivenen/Warmuth and EG to CW learning and Adaptive Regularization
-This post is a bit of a historical retrospective, because it's only been recently that these things have aligned themselves in my head.
+﻿This post is a bit of a historical retrospective, because it's only been recently that these things have aligned themselves in my head.
 
 The all goes back to Jyrki Kivenen and Manfred Warmuth's paper on exponentiated gradient descent that dates back to STOC 1995. For those who haven't read this paper, or haven't read it recently, it's a great read (although it tends to repeat itself a lot). It's particularly interesting because they derive gradient descent and exponentiated gradient descent (GD and EG) as a consequence of other assumptions.
 
@@ -25,6 +23,3 @@ This finally bring us to NIPS this year, where Koby Crammer, Alex Kulesza and Ma
 All in all, this is a very interesting line of work. The reason I'm posting about it is because I think seeing the connections makes it easier to sort these different ideas into bins in my head, depending on what your loss is (squared versus hinge), what your classifier looks like (linear versus distribution over linear) and what your notion of "similar classifiers" is (Euclidean or KL).
 
 (Aside: Tong Zhang has a paper on regularized winnow methods, which fits in here somewhere, but not quite as cleanly.)
-Posted by hal at 12/16/2009 09:19:00 AM | 35 comments Links to this post  
-
-Labels: classification, machine learning, online learning

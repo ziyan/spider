@@ -1,7 +1,4 @@
-﻿Fixing Bad Astrophotography Using Mathematica 8 and Advanced Image Deconvolution
-December 27, 2010
-Tom Sherlock, User Interface Group
-Here is a shot I took of M27, the famous Dumbbell Nebula, with my home-brew 90mm astrograph and inexpensive equatorial mount.
+﻿Here is a shot I took of M27, the famous Dumbbell Nebula, with my home-brew 90mm astrograph and inexpensive equatorial mount.
 
 Actually, it isn’t a single shot, but a combination of about 30 fairly short exposures, added together. Adding together short subframes rather than taking a single longer exposure makes it possible to create astrophotos without additional equipment for “guiding” the telescope. Guiding means applying small corrections, either manually or automatically, during the exposure to compensate for imperfections in either the mount’s alignment away from the polar axis or the mount’s drive mechanism. Combining the subframes has the additional benefit of reducing noise and increasing the signal to produce a result similar to a much longer exposure.
 Before we go further, it’s fun to look up information about M27 using the new Wolfram|Alpha features built in to Mathematica 8.
@@ -47,21 +44,3 @@ The stars are smaller and more symmetric. The purple halos around the brighter s
 The Richardson–Lucy algorithm, dating from 1972, is a venerable and widely used image deconvolution algorithm. Mathematica 8 also includes newer algorithms, which can also be used in astronomical image processing. For example, the Steepest Descent algorithm [3] produces similar results to RL in fewer iterations, has less ringing, and brings out fainter details that reveal the bubble-like nature of the nebula:
 
 In conclusion, Richardson–Lucy, Steepest Descent, and other deconvolution algorithms in Mathematica 8 provide powerful tools for cleaning up and enhancing astronomical images. In future blog entries, I’ll show how other image processing techniques can be used to further enhance these images.
-
-Bibliography
-1. Richardson, W. H. “Bayesian-Based Iterative Method of Image Restoration.” Journal of the Optical Society of America 62, no. 1 (1972): 55-59.
-2. Lucy, L.B. “An Iterative Technique for the Rectification of Observed Distributions.” Astronomical Journal 79, no. 6 (1974): 745-754.
-3. Nagy, J.G. and Z. Strakos. “Enforcing Nonnegativity in Image Reconstruction Algorithms.” In Proceedings SPIE Mathematical Modeling, Estimation, and Imaging, 182-190, 2000.
-Permalink
-add this | del.icio.us | digg | reddit | slashdot
-Comments
-Really interesting, thanks for that. It would be nice to have a before and after shot next to each other to compare. Any possibility of adding this to the post?
-Many thanks,
-Jonathan
-Posted by JonathanDecember 27, 2010 at 4:52 pm
-Useful example of some of the new tools. It would be nice to have the original fits file so we could play with it and compare results.
-Posted by Mike BurnsDecember 27, 2010 at 9:31 pm
-very nice and interesting surprise
-Many thanks,
-Lukasz
-Posted by LukeDecember 28, 2010 at 3:11 am

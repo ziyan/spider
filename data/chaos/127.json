@@ -1,0 +1,3977 @@
+{
+  "body": {
+    "bound": {
+      "height": 1635,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(238, 238, 238)",
+      "background-image": "url(http://foursquare.wpengine.netdna-cdn.com/wp-content/themes/foursquare/images/bg.png)",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat-x",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(68, 68, 68)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(68, 68, 68)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(68, 68, 68)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(68, 68, 68)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(68, 68, 68)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "'Helvetica Neue', Arial, Helvetica, sans-serif",
+      "font-size": "14px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "1635px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "21px",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(68, 68, 68)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [
+    "We've been promising this all year and really hustled to get it out for the holidays. So, without further ado, our holiday gift to you: foursquare just became m"
+  ],
+  "titles": [
+    "Happy holidays to you: photos and comments are here!  | Foursquare Blog",
+    "Happy holidays to you: photos and comments are here! "
+  ],
+  "url": "http://blog.foursquare.com/2010/12/20/photos-and-comments/",
+  "links": [
+    "http://blog.foursquare.com/",
+    "http://blog.foursquare.com/2010/12/20/photos-and-comments/#content",
+    "http://foursquare.com/",
+    "http://engineering.foursquare.com/",
+    "http://support.foursquare.com/",
+    "http://foursquare.com/jobs",
+    "http://foursquare.com/contact",
+    "http://itunes.apple.com/us/app/foursquare/id306934924?mt=8",
+    "http://foursquare.com/",
+    "http://foursquare.com/history",
+    "http://foursquare.wpengine.netdna-cdn.com/wp-content/uploads/2010/12/ps_cs_highres1.jpg",
+    "http://support.apple.com/kb/HT3576",
+    "http://instagr.am/blog/",
+    "http://www.foodspotting.com/blog",
+    "http://blog.picplz.com/post/2385075869/available-now-foursquare-photo-check-in-support",
+    "http://picplz.com/iphone/",
+    "http://picplz.com/android/",
+    "http://twitter.com/#!/zhephree",
+    "http://developer.foursquare.com/",
+    "http://foursquare.com/history",
+    "http://blog.foursquare.com/category/foursquare/blog/",
+    "http://blog.foursquare.com/category/foursquare/",
+    "http://blog.foursquare.com/category/foursquare/iphone/",
+    "http://www.facebook.com/foursquare",
+    "http://www.flickr.com/photos/foursquare/",
+    "http://www.meetup.com/foursquare/",
+    "http://twitter.com/foursquare",
+    "http://www.youtube.com/foursquarehq",
+    "http://feeds.feedburner.com/thefoursquareblog",
+    "http://blog.foursquare.com/category/business/",
+    "http://blog.foursquare.com/category/business/partnerships/",
+    "http://blog.foursquare.com/category/business/specials/",
+    "http://blog.foursquare.com/category/community/",
+    "http://blog.foursquare.com/category/community/privacy/",
+    "http://blog.foursquare.com/category/community/support/",
+    "http://blog.foursquare.com/category/engineering/",
+    "http://blog.foursquare.com/category/foursquare/",
+    "http://blog.foursquare.com/category/foursquare/android/",
+    "http://blog.foursquare.com/category/foursquare/badges/",
+    "http://blog.foursquare.com/category/foursquare/blackberry/",
+    "http://blog.foursquare.com/category/foursquare/blog/",
+    "http://blog.foursquare.com/category/foursquare/events/",
+    "http://blog.foursquare.com/category/foursquare/iphone/",
+    "http://blog.foursquare.com/category/foursquare/product/",
+    "http://blog.foursquare.com/category/foursquare/random/",
+    "http://blog.foursquare.com/category/foursquare/symbian/"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 80,
+        "left": 370,
+        "top": 0,
+        "width": 225
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://foursquare.wpengine.netdna-cdn.com/wp-content/themes/foursquare/images/logo.png)",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(35, 152, 201)",
+        "border-left-color": "rgb(35, 152, 201)",
+        "border-right-color": "rgb(35, 152, 201)",
+        "border-top-color": "rgb(35, 152, 201)",
+        "color": "rgb(35, 152, 201)",
+        "font-family": "Helvetica, 'Helvetica Neue', Arial, sans-serif",
+        "font-size": "20px",
+        "font-weight": "bold",
+        "outline-color": "rgb(35, 152, 201)",
+        "position": "relative",
+        "text-indent": "-9999px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Foursquare Blog",
+      "path": [
+        "div",
+        "div",
+        "h1",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Foursquare Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 1152,
+        "top": 25,
+        "width": 64
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "-webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(167, 227, 0)), to(rgb(153, 209, 0)))",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(135, 184, 0)",
+        "border-bottom-left-radius": "5px",
+        "border-bottom-right-radius": "5px",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(135, 184, 0)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(135, 184, 0)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(135, 184, 0)",
+        "border-top-left-radius": "5px",
+        "border-top-right-radius": "5px",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "box-sizing": "border-box",
+        "color": "rgb(255, 255, 255)",
+        "cursor": "pointer",
+        "float": "left",
+        "font-family": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+        "font-size": "11px",
+        "font-weight": "bold",
+        "line-height": "28px",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "8px",
+        "padding-right": "8px",
+        "text-align": "center",
+        "text-shadow": "rgba(0, 0, 0, 0.0976562) 0px -1px 0px",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "button"
+      },
+      "html": "Search",
+      "path": [
+        "div",
+        "div",
+        "form",
+        "button"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "search",
+          "name": "form"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "button"
+        }
+      ],
+      "text": [
+        "Search"
+      ]
+    },
+    {
+      "bound": {
+        "height": 49,
+        "left": 693,
+        "top": 0,
+        "width": 317
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "list-style-type": "none",
+        "padding-top": "28px"
+      },
+      "element": {
+        "classes": [
+          "menu"
+        ],
+        "id": "menu-main-menu",
+        "name": "ul"
+      },
+      "html": "<li id=\"menu-item-1016230767\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1016230767\"><a href=\"http://foursquare.com\">Home</a></li>\n<li id=\"menu-item-1173913049\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1173913049\"><a href=\"http://engineering.foursquare.com/\">Eng Blog</a></li>\n<li id=\"menu-item-1016230768\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1016230768\"><a href=\"http://support.foursquare.com\">Support</a></li>\n<li id=\"menu-item-1016230769\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1016230769\"><a href=\"http://foursquare.com/jobs\">Jobs</a></li>\n<li id=\"menu-item-1016230770\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1016230770\"><a href=\"http://foursquare.com/contact\">Contact</a></li>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "menu",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "menu-main-menu-container"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "menu"
+          ],
+          "id": "menu-main-menu",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        "Home",
+        "Eng Blog",
+        "Support",
+        "Jobs",
+        "Contact"
+      ]
+    },
+    {
+      "bound": {
+        "height": 68,
+        "left": 480,
+        "top": 132,
+        "width": 510
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(238, 238, 238)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "font-family": "Helvetica, 'Helvetica Neue', Arial, sans-serif",
+        "font-size": "20px",
+        "font-weight": "bold",
+        "margin-bottom": "15px",
+        "padding-bottom": "20px",
+        "padding-right": "50px",
+        "padding-top": "5px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "Happy holidays to you: photos and comments are here!",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "Happy holidays to you: photos and comments are here!"
+      ]
+    },
+    {
+      "bound": {
+        "height": 42,
+        "left": 370,
+        "top": 135,
+        "width": 70
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(178, 178, 178)",
+        "border-left-color": "rgb(178, 178, 178)",
+        "border-right-color": "rgb(178, 178, 178)",
+        "border-top-color": "rgb(178, 178, 178)",
+        "color": "rgb(178, 178, 178)",
+        "float": "left",
+        "font-size": "20px",
+        "font-weight": "bold",
+        "outline-color": "rgb(178, 178, 178)",
+        "position": "absolute",
+        "text-align": "center",
+        "text-shadow": "rgb(255, 255, 255) 0px 1px 0px"
+      },
+      "element": {
+        "classes": [
+          "post-date"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "Dec 20th",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-date"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Dec 20th"
+      ]
+    },
+    {
+      "bound": {
+        "height": 84,
+        "left": 480,
+        "top": 216,
+        "width": 510
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "margin-bottom": "14px",
+        "margin-top": "14px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "We’ve been promising this all year and really hustled to get it out for the holidays. So, without further ado, our holiday gift to you: foursquare just became more useful and social with the addition of photos and comments. (It’s in the app store <a href=\"http://itunes.apple.com/us/app/foursquare/id306934924?mt=8\" target=\"_blank\">now</a>!&nbsp;You can also see these new features on <a href=\"http://foursquare.com\" target=\"_blank\">foursquare.com</a>)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "We’ve been promising this all year and really hustled to get it out for the holidays. So, without further ado, our holiday gift to you: foursquare just became more useful and social with the addition of photos and comments. (It’s in the app store ",
+        "now",
+        "! You can also see these new features on ",
+        "foursquare.com",
+        ")"
+      ]
+    },
+    {
+      "bound": {
+        "height": 42,
+        "left": 480,
+        "top": 316,
+        "width": 510
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "margin-bottom": "14px",
+        "margin-top": "14px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "You’ve been requesting these features for months, and there are some cool aspects that you’ll notice right away:",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "You’ve been requesting these features for months, and there are some cool aspects that you’ll notice right away:"
+      ]
+    },
+    {
+      "bound": {
+        "height": 105,
+        "left": 500,
+        "top": 374,
+        "width": 490
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "display": "list-item"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "Comments make meeting up and exploring so much easier. Improve your day by telling a friend that you’re around the corner and they should swing by. And getting a last-minute comment reminding you to order the best dish saves your meal. (You can even comment on the website and from check-in links posted to Facebook and Twitter!)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Comments make meeting up and exploring so much easier. Improve your day by telling a friend that you’re around the corner and they should swing by. And getting a last-minute comment reminding you to order the best dish saves your meal. (You can even comment on the website and from check-in links posted to Facebook and Twitter!)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 63,
+        "left": 500,
+        "top": 481,
+        "width": 490
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "display": "list-item"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "Tips with photos changes everything. See dishes before ordering them, figure out if a venue looks fun, or easily identify a hard-to-find spot. More info = better exploration.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Tips with photos changes everything. See dishes before ordering them, figure out if a venue looks fun, or easily identify a hard-to-find spot. More info = better exploration."
+      ]
+    },
+    {
+      "bound": {
+        "height": 63,
+        "left": 500,
+        "top": 546,
+        "width": 490
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "display": "list-item"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "The past comes to life. You can visit your <a href=\"http://foursquare.com/history\" target=\"_blank\">history</a> page on foursquare.com to see all the places you’ve been, with photos and comments preserved. Remembering is more fun than ever.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "The past comes to life. You can visit your ",
+        "history",
+        " page on foursquare.com to see all the places you’ve been, with photos and comments preserved. Remembering is more fun than ever."
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 480,
+        "top": 892,
+        "width": 510
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "margin-bottom": "14px",
+        "margin-top": "14px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "We’ve had a ton of fun testing this. A couple notes:",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "We’ve had a ton of fun testing this. A couple notes:"
+      ]
+    },
+    {
+      "bound": {
+        "height": 42,
+        "left": 500,
+        "top": 929,
+        "width": 490
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "display": "list-item"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "Be sure your iPhone has foursquare <a href=\"http://support.apple.com/kb/HT3576\" target=\"_blank\">push notifications</a> turned on so you’ll know when your friends leave you a comment.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Be sure your iPhone has foursquare ",
+        "push notifications",
+        " turned on so you’ll know when your friends leave you a comment."
+      ]
+    },
+    {
+      "bound": {
+        "height": 63,
+        "left": 500,
+        "top": 973,
+        "width": 490
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "display": "list-item"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "Photos on check-ins are only visible to your friends (and the networks you share to, like Facebook and Twitter). Tip and venue photos are open to the community. And, as you’d expect, comments are only visible to your friends.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Photos on check-ins are only visible to your friends (and the networks you share to, like Facebook and Twitter). Tip and venue photos are open to the community. And, as you’d expect, comments are only visible to your friends."
+      ]
+    },
+    {
+      "bound": {
+        "height": 168,
+        "left": 480,
+        "top": 1052,
+        "width": 510
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "margin-bottom": "14px",
+        "margin-top": "14px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "A few of our partners have done an amazing job getting the new photos feature integrated for today. Photos from <a href=\"http://instagr.am/blog/\" target=\"_blank\">Instagram</a> pushed to foursquare will now be check-ins with photos (rather than just check-ins). Sightings on <a href=\"http://www.foodspotting.com/blog\" target=\"_blank\">Foodspotting</a> will be check-ins with your food photos. And <a href=\"http://blog.picplz.com/post/2385075869/available-now-foursquare-photo-check-in-support\" target=\"_blank\">picplz</a> is the first service to allow check-in photos on both <a href=\"http://picplz.com/iphone/\" target=\"_blank\">iPhone</a> <em>and</em> <a href=\"http://picplz.com/android/\" target=\"_blank\">Android</a>. Soon to follow: we’ve got the new foursquare for Android coming later this week, WebOS (thanks to <a href=\"http://twitter.com/#!/zhephree\" target=\"_blank\">@zhephree</a>) and BlackBerry in January, and the rest of the major platforms in early 2011. And the <a href=\"http://developer.foursquare.com/\" target=\"_blank\">API</a> will be ready for all developers later this week!",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "A few of our partners have done an amazing job getting the new photos feature integrated for today. Photos from ",
+        "Instagram",
+        " pushed to foursquare will now be check-ins with photos (rather than just check-ins). Sightings on ",
+        "Foodspotting",
+        " will be check-ins with your food photos. And ",
+        "picplz",
+        " is the first service to allow check-in photos on both ",
+        "iPhone",
+        "and",
+        "Android",
+        ". Soon to follow: we’ve got the new foursquare for Android coming later this week, WebOS (thanks to ",
+        "@zhephree",
+        ") and BlackBerry in January, and the rest of the major platforms in early 2011. And the ",
+        "API",
+        " will be ready for all developers later this week!"
+      ]
+    },
+    {
+      "bound": {
+        "height": 105,
+        "left": 480,
+        "top": 1236,
+        "width": 510
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "margin-bottom": "14px",
+        "margin-top": "14px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "There are a couple features we weren’t able to fit in for this release but we’re working to launch soon. These include sharing photos (to Facebook and Flickr), an easier way to keep track of all the comments you’re getting, and a more useful place to store all your old photos (right now, it’s all on that <a href=\"http://foursquare.com/history\" target=\"_blank\">history</a> page). Stay tuned for those!",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "There are a couple features we weren’t able to fit in for this release but we’re working to launch soon. These include sharing photos (to Facebook and Flickr), an easier way to keep track of all the comments you’re getting, and a more useful place to store all your old photos (right now, it’s all on that ",
+        "history",
+        " page). Stay tuned for those!"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 480,
+        "top": 1357,
+        "width": 510
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "margin-bottom": "14px",
+        "margin-top": "14px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "In the meantime, enjoy photos and comments, and have fun out there!\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "In the meantime, enjoy photos and comments, and have fun out there!\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 480,
+        "top": 1434,
+        "width": 190
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(191, 191, 191)",
+        "border-left-color": "rgb(191, 191, 191)",
+        "border-right-color": "rgb(191, 191, 191)",
+        "border-top-color": "rgb(191, 191, 191)",
+        "color": "rgb(191, 191, 191)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "outline-color": "rgb(191, 191, 191)"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Posted in <a href=\"http://blog.foursquare.com/category/foursquare/blog/\" title=\"View all posts in Blog\" rel=\"category tag\">Blog</a> <a href=\"http://blog.foursquare.com/category/foursquare/\" title=\"View all posts in Foursquare\" rel=\"category tag\">Foursquare</a> <a href=\"http://blog.foursquare.com/category/foursquare/iphone/\" title=\"View all posts in iPhone\" rel=\"category tag\">iPhone</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "meta"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "meta-category"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Posted in ",
+        "Blog",
+        "Foursquare",
+        "iPhone"
+      ]
+    },
+    {
+      "bound": {
+        "height": 162,
+        "left": 1030,
+        "top": 124,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-size": "12px",
+        "line-height": "18px",
+        "list-style-type": "none",
+        "margin-bottom": "30px",
+        "margin-top": "12px",
+        "outline-color": "rgb(102, 102, 102)"
+      },
+      "element": {
+        "classes": [],
+        "id": "about",
+        "name": "p"
+      },
+      "html": "Foursquare is a free app that helps you and your friends make the most of where you are. Share and save your experiences at the places you visit and get personalized recommendations for where to go.\n<br>\n<br>\nCheck here for the latest updates, tips, and Foursquare happenings!\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_text"
+          ],
+          "id": "text-3",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "textwidget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "about",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Foursquare is a free app that helps you and your friends make the most of where you are. Share and save your experiences at the places you visit and get personalized recommendations for where to go.\n",
+        "\nCheck here for the latest updates, tips, and Foursquare happenings!\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1030,
+        "top": 318,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(119, 119, 119)",
+        "border-left-color": "rgb(119, 119, 119)",
+        "border-right-color": "rgb(119, 119, 119)",
+        "border-top-color": "rgb(119, 119, 119)",
+        "color": "rgb(119, 119, 119)",
+        "font-family": "Helvetica, 'Helvetica Neue', Arial, sans-serif",
+        "font-size": "13px",
+        "font-weight": "bold",
+        "list-style-type": "none",
+        "outline-color": "rgb(119, 119, 119)"
+      },
+      "element": {
+        "classes": [
+          "widget-title"
+        ],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Foursquare on",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_text"
+          ],
+          "id": "text-4",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "widget-title"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Foursquare on"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1030,
+        "top": 341,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://foursquare.wpengine.netdna-cdn.com/wp-content/themes/foursquare/images/icon-facebook.png)",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-top-color": "rgb(204, 204, 204)",
+        "color": "rgb(204, 204, 204)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "outline-color": "rgb(204, 204, 204)",
+        "padding-left": "22px"
+      },
+      "element": {
+        "classes": [
+          "icon-facebook"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.facebook.com/foursquare\">Facebook</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_text"
+          ],
+          "id": "text-4",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "textwidget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "findus",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "icon-facebook"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Facebook"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1030,
+        "top": 364,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://foursquare.wpengine.netdna-cdn.com/wp-content/themes/foursquare/images/icon-flickr.png)",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-top-color": "rgb(204, 204, 204)",
+        "color": "rgb(204, 204, 204)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "outline-color": "rgb(204, 204, 204)",
+        "padding-left": "22px"
+      },
+      "element": {
+        "classes": [
+          "icon-flickr"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.flickr.com/photos/foursquare/\">Flickr</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_text"
+          ],
+          "id": "text-4",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "textwidget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "findus",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "icon-flickr"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Flickr"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1030,
+        "top": 387,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://foursquare.wpengine.netdna-cdn.com/wp-content/themes/foursquare/images/icon-meetup.png)",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-top-color": "rgb(204, 204, 204)",
+        "color": "rgb(204, 204, 204)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "outline-color": "rgb(204, 204, 204)",
+        "padding-left": "22px"
+      },
+      "element": {
+        "classes": [
+          "icon-meetup"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.meetup.com/foursquare/\">Meetup</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_text"
+          ],
+          "id": "text-4",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "textwidget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "findus",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "icon-meetup"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Meetup"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1030,
+        "top": 410,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://foursquare.wpengine.netdna-cdn.com/wp-content/themes/foursquare/images/icon-twitter.png)",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-top-color": "rgb(204, 204, 204)",
+        "color": "rgb(204, 204, 204)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "outline-color": "rgb(204, 204, 204)",
+        "padding-left": "22px"
+      },
+      "element": {
+        "classes": [
+          "icon-twitter"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://twitter.com/foursquare\">Twitter</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_text"
+          ],
+          "id": "text-4",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "textwidget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "findus",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "icon-twitter"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Twitter"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1030,
+        "top": 433,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://foursquare.wpengine.netdna-cdn.com/wp-content/themes/foursquare/images/icon-youtube.png)",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-top-color": "rgb(204, 204, 204)",
+        "color": "rgb(204, 204, 204)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "outline-color": "rgb(204, 204, 204)",
+        "padding-left": "22px"
+      },
+      "element": {
+        "classes": [
+          "icon-youtube"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.youtube.com/foursquarehq\">YouTube</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_text"
+          ],
+          "id": "text-4",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "textwidget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "findus",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "icon-youtube"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "YouTube"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1030,
+        "top": 456,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://foursquare.wpengine.netdna-cdn.com/wp-content/themes/foursquare/images/icon-rss.png)",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(204, 204, 204)",
+        "border-left-color": "rgb(204, 204, 204)",
+        "border-right-color": "rgb(204, 204, 204)",
+        "border-top-color": "rgb(204, 204, 204)",
+        "color": "rgb(204, 204, 204)",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "outline-color": "rgb(204, 204, 204)",
+        "padding-left": "22px"
+      },
+      "element": {
+        "classes": [
+          "icon-rss"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://feeds.feedburner.com/thefoursquareblog\">RSS Feed</a>",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_text"
+          ],
+          "id": "text-4",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "textwidget"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "findus",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "icon-rss"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "RSS Feed"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1030,
+        "top": 504,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(119, 119, 119)",
+        "border-left-color": "rgb(119, 119, 119)",
+        "border-right-color": "rgb(119, 119, 119)",
+        "border-top-color": "rgb(119, 119, 119)",
+        "color": "rgb(119, 119, 119)",
+        "font-family": "Helvetica, 'Helvetica Neue', Arial, sans-serif",
+        "font-size": "13px",
+        "font-weight": "bold",
+        "list-style-type": "none",
+        "outline-color": "rgb(119, 119, 119)"
+      },
+      "element": {
+        "classes": [
+          "widget-title"
+        ],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Categories",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "widget-title"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Categories"
+      ]
+    },
+    {
+      "bound": {
+        "height": 63,
+        "left": 1050,
+        "top": 527,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(212, 102, 51)",
+        "border-left-color": "rgb(212, 102, 51)",
+        "border-right-color": "rgb(212, 102, 51)",
+        "border-top-color": "rgb(212, 102, 51)",
+        "color": "rgb(212, 102, 51)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(212, 102, 51)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-63"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/business/\" title=\"View all posts filed under Business\">Business</a>\n<ul class=\"children\">\n\t<li class=\"cat-item cat-item-71\"><a href=\"http://blog.foursquare.com/category/business/partnerships/\" title=\"View all posts filed under Partnerships\">Partnerships</a>\n</li>\n\t<li class=\"cat-item cat-item-70\"><a href=\"http://blog.foursquare.com/category/business/specials/\" title=\"View all posts filed under Specials\">Specials</a>\n</li>\n</ul>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-63"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Business"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 549,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(212, 102, 51)",
+        "border-left-color": "rgb(212, 102, 51)",
+        "border-right-color": "rgb(212, 102, 51)",
+        "border-top-color": "rgb(212, 102, 51)",
+        "color": "rgb(212, 102, 51)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(212, 102, 51)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-71"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/business/partnerships/\" title=\"View all posts filed under Partnerships\">Partnerships</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-63"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-71"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Partnerships"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 572,
+        "width": 163
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(212, 102, 51)",
+        "border-left-color": "rgb(212, 102, 51)",
+        "border-right-color": "rgb(212, 102, 51)",
+        "border-top-color": "rgb(212, 102, 51)",
+        "color": "rgb(212, 102, 51)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(212, 102, 51)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-70"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/business/specials/\" title=\"View all posts filed under Specials\">Specials</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-63"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-70"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Specials"
+      ]
+    },
+    {
+      "bound": {
+        "height": 63,
+        "left": 1050,
+        "top": 596,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(161, 195, 72)",
+        "border-left-color": "rgb(161, 195, 72)",
+        "border-right-color": "rgb(161, 195, 72)",
+        "border-top-color": "rgb(161, 195, 72)",
+        "color": "rgb(161, 195, 72)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(161, 195, 72)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-62"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/community/\" title=\"View all posts filed under Community\">Community</a>\n<ul class=\"children\">\n\t<li class=\"cat-item cat-item-65\"><a href=\"http://blog.foursquare.com/category/community/privacy/\" title=\"View all posts filed under Privacy\">Privacy</a>\n</li>\n\t<li class=\"cat-item cat-item-64\"><a href=\"http://blog.foursquare.com/category/community/support/\" title=\"View all posts filed under Support\">Support</a>\n</li>\n</ul>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-62"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Community"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 618,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(161, 195, 72)",
+        "border-left-color": "rgb(161, 195, 72)",
+        "border-right-color": "rgb(161, 195, 72)",
+        "border-top-color": "rgb(161, 195, 72)",
+        "color": "rgb(161, 195, 72)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(161, 195, 72)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-65"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/community/privacy/\" title=\"View all posts filed under Privacy\">Privacy</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-62"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-65"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Privacy"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 641,
+        "width": 163
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(161, 195, 72)",
+        "border-left-color": "rgb(161, 195, 72)",
+        "border-right-color": "rgb(161, 195, 72)",
+        "border-top-color": "rgb(161, 195, 72)",
+        "color": "rgb(161, 195, 72)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(161, 195, 72)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-64"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/community/support/\" title=\"View all posts filed under Support\">Support</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-62"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-64"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Support"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1050,
+        "top": 665,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(21, 109, 181)",
+        "border-left-color": "rgb(21, 109, 181)",
+        "border-right-color": "rgb(21, 109, 181)",
+        "border-top-color": "rgb(21, 109, 181)",
+        "color": "rgb(21, 109, 181)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(21, 109, 181)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-127"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/engineering/\" title=\"View all posts filed under Engineering\">Engineering</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-127"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Engineering"
+      ]
+    },
+    {
+      "bound": {
+        "height": 210,
+        "left": 1050,
+        "top": 688,
+        "width": 180
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(93, 184, 221)",
+        "border-left-color": "rgb(93, 184, 221)",
+        "border-right-color": "rgb(93, 184, 221)",
+        "border-top-color": "rgb(93, 184, 221)",
+        "color": "rgb(93, 184, 221)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(93, 184, 221)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-61"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/foursquare/\" title=\"View all posts filed under Foursquare\">Foursquare</a>\n<ul class=\"children\">\n\t<li class=\"cat-item cat-item-99\"><a href=\"http://blog.foursquare.com/category/foursquare/android/\" title=\"View all posts filed under Android\">Android</a>\n</li>\n\t<li class=\"cat-item cat-item-101\"><a href=\"http://blog.foursquare.com/category/foursquare/badges/\" title=\"View all posts filed under Badges\">Badges</a>\n</li>\n\t<li class=\"cat-item cat-item-73\"><a href=\"http://blog.foursquare.com/category/foursquare/blackberry/\" title=\"View all posts filed under Blackberry\">Blackberry</a>\n</li>\n\t<li class=\"cat-item cat-item-1\"><a href=\"http://blog.foursquare.com/category/foursquare/blog/\" title=\"View all posts filed under Blog\">Blog</a>\n</li>\n\t<li class=\"cat-item cat-item-68\"><a href=\"http://blog.foursquare.com/category/foursquare/events/\" title=\"View all posts filed under Events\">Events</a>\n</li>\n\t<li class=\"cat-item cat-item-67\"><a href=\"http://blog.foursquare.com/category/foursquare/iphone/\" title=\"View all posts filed under iPhone\">iPhone</a>\n</li>\n\t<li class=\"cat-item cat-item-66\"><a href=\"http://blog.foursquare.com/category/foursquare/product/\" title=\"View all posts filed under Product\">Product</a>\n</li>\n\t<li class=\"cat-item cat-item-69\"><a href=\"http://blog.foursquare.com/category/foursquare/random/\" title=\"View all posts filed under Random\">Random</a>\n</li>\n\t<li class=\"cat-item cat-item-106\"><a href=\"http://blog.foursquare.com/category/foursquare/symbian/\" title=\"View all posts filed under Symbian\">Symbian</a>\n</li>\n</ul>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-61"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Foursquare"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 710,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(93, 184, 221)",
+        "border-left-color": "rgb(93, 184, 221)",
+        "border-right-color": "rgb(93, 184, 221)",
+        "border-top-color": "rgb(93, 184, 221)",
+        "color": "rgb(93, 184, 221)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(93, 184, 221)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-99"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/foursquare/android/\" title=\"View all posts filed under Android\">Android</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-61"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-99"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Android"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 733,
+        "width": 163
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(93, 184, 221)",
+        "border-left-color": "rgb(93, 184, 221)",
+        "border-right-color": "rgb(93, 184, 221)",
+        "border-top-color": "rgb(93, 184, 221)",
+        "color": "rgb(93, 184, 221)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(93, 184, 221)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-101"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/foursquare/badges/\" title=\"View all posts filed under Badges\">Badges</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-61"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-101"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Badges"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 756,
+        "width": 163
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(93, 184, 221)",
+        "border-left-color": "rgb(93, 184, 221)",
+        "border-right-color": "rgb(93, 184, 221)",
+        "border-top-color": "rgb(93, 184, 221)",
+        "color": "rgb(93, 184, 221)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(93, 184, 221)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-73"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/foursquare/blackberry/\" title=\"View all posts filed under Blackberry\">Blackberry</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-61"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-73"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Blackberry"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 779,
+        "width": 163
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(93, 184, 221)",
+        "border-left-color": "rgb(93, 184, 221)",
+        "border-right-color": "rgb(93, 184, 221)",
+        "border-top-color": "rgb(93, 184, 221)",
+        "color": "rgb(93, 184, 221)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(93, 184, 221)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-1"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/foursquare/blog/\" title=\"View all posts filed under Blog\">Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-61"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-1"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 802,
+        "width": 163
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(93, 184, 221)",
+        "border-left-color": "rgb(93, 184, 221)",
+        "border-right-color": "rgb(93, 184, 221)",
+        "border-top-color": "rgb(93, 184, 221)",
+        "color": "rgb(93, 184, 221)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(93, 184, 221)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-68"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/foursquare/events/\" title=\"View all posts filed under Events\">Events</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-61"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-68"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Events"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 825,
+        "width": 163
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(93, 184, 221)",
+        "border-left-color": "rgb(93, 184, 221)",
+        "border-right-color": "rgb(93, 184, 221)",
+        "border-top-color": "rgb(93, 184, 221)",
+        "color": "rgb(93, 184, 221)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(93, 184, 221)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-67"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/foursquare/iphone/\" title=\"View all posts filed under iPhone\">iPhone</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-61"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-67"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "iPhone"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 848,
+        "width": 163
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(93, 184, 221)",
+        "border-left-color": "rgb(93, 184, 221)",
+        "border-right-color": "rgb(93, 184, 221)",
+        "border-top-color": "rgb(93, 184, 221)",
+        "color": "rgb(93, 184, 221)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(93, 184, 221)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-66"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/foursquare/product/\" title=\"View all posts filed under Product\">Product</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-61"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-66"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Product"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 871,
+        "width": 163
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(93, 184, 221)",
+        "border-left-color": "rgb(93, 184, 221)",
+        "border-right-color": "rgb(93, 184, 221)",
+        "border-top-color": "rgb(93, 184, 221)",
+        "color": "rgb(93, 184, 221)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(93, 184, 221)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-69"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/foursquare/random/\" title=\"View all posts filed under Random\">Random</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-61"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-69"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Random"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1066,
+        "top": 894,
+        "width": 163
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(93, 184, 221)",
+        "border-left-color": "rgb(93, 184, 221)",
+        "border-right-color": "rgb(93, 184, 221)",
+        "border-top-color": "rgb(93, 184, 221)",
+        "color": "rgb(93, 184, 221)",
+        "display": "list-item",
+        "font-size": "12px",
+        "outline-color": "rgb(93, 184, 221)"
+      },
+      "element": {
+        "classes": [
+          "cat-item",
+          "cat-item-106"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://blog.foursquare.com/category/foursquare/symbian/\" title=\"View all posts filed under Symbian\">Symbian</a>\n",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_categories"
+          ],
+          "id": "categories-2",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-61"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "children"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "cat-item",
+            "cat-item-106"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Symbian"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1030,
+        "top": 948,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(119, 119, 119)",
+        "border-left-color": "rgb(119, 119, 119)",
+        "border-right-color": "rgb(119, 119, 119)",
+        "border-top-color": "rgb(119, 119, 119)",
+        "color": "rgb(119, 119, 119)",
+        "font-family": "Helvetica, 'Helvetica Neue', Arial, sans-serif",
+        "font-size": "13px",
+        "font-weight": "bold",
+        "list-style-type": "none",
+        "outline-color": "rgb(119, 119, 119)"
+      },
+      "element": {
+        "classes": [
+          "widget-title"
+        ],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Archives",
+      "path": [
+        "div",
+        "div",
+        "ul",
+        "li",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "primary-widgets",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "widget-container",
+            "widget_archive"
+          ],
+          "id": "archives-3",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "widget-title"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Archives"
+      ]
+    },
+    {
+      "bound": {
+        "height": 80,
+        "left": 460,
+        "top": 1582,
+        "width": 470
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "font-weight": "bold",
+        "line-height": "80px",
+        "outline-color": "rgb(153, 153, 153)",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Copyright © 2009-2013 foursquare. All rights reserved.",
+      "path": [
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "footer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Copyright © 2009-2013 foursquare. All rights reserved."
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 247,
+        "left": 480,
+        "top": 625,
+        "width": 510
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(35, 152, 201)",
+        "border-left-color": "rgb(35, 152, 201)",
+        "border-right-color": "rgb(35, 152, 201)",
+        "border-top-color": "rgb(35, 152, 201)",
+        "color": "rgb(35, 152, 201)",
+        "display": "inline",
+        "max-width": "510px",
+        "outline-color": "rgb(35, 152, 201)",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [
+          "aligncenter",
+          "size-full",
+          "wp-image-1173912957"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "category-blog",
+            "category-foursquare",
+            "category-iphone",
+            "format-standard",
+            "hentry",
+            "post",
+            "post-1173912926",
+            "status-publish",
+            "tag-comments",
+            "tag-foursquare-tag",
+            "tag-iphone-2",
+            "tag-photos",
+            "type-post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "aligncenter",
+            "size-full",
+            "wp-image-1173912957"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://foursquare.wpengine.netdna-cdn.com/wp-content/uploads/2010/12/ps_cs11.jpg"
+    }
+  ]
+}

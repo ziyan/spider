@@ -1,5 +1,4 @@
-﻿Outliers in the spectrum of iid matrices with bounded rank perturbations
-22 December, 2010 in math.PR, math.RA, paper | Tags: circular law, iid matrices, outliers, random matrices | by Terence Tao
+﻿
 I’ve just uploaded to the arXiv my paper “Outliers in the spectrum of iid matrices with bounded rank perturbations“, submitted to Probability Theory and Related Fields. This paper is concerned with outliers to the circular law for iid random matrices. Recall that if  is an  matrix whose entries are iid complex random variables with mean zero and variance one, then the complex eigenvalues of the normalised matrix  will almost surely be distributed according to the circular law distribution  in the limit . (See these lecture notes for further discussion of this law.)
 
 The circular law is also stable under bounded rank perturbations: if  is a deterministic rank  matrix of polynomial size (i.e. of operator norm ), then the circular law also holds for  (this is proven in a paper of myself, Van Vu, and Manjunath Krisnhapur). In particular, the bulk of the eigenvalues (i.e.  of the  eigenvalues) will lie inside the unit disk .
@@ -49,82 +48,3 @@ If one moves away from the case of self-adjoint perturbations, though, the situa
 where  are iid real Gaussians. This is basically because the coefficients of the resolvent  have a Neumann series whose coefficients enjoy a central limit theorem.
 
 On the other hand, as already observed numerically (and rigorously, in the gaussian case) by Rajan and Abbott, if one projects such matrices to have row sum zero, then the outliers all disappear. This can be explained by another appeal to (1); this projection amounts to right-multiplying by the projection matrix  to the zero-sum vectors. But by (1), the non-zero eigenvalues of the resulting matrix  are the same as those for . Since  annihilates , we thus see that in this case the bounded rank perturbation plays no role, and the question reduces to obtaining a circular law with no outliers for . As it turns out, this can be done by invoking the machinery of Van Vu and myself that we used to prove the circular law for various random matrix models.
-
-23 December, 2010 at 2:16 pm
-Djalil
-
-
-Hi!
-
-This reminds me this paper by Silverstein: http://www.ams.org/mathscinet-getitem?mr=1284550
-
-About these matrices with iid entries, I wonder if one can prove the universality of the Gumbel fluctuation of the spectral radius (the result is known for the complex Ginibre ensemble).
-
-10  Rate This
-Reply
-23 December, 2010 at 5:30 pm
-Terence Tao
-
-
-Thanks for the reference, which I was not aware of! Silverstein’s paper does indeed much give the same control on the outlier eigenvalue of  as my paper does (and indeed the methods are basically the same).
-
-As for your second question, we don’t yet have enough fine-scale control on the circular law to come close to answering this sort of question yet – the behaviour in the boundary region , in particular, is still too delicate to resolve. (The results here avoid this because they only need one to understand the resolvent etc. in the region  for some fixed  independent of .)
-
-30  Rate This
-Reply
-24 December, 2010 at 12:12 am
-Djalil
-
-
-There is also this paper by Andrew:
-http://www.ams.org/mathscinet-getitem?mr=1062321
-
-00  Rate This
-Reply
-25 December, 2010 at 6:25 am
-Timothy
-
-
-Should be “This paper is concerned with”
-
-[Corrected, thanks - T.]
-
-00  Rate This
-Reply
-26 December, 2010 at 12:52 pm
-Terence Tao
-
-
-I’ve deleted a number of comments on this post that involved (or were in response to) attempts at spoofing the identity of an author. Needless to say, such attempts are not welcome at this blog.
-
-22  Rate This
-Reply
-26 December, 2010 at 9:26 pm
-Timothy
-
-
-Shouldn’t it be “uploaded my paper.”
-
-[Corrected, thanks. It's been a while since I wrote a singly authored paper - T.]
-
-00  Rate This
-Reply
-29 December, 2010 at 5:33 am
-Benaych-Georges
-
-
-Shouldn’t it be “perturbation” instead of “permutation” in the title ?
-
-By the way, the same technics were used to locate the outliers in the spectrums of either additive or multiplicative perturbations of rather general matrices in http://hal.archives-ouvertes.fr/hal-00423593/fr/
-
-00  Rate This
-Reply
-29 December, 2010 at 9:36 am
-Terence Tao
-
-
-Thanks for the correction and for the reference!
-
-Best,
-
-Terry

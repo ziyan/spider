@@ -1,5 +1,4 @@
-﻿Algorithms inspired by TRON
-I've posted a bit about this before, but I thought that next week's release of TRON: Legacy would make a good excuse to write about motorcycle graphs, a geometric structure inspired by the original TRON movie.
+﻿I've posted a bit about this before, but I thought that next week's release of TRON: Legacy would make a good excuse to write about motorcycle graphs, a geometric structure inspired by the original TRON movie.
 
 In the video-game world of TRON, one of the games involves "light cycles", motorcycles that leave wall-like trails behind them. You lose by crashing into the trail of your opponent, and you win by leaving trails that box your opponent in, forcing him or her to crash.
 
@@ -31,29 +30,3 @@ Finally, a different variation of motorcycle graphs has turned out to have some 
 
 
 So, when you take off work to go see TRON: Legacy, just tell everyone it's research.
-
-(2 comments) - (Post a new comment)
-
-	
-Gilbert tesselations 
-Jeff Erickson 
-2010-12-10 10:41 pm UTC (link)
-One of my most prized possessions is an autograph of Steve Lisberger, the director of TRON, on the first page of our straight-skeleton paper. (TRON was one of the movies at the first iteration of Roger Ebert's annual film festival in Champaign; Lisberger came to the screening. He was kind enough to accept a copy of the paper with my autograph on it as well.)
-
-You worked on the mesh partitioning algorithms at Disney, right? Any chance they were actually used in TRON:Legacy? :-)
-
-I recently discovered some relevant prior art. A nearly identical process has been used to study statistical properties of random crack networks since the mid-1960s, around the same time that random Voronoi diagrams were in their heyday. A Gilbert tesselation [1], also known as a random crack network [2], is formed by placing random points according to a homogeneous Poisson process, growing needles forward and backward at each point at unit speed in a uniformly random direction, and stopping the growth of any needle when it hits another needle. In other words, they're random unit-speed motorcycle graphs! More recently, Schreiber and Soja [3] look at statistical properties of "finite input Gilbert tessellations", which are essentially just random-direction unit-speed motorcycle graphs.
-
-[1] E. N. Gilbert. Random plane networks and needle-shaped crystals. In Applications of Undergraduate Mathematics in Engineering (B. Noble, editor). Macmillan, New York, 1967.
-
-[2] N. H. Gray, J. B. Anderson, J. D. Devine, and J. M. Kwasnik. Topological properties of random crack networks. Mathematical Geology 8(6):617–628, 1976.
-
-[3] Tomasz Schreiber and Natalia Soja. Limit theory for planar Gilbert tessellations. arXiv:1005.0023 (http://arxiv.org/abs/1005.0023), April 2010.
-
-Re: Gilbert tesselations 
-11011110 
-2010-12-10 10:56 pm UTC (link)
-Neat — I didn't know about that connection, and it's always very helpful to see similar things from different perspectives.
-
-Yes, it was for Disney, but for their feature animation unit; I think that's different from the part of Disney that made TRON, so I don't know how likely it is that the algorithms got used there.
-(Reply to this) (Parent)

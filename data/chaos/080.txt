@@ -51,10 +51,3 @@ Response.TransmitFile() method sends the file to the client machine without load
 
 
 Непонятно зачем WriteFile нужен, если он грузит память да к тому же еще и не работает в некоторых случаях...
-
-prahalad комментирует...
-Simple Copy And Paste Jobs At www.visionjobcare.com
-
-Are you really fed up with recession and want to overcome this. If you can manage the time than SMART SOLUTION will show you the way where you can earn from HOME. For more details E-mail us at support.visionjob@gmail.com 
-Visit : http://www.visionjobcare.com/XXX.html
-7:07 AM

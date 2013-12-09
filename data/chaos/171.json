@@ -1,0 +1,3301 @@
+{
+  "body": {
+    "bound": {
+      "height": 4001,
+      "left": 15,
+      "top": 0,
+      "width": 1570
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgba(0, 0, 0, 0)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(68, 68, 68)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(68, 68, 68)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(68, 68, 68)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(68, 68, 68)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(68, 68, 68)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "arial, sans-serif",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "4000px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "20px",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "100%",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(68, 68, 68)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "1px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "relative",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1570px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [],
+  "titles": [
+    "\nOfficial Blog: An update on China\n",
+    "An update on China",
+    "An update on China"
+  ],
+  "url": "http://googleblog.blogspot.com/2010/06/update-on-china.html",
+  "links": [
+    "http://googleblog.blogspot.com/",
+    "http://googleblog.blogspot.com/2010/06/update-on-china.html",
+    "http://www.google.com.hk/",
+    "http://www.google.cn/landing/cnexp/indexd.html",
+    "http://www.google.com.hk/",
+    "https://plus.google.com/112374322230920073195",
+    "http://googleblog.blogspot.com/search/label/Asia",
+    "http://googleblog.blogspot.com/search/label/free%20expression",
+    "http://googleblog.blogspot.com/search/label/policy%20and%20issues",
+    "http://googleblog.blogspot.com/search/label/privacy",
+    "http://googleblog.blogspot.com/2010/06/brown-university-has-gone-google.html",
+    "http://googleblog.blogspot.com/2010/06/two-more-states-open-google-apps-for.html",
+    "http://googleblog.blogspot.com/",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/search?updated-min=2013-01-01T00:00:00-08:00&updated-max=2014-01-01T00:00:00-08:00&max-results=50",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2013_12_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2013_11_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2013_10_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2013_09_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2013_08_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2013_07_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2013_06_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2013_05_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2013_04_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2013_03_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2013_02_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2013_01_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/search?updated-min=2012-01-01T00:00:00-08:00&updated-max=2013-01-01T00:00:00-08:00&max-results=50",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2012_12_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2012_11_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2012_10_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2012_09_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2012_08_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2012_07_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2012_06_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2012_05_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2012_04_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2012_03_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2012_02_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2012_01_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/search?updated-min=2011-01-01T00:00:00-08:00&updated-max=2012-01-01T00:00:00-08:00&max-results=50",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2011_12_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2011_11_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2011_10_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2011_09_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2011_08_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2011_07_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2011_06_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2011_05_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2011_04_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2011_03_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2011_02_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2011_01_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/search?updated-min=2010-01-01T00:00:00-08:00&updated-max=2011-01-01T00:00:00-08:00&max-results=50",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2010_12_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2010_11_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2010_10_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2010_09_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2010_08_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2010_07_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2010_06_01_archive.html",
+    "http://googleblog.blogspot.com/2010/06/standing-up-for-first-amendment-with-1.html",
+    "http://googleblog.blogspot.com/2010/06/bob-dudley-chief-executive-for-bp.html",
+    "http://googleblog.blogspot.com/2010/06/extra-extra-google-news-redesigned-to.html",
+    "http://googleblog.blogspot.com/2010/06/search-story-for-dog-days-of-summer.html",
+    "http://googleblog.blogspot.com/2010/06/race-to-finish-line-in-flash.html",
+    "http://googleblog.blogspot.com/2010/06/brown-university-has-gone-google.html",
+    "http://googleblog.blogspot.com/2010/06/update-on-china.html",
+    "http://googleblog.blogspot.com/2010/06/two-more-states-open-google-apps-for.html",
+    "http://googleblog.blogspot.com/2010/06/this-week-in-search-62710.html",
+    "http://googleblog.blogspot.com/2010/06/search-for-16.html",
+    "http://googleblog.blogspot.com/2010/06/graduation-our-latest-search-story.html",
+    "http://googleblog.blogspot.com/2010/06/youtube-wins-case-against-viacom.html",
+    "http://googleblog.blogspot.com/2010/06/celebrating-android.html",
+    "http://googleblog.blogspot.com/2010/06/magnets-to-masses-attracting-customers.html",
+    "http://googleblog.blogspot.com/2010/06/googleserve-2010-celebrating-community.html",
+    "http://googleblog.blogspot.com/2010/06/google-voice-for-everyone.html",
+    "http://googleblog.blogspot.com/2010/06/vote-for-international-i-love-football.html",
+    "http://googleblog.blogspot.com/2010/06/google-apps-highlights-6182010.html",
+    "http://googleblog.blogspot.com/2010/06/fathers-day-dedication.html",
+    "http://googleblog.blogspot.com/2010/06/searching-for-football-connections.html",
+    "http://googleblog.blogspot.com/2010/06/easier-sharing-in-google-docs.html",
+    "http://googleblog.blogspot.com/2010/06/summer-is-here-and-so-is-google.html",
+    "http://googleblog.blogspot.com/2010/06/edit-video-online-with-youtube-video.html",
+    "http://googleblog.blogspot.com/2010/06/white-house-takes-your-questions-about.html",
+    "http://googleblog.blogspot.com/2010/06/bringing-sixteen-more-apps-to-google.html",
+    "http://googleblog.blogspot.com/2010/06/youtube-play-searching-with-guggenheim.html",
+    "http://googleblog.blogspot.com/2010/06/this-week-in-search-61110.html",
+    "http://googleblog.blogspot.com/2010/06/power-of-human-rights-video.html",
+    "http://googleblog.blogspot.com/2010/06/blazing-online-safety-trail.html",
+    "http://googleblog.blogspot.com/2010/06/blogger-template-designer-now-available.html",
+    "http://googleblog.blogspot.com/2010/06/fifacom-and-google-team-up-to-help-fans.html",
+    "http://googleblog.blogspot.com/2010/06/kicking-around-search-trends-for-world.html",
+    "http://googleblog.blogspot.com/2010/06/art-of-homepage.html",
+    "http://googleblog.blogspot.com/2010/06/our-new-search-index-caffeine.html",
+    "http://googleblog.blogspot.com/2010/06/woody-and-buzz-star-in-google-search.html",
+    "http://googleblog.blogspot.com/2010/06/follow-your-football-team-in-south.html",
+    "http://googleblog.blogspot.com/2010/06/searching-for-descartes-solving.html",
+    "http://googleblog.blogspot.com/2010/06/this-week-in-search-6610.html",
+    "http://googleblog.blogspot.com/2010/06/hello-from-hiveplex.html",
+    "http://googleblog.blogspot.com/2010/06/google-apps-highlights-642010.html",
+    "http://googleblog.blogspot.com/2010/06/inform-engage-and-mobilize-voters-with.html",
+    "http://googleblog.blogspot.com/2010/06/announcing-our-european-scholarship-for.html",
+    "http://googleblog.blogspot.com/2010/06/searching-for-2010-stanley-cup.html",
+    "http://googleblog.blogspot.com/2010/06/freeze-frame.html",
+    "http://googleblog.blogspot.com/2010/06/take-test-drive-into-cloud.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2010_05_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2010_04_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2010_03_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2010_02_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2010_01_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/search?updated-min=2009-01-01T00:00:00-08:00&updated-max=2010-01-01T00:00:00-08:00&max-results=50",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2009_12_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2009_11_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2009_10_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2009_09_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2009_08_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2009_07_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2009_06_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2009_05_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2009_04_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2009_03_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2009_02_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2009_01_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/search?updated-min=2008-01-01T00:00:00-08:00&updated-max=2009-01-01T00:00:00-08:00&max-results=50",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2008_12_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2008_11_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2008_10_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2008_09_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2008_08_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2008_07_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2008_06_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2008_05_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2008_04_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2008_03_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2008_02_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2008_01_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/search?updated-min=2007-01-01T00:00:00-08:00&updated-max=2008-01-01T00:00:00-08:00&max-results=50",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2007_12_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2007_11_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2007_10_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2007_09_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2007_08_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2007_07_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2007_06_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2007_05_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2007_04_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2007_03_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2007_02_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2007_01_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/search?updated-min=2006-01-01T00:00:00-08:00&updated-max=2007-01-01T00:00:00-08:00&max-results=50",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2006_12_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2006_11_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2006_10_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2006_09_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2006_08_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2006_07_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2006_06_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2006_05_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2006_04_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2006_03_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2006_02_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2006_01_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/search?updated-min=2005-01-01T00:00:00-08:00&updated-max=2006-01-01T00:00:00-08:00&max-results=50",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2005_12_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2005_11_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2005_10_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2005_09_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2005_08_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2005_07_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2005_06_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2005_05_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2005_04_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2005_03_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2005_02_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2005_01_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/search?updated-min=2004-01-01T00:00:00-08:00&updated-max=2005-01-01T00:00:00-08:00&max-results=50",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2004_12_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2004_11_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2004_10_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2004_09_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2004_08_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2004_07_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2004_06_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2004_05_01_archive.html",
+    "javascript:void(0)",
+    "http://googleblog.blogspot.com/2004_04_01_archive.html",
+    "http://www.blogger.com/rearrange?blogID=10861780&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar",
+    "http://googleblog.blogspot.com/search/label/accessibility",
+    "http://googleblog.blogspot.com/search/label/acquisition",
+    "http://googleblog.blogspot.com/search/label/ads",
+    "http://googleblog.blogspot.com/search/label/Africa",
+    "http://googleblog.blogspot.com/search/label/Android",
+    "http://googleblog.blogspot.com/search/label/apps",
+    "http://googleblog.blogspot.com/search/label/April%201",
+    "http://googleblog.blogspot.com/search/label/Asia",
+    "http://googleblog.blogspot.com/search/label/books%20%2B%20book%20search",
+    "http://googleblog.blogspot.com/search/label/chrome%20%2B%20chrome%20os",
+    "http://googleblog.blogspot.com/search/label/commerce",
+    "http://googleblog.blogspot.com/search/label/computing%20history",
+    "http://googleblog.blogspot.com/search/label/crisis%20response",
+    "http://googleblog.blogspot.com/search/label/culture",
+    "http://googleblog.blogspot.com/search/label/developers",
+    "http://googleblog.blogspot.com/search/label/display%20advertising",
+    "http://googleblog.blogspot.com/search/label/diversity",
+    "http://googleblog.blogspot.com/search/label/doodles",
+    "http://googleblog.blogspot.com/search/label/education%20and%20research",
+    "http://googleblog.blogspot.com/search/label/enterprise",
+    "http://googleblog.blogspot.com/search/label/entrepreneurs%20at%20Google",
+    "http://googleblog.blogspot.com/search/label/Europe",
+    "http://googleblog.blogspot.com/search/label/faster%20web",
+    "http://googleblog.blogspot.com/search/label/free%20expression",
+    "http://googleblog.blogspot.com/search/label/google.org",
+    "http://googleblog.blogspot.com/search/label/googleplus",
+    "http://googleblog.blogspot.com/search/label/googlers%20and%20culture",
+    "http://googleblog.blogspot.com/search/label/green",
+    "http://googleblog.blogspot.com/search/label/Latin%20America",
+    "http://googleblog.blogspot.com/search/label/maps%20and%20earth",
+    "http://googleblog.blogspot.com/search/label/mobile",
+    "http://googleblog.blogspot.com/search/label/online%20safety",
+    "http://googleblog.blogspot.com/search/label/open%20source",
+    "http://googleblog.blogspot.com/search/label/photos",
+    "http://googleblog.blogspot.com/search/label/policy%20and%20issues",
+    "http://googleblog.blogspot.com/search/label/politics",
+    "http://googleblog.blogspot.com/search/label/privacy",
+    "http://googleblog.blogspot.com/search/label/recruiting%20and%20hiring",
+    "http://googleblog.blogspot.com/search/label/scholarships",
+    "http://googleblog.blogspot.com/search/label/search",
+    "http://googleblog.blogspot.com/search/label/search%20quality",
+    "http://googleblog.blogspot.com/search/label/search%20trends",
+    "http://googleblog.blogspot.com/search/label/security",
+    "http://googleblog.blogspot.com/search/label/small%20business",
+    "http://googleblog.blogspot.com/search/label/user%20experience%20and%20usability",
+    "http://googleblog.blogspot.com/search/label/youtube%20and%20video",
+    "http://www.blogger.com/rearrange?blogID=10861780&widgetType=Label&widgetId=Label1&action=editWidget&sectionId=sidebar",
+    "http://feedburner.google.com/fb/a/mailverify?uri=blogspot/MKuf",
+    "http://www.blogger.com/rearrange?blogID=10861780&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=sidebar",
+    "http://support.google.com/bin/static.py?hl=en&page=portal_groups.cs",
+    "http://www.blogger.com/rearrange?blogID=10861780&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar-bottom",
+    "http://www.youtube.com/google?add_user_id=tYNXje7xqyk07cNbpgqTiA&feature=creators_cornier-//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_130x36_red.png",
+    "http://www.blogger.com/rearrange?blogID=10861780&widgetType=HTML&widgetId=HTML5&action=editWidget&sectionId=sidebar-bottom",
+    "http://googlepublicpolicy.blogspot.com/",
+    "http://googleresearch.blogspot.com/",
+    "http://googleforstudents.blogspot.com/",
+    "http://officialandroid.blogspot.com/",
+    "http://chrome.blogspot.com/",
+    "http://google-latlong.blogspot.com/",
+    "http://googleadsdeveloper.blogspot.com/",
+    "http://android-developers.blogspot.com/",
+    "http://googledevelopers.blogspot.com/",
+    "http://www.blogger.com/rearrange?blogID=10861780&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=maia-footer-local",
+    "http://www.google.com/",
+    "http://www.google.com/intl/en/policies/"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 44,
+        "left": 331,
+        "top": 30,
+        "width": 314
+      },
+      "computed": {
+        "float": "left",
+        "font-family": "'open sans', arial, sans-serif",
+        "font-size": "32px",
+        "font-weight": "300",
+        "line-height": "35px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "absolute",
+        "z-index": "10"
+      },
+      "element": {
+        "classes": [
+          "logo"
+        ],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "<a href=\"/\" title=\"Home\"><span><img src=\"http://www.google.com/images/logos/google_logo_41.png\"></span>\nOfficial Blog</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "blog-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Header",
+            "widget"
+          ],
+          "id": "Header1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "logo"
+          ],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "\nOfficial Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 36,
+        "left": 331,
+        "top": 81,
+        "width": 325
+      },
+      "computed": {
+        "border-bottom-color": "rgb(81, 82, 82)",
+        "border-left-color": "rgb(81, 82, 82)",
+        "border-right-color": "rgb(81, 82, 82)",
+        "border-top-color": "rgb(81, 82, 82)",
+        "color": "rgb(81, 82, 82)",
+        "line-height": "18px",
+        "min-height": "0px",
+        "outline-color": "rgb(81, 82, 82)",
+        "padding-bottom": "0px",
+        "position": "absolute",
+        "z-index": "10"
+      },
+      "element": {
+        "classes": [
+          "blurb"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\nInsights from Googlers into our products, technology, and the Google culture\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "blog-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Header",
+            "widget"
+          ],
+          "id": "Header1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blurb"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\nInsights from Googlers into our products, technology, and the Google culture\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 331,
+        "top": 211,
+        "width": 686
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "font-size": "16px",
+        "font-weight": "bold",
+        "margin-bottom": "16px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "\n<a href=\"http://googleblog.blogspot.com/2010/06/update-on-china.html\" itemprop=\"url\" title=\"An update on China\">\nAn update on China\n</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "\nAn update on China\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 331,
+        "top": 257,
+        "width": 158
+      },
+      "computed": {
+        "float": "left",
+        "font-size": "11px",
+        "font-weight": "bold",
+        "line-height": "40px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "published"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "<span class=\"caption\">Posted:</span>\n<span class=\"publishdate\" itemprop=\"datePublished\">Monday, June 28, 2010</span>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-header"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "published"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Posted:",
+        "Monday, June 28, 2010"
+      ]
+    },
+    {
+      "bound": {
+        "height": 594,
+        "left": 331,
+        "top": 323,
+        "width": 686
+      },
+      "computed": {
+        "line-height": "18px",
+        "margin-bottom": "25px",
+        "margin-top": "25px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "post-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<span style=\"font-weight: bold; color: rgb(204, 0, 0);\">Update July 9:  </span><br><span style=\"font-weight: bold;\">We are very pleased that the government has renewed our ICP license and we look forward to continuing to provide web search and local products to our users in China.</span><br><br><span style=\"font-size:85%;\"><span style=\"font-style: italic;\">(original post)</span></span><br>Ever since we launched Google.cn, our search engine for mainland Chinese users, we have done our best to increase access to information while abiding by Chinese law.  This has not always been an easy balance to strike, especially since our January announcement that we were no longer willing to censor results on Google.cn.<br><br>We currently automatically redirect everyone using Google.cn to <a href=\"http://www.google.com.hk/\">Google.com.hk</a>, our Hong Kong search engine. This redirect, which offers unfiltered search in simplified Chinese, has been working well for our users and for Google. However, it’s clear from conversations we have had with Chinese government officials that they find the redirect unacceptable—and that if we continue redirecting users our Internet Content Provider license will not be renewed (it’s up for renewal on June 30). Without an ICP license, we can’t operate a commercial website like Google.cn—so Google would effectively go dark in China.<br><br>That’s a prospect dreaded by many of our Chinese users, who have been vocal about their desire to keep Google.cn alive. We have therefore been looking at possible alternatives, and instead of automatically redirecting all our users, we have started taking a small percentage of them to a <a href=\"http://www.google.cn/landing/cnexp/indexd.html\">landing page on Google.cn</a> that links to <a href=\"http://www.google.com.hk/\">Google.com.hk</a>—where users can conduct web search or continue to use Google.cn services like music and text translate, which we can provide locally without filtering.  This approach ensures we stay true to our commitment not to censor our results on Google.cn and gives users access to all of our services from one page.<br><br>Over the next few days we’ll end the redirect entirely, taking all our Chinese users to our new landing page—and today we re-submitted our ICP license renewal application based on this approach.<br><br>As a company we aspire to make information available to users everywhere, including China. It’s why we have worked so hard to keep Google.cn alive, as well as to continue our research and development work in China. This new approach is consistent with our commitment not to self censor and, we believe, with local law. We are therefore hopeful that our license will be renewed on this basis so we can continue to offer our Chinese users services via Google.cn.<br><br><span class=\"byline-author\">Posted by David Drummond, SVP, Corporate Development and Chief Legal Officer</span>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Update July 9:  ",
+        "We are very pleased that the government has renewed our ICP license and we look forward to continuing to provide web search and local products to our users in China.",
+        "(original post)",
+        "Ever since we launched Google.cn, our search engine for mainland Chinese users, we have done our best to increase access to information while abiding by Chinese law.  This has not always been an easy balance to strike, especially since our January announcement that we were no longer willing to censor results on Google.cn.",
+        "We currently automatically redirect everyone using Google.cn to ",
+        "Google.com.hk",
+        ", our Hong Kong search engine. This redirect, which offers unfiltered search in simplified Chinese, has been working well for our users and for Google. However, it’s clear from conversations we have had with Chinese government officials that they find the redirect unacceptable—and that if we continue redirecting users our Internet Content Provider license will not be renewed (it’s up for renewal on June 30). Without an ICP license, we can’t operate a commercial website like Google.cn—so Google would effectively go dark in China.",
+        "That’s a prospect dreaded by many of our Chinese users, who have been vocal about their desire to keep Google.cn alive. We have therefore been looking at possible alternatives, and instead of automatically redirecting all our users, we have started taking a small percentage of them to a ",
+        "landing page on Google.cn",
+        " that links to ",
+        "Google.com.hk",
+        "—where users can conduct web search or continue to use Google.cn services like music and text translate, which we can provide locally without filtering.  This approach ensures we stay true to our commitment not to censor our results on Google.cn and gives users access to all of our services from one page.",
+        "Over the next few days we’ll end the redirect entirely, taking all our Chinese users to our new landing page—and today we re-submitted our ICP license renewal application based on this approach.",
+        "As a company we aspire to make information available to users everywhere, including China. It’s why we have worked so hard to keep Google.cn alive, as well as to continue our research and development work in China. This new approach is consistent with our commitment not to self censor and, we believe, with local law. We are therefore hopeful that our license will be renewed on this basis so we can continue to offer our Chinese users services via Google.cn.",
+        "Posted by David Drummond, SVP, Corporate Development and Chief Legal Officer"
+      ]
+    },
+    {
+      "bound": {
+        "height": 625,
+        "left": 331,
+        "top": 944,
+        "width": 686
+      },
+      "computed": {
+        "font-size": "12px",
+        "line-height": "19px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "post-footer"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<div class=\"cmt_iframe_holder\" data-href=\"http://googleblog.blogspot.com/2010/06/update-on-china.html\" data-viewtype=\"FILTERED_POSTMOD\" id=\"gpluscomments\" style=\"text-indent: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 687px; height: 600px; background-position: initial initial; background-repeat: initial initial; \"><iframe frameborder=\"0\" hspace=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; position: static; left: 0px; top: 0px; visibility: visible; width: 687px; height: 600px; \" tabindex=\"0\" vspace=\"0\" width=\"100%\" id=\"I0_1386549395259\" name=\"I0_1386549395259\" src=\"https://apis.google.com/_/widget/render/comments?usegapi=1&amp;bsv=o&amp;href=http%3A%2F%2Fgoogleblog.blogspot.com%2F2010%2F06%2Fupdate-on-china.html&amp;query=http%3A%2F%2Fgoogleblog.blogspot.com%2F2010%2F06%2Fupdate-on-china.html&amp;first_party_property=BLOGGER&amp;legacy_comment_moderation_url=https%3A%2F%2Fwww.blogger.com%2Fmoderate-legacy-comment.g%3FblogID%3D10861780&amp;view_type=FILTERED_POSTMOD&amp;width=686&amp;hl=en&amp;origin=http%3A%2F%2Fgoogleblog.blogspot.com&amp;search=&amp;hash=&amp;gsrc=3p&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.cj9BKdPZCdE.O%2Fm%3D__features__%2Fam%3DEQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTM_iM-ekGBITjTkXvyPcyMrm97NUA#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Cscroll%2Copenwindow&amp;id=I0_1386549395259&amp;parent=http%3A%2F%2Fgoogleblog.blogspot.com&amp;pfname=&amp;rpctoken=14879388\" data-gapiattached=\"true\" title=\"Comment on this\"></iframe></div>\n<a href=\"https://plus.google.com/112374322230920073195\" rel=\"author\" style=\"display:none;\">Google</a>\n<span class=\"labels-caption\">Labels:</span>\n<span class=\"labels\">\n<a class=\"label\" href=\"http://googleblog.blogspot.com/search/label/Asia\" rel=\"tag\">Asia</a>,\n<a class=\"label\" href=\"http://googleblog.blogspot.com/search/label/free%20expression\" rel=\"tag\">free expression</a>,\n<a class=\"label\" href=\"http://googleblog.blogspot.com/search/label/policy%20and%20issues\" rel=\"tag\">policy and issues</a>,\n<a class=\"label\" href=\"http://googleblog.blogspot.com/search/label/privacy\" rel=\"tag\">privacy</a>\n</span>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-footer"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Labels:",
+        "Asia",
+        ",\n",
+        "free expression",
+        ",\n",
+        "policy and issues",
+        ",\n",
+        "privacy"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 331,
+        "top": 1612,
+        "width": 77
+      },
+      "computed": {
+        "float": "left",
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "blog-pager-newer-link",
+        "name": "span"
+      },
+      "html": "\n<a class=\"blog-pager-newer-link\" href=\"http://googleblog.blogspot.com/2010/06/brown-university-has-gone-google.html\" id=\"Blog1_blog-pager-newer-link\" title=\"Newer Post\">\nNewer Post\n</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "blog-pager-newer-link",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "\nNewer Post\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 945,
+        "top": 1612,
+        "width": 72
+      },
+      "computed": {
+        "float": "right",
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "blog-pager-older-link",
+        "name": "span"
+      },
+      "html": "\n<a class=\"blog-pager-older-link\" href=\"http://googleblog.blogspot.com/2010/06/two-more-states-open-google-apps-for.html\" id=\"Blog1_blog-pager-older-link\" title=\"Older Post\">\nOlder Post\n</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "blog-pager-older-link",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "\nOlder Post\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 31,
+        "left": 331,
+        "top": 1601,
+        "width": 686
+      },
+      "computed": {
+        "border-top-color": "rgb(235, 235, 235)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "line-height": "18px",
+        "margin-bottom": "13px",
+        "margin-top": "13px",
+        "min-height": "0px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "padding-bottom": "0px",
+        "padding-top": "10px",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [
+          "blog-pager"
+        ],
+        "id": "blog-pager",
+        "name": "div"
+      },
+      "html": "\n<span id=\"blog-pager-newer-link\" style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n<a class=\"blog-pager-newer-link\" href=\"http://googleblog.blogspot.com/2010/06/brown-university-has-gone-google.html\" id=\"Blog1_blog-pager-newer-link\" title=\"Newer Post\">\nNewer Post\n</a>\n</span>\n<span id=\"blog-pager-older-link\" style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n<a class=\"blog-pager-older-link\" href=\"http://googleblog.blogspot.com/2010/06/two-more-states-open-google-apps-for.html\" id=\"Blog1_blog-pager-older-link\" title=\"Older Post\">\nOlder Post\n</a>\n</span>\n<a class=\"home-link\" href=\"http://googleblog.blogspot.com/\">\nHome\n</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-9"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\nHome\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1088,
+        "top": 280,
+        "width": 180
+      },
+      "computed": {
+        "font-family": "'open sans', arial, sans-serif",
+        "font-size": "16px",
+        "font-weight": "bold",
+        "margin-bottom": "9px",
+        "margin-top": "19px",
+        "min-height": "0px",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Google+ Followers",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar-top",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "PlusFollowers",
+            "widget"
+          ],
+          "id": "PlusFollowers1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Google+ Followers"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 1088,
+        "top": 358,
+        "width": 74
+      },
+      "computed": {
+        "background-image": "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAYAAADzoH0MAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAE1JREFUeNpiNDY23s9AAWBioBCwYBM8c+YMVsUmJibEGYBNMS5DaeMFfDYSZQA2v9I3FrB5AZeriI4FmnrBccCT8mhmGs1MwyAzAQQYAKEWG9zm9QFEAAAAAElFTkSuQmCC)",
+        "background-position": "0px 0px",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(0, 85, 205)",
+        "border-left-color": "rgb(0, 85, 205)",
+        "border-right-color": "rgb(0, 85, 205)",
+        "border-top-color": "rgb(0, 85, 205)",
+        "color": "rgb(0, 85, 205)",
+        "cursor": "pointer",
+        "display": "inline-block",
+        "font-family": "'open sans', arial, sans-serif",
+        "line-height": "24px",
+        "min-height": "20px",
+        "outline-color": "rgb(0, 85, 205)",
+        "padding-bottom": "0px",
+        "padding-left": "30px"
+      },
+      "element": {
+        "classes": [
+          "archive",
+          "expander"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "\nArchive\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "BlogArchive",
+            "widget"
+          ],
+          "id": "BlogArchive1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "archive",
+            "expander"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "\nArchive\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1088,
+        "top": 407,
+        "width": 68
+      },
+      "computed": {
+        "background-image": "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUxJREFUeNpiNDY23s9AAMycOfM7UF05kHkZmzwTMkdSUhKrIcXFxZy3bt3qBjIN8RrS09PDsHnzZjCNDr58+cKQlpbGDjSoHcg1w2oIyAUODg5gARCNzUVIBrUCuVYYhjx//pzhwIEDYAEQDeJjA1CDWIAGNQK59jBxRuSABbkAlwHIgIeHh2HWrFn/1NTU2oDcvSgBS4wBSC5iArqoCsj1YGIgEyAZVMoEchqlBjEB/cZAiUHg2AEGznpKDAImxOeM////B4VLKtBvEUCngZ1ILKivr3/u6+ubBzJAGZQ9gC5aQoqLgAY8BhkAZL4BuQQkxgXE34A4BuiiZEIuAhrwEGhAEZD5DpzYoIaA2UAM4kQADUrHZRDUgAIg8wO2XAwzbQXQa5OweQ1owB10AyA6gS7BgX1u3ry5397eHow3bdo0EyjGi00tQIABANPgyAH1q1eaAAAAAElFTkSuQmCC)",
+        "background-position": "0px 0px",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(0, 85, 205)",
+        "border-left-color": "rgb(0, 85, 205)",
+        "border-right-color": "rgb(0, 85, 205)",
+        "border-top-color": "rgb(0, 85, 205)",
+        "color": "rgb(0, 85, 205)",
+        "cursor": "pointer",
+        "display": "inline-block",
+        "font-family": "'open sans', arial, sans-serif",
+        "min-height": "20px",
+        "outline-color": "rgb(0, 85, 205)",
+        "padding-bottom": "0px",
+        "padding-left": "30px"
+      },
+      "element": {
+        "classes": [
+          "expander",
+          "labels"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Labels",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Label",
+            "widget"
+          ],
+          "id": "Label1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "expander",
+            "labels"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Labels"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1088,
+        "top": 452,
+        "width": 141
+      },
+      "computed": {
+        "background-image": "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAALCAYAAACZIGYHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUBJREFUeNrMkSGLAlEUhb+ZB4JFi8mx2cz+ApvhRUGTcUCrNqNJDYIi+DO0GUwmQXDK2DSIoGgZcSaIjDrzwrK4ssvChj1w0733O+fdp+m6PozH4yQSCfb7Pa7r8pOi0SjJZBLP8zgej4gAIMvlMuPxmADIYrHger1+C6lUKmo+NJ/NZojb7SZDWiwWo1qtks1msW2bw+HwZdkwDHq9HvV6nel0SqvVYrvdIh6Ph3Qch+VyqRYLhQJSSjRNw7IsfN9XgGKxSLfbJZfL0e/3aTabrFYr7vc7IujLcOh8PqunrNdr0uk0pVKJVCpFJBJRgEajweVyod1uMxgM2O12BAGUgRbU8DV2JpOhVquRz+cRQii3+XxOp9NRN3jVR5LPOp1OjEYjlSL8hclkgmmabDabt4d+m+S30vkD/R/IU4ABAPTZgnZdmG/PAAAAAElFTkSuQmCC)",
+        "background-position": "0% 50%",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(0, 85, 205)",
+        "border-left-color": "rgb(0, 85, 205)",
+        "border-right-color": "rgb(0, 85, 205)",
+        "border-top-color": "rgb(0, 85, 205)",
+        "color": "rgb(0, 85, 205)",
+        "display": "inline-block",
+        "font-family": "'open sans', arial, sans-serif",
+        "list-style-type": "none",
+        "min-height": "20px",
+        "outline-color": "rgb(0, 85, 205)",
+        "padding-bottom": "0px",
+        "padding-left": "30px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "\n\t\t\t    Subscribe by email\n\t\t\t  ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "h2",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "subscription"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "\n\t\t\t    Subscribe by email\n\t\t\t  "
+      ]
+    },
+    {
+      "bound": {
+        "height": 36,
+        "left": 1088,
+        "top": 500,
+        "width": 180
+      },
+      "computed": {
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n\t\t    Give us feedback in our <a href=\"http://support.google.com/bin/static.py?hl=en&amp;page=portal_groups.cs\">Product Forums</a>.\n\t\t  ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar-bottom",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\n\t\t    Give us feedback in our ",
+        "Product Forums",
+        ".\n\t\t  "
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 311,
+        "top": 1811,
+        "width": 222
+      },
+      "computed": {
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Company-wide",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "maia-footer-local",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "default-blog-footer",
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Company-wide"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 311,
+        "top": 1841,
+        "width": 222
+      },
+      "computed": {
+        "display": "list-item",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googlepublicpolicy.blogspot.com/\" title=\"Public Policy\">Public Policy Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "maia-footer-local",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "default-blog-footer",
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Public Policy Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 311,
+        "top": 1869,
+        "width": 222
+      },
+      "computed": {
+        "display": "list-item",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googleresearch.blogspot.com/\" title=\"Research\">Research Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "maia-footer-local",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "default-blog-footer",
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Research Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 311,
+        "top": 1897,
+        "width": 222
+      },
+      "computed": {
+        "display": "list-item",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googleforstudents.blogspot.com/\" title=\"Student\">Student Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "maia-footer-local",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "default-blog-footer",
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Student Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 563,
+        "top": 1811,
+        "width": 222
+      },
+      "computed": {
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Products",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "maia-footer-local",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "default-blog-footer",
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Products"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 563,
+        "top": 1841,
+        "width": 222
+      },
+      "computed": {
+        "display": "list-item",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//officialandroid.blogspot.com/\" title=\"Android\">Official Android Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "maia-footer-local",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "default-blog-footer",
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Official Android Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 563,
+        "top": 1869,
+        "width": 222
+      },
+      "computed": {
+        "display": "list-item",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//chrome.blogspot.com/\" title=\"Chrome\">Chrome Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "maia-footer-local",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "default-blog-footer",
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Chrome Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 563,
+        "top": 1897,
+        "width": 222
+      },
+      "computed": {
+        "display": "list-item",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//google-latlong.blogspot.com/\" title=\"Lat Long\">Lat Long Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "maia-footer-local",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "default-blog-footer",
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Lat Long Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 815,
+        "top": 1811,
+        "width": 222
+      },
+      "computed": {
+        "line-height": "18px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Developers",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "maia-footer-local",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "default-blog-footer",
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Developers"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 815,
+        "top": 1841,
+        "width": 222
+      },
+      "computed": {
+        "display": "list-item",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googleadsdeveloper.blogspot.com/\" title=\"Ads Developer\">Ads Developer Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "maia-footer-local",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "default-blog-footer",
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Ads Developer Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 815,
+        "top": 1869,
+        "width": 222
+      },
+      "computed": {
+        "display": "list-item",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//android-developers.blogspot.com/\" title=\"Android\">Android Developers Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "maia-footer-local",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "default-blog-footer",
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Android Developers Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 815,
+        "top": 1897,
+        "width": 222
+      },
+      "computed": {
+        "display": "list-item",
+        "list-style-type": "none",
+        "min-height": "0px",
+        "padding-bottom": "3px",
+        "padding-top": "3px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n<a href=\"//googledevelopers.blogspot.com/\" title=\"Developers\">Developers Blog</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "maia-footer-local",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "default-blog-footer",
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Developers Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 311,
+        "top": 1996,
+        "width": 978
+      },
+      "computed": {
+        "font-size": "11px",
+        "line-height": "24px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "static"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "ul"
+      },
+      "html": "\n<li>\n<a href=\"//www.google.com/\">Google</a>\n</li>\n<li>\n<a href=\"//www.google.com/intl/en/policies/\">Privacy &amp; Terms</a>\n</li>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "maia-footer"
+          ],
+          "id": "maia-footer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "maia-footer-global",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        "Google",
+        "Privacy & Terms"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 41,
+        "left": 332,
+        "top": 31,
+        "width": 116
+      },
+      "computed": {
+        "border-bottom-color": "rgb(99, 102, 106)",
+        "border-left-color": "rgb(99, 102, 106)",
+        "border-right-color": "rgb(99, 102, 106)",
+        "border-top-color": "rgb(99, 102, 106)",
+        "color": "rgb(99, 102, 106)",
+        "display": "inline",
+        "font-family": "'open sans', arial, sans-serif",
+        "font-size": "32px",
+        "font-weight": "300",
+        "line-height": "35px",
+        "min-height": "0px",
+        "outline-color": "rgb(99, 102, 106)",
+        "padding-bottom": "0px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h1",
+        "a",
+        "span",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "blog-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Header",
+            "widget"
+          ],
+          "id": "Header1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "logo"
+          ],
+          "id": "",
+          "name": "h1"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.google.com/images/logos/google_logo_41.png"
+    },
+    {
+      "bound": {
+        "height": 188,
+        "left": 827,
+        "top": 0,
+        "width": 442
+      },
+      "computed": {
+        "line-height": "18px",
+        "min-height": "0px",
+        "padding-bottom": "0px",
+        "position": "absolute"
+      },
+      "element": {
+        "classes": [
+          "product-logo"
+        ],
+        "id": "Header1_headerimg",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "blog-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-aux"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Header",
+            "widget"
+          ],
+          "id": "Header1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "product-logo"
+          ],
+          "id": "Header1_headerimg",
+          "name": "img"
+        }
+      ],
+      "src": "http://2.bp.blogspot.com/-Q1RrkwT7FQg/UG7b219OG-I/AAAAAAAABY0/o0hkAxtkpno/s1600/default-ogb.png"
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1133,
+        "top": 569,
+        "width": 90
+      },
+      "computed": {
+        "border-bottom-color": "rgb(36, 93, 193)",
+        "border-left-color": "rgb(36, 93, 193)",
+        "border-right-color": "rgb(36, 93, 193)",
+        "border-top-color": "rgb(36, 93, 193)",
+        "color": "rgb(36, 93, 193)",
+        "display": "inline",
+        "line-height": "18px",
+        "min-height": "0px",
+        "outline-color": "rgb(36, 93, 193)",
+        "padding-bottom": "0px",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "maia-main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-cols"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "maia-col-3"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "aside",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section"
+          ],
+          "id": "sidebar-bottom",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "youtubewrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAYAAAAN+ioeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpGN0RCM0Y1NzI4MjA2ODExOTdBNUQxQ0M1NEE2QzExMiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFMTZBNkNFNDZCNkExMUUyQjU5NEIwNkI4MEVGMzA1NyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpFMTZBNkNFMzZCNkExMUUyQjU5NEIwNkI4MEVGMzA1NyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RDNBQkU0RDE1NzIxNjgxMTgwODM5NzA5REQxQzFGMDEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RjdEQjNGNTcyODIwNjgxMTk3QTVEMUNDNTRBNkMxMTIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5lcn//AAAFVUlEQVR42uxZW0icRxQ+u65bNV7ibY1otNSYhCB9CKGkq7EGShGpQpUSIo0YTXyoF/LghQRapDGxQWwMVEFEX9RKEbQhFixeg7d9KWKVEA1SqMYUq6u73neza//v1H/77+qqWdcnPTDM/HPOf2bm+79zZmZX1pB67ZvZ5z3FBq1WTocgn/Zp6IjLG6Fkyn4IUZkilpfkfnLn4zywvkGFK4YjjbJOp6PJyck3CjD5pNt7ZD6kgTY3N4800N7e3qiCFQyGjXLQaHLIqdrV5RhoO8JAS9k8JIBcoNU75KzMz5s+tgHbbDYfoywCbZKwzlGQxXefq04eM3oHkYuMNtsw21ZM6+v7cmjrC4y2V/r7+yk9PZ3UajUlJSVRa2vrrvYo4+PjbI96L1tHCnyL85C2D1LeCejn6ks080uL04Cem5ujwsJCio6OpsbGRkpNTaWysrI9AbRNS84umEtcXNz/AAmnMacBbZIUe7I2PU3DWRmk+eJz0o/+YZ/5Nr7sDT4/P896lUpFYWFhdP36dbp37x7JZDLWFxcX08DAALenpqb4GbWYirq7uyk5OZmL1C4zM5NiY2Ot+lE6Ojq4DzqAKfX79OlT7h8eHqa6ujoaGxuzAPTq1SuLT/E98YPsNM6BGS3K/EA/9X92lcaK8sm4uOgwoyMjI+ny5cv06NEjunLlCpWWlpKvry+dOXOG9QBSq9Vye21tjZ9Ri0CD+RUVFRQREUHl5eW0srJCtbW1zEAxQsT3Aej9+/cpKyuLHjx4QNXV1TQ4OGjx29fXxx85PDycurq6ONpEgKDLz8+njIwMfm9iYoI6Ozu5XVNTQ3fu3KG7d+/yGE5htNUO6ulJHuHvk4uHh8OMNhgM9OTJE54sFvHy5UsqKCiglpYWqxSBtggualGXm5tLoaGhlJOTw8BMCxF34cIF/gBg6aJAAjzDHkyFJCQkMAuRd2NiYix+wVjots68Vqel27dv0/nz5+nWrVuWDzw0NETnzp3jOeNCAsEYewMtDCiW3UQmsOV06lcUp/mdPvg6h+RK5XagbXxhMTsVhGRJSQmDhUU0NDQww0dHR61OKqK9bRtsNRqNzEqem5BykH7w4eLj40mj0dDNmzfZzsXlvyMnbNeFTX15eZk2NjYsvhAF0JlMpm2npYWFBSYFIka0lW/dosUa0RAVFWV3re+UOnwvfUQxHb30YcWPpPQPOPBm6ClExbNnz6iyspLZ0N7ejqsqAw99YGAg9fb2cqg2NTVtG6e+vp51CGHYIuUg/eD54sWLlJKSwnarq6v8DMF4SA03btxgVkpBlbJPGjnNzc00MjLCaQkCX0h1YHZAQADvLy9evCBXV9ddGa2gfaYM9a+/gTZ72tn6sndhOXXqFOfYqqoqamtrI39/fz7iIbe+ffuWWfLw4UPKzs7m0tPTY+UL7Ef/2bNn6fHjx8xQAIh8DSYDBPgICQlhe+Rm2CHN5OXlWcCSksEWeEhiYiJ/QEQMfMBvcHAw+ygqKmKbtLQ08vHx2fVyJvveXbF5Wulq6fjyH92BDubNgT6W9pTBSOl/Ttu1dXd3pxMnTnBoY3EI66WlJW5D5+XlxQsEKz2E/QBhzNElbJpiH8Jdr9dzeCsUCl4wavhAuIshD1tEkegP4yiF1AdfYnqABAUFcWrBe2gjpbi5ubEO/XgXgrl5bO1RsBHnvZNg/2CgQyRAQ645CPbPEpAhrwWg0yb/OvK3wpmZme1XcMhPAd7Hv94d9o9KzpbjH5W2gFb6+Zk39Dq5ch8b3TGj312wSQvyt0L1ydXvZnu7v9UtLBzKX1mzs7NHncyvhZL1rwADAKocEAlvZpUpAAAAAElFTkSuQmCC"
+    }
+  ]
+}

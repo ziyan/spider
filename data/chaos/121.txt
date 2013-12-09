@@ -1,6 +1,3 @@
-SIMRANK++: PUTTING TOGETHER 3 SIMPLE IDEAS (POSTED BY IOANNIS ANTONELLIS)
-Two ideas that really pushed web search further came from two completely different directions.
-
 Two ideas
 
 The first one, link analysis, came into play as a tool for improving the quality of search results. The idea as people express it today is simple, yet its power has been proven invaluable. The more web pages that link to your web page, the more popular your web page becomes.
@@ -40,9 +37,3 @@ Sounds confusing, but it reveals the power of recursion. Initially each query/ad
 Are these scores always correct? How can we even define what a correct score is? And how does everything change when you try to take into account the edge weights of the click graph in the computation of the similarity scores?
 
 The answers to these more detailed questions are in the paper...
-Labels: click graph, collaborative filtering, ioannis, link analysis, recommendation system, search advertising, simrank++, sponsored search, yannis
-
-This entry was posted by Ioannis Antonellis, on Friday, June 6, 2008. You can leave your response.
-
- PAUL HEYMANN | JUNE 13, 2008 2:07 PM |
-Hey Yannis, isn't link analysis also the Wisdom of Crowds? What's up?

@@ -1,5 +1,4 @@
-﻿CIDR 2009 TRIP REPORT (POSTED BY STEVEN WHANG)
-This collaborative blog post was written by InfoLab members who attended the recent CIDR conference held Jan. 4-7, 2009 at the Asilomar Conference Grounds. The viewpoints in the blog do not necessarily represent the entire InfoLab. 
+﻿This collaborative blog post was written by InfoLab members who attended the recent CIDR conference held Jan. 4-7, 2009 at the Asilomar Conference Grounds. The viewpoints in the blog do not necessarily represent the entire InfoLab. 
 
 Instead of trying to cover all the interesting work presented, we focus on major trends centered on the two keynotes and the Best Paper Award. These three talks covered important research directions for the database community: user interfaces, power-sensitive systems, and new hardware for databases. We then briefly mention works by InfoLab members/alums.
 
@@ -49,12 +48,3 @@ Ramana Yerneni (alum): "A Scalable Data Platform for a Large Number of Small App
 Janet Wiener (alum): "Visualizing the Robustness of Query Execution"
 Marianne Winslett (alum): "Remembrance: The Unbearable Sentience of Being Digital"
 Jeffrey Naughton (alum): "The Case for a Structured Approach to Managing Unstructured Data"
-
-Check out other blog posts on CIDR 2009 by Joe Hellerstein, Pat Helland, and Leigh Dodds.
-Labels: 2009, CIDR, infolab, trip report
-
- RAGIB HASAN | JANUARY 31, 2009 12:22 PM |
-Nice job summarizing the main aspects. It was great to meet with you guys.
-
- STEVEN | FEBRUARY 1, 2009 5:35 PM |
-Hi Ragib, it was great to see you too!

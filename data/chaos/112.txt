@@ -1,6 +1,4 @@
-﻿Posted by: yglima | September 25, 2010
-ERT14: Factors, conditional expectation, disintegration and relative product of measures
-After a long hyatus of about three months, I finally have time to write a new post. =)
+﻿After a long hyatus of about three months, I finally have time to write a new post. =)
 
 This post develops necessary machinery to define relative notions of compact and weak mixing systems, seen in the previous posts. These notions are the basic objects used by Furstenberg in his structural theorem, which we shall investigate next month.
 
