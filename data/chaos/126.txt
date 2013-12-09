@@ -1,0 +1,202 @@
+﻿The gifts keep on coming: photos and comments are here for Android!
+
+Dec 22nd
+As promised, the Android update is here for the holidays! It’s got all the same features as the new photos and comments version for the iPhone, and a couple of extra goodies: two foursquare widgets for your home screen.
+
+The new hotness is the addition of photos and comments:
+
+Comments make meeting up and exploring so much easier. Improve your day by telling a friend that you’re around the corner and they should swing by. Getting a last-minute comment reminding you to order the best dish saves your meal. (You can even comment on the website and from check-in links posted to Facebook and Twitter!)
+Photos change everything. Share moments with friends, see a venue and dishes before you leave the house. Your cute puppy pics! (and tips with attached photos are coming in the next update)
+The past comes to life. You can visit your history page on foursquare.com to see all the places you’ve been, with photos and comments preserved. Remembering is more fun than ever.
+In addition, there are two exclusive Android home screen widgets: one to enable quick check-ins, and one to see your friends’ latest activity.
+
+
+
+We’ve received a ton of great feedback from iPhone users, and have been working around the clock on this update (literally – we have one Android developer in NYC and one in Australia). We’re both extremely excited and pretty tired; hope you enjoy this!
+
+Visit the Android marketplace now to download it (or scan this barcode).
+
+
+
+Happy holidays from team foursquare!
+
+P.S. Once again, we’ll have BlackBerry and WebOS in early January, and all other platforms in early 2011.
+
+Posted in Android Foursquare
+View Comments
+LikeDislike 39 people liked this.	
+Community
+Disqus
+Add New Comment
+
+Logout
+ 	ofey (edit profile | view dashboard)
+6 comments 1 like received
+Post as ofey
+Showing 40 comments
+
+Sort by      Subscribe by email    Subscribe by RSS
+ 	
+David Ruiz Urraca 1 week ago
+Wow!
+It sounds great!
+
+Does the Android version have push notifications?
+facebook-1528737931 liked this  Like   Reply
+ 	
+foursquare   3 days ago in reply to David Ruiz Urraca
+not yet!
+ Like   Reply
+ 	
+Keen_competente 18 hours ago
+How do i add my business on foursquare?
+ Like   Reply
+ 	
+foursquare   14 hours ago in reply to Keen_competente
+See here: http://support.foursquare.com/...
+ Like   Reply
+ 	
+SFMel 1 day ago
+I really wish there was a businesses tab and a personal tab, so that when I'm trying to see what venues are close by my location, I don't have a bunch of "So and So's Apartment" or "Pookie's Bed" come up.
+ Like   Reply
+ 	
+foursquare   14 hours ago in reply to SFMel
+all venues categorized as home will not show in the nearby places tab. we're working to get more venues categorized correctly!
+ Like   Reply
+ 	
+GTZ 1 day ago
+The new features (camera and comments) do not work on my Xperia X10 Mini android. I get a message that Foursquare (proces com.joelapenna.foursquared ) stopped. How can I fix this?
+ Like   Reply
+ 	
+foursquare   14 hours ago in reply to GTZ
+are you running a factory version of android? make sure to grab the latest version of foursquare.
+ Like   Reply
+ 	
+David V Kimball 3 days ago
+Will there be a similar release for the Windows Phone 7 app as well?
+ Like   Reply
+ 	
+foursquare   14 hours ago in reply to David V Kimball
+yes, coming soon!
+ Like   Reply
+ 	
+Rockin Rose 3 days ago
+This is so great! My checkins quit posting to FB awhile ago and now they post and so do my badges which never posted at all before. I don't see the widgets though like it shows in the picture.
+ Like   Reply
+ 	
+Jason 4 days ago
+It's programs like this that make me want to upgrade from my palm even more!
+ Like   Reply
+ 	
+Andkamau 4 days ago
+Nice update... however, adding photos from gallery fails for me. 
+Is there a size limit or something?
+ Like   Reply
+ 	
+Pkazmi 5 days ago
+No BB love :(
+ Like   Reply
+ 	
+Sweet W 6 days ago
+really like this app. , but i cannt share my checked-in on my facebook.
+ Like   Reply
+ 	
+foursquare   3 days ago in reply to Sweet W
+go to foursquare.com/settings to send check-ins to facebook. see here for more troubleshooting: http://support.foursquare.com/...
+ Like   Reply
+ 	
+Fernando Batista 3 days ago in reply to foursquare
+The application of foursquare on facebook does not work with "Places I check in to" work as a normal application, so it is not possible to share lists with friends. The Gowalla works well with "Places I check in to. " What is the solution?
+ Like   Reply
+ 	
+foursquare   3 days ago in reply to Fernando Batista
+There is no foursquare integration with Facebook Places. You can post your foursquare check-ins to your Facebook wall/newsfeed though!
+ Like   Reply
+ 	
+Fernando Batista 3 days ago in reply to foursquare
+Then I have no form of sharing my foursquare check-in with just a list of friends?
+ Like   Reply
+ 	
+foursquare   2 days ago in reply to Fernando Batista
+well...foursquare itself is an edited list of friends. you can curate which Facebook friends you want to see your wall (where foursquare check-ins show). for now, those are the sharing options we offer.
+ Like   Reply
+ 	
+pete a 1 week ago
+this guy cheats at foursquare http://foursquare.com/user/108... made up a fake ski shop to get ski bum badge and just overall cheats i encourage everyone to check out this guy and complain to foursquare
+ Like   Reply
+ 	
+foursquare   3 days ago in reply to pete a
+thanks for letting us know.
+ Like   Reply
+ 	
+Apostol Apostolov 1 week ago
+Great update, except that the widgets are barely functional. Foursquare Places widget either shows Loading... for ages, or it gets few options and then never updates them - I could move elsewhere and the suggestions are all old and not actual anymore.
+ Like   Reply
+ 	
+foursquare   1 week ago in reply to Apostol Apostolov
+We just noticed this on a couple phones, so we're looking into this now!
+ Like   Reply
+ 	
+Guest 1 week ago
+I wanted to thank you for this great read!!
+ Like   Reply
+ 	
+SongSaLueng 1 week ago
+Christmas Cheer!
+ Like   Reply
+ 	
+Fernando Batista 1 week ago
+A novidade do dia. :)
+ Like   Reply
+ 	
+Mulls 1 week ago
+Boom! Been waiting for these.
+Christmas Cheer!
+ Like   Reply
+ 	
+Jude Milstan 1 week ago
+great stuff guys
+ Like   Reply
+ 	
+Sd0 1 week ago
+How do I add the special widget? They don't appear in my Android...
+ Like   Reply
+ 	
+Rockin Rose 3 days ago in reply to Sd0
+I don't see them neither..
+ Like   Reply
+ 	
+foursquare   1 week ago in reply to Sd0
+Go to an empty home screen, tap and hold, and then click on widget from the menu that pops up. You'll see two options for foursquare--the one you click on will be added to your home screen!
+ Like   Reply
+ 	
+Rockin Rose 3 days ago in reply to foursquare
+I clicked on widgets and don't see anything foursquare is it under something else? I see the picture of it up top here on this page. And it looks cool! I'll check again.
+ Like   Reply
+ 	
+foursquare   3 days ago in reply to Rockin Rose
+it's under foursquare. make sure to upgrade to the latest version of the app!
+ Like   Reply
+ 	
+Skythe 1 week ago
+Thx Foursquare :D
+ Like   Reply
+ 	
+Ben 1 week ago
+Sniff,Sniff, nothing new for Palm users. Oh well I guess Foursquare isn't that great.
+ Like   Reply
+ 	
+foursquare   1 week ago in reply to Ben
+the great third party Palm developer tells us he'll have the webOS version ready soon!
+ Like   Reply
+ 	
+Miracle J. (MiKi) 1 week ago
+Nicee ;) u work so hard x
+ Like   Reply
+ 	
+Ktcoleman30 1 week ago
+Just updated, can't wait to try it out!!
+ Like   Reply
+ 	
+Jess S. 1 week ago
+Whoop, thanks for this!! Happy Holidays! :)

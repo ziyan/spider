@@ -1,0 +1,27 @@
+﻿All Household Appliances Should Be Made By Apple
+
+Alexia Tsotsis
+Dec 26, 2010
+
+
+Like many of you, I am visiting family this holiday season and nowhere does gadget snobbery become more apparent than during gatherings with loved ones. Aside from the ubiquitous “Whose phone is faster?” question, which in my case led to an email race at Christmas dinner, there is endless potential for the marginally tech savvy to show off during the holidays.
+
+But all the superiority gleaned from being able to load non-iTunes purchases into your mom’s iPod is tossed out the window when faced with a relative’s overly complex coffee machine, an arbitrarily complicated alarm clock and two separate indecipherable TV remotes for one TV.
+
+In my first encounter with my family’s new Cuisinart Coffee Maker CHW-12 Cup Programmable with Hot Water System, I ended up confused by the superfluous “Hot Water System” and poured the water intended for coffee in there instead of the coffee maker, costing myself an extra 20 minutes trying to figure out how to extract coffee from the infernal thing. I almost went to Starbucks.
+
+Many people received iPads and iPhones this Christmas, and because of Apple’s legendary intuitive and straightforward design, could pull them right out of the box and commence using. Not the case with a battery powered pepper grinder one of my relatives received at our gift exchange. It took three people to put together and when we did get it to work, we hilariously realized that it had a flashlight at the bottom, for no reason. Novel? yes. Productive? No.
+
+In my own home, I use a De’Longhi Magnifica espresso machine, which is the closest thing to what would happen if Apple made a coffee machine. With literally a push of a button, it grinds coffee beans, brews them and even cleans itself afterwards.
+
+I am not alone in the quest for simpler appliance design, Coding Horror’s Jeff Atwood is similarly befuddled by the controls interface of a microwave:
+
+“I was struck, the other day, by how much I had to think when attempting to heat up my sandwich in the microwave. There are so many controls: a clock, a set of food-specific buttons, defrost and timer controls, and of course a full numeric keypad. Quick! What do you press?”
+
+The saddest thing is that appliances used to be simpler. Old style microwaves used to have one knob, that only represented time. Now we’ve got a controls for various foods and buttons for “More,”"Less,”"Dinner Plate,”"Defrost,” the cryptic “Auto-Defrost” and so on when all we end up doing is putting our Hot Pockets in there and trial and erroring our way to the perfect cooking time. “Hmm, this looks like it is about done.”
+
+Dieter Ram’s appliance designs for Braun, which inspired the design team at Apple, hearken to a pre-digital touchpad era when design aspired to help us understand products or at least be unobtrusive. I guess I have the seventies to thank for the fact that I’ve got a radio alarm clock next to me right now that I have never used because I seriously can’t figure out how to the set the controls to get it to wake me up. I use my iPhone.
+
+Notice how the title of this post isn’t “All Appliances Should Be Made By Apple” or even “All Computers Should Be Made By Apple” (or the byline would be something along the lines of “MG Siegler”). There are moments in life where you need a PC, but there aren’t many where you need your coffee maker to also warm water for tea, your pepper holder to double as a flashlight, or one remote to turn on your TV and another to change the channel.
+
+Image: Coding Horror

@@ -1,0 +1,67 @@
+﻿Fixing Bad Astrophotography Using Mathematica 8 and Advanced Image Deconvolution
+December 27, 2010
+Tom Sherlock, User Interface Group
+Here is a shot I took of M27, the famous Dumbbell Nebula, with my home-brew 90mm astrograph and inexpensive equatorial mount.
+
+Actually, it isn’t a single shot, but a combination of about 30 fairly short exposures, added together. Adding together short subframes rather than taking a single longer exposure makes it possible to create astrophotos without additional equipment for “guiding” the telescope. Guiding means applying small corrections, either manually or automatically, during the exposure to compensate for imperfections in either the mount’s alignment away from the polar axis or the mount’s drive mechanism. Combining the subframes has the additional benefit of reducing noise and increasing the signal to produce a result similar to a much longer exposure.
+Before we go further, it’s fun to look up information about M27 using the new Wolfram|Alpha features built in to Mathematica 8.
+
+
+In my photo, notice the egg-shaped stars. In addition to normal “bloating” of the pixels around bright stars, these are due to the mount being slightly misaligned from the polar axis, which caused a slight drift, and also from the stacking process, which averaged the drift and tracking errors into oval blob-shaped stars.
+Luckily we can use the new deconvolution features in Mathematica and Mathematica Home Edition’s image processing package to reduce the effects of these errors.
+First, I bring the stacked FITS image file directly into Mathematica:
+
+These are the RGB color components of the image:
+
+After combining the color components to form a full color image, we can automatically crop out the borders caused by the stacking process:
+
+It is difficult to see the nebula in this image because we haven’t yet stretched the contrast to emphasize it. We will do that in the last step because we don’t want to introduce spurious noise at this point into the deconvolution routines.
+We can assume that this image is a “perfect” image that has been distorted by a mathematical function, which has transformed the point images of the stars into the egg-shaped blobs we see here. This function, known as a point spread function (or PSF), combines the tracking errors of the mount and the distortions produced by the imperfect optics (and all optics are imperfect, by the way) and the atmosphere.
+If we can estimate the PSF, Mathematica 8 has some new tools in its image processing package that will let us recover an approximation of the perfect image from the distorted image above.
+For this, we are going to use Richardson–Lucy (RL) deconvolution [1-2].
+Image deconvolution is a mathematical technique to remove the effects of a distorting function on the signal portion of an image. Deconvolution has been used famously in the past to improve early images taken by the Hubble Space Telescope before corrective optics were installed to compensate for the spherical aberration in its flawed primary mirror.
+We can model a distorted image by representing the observed pixel value at location i in the bad image, bi as a convolution of the point spread function with the good image:
+
+Here, pij is the point spread function, which is the portion of the light coming from position j that is observed at position i, and gj is the “true” pixel value at location j in the good image.
+If we can estimate the PSF, Richardson–Lucy deconvolution can estimate the successive approximations of the good pixel gj from the bad pixels bi by using an iterative process:
+
+where the weights are:
+
+We have to estimate the point spread function that describes the distortion. Luckily the PSF can easily be derived from the image itself.
+As a brief aside, because of the wave nature of light, given perfect optics and atmospheric conditions, stars will appear in a telescope’s field of view as ring-shaped diffraction patterns, which we can simulate by plotting sin(r)2/r2:
+
+For low magnification images, where the image scale is much larger than the scale of the above diffraction pattern (typically on the order of an arc second for amateur scopes), we can take the stars to essentially be point images. Therefore, in order to estimate the point spread function, we can use a distorted, unsaturated image of a star in the input image as a reasonable approximation.
+To approximate the PSF, we need a star that best represents the tracking error. We need a dim star because we don’t want to be affected by the CCD camera’s bloating effect that occurs when exposing bright stars. Luckily, Mathematica makes picking stars out of the image easy. Here we use ComponentMeasurements and MorphologicalComponents to obtain the pixel coordinates of all the stars a certain amount above the background:
+
+Once we have their coordinates, we can use ImageTrim to carve these out of the original image with a bit of padding, and then choose a star:
+
+We need to remove background noise from the PSF before using it, because the deconvolution algorithms are highly sensitive to noise:
+
+and then normalize the values:
+
+Now it can be used as part of the input into the new Richardson–Lucy image deconvolution feature in Mathematica 8’s image processing package:
+
+Finally, we stretch the image to bring out the nebula:
+
+The stars are smaller and more symmetric. The purple halos around the brighter stars are a product of the chromatic aberration caused by achromatic optics in the telescope. If you look closely, there is also a faint, dark “ringing” around the star images, which is an artifact of the RL deconvolution process.
+The Richardson–Lucy algorithm, dating from 1972, is a venerable and widely used image deconvolution algorithm. Mathematica 8 also includes newer algorithms, which can also be used in astronomical image processing. For example, the Steepest Descent algorithm [3] produces similar results to RL in fewer iterations, has less ringing, and brings out fainter details that reveal the bubble-like nature of the nebula:
+
+In conclusion, Richardson–Lucy, Steepest Descent, and other deconvolution algorithms in Mathematica 8 provide powerful tools for cleaning up and enhancing astronomical images. In future blog entries, I’ll show how other image processing techniques can be used to further enhance these images.
+
+Bibliography
+1. Richardson, W. H. “Bayesian-Based Iterative Method of Image Restoration.” Journal of the Optical Society of America 62, no. 1 (1972): 55-59.
+2. Lucy, L.B. “An Iterative Technique for the Rectification of Observed Distributions.” Astronomical Journal 79, no. 6 (1974): 745-754.
+3. Nagy, J.G. and Z. Strakos. “Enforcing Nonnegativity in Image Reconstruction Algorithms.” In Proceedings SPIE Mathematical Modeling, Estimation, and Imaging, 182-190, 2000.
+Permalink
+add this | del.icio.us | digg | reddit | slashdot
+Comments
+Really interesting, thanks for that. It would be nice to have a before and after shot next to each other to compare. Any possibility of adding this to the post?
+Many thanks,
+Jonathan
+Posted by JonathanDecember 27, 2010 at 4:52 pm
+Useful example of some of the new tools. It would be nice to have the original fits file so we could play with it and compare results.
+Posted by Mike BurnsDecember 27, 2010 at 9:31 pm
+very nice and interesting surprise
+Many thanks,
+Lukasz
+Posted by LukeDecember 28, 2010 at 3:11 am

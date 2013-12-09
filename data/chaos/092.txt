@@ -1,0 +1,42 @@
+﻿The Legacy of TRON
+December 14, 2010
+Ed Pegg Jr, Scientific Information Group
+Editorial note: A future post will explore some of the contributions to the visual arts and media facilitated by Mathematica.
+The year 1982 saw a lot of important movies: Blade Runner, E.T.: The Extra-Terrestrial, Poltergeist, Star Trek II: The Wrath of Khan, The Thing, Mad Max 2: The Road Warrior, Pink Floyd The Wall, First Blood, Conan the Barbarian, Fast Times at Ridgemont High, The Dark Crystal, and TRON.
+I used Mathematica functionality to turn the TRON logo into something you can manipulate. You can download my notebook to play with the logo. (Mathematica Home Edition could be used to do this as well.)
+
+
+In the early 1980s, there were four main firms doing computer graphics: Information International, Inc., Robert Abel and Associates, Mathematical Applications Group, Inc., and Digital Effects Inc. For TRON, all four firms were hired. For example, Digital Effects produced the Bit sequence. Bit’s “no” state is the 35th stellation of the icosahedron. The null state is a dodecahedron-icosahedron compound.
+
+TRON marked the first time computer animation was a major part of a movie. Systems of the era had 2 MB of memory and used disks with 330 MB of storage. To compensate for this, they faded anything non-vital to black to save on memory. The Academy of Motion Picture Arts & Sciences refused to consider a special effects award for TRON because the use of computers was considered cheating at the time.
+The Light Cycle sequence was based on the computer game Surround (also called Snake, Blockade, and Worm). For me, it was one of the first times the Cartesian grid was rendered in an exciting way.
+
+Many staples of computer graphics today, such as Perlin noise, were originally developed for TRON. The sequel, TRON: Legacy, has a reputation to follow—not only cutting edge computer graphics, but also general computer geekiness. For example, the rotating scoreboard in one of the TRON: Legacy games has 16 notable computer scientists (image below from Justin Springer’s The Art of TRON: Legacy).
+
+Here are a few of the scientists listed on the scoreboard:
+Tim Berners-Lee developed the World Wide Web.
+Thomas Eugene Kurtz developed the BASIC programming language.
+J. Presper Eckert developed ENIAC.
+Peter J. Landin developed ALGOL.
+Ed Logg developed Centipede and Gauntlet.
+William Wulf developed the BLISS programming language.
+John Backus developed FORTAN.
+Alan Turing developed many of the initial concepts of computers.
+Seymour Cray developed supercomputers.
+If a teapot appears in the movie, you can bet that it will be a Utah teapot, which is a historically famous computer graphic image.
+
+The director of the sequel is Joseph Kosinski, who got his start with computer graphics and their applications to architecture. Very early on in the development of TRON: Legacy, he digitally created all the sets. As always happens in architecture, these designs saw many changes. In some movies, the effort would have stopped there—the Star Wars prequels are good examples. Instead, most of the sets were physically built.
+Classically, movies created a sense of awe with “How did they do that?” type effects. Computer graphics have become so good that they became the answer to every question, which served to deflate the awe. The movie Iron Man broke that cliche by really using props in many cases where they could have used computer animation. TRON: Legacy has continued in that line, by letting the film crew control the computers instead of the other way around.
+I greatly look forward to seeing it.
+Download notebook
+Comments
+Here’s a related post about algorithms inspired by Tron — http://11011110.livejournal.com/210416.html
+Posted by Yaroslav BulatovDecember 14, 2010 at 6:04 pm
+I downloaded the .nb file, but there was no “turn the TRON logo into a Manipulate” code. Just the article….. Could you send a link?
+Thanks.
+Posted by Barrettt A. LeslieDecember 15, 2010 at 3:44 am
+http://www.wired.com/magazine/2010/11/ff_tron/
+Posted by Herbert ExnerDecember 17, 2010 at 8:15 am
+I like it , it is Very cool!!
+Posted by Jorge Gamaliel Frade ChàvezDecember 19, 2010 at 8:14 pm
+

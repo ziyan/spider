@@ -1,0 +1,16 @@
+﻿Email delegation: Granting access to your Gmail account
+Tuesday, December 14, 2010 | 2:00 PM
+Posted by Hari Nidumolu, Software Engineer
+
+I use two Gmail accounts: one is my personal account and the other I share with my family (we use it to subscribe to groups like my children's classroom mailing list). Checking these two different accounts used to mean I had to sign out and back in to Gmail all the time. Not anymore. Instead, I can grant my personal account access to my shared family account and view, organize and send mail on behalf of our shared account.
+
+We've offered email delegation for Google Apps accounts for a while — it's super useful for people who want their assistants to have access to read or respond to mail on their behalf. Now this functionality is available for anyone using Gmail. To grant access to another account, click the Settings link in the top right corner of Gmail. On the "Accounts" tab, you'll see a new section where you can "Grant access to your account." For example, below we've given hikingfan@gmail.com access to the hikingfanfamily@gmail.com account. 
+
+
+The account you add will get a verification email with links to accept or deny access. Once the account accepts and you've refreshed your browser or logged in and out again, you'll see a small down arrow beside the email address at the top right corner of Gmail which can be used to toggle between accounts — in this case hikingfan@gmail.com and hikingfanfamily@gmail.com.
+
+
+Each account will open in a different browser tab or window so you can view both accounts simultaneously, all while signed into your primary account. When you send a message from hikingfanfamily@gmail.com while signed in as hikingfan@gmail.com, it will appear as being sent by hikingfan@gmail.com on behalf of hikingfanfamily@gmail.com. 
+
+
+Signing out of any one of the accounts will sign you out of all the accounts you're currently viewing, and, of course, you can revoke access at any time.

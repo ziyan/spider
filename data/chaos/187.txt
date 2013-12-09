@@ -1,0 +1,18 @@
+﻿September 29, 2010
+Stats Gadgets Graduate from Draft
+Last month we released two new stats gadgets to the Blogger in Draft testing ground; after hearing your feedback and making a few tweaks, we’re happy to announce that they are both now ready for the main stage. The new-and-improved Popular Posts and Blog’s Stats gadgets can be added to your blog right now from the Gadget Directory by clicking Add a gadget from the Design | Page Elements tab.
+
+
+
+
+Both of these gadgets take advantage of the traffic data that is being collected by Blogger Stats and provide an easy way for you to pass that info on to the readers of your blog.
+
+The Popular Posts gadget will automatically find and display your blog’s posts that have the most pageviews. You can choose whether to display image thumbnails or post snippets in addition to the post title. You can also choose the time window to be used for calculating pageviews and the number of posts you’d like to display.
+
+
+
+The Blog’s Stats gadget lets you show off pageview data for your blog, with a handful of configuration options that are easily controlled. You can choose from a variety of styles and display options to suit your blog. We also provide an option to let you select the time window to be used for calculating pageviews.
+
+
+
+We hope you enjoy these new gadgets and want to thank you again for your feedback as we fine-tuned them to their current state.

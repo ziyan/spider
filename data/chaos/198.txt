@@ -1,0 +1,14 @@
+﻿Coming Up: Meet the Makers
+Posted December 27, 2010 by Jane Wells. Filed under Community.
+I am often asked how decisions are made for WordPress, who’s involved in decision-making, and how the open source project is structured in general. WordPress is a meritocracy, meaning that anyone can get involved, and a combination of the quality of someone’s contributions and their level of interest/time commitment will determine how much influence they have over decisions. Because these factors vary, we have several levels of contributors to the core WordPress application, ranging from full-time lead developers to casual one-patch contributors.
+
+I loved it when that Intel commercial in 2009 gave Ajay Bhatt, co-inventor of the USB, some recognition as a rock star of geekland (though I hated it that it wasn’t actually Ajay Bhatt, but an actor — way to kill the message, Intel).1 In WordPress-land, most people know who Matt Mullenweg is, but most of the other leaders and contributors are much less visible. Moving forward, I’m going to be posting profiles here of some of our more dedicated contributors.
+
+Why now? We’re coming up on the second annual WordPress core leadership meetup in January 2011, and we’re thinking we’ll hold a video town hall at some point during our time together. Between now and then the profiles I post will be of the core developers who will be at the meetup. After that, I’ll be branching out and posting about other contributors, including developers, designers, forum moderators, etc.
+
+I’ll post here in January when we have dates/times set for the video town hall. In the meantime, you can submit questions for us to answer then in the forum thread What Should 2011 Hold for WordPress?
+
+To get a sense of how all these people fit together and how decisions are made, you can check out the presentation I did at WordCamp Portland in October on How WordPress Decisions Get Made.
+
+1 – And how lame is it that Conan O’Brien’s interview with the real Ajay Bhatt is no longer available on the The Tonight Show’s website, and everyone’s embedded videos are blank? I found a copy of it here. And here’s the original Intel commercial if you were living under a rock and never saw it. 
+

@@ -1,0 +1,103 @@
+﻿The Difference Engine: Politics and the web
+Dec 24th 2010, 7:57 by N.V. | LOS ANGELES
+
+
+
+Picture courtesy of Taramisu at Flickr.com (Creative Commons)
+
+IN THE game of political football that the debate over the future of internet access in America has become, the Federal Communications Commission's chairman, Julius Genachowski, scored a belated goal earlier this week. Whether it was one for his own team or for the other side is too early to say. However, following nearly two years of wrangling, there can be little doubt that the 3-2 vote by the FCC commissioners in favour of adopting “net neutrality” (ie, no restrictions on the kind of content, services and applications carried over the internet) was rushed through on December 21st before the political climate could change in the new year and make such wranglings trickier still.
+
+To get a majority, Mr Genachowski (appointed by President Obama, an old law-school chum) strong-armed the two other Democrats on the commission, who had been holding out for a better deal for consumers. Meanwhile, the two Republican commissioners cried foul, objecting rightly to the haste with which the moves were being hustled through. The internet is not broken, they insisted, and is therefore in no imminent need of repair. After the vote in favour, a relieved White House hurriedly declared victory—calling the outcome a great plus for innovation, job creation and the American people. It was, of course, no such thing.
+
+One thing is for sure, though: the FCC’s new rules for internet access will face scrutiny in Congress once the Republican Party takes control of the House of Representatives in January. Ironically, the net-neutrality principle that is causing Republicans such constipation was introduced by a Republican chairman of the FCC, Kevin Martin, back in 2005, using ideas promulgated by his Republican predecessor, Michael Powell. But in the present dysfunctional world of partisan politics, few are interested in network niceties, still less in the legitimate online concerns of the American people.
+
+No doubt, the new net-neutrality rules will be challenged in the courts as well. Last April, a federal appeals court ruled that the FCC did not have the legal authority to punish Comcast, America’s biggest cable TV company and internet service provider, for discriminating against a file-sharing service that was hogging excessive bandwidth. The failure to make the case stick was a bitter disappointment for Mr Genachowski, who had hoped it would set a legal precedent for any future violations of the net-neutrality principle. Now Verizon, America’s leading mobile and fixed-line carrier, looks set to challenge the new net-neutrality rules in court.
+
+But all the bickering misses the wider point. Having led the world in internet access, America has slipped over the past decade to 22nd (behind Latvia and the Czech Republic) with an average download speed of a mere 3.8 megabits per second (Mbps) compared with South Korea’s average of 14.6Mbps. Worse, Americans pay through the nose for their high-speed access. According to the New America Foundation, a 100Mbps internet connection costs $16 a month in Sweden and $24 a month in South Korea. In high-price Japan, 160Mbps can be had for $65 a month. Thanks to the lack of competition, Americans have to stump up $145 a month for 50Mbps—less than a third the Japanese internet speed for over twice the price. By any measure, that is a terrible deal. 
+
+The cause? Most fingers point at the Telecommunications Act of 1996, which inadvertently created conditions for the emergence of the moribund duopoly—ossified phone companies on the one hand, recalcitrant cable-TV suppliers on the other—that internet users in America have to put up with today. Having got its telecoms policy disastrously wrong once, the country cannot afford to get it wrong again. 
+
+Unfortunately, the FCC’s new ruling on net neutrality is not going to make things any better. It might even make some things worse. In principle, broadband providers—whether fixed-line or wireless—will be prevented from blocking any legal content, applications or services that users may want to download. In practice, however, they will be free to block anything they deem inappropriate, provided they do not offer a competing service of their own. 
+
+This does, at least, mean that wireless operators like Verizon, AT&T, Sprint and T-Mobile will not be able to prevent customers from using their mobile phones to make free Skype calls over the internet instead of costly cellular ones. And cable TV companies like Comcast and Time Warner cannot stop broadband customers from getting their television fare online from websites like Netflix or Hulu, rather than from a their own cable TV services. Meanwhile, fixed-line carriers and cable companies will have to explain to their users exactly how they manage their networks, and how fast their download speeds really are. The idea is that users will then be able to choose the best internet service provider available—provided, of course, there is an alternative in their street.
+
+A more open internet in the making, then? Well, maybe. But a lot of gotchas remain. For one, the fixed-line carriers and cable companies may be allowed to charge content suppliers like Google or Netflix extra for giving priority to their traffic—in short, provide a fast toll-lane for the well-heeled, and a slow lane for the rest. In such circumstances, niche services could suffer. The FCC says it is opposed to "paid prioritisation", but has not actually banned it outright. So, this could end up being tested in court, too.
+
+Another catch is that fixed-line operators will be able to “throttle” download speeds in the name of network management. So, it may be too bad if you want to watch a Netflix movie at prime time. And, most important of all, the fixed-line carriers will be able to experiment with different pricing models—in  other words, start charging by the megabyte instead of offering traditional flat-rate plans. 
+
+Metered pricing could be a blessing for casual users. But if fixed-line carriers and cable companies can charge by the megabyte for downloads, then heavy users addicted to YouTube, Netflix, Hulu and Facebook could quickly run up huge monthly access bills. Remember also that the cable companies have every incentive to see that the cost of streaming television shows from Hulu or films from Netflix does not undercut their own cable TV offerings. Users seeking to save money by “cutting the cable”, and streaming video from the internet to their set-top boxes instead, could quickly find themselves stymied.
+
+A further concern is that metered charging, while the most equitable way of allocating bandwidth in instances where it is actually limited, could make life tough for dorm-room innovators and start-up firms in garages at the edge of the internet, with little money to compete against established enterprises at the centre of the web. But though they pay lip service to it, neither side of the debate on net neutrality is really interested in innovation.
+
+But the biggest worry of all is the way the FCC has handed the wireless carriers a free pass, exempting them from some of the more onerous constraints placed on the fixed-line operators. They are to be given far more leeway, for instance, in managing their networks as they see fit. The argument for letting them do so is that wireless access to the internet is still in its infancy, and needs greater freedom to experiment. Also, there is said to be more competition in the wireless marketplace, to keep the mobile carriers on their toes. Finally, given the fixed amount of spectrum at their disposal, the wireless carriers are under greater bandwidth pressure than their wired counterparts, who can always add another pipe or two if needed. 
+
+Your correspondent is not impressed by such arguments. Wireless is the fastest-growing way of accessing the internet—and, for poorer people, often the only way. Within a few short years, it will be the way the vast majority of us surf the web for information and entertainment, given the huge wave of tablet computers and portable internet appliances now appearing. By choosing to treat the mobile internet differently from the fixed-line one, the FCC is effectively condoning two different internets—with different rules that will cause them to evolve in wholly different ways. Innovators trying to create the web apps and services of tomorrow should not have to build two versions of everything. 
+
+Besides, users expect the same internet experience, regardless of the type of connection. As it is, the wireless world (at least, in America) is replete with enough undesirable features that users in the wired domain would not tolerate—like exorbitant “early termination fees” or the inability to take a handset from one carrier to another. In attempting to rewrite the rules of internet access, the FCC should forget about the fixed-line dinosaurs and focus instead on banging the heads of some of America’s mobile carriers together. A good start would be to get them to share their networks with one another, as happens in most other countries of the developed world. Perhaps then, and only then, American consumers might begin to enjoy some of the benefits of genuine competition in internet access. Who knows, speeds might then go up and prices actually come down?
+
+This subject has two key parts. The need for large corporations to (legitimately) defend their market positions and the need to encourage availability of broadband. In the US the duopoly is an asymmetric but semi-stable oligopoly. Cable has grown from a regulatory construct and looks like a telecoms service with content and telecoms has added content services to communications channels. The test question is if you started with fibre technology today would you create this model - answer no - there would be a single pipe with services separated from access. The problem is that we are where we are and this dual monopoly model will continue because there is no easy alternative. It is against this political and corporate background that the FCC position must be viewed.
+
+The second question on availability of broadband is supposed to be addressed by the freedoms given to operators to manage traffic and charge customers. Whilst this may help at the margin its biggest effect is to enable operators to control costs and reduce competition for services. No bad thing if there wasn't an effective duopoly. In those circumstances it just reinforces the existing players and reduces the impact of disruptive business models. Welfare enhancing for the players but not necessarily for society.
+
+Finally there is much hype talked about wireless services - there is a cognitive dissonance at play here - if people really need 100Mbits (or more) this will not be delivered wireless, so either they don't need it or they need fixed infrastructure. A wireless network capable of commercially delivering high speeds with high capacity would look like a fixed fibre network with a final wireless drop. If there is real demand for high speed streaming of video then don't look to wireless to deliver competition to fixed - evidence the usage limitation now being implemented. Don't think that 4G is a magic bullet it is just another rung in the cost ladder. All that is why the FCC position on wireless is probably correct, all wireless systems share resources (bandwidth) and have some form of (complex) management built in - services would be unpredictable and more costly without it. A few bandwidth hogs on any wireless network can make service poor for everyone else - true unlimited flat rates don't work if 0.5% of people use 30% of capacity - everyone else is subsidising them.
+
+Recommend (21)PermalinkReport abuse
+RaptorNXT wrote: Dec 24th 2010 12:05 GMT
+Can USA have decent Internet in the first place, like S Korea and Japan?
+
+Recommend (17)PermalinkReport abuse
+Steve2020 wrote: Dec 24th 2010 2:38 GMT
+Answer to RaptorNXT is yes the question is when - if the market is left to deliver it delivers at the market pace (or someone loses a shed of money - see cable in the UK)- if government delivers in front of the market we all pay and take the risk and the rewards are uneven.
+
+Recommend (20)PermalinkReport abuse
+Adrian Meli wrote: Dec 24th 2010 5:28 GMT
+I find all the dialogue on net neutrality and usage based pricing very interesting as it is two sides of the same coin in some respects. I am delighed to see that the FCC has arrived at what appears to be a sensible conclusion. The internet providers should not be able to choose the winners so net neutrality makes sense. ie. Time Warner Cable shouldn't be able to make sure that a new startup isn't able to compete online. That said, they are allowing the internet companies to charge users for using more bandwidth so companies like netflix and youtube will defacto be taxed. So, if I am paying $8 for Netflix right now but in the future TimeWarner raises the price on the top tier of internet by $15 then I am going to have to upgrade in order to keep using Netflix. So, Netflix may cost $23 in the end for me. This is a better solution though as I am getting to choose whether or not to pay rather than TimeWarner deciding if they want to make Netflix successful or not. - Adrian Meli
+
+Recommend (18)PermalinkReport abuse
+Martin Barry wrote: Dec 25th 2010 5:35 GMT
+Charging by the byte is not the only alternative to unlimited. One of the primary reasons people like unlimited plans is not that they can download at full speed 24 x 7, but that the bill is the same every month regardless of what they used.
+
+Most Australian ISPs achieve this with download caps, beyond which you are throttled back to a slower speed. So rather than getting a huge bill with overage charges, you get degraded service until the rollover of your billing cycle.
+
+This encourages users to monitor their own usage. If they are likely to breach their cap they can choose to moderate their usage or upgrade their plan (or even buy extra data just for this month).
+
+In regards to the fixed line access monopolies or duopolies, Australia also has a solution to that, although it's unlikely to be a viable option in the "free market" loving USA. www.nbnco.com.au is a government owned company which will be bringing fibre to 93% of homes (fixed wireless and satellite for places too remote) and wholesaling that to retail ISPs. This treats telecommunications access as the natural monopoly it could and should be, just like you only have one set of power lines, one set of water and sewerage pipes.
+
+Recommend (18)PermalinkReport abuse
+wtneary wrote: Dec 26th 2010 5:56 GMT
+Maybe it's the Christmas spirit that put me in a feeling of gratitude, but here's a shoutout to The Economist for printing this story and not calling for Fear and Loathing of either side. Too many stories in the US are trying to turn this into a Clear Good Guy Vs. Evil Villain Guy, so that we can think of Net Neutrality as some sort of Western movie. Those stories may be fun to read, and give us something to get upset about - surely part of the adrenaline rush that Facebook and Twitter-method writers can market as news. But simplicity is the enemy of thoughtful policy. Nice read.
+
+Fact is, there are plenty of market pressures to encourage thoughtful behavior, and there's plenty of ability of government to correct problems if they do surface. Thanks for not peddling this story as a 'showdown over freedom' or kindergarten-level analysis.
+
+Recommend (12)PermalinkReport abuse
+So... wrote: Dec 27th 2010 2:00 GMT
+This "net neutrality" ruling is another illustration of Obama's (lawyer's) world view vs. reality (as lived by the rest of us). According to him, if you pass a law/regulation to designate lemon as "apple", all the lemons magically become apples.
+
+It's a pattern. There is the "health care reform". And then there is the "finance reform".
+
+Oh, it would get challenged in the court? Not Obama's problem, cuz, you know, he taught constitutional laws, you see.
+
+Oh goody, Obama now wants to reform the tax code. It would make Rube Goldberg blush.
+
+Recommend (8)PermalinkReport abuse
+Manestra00 wrote: Dec 27th 2010 10:41 GMT
+Land of the free, my a*s. You do know where this is heading? Am I the only one who thinks that this will lead to "internet fascism".
+How long do you think will take, until the first case of provider "service blocking rule abuse" appears?
+Not to mention, the idea of extra charging certain services. This gives me one more reason I'm happy I live in Europe,even though because of the market share of some companies the same ruling could be done in Europe just as easily.
+
+Recommend (6)PermalinkReport abuse
+aphor wrote: Dec 27th 2010 5:53 GMT
+Net Neutrality is really a negative condition: Internet free of commercial censorship, ergo the news is really about commercial censorship of the Internet. Censorship is the key word, commercialization makes it a ransom.
+
+Recommend (3)PermalinkReport abuse
+aphor wrote: Dec 27th 2010 6:02 GMT
+The reporting is really not helpful. Let me make this simple. The FCC has created an oligopoly, and this is how they ransom the Internet.
+
+Recommend (4)PermalinkReport abuse
+trustbutverify wrote: Dec 27th 2010 9:01 GMT
+I like the comparison of internet to utilities, that another reader is making, so I will build on that. It is well known that any free good gets overconsumed and squandered. Flat pricing is only a slight improvement over that. We measure electricity closely, so it gets managed (albeit imperfectly). Water is priced cheaply and (near) flat, so it gets wasted. In the past 10 years we simply had an excess inventory of bandwidth left over from the dot com boom and bust. Now that that inventory has run down, new bandwidth will have to be added economically. Allowing providers to charge based on usage will result optimal allocation of the resource. Allowing them to discriminate based on content, however is a whole other matter.
+
+Recommend (5)PermalinkReport abuse
+Anjin-San wrote: Dec 28th 2010 2:02 GMT
+Net Neutrality only works when supply of bandwidth greatly exceeds its demand, as it had been pre-Napster. With the arrival of bandwidth hogs such as YouTube and Flickr to name just two, there exist significant marginal cost for bandwidth, and therefore Net Neutrality as we know today (fixed-cost unlimited access) is already unsustainable.
+Only way to protect the core neutrality value would be to reintroduce Gigabyte-based net access charge, particularly for UPloads. When everyone have to pay equally for every upload bit, net neutrality can be restored.

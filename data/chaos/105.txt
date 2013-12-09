@@ -1,0 +1,105 @@
+﻿Some comments on Noiselets
+By jackdurden
+Recently, a friend of mine asked me few questions about Noiselets for Compressed Sensing applications, i.e., in order to create efficient sensing matrices incoherent with signal which are sparse in the Haar/Daubechies wavelet basis. It seems that some of the answers are difficult to find on the web (but I’m sure they are well known to specialists) and I have therefore decided to share the ones I got.
+
+Context:
+I wrote in 2008 a tiny Matlab toolbox (see here) to convince myself that the Noiselet followed a Cooley-Tukey implementation already followed by the Walsh-Hadamard transform. It should have been optimized in C but I lacked of time to write this.Since this first code, I realized that Justin Romberg wrote already in 2006 with Peter Stobbe a fast code (also O(N log N) but much faster than mine) available here:
+http://users.ece.gatech.edu/~justin/spmag
+People could be interested in using Justin’s code since, as it will be clarified from my answers given below, it is already adapted to real valued signals, i.e., it produces real valued noiselets coefficients.
+
+Q1. Do we need to use both the real and imaginary parts of noiselets to design sensing matrices (i.e., building the  matrix)?  Can we use just the real part or just the imaginary part)?  Any reason why you’d do one thing or another?
+
+As for the the Random Fourier Ensemble sensing, what I personally do when I use noiselet sensing is to pick uniformly at random complex values in half the noiselet-frequency domain, and concatenate the real and the imaginary part into a real vector of length . The adjoint (transposed) operation — often needed in most of Compressed Sensing solvers — must of course sum the previously split real and imaginary parts into  complex values before to pad the complementary measured domain with zeros and run the inverse noiselet transform.
+To understand the special treatment of the real and the imaginary parts (and not simply by considering it similar to what is done for Random Fourier Ensemble), let us consider the origin, that is, Coifman et al. Noiselets paper.
+
+Recall that in this paper, two kinds of noiselets are defined. The first basis, the common Noiselets basis on the interval , is defined thanks to the recursive formulas:
+
+
+
+The second basis, or Dragon Noiselets, is slightly different. Its elements are symmetric under the change of coordinates . Their recursive definition is
+
+
+
+To be more precise, the two sets
+
+,
+
+,
+
+are orthonormal bases for piecewise constant functions at resolution , that is, for functions of
+
+
+
+In Coifman et al. paper, the recursive definition of Eq. (2) (and also Eq (4) for Dragon Noiselets), which connects the noiselet functions between the noiselet index  and indices  or , is simply a common butterfly diagram that sustains the Cooley-Tukey implementation of the Noiselet transform.
+
+The coefficients involved in Eqs (2) and (4) are simply , which are of course complex conjugate of each other.
+
+Therefore, in the Noiselet transform  of a real vector  of length  (in one to one correspondance with the piecewise constant functions of ) involving the noiselets of indices , the resulting decomposition diagram is fully symmetric (with a complex conjugation) under a flip of indices , for .
+
+This shows that
+
+,
+
+with  the complex conjugation, if  is real, and allows us to define “Real Random Noiselet Ensemble” by picking uniformly at random  complex values in the half domain , that is  independent real values in total, as obtained by concatenating the real and the imaginary parts (see above).
+
+Therefore, for real valued signals, as for Fourier, the two halves of the noiselet spectrum are not independent, and therefore, only one half is necessary to perform useful CS measurements.
+
+Justin’s code is close to this interpretation by using a real valued version of the symmetric Dragon Noiselets described in the initial Coifman et al. paper.
+
+Q2. Are noiselets always binary?  or do they take +1, -1, 0 values like Haar wavelets?
+
+Actually, a noiselet of index  take the complex values , never .This can be easily seen from the recursive formula of Eq. (2).
+
+They fill also the whole interval .
+
+Q3. Walsh functions have the property that they are binary and zero mean, so that one half of the values are 1 and the other half are -1.  Is it the same case with the real and/or imag parts of the noiselet transform?
+
+To be correct, Walsh-Hadamard functions have mean equal to 1 if their index is a power of 2 and 0 else, starting with the [0,1] indicator function of index 1.
+
+For Noiselets, they are all of unit average, meaning that the imaginary part has the zero average property. This can be proved easily (by induction) from their recursive definition in Coifman et al. paper (Eqts (2) and (4)). Interestingly, their unit average, that is their projection on the unit constant function, shows directly that a constant function is not sparse at all in the noiselet basis since its “noiselet spectrum” is just flat.
+
+In fact, it is explained in Coifman paper that any Haar-Walsh wavelet packets, that is, elementary functions of formula
+
+
+
+with  the Walsh functions (including the Haar functions), have a flat noiselet spectrum (all coefficients of unit amplitude), leading to the well known good (in)coherence results (that is, low coherence). To recall, the coherence is given by  for the Haar wvaelet basis, and it corresponds to slightly higher values for the Daubechies wavelets D4 and D8 respectively (see, e.g., E.J. Candès and M.B. Wakin, “An introduction to compressive sampling”, IEEE Sig. Proc. Mag., 25(2):21–30, 2008.)
+
+Q4. How come noiselets require O(N logN) computations rather than O(N) like the haar transform?
+
+This is a verrry common confusion. The difference comes from the locality of the Haar basis elements.
+
+For the Haar transform, you can use the well known pyramidal algorithm running in  computations. You start from the approximation coefficients computed at the finest scale, using then the wavelet scaling relations to compute the detail and approximation coefficients at the second scale, and so on. Because of the sub-sampling occuring at each scale, the complexity is proportional to the number of coefficients, that is, it is .
+
+For the 3 bases Hadamard-Walsh, Noiselets and Fourier, their non-locality (i.e., their support is the whole segment [0, 1]) you cannot run a similar alorithm. However, you can use the Cooley-Tukey algorithm arising from the Butterfly diagrams linked to the corresponding recursive definitions (Eqs (2) and (4) above).
+
+This one is in , since the final diagram has  levels, each involving  multiplication-additions.
+
+5 Responses to “Some comments on Noiselets”
+Gabriel Peyré Says:	
+August 22, 2010 at 11:50 pm | Reply
+In my CS experiments, I use a doubly scrambled Hadamard transform, which means,
+
+y = x(randperm(n));
+y = hadamard(y)); % N*log(N) operations, you can use dct or any flat ortho basis
+y = y(randperm(n));
+y = y(1:p); % select only p random coefficients
+
+What is the advantage of Noiselets over this scheme ? I suspect they work similarely on data sparse in wavelets.
+
+jackdurden Says:	
+August 23, 2010 at 2:24 pm | Reply
+Good to know. This scheme is possibly very efficient too. And another variant would be to use a spreadspectrum (i.e. pointwise multiplication by Bernoulli vector before hadamard/noiselet/fourier) instead of the first randperm.
+
+However, the question is how to prove that Hadamard functions + randperms provides a flat spectrum for function sparse in the Haar basis. Perhaps this can be proved, but I never read such a proof up to now. For noiselets, the proof is in Coifman et al. Noiselets paper.
+
+Gabriel Peyré Says:	
+August 24, 2010 at 11:05 am | Reply
+Regarding theory I agree that one should use noiselets. It should be doable to do the math for randomization (or spreadspectrum) and then partial hadamard.
+
+jackdurden Says:	
+August 27, 2010 at 1:49 pm | Reply
+It could be doable indeed. I feel more confortable with SS than with randperm nevertheless. But I saw some concentration results on random permutations recently on arxiv that could help.
+
+itsrsu Says:	
+November 6, 2010 at 6:52 pm | Reply
+Continuous Signal and Linear System

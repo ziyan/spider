@@ -1,0 +1,15 @@
+﻿PHP 4 and MySQL 4 End of Life Announcement
+Posted July 23, 2010 by Mark Jaquith. Filed under Hosting.
+Our approach with WordPress has always been to make it run on common server configurations. We want users to have flexibility when choosing a host for their precious content. Because of this strategy, WordPress runs pretty much anywhere. Web hosting platforms, however, change over time, and we occasionally are able to reevaluate some of the requirements for running WordPress. Now is one of those times. You probably guessed it from the title — we’re finally ready to announce the end of support for PHP 4 and MySQL 4!
+
+First up, the announcement that developers really care about. WordPress 3.1, due in late 2010, will be the last version of WordPress to support PHP 4.
+
+For WordPress 3.2, due in the first half of 2011, we will be raising the minimum required PHP version to 5.2. Why 5.2? Because that’s what the vast majority of WordPress users are using, and it offers substantial improvements over earlier PHP 5 releases. It is also the minimum PHP version that the Drupal and Joomla projects will be supporting in their next versions, both due out this year.
+
+The numbers are now, finally, strongly in favor of this move. Only around 11 percent of WordPress installs are running on a PHP version below 5.2. Many of them are on hosts who support PHP 5.2 — users merely need to change a setting in their hosting control panel to activate it. We believe that percentage will only go down over the rest of the year as hosting providers realize that to support the newest versions of WordPress (or Drupal, or Joomla), they’re going to have to pull the trigger.
+
+In less exciting news, we are also going to be dropping support for MySQL 4 after WordPress 3.1. Fewer than 6 percent of WordPress users are running MySQL 4. The new required MySQL version for WordPress 3.2 will be 5.0.15.
+
+WordPress users will not be able to upgrade to WordPress 3.2 if their hosting environment does not meet these requirements (the built-in updater will prevent it). In order to determine which versions your host provides, we’ve created the Health Check plugin. You can download it manually, or use this handy plugin installation tool I whipped up. Right now, Health Check will only tell you if you’re ready for WordPress 3.2. In a future release it will provide all sorts of useful information about your server and your WordPress install, so hang on to it!
+
+In summary: WordPress 3.1, due in late 2010, will be the last version of WordPress to support PHP 4 and MySQL 4. WordPress 3.2, due in the first half of 2011, will require PHP 5.2 or higher, and MySQL 5.0.15 or higher. Install the Health Check plugin to see if you’re ready!

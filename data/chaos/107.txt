@@ -1,0 +1,251 @@
+﻿SPGL1 and TV minimization ?
+By jackdurden
+Recently, I was using the SPGL1 toolbox to recover some “compressed sensed” images. As a reminder, SPGL1 implements the method described in “Probing the Pareto Frontier for basis pursuit solutions” of Michael P. Friedlander and Ewout van den Berg. It solves the Basis Pursuit DeNoise (or ) problem with a error power 
+
+
+
+where  is the usual measurement matrix for a measurement vector , and  and  are the  and the  norm of the vector  respectively. In short, as shown by E. Candès, J. Romberg and T. Tao, if  is well behaved, i.e. if it satisfies the so-called Restricted Isometry Property for any sparse signals, then the solution of  approximates (with a controlled error) a  sparse (or compressible) signal  such that , where  is an additive noise vector with power .
+
+The reason of this post is the following : I’m wondering if SPGL1 could be “easily” transformed into a solver of the Basis Pursuit with the Total Variation (TV) norm. That is, the minimization problem 
+
+
+
+where  with  is the th component of the complex finite difference operator applied on the vectorized image  of  pixels (in a set of coordinates  and ).  I have used here a “complexification” trick putting the finite differences  and  according to the directions  and  in the real part and the imaginary part respectively of the complex operator . The TV norm of  is then really the  norm of .
+
+This problem is particularly well designed for the reconstruction of compressed sensed images since most of them are very sparse in the “gradient basis” (see for instance some references about Compressed Sensing for MRI). Minimizing the TV norm, since performed in the spatial domain, is also sometimes more efficient than minimizing the  norm is a particular sparsity basis (e.g. 2-D wavelets, curvelets, …).
+
+Therefore, I would say that, as for the initial SPGL1 theoretical framework, it could be interesting to study the Pareto frontier related to , even if the TV norm is now a quasi-norm, i.e.   does not imply  but  for a certain constant .
+
+To explain better that point, let me first summarize the paper of Friedlander and van den Berg quoted above. They proposed to solve  by solving a LASSO problem (or ) regulated by a parameter ,
+
+
+
+If I’m right, the key idea is that there exists a  such that  is equivalent to . The problem is thus to assess this point. SPGL1 finds  iteratively using the fact that all the  problems define a smooth and decreasing curve of  (the Pareto curve) from the norm of the residual , where  is the solution of . More precisely, the function
+
+
+
+is decreasing from  to a value  such that
+
+
+
+Interestingly, the derivative  exists on  and it is simply equal to  with .
+
+As explained, on the point , the problem  provides the solution to . But since both  and  are known, a Newton method on this Pareto curve can then iteratively estimate  from the implicit equation . Practically, this is done by solving of an approximate  at each  (and the convergence of the Newton method is still linear).
+
+At the end, the whole approach is very efficient for solving high dimensional BPDN problems (such that BPDN for images) and the final computation cost is mainly due to the cost of the forward and transposed multiplication of the matrix/operator  with vectors.
+
+So what happens now if the  norm is replaced by the TV norm in this process ? If we switch from  to  ? Is there a “SPGL1 way” to solve that ?
+
+The function  resulting from such a context would have now the initial point  (with  the constant vector) since a zero TV norm means a constant  (the value of  arises just from the minimization on ). Notice that if  is for instance a Gaussian measurement matrix,  will be very close to  since the expectation value of the average of any row is zero.
+
+For the rest, I’m unfortunately not sufficiently familiar with convex optimization theory to deduce what is  for the TV framework (hum. I should definitely study that).
+
+However, for the  case,  (i.e. ) is computed approximately for each . This approximation, which is also iterative, uses a special projection operator to guarantee that the current candidate solution in the iteration remains feasible, i.e. remains in the  ball . As usual, this projection is accomplished through a Soft Thresholding procedure, i.e. as a solution of the problem
+
+,
+
+where  is the point to project, and where  is set so that the projection is inside the  ball above.
+
+For the TV minimization case, the TV ball  defining the feasible set of the approximate LASSO procedure would possibly generate a projection operator equivalent to the one solving the problem
+
+.
+
+This is somehow related to one of the lessons provided in the TwIST paper (“A new twIst: two-step iterative shrinkage/thresholding algorithms for image restoration”) of J. Bioucas-Dias and M. Figueiredo about the so-called Moreau function : There is a deep link between some iterative resolutions of a regularized BP problem using a given sparsity metric, e.g. the  or the TV norm, and the canonic denoising method of this metric, i.e. when the measurement is the identity operator, giving Soft Thresholding or TV denoising respectively.
+
+Thanks to the implementation of Antonin Chambolle (used also by TwIST), this last canonic TV minimization can be computed very quickly. Therefore, if needed, the required projection on the TV ball above can be also inserted in a potential “SPGL1 for TV sparsity problem”.
+
+OK… I agree that all that is just a very rough intuition. There is a lot of points to clarify and to develop. However, if you know something about all that (or if you detect that I’m totally wrong), or if you just want to comment this idea, feel free to use the comment box below …
+
+23 Responses to “SPGL1 and TV minimization ?”
+Gabriel Peyré Says:	
+August 18, 2008 at 11:42 am | Reply
+Dear Laurent,
+
+As far as the Lagrangian formulation is concerned, you can replace the iterative thresholding algorithm proposed by so many researcher (including Figueiredo Nowak and Daubechies et al) by proximal iterations, where the soft thresholding is replaced by some inner iterations of Chambolle ROF algorithm (published in JMIV). For more information about proximal iterations (and convergence theorem), you should have a look at recent preprints of Patrick Combettes at Paris 6.
+
+Intuitively, you just follow the surrogate functional derivation made by Daubechies in her CPAM paper with Defrise and Demol, but replace L1 norm of coefficient in orthobasis by TV norm, which leads to the resolution of the lagrangian ROF.
+
+Another options is to make the change of variagle v=grad(u) so that the TV-L2 problem becomes a L1-L2 (with complex coefficients as you noticed), and solve with iterative thresholding for v. The issue is that during iterations, you need to impose the constraint rot(v)=0, which requires to solve the poisson equation at each iteration. Works great in practice (its 2 FFTs if you use periodic boundary conditions) !
+
+Also, in the paper of Chambolle, there is a nice trick to solve for deblurring when the operator is a projection, so it will also work for CS if the matrix is a random projector !
+It is a 1 line of code modification of Chambolle algorithm, very nice. At it’s like the fastest algorithm on earth to solve CS-TV 
+
+jackdurden Says:	
+August 18, 2008 at 11:58 am | Reply
+Thanks a lot Gabriel for these important comments.
+
+I see more clearly now the links with other works.
+I’ll have a look to the references you propose.
+
+Gabriel Peyré Says:	
+August 18, 2008 at 12:17 pm | Reply
+BTW, I think Chambolle’s paper is difficult to find online, but you can get a preprint here
+http://www.ceremade.dauphine.fr/preprints/CMD/2002-40.ps.gz
+
+It is a must read for any one interested by TV minimization. There are two very cool tricks at the end, one to solve the L2 constraint optimization (the lambda of the lagrangian penalization is updated by a simple rule at each iteration) and the other to solve inverse problems with projectors.
+
+The paper takes the example of deblurring, but it also works great for TV-inpainting or TV-CS with projection on random fourier subset ! Its is like a 5 lines of matlab code algorithm (once you have grad and div operator implemented somewhere), its converges very fast (its is a fixed point iteration with a speed of convergence).
+
+Igor Carron Says:	
+August 18, 2008 at 12:32 pm | Reply
+Gabriel,
+
+Has this CS-TV algorithm been implemented and released somewhere ?
+
+Igor.
+
+Gabriel Peyré Says:	
+August 18, 2008 at 12:39 pm | Reply
+I will update my sparsity toolbox asap. I will send you an email when the code is released.
+
+jackdurden Says:	
+August 18, 2008 at 12:44 pm | Reply
+Gabriel,
+
+by CS-TV, you mean the regularized problem or the constrained above ?
+
+Since initial Chambolle’s code is related to the regularized TV reconstruction. No ?
+
+Igor Carron Says:	
+August 18, 2008 at 1:46 pm | Reply
+Gabriel,
+
+Thanks.
+
+Igor.
+
+Gabriel Peyré Says:	
+August 18, 2008 at 3:43 pm | Reply
+Dear Jackdurden,
+
+Chambolle’s algorithm solves the regularized TV, but at the end of the paper (section 4), he explains how to update at each step the regularization parameter so that the solution converges to the solution of TV_sigma. You just multiply lambda by sigma/error where error is the L2 error at current step.
+
+Chambolle’s algorithm solve TV denoising (ROF), meaning A=Identity, but at the end of the paper (section 5), he explains how to extend it when A is an orthogonal projector, meaning A A*=Identity (the sensing vectors are orthogonal), which is the case for partial Fourier matrices or orthogonalised gaussian matrices or sub-sampled noiselets or …
+
+The idea is to use Chambolle algorithm to denoise an initial image u (you can start by u=0), and at each step of the algorithm, project this image to be denoised on the measurement constraint A* u=y:
+u <- u + A* ( y – A u ) (*)
+and then you continue using sereral iteration of Chambolle’s algorithm, equation (9) of the paper.
+
+So you’ve got two embbeded for loops (one for the update step (*) and then several iteration of Chambolle’s algorithm) but if you solve with sigma=0, you can just do 1 iteration of Chambolle’s algorithm at each step.
+
+jackdurden Says:	
+August 18, 2008 at 4:18 pm | Reply
+Thank you again for the nice explanations,
+
+Best,
+Laurent
+
+Gabriel Peyré Says:	
+August 18, 2008 at 8:08 pm | Reply
+I have put here some details about my own implementation of Chambolle’s algorithm
+http://www.ceremade.dauphine.fr/~peyre/upload/cs-tv/html/content.html
+
+jackdurden Says:	
+August 19, 2008 at 9:34 am | Reply
+Sorry, some of your comments were referenced as spam by WordPress. I have untagged them and they appear in the list now. Thank you very much for this code. I’ll play with ASAP.
+
+… and your page
+http://www.ceremade.dauphine.fr/~peyre/upload/cs-tv/html/content.html
+is very interesting !
+
+Best
+Laurent
+
+Pierre Vandergheynst Says:	
+August 19, 2008 at 10:35 am | Reply
+Chambolle’s algo for CS is a neat idea. I have used it with an ortho projector as proposed by Chambolle to solve an inpainting problem and it’s indeed a single-line of code to modify and worked like a treat ! So it should work very well for CS too provided your measurement matrix is a subsampling of an ortho system. What if it is not exactly an ortho system but “close to” ?
+
+Pierre
+
+jackdurden Says:	
+August 19, 2008 at 12:15 pm | Reply
+Pierre,
+
+answer to your question “may” then come from a TV-SPGL1 using Chambolle’s ROF code as a part of the LASSO solver involved, as the soft-thresholding (i.e. the  denoising technique) is currently used for the  sparsity metric.
+
+//Mais bon…. avec des “may” (ou des “si” ) on met Paris en bouteille  //
+
+jackdurden Says:	
+August 20, 2008 at 10:03 am | Reply
+Or another one is to generalize the update of the regularization parameter of A. Chambolle (that allows the convergence to the constraint problem), to the Iterative Soft Thresholding procedure of TwIST, where the measurement matrix can be a RIP matrix (not necessarily an orthoprojector).
+
+Laurent
+
+Gabriel Peyré Says:	
+August 20, 2008 at 11:48 am | Reply
+Dear Pierre and Laurent,
+
+Actually yes (if I am not wrong), the algorithm generalizes to the case where A is not an orthogonal projector. You need to replace the orthogonal projection on the constraints Au=b
+
+u <- u + A^+ ( b – A u )
+
+(where A^+=A* is the pseudo inverse, equal to A* because we are dealing with an orthogonal projector), by a gradient descent step
+
+u than the operator norm of A (same as in the paper of Daubechies et al, and Combettes proved that it can be extended to twice the operator norm).
+
+Then you apply Chambolle’s algorithm with a regularization parameter lambda/tau instead of lambda.
+
+This corresponds to proximal iterations, since Chambolle algorithm is actually computing the proximal operator associated to the TV norm.
+
+Intuitively, as emphasized by Laurent, this corresponds to replacing the soft thresholding by the ROF resolution, which are prox operator of respectively the L1 norm in an ortho-basis and the TV norm.
+
+I am not sure wether the update of lambda to match the L2 constraint is still garantied to work in this case.
+
+Gabriel Peyré Says:	
+August 20, 2008 at 12:21 pm | Reply
+Apparently I have some problems with my old school ASCII equations … let’s try in LaTeX …
+
+The initial iteration reads
+
+
+
+and the modified one
+
+
+
+where  should be larger than the operator norm of A for the iterations to converge.
+
+Gabriel Peyré Says:	
+August 20, 2008 at 12:23 pm | Reply
+Ouch sorry, the iterations should be in fact
+
+
+
+Pierre Vandergheynst Says:	
+August 20, 2008 at 12:37 pm | Reply
+I see, that’s interesting since it generalizes the class of measurement matrices for which you can now apply the algo. Some testing is needed 
+
+Igor Carron Says:	
+August 22, 2008 at 6:33 pm | Reply
+Laurent,
+
+Surely you have noted that there is new version of SPGL1 (v. 1.6). It’ll be featured on Nuit Blanche on Monday.
+
+Cheers,
+
+Igor.
+
+jackdurden Says:	
+August 24, 2008 at 12:05 am | Reply
+No. I didn’t notice that new version. Thank you. BTW, I sent a mail to the authors of spgl1 about our recent TV discussion above.
+
+Laurent
+
+Gabriel Peyré Says:	
+August 25, 2008 at 8:04 pm | Reply
+I have put here
+http://www.ceremade.dauphine.fr/~peyre/upload/cs-tv/OptimReview.pdf
+more details about iterative thresholding and Chambolle’s algorithm !
+
+jackdurden Says:	
+August 26, 2008 at 2:43 pm | Reply
+Thank you Gabriel. Very good review. I noticed however that the correct link is :
+
+http://www.ceremade.dauphine.fr/~peyre/cs-tv/OptimReview.pdf
+
+Best,
+Laurent
+
+SPGL1 and TV: Answers from SPGL1 Authors « Le Petit Chercheur Illustré Says:	
+September 2, 2008 at 11:48 pm | Reply
+[...] SPGL1 Authors Following the writing of my previous post, which obtained various interesting comments (many thanks to Gabriel Peyré, Igor Caron and Pierre Vandergheynst), I sent a mail to Michael P. [...]

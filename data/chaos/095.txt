@@ -1,0 +1,61 @@
+﻿How to Win at Coin Flipping
+November 30, 2010
+Ed Pegg Jr, Scientific Information Group
+Let’s flip a coin, over and over. Beforehand, the players each pick a sequence of flips. The sequence that occurs first wins. With HH vs. TH, HH will win if the first two flips are HH and will lose if any of those flips are tails. HH vs. TH has a 1/4 vs. 3/4 possibility of winning.
+Phrased a different way: Suppose I offer a bet on a series of coin flips. One of these bets would be bad for you. Which one? The odds of the event occurring are given at the end. (The second bet is the bad bet to take.)
+HTT appears before TTT. If it does, I give you $1. If not, you give me $4. (7/8)
+HHT appears before TTT. If it does, I give you $1. If not, you give me $3. (7/10)
+THH appears before HHT. If it does, I give you $1. If not, you give me $2. (3/4)
+HTH appears before THH. If it does, I give you $1. If not, you give me $1. (1/2)
+This is the strange world of Penney’s game. Here is a table of odds and facts for various 3-flip games. Calculating these odds can be both tedious and mathematically demanding—a natural job for Mathematica or Mathematica Home Edition.
+
+
+As a picture, here are the 6 games that are not obvious losers. For any game your opponent picks, you can pick a game that beats it, making this a nontransitive game.
+
+The first game is HHH vs. HHT. Here are the ways HHH can win after 3, 4, 5, and 6 flips. Notice that each win ends HHH. The corresponding number of wins is the beginning of the Fibonacci sequence.
+HHH	1
+THHH	1
+HTHHH TTHHH	2
+HTTHHH THTHHH TTTHHH	3
+The sequences of a game can be calculated with the piece of code in the download notebook. The set of flips that could have a winner is calculated, and then all the winners are removed. A head and a tail are added to all games without a winner, and then the process is iterated.
+
+With the sequence, FindSequenceFunction or FindGeneratingFunction can be used to get the underlying function. The previous example might be too easy.
+
+Here’s a harder sequence. The sequence from the brute-force code leads to a generating function, which can be used to find many more terms in the sequence.
+
+Again, the start of a sequence was found by brute-force methods, and that sequence led to an elegant function. From that, many more terms were calculated. With results from games of 200 flips or less, the odds can be determined very precisely. The odds of HHT beating TTT are 7/10.
+
+Repeating all of this for the 4-flip games, here are the 14 games with non-obvious strategies. HHHH and TTTT are losers, from an odds standpoint. Notice the clockwise ring of arrows on the outside. Every game tends to beat the game in front of it.
+
+One 4-flip game with strange odds is HHHH vs. TTTH. The fraction 22/7 is a fairly good approximation for , so the odds of a win are about 1/.
+
+A few years ago, I tried to present this problem quickly, and ended up getting the math wrong. I only looked at games up to a certain short length, and then approximated the odds from there. But that was the wrong way to do it, and the odds were all off. Fortunately, someone pointed out my mistake, and this world of strange games opened up for me as I harnessed the full power of Mathematica.
+If just the odds are wanted instead of the sequences, there is an easier way, developed by John Conway.
+
+The algorithm quickly calculates a table of values.
+
+Even a grid of all the 8-flip games can be easily calculated.
+
+So, which do you prefer out of HHHTT and HTTHH? One of them wins 7/13 of the time, and the other 6/13. Figuring out which is which requires some powerful tools.
+
+Is this a conceptually simpler approach for computing the probabilities for HHHTT vs HTTHH? Make a Markov chain of all sequences of length at most 4, plus two absorbing states for HHHTT and HTTHH. The concept is to keep track of the last 4 results. You should be able to write a linear equality system to determine the probability of (say) HHHTT winning from each state,
+Posted by Dave PritchardNovember 30, 2010 at 5:43 pm
+Though it may be hard to calculate the exact probabilities, it’s easy to make a guess as to your last question by fitting the words together. Just as HTTT has an advantage over TTTH because HTTTH is shorter than TTTHTTT we could guess that HHHTT has an advantage over HTTHH because HHHTTHH is shorter than HTTHHHTT.
+(Think about it like this in the HTTT,TTTH case. Picture the flipping going on forever regardless of whether someone has already won. Look at the first spot TTTH appears. If it isn’t the very first position, then the odds of an H being in the spot before are 1/2. This means half the time the HTTT player had a winning position in the previous spot. The same is not true if the situation is reversed, hence the advantage.)
+Posted by David NacinDecember 1, 2010 at 7:24 pm
+To: Ed Pegg,jr
+(I have Mathematica7)
+In your program , you used: “gamesequences” (g1 = gamesequences[{"HHT", "TTT"}, 16][[1]])
+QUESTION: where can I find the definition of ??
+Thanks in advance!
+(Have you this program for Mma7?))
+Dwarshuis
+Posted by Hans Dwarshuis,P.J.C.December 2, 2010 at 9:52 am
+The code is in the downloadable notebook. I decided to hide that code from the general blog, but I forgot to modify the verbiage.
+Posted by Ed Pegg JrDecember 2, 2010 at 11:03 am
+The table mislabels probabilities as “odds”.
+HHH vs THH is written as odds = 1/8, but HHH wins with probability 1/8, i.e. odds = (1/8)/(7/8) = 1/7 or more commonly written 1:7.
+Posted by correctionDecember 5, 2010 at 4:25 pm
+At least with two and three coin sequence there is a way to figure out which sequence is better without calculating the odds. To explain the reasoning take the HH vs TH example. TH has a better chance of winning because in the second sequence (TH) if I flip a coin and am wrong (get a T instead of an H) I already have the correct letter to start the sequence again. With HH, if I’m wrong on the second flip and get a T I have to flip again to try to get the first correct letter to begin the sequence again. This extra flip makes the sequence less likely to occur than not having to have the extra flip to begin the sequence again.
+This leads me to think that odds for HTH vs. THH are not correctly stated. The first two letters in both sequences have an equal chance of happening, but with the third flip, if I’m wrong with THH, I already have the first letter (T) to begin the sequence again. If I’m wrong on the third flip with HTH, I have to flip again to try to get the first letter H. Therefore, THH should have a higher probability of occurring first.
+Posted by Ben HarnkeDecember 10, 2010 at 9:26 am

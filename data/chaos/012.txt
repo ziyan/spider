@@ -1,0 +1,24 @@
+﻿Will 2011 See App Makers Thinking Android-First? One Developer Thinks It’s Possible
+
+MG Siegler
+Dec 28, 2010
+
+Over the weekend, there was a ton of talk about 2011 being the year in which Android “explodes” onto the market. You could argue that 2010 was already that year, but plenty of numbers indicate that 2011 will be much bigger for the platform. But despite Android as a whole already outselling the iPhone, there’s little debate that amongst developers, iOS is still the platform you develop for first. But this could change as well in 2011, at least according to one developer. And it’s significant because he’s been an iPhone-first guy up until now.
+
+Akshay Kothari	is the co-founder of Alphonso Labs, the development house behind the popular Pulse news reader app. Pulse started as an iPad app first, then expanded to the iPhone, then came to Android. Kothari credits both the support they’ve received from Apple and the press surrounding the iPad as the reason why they’ve been so iOS-centric up until now. But, “our thinking about the Android platform has changed significantly over the last couple weeks,” he writes to us.
+
+“A few interesting things have happened on Android recently,” he continues. What things? He lists three specifically:
+
+i) Revamp of the Android store: Initially, News was bundled into “news & weather” category, which was dominated by weather apps. Also, the leaderboard/featured was very hard to crack through. This has been improved, with new categories such as “News&Magazines” and much better discovery of apps, in general. Having a banner, more screenshots and getting more than 250 keywords to describe your app is huge. Still not perfect, but much better.
+
+ii) More powerful Android phones/Tablets: Initially we were plagued by emails complaining about how some features in Pulse did not work on old phones. Sometimes the widgets wouldn’t work, sometimes it would load really slowly. A lot of these problems are disappearing now, because a lot of these devices are pretty solid now. Particularly the Galaxy Tab, where Pulse works really really well. We’ve learned a lot and improved the app also, but the devices these days are pretty fast.
+
+iii) Getting featured on the Market: Getting featured on the App Store gets you tons of downloads, easily 10x your normal traffic. I never thought Google’s blessings could do the same. Pulse is currently a featured app since last week, and the downloads every day are comparable to our best days on iOS.
+
+Pulse is indeed currently featured in the Android Market.
+
+“So far, our innovation has moved from iOS to Android, and it may stay that way in the near term. But with the option to instantly get feedback on your new update, it may not be too far-fetched to have innovation move from Android platforms to iOS platform,” Kothari notes.
+
+News broke yesterday that the revamped Android Market could soon see video demos alongside the regular images. And then there’s the talk for the first true Android-based iPod touch competitor. Both are also good signs for Android development.
+
+But the major issue up until now has of course been money. As in, developers on the iOS platform have an easier road to make it. Google is also working to improve that by getting new carrier-billing deals in place for the Market. But the fact remains that paid apps are a much easier sell in the App Store than in the Market. That will need to change in 2011 for developers to really start going Android-first in a meaningful way.

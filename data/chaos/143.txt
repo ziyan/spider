@@ -1,0 +1,26 @@
+﻿The EuroMatrix Project (Sept. 2006 - Febr. 2009)
+
+For the follow-up project EuroMatrixPlus (March 2009 - February 2012) please see the new Website
+Summary
+EuroMatrix aims at a major push in machine translation (MT) technology applying the most advanced MT technologies systematically to all pairs of EU languages. Special attention is being paid to the languages of the new and near-term prospective member states. As part of this application development, EuroMatrix designs and investigates novel combinations of statistical techniques and linguistic knowledge sources as well as hybrid MT architectures. 
+EuroMatrix addresses urgent European economic and social needs by concentrating on European languages and on high-quality translation to be employed for the publication of technical, social, legal and political documents.
+EuroMatrix aims at enriching the statistical MT approach with novel learning paradigms and experiment with new combinations of methods and resources from statistical MT, rule-based MT, shallow language processing and computational lexicography/morphology.
+
+Project Objectives
+• Translation systems for all pairs of EU languages, with a special focus on the languages of new and near-term prospective member states
+• Efficient inclusion of linguistic knowledge into statistical machine translation
+• The development and testing of hybrid architectures for the integration of rule-based and statistical approaches
+• Organization, analysis and interpretation of a competitive annual international evaluation of machine translation with a strong focus on European economic and social needs
+• The provision of open source machine translation technology including research tools, software and data
+• A systematically compiled and constantly updated detailed survey of the state of MT technology for all EU language pairs based on the developed systematic translation between all EU languages, the comparative MT evaluations and an inventory of available and needed tools, components, lingware and data.
+
+Experienced Project Partners
+EUROMATRIX brings together internationally recognised, highly effective, experienced research groups in machine translation, and several relevant industrial partners. The consortium consists of Edinburgh University, Charles University, Saarland University, CELCT, and the two SMEs MorphoLogic and GROUP Technologies AG.
+
+
+Project Results
+Please see the corresponding folders of this website for deliverables, publications, code and other downloadable resources, as well as links to public demonstrators developed in the project.
+
+
+Acknowledgement
+The EUROMATRIX project is funded by the EU Information Society Technology program.

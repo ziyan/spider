@@ -1,0 +1,26 @@
+﻿Improvements to Product Search for this holiday season
+11/15/2010 06:00:00 AM
+Every year retailers start the holiday shopping season earlier and earlier—and still I procrastinate until late December before getting started. This year I've already made my list and I’m ready to go.
+
+I usually get my holiday shopping done in two ways: online (e-commerce) and offline (“brick and mortar” stores). I’ve found that shopping online is best when you know what you're looking for—you can search for specific items, research multiple brands or compare reviews. On the other hand, shopping offline makes it easier to explore products in person and sometimes discover things that you didn’t know existed. Plus, it’s usually the only way to take your purchase home the same day.
+
+The line between online and offline shopping is starting to blur: According to a study by Forrester while 93 percent of retail purchases today happen in a store, more than 46 percent of those in-store purchases are influenced by online research. Not to mention that shoppers can access the web from anywhere at anytime—including from their mobile phones when browsing the aisles of a local store.
+
+All of this got our team thinking about how we could help further bridge the gap between online and offline shopping. This week, we’re introducing several new features to Product Search that start doing just that.
+
+Local availability on Google Product Search: We’ve partnered with more than 70 retail brands—including national retailers like Best Buy and Williams-Sonoma, as well as software manufacturers like JDA, Epicor and Oracle—to connect shoppers searching online with local stores that have the items they’re are looking for in-stock. For example, if you’re looking online to get your son that new Wii video game he’s been wanting, you can click on the “nearby stores” link to see where it’s in stock nearby. (If you’re a retailer who’s interested in taking part, you can learn more on the Google Retail Blog.)
+
+
+
+Local Availability in Google Product Search
+Google Shopper 1.3: Our mobile shopping app helps shoppers on the go research items and find the best place to buy them either online or in a nearby store—and it already has more than 2.5 million downloads. This version includes new search filters like “price” and “brand” to help refine your search. And, you’ll still get features like Local Availability, voice search and rapid continuous barcode scanning (so you can point your phone at a product and get information from the web).
+
+“Popular products” and “aisles”: We’ve borrowed an idea from successful brick and mortar stores and in the coming weeks, we'll roll-out two features called “popular products” and “aisles” to help people learn about and discover new products. When you search for a category of products such as “camera lenses,” our new popular products feature helps you get started by showing you the lenses other people are viewing online. “Aisles” helps you browse and discover products by organizing results into sub-categories that others have found helpful. For example, if you’re looking for a new TV, you can choose between display types like LCD and plasma. If you’re interested in camera lenses for that brand new SLR, you can shop by the aperture of the lens.
+
+
+Aisles and Popular Products
+We hope these features make it easier for you to get your shopping done this holiday season—whether it’s online, offline or in the new space in between.
+
+Happy shopping!
+
+Posted by Sameer Samat, Director of Product Management

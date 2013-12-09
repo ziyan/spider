@@ -1,0 +1,48 @@
+SIMRANK++: PUTTING TOGETHER 3 SIMPLE IDEAS (POSTED BY IOANNIS ANTONELLIS)
+Two ideas that really pushed web search further came from two completely different directions.
+
+Two ideas
+
+The first one, link analysis, came into play as a tool for improving the quality of search results. The idea as people express it today is simple, yet its power has been proven invaluable. The more web pages that link to your web page, the more popular your web page becomes.
+
+The second idea, sponsored search, allowed search engines to make revenue, grow and keep providing their service for free. The idea again is simple: The search engine sells each keyword to up to 10 advertisers and it displays their ads to the users that issue a query with that keyword. Since the keywords are not real goods that you can easily set a price for, the search engines rely on auctions to determine the price for each keyword. (Had the search engines been able to set fixed keyword prices, many Ph.D. students, including myself, would have no thesis topic to work on...)
+
+Another idea: The wisdom of Crowds
+
+But, my favorite simple idea that has started flooding around recently is that of exploiting the wisdom of the crowds; the information that the billions of web users provide in all its forms. The most concrete and recent example of a successful application that is based on this idea is Wikipedia. Now that this large repository of knowledge has been created, many researchers have started to think about using it to improve existing data mining methods.
+
+Another, still under development and immature, set of techniques that are based on the wisdom of the crowds uses click logs as a source of implicit information that web search users provide.
+
+The paper
+
+In our paper "Simrank++: Query Rewriting through link analysis of the Click Graph", which will be presented at Auckland, New Zealand in the coming VLDB 2008 conference, we are trying to put all these three ideas into play together. Specifically, we develop a link analysis technique for click graphs that can be used to increase the revenue of a sponsored search engine.
+
+So, what is a click graph, how exactly do we analyze its link structure and how does this improve the revenue of a search engine?
+
+Click graph
+
+The click graph is a bipartite graph with query nodes on one side, ad nodes on the other and an edge between a query and an ad when a user that issued the query clicked on the ad. In addition, each edge between a query and an ad has associated with it a weight that corresponds to the number of clicks the query brought to the ad.
+
+How to increase search engine revenue
+
+The potential for revenue increase comes from queries that no advertiser has bid on. Since the search engine has no indication which ads are relevant to those queries, there are no ads it can display. Given such a query, if there was a way to guess which ads are relevant (but for some reason the associated advertisers decided not to bid on it), we could display the relevant ads and keep both the advertisers and the search engine happy.
+
+The solution comes from the click graph: the wisdom of the crowds. Given a query, we use the click graph to generate a list of query rewrites, i.e., of other queries that are "similar" to it. For example, for the query "camera," the queries "digital camera" and "photography" may be useful because the user may also be interested in ads for those related queries. The query "battery" may also be useful because users that want a camera may also be in the market for a spare battery. Both the query and its rewrites can then be used to find ads.
+
+The schemes we present analyze the connections in the click graph to identify rewrites that may be useful. Our techniques identify not only queries that are directly connected by an ad (e.g., users that submit either "mp3" or "i-tunes" click on ad an for "iPod") but also queries that are more indirectly related.
+
+Simrank++
+
+The intuition of our solution, Simrank++, is the following:
+two queries are similar if they are connected to similar ads and two ads are similar if they are connected to similar queries.
+Sounds confusing, but it reveals the power of recursion. Initially each query/ad is only similar to itself, but by continuously applying these two rules, you end up with a similarity score for each pair of queries.
+
+Are these scores always correct? How can we even define what a correct score is? And how does everything change when you try to take into account the edge weights of the click graph in the computation of the similarity scores?
+
+The answers to these more detailed questions are in the paper...
+Labels: click graph, collaborative filtering, ioannis, link analysis, recommendation system, search advertising, simrank++, sponsored search, yannis
+
+This entry was posted by Ioannis Antonellis, on Friday, June 6, 2008. You can leave your response.
+
+ PAUL HEYMANN | JUNE 13, 2008 2:07 PM |
+Hey Yannis, isn't link analysis also the Wisdom of Crowds? What's up?

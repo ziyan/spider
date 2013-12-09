@@ -1,0 +1,15 @@
+﻿December 09, 2010
+Take Control of Your Site Feed
+Posted by Ben Eitzen, Software Engineer
+
+Feeds are a great way to reach a broader audience and keep your loyal readers up-to-date. In fact, it’s not uncommon for blogs to have more than a quarter of their traffic come from feed readers.
+
+The challenge with feeds is that it’s never been possible to control exactly how much content is delivered. Up until now, the options have been “Short” and “Full”. Short produces a feed that contains around the first 400 characters of the post, with HTML and images removed. Full produces a feed that contains everything in the post, including HTML and images. But what about those instances where you want to give your users a taste—an image or two with some introductory text—and then have them visit your blog to see the full post? Well today we’ve launched a third option that lets you do just that using Jump Breaks.
+
+To enable this feature, simply go to the Settings page for your blog, click on Site Feed, and then next to “Allow Blog Feeds”, change the drop-down value to “Until Jump Break”.
+
+
+
+That’s it! Next time you write a post and use a jump break, anyone reading the feed will get all the content, including images and HTML formatting, up until the jump break (if there’s no jump break, the feed will contain everything). If readers want to see the full post, they can click the “read more” link and they’ll be directed to your blog. This means you have full control over your feed.  For example, want to include an image for your recipe but not the whole recipe? No problem! Put the image and part of the recipe before the jump break, and that’s all the feed readers will see.
+
+Enjoy!

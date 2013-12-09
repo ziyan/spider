@@ -1,0 +1,16 @@
+﻿December 29, 2010
+2010: Looking Back
+Posted by the Blogger Team
+
+2010 has been an exciting year for all of us on the global Blogger team, and our platform is now more powerful, reliable, and active than ever before. As we close the books on another great year, we want to take a moment to look back at some of the highlights. 
+
+The makeover. The new Template Designer, with beautiful new templates and iStockPhoto™ background images, was one of the team’s biggest accomplishments of the year. Since the launch in June, nearly half of our active users have begun using the new templates (if you haven't tried our new templates yet, why don't you give them a try?) Our efforts to make Blogger blogs look more beautiful continued with the release of web fonts, custom background images, and mobile-optimized views. 
+
+Some great new features. 2010 was also a year when we added tons of new features to Blogger. We had a busy summer adding two new admin tabs to Blogger: Comments and Stats. The comments tab introduced a comments inbox and spam filtering; real-time stats, followed by stats gadgets, were also highly requested features. We've also added static pages, new share buttons, WYSIWYG post preview, improved YouTube integration, Zemanta post editor gadget, integration with Google Apps, and many other new features. 
+
+Rock-solid infrastructure. Of course features don't mean much when the service goes down, and we've made lots of behind-the-scene improvements to keep our service up and running as reliably as possible. Auto-pagination was one of our many efforts to reduce latency. Sometimes keeping our infrastructure robust meant phasing out features that are used by only a fraction of our users, but have a heavy impact on our system, such as FTP publishing — which some bloggers called a "hard but smart decision." 
+
+Reaching out to real users. Perhaps the most exciting thing that we did this year was to get out more and meet the real users, like you. We set up booths at SXSW and BlogWorld Expo (our first ever presence there), and we held our 11th birthday party all around the world. In addition, our face-to-face meetings were accompanied by our conversations with you over virtual channels like our user forum and Twitter. We will continue meeting you, listening to you, and delivering what you want for Blogger in 2011. 
+
+It’s been a pretty busy year for us, but we hope 2011 will be an even busier year where we deliver even more exciting releases to you. Thanks again for all your support, and we wish you the best during this holiday season. See you in the new year!
+Posted by Chang Kim at 4:35 PM

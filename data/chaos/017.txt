@@ -1,0 +1,20 @@
+﻿Yext Organizes The Anti-Google Local Advertising Alliance (Screenshots)
+
+Erick Schonfeld
+10 hours ago
+
+
+Google, as you may have heard, is making a big push into local advertising. It is currently offering $100 million in AdWords credits to new small businesses that sign up and promotes Google Places results for all local searches. Quite frankly, this is scaring the shit out of competitors like Citysearch, Yellowbook, SuperPages, WhitePages, and Yelp. They all rely on Google search results for people to find a good portion of their listings, and if Google displaces them collectively for local business listings, their businesses will be destroyed.
+
+In local, Google is already a big snowball getting bigger and bigger. So how do they fight back? They enter into an anti-Google alliance, of course. The company organizing this alliance is Yext, a New York City startup which specializes in pay-per-call advertising for local businesses and dashboards to help them manage their reputations and listings online. On Monday, it will launch a new feature called “Tags” which will let small businesses highlight their names with a little tag and customizable message across about a dozen local listings sites. Launch partners for this “Tag Alliance” (I like my name better) will include MapQuest, Citysearch, Yellowbook, Local.com, SuperPages, White Pages, MerchantCircle, and Topix, with more to come.
+
+If these tags sound familiar, it is because Google also offers similar sponsored tags to small businesses for $25 a month. Whenever a local business advertising with tags comes up in an organic search result or on Google Maps, a yellow tag with a line of text appears beneath its listing to help it stand out. Now, Yext is offering basically the same product across all the other major local search and listings sites on the Web for $99 a month per business location. Yext will end up splitting that 50/50 with its partners where the tags will appear. But from one dashboard (see first screenshot below), small businesses will be able to create tags, activate them across all the partner sites, and change them or take them down at will. And this is just the first step.
+
+Since launching its reputation management system, Yext Rep, last May at TechCrunch Disrupt New York, the company has signed up 30,000 local businesses for the free product with no marketing. Tags will become a new tab/feature on Yext. Eventually, businesses should be able to update their tags not just on Yext but from any of the partner sites, and with one stroke update all of their tags universally across all the partner sites. And while it is starting with tags, Yext hopes to convince its partners to share more data and allow businesses to change their listing information or upload new photos in one place and see the changes replicated everywhere else.
+
+Below is the Yext Tags dashboard page and a couple examples of what the tags look like on SuperPages and MapQuest:
+
+
+
+
+

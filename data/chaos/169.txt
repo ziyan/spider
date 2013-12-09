@@ -1,0 +1,28 @@
+﻿This week in search 6/6/10
+6/06/2010 09:59:00 PM
+This is one of a regular series of posts on search experience updates. Look for the label This week in search and subscribe to the series. - Ed.
+
+We work hard to consistently develop new tools, features and algorithmic changes to help us better understand what you mean when you enter a query into the Google search box—and we ultimately use that understanding to get you the information you're looking for as fast as possible. Understanding is core to our mission—particularly as we strive to be as useful in your everyday tasks. For example, if you search for a local sports team, and there's been a recent game, we'll show you scores. If you're visiting Boston and looking for a restaurant, you'll find tailored search suggestions based on the best Beantown spots. It's these features that enhance the experience of searching and help you find exactly what you're looking for. This week, we've made a few changes that we hope will make Google search even better for you.
+
+Spelling Corrections in Suggest
+Since we first launched Google Suggest, we've offered spell-corrected search completions to provide you with similar search queries from other users. With this feature, not only does Suggest help you rest your fingers because you don't have to type out a full query—you can also catch a mistake quickly and easily.
+
+
+An example of old spelling correction in Google Suggest
+
+This week we launched an update that makes Google Suggest even more intuitive and simple. If you're typing a query for which there are no search completions to offer, and yet some of your search terms do seem to be misspelled, Google Suggest will now offer a "Did you mean" suggestion for your query—giving you an option to correct your spelling right away and get on with your search. These spelling suggestions already exist on the results page, but by moving them to an earlier point in the search process, we hope we've made it faster and easier to get to the results you're looking for. Right now, this feature is offered only for google.com in English, but we're working to roll this out internationally in the near future.
+
+
+Google Suggest with the new spelling corrections feature
+
+Mobile app results in mobile search
+With tens of thousands of apps available for both Android and iPhone phone, there are plenty of options to choose from when you're looking for new apps. And it makes sense that if you hear about a great new app while you're out and about, you'll want to download it then and there. In an effort to make apps even easier to find, this week we launched a new feature for mobile search that helps users on Android-powered devices and iPhones find and download mobile apps. So the next time you're looking for the latest action game, multimedia app or travel tool on your phone, we'll show you a special result at the top of your mobile search results showing basic information about the app you're looking for, including title, price and publisher. You'll also find a link that will take you directly to the app's installation page in the Android Market or Apple's App Store.
+
+Example mobile searches on your iPhone or Android device: [download pandora] or [bank of america app]
+
+A new look for the Google homepage
+Search is more fun when it's personalized. That's why I was delighted to announce our new feature that allows you to personalize your Google homepage with a favorite photo. Whether you choose a picture from your computer, your own Picasa Web Album or a public gallery of photos hosted by Picasa, Google is now yours to personalize. To get started, head to google.com and look for the "Change background image" link in the lower left-hand side of the page. Keep an eye out for more fun announcements with this feature!
+
+Thanks for reading, and stay tuned for more next week.
+
+Posted by Marissa Mayer, VP Search Products & User Experience

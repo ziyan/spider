@@ -1,0 +1,320 @@
+﻿The Bourgain-Guth argument for proving restriction theorems
+28 December, 2010 in expository, math.CA | Tags: Jean Bourgain, Larry Guth, restriction conjecture | by Terence Tao | 4 comments
+One of my favourite unsolved problems in harmonic analysis is the restriction problem. This problem, first posed explicitly by Elias Stein, can take many equivalent forms, but one of them is this: one starts with a smooth compact hypersurface  (possibly with boundary) in , such as the unit sphere  in , and equips it with surface measure . One then takes a bounded measurable function  on this surface, and then computes the (inverse) Fourier transform
+
+
+
+of the measure . As  is bounded and  is a finite measure, this is a bounded function on ; from the dominated convergence theorem, it is also continuous. The restriction problem asks whether this Fourier transform also decays in space, and specifically whether  lies in  for some . (This is a natural space to control decay because it is translation invariant, which is compatible on the frequency space side with the modulation invariance of .) By the closed graph theorem, this is the case if and only if there is an estimate of the form
+
+
+
+for some constant  that can depend on  but not on . By a limiting argument, to provide such an estimate, it suffices to prove such an estimate under the additional assumption that  is smooth.
+
+Strictly speaking, the above problem should be called the extension problem, but it is dual to the original formulation of the restriction problem, which asks to find those exponents  for which the Fourier transform of an  function  can be meaningfully restricted to a hypersurface , in the sense that the map  can be continuously defined from  to, say, . A duality argument shows that the exponents  for which the restriction property holds are the dual exponents to the exponents  for which the extension problem holds.
+
+There are several motivations for studying the restriction problem. The problem is connected to the classical question of determining the nature of the convergence of various Fourier summation methods (and specifically, Bochner-Riesz summation); very roughly speaking, if one wishes to perform a partial Fourier transform by restricting the frequencies (possibly using a well-chosen weight) to some region  (such as a ball), then one expects this operation to well behaved if the boundary  of this region has good restriction (or extension) properties. More generally, the restriction problem for a surface  is connected to the behaviour of Fourier multipliers whose symbols are singular at . The problem is also connected to the analysis of various linear PDE such as the Helmholtz equation, Schro\”dinger equation, wave equation, and the (linearised) Korteweg-de Vries equation, because solutions to such equations can be expressed via the Fourier transform in the form  for various surfaces  (the sphere, paraboloid, light cone, and cubic for the Helmholtz, Schrödinger, wave, and linearised Korteweg de Vries equation respectively). A particular family of restriction-type theorems for such surfaces, known as Strichartz estimates, play a foundational role in the nonlinear perturbations of these linear equations (e.g. the nonlinear Schrödinger equation, the nonlinear wave equation, and the Korteweg-de Vries equation). Last, but not least, there is a a fundamental connection between the restriction problem and the Kakeya problem, which roughly speaking concerns how tubes that point in different directions can overlap. Indeed, by superimposing special functions of the type , known as wave packets, and which are concentrated on tubes in various directions, one can “encode” the Kakeya problem inside the restriction problem; in particular, the conjectured solution to the restriction problem implies the conjectured solution to the Kakeya problem. Finally, the restriction problem serves as a simplified toy model for studying discrete exponential sums whose coefficients do not have a well controlled phase; this perspective was, for instance, used by Ben Green when he established Roth’s theorem in the primes by Fourier-analytic methods, which was in turn one of the main inspirations for our later work establishing arbitrarily long progressions in the primes, although we ended up using ergodic-theoretic arguments instead of Fourier-analytic ones and so did not directly use restriction theory in that paper.
+
+The estimate (1) is trivial for  and becomes harder for smaller . The geometry, and more precisely the curvature, of the surface , plays a key role: if  contains a portion which is completely flat, then it is not difficult to concoct an  for which  fails to decay in the normal direction to this flat portion, and so there are no restriction estimates for any finite . Conversely, if  is not infinitely flat at any point, then from the method of stationary phase, the Fourier transform  can be shown to decay at a power rate at infinity, and this together with a standard method known as the  argument can be used to give non-trivial restriction estimates for finite . However, these arguments fall somewhat short of obtaining the best possible exponents . For instance, in the case of the sphere , the Fourier transform  is known to decay at the rate  and no better as , which shows that the condition  is necessary in order for (1) to hold for this surface. The restriction conjecture for  asserts that this necessary condition is also sufficient. However, the -based argument gives only the Tomas-Stein theorem, which in this context gives (1) in the weaker range . (On the other hand, by the nature of the  method, the Tomas-Stein theorem does allow the  norm on the right-hand side to be relaxed to , at which point the Tomas-Stein exponent becomes best possible. The fact that the Tomas-Stein theorem has an  norm on the right-hand side is particularly valuable for applications to PDE, leading in particular to the Strichartz estimates mentioned earlier.)
+
+Over the last two decades, there was a fair amount of work in pushing past the Tomas-Stein barrier. For sake of concreteness let us work just with the restriction problem for the unit sphere  in . Here, the restriction conjecture asserts that (1) holds for all , while the Tomas-Stein theorem gives only . By combining a multiscale analysis approach with some new progress on the Kakeya conjecture, Bourgain was able to obtain the first improvement on this range, establishing the restriction conjecture for . The methods were steadily refined over the years; until recently, the best result (due to myself) was that the conjecture held for all , which proceeded by analysing a “bilinear ” variant of the problem studied previously by Bourgain and by Wolff. This is essentially the limit of that method; the relevant bilinear  estimate fails for . (This estimate was recently established at the endpoint  by Jungjin Lee (personal communication), though this does not quite improve the range of exponents in (1) due to a logarithmic inefficiency in converting the bilinear estimate to a linear one.)
+
+On the other hand, the full range  of exponents in (1) was obtained by Bennett, Carbery, and myself (with an alternate proof later given by Guth), but only under the additional assumption of non-coplanar interactions. In three dimensions, this assumption was enforced by replacing (1) with the weaker trilinear (and localised) variant
+
+
+
+where  and  are arbitrary,  is the ball of radius  in , and  are compact portions of  whose unit normals are never coplanar, thus there is a uniform lower bound
+
+ 
+
+for some  and all . If it were not for this non-coplanarity restriction, (2) would be equivalent to (1) (by setting  and , with the converse implication coming from Hölder’s inequality; the  loss can be removed by a lemma from a paper of mine). At the time we wrote this paper, we tried fairly hard to try to remove this non-coplanarity restriction in order to recover progress on the original restriction conjecture, but without much success.
+
+A few weeks ago, though, Bourgain and Guth found a new way to use multiscale analysis to “interpolate” between the result of Bennett, Carbery and myself (that has optimal exponents, but requires non-coplanar interactions), with a more classical square function estimate of Córdoba that handles the coplanar case. A direct application of this interpolation method already ties with the previous best known result in three dimensions (i.e. that (1) holds for ). But it also allows for the insertion of additional input, such as the best Kakeya estimate currently known in three dimensions, due to Wolff. This enlarges the range slightly to . The method also can extend to variable-coefficient settings, and in some of these cases (where there is so much “compression” going on that no additional Kakeya estimates are available) the estimates are best possible.
+
+As is often the case in this field, there is a lot of technical book-keeping and juggling of parameters in the formal arguments of Bourgain and Guth, but the main ideas and “numerology” can be expressed fairly readily. (In mathematics, numerology refers to the empirically observed relationships between various key exponents and other numerical parameters; in many cases, one can use shortcuts such as dimensional analysis or informal heuristic, to compute these exponents long before the formal argument is completely in place.) Below the fold, I would like to record this numerology for the simplest of the Bourgain-Guth arguments, namely a reproof of (1) for . This is primarily for my own benefit, but may be of interest to other experts in this particular topic. (See also my 2003 lecture notes on the restriction conjecture.)
+
+In order to focus on the ideas in the paper (rather than on the technical details), I will adopt an informal, heuristic approach, for instance by interpreting the uncertainty principle and the pigeonhole principle rather liberally, and by focusing on main terms in a decomposition and ignoring secondary terms. I will also be somewhat vague with regard to asymptotic notation such as . Making the arguments rigorous requires a certain amount of standard but tedious effort (and is one of the main reasons why the Bourgain-Guth paper is as long as it is), which I will not focus on here.
+
+Read the rest of this entry »
+
+Outliers in the spectrum of iid matrices with bounded rank perturbations
+22 December, 2010 in math.PR, math.RA, paper | Tags: circular law, iid matrices, outliers, random matrices | by Terence Tao | 8 comments
+I’ve just uploaded to the arXiv my paper “Outliers in the spectrum of iid matrices with bounded rank perturbations“, submitted to Probability Theory and Related Fields. This paper is concerned with outliers to the circular law for iid random matrices. Recall that if  is an  matrix whose entries are iid complex random variables with mean zero and variance one, then the complex eigenvalues of the normalised matrix  will almost surely be distributed according to the circular law distribution  in the limit . (See these lecture notes for further discussion of this law.)
+
+The circular law is also stable under bounded rank perturbations: if  is a deterministic rank  matrix of polynomial size (i.e. of operator norm ), then the circular law also holds for  (this is proven in a paper of myself, Van Vu, and Manjunath Krisnhapur). In particular, the bulk of the eigenvalues (i.e.  of the  eigenvalues) will lie inside the unit disk .
+
+However, this leaves open the possibility for one or more outlier eigenvalues that lie significantly outside the unit disk; the arguments in the paper cited above give some upper bound on the number of such eigenvalues (of the form  for some absolute constant ) but does not exclude them entirely. And indeed, numerical data shows that such outliers can exist for certain bounded rank perturbations.
+
+In this paper, some results are given as to when outliers exist, and how they are distributed. The easiest case is of course when there is no bounded rank perturbation: . In that case, an old result of Bai and Yin and of Geman shows that the spectral radius of  is almost surely , thus all eigenvalues will be contained in a  neighbourhood of the unit disk, and so there are no significant outliers. The proof is based on the moment method.
+
+Now we consider a bounded rank perturbation  which is nonzero, but which has a bounded operator norm: . In this case, it turns out that the matrix  will have outliers if the deterministic component has outliers. More specifically (and under the technical hypothesis that the entries of  have bounded fourth moment), if  is an eigenvalue of  with , then (for  large enough),  will almost surely have an eigenvalue at , and furthermore these will be the only outlier eigenvalues of .
+
+Thus, for instance, adding a bounded nilpotent low rank matrix to  will not create any outliers, because the nilpotent matrix only has eigenvalues at zero. On the other hand, adding a bounded Hermitian low rank matrix will create outliers as soon as this matrix has an operator norm greater than .
+
+When I first thought about this problem (which was communicated to me by Larry Abbott), I believed that it was quite difficult, because I knew that the eigenvalues of non-Hermitian matrices were quite unstable with respect to general perturbations (as discussed in this previous blog post), and that there were no interlacing inequalities in this case to control bounded rank perturbations (as discussed in this post). However, as it turns out I had arrived at the wrong conclusion, especially in the exterior of the unit disk in which the resolvent is actually well controlled and so there is no pseudospectrum present to cause instability. This was pointed out to me by Alice Guionnet at an AIM workshop last week, after I had posed the above question during an open problems session. Furthermore, at the same workshop, Percy Deift emphasised the point that the basic determinantal identity
+
+
+
+for  matrices  and  matrices  was a particularly useful identity in random matrix theory, as it converted problems about large () matrices into problems about small () matrices, which was particularly convenient in the regime when  and  was fixed. (Percy was speaking in the context of invariant ensembles, but the point is in fact more general than this.)
+
+From this, it turned out to be a relatively simple manner to transform what appeared to be an intractable  matrix problem into quite a well-behaved  matrix problem for bounded . Specifically, suppose that  had rank , so that one can factor  for some (deterministic)  matrix and  matrix . To find an eigenvalue  of , one has to solve the characteristic polynomial equation
+
+
+
+This is an  determinantal equation, which looks difficult to control analytically. But we can manipulate it using (1). If we make the assumption that  is outside the spectrum of  (which we can do as long as  is well away from the unit disk, as the unperturbed matrix  has no outliers), we can divide by  to arrive at
+
+
+
+Now we apply the crucial identity (1) to rearrange this as
+
+
+
+The crucial point is that this is now an equation involving only a determinant, rather than an  one, and is thus much easier to solve. The situation is particularly simple for rank one perturbations
+
+
+
+in which case the eigenvalue equation is now just a scalar equation
+
+
+
+that involves what is basically a single coefficient of the resolvent . (It is also an instructive exercise to derive this eigenvalue equation directly, rather than through (1).) There is by now a very well-developed theory for how to control such coefficients (particularly for  in the exterior of the unit disk, in which case such basic tools as Neumann series work just fine); in particular, one has precise enough control on these coefficients to obtain the result on outliers mentioned above.
+
+The same method can handle some other bounded rank perturbations. One basic example comes from looking at iid matrices with a non-zero mean  and variance ; this can be modeled by  where  is the unit vector . Here, the bounded rank perturbation has a large operator norm (equal to ), so the previous result does not directly apply. Nevertheless, the self-adjoint nature of the perturbation has a stabilising effect, and I was able to show that there is still only one outlier, and that it is at the expected location of .
+
+If one moves away from the case of self-adjoint perturbations, though, the situation changes. Let us now consider a matrix of the form , where  is a randomised version of , e.g. , where the  are iid Bernoulli signs; such models were proposed recently by Rajan and Abbott as a model for neural networks in which some nodes are excitatory (and give columns with positive mean) and some are inhibitory (leading to columns with negative mean). Despite the superficial similarity with the previous example, the outlier behaviour is now quite different. Instead of having one extremely large outlier (of size ) at an essentially deterministic location, we now have a number of eigenvalues of size , scattered according to a random process. Indeed, (in the case when the entries of  were real and bounded) I was able to show that the outlier point process converged (in the sense of converging -point correlation functions) to the zeroes of a random Laurent series
+
+
+
+where  are iid real Gaussians. This is basically because the coefficients of the resolvent  have a Neumann series whose coefficients enjoy a central limit theorem.
+
+On the other hand, as already observed numerically (and rigorously, in the gaussian case) by Rajan and Abbott, if one projects such matrices to have row sum zero, then the outliers all disappear. This can be explained by another appeal to (1); this projection amounts to right-multiplying by the projection matrix  to the zero-sum vectors. But by (1), the non-zero eigenvalues of the resulting matrix  are the same as those for . Since annihilates , we thus see that in this case the bounded rank perturbation plays no role, and the question reduces to obtaining a circular law with no outliers for . As it turns out, this can be done by invoking the machinery of Van Vu and myself that we used to prove the circular law for various random matrix models.
+
+“An epsilon of room”, Vol. I, now published
+21 December, 2010 in book, Mathematics, update | Tags: AMS, blog book, Epsilon of room | by Terence Tao | 1 comment
+The first volume of my 2009 blog book, “An epsilon of room“, has now been published by the AMS, as part of the Graduate Studies in Mathematics series.  (So I finally have a book whose cover is at least partially in yellow, which for some reason seems to be the traditional colour for mathematics texts.) This volume contains the material from my 245B and 245C classes, and can thus be viewed as a second text in graduate real analysis.  (I plan to have one volume of the 2010 blog book to be devoted to the material for the 245A class  I just taught, and would thus serve as a first text in graduate real analysis to complement this volume.)
+
+The second volume, which covers a wide range of other topics, should also be published in the near future.
+
+The mesoscopic structure of GUE eigenvalues
+17 December, 2010 in expository, math.AP, math.MP, math.PR | Tags: Dyson Brownian motion, GUE, random matrices | by Terence Tao | 5 comments
+This week I am at the American Institute of Mathematics, as an organiser on a workshop on the universality phenomenon in random matrices. There have been a number of interesting discussions so far in this workshop. Percy Deift, in a lecture on universality for invariant ensembles, gave some applications of what he only half-jokingly termed “the most important identity in mathematics”, namely the formula
+
+
+
+whenever  are  and  matrices respectively (or more generally, and  could be linear operators with sufficiently good spectral properties that make both sides equal). Note that the left-hand side is an  determinant, while the right-hand side is a  determinant; this formula is particularly useful when computing determinants of large matrices (or of operators), as one can often use it to transform such determinants into much smaller determinants. In particular, the asymptotic behaviour of  determinants as  can be converted via this formula to determinants of a fixed size (independent of ), which is often a more favourable situation to analyse. Unsurprisingly, this trick is particularly useful for understanding the asymptotic behaviour of determinantal processes.
+
+There are many ways to prove the identity. One is to observe first that when are invertible square matrices of the same size, that  and  are conjugate to each other and thus clearly have the same determinant; a density argument then removes the invertibility hypothesis, and a padding-by-zeroes argument then extends the square case to the rectangular case. Another is to proceed via the spectral theorem, noting that  and  have the same non-zero eigenvalues.
+
+By rescaling, one obtains the variant identity
+
+
+
+which essentially relates the characteristic polynomial of  with that of . When , a comparison of coefficients this already gives important basic identities such as  and ; when  is not equal to , an inspection of the  coefficient similarly gives the Cauchy-Binet formula (which, incidentally, is also useful when performing computations on determinantal processes).
+
+Thanks to this formula (and with a crucial insight of Alice Guionnet), I was able to solve a problem (on outliers for the circular law) that I had in the back of my mind for a few months, and initially posed to me by Larry Abbott; I hope to talk more about this in a future post.
+
+Today, though, I wish to talk about another piece of mathematics that emerged from an afternoon of free-form discussion that we managed to schedule within the AIM workshop. Specifically, we hammered out a heuristic model of the mesoscopic structure of the eigenvalues  of the  Gaussian Unitary Ensemble (GUE), where  is a large integer. As is well known, the probability density of these eigenvalues is given by the Ginebre distribution
+
+
+
+where  is Lebesgue measure on the Weyl chamber ,  is a constant, and the Hamiltonian  is given by the formula
+
+
+
+At the macroscopic scale of , the eigenvalues  are distributed according to the Wigner semicircle law
+
+
+
+Indeed, if one defines the classical location  of the  eigenvalue to be the unique solution in  to the equation
+
+
+
+then it is known that the random variable  is quite close to . Indeed, a result of Gustavsson shows that, in the bulk region when  for some fixed ,  is distributed asymptotically as a gaussian random variable with mean  and variance . Note that from the semicircular law, the factor  is the mean eigenvalue spacing.
+
+At the other extreme, at the microscopic scale of the mean eigenvalue spacing (which is comparable to  in the bulk, but can be as large as  at the edge), the eigenvalues are asymptotically distributed with respect to a special determinantal point process, namely the Dyson sine process in the bulk (and the Airy process on the edge), as discussed in this previous post.
+
+Here, I wish to discuss the mesoscopic structure of the eigenvalues, in which one involves scales that are intermediate between the microscopic scale  and the macroscopic scale , for instance in correlating the eigenvalues  and  in the regime  for some . Here, there is a surprising phenomenon; there is quite a long-range correlation between such eigenvalues. The result of Gustavsson shows that both  and  behave asymptotically like gaussian random variables, but a further result from the same paper shows that the correlation between these two random variables is asymptotic to  (in the bulk, at least); thus, for instance, adjacent eigenvalues  and  are almost perfectly correlated (which makes sense, as their spacing is much less than either of their standard deviations), but that even very distant eigenvalues, such as  and , have a correlation comparable to . One way to get a sense of this is to look at the trace
+
+
+
+This is also the sum of the diagonal entries of a GUE matrix, and is thus normally distributed with a variance of . In contrast, each of the  (in the bulk, at least) has a variance comparable to . In order for these two facts to be consistent, the average correlation between pairs of eigenvalues then has to be of the order of .
+
+Below the fold, I give a heuristic way to see this correlation, based on Taylor expansion of the convex Hamiltonian  around the minimum , which gives a conceptual probabilistic model for the mesoscopic structure of the GUE eigenvalues. While this heuristic is in no way rigorous, it does seem to explain many of the features currently known or conjectured about GUE, and looks likely to extend also to other models.
+
+Read the rest of this entry »
+
+Large values of the Gowers-Host-Kra seminorms
+16 December, 2010 in math.CA, math.CO, math.DS, paper | Tags: Gowers uniformity norms, Gowers-Host-Kra seminorms, inverse theorems, Tanja Eisner | by Terence Tao | Leave a comment
+﻿
+
+Tanja Eisner and I have just uploaded to the arXiv our paper “Large values of the Gowers-Host-Kra seminorms“, submitted to Journal d’Analyse Mathematique. This paper is concerned with the properties of three closely related families of (semi)norms, indexed by a positive integer :
+
+The Gowers uniformity norms  of a (bounded, measurable, compactly supported) function  taking values on a locally compact abelian group , equipped with a Haar measure ;
+The Gowers uniformity norms  of a function  on a discrete interval ; and
+The Gowers-Host-Kra seminorms  of a function  on an ergodic measure-preserving system .
+These norms have been discussed in depth in previous blog posts, so I will just quickly review the definition of the first norm here (the other two (semi)norms are defined similarly). The  norm is defined recursively by setting
+
+
+
+and
+
+
+
+where . Equivalently, one has
+
+
+
+Informally, the Gowers uniformity norm  measures the extent to which (the phase of ) behaves like a polynomial of degree less than . Indeed, if  and  is compact with normalised Haar measure , it is not difficult to show that  is at most , with equality if and only if  takes the form  almost everywhere, where is a polynomial of degree less than  (which means that  for all ).
+
+Our first result is to show that this result is robust, uniformly over all choices of group :
+
+Theorem 1 (-near extremisers) Let  be a compact abelian group with normalised Haar measure , and let  be such that  and  for some  and . Then there exists a polynomial  of degree at most  such that , where  is bounded by a quantity  that goes to zero as  for fixed .
+
+The quantity  can be described effectively (it is of polynomial size in ), but we did not seek to optimise it here. This result was already known in the case of vector spaces  over a fixed finite field  (where it is essentially equivalent to the assertion that the property of being a polynomial of degree at most  is locally testable); the extension to general groups  turns out to fairly routine. The basic idea is to use the recursive structure of the Gowers norms, which tells us in particular that if  is close to one, then  is close to one for most , which by induction implies that  is close to  for some polynomials  of degree at most  and for most . (Actually, it is not difficult to use cocycle equations such as  (when ) to upgrade “for most ” to “for all “.) To finish the job, one would like to express the  as derivatives  of a polynomial  of degree at most . This turns out to be equivalent to requiring that the  obey the cocycle equation
+
+
+
+where  is the translate of  by . (In the paper, the sign conventions are reversed, so that , in order to be compatible with ergodic theory notation, but this makes no substantial difference to the arguments or results.) However, one does not quite get this right away; instead, by using some separation properties of polynomials, one can show the weaker statement that
+
+
+
+where the  are small real constants. To eliminate these constants, one exploits the trivial cohomology of the real line. From (1) one soon concludes that the obey the -cocycle equation
+
+
+
+and an averaging argument then shows that  is a -coboundary in the sense that
+
+
+
+for some small scalar  depending on . Subtracting  from  then gives the claim.
+
+Similar results and arguments also hold for the  and  norms, which we will not detail here.
+
+Dimensional analysis reveals that the  norm is not actually the most natural norm with which to compare the  norms against. An application of Young’s convolution inequality in fact reveals that one has the inequality
+
+
+
+where  is the critical exponent , without any compactness or normalisation hypothesis on the group  and the Haar measure . This allows us to extend the  norm to all of . There is then a stronger inverse theorem available:
+
+Theorem 2 (-near extremisers) Let  be a locally compact abelian group, and let  be such that  and  for some  and . Then there exists a coset  of a compact open subgroup  of , and a polynomial  of degree at most  such that .
+
+Conversely, it is not difficult to show that equality in (2) is attained when takes the form  as above. The main idea of proof is to use an inverse theorem for Young’s inequality due to Fournier to reduce matters to the  case that was already established. An analogous result is also obtained for the  norm on an ergodic system; but for technical reasons, the methods do not seem to apply easily to the  norm. (This norm is essentially equivalent to the  norm up to constants, with  comparable to , but when working with near-extremisers, norms that are only equivalent up to constants can have quite different near-extremal behaviour.)
+
+In the case when  is a Euclidean group , it is possible to use the sharp Young inequality of Beckner and of Brascamp-Lieb to improve (2) somewhat. For instance, when , one has
+
+
+
+with equality attained if and only if  is a gaussian modulated by a quadratic polynomial phase. This additional gain of  allows one to pinpoint the threshold for the previous near-extremiser results in the case of  norms. For instance, by using the Host-Kra machinery of characteristic factors for the  norm, combined with an explicit and concrete analysis of the -step nilsystems generated by that machinery, we can show that
+
+
+
+whenever  is a totally ergodic system and  is orthogonal to all linear and quadratic eigenfunctions (which would otherwise form immediate counterexamples to the above inequality), with the factor  being best possible. We can also establish analogous results for the  and  norms (using the inverse  theorem of Ben Green and myself, in place of the Host-Kra machinery), although it is not clear to us whether the  threshold remains best possible in this case.
+
+Concentration compactness via nonstandard analysis
+29 November, 2010 in expository, math.AP, math.CA, math.LO | Tags: concentration compactness, nonstandard analysis, tightness | by Terence Tao | 15 comments
+One of the key difficulties in performing analysis in infinite-dimensional function spaces, as opposed to finite-dimensional vector spaces, is that the Bolzano-Weierstrass theorem no longer holds: a bounded sequence in an infinite-dimensional function space need not have any convergent subsequences (when viewed using the strong topology). To put it another way, the closed unit ball in an infinite-dimensional function space usually fails to be (sequentially) compact.
+
+As compactness is such a useful property to have in analysis, various tools have been developed over the years to try to salvage some sort of substitute for the compactness property in infinite-dimensional spaces. One of these tools is concentration compactness, which was discussed previously on this blog. This can be viewed as a compromise between weak compactness (which is true in very general circumstances, but is often too weak for applications) and strong compactness (which would be very useful in applications, but is usually false), in which one obtains convergence in an intermediate sense that involves a group of symmetries acting on the function space in question.
+
+Concentration compactness is usually stated and proved in the language of standard analysis: epsilons and deltas, limits and supremas, and so forth. In this post, I wanted to note that one could also state and prove the basic foundations of concentration compactness in the framework of nonstandard analysis, in which one now deals with infinitesimals and ultralimits instead of epsilons and ordinary limits. This is a fairly mild change of viewpoint, but I found it to be informative to view this subject from a slightly different perspective. The nonstandard proofs require a fair amount of general machinery to set up, but conversely, once all the machinery is up and running, the proofs become slightly shorter, and can exploit tools from (standard) infinitary analysis, such as orthogonal projections in Hilbert spaces, or the continuous-pure point decomposition of measures. Because of the substantial amount of setup required, nonstandard proofs tend to have significantly more net complexity than their standard counterparts when it comes to basic results (such as those presented in this post), but the gap between the two narrows when the results become more difficult, and for particularly intricate and deep results it can happen that nonstandard proofs end up being simpler overall than their standard analogues, particularly if the nonstandard proof is able to tap the power of some existing mature body of infinitary mathematics (e.g. ergodic theory, measure theory, Hilbert space theory, or topological group theory) which is difficult to directly access in the standard formulation of the argument.
+
+Read the rest of this entry »
+
+Nonstandard analysis as a completion of standard analysis
+27 November, 2010 in expository, math.CA, math.LO | Tags: Bolzano-Weierstrass theorem, correspondence principle, countable saturation, nonstandard analysis, szemeredi regularity lemma, ultralimit analysis | by Terence Tao | 36 comments
+Many structures in mathematics are incomplete in one or more ways. For instance, the field of rationals  or the reals  are algebraically incomplete, because there are some non-trivial algebraic equations (such as  in the case of the rationals, or  in the case of the reals) which could potentially have solutions (because they do not imply a necessarily false statement, such as , just using the laws of algebra), but do not actually have solutions in the specified field.
+
+Similarly, the rationals , when viewed now as a metric space rather than as a field, are also metrically incomplete, beause there exist sequences in the rationals (e.g. the decimal approximations  of the irrational number ) which could potentially converge to a limit (because they form a Cauchy sequence), but do not actually converge in the specified metric space.
+
+A third type of incompleteness is that of logical incompleteness, which applies now to formal theories rather than to fields or metric spaces. For instance, Zermelo-Frankel-Choice (ZFC) set theory is logically incomplete, because there exist statements (such as the consistency of ZFC) which could potentially be provable by the theory (because it does not lead to a contradiction, or at least so we believe, just from the axioms and deductive rules of the theory), but is not actually provable in this theory.
+
+A fourth type of incompleteness, which is slightly less well known than the above three, is what I will call elementary incompleteness (and which model theorists call the failure of the countable saturation property). It applies to any structure that is describable by a first-order language, such as a field, a metric space, or a universe of sets. For instance, in the language of ordered real fields, the real line  is elementarily incomplete, because there exists a sequence of statements (such as the statements  for natural numbers ) in this language which are potentially simultaneously satisfiable (in the sense that any finite number of these statements can be satisfied by some real number ) but are not actually simultaneously satisfiable in this theory.
+
+In each of these cases, though, it is possible to start with an incomplete structure and complete it to a much larger structure to eliminate the incompleteness. For instance, starting with an arbitrary field , one can take its algebraic completion (or algebraic closure) ; for instance,  can be viewed as the algebraic completion of . This field is usually significantly larger than the original field , but contains  as a subfield, and every element of  can be described as the solution to some polynomial equation with coefficients in . Furthermore,  is now algebraically complete (or algebraically closed): every polynomial equation in  which is potentially satisfiable (in the sense that it does not lead to a contradiction such as  from the laws of algebra), is actually satisfiable in .
+
+Similarly, starting with an arbitrary metric space , one can take its metric completion ; for instance,  can be viewed as the metric completion of . Again, the completion  is usually much larger than the original metric space , but contains  as a subspace, and every element of  can be described as the limit of some Cauchy sequence in . Furthermore,  is now a complete metric space: every sequence in  which is potentially convergent (in the sense of being a Cauchy sequence), is now actually convegent in .
+
+In a similar vein, we have the Gödel completeness theorem, which implies (among other things) that for any consistent first-order theory  for a first-order language , there exists at least one completion  of that theory , which is a consistent theory in which every sentence in  which is potentially true in (because it does not lead to a contradiction in ) is actually true in . Indeed, the completeness theorem provides at least one model (or structure)  of the consistent theory , and then the completion  can be formed by interpreting every sentence in  using  to determine its truth value. Note, in contrast to the previous two examples, that the completion is usually not unique in any way; a theory  can have multiple inequivalent models , giving rise to distinct completions of the same theory.
+
+Finally, if one starts with an arbitrary structure , one can form an elementary completion  of it, which is a significantly larger structure which contains  as a substructure, and such that every element of  is an elementary limit of a sequence of elements in  (I will define this term shortly). Furthermore,  is elementarily complete; any sequence of statements that are potentially simultaneously satisfiable in  (in the sense that any finite number of statements in this collection are simultaneously satisfiable), will actually be simultaneously satisfiable. As we shall see, one can form such an elementary completion by taking an ultrapower of the original structure . If  is the standard universe of all the standard objects one considers in mathematics, then its elementary completion  is known as the nonstandard universe, and is the setting for nonstandard analysis.
+
+As mentioned earlier, completion tends to make a space much larger and more complicated. If one algebraically completes a finite field, for instance, one necessarily obtains an infinite field as a consequence. If one metrically completes a countable metric space with no isolated points, such as , then one necessarily obtains an uncountable metric space (thanks to the Baire category theorem). If one takes a logical completion of a consistent first-order theory that can model true arithmetic, then this completion is no longer describable by a recursively enumerable schema of axioms, thanks to Gödel’s incompleteness theorem. And if one takes the elementary completion of a countable structure, such as the integers , then the resulting completion  will necessarily be uncountable.
+
+However, there are substantial benefits to working in the completed structure which can make it well worth the massive increase in size. For instance, by working in the algebraic completion of a field, one gains access to the full power of algebraic geometry. By working in the metric completion of a metric space, one gains access to powerful tools of real analysis, such as the Baire category theorem, the Heine-Borel theorem, and (in the case of Euclidean completions) the Bolzano-Weierstrass theorem. By working in a logically and elementarily completed theory (aka a saturated model) of a first-order theory, one gains access to the branch of model theory known as definability theory, which allows one to analyse the structure of definable sets in much the same way that algebraic geometry allows one to analyse the structure of algebraic sets. Finally, when working in an elementary completion of a structure, one gains a sequential compactness property, analogous to the Bolzano-Weierstrass theorem, which can be interpreted as the foundation for much of nonstandard analysis, as well as providing a unifying framework to describe various correspondence principles between finitary and infinitary mathematics.
+
+In this post, I wish to expand upon these above points with regard to elementary completion, and to present nonstandard analysis as a completion of standard analysis in much the same way as, say, complex algebra is a completion of real algebra, or real metric geometry is a completion of rational metric geometry.
+
+Read the rest of this entry »
+
+The Guth-Katz bound on the Erdős distance problem
+20 November, 2010 in expository, math.AG, math.AT, math.CO | Tags: cell decomposition decomposition, Erdos distance problem, Larry Guth, Nets Katz, polynomial ham sandwich theorem, polynomial method | by Terence Tao | 8 comments
+Combinatorial incidence geometry is the study of the possible combinatorial configurations between geometric objects such as lines and circles. One of the basic open problems in the subject has been the Erdős distance problem, posed in 1946:
+
+Problem 1 (Erdős distance problem) Let  be a large natural number. What is the least number  of distances that are determined by  points  in the plane?
+
+Erdős called this least number . For instance, one can check that  and , although the precise computation of  rapidly becomes more difficult after this. By considing  points in arithmetic progression, we see that . By considering the slightly more sophisticated example of a  lattice grid (assuming that  is a square number for simplicity), and using some analytic number theory, one can obtain the slightly better asymptotic bound .
+
+On the other hand, lower bounds are more difficult to obtain. As observed by Erdős, an easy argument, ultimately based on the incidence geometry fact that any two circles intersect in at most two points, gives the lower bound . The exponent  has been slowly increasing over the years by a series of increasingly intricate arguments combining incidence geometry facts with other known results in combinatorial incidence geometry (most notably the Szemerédi-Trotter theorem) and also some tools from additive combinatorics; however, these methods seemed to fall quite short of getting to the optimal exponent of . (Indeed, previously to last week, the best lower bound known was approximately , due to Katz and Tardos.)
+
+Very recently, though, Guth and Katz have obtained a near-optimal result:
+
+Theorem 2 One has .
+
+The proof neatly combines together several powerful and modern tools in a new way: a recent geometric reformulation of the problem due to Elekes and Sharir; the polynomial method as used recently by Dvir, Guth, and Guth-Katz on related incidence geometry problems (and discussed previously on this blog); and the somewhat older method of cell decomposition (also discussed on this blog). A key new insight is that the polynomial method (and more specifically, the polynomial Ham Sandwich theorem, also discussed previously on this blog) can be used to efficiently create cells.
+
+In this post, I thought I would sketch some of the key ideas used in the proof, though I will not give the full argument here (the paper itself is largely self-contained, well motivated, and of only moderate length). In particular I will not go through all the various cases of configuration types that one has to deal with in the full argument, but only some illustrative special cases.
+
+To simplify the exposition, I will repeatedly rely on “pigeonholing cheats”. A typical such cheat: if I have  objects (e.g.  points or  lines), each of which could be of one of two types, I will assume that either all  of the objects are of the first type, or all  of the objects are of the second type. (In truth, I can only assume that at least  of the objects are of the first type, or at least  of the objects are of the second type; but in practice, having  instead of  only ends up costing an unimportant multiplicative constant in the type of estimates used here.) A related such cheat: if one has  objects  (again, think of  points or circles), and to each object  one can associate some natural number  (e.g. some sort of “multiplicity” for ) that is of “polynomial size” (of size ), then I will assume in fact that all the  are in a fixed dyadic range  for some . (In practice, the dyadic pigeonhole principle can only achieve this after throwing away all but about  of the original  objects; it is this type of logarithmic loss that eventually leads to the logarithmic factor in the main theorem.) Using the notation  to denote the assertion that  for an absolute constant , we thus have  for all , thus  is morally constant.
+
+I will also use asymptotic notation rather loosely, to avoid cluttering the exposition with a certain amount of routine but tedious bookkeeping of constants. In particular, I will use the informal notation  or  to denote the statement that  is “much less than”  or  is “much larger than” , by some large constant factor.
+
+See also Janos Pach’s recent reaction to the Guth-Katz paper on Kalai’s blog.
+
+Read the rest of this entry »
+
+UCLA Math Undergraduate Merit Scholarship for 2010
+16 November, 2010 in advertising | Tags: scholarship, UCLA, undergraduate study | by Terence Tao | 13 comments
+[Some advertising on behalf of my department.  The inaugural 2009 scholarship was announced on this blog last year. - T.]
+
+Last year, the UCLA mathematics department launched a scholarship opportunity for entering freshman students with exceptional background and promise in mathematics. We intend to offer one new scholarship every year. 
+The UCLA Math Undergraduate Merit Scholarship provides for full tuition, and a room and board allowance for 4 years. In addition, scholarship recipients follow an individualized accelerated program of study, as determined after consultation with UCLA faculty.  [For instance, this year's scholarship recipient is currently taking my graduate real analysis class - T.] The program of study leads to a Masters degree in Mathematics in four years.
+
+More information and an application form for the scholarship can be found on the web at:
+http://www.math.ucla.edu/ugrad/meritscholarship.shtml
+To be considered for Fall 2011, candidates must apply for the scholarship and also for admission to UCLA on or before November 30, 2010.
+Asymptotic decay for a one-dimensional nonlinear wave equation
+3 November, 2010 in math.AP, paper | Tags: Hans Lindblad, Lebesgue differentiation theorem, Rademacher differentiation theorem, wave equation | by Terence Tao | 13 comments
+Hans Lindblad and I have just uploaded to the arXiv our joint paper “Asymptotic decay for a one-dimensional nonlinear wave equation“, submitted to Analysis & PDE.  This paper, to our knowledge, is the first paper to analyse the asymptotic behaviour of the one-dimensional defocusing nonlinear wave equation
+
+ (1)
+
+where  is the solution and  is a fixed exponent.  Nowadays, this type of equation is considered a very simple example of a non-linear wave equation (there is only one spatial dimension, the equation is semilinear, the conserved energy is positive definite and coercive, and there are no derivatives in the nonlinear term), and indeed it is not difficult to show that any solution whose conserved energy
+
+
+
+is finite, will exist globally for all time (and remain finite energy, of course).  In particular, from the one-dimensional Gagliardo-Nirenberg inequality (a variant of the Sobolev embedding theorem), such solutions will remain uniformly bounded in  for all time.
+
+However, this leaves open the question of the asymptotic behaviour of such solutions in the limit as .  In higher dimensions, there are a variety of scattering and asymptotic completeness results which show that solutions to nonlinear wave equations such as (1) decay asymptotically in various senses, at least if one is in the perturbative regime in which the solution is assumed small in some sense (e.g. small energy).  For instance, a typical result might be that spatial norms such as  might go to zero (in an average sense, at least).   In general, such results for nonlinear wave equations are ultimately based on the fact that the linear wave equation in higher dimensions also enjoys an analogous decay as , as linear waves in higher dimensions spread out and disperse over time.  (This can be formalised by decay estimates on the fundamental solution of the linear wave equation, or by basic estimates such as the (long-time) Strichartz estimates and their relatives.)  The idea is then to view the nonlinear wave equation as a perturbation of the linear one.
+
+On the other hand, the solution to the linear one-dimensional wave equation
+
+ (2)
+
+does not exhibit any decay in time; as one learns in an undergraduate PDE class, the general (finite energy) solution to such an equation is given by the superposition of two travelling waves,
+
+ (3)
+
+where  and  also have finite energy, so in particular norms such as  cannot decay to zero as  unless the solution is completely trivial.
+
+Nevertheless, we were able to establish a nonlinear decay effect for equation (1), caused more by the nonlinear right-hand side of (1) than by the linear left-hand side, to obtain  decay on the average:
+
+Theorem 1. (Average  decay) If  is a finite energy solution to (1), then tends to zero as .
+
+Actually we prove a slightly stronger statement than Theorem 1, in that the decay is uniform among all solutions with a given energy bound, but I will stick to the above formulation of the main result for simplicity.
+
+Informally, the reason for the nonlinear decay is as follows.  The linear evolution tries to force waves to move at constant velocity (indeed, from (3) we see that linear waves move at the speed of light ).  But the defocusing nature of the nonlinearity will spread out any wave that is propagating along a constant velocity worldline.  This intuition can be formalised by a Morawetz-type energy estimate that shows that the nonlinear potential energy must decay along any rectangular slab of spacetime (that represents the neighbourhood of a constant velocity worldline).
+
+Now, just because the linear wave equation propagates along constant velocity worldlines, this does not mean that the nonlinear wave equation does too; one could imagine that a wave packet could propagate along a more complicated trajectory  in which the velocity  is not constant.  However, energy methods still force the solution of the nonlinear wave equation to obey finite speed of propagation, which in the wave packet context means (roughly speaking) that the nonlinear trajectory  is a Lipschitz continuous function (with Lipschitz constant at most ).
+
+And now we deploy a trick which appears to be new to the field of nonlinear wave equations: we invoke the Rademacher differentiation theorem (or Lebesgue differentiation theorem), which asserts that Lipschitz continuous functions are almost everywhere differentiable.  (By coincidence, I am teaching this theorem in my current course, both in one dimension (which is the case of interest here) and in higher dimensions.)  A compactness argument allows one to extract a quantitative estimate from this theorem (cf. this earlier blog post of mine) which, roughly speaking, tells us that there are large portions of the trajectory  which behave approximately linearly at an appropriate scale.  This turns out to be a good enough control on the trajectory that one can apply the Morawetz inequality and rule out the existence of persistent wave packets over long periods of time, which is what leads to Theorem 1.
+
+There is still scope for further work to be done on the asymptotics.  In particular, we still do not have a good understanding of what the asymptotic profile of the solution should be, even in the perturbative regime; standard nonlinear geometric optics methods do not appear to work very well due to the extremely weak decay.

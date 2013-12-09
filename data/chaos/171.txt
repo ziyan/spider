@@ -1,0 +1,17 @@
+﻿An update on China
+6/28/2010 10:45:00 PM
+Update July 9: 
+We are very pleased that the government has renewed our ICP license and we look forward to continuing to provide web search and local products to our users in China.
+
+(original post)
+Ever since we launched Google.cn, our search engine for mainland Chinese users, we have done our best to increase access to information while abiding by Chinese law. This has not always been an easy balance to strike, especially since our January announcement that we were no longer willing to censor results on Google.cn.
+
+We currently automatically redirect everyone using Google.cn to Google.com.hk, our Hong Kong search engine. This redirect, which offers unfiltered search in simplified Chinese, has been working well for our users and for Google. However, it’s clear from conversations we have had with Chinese government officials that they find the redirect unacceptable—and that if we continue redirecting users our Internet Content Provider license will not be renewed (it’s up for renewal on June 30). Without an ICP license, we can’t operate a commercial website like Google.cn—so Google would effectively go dark in China.
+
+That’s a prospect dreaded by many of our Chinese users, who have been vocal about their desire to keep Google.cn alive. We have therefore been looking at possible alternatives, and instead of automatically redirecting all our users, we have started taking a small percentage of them to a landing page on Google.cn that links to Google.com.hk—where users can conduct web search or continue to use Google.cn services like music and text translate, which we can provide locally without filtering. This approach ensures we stay true to our commitment not to censor our results on Google.cn and gives users access to all of our services from one page.
+
+Over the next few days we’ll end the redirect entirely, taking all our Chinese users to our new landing page—and today we re-submitted our ICP license renewal application based on this approach.
+
+As a company we aspire to make information available to users everywhere, including China. It’s why we have worked so hard to keep Google.cn alive, as well as to continue our research and development work in China. This new approach is consistent with our commitment not to self censor and, we believe, with local law. We are therefore hopeful that our license will be renewed on this basis so we can continue to offer our Chinese users services via Google.cn.
+
+Posted by David Drummond, SVP, Corporate Development and Chief Legal Officer

@@ -1,0 +1,34 @@
+﻿Gmail for Android: better Priority Inbox support and improved compose
+Thursday, December 09, 2010 | 1:09 PM
+Posted by Paul Westbrook, Gmail for Android team
+
+(Cross posted from the Mobile blog)
+
+When we first released Gmail in Android Market back in September, we said that you’d be getting new stuff faster, and we meant it. After getting thousands of comments on that release, we made a bunch of updates based on your feedback and today we’re launching Gmail for Android 2.3.2.
+
+Priority Inbox
+
+First of all, you told us that you love Priority Inbox and expect much better support for it on your phone. Now you can see important messages in a new Priority Inbox view.
+
+This view includes all important messages in your inbox, regardless of whether you’ve read them or not. You can archive and delete conversations or mark them unimportant from there. You’ll notice the importance markers you’re used to seeing in the desktop version of Gmail, and you can also change a conversation’s importance using the menu. To switch between inboxes or labels, try tapping on the current label.
+
+Ever wanted to know that you got an important message without taking your phone out of your pocket? Now you can set up your phone to notify, vibrate, or ring on just your new important mail (check out Menu > Settings > Priority Inbox).
+
+While Priority Inbox on your Android phone doesn’t have all the features offered in the desktop version of Gmail, we think this is a good start and plan to add even more functionality moving forward.
+
+Improved Compose
+
+Since our last Market update, we adopted a few features related to composing messages from the desktop version of Gmail. Many of you asked for a better way to switch between replying to the sender to replying to all. Now, you can easily switch between reply, reply all, and forward while composing your response.
+
+  
+
+If you moved to Gmail from another webmail provider and want to continue to send email from that address, now you can send from any address you’ve configured in the desktop version of Gmail.
+
+
+
+In addition, you can now respond to messages in-line.
+
+ 
+
+
+You won’t need to wait for Gingerbread to get these updates. This version of the Gmail app works for Android 2.2 (Froyo) and newer releases in most countries. (Not sure if your device is running the right version? Check here.) Get the update from Android Market (just scan the QR code below, or click here if you're on a phone) and check out the new Gmail. And don’t forget to send us your feedback from within the new version of the app (from your Inbox: Menu > More > About > Feedback).

@@ -1,0 +1,116 @@
+﻿The dense model theorem
+
+Posted in expository, math.IT, math.NT by Mark Lewko on December 14, 2009
+A key component in the work of Green, Tao, and Ziegler on arithmetic and polynomial progressions in the primes is the dense model theorem. Roughly speaking this theorem allows one to model a dense subset of a sparse pseudorandom set by dense subset of the the ambient space. In the work of Green, Tao, and Zeigler this enabled them to model (essentially) the characteristic function of the set of primes with (essentially) the characteristic function of a set of integers with greater density. They then were able to obtain the existence of certain structures in the model set via Szemerédi’s theorem and its generalizations.   
+
+ More recently, simplified proofs of the dense model theorem have been obtained independently by Gowers and Reingold, Trevisan, Tulsiani and Vadhan. In addition, the latter group has found applications of these ideas in theoretical computer science. In this post we give an expository proof of the dense model theorem, substantially following the paper of Reingold, Trevisan, Tulsiani and Vadhan.   
+
+ With the exception of the min-max theorem from game theory (which can be replaced by (or proved by) the Hahn-Banach theorem, as in Gowers’ approach) the presentation is self-contained.   
+
+(We note that the the theorem, as presented below, isn’t explictly stated in the Green-Tao paper. Roughly speaking, these ideas can be used to simplify/replace sections 7 and 8 of that paper.)
+
+ — The dense model theorem —   
+
+ Let . We’ll primarily be interested in certain real-valued functions on the set . We define the expectation of a function, say , on  to be  and the inner product of  to be . We will call a non-negative real-valued function, say , on  a measure (This isn’t a measure in the analytic sense however this terminology has become standard in the literature on the subject) if .   
+
+ We will call a function on , say , bounded if . Analogously a measure, say , will be called bounded if . For a fixed finite collection of bounded functions, , on , we say that two measure, say  and , are -indistinguishable with respect to  if  for every . Furthermore, a measure  on  is said to be -pseudorandom with respect to  if the measures  and  are -indistinguishable. Here  denotes the characteristic function of the set .   
+
+ In addition to the set  we will also need to consider the larger class of functions . We can now state the dense model theorem.   
+
+ Theorem 1 Fix  and , a finite collection of bounded functions on . Furthermore, let  be a -pseudorandom measure with respect to the set  and  a measure majorized by . There exists  and  (that depend\footnote{For the sake of simplicity we will not work out the dependency of these parameters on . We do however (very briefly) discuss the dependencies in the remark at the end of this section.} only on ) and a bounded measure  such that  and  and  are -indistinguishable with respect to .   
+
+The thrust of the theorem is that  and  depend only on  and not . At first the fact that  is used in the hypothesis of the theorem and  in the conclusion may seem strange. In applications, however, one often wishes to find a dense (-indistinguishable) model for a measure  for a prescribed . One proceeds by locating , a majorant of , that is -indistinguishable from the measure . With applications of this form in mind, the statement of the theorem may seem more natural.   
+
+ We will split the proof of the theorem into several parts/lemmas. Throughout  will denote the set of bounded measures of expectation . We’ll typically denote an element of  with the symbol .   
+
+ Lemma 2 Let  and  denote the convex hull of . Furthermore let  be a real-valued polynomial (depending only on ) that maps  to . If there is a function of the form  with that -distinguishes  from  then there exists a function  that -distinguishes  from .   
+
+Proof: We note that  and  are -distinguishable with respect to  if and only if they are -distinguishable with respect to  (this allows us to remove the absolute value from the definition of -distinguishability given above).   
+
+Next we note that it suffices to show that  and  are -distinguishable with respect to , the convex hull of . To see this assume that  -distinguishes  and  with , , and . We then have that , which easily implies that  for some .   
+
+ Furthermore, let  be a real-valued polynomial that depends only on . We claim that it then suffices to show that there exists a function  such that  -distinguishes  and . To see this set  equal to the magnitude of the largest coefficient of  and  the degree of . Letting  we have that  hence   
+
+    
+
+ and thus, for some ,   
+
+    
+
+ Since the right-hand side depends only on  the proof is complete.    
+
+ It now suffices to assume that the conclusion of the the theorem is false and find a function of the form  with  that -distinguishes  from , which would provide a contradiction.   
+
+ Lemma 3 Assume that for every  there exists a  such that  (in other words, assume the theorem is false). Then there exists a function  that -distinguishes every function  from . This is to say   
+
+   
+
+for every .    
+
+Proof: Let  denote a finite set\footnote{To see that such a set exists consider .} of bounded measures on  such that the convex hull of  is . Consider the  matrix  with entries . By the min-max theorem there exists  and  such that  for all  and  for every .   
+
+ By the hypothesis of the theorem we have that for every  there exists  such that . Thus there exists a  such that . Hence  and taking  completes the proof.    
+
+ We now let  be a set of  elements of  that maximizes the quantity . Additionally let  denote an element of the set that maximizes . Define . By construction we have that  thus  and . This implies that  -distinguishes  from .   
+
+ Lemma 4 Let  where . Then there exists a threshold  such that .    
+
+Proof: We have previously observed that . Using the fact that  we have that . Combining this with the observation that  we have that  
+
+    
+
+ Assuming that the conclusion of the lemma is false, that is , we can conclude    
+
+   
+
+    
+
+This would, however, contradict the inequality   
+
+    
+
+ which is an easy consequence of the inequality derived in the second sentence of this proof. Hence the proof is complete.    
+
+ Lemma 5 We have that  for every .   
+
+Proof: Recall that . If  for any  then  must vanish identically on . However this implies that    
+
+ For large  the  term is negligible and thus   
+
+    
+
+ But this would contradict the conclusion of Lemma 4.    
+
+ Let us briefly summarize the strategy for completing the proof of the theorem. From the previous lemma we have . However, since  distinguishes  and  it must also distinguish  and . This would contradict the hypothesis of the theorem if . In light of Lemma 2 it then suffices to show that  can be approximated by a function of the form where . For this purpose, let  be a polynomial mapping  into  and satisfying   for  and  for .  (The existence of such a polynomial can be obtained from standard variants of Weierstrass’ approximation theorem.)   
+
+Lemma 6 Let  be as defined above. Then  -distinguishes  from .   
+
+Proof: From the definition of  we have that 
+
+ 
+
+Using the lower bound in (1), the pointwise inequality , Lemma 4 and Lemma 5 (in this order) we have that  
+
+ 
+
+Using the upper bound from (1) we further have that  
+
+ 
+
+Putting these two calculations together we conclude that  
+
+ 
+
+which completes the proof.  
+
+Recalling that  we may apply Lemma 2 to complete the proof of the dense model theorem.   
+
+ Remark 1 We note that the only step of the proof where we haven’t explicitly recorded the relationship between ,  and  is in the dependency of the polynomial  on . Using a quantitative form of Weierstrass’ approximation theorem one can obtain  and . We refer the reader here for details.
+
+Updated 12/17/2009: Fixed formatting in proof of Lemma 6.
+
+Tagged with: Dense Model Theorem, Green-Tao Theorem, pseudorandomness
+
+	 Binbin Zhou said, on January 5, 2010 at 11:16 am
+Later, Green-Tao post anther paper which generalise .
+

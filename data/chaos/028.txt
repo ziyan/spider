@@ -1,0 +1,75 @@
+﻿ Laptops
+Lenovo IdeaPad U260 review
+By Joanna Stern  posted Dec 27th 2010 12:01PM
+Review
+
+
+We mean this with no disrespect to Lenovo, but when you first lay eyes (or hands) on the incredibly attractive IdeaPad U260, it's pretty hard to believe that it was made by the company. Sure, the Chinese laptop manufacturer has always had a certain knack for creating very powerful and well-rounded ultraportables, but "drop-dead gorgeous" isn't exactly how we'd describe systems like the Lenovo IdeaPad U160, Edge 11, or ThinkPad X301. The U260 is indeed a total 180 for the company, and it's one of the most dapper and svelte laptops we've seen in a long time -- there's no question about it, its magnesium-aluminum alloy shell, leather palm rest, and glass touchpad even give the newest MacBook Airs a run for their money. But even better, the 12.5-inch system has the brawn to match that external beauty – its 0.7-inch shell has been injected with a Core i5 ULV processor, 4GB of RAM, and 320GB of storage. At $1,100 (the Core i3 version starts at $999), there's no denying that it's more than enticing, but is the U260 immune to Lenovo's typical ultraportable pain points, including poor battery life and tepid temperatures? We've been lucky enough to spend the last few days with the beautiful machine (yes, we took it on vacation!), so jump down below to find out in our full review!
+Lenovo IdeaPad U260
+
+
+
+
+
+
+Look and feel
+
+
+It's obvious by now that we've got a real crush on the U260's bronzish, mocha exterior (it comes in an orange hue as well), and a glance at a few of the pictures in the gallery above makes it very easy to see why. It isn't as minimalistic as some others out there -- say Google's Cr-48 --but the soft-to-the-touch magnesium-aluminum alloy that envelops the system like a book cover gives the entire system a very clean and simplified look. Believe us, it's more than a welcome change from the glossy lids and rounded edges that we've gotten used to on the ThinkPad Edge family. The U260 also feels as high-end as it looks -- it may not have a unibody build, but it has a very rigid construction and that almost-rubbery metal lid not only seems to protect it from scratches, but feels really soft in hand. No, seriously, we've caught ourselves petting this thing a couple of times. Under the lid, the U260 loses its metal coverings, yet has an equally soft faux leather palm rest. 
+
+But, it's those aesthetic pieces combined with the U260's very slender design that really makes it turn heads. The system is a uniform 0.7-inches, which means there's no enlarged battery back or slight flare in the front to make it appear uneven, and when you open it up you certainly notice the svelteness of the screen. At 3.4-pounds, the U260 was just slightly heavier than pulling out a netbook at airport security, and it's just the right size and weight to comfortably transport it from the desk to the couch with one hand. Naturally, to maintain its lean body, Lenovo had to nix the DVD drive, but the U260 still houses a good array of ports along its edges. The right side is home to a USB socket and headphone jack, while the left houses USB, Ethernet, HDMI, and VGA ports. Unfortunately, there's no SD card slot, and while there's a place for an ExpressCard card slot, it doesn't open.
+
+Keyboard, touchpad, and screen
+
+
+There's no doubt that Lenovo knows how to make some of the best keyboards around (see: Thinkpad Edge, ThinkPad T410), but the one on the U260 leaves a bit more to be desired. Don't get us wrong, the squircle shaped, matte keys have a great curve to them and feel as if they were molded for our fingertips, however, the chiclet layout is a bit cramped and doesn't stretch to the edges of the panel. Instead, the right Shift key is noticeably smaller than the one on the left and even the Caps Lock and Tab keys on the left are shrunken. It's not a deal breaker, but it did take us a bit of time to get into the groove of typing this review. Our bigger complaint about the keyboard comes with its lack of a backlight. In fact, it actually seems like oversight to not include a backlit keyboard option on a higher end system like the U260, and we definitely found ourselves wishing it was a feature in a dimly lit airplane cabin. 
+
+However, the polished glass touchpad receives our highest stamp of approval. The smooth surface, which feels similar to that a piece of sea glass, was incredibly soft on our index finger and just let the cursor glide along. Additionally, the two dedicated right and left mouse buttons, although slightly mushy, were quite comfortable. While two-finger scrolling worked decently in Word and Chrome, the dedicated scroll strip happens to give you a bit more control. 
+
+So, what's it like using the world's first laptop with a 12.5-inch display? To be honest, not that different than using a laptop with a 12.1-inch panel, considering the new screen still has the typical 1366 x 768 resolution. Okay, so it's not exactly great for pixel density, but that doesn't mean we're not seriously impressed with the anti-glare matte display. Yes, that means there's no glossiness or reflections, and yes, it's great! We actually were able to work on the laptop on a bright day without putting up any sort of shade. Too boot, the display is quite bright and the viewing angles are rather decent -- we had no problem sharing the screen in a tight airplane seat with our neighbor. We do have one complaint though -- the screen bezel is certainly glossy and can pick up its fair share of fingerprints. 
+
+Performance and battery life
+
+
+Like the ThinkPad Edge 11, the U260 is available with both Core i3 and i5 ultra-low voltage processors -- Lenovo sent us the highest end configuration with a 1.33GHz Core i5 CPU and 4GB of RAM. As one would expect, the machine handled the brunt of our usual computing tasks, including simultaneously writing this review in Microsoft Word, chatting with friends in Trillian, checking our Twitter feed in TweetDeck, and surfing the web with multiple tabs open in Chrome. Even when we threw a 720p clip into the mix the system was able to keep up. 
+
+Speaking of HD content, the machine has no problems with full HD video, but as you can see from its 3DMark scores, it's definitely not a gaming rig. It should be fine for some light mainstream or Flash games, but you're not gonna want to fire up Black Ops on this thing, unless you're cool with playing at very, very low settings. We have to admit it would have been nice to see Lenovo put the U260 up with both discrete graphics and SSD options, though the latter can be accomplished on your own as the entire bottom of the system is removable. Obviously, we didn't test the waters on that with our review unit. 
+
+
+PCMarkVantage	3DMark06 
+Battery Life
+Lenovo IdeaPad U260	3858	1153	2:56
+Lenovo IdeaPad U160 (Core i7 ULV)	3863	1175	3:10
+Lenovo ThinkPad Edge 11	2964	1105	4:42
+Dell Inspiron M101z (Athlon II Neo K325)	2572	1311	3:35
+ASUS Eee PC 1215N (Intel Atom D525)	1924	181/2480	5:42
+Acer Aspire One 721 (Athlon II Neo K125)
+1814	1235	3:30
+Alienware M11x (Intel Core 2 Duo SU7300)	2689	654 / 5593	4:30
+
+
+Unfortunately, battery life is the U260's (expected) Achilles heel. On our usual video rundown test, which loops the same standard definition video with brightness set at 65 percent, the integrated 20Whr, four-cell Lithium Polymer battery lasted just two hours and 56 minutes. In regular use -- basically surfing the web and writing this review -- the system ran for about three hours and 20 minutes. Obviously, for a highly mobile system like this, the endurance is pretty terrible, and because there's no way to swap out the battery, you're pretty much stuck dragging the AC adapter with this thing everywhere you go. 
+
+Thankfully, there's better news on the heat side of things. Given our experience with the U160, we expected the system to get rather warm, but for the most part the system stayed relatively cool thanks to its "breathable keyboard" and Intel's latest Advanced Cooling technology. While we did notice the bottom right edge getting slightly warm, the vents in the back kept the entire chassis, including the keyboard and touchpad, at room temperature. 
+
+
+Software-wise, Lenovo's actually done a decent job of keeping this one crapware free. However, like the U160 it has a "Smile Dock," which can be launched by clicking on that creepy smile icon on the desktop. You can search Google and check Weatherbug from the dock itself, but other than that it's pretty useless and takes up precious screen real estate. Oovoo and McAfee are also preloaded. 
+
+Wrap-up
+
+
+How much are you willing to sacrifice for love? If you're anything like us, you're absolutely smitten with the U260's metal build, soft leather palm rest, brushed glass touchpad, and the fact that it packs Core i5 power in such a thin shell. But you're also asking yourself one question: can you live with just three to three and a half hours of battery life? For us the answer is sadly a flat no -- in fact, that sort of battery life is simply unacceptable in our book, especially when you consider that equally portable systems like the Toshiba Portege R705 or the new MacBook Airs last at least two hours longer on a charge. It's a sad story of an amazingly attractive and solid performing laptop brought down by a single fatal flaw -- but if you can get past the battery life, nearly everything else about the U260 is almost perfect.
+119
+
+Leave A Comment
+
+
+core 2010, Core i3 ULV, Core i5 ulv, Core2010, CoreI3Ulv, CoreI5Ulv, ideapad u260, IdeapadU260, laptop, laptops, Lenovo, LenovoIdeapad, notebook, review, u260, ultraportable
+
+
+Lenovo LePad and U1 Hybrid early hands-on6 days ago
+Ion Personal Genome Machine: the DNA sequencer with an iPod dock7 days ago
+PhoneSuit’s Primo Power Core charges your iPad, BlackBerry, and pretty much...26 days ago
+From Our Partners
+Aigo’s iPhone 4 battery case features internal charge cable16 days ago
+Animated wallpaper running on a jailbroken iPad29 days ago

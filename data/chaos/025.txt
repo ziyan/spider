@@ -1,0 +1,80 @@
+ Gaming, Home Entertainment, HD Set Tops
+OnLive Game System review
+By Sean Hollister  posted Dec 16th 2010 1:52PM
+Review
+
+
+We're still a little ways away from completely disposable laptops that do everything in the cloud, but if all you want is a completely virtual game console connected to your TV, you can buy one right now. Eight years after the Phantom slowly got laughed off the face of the planet, the OnLive MicroConsole fulfills the same basic promise: it's a box less than an inch tall that streams games from powerful remote servers. We already told you what to expect from the OnLive's Game System, but now that we've given it our all, we can help you find the answer to the only remaining question: is it worth your funds? 
+OnLive Game System unboxing and hands-on
+
+
+
+
+
+
+
+MicroConsole
+
+
+When OnLive first demoed its service at the Game Developers Conference in March of last year, it showed us concept images of what the MicroConsole might look like. Just 21 months later, things have hardly changed -- it's the exact same shape and size, and as you can see, it's a pretty attractive little brick. Dwarfed even by its own game controller, the half-pound MicroConsole fits in a medium-sized hand and is solid as can be, with no flex or creak anywhere even when very firmly squeezed. OnLive told us key members of the team responsible for Apple's Mac Mini and Magic Mouse worked on the unit, and it certainly shows here, as the MicroConsole feels much like an angular counterpart to the rounded-off Apple TV. 
+
+The case is a pair of wedges almost seamlessly sandwiched together, with nothing but an OnLive logo on its ultra-glossy top, four wedge-shaped rubber feet and a label on the bottom, and completely bare sides. The front sports two USB 2.0 ports and the power button, which has a tiny LED inside, and the rear houses all the MicroConsole's connectivity options, including HDMI, optical S/PDIF (stereo only for now), a 3.5mm stereo minijack, 10/100 LAN, and a spot for a breakout A/V cable. By default, the Game System comes with an HDMI cable and an ethernet cable, but you can buy a component video package that supports 1080i and 720p for $30 more, which comes with both your standard RGB RCA cables as well as a 3.5mm to stereo RCA splitter to handle analog audio. Internally, the box also has Bluetooth, but there's no support for wireless headsets quite yet -- Bluetooth and surround sound support are scheduled for a firmware update in early 2011, and after that the company's looking to offer 3DTV signals as well.
+
+How can the box be so tiny? By virtue of what's inside: an underclocked Marvell Armada 1000 chip, likely less powerful than your smartphone. It merely decodes the variable-bandwidth 720p stream of images that OnLive delivers to your door and outputs them to your HDTV. Marvell lists the Armada 1000 as a dual-core 1.2GHz system-on-a-chip, but OnLive tells us it's actually underclocked here, such that it only uses about 6.7 watts (according to our Kill-A-Watt meter) when running at full bore. Thanks to the energy savings and a pretty hefty heatsink, the MicroConsole doesn't need a fan, and is merely pleasantly warm to the touch after piping games for a while. After a number of extended sessions with the unit, the only hardware nitpick we can think of is this: if only the power LED had drastically different colors when turned on (orange) and off (red), we'd be able to tell if it's really off from a distance.
+
+Controller
+
+
+Thanks to those two USB ports up front, you can use a wide variety of controllers with the MicroConsole, including just about any USB mouse, keyboard and gamepad, or even the official Xbox 360 controller if you've got the dongle you need. However, the OnLive Game System comes with one controller already, and it's a doozy of a pad. OnLive's pitching it as a hybrid of the Xbox 360 wireless controller and the PlayStation 3's DualShock 3, and truth be told it actually feels more durable, if not quite as ergonomic, as either of Sony or Microsoft's units. The basic shape of the controller is cribbed directly from Microsoft's playbook, with a pair of handles on either side of a removable battery pack and nice big triggers up front. Sadly, OnLive didn't give quite enough thought for larger hands -- there wasn't enough room for our middle fingers between the handles and battery, unlike with competitors' pads. On the upside, vibration aficionados will be pleased to hear that rumble comes standard.
+
+Twin analog sticks occupy the center of the controller, just like Sony's controller, but with comfortable concave indents for thumbs on top, while your index fingers wrap around two pairs of triggers both thicker and more solid, but functionally identical, to those on Microsoft's. The eight-way directional pad emulates Sony's with four buttons poking through a cross-shaped gate, but with a bit more tension than we're used to, and not much give when pressed -- they're fine for occasional use, swapping items and the like, but we found ourselves switching to the more comfortable analog sticks whenever possible. Meanwhile, if you're a fan of Microsoft's face buttons, you'll be in good company here, as the A, B, X, and Y are a virtual reproduction of the Xbox 360 ones in terms of placement and resistance, albeit a little more domed. The center also sports the standard Select, Start and Guide buttons, a series of LEDs to designate the player order, and there's a micro-USB port on the front. (OnLive told us the port is presently for charging only, and sure enough, the controller wasn't recognized when plugged into a nearby PC.) Last but not least, there are five media buttons on the bottom side, the only unique feature of the lot. Right now, they just navigate through pre-recorded video content -- game trailers and the like -- but we're told there are some exciting ideas in store. 
+
+Another interesting thing about OnLive's controller is that it doesn't use standard RF technologies -- it's got a IEEE 802.15.4 wireless solution designed to minimize lag. OnLive claims they propped up the artist formerly known as ZigBee with a custom wireless stack that responds to input in 800 microseconds flat, and while we weren't exactly able to test that figure with equipment lying around the house, we'll tell you it worked well enough. It isn't quite as responsive as a dedicated game console due to OnLive's inherent lag (more on that in a bit) but the controller slightly bested the experience we had with a standard wireless mouse and keyboard, and the wireless range wasn't bad. You can't cart the controller quite as far away as you can an Xbox 360 pad and keep playing, but it worked across a large room and through a couple layers of antique drywall. We weren't able to test controller battery life as our controller hasn't yet needed a charge, but when it does the solution is simple enough -- just like with Xbox 360, the unit comes with a cartridge that holds two AA batteries, and you can buy a rechargeable lithium-ion pack for $20 more.
+
+Experience
+
+
+
+We've been skirting the truth for paragraphs and paragraphs, but the reality is this: that beautiful little box and quality controller are just another way to access the same cloud service you can get for free on any old Mac or PC. From the moment you connect the MicroConsole to OnLive, everything you see -- down to the dashboard interface -- is actually running in a data center miles and miles away, with each and every video frame compressed and streamed to you as quickly as possible. The MicroConsole just means you don't need a dedicated computer, as it does all the dirty work of decoding and upscaling OnLive's variable-bandwidth 720-pixel-wide stream to a nice big 1080p, and puts a controller in your hand so you can kick back in front of your HDTV. As far as that leanback experience is concerned, however, the MicroConsole does a pretty decent job -- as soon as you hit that big OnLive button in the center of the controller, it's on and ready to connect, and that Marvell chip does fantastic work upscaling those images. Testing with a 1080p-native Panasonic plasma set, 1080p over HDMI and 1080i over component both looked great, even as 720p appeared rough and pixelated due to the TV's own futile attempts to enlarge. There's also something to be said for sitting a good distance away from an OnLive screen, as when you're across the room it's much harder to notice OnLive's video compression artifacts than on an in-your-face PC display.
+OnLive interface, a brief tour
+
+
+
+
+
+
+Assuming you're not familiar with the existing OnLive service, here it is in a nutshell: every game is a video stream and you are an engaged observer. You start out in a hub surrounded by a field of what look like security camera monitors, each with a different game on screen, and it's not pre-rendered footage -- every single one is watching a real person play a real game in real time. Should you wish to try yourself, you can demo any game free for thirty minutes, and then rent it for several days if you feel like. You can also buy a game to play for as long as it's on the service -- current games are guaranteed through 2013 -- or pass the time by watching Brag Clips. The latter is something entirely unique to OnLive, and it's worth a mention here; if something hilarious happens in a game, you can press a button to instantly record and share the last ten seconds. (There's nothing quite like watching aircraft collide with palm trees, if that gives you any idea.) There's a miniature social network of sorts in OnLive as well, complete with friend requests, messages and invites for multiplayer games, though we chose to remain sad and friendless as a matter of principle. 
+
+
+From here on out you should take our impressions with a grain of salt, as your mileage will most certainly vary: OnLive depend heavily on your internet connection and how close you are to an OnLive data center, as your available bandwidth determines how good the picture will look (OnLive recommends 5Mbps for TVs larger than 40 inches) and latency dictates how speedily games will respond to input. Remember how we mentioned earlier that the exact same service is free on Mac or PC? Well, we can't stress this enough: if you're not sure whether the MicroConsole will work for you, test it on a computer first.
+
+With an up-to-18Mbps AT&T U-Verse connection in San Jose, California, we found OnLive games loaded as quickly as on console -- sometimes much quicker -- and were actually quite playable. The controller never felt quite as responsive as that of a dedicated console nor the images quite as crisp, but we'd say that most of the time the overall experience was only slightly behind what we expect, only bogged down by the occasional annoying stutter. Frantic first-person shooters and driving games weren't as accurate as we like, but over the course of a couple days we adjusted to the mild lag, racking up plenty of kills, scoring the occasional headshot and drifting around some fairly tight corners as well. In Prince of Persia, a game that can require fairly precise timing in combat, we were still able to parry foes' swords and execute tricky jumps with a little bit of forethought, and a multiplayer game of Unreal Tournament III was intriguingly balanced -- if slightly laggy -- thanks to the fact that all players had 0 ping to the (virtual) host server. What's more, we found the graphical quality of most games actually ahead of their console counterparts in a roundabout way -- since OnLive uses the PC versions of titles, it can turn on higher levels of detail and add anti-aliasing to smooth those jagged edges. However, the image compression OnLive uses does cancel out some of the effect, so it's a bit like looking at a beautiful picture through a slight haze.
+
+In short, you're giving up some immediacy in exchange for a tiny machine that lets you try any game for free and easily rent or buy from there, without requiring any physical discs.
+
+Library
+
+
+So, the MicroConsole performs as advertised, but what's there to play? Not a lot at present, we're afraid to say. OnLive scored some major wins in the form of Batman: Arkham Asylum, Borderlands, Assassin's Creed 2 and Mafia II, but there's nothing particularly new or exclusive here, just a small stash of some good and some middling games. Now, the company certainly has grand plans to turn that around, starting with a Netflix-style $9.99 flat rate plan it's testing right now and launching January 15th, and CEO Steve Perlman told us there are over 100 new titles in the pipeline including likely hits like Deus Ex: Human Revolution and Ghost Recon: Future Soldier, some of which he's trying to get on OnLive the same day they're generally released. He even told us that OnLive might even have "practical exclusives" in the form of games so graphically advanced they won't run on current PCs and consoles, but rather take a whole bank of servers to run. The long and the short of it is that we're looking at a whole lot of promises and not a lot of games for now. 
+
+There's also the little matter of what happens to the games you've purchased if or when OnLive should go under, but considering people seem to trust Steam with their money (which generated similar worry at its debut) we're not going to dwell on that topic. 
+
+Wrap-up
+
+
+The OnLive Game System isn't for everyone, particularly folks who are cheap -- you'll find practically the exact same experience for free on Mac or PC, and OnLive has told us it plans to eventually integrate the tech into TVs and set-top-boxes too. It's also probably not for your average gamer armed with an Xbox 360, PS3 or capable gaming PC, as they'll likely have played the titles available and they won't be able to easily bring their existing online buddies along for the ride. If, however, you're an early adopter with an eye for quality hardware, a killer internet connection and your head literally in the cloud, $99 is a fantastic price for a taste of the future. It comes with a free game, too.
+400
+
+Leave A Comment
+
+
+802.15.4, armada, Armada 1000, Armada1000, game streaming, game system, GameStreaming, GameSystem, gaming, Marvell, Marvell Armada, Marvell Armada 1000, MarvellArmada, MarvellArmada1000, OGS, OnLive, OnLive Game Service, OnLive Game System, onlive microconsole, OnliveGameService, OnliveGameSystem, OnliveMicroconsole, review, set top box, set-top box, set-top-box, Set-topBox, SetTopBox, stb, streaming games, StreamingGames, video
+
+
+Sony¡¯s Kaz Hirai talks up virtues of touch controls, weighs in on PlayStation phone7 days ago
+OnLive demos Windows 7 on an iPad and Galaxy Tab, launches cloud computing tablet app22 days ago
+OnLive ushers in the MicroConsole with all-you-can-eat game plan for $10 a month27 days ago
+From Our Partners
+Best Nintendo DS and DSi Games of 2010, From Alice to Ace17 hours ago
+TUAW¡¯s Daily App: Burn the Rope1 day ago
+Valve expresses interest in eye tracking, improving experience for able and disabled...3 days ago

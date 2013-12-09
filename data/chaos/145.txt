@@ -1,0 +1,92 @@
+﻿World's Longest Palindrome Sentence? 15,139 17,826 words
+
+See also: comments, program, strategy
+
+At 8:02 PM on the 20th of February 2002 it was 20:02 02/20 2002 (if you live in the US), or 20:02 20/02 2002 (if you live in the rest of the world). Either way, it was the best of times, it was the tseb of times, it was a palindromic time. In honor of the event, I wondered if I could create the world's longest palindrome. A search for world's longest palindrome revealed that "In 1980, Giles Selig Hales claimed to have written the world's longest palindrome, which consisted of 58,795 letters." That didn't seem too hard to beat. And in fact, in a few hours I was able to write a program to create a palindrome with 63,647 letters (and later I updated the program and got 74,633 letters).
+Cognoscenti such as Mark Saltveit, editor of The Palindromist, rightfully point out that my creation should not be called a true palindrome, because it makes no sense. But Saltveit says that I am probably safe in calling this "the world's longest palindromic sentence, or the world's longest parody of `A man, a plan.' " I'm satisfied with that assessment.
+
+Jerry Berns has his candidate longest palindrome, consisting of 31,358 words or 119,180 letters, so he's got me beat. His is not in the form of a sentence, but it does have restrictions on how many times a word can be repeated (otherwise you could just do "A radar, a radar, a radar, a radar, ..." and have an infinitely long palindrome).
+
+How I did it
+
+I knew that Dan Hoey had generated a longish palindrome beginning with "A man, a plan" and ending with "Panama". Another search revealed it was a 540 word version created in 1984. Hoey writes "This was done with the Unix spelling dictionary and a fairly simple-minded program. With a better word list and a smarter program I'm sure the palindrome could be ten times as long." Now if that's not a challenge, I don't know what is.
+
+Luckily for me, I had a better word list: the very nice Moby Word list from Grady Ward (also available at Project Gutenberg), from which I was able to extract the 126,144-word npdict.txt. I thought it would be easy to create a smarter program: I already had a short Python program to look up words in a dictionary given a prefix. All I would have to do is extend it to allow suffix lookup, and implement a search algorithm. Also, importantly, I had an ordinary laptop computer which was at least 1,000 times more powerful than the minicomputer Hoey had in 1984.
+
+The resulting program wasn't too hard to put together: starting at 10:00 PM after the kids were asleep, I thought I might get a long palindrome generated before 02/20 was over. It actually took until 1:00 AM to get something that seemed good (at 1:00 AM), and then in the light of day three more hours to fix two bugs (one reported by Jasvir Nagra and one found by me), and replace a recursive algorithm with a stack to overcome a bug/limitation of Python.
+
+Given that, here's what I was able to come up with, both back in 2002 and more recently:
+
+Original 15,139 Word Palindrome
+
+Created:	 20 February, 2002
+Words:	 15,319
+Letters:	 63,647
+Phrases:	 12,400 comma-separated noun phrases
+Program:	pal.py
+Excerpt:	A man, a plan, a caddy, Ore, Lee, tsuba, Thaine, a lair, ... (rest here) ..., Hell, a burial, Aeniah, Tabu, Steele, Roydd, a canal, Panama.
+Full palindrome:	here
+Storyboard:	
+			...
+A man,	 a plan,	 a caddy,	
+Commentary: Maybe I'm biased, but I think the palindrome starts out quite strong. "A man, a plan, a caddy" is the basic premise of another fine piece of storytelling. Unfortunately, things go downhill from there rather quickly. It contains truths, but it does not have a plot. It has Putnam, but no logic; Tesla, but no electricity; Pareto, but no optimality; Ebert, but no thumbs up. It has an ensemble cast including Tim Allen, Ed Harris and Al Pacino, but they lack character development. It has Sinatra and Pink, but it doesn't sing. It has Monet and Goya, but no artistry. It has Slovak, Inuit, Creek, and Italian, but it's all Greek to me. It has exotic locations like Bali, Maui, Uranus, and Canada, but it jumps around needlessly. It has Occam, but it is the antithesis of his maxim "Entia non sunt multiplicanda praeter necessitatem." If you tried to read the whole thing, you'd get to "a yawn" and stop. Or you might be overcome by the jargon, such as PETN, ILGWU, PROM, UNESCO, and MYOB. Most serendipitous of all is that Steele, who collected several shorter versions of the Panama oeuvre in a book about a Lisp, shows up in the very last line. Steele and some others have some comments. You can read the results from top to bottom (if you don't get bored) or you can start in the middle; the letter "y" in "Moray".
+
+Speed: Once I started running my program, it seemed almost too easy. I had it print a message every time it finds a palindrome that is 200 words longer than the last one, and it consistently prints this message every second; so in 3 or 4 seconds it breaks Hoey's record, and in 30 seconds it is over 6000 words. At around 8000 words progress slows to about 1,000 words per minute, and by around 10,000 to 12,000 words progress is sporadic. This is because we are running out of good words: there are 126,000 words in the dictionary, but only about 10% of them are easily reversible. For example, there are 426 words that contain "eq" or "sq", but these are hard to use in a palindrome because there are no words containing "qe" or "qs", and only a few words that end in "q" (and could then be followed by a word starting with "e" or "s".
+
+Latest 17,826 Word Palindrome
+
+Created:	 11 November, 2007
+Words:	 17,826
+Letters:	 74,663
+Phrases:	 14,382 comma-separated noun phrases
+Program:	pal2.py
+Excerpt:	 A man, a plan, a cameo, Zena, Bird, Mocha, ... (rest here) ..., Lew, Orpah, Comdr, Ibanez, OEM, a canal, Panama!
+Full palindrome:	here
+Storyboard:	
+				...
+A man,	 a plan,	 a cameo,	 Zena,
+Commentary: Unfortunately, I don't have the patience to attempt a witty commentary on this one, but I can detail the history of this version. After a reader sent in a suggestion, I made 4 changes:
+
+I added the function reversible_words, which finds all pairs of words in the dictionary that are palindromes of other words, such as "Camus" and "Sumac". There all 1100 of these, and adding them all at once helps a little, but not much, because they tend to be found by the search routine anyways.
+The old program would only add a new word that is equal or longer than the missing part on the other side. I added a capability called tryharder to add words that are shorter as well. That is, when I'm looking for a word that starts with "aca", I consider "a caddy" and "a canoe", etc., but this change allows me to also consider "A/C". This helps a little, but it also slows the program down a lot.
+I made the program faster. Profiling showed that reverse was a bottleneck, so I used the [::-1] idiom. I also dump the results to file every 1000 words rather than every 200, until we get near the end.
+I added unit tests, because that's the way things are done these days.
+Speed: The program now starts out increasing by 1000 phrases per second, consistently gets over 10,000 phrases in under 30 seconds, and usually gets to 12,000 phrases in the first minute. Things slow down from there, but in ten runs all but one were over 17,000 words, which takes about an hour.
+
+Language Induction
+
+I thought I had leaped past Hoey's 540-word Panama Palindrome by a factor of 30, but when I showed him my palindrome, he said that he was really thinking of sticking with noun phrases of the form "<indefinite article> <noun>."
+
+This is an example of the venerable language induction problem: given the single sentence "A man, a plan, a canal--Panama" as evidence, what language does it define? It seems clear that it consists of a series of any number of noun phrases. That is,
+
+    S => NP*
+But from one example, you can't say much more. If we look at the examples from Hoey and Steele, we can see they all start and end the same, so we can say:
+    S => "A man" "A plan" NP* "A canal" "Panama"
+But Hoey says that every noun phrase must have an indefinite article:
+    NP => IndefArt Noun
+    IndefArt => "a" | "an"
+while I was allowing:
+    NP => ProperNoun
+    NP => IndefArt Noun
+    IndefArt => "a" | "an"
+Guy Steele suggested I should also try allowing other noun phrases, such as "two Xs". Gold said the language induction problem can't be solved in general, but others (e.g. Horning, Mooney, Muggleton, de Marcken) have shown that it can be solved probabilistically if you use a probabilistic rather than a strictly logical formalism. With Hoey in mind, I also generated a solution with all indefinite articles:
+2,211 Word Palindrome with only indefinite articles
+
+Created:	 November, 2003
+Words:	 2,211
+Letters:	 5,842
+Phrases:	 1,106 comma-separated noun phrases
+Program:	pal2.py with a restricted dictionary
+Excerpt:	A man, a plan, a casa, a bait, a lag, a malt, ... (rest here) ..., a natl, a mag, a lati, a baas, a canal, Panama!
+Full palindrome:	here
+Storyboard:	
+						...
+A man,	 a plan,	 a casa,	 a bait,	 a lag,	 a malt,
+Commentary: Hoey said he thought that a better word list and a smarter program could get to ten times his 540-word palindrome, using only noun phrases with indefinite articles. I'm pretty sure that will never happen. The problem is a dirth of "a"s. According to Hoey's rules, every phrase must start with the letter "a". That means that either the rest of the word must be an exact reverse of another word (and we know there are 1100 of these) or the phrase must have another "a" in it somewhere, and it must be matched by two or more other phrases. Phrases such as "a man", "a plan" and "a canal" work well because they contain multiple "a"s. Now consider a phrase such as "a biologist". If that appears in the palindrome, then somewhere else the letters "tsigoloib" must appear. But note that those letters must all appear in one word/phrase, because there is no "a", and we only get word boundries at "a"s. And of course, there is no single word that contain those letters. In general, take a word (such as "an asparagus" or "a biologist"), split it into components around the "a"s (yielding ["n", "sp", "r", "gus"] and ["biologist"]). Collect the set of all such segments, from all the phrases in the dictionary. Now go back through the dictionary, and for each word, see if the reverse of each of its components is in this set. So "an asparagus" is good, because its reversed components all appear in the set: "n" appears in many places (including "an asparagus" itself), "ps" appears as a component in "a psalm", "r" appears in many places (such as "a karat"), and "sug" appears in "a sugar". On the other hand, "a biologist" is no good, because the component "tsigoloib" does not appear.
+
+When I first applied this test, I started with the 69,241-word anpdict.txt (containing only noun phrases starting with "a" or "an"). I checked to see whether each reversed component of a phrase appeared anywhere in any other phrase. That eliminated "a biologist", but it let "a zoom" stick around, because the reversed component "mooz" appears in "a schmooze". Doing this level of reduction gets us down to a dictionary of 11,065 phrases. But on reflection I realized that not only does each reversed component have to appear in some word, it must appear as a component of some word. The fact that "mooz" appears in "a schmooze" is not good enough. That would only work if "a zoom" could be followed by the letters "hcsa", which of course it cannot; it must be follwed by the letter "a". Using that stricter test, we get down to only 4,528 noun phrases that are actually usable. So to get a 5,400 word palindrome we would need to start with a bigger dictionary.
+
+Speed: My program consistently generates palindromes of over 2000 words in under 10 seconds using the 4,528 word dictionary. It doesn't go much beyond that.
+
+
+Peter Norvig, 20:02 02/20 2002	See some comments on this page.

@@ -1,0 +1,30 @@
+﻿16 December 2009
+From Kivenen/Warmuth and EG to CW learning and Adaptive Regularization
+This post is a bit of a historical retrospective, because it's only been recently that these things have aligned themselves in my head.
+
+The all goes back to Jyrki Kivenen and Manfred Warmuth's paper on exponentiated gradient descent that dates back to STOC 1995. For those who haven't read this paper, or haven't read it recently, it's a great read (although it tends to repeat itself a lot). It's particularly interesting because they derive gradient descent and exponentiated gradient descent (GD and EG) as a consequence of other assumptions.
+
+In particular, suppose we have an online learning problem, where at each time step we receive an example x, make a linear prediction (w'x) and then suffer a loss. The idea is that if we suffer no loss, then we leave w as is; if we do suffer a loss, then we want to balance two goals:
+
+Change w enough so that we wouldn't make this error again
+Don't change w too much
+The key question is how to define "too much." Suppose that we measure changes in w by looking at Euclidean distance between the updated w and the old w. If we work through the math for enforcing 1 while minimizing 2, we derive the gradient descent update rule that's been used for optimizing, eg., perceptrons for squared loss for ages.
+
+The magic is what happens if we use something other than Euclidean distance. If, instead, we assume that the ws are all positive, we can use an (unnormalized) KL divergence to measure differences between weight vectors. Doing this leads to multiplicative updates, or the exponentiated gradient algorithm.
+
+(Obvious (maybe?) open question: what happens if you replace the distance with some other divergence, say a Bregman, or alpha or phi-divergence?)
+
+This line of thinking leads naturally to Crammer et al.'s work on Online Passive Aggressive algorithms, from JMLR 2006. Here, the idea remains the same, but instead of simply ensuring that we make a correct classification, ala rule (1) above, we ensure that we make a correct classification with a margin of at least 1. They use Euclidean distance to measure the difference in weight vectors, and, for many cases, can get closed-form updates that look GD-like, but not exactly GD. (Aside: what happens if you use, eg., KL instead of Euclidean?)
+
+Two years later, Mark Dredze, Koby Crammer and Fernando Pereira presented Confidence-Weighted Linear Classification. The idea here is the same: don't change the weight vectors too much, but achieve good classification. The insight here is to represent weight vectors by distributions over weight vectors, and the goal is to change these distributions enough, but not too much. Here, we go back to KL, because KL makes more sense for distributions, and make a Gaussian assumption on the weight vector distribution. (This has close connections both to PAC-Bayes and, if I'm wearing my Bayesian hat, Kalman filtering when you make a Gaussian assumption on the posterior, even though it's not really Gaussian... it would be interesting to see how these similarities play out.)
+
+The cool thing here is that you effectively get variable learning rates on different parameters, where confident parameters get moved less. (In practice, one really awesome effect is that you tend to only need one pass over your training data to do a good job!) If you're interested in the Bayesian connection, you can get a very similar style algorithm if you do EP on a Bayesian classification algorithm (by Stern, Herbrich and Graepel), which is what Microsoft Bing uses for online ads.
+
+This finally bring us to NIPS this year, where Koby Crammer, Alex Kulesza and Mark Dredze presented work on Adaptive Regularization of Weight Vectors. Here, they take Confidence Weighted classification and turn the constraints into pieces of the regularizer (somewhat akin to doing a Lagrangian trick). Doing so allows them to derive a representer theorem. But again, the intuition is exactly the same: don't change the classifier too much, but enough.
+
+All in all, this is a very interesting line of work. The reason I'm posting about it is because I think seeing the connections makes it easier to sort these different ideas into bins in my head, depending on what your loss is (squared versus hinge), what your classifier looks like (linear versus distribution over linear) and what your notion of "similar classifiers" is (Euclidean or KL).
+
+(Aside: Tong Zhang has a paper on regularized winnow methods, which fits in here somewhere, but not quite as cleanly.)
+Posted by hal at 12/16/2009 09:19:00 AM | 35 comments Links to this post  
+
+Labels: classification, machine learning, online learning

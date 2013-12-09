@@ -1,0 +1,31 @@
+﻿Dashing through the snow... with NORAD and Google
+12/23/2010 08:00:00 AM
+(Cross-posted from the Lat Long Blog)
+
+Every Christmas Eve, children all over the world ask themselves—and their parents—questions about Santa’s magical journey. How does Santa visit so many children in one night? Will he eat the cookies I left out? How does he fit all those presents into his sleigh? These childhood mysteries are part of what makes the Santa tradition so special.
+
+There’s one timeless question that we’re proud to say we can help answer: Where in the world is Santa at this very moment? Thanks in part to recent advances in warp-speed GPS technology and some very clever elves (elveneering?) NORAD Tracks Santa is once again prepped and ready to go.
+
+Starting tomorrow, December 24 at 2:00am EST, visit www.noradsanta.org to follow Santa as he journeys around the world delivering presents to children in more than 200 countries and territories. There are a few different ways to find the jolly old man in his unmistakable red suit over the course of the day, so feel free to track him using any of the following methods:
+See Santa on a Google Map: On your home computer or laptop, visit www.noradsanta.org and choose your preferred language. You’ll see a large Google Map on the page displaying Santa’s current location and his next stop. Click the video icons to watch “Santa Cam” videos, and click the gift icons to learn more about each city.
+
+Watch Santa fly with the Google Earth Plug-in: From www.noradsanta.org, click on the link Track Santa in Google Earth. You'll see Santa steering his sleigh right on the webpage. If you don't have the Google Earth plug-in, you can get ready by downloading it ahead of time.
+
+Follow Santa on your phone: Track Santa from your mobile phone by opening Google Maps for mobile and searching for [santa]. Or, visit m.noradsanta.org on your phone’s browser.
+
+Subscribe to his YouTube channel: Santa’s home on YouTube is at http://www.youtube.com/noradtrackssanta. That’s where you can find videos from his journey throughout the night.
+
+Get real-time information about Santa’s location: Use Google’s Realtime Search to get updates from social networks, news and micro-blogs like Twitter at @noradsanta, and keep up with news about his journey on this Facebook page.
+For any techie questions you might have, we’ve also put together some helpful tips and tricks about all the cool ways you can experience Santa’s journey. Now that you know how to follow Saint Nick on Christmas Eve, it’s our tradition to tell the story of how this all started...
+
+NORAD (North American Aerospace Defence Command) first began to track Santa in 1955 when a misprinted advertisement in a Sears & Roebuck catalogue mistakenly led callers expecting a Santa-hotline to the NORAD commander-in-chief's telephone. Embracing the spirit of the season, NORAD used its satellite and radar capabilities to offer callers sleigh-location updates, and has tracked Santa's whereabouts on Christmas Eve ever since. Then in 2004, Google started tracking Santa on Google Earth as a 20% project, which in 2007 grew into a partnership with NORAD, adding the mapping technology of Google Maps and Google Earth to the NORAD experience. Over the years, other Google teams have also joined in the holiday fun (YouTube, Google Voice’s www.SendACallFromSanta.com and Google SketchUp).
+
+As we approach this year’s Christmas Eve adventure, Santa was able to take a break from the preparations to visit the New York Stock Exchange this past Monday. His helpful elves kept everything at the North Pole on schedule while folks from Google and NORAD attended the Closing Bell ceremony, and stood alongside Santa from Macy’s going over last minute details about tomorrow’s big ride.
+
+
+Santa with NORAD, Google and members of the Marine Toys for Tots Foundation (that’s me, the tall guy in the back row clapping)
+
+So don’t forget to visit www.noradsanta.org tomorrow morning starting at 2:00am EST when Santa embarks on his flight. From all of us here at Google, happy holidays and here’s to a very happy New Year!
+
+
+Posted by Brian McClendon, Original Google Engineering Elf

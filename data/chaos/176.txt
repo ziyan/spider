@@ -1,0 +1,63 @@
+﻿A Year of Extensions
+Thursday, December 09, 2010
+Labels: extensions
+It’s hard to believe, but it’s already been a full year since we launched the Google Chrome extensions gallery.
+
+It’s been a busy twelve months:
+The gallery has grown to over 8,500 extensions and 1,500 themes.
+A third of Chrome users have at least one extension installed.
+Over 70 million extensions and themes have been installed.
+On the client side, we added features like:
+New APIs for things like context menus, history, and cookies.
+Integration between extensions and HTML5 features like notifications and geolocation.
+Extension sync, so your favorite extensions are always with you.
+Native support for Greasemonkey user scripts.
+Looking forward, we’re very excited about the Chrome Web Store, where developers will be able to easily sell their apps, extensions, and themes.
+
+And we’re not going to slow down on the features, either. The next Chrome release will add API support for the omnibox and pinned tabs. Beyond that, we’re hard at work on popular requests like network interception and download management APIs, as well as new experimental APIs for sidebars and development tools.
+
+Thanks for all your support over the last year, from bug reports to testing new APIs. It’s been a bit frantic at times, but mostly it’s been fun.
+
+Posted by Aaron Boodman, Software Engineer
+
+Adi said...
+
+After today update of Chromium browser ( 9.0.597.15 ) I can`t mouse scroll up on any webpage , only down . Please fix it :) Thank you for your very fast browser !
+
+December 10, 2010 7:03 AM
+
+Dave said...
+
+The scroll issue is known: https://code.google.com/p/chromium/issues/detail?id=66079
+
+Last comment is: Thanks for the reports. You can star issue 66071 to be informed about updates - we certainly are aware of the problem and the issue will be fixed within 24 hours.
+
+December 10, 2010 8:46 AM
+
+MichaelTheGeek said...
+
+Good news.
+
+December 10, 2010 1:03 PM
+
+war59312 said...
+
+Chrome web store link of http://www.blogger.com/chrome.google.com/webstore is bad.
+
+Should be just https://chrome.google.com/webstore
+
+December 10, 2010 11:01 PM
+
+~Eve~ said...
+
+Cool! Nice statistics
+
+December 12, 2010 1:48 PM
+
+Spindel said...
+
+I hope 2011 will be the year of hardware acceleration.
+
+December 13, 2010 3:07 AM
+
+Post a Comment

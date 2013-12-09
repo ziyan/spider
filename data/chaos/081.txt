@@ -1,0 +1,64 @@
+﻿Установил Ubuntu - что делать дальше?
+1. Расширить список доступных репозиториев программ
+Запустить Synaptic и там в System -> Administration -> Synaptic Package Manager, в меню идем в Settings -> Repositories. Отметить дополнительные репозитории из списка:
+
+Canonical-suported Open Source software (main)
+Community-maintained Open Source software (universe)
+Proprietary drivers for devices (restricted)
+Softwares restricted by copyright or legal issues (multiverse)
+
+
+После этого в терминале выполить 2 команды:
+sudo apt-get update
+sudo apt-get upgrade
+
+
+2. Установить архиваторы
+sudo aptitude install rar unrar zip unzip p7zip-full p7zip-rar cabextract
+
+
+3. Добавить шрифтов в систему.
+sudo apt-get install msttcorefonts ttf-larabie-straight ttf-larabie-deco mplayer-fonts xfonts-terminus-dos xfonts-terminus xfonts-terminus-oblique xfonts-mona tv-fonts ttf-tuffy ttf-sjfonts ttf-sil-padauk ttf-sil-ezra ttf-paktype ttf-georgewilliams ttf-fifthhorseman-dkg-handwriting ttf-farsiweb ttf-essays1743 ttf-opensymbol ttf-nafees ttf-mgopen ttf-sil-gentium ttf-freefont ttf-dustin ttf-devanagari-fonts ttf-dejavu-extra ttf-dejavu-core ttf-dejavu ttf-bpg-georgian-fonts ttf-bitstream-vera ttf-alee
+
+
+4. Установить мультимедиа кодеки
+sudo apt-get install ubuntu-restricted-extras
+
+
+5. Установить виртуальную машину Виртуалбокс
+sudo apt-get install virtualbox-ose virtualbox-ose-source
+
+
+6. Установить wine для запуска привычных Windows приложений.
+sudo apt-get install wine
+
+
+7. Привыкли качать файлы качалкой типа reget, fleshget и поч? Установите d4x
+sudo apt-get install d4x
+
+
+8. Хотите общаться с друзьями через VOIP? Нет ничего проще. В Линуксе их много.
+Привыкли к Skype? Установите Skype в Линукс.
+sudo apt-get install skype
+
+
+9. Нужен ФТП клиент?
+sudo apt-get install filezilla
+
+
+10. Нужен торрент клиент?
+Используйте Transmission, он идёт в комплекте по умолчанию или установите другие.
+
+Рекомендую торрент клиент Deluge
+sudo apt-get install deluge-torrent
+
+
+11. Чем слушать музыку? Установите Exaile
+sudo apt-get install exaile
+
+
+12. Привыкли смотреть фильмы используя VLC? VLC есть и в Линукс.
+sudo apt-get install vlc
+
+
+© http://it-talk.ru/?p=245

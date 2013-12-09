@@ -1,0 +1,13 @@
+Announcing Google Shared Spaces
+Tuesday, December 21, 2010 | 10:15 AM
+In August, Google announced that Wave would no longer be developed as a standalone product, but that the Wave technology would survive in other products. Today, I am happy announce the launch of Google Shared Spaces in Google Labs as one of those off-shoots.
+
+A bunch of us who had been working on the Wave APIs were brainstorming about what it would take to just run a Wave gadget. Developers had been doing wonderful stuff --building real-time mini applications--and rather than let that effort go to waste, we wanted to create a new way for people to continue to use these tools and games. Google Shared Spaces is exactly that. A shared space turns a (Wave) gadget into a standalone collaborative application. Just click on the gadget you're interested in to start a new shared space, and then simply send the URL around to share it with your friends and colleagues. You don't need to sign up for a new service - if you have a Google, Twitter or Yahoo account, you're good to go.
+
+
+
+Each shared space comes with a chat area (which is just another Wave gadget) for extra interaction. So take Shared Spaces for a spin: Use the Waffle gadget to pick the date for a night out with your friends, annotate a shared map with your favorite places and vote on where to go using any of the polling gadgets. Or if you'd rather stay in, hit the games section and challenge somebody for a good old game of chess. To learn more, check out the quick presentation on our about page.
+
+It's still early, but give it a try and send us feedback through our discussion group.
+
+Posted by Douwe Osinga, Software Engineer, Google Shared Spaces Team

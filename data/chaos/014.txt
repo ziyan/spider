@@ -1,0 +1,47 @@
+﻿2011: The Year Android Explodes! Killing Innocent Women, Children, And iPhone Users
+
+MG Siegler
+Dec 26, 2010
+The top headlines today got me thinking back to 2008. Back then, I was writing for VentureBeat, and we used to talk quite a bit internally about iPhone versus Android. Yes, even back then it was a hot debate. And yes, back then, I was obviously in the iPhone camp. And this annoyed those who saw the promise of Android. “But Android will eventually become much larger than the iPhone,” was the basic argument used against me. But it wasn’t really against me. Even back then, I would openly acknowledge that Android would eventually far surpass the iPhone in terms of units shipped. I mean, how could it not?
+
+And so Fortune’s headline today that “2011 will be the year Android explodes“, has been a long time coming. In his article, Seth Weintraub brings up a number of excellent points about how exactly Android is poised to grow even faster in 2011 than it already did in 2010. Though I suspect a number of his points paint too rosy a picture in terms of the outcome of such downward pressures on costs. I find it very hard to believe, for example, that the carriers (in the U.S., in particular) won’t find a way to screw us in 2011. It’s an artform they’ve perfected over the past two decades. But on paper, at least, it all sounds great.
+
+Some, like venture capitalist Fred Wilson, think this expansion of Android is great news — for entrepreneurs and VCs, in particular. Others, like Robert Scoble, thinks this is bad news, because it means the higher-quality iPhone will fall. You might expect me to back Scoble here. But I’m not going to. Well, not completely.
+
+When I write about the iPhone or Android and the fandroids come out in full force, people often ask if this angers or annoys me. I find that funny. What do I care? I have absolutely no skin in either game. I’m an iPhone user because I prefer it over Android. I think it’s an overall better product. That’s why I use it. It really is that simple.
+
+If there was an Android phone out there that I thought was better than the iPhone, I would use it. But I haven’t found one yet.
+
+So on one hand, the news that Android is going to explode in the market in 2011 actually gives me hope. More Android phones means more potential for a great one to emerge.
+
+Further, I’ve openly said numerous times that just about every Android device is at least 10,000 times better than any mobile device we had prior to 2007. Sometimes it can be hard to think back to the pre-iPhone mobile world. But it really did suck — particularly in the United States. Before the iPhone, I had a Motorola RAZR running Verizon’s piece of shit very proprietary (and very red) software. I was trying to come up with a better descriptive phrase than “piece of shit”, but that’s really the best way to describe it.
+
+The iPhone changed the game. But Android did too. It’s just because the iPhone did it before Android (and again, because I prefer the iPhone) that I give Apple more credit for this than Google. But both have done amazing things to move the ecosystem out of the carrier Hell we were in. And if Android can pull off half of what Weintraub lays out, it will be another leap forward. And I will heap praise upon them.
+
+But.
+
+The flip-side to this Android domination is what we’re already seeing. The carriers (again, in the U.S. in particular) are using Android’s openness to perform many of their same old tricks. I can’t help but think sometimes that it looks as if Google actually did the carriers a huge favor in the long-run because they’ve taken many of the bells and whistles that drove users to the iPhone in the first place and opened them up for the carriers to use as glittering lures to rope customers back into their traps.
+
+Say what you will about the iPhone/AT&T deal, it’s clear that Apple is in control there. And say what you will about Apple — at least they’re not the carriers. With Android, it’s a different story. That’s why the “open” argument is such a bullshit red herring. Android is so open that it gives the carriers (and now apparently the government) freedom to screw us — openly.
+
+Again, in my mind, the iPhone’s bells and whistles are shinier. But I’ll openly admit that with devices like the Nexus S (I’ll be writing my thoughts on the latest Android device up in a few days), the line between the two continues to get more blurry. Further, I know that most people simply don’t care about quality above all else. We see this time and time again across all industries. For many people, price matters more. Or features. Or other miscellaneous things (such as carriers).
+
+And so the only way for the iPhone to “beat” Android would be for Apple to either open iOS up in the same way that Android is, or to create a huge variety of iPhones spread across the spectrum in terms of features and price. Neither of those things is going to happen. Nor should they happen. The first simply isn’t in Apple’s DNA. It would create an ecosystem of crappy iPhones that Apple had no control over. And Nokia already made the latter mistake.
+
+Weintraub closes his piece with:
+
+What’s most interesting is that unless Apple has a plan to keep up, their iPhone, once one of the only usable smartphone games in town, may wind up back where most Apple products are slotted — at the top of the market, affordable only to those willing and able to pay a premium for Steve Jobs’ aesthetic sensibilities.
+
+Again, the only plan for Apple to “keep up” is one of the two things above. And Apple isn’t going to do either. As Scoble argues, the Verizon iPhone could shake up the game temporarily, but it’s still a lost cause. Apple cannot win an arm’s race with Android because they will not attempt to. They’re perfectly happy “at the top of the market” where they make a ton of revenue and profit. Billions more, in fact, than Google does with Android.
+
+Google, of course, has a different game plan with Android. And it looks like it is a very smart one. As Microsoft’s Dare Obasanjo noted earlier on Twitter, “Even if Android makes $0, it has turned out to be a cheaper way to get search defaults on smartphones than paying carriers & Apple.”
+
+That’s a pretty perfect way of looking at it. Google would have had to pay millions upon millions of dollars to be a part of the smartphone game from the outside. Instead, they brought the smartphone game to them. And they’re paying zero dollars with Android. In a way, it’s sort of like what they’re doing with Chrome as well. They had been (and still are) paying millions of dollars to Mozilla to be the default search engine on Firefox. So instead, they decided to bring the game to them. And it’s working. But the stakes are much higher in the smartphone game.
+
+What does concern me about Android’s success is if it does to Apple what Windows did to them in the 1990s. That is, drives them into near extinction. There are plenty of reasons to believe why this won’t be the case — but history does have a tendency to repeat itself. What if everyone does decide that they want a free smartphone subsidized by search? How does the iPhone survive in that environment?
+
+I don’t think that will happen, I think Apple has enough ecosystem leverage with things like the iPad, iTunes, and their apps, that it would be very hard for a full collapse to occur. But it is something that has to be thought about.
+
+And that’s all I really care about. I couldn’t care less if the iPhone or Android is the market leader. All I want is the ability to choose which device I want to use. And I’m sure that’s Google’s stance on the matter as well. They love the iPhone because it brings them search revenue just as Android does. I just don’t trust what the carriers will do with their Google-powered leverage in an Android-dominated world. And frankly, the Google/Verizon relationship is growing quite frightening.
+
+[photo: flickr/robert nelson]

@@ -1,0 +1,35 @@
+﻿WiFi data collection: An update
+5/14/2010 01:44:00 PM
+Update June 9, 2010: 
+
+When we announced three weeks ago that we had mistakenly included code in our software that collected samples of payload data from WiFi networks, we said we would ask a third party to review the software at issue, how it worked, and what data it gathered. That report, by the security consulting firm Stroz Friedberg, is now complete and was sent to the interested data protection authorities today. In short, it confirms that Google did indeed collect and store payload data from unencrypted WiFi networks, but not from networks that were encrypted. You can read the report here. We are continuing to work with the relevant authorities to respond to their questions and concerns.
+
+Update May 17, 2010:
+
+On Friday May 14 the Irish Data Protection Authority asked us to delete the payload data we collected in error in Ireland. We can confirm that all data identified as being from Ireland was deleted over the weekend in the presence of an independent third party. We are reaching out to Data Protection Authorities in the other relevant countries about how to dispose of the remaining data as quickly as possible.
+
+
+You can read the letter from the independent third party, confirming deletion, here. 
+
+
+[original post]
+Nine days ago the data protection authority (DPA) in Hamburg, Germany asked to audit the WiFi data that our Street View cars collect for use in location-based products like Google Maps for mobile, which enables people to find local restaurants or get directions. His request prompted us to re-examine everything we have been collecting, and during our review we discovered that a statement made in a blog post on April 27 was incorrect. 
+
+In that blog post, and in a technical note sent to data protection authorities the same day, we said that while Google did collect publicly broadcast SSID information (the WiFi network name) and MAC addresses (the unique number given to a device like a WiFi router) using Street View cars, we did not collect payload data (information sent over the network). But it’s now clear that we have been mistakenly collecting samples of payload data from open (i.e. non-password-protected) WiFi networks, even though we never used that data in any Google products. 
+
+However, we will typically have collected only fragments of payload data because: our cars are on the move; someone would need to be using the network as a car passed by; and our in-car WiFi equipment automatically changes channels roughly five times a second. In addition, we did not collect information traveling over secure, password-protected WiFi networks. 
+
+So how did this happen? Quite simply, it was a mistake. In 2006 an engineer working on an experimental WiFi project wrote a piece of code that sampled all categories of publicly broadcast WiFi data. A year later, when our mobile team started a project to collect basic WiFi network data like SSID information and MAC addresses using Google’s Street View cars, they included that code in their software—although the project leaders did not want, and had no intention of using, payload data. 
+
+As soon as we became aware of this problem, we grounded our Street View cars and segregated the data on our network, which we then disconnected to make it inaccessible. We want to delete this data as soon as possible, and are currently reaching out to regulators in the relevant countries about how to quickly dispose of it.
+
+Maintaining people’s trust is crucial to everything we do, and in this case we fell short. So we will be:
+Asking a third party to review the software at issue, how it worked and what data it gathered, as well as to confirm that we deleted the data appropriately; and
+Internally reviewing our procedures to ensure that our controls are sufficiently robust to address these kinds of problems in the future.
+In addition, given the concerns raised, we have decided that it’s best to stop our Street View cars collecting WiFi network data entirely. 
+
+This incident highlights just how publicly accessible open, non-password-protected WiFi networks are today. Earlier this year, we encrypted Gmail for all our users, and next week we will start offering an encrypted version of Google Search. For other services users can check that pages are encrypted by looking to see whether the URL begins with “https”, rather than just “http”; browsers will generally show a lock icon when the connection is secure. For more information about how to password-protect your network, read this.
+
+The engineering team at Google works hard to earn your trust—and we are acutely aware that we failed badly here. We are profoundly sorry for this error and are determined to learn all the lessons we can from our mistake.
+
+Posted by Alan Eustace, Senior VP, Engineering & Research

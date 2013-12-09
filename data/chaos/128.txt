@@ -1,0 +1,99 @@
+﻿APIv2. You’re going to like the way it looks. I guarantee it.
+
+Dec 09th
+Good news, developers: version 2 of the foursquare API is now ready for you to play with. We’ve been working on this for almost a year, and, while it’s still in beta, it’s looking awesome. Trusted testers have been using it for a while and it passed a significant milestone with this week’s hot new Android client, the first app built entirely on the new API.
+
+You’ll find APIv2 better in lots of subtle ways:
+
+OAuth2 is much easier to use, more secure for users, and can even be used entirely from client-side Javascript.
+By dropping XML support, we’ve been able to make the server more responsive (but not 1000x faster; sorry).
+There’s extensive documentation that includes sample applications and an API explorer.
+A lot of work was put into consistency and clarity.
+And last but not least, we’ve added oft-requested new endpoints for fetching user’s badges, user’s venue histories, and venue popularity.
+We’re well aware that there are many other things you want from our API (push notifications, venue management, and better venue search and trending information, among others), and we’re working on adding those features. But we believe this is a step in the right direction, making it even easier to build cool applications for our five million enthusiastic users and giving you incomparable access to our repository of millions of curated venues and user-created tips and hundreds of millions of check-ins.
+
+You can learn more at our new developer homepage, developer.foursquare.com. Be sure to send any feedback or questions along to our developer mailing list.
+
+P.S. We don’t have a concrete timeline for deprecating APIv1 (it will be a few months), but we’re encouraging all developers to use APIv2 going forward.
+
+– Kushal Dave, Software Engineer
+
+Posted in Blog Engineering
+View Comments
+LikeDislike 17 people liked this.	
+Community
+Disqus
+Add New Comment
+
+Logout
+ 	ofey (edit profile | view dashboard)
+6 comments 1 like received
+Post as ofey
+Showing 14 comments
+
+Sort by      Subscribe by email    Subscribe by RSS
+ 	
+Patrick K. / xPatriicK 3 weeks ago
+Great!
+1 person liked this.  Like   Reply
+ 	
+Finance Guy 1 week ago
+Awesome! I can't wait to check it out.
+
+You know I just love this new and growing focus on "local" that is taking a hold of the internet and 2.0 users.
+
+This is the first exposure I have had to foursquare and I am very intrigued.
+ Like   Reply
+ 	
+Borys Musielak 2 weeks ago
+Tom Henriksson of Nokia presented on last Europen Venture Summit a concept od a LOCAL portal that does all the personal recommendation stuff in many areas like bars, clubs, music stores, cinemas, gyms, all the leisure activity in general, being one's personal assistant and city guide.
+
+Nokia probably would like to create such a system, but I think only Google and Facebook have the capability of *becoming* such systems in the future. Not Foursquare.
+
+I actually hope and believe more in an interconnected network of niche services that do one type of personal local recommendations and they do it well. This way specialized check-in & recommendations services like Nuji (products), Foodspotting (food) or Filmaster (movies) will become the future of mobile (and Internet because all internet is going to be mobile soon). If Foursquare can play nice with such systems (and it seems the new API is a step in the right direction) then perhaps Henriksson's vision may come true. But not in a way he envisioned it. And not on a Nokia phone :)
+ Like   Reply
+ 	
+Romanticnet 2 weeks ago
+nice info, thanks.....
+ Like   Reply
+ 	
+Nate Tinner 2 weeks ago
+is this even a change that can be noticed visually?
+ Like   Reply
+ 	
+Max Howell 2 weeks ago
+All everybody actually wants is checkins to return all checkins since a time and not just the LAST one per user. PLEASE!
+ Like   Reply
+ 	
+Karl 3 weeks ago
+Well admitted off topic: Welcome to San Francisco but we so don't dig chain stores and in particular the indignity to set foot in places like Men's Warehouse. Pass that and just go down a couple of blocks on 2nd Street and have Harry O. himself fit you a suit. 
+ Like   Reply
+ 	
+Joe D'Andrea 3 weeks ago
+Happy! :)
+ Like   Reply
+ 	
+Diego Rodrigue 3 weeks ago
+Cool!
+ Like   Reply
+ 	
+Panggi Libersa 3 weeks ago
+nice!! gonna think to make a mashup using the new API :-D
+ Like   Reply
+ 	
+Gordon Werner 3 weeks ago
+so with the modifications to some of the earlier badge images ... have you given Socialite and/or Gossip Girl their own unique badge (or are they still the same image?)
+ Like   Reply
+ 	
+Derrick Bradley 3 weeks ago
+Looking forward to checking it out. Great work, guys.
+ Like   Reply
+ 	
+Danny Pier 3 weeks ago
+Glad to hear it passed the stability test via the android app! Looks like I can commit to make the switch now.
+ Like   Reply
+ 	
+Hung Truong 3 weeks ago
+Cool, I'm excited to start exploring the new features!
+
+Also, Men's Warehouse reference? You guys are weird.

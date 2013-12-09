@@ -1,0 +1,136 @@
+﻿Posted by: matheuscmss | September 2, 2010
+Lyapunov spectrum of Kontsevich-Zorich cocycle on the Hodge bundle of square-tiled cyclic covers I
+Hello! Today I plan to start a series of posts about the Ergodic Theory of Teichmüller geodesic flow (as I promised to do in some previous post related to this topic). In fact, my two strongest motivations to begin this project are: firstly, my joint papers with Jean-Christophe Yoccoz, and Giovanni Forni and Anton Zorich more or less reached their final forms (i.e., the article with J.-C. Yoccoz will appear on Journal of Modern Dynamics in a near future and the article with G. Forni and A. Zorich is available on ArXiv), and secondly, my friend and PhD advisor Marcelo Viana invited me to give three talks on the results of these papers (by the way, Marcelo was recently elected vice-president of IMU, so that I take the opportunity to congratulate him!).
+
+For this initial post, we’ll review most of the background material on the Teichmüller and moduli spaces, Teichmüller metric, the cotangent bundle of Teichmüller space and its relation to quadratic differentials, and the particularly important case of Riemann surfaces of genus 1 (elliptic curves).
+
+1. Quick review of basic elements of Teichmüller theory
+
+The long-term goal of these posts is the study of the so-called Teichmüller geodesic flow and its noble cousin Kontsevich-Zorich cocycle. As any respectable geodesic flow, Teichmüller flow acts naturally in a certain unit cotangent bundle. More precisely, the phase space of the Teichmüller geodesic flow is the unit cotangent bundle of the moduli space of Riemann surfaces.
+
+Before passing to more advanced discussions, today we’ll briefly recall some basic results of Teichmüller theory leading to the conclusion that the unit cotangent bundle of the moduli space of Riemann surfaces (i.e., the phase space of the Teichmüller flow) is naturally identified to the moduli space of quadratic differentials. As we’ll see later in this text, the relevance of this identification resides in the fact that it makes apparent the existence of a natural  action on the moduli space of quadratic differentials such that the Teichmüller flow corresponds to the action of the diagonal subgroup  of . In any event, the basic references for this post are J. Hubbard’s book and A. Zorich’s survey.
+
+
+1.1. Deformation of Riemann surfaces: moduli and Teichmüller spaces of curves
+
+Let us consider two Riemann surface structures  and  on a fixed (topological) compact surface of genus . If  and  are not biholomorphic (i.e., they are “distinct”), there is no way to produce a conformal map (i.e., holomorphic map with non-vanishing derivative) . However, we can try to produce maps  which are as “nearly conformal” as possible. To do so, we need a reasonable way to “measure” the amount of “non-conformality” of . A fairly standard procedure is the following one. Given a point  and some local coordinates around  and , we write the derivative  of  at  as , so that  sends infinitesimal circles into infinitesimal ellipses of eccentricity
+
+
+
+where . We say that  is the eccentricity coefficient of  at , while
+
+
+
+is the eccentricity coefficient of . Note that, by definition,  and  is a conformal map if and only if  (or equivalently  for every ). Hence,  accomplishes the task of measuring the amount of non-conformality of . We call   quasiconformal whenever . The figure below (extracted from this sample of chapter 4 of J. Hubbard’s book) illustrates clearly the local geometry of quasiconformal mappings.
+
+
+Local geometry of a quasiconformal mapping
+In the next subsection, we’ll see that quasiconformal maps are useful to compare distinct Riemann structures on a given topological compact surface . In a more advanced language, we consider the moduli space  of Riemann surface structures on  modulo conformal maps and the Teichmüller space  of Riemann surface structures on  modulo conformal maps isotopic to the identity. It follows that  is the quotient of  by the so-called modular group (or mapping class group)   of isotopy classes of diffeomorphisms of  (here  is the set of orientation-preserving diffeomorphisms and  is the set of orientation-preserving diffeomorphisms isotopic to the identity). Therefore, the problem of studying deformations of Riemann surface structures corresponds to the study of the nature of the moduli space  (and the Teichmüller space ).
+
+1.2. Beltrami differentials and Teichmüller metric
+
+Let’s come back to the definition of  in order to investigate the nature of the quantities . Since we are dealing with Riemann surfaces (and we used local charts to perform calculations),  doesn’t provide a globally defined function on . Instead, by looking at how   transforms under changes of coordinates, one can check that the quantities  can be collected to globally define a tensor  (of type ) via the formula:
+
+
+
+In the literature,  is called a Beltrami differential. Note that  when is an orientation-preserving quasiconformal map. The intimate relationship between quasiconformal maps and Beltrami differentials is revealed by the following profound theorem of L. Ahlfors and L. Bers:
+
+Theorem 1 (Measurable Riemann mapping theorem) Let   be an open subset and consider  verifying . Then, there exists a quasiconformal mapping  such that the Beltrami equation is satisfied in the sense of distributions. Furthermore,  is unique modulo composition with conformal maps: if   is another solution of Beltrami equation above, then there exists an injective conformal map  such that .
+
+A direct consequence of this striking result to the deformation of Riemann surface structures is the following proposition (whose proof is left as an exercise to the reader):
+
+Proposition 2 Let  be a Riemann surface and  a Beltrami differential on . Given an atlas  of , denote by  the function on  defined by 
+
+Then, there is a family of mappings  solving the Beltrami equations 
+
+such that  are homeomorphisms from  to . Moreover,  form an atlas giving a well-defined Riemann surface structure  in the sense that it is independent of the initial choice of the atlas and the choice of   verifying the corresponding Beltrami equations.
+
+In other words, the measurable Riemann mapping theorem of Alhfors and Bers implies that one can use Beltrami differentials to naturally deform Riemann surfaces through quasiconformal mappings. Of course, we can ask to what extend this is a general phenomena: namely, given two Riemann surface structures  and , can we relate them by quasiconformal mappings? The answer to this question is provided by the remarkable theorem of O. Teichmüller:
+
+Theorem 3 (O. Teichmüller) Given two compact Riemann surfaces  and  of genus , there exists a quasiconformal mapping  minimizing the eccentricity coefficient   among all quasiconformal maps . Furthermore, whenever a quasiconformal map  minimizes the eccentricity coefficient, we have that the eccentricity coefficient of  at any point  is constant, i.e.,
+
+except for a finite number of points . Also, quasiconformal mappings minimizing the eccentricity coefficient are unique modulo (pre and post) composition with conformal maps.
+
+In the literature, any such minimizing quasiconformal map is called an extremal map. Using the extremal quasiconformal mappings, we can naturally introduce a distance between two Riemann surface structures  and  by
+
+
+
+where  is an extremal map. The metric  is called Teichmüller metric. The major concern of these notes is the study of the geodesic flow associated to Teichmüller metric on the moduli space of Riemann surfaces. As we advanced in the introduction, it is quite convenient to regard a geodesic flow living on the cotangent bundle of the underlying space. The discussion of the cotangent bundle of  is the subject of the next subsection.
+
+1.3. Quadratic differentials and the cotangent bundle of the moduli space of curves
+
+The results of the previous subsection show that the Teichmüller space is modeled by the space of Beltrami differentials. Recall that Beltrami differentials are measurable tensors  of type   such that . It follows that the tangent bundle to  is modeled by the space of measurable and essentially bounded () tensors of type  (because Beltrami differentials form the unit ball of this Banach space). Hence, the cotangent bundle to  can be identified with the space of integrable quadratic differentials on , i.e., the space of (integrable) tensors   of type  (that is,  is written as  in a local coordinate ). In fact, we can determine the cotangent bundle once one can find an object (a tensor of some type) such that the pairing
+
+
+
+is well-defined; when  is a tensor of type   and  is a tensor of type , we can write  in local coordinates, i.e., we obtain a tensor of type , that is, an area form. Therefore, since  is essentially bounded, we see that the requirement that this pairing makes sense is equivalent to ask that the tensor  of type  is integrable.
+
+Next, let’s see how the geodesic flow associated to the Teichmüller metric looks like after the identification of the cotangent bundle of   with the space  of integrable quadratic differentials. Firstly, we need to investigate more closely the geometry of extremal quasiconformal maps between two Riemann surface structures. To do so, we recall another notable theorem of O. Teichmüller:
+
+Theorem 4 (O. Teichmüller) Given an extremal map , there is an atlas   on  compatible with the underlying complex structure such that
+
+the changes of coordinates are all of the form , outside the neighborhoods of a finite number of points,
+the horizontal (resp., vertical) foliation  (resp., ) is tangent to the major (resp.minor) axis of the infinitesimal ellipses obtained as the images of infinitesimal circles under the derivative , and
+in terms of these coordinates,  expands the horizontal direction by the constant factor of  and  contracts the vertical direction by the constant factor of .
+
+The figure below (extracted from A. Zorich’s survey quoted above) shows concretely the action of an extremal map:
+
+
+Action of an extremal map in appropriate "flat" coordinates
+An atlas  satisfying the property of the first item of Teichmüller theorem above is called a half-translation structure. In this language, Teichmüller’s theorem says that extremal maps  (i.e., deformations of Riemann surface structures) can be easily understood in terms of half-translation structures: it suffices to expand (resp., contract) the corresponding horizontal (resp., vertical) foliation on  by a constant factor equal to  in order to get a horizontal (resp., vertical) foliation of a half-translation structure compatible with the Riemann surface structure of . This provides a simple way to describe the Teichmüller geodesic flow in terms of half-translation structures. Thus, it remains to relate half-translation structures with quadratic differentials to get a pleasant formulation of this geodesic flow. While we could do this job right now, we’ll postpone this discussion to the third section of these notes for two reasons:
+
+Teichmüller geodesic flow is naturally embedded into a  -action (as a consequence of this relationship between half-translation structures and quadratic differentials), so that it is preferable to give a unified treatment of this fact later;
+for pedagogical motivations, once we know that quadratic differentials is the correct object to study, it seems more reasonable to introduce the fine structures of the space  before the dynamics on this space (than the other way around).
+In particular, we’ll proceed as follows: for the remainder of this subsection, we’ll briefly sketch the bijective correspondence between half-translation structures and quadratic differentials; after that, we make some remarks on the Teichmüller metric (and other metric structures on ) and we pass to the next subsection where we work out the particular (but important) case of genus 1 surfaces; then, in the spirit of the two items above, we devote the second section to the fine structures of  and the third section to the dynamics on  .
+
+Given a half-translation structure  on a Riemann surface  , one can easily construct a quadratic differential  on  by pulling back the quadratic differential  on   through : indeed, this procedure leads to a well-defined global quadratic differential on  because we are assuming that the changes of coordinates (outside the neighborhoods of finitely many points) have the form . Conversely, given a quadratic differential  on a Riemann surface , we take an atlas  such that  outside the neighborhoods of finitely many singularities of . Note that the fact that  is obtained by pulling back the quadratic differential  on  means that the associated changes of coordinates  send the quadratic differential  to . Thus, our changes of coordinates outside the neighborhoods of the singularities of   have the form , i.e., is a half-translation structure.
+
+Remark 1 Generally speaking, a quadratic differential on a Riemann surface is either orientable or non-orientable. More precisely, given a quadratic differential , consider the underlying half-translation structure   and define two foliations by and  (these are called the horizontal and vertical foliations associated to ). We say that  is orientable if these foliations are orientable and  is non-orientable otherwise. Alternatively, we say that  is orientable if the changes of coordinates of the underlying half-translation structure   outside the singularities of  have the form . Equivalently,  is orientable if it is the global square of a holomorphic -form, i.e.,  , where  is a holomorphic -form, that is, an Abelian differential. For the sake of simplicity of the exposition, from now on, we’ll deal exclusively with orientable quadratic differentials , or, more precisely, we’ll restrict our attention to Abelian differentials. The reason to doing so is two-fold: firstly, most of our computations below become more easy and clear in the orientable setting, and secondly, usually (but not always) some results about Abelian differentials can be extended to the non-orientable setting by a double cover construction, that is, one consider a (canonical) double cover of the initial Riemann surface equipped with a non-orientable quadratic differential  such that a global square of the lift of  is well-defined. In the sequel, we denote the space of Abelian differentials on a compact surface  of genus  by  or .
+
+We close this subsection with the following comments.
+
+Remark 2 The Teichmüller metric is induced by the family of norms on the cotangent bundle  of Teichmüller space  given by the  norm of quadratic differentials (see Theorem 6.6.5 of J. Hubbard’s book). However, this family of norms doesn’t depend smoothly on the base point in general, so that it doesn’t originate from a Riemannian metric. In fact, this family of norms defines only a Finsler metric, i.e., it is a family of norms depending continuously on the base point.
+
+Remark 3 The Teichmüller space  of a compact surface  of genus  is a nice complex-analytic manifold of complex dimension  and it is homeomorphic to the unit open ball of , while the moduli space  is an orbifold in general. In fact, we are going to face this phenomenon in the next subsection (when we review the particular important case of genus 1 curves).
+
+Remark 4 Another important metric on Teichmüller spaces whose geometrical and dynamical properties are the subject of several recent works is the so-called Weil-Petersson metric. It is the metric coming from the Hermitian inner product  on , where  is the hyperbolic metric of the Riemann surface  and  is the associated area form. A profound result says that Weil-Petersson metric is a Kähler metric, i.e., the -form  given by the imaginary part of the Weil-Petersson metric is closed. Furthermore, a beautiful theorem of S. Wolpert says that this -form admits a simple expression in terms of the Fenchel-Nielsen coordinates on Teichmüller space. Other important facts about the Weil-Petersson geodesic flow (i.e., the geodesic flow associated to ) are:
+
+it is a negatively curved incomplete metric with unbounded sectional curvatures (i.e., the sectional curvatures can approach  and/or  in general), so that the Weil-Petersson geodesic flow is a natural example of singular hyperbolic dynamics;
+S. Wolpert showed that this geodesic flow is defined for all times on a set of full measure of ;
+J. Brock, H. Masur and Y. Minsky showed that this geodesic flow is transitive, its set of periodic orbits is dense and it has infinite topological entropy;
+based on important previous works of S. Wolpert and C. McMullen, K. Burns, H. Masur and A. Wilkinson proved that this geodesic flow is ergodic with respect to Weil-Petersson volume form.
+We refer to the excellent introduction of the paper (and references therein) of K. Burns, H. Masur and A. Wilkinson for a nice account on the Weil-Petersson metric. Ending this remark, we note that the basic difference between the Teichmüller metric and the Weil-Petersson metric is the following: as we already indicated, the Teichmüller metric is related to flat (half-translation) structures, while the Weil-Petersson metric can be better understood in terms of hyperbolic structures.
+
+1.4. An example: Teichmüller and moduli spaces of elliptic curves (torii)
+
+The goal of this subsection is the illustration of the role of the several objects introduced previously in the concrete case of genus 1 surfaces (elliptic curves). Indeed, we’ll see that, in this particular case, one can do “everything” by hand.
+
+We begin by recalling that an elliptic curve, i.e., a Riemann surface of genus 1, is uniformized by the complex plane. In other words, any elliptic curve is biholomorphic to a quotient  where  is a lattice. Given a lattice  generated by two elements  and , that is, , we see that the multiplication by  or  provides a biholomorphism isotopic to the identity between  and , where  is the lattice generated by  and  (the upper-half plane of the complex plane). In fact,  or   here. Next, we observe that any biholomorphism  between  and  can be lifted to an automorphism   of the complex plane . This implies that  has the form  for some . On the other hand, since  is a lift of , we can find   such that
+
+
+
+Expanding these equations using the fact that , we get
+
+
+
+Also, since we’re dealing with invertible objects ( and ), it is not hard to check that (because it is an integer number whose inverse is also an integer). In other words, recalling that  acts on   via
+
+
+
+we see that the torii  and   are biholomorphic if and only if .
+
+In resume, it follows that the Teichmüller space  of elliptic curves is naturally identified with the upper-half plane  and the moduli space  of elliptic curves is naturally identified with . Furthermore, it is possible to show that, under this identification, the Teichmüller metric on  corresponds to the hyperbolic metric (of constant curvature ) on , so that the Teichmüller geodesic flow on   and  are the geodesic flows of the hyperbolic metric on  and . In order to better understand the moduli space , we’ll make the geometry of the quotient  (called modular curve in the literature) more clear by presenting a fundamental domain of the -action on . It is a classical result (see Proposition 3.9.14 of J. Hubbard’s book) that the region  is a fundamental domain of this action in the sense that every -orbit intersects  , but it can intersect the interior  of at most once. In the specific case at hand,  acts on the boundary  of  is  by sending
+
+ to  through the translation  or equivalently the parabolic matrix , and
+ to  through the “inversion”  or equivalently the elliptic (rotation) matrix .
+The picture below (extracted from Wikipedia’s article on the modular group) gives a concrete description of this fundamental domain:
+
+
+
+This explicit description of the genus 1 case allows to clarify the role of the several objects introduced above. From the dynamical point of view, it is more interesting to consider the Teichmüller flow on moduli spaces than Teichmüller spaces: indeed, the Teichmüller flow on Teichmüller space is somewhat boring (for instance, it is not recurrent), while it is very interesting on moduli space (for instance, in the genus 1 case [i.e., the geodesic flow on the modular curve], it exhibits all nice features [recurrence, exponential mixing, ...] of hyperbolic systems [these properties are usually derived from the connection with continued fractions]). However, from the point of nice analytic structures, Teichmüller spaces are better than moduli spaces because Teichmüller spaces are complex-analytic manifolds while moduli spaces are orbifolds: in general, the mapping class group doesn’t act properly discontinuously on Teichmüller space because some Riemann surfaces are “more symmetric” (i.e., they have larger automorphisms group) than others. In fact, we already saw this in the case of genus 1: the modular curve  isn’t smooth near the points  and  because the (square and hexagonal) torii corresponding to these points have larger automorphisms groups when compared with a typical torus .
+
+See the picture below extracted from A. Zorich’s survey:
+
+
+Moduli space of elliptic curves
+In any case, it is natural to consider both spaces from the topological point of view because Teichmüller spaces are simply connected so that they are the universal covers of moduli spaces. Finally, closing this post, we note that our discusssion above also shows that, in the genus 1 case, the mapping class group  is  . That’s all for today folks! See you!

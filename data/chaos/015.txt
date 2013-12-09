@@ -1,0 +1,29 @@
+﻿Suit Against Apple Alleges Privacy Breaches By Apps
+
+Devin Coldewey
+Dec 28, 2010
+Here’s a bit of a sticky situation: Apple is facing a class-action lawsuit alleging that they are allowing apps and ad partners to identify specific users — a breach of Apple’s privacy policy and supposedly of privacy itself.
+
+Apple’s privacy policy touches on this directly, yet leaves plenty of room for movement on their side, which is really what the suit is all about, though Apple is simply the biggest target at the moment. The lawsuit alleges that the “non-personal information” collected by likes of Pandora and The Weather Channel can easily be collated and used to identify individuals.
+
+It’s beyond a doubt that given a few key pieces of information, one could be positively identified; studies have shown (Paul Ohm credits Latanya Sweeney) that given birth date, gender, and ZIP code, one can identify a vast majority of Americans. How many times a day do you think you give out one or more of those things?
+
+I was tempted to take the cynical side here and say “what did you expect?” However, the truth is that despite the changing nature of privacy and what your personal information is worth, there appear to be shenanigans in play here.
+
+It’s not clear to the end user just what is being collected and used, and by whom. To be sure, the privacy policy says:
+
+“We may collect information such as occupation, language, zip code, area code, unique device identifier, location, and the time zone where an Apple product is used so that we can better understand customer behavior and improve our products, services, and advertising.”
+
+But are apps restricted in some or all of the same ways? Is “our advertising” the same as “advertising on our devices”? Does Pandora consider your music choices “personal” or “non-personal,” and how do they make that distinction? How far must something be anonymized before it can be called sufficiently so?
+
+The fact is that a huge amount of potentially personal or private information is being sent out by millions of users who not only have no idea it’s being sent out (which, as far as I’m concerned, is for them to find out at their own pace and peril), but also have no way of controlling it or opting out — other than not using a given service. Some say that’s as much of an opt-out as something like The Weather Channel is required to provide, but that puts a lot of power in the hands of the largest players.
+
+The lawsuit targets Apple currently, but the spirit behind it could easily have been directed at Google or a number of other companies that make a business out of creating individuals out of scraps of information. A compromise will have to be achieved here, but I doubt we’ll have a satisfactory one for a couple years, since all these potentially invasive services are at a very early stage. This lawsuit is a symptom of a growing problem, but I doubt it will result in any serious advances.
+
+Marketing companies themselves may in fact be the correct object for users’ frustration, and policy changes might have to be made specifically concerning them — though that may be putting too fine a point on that kind of legislation, which should be decisive and encompass as much as possible. As it is, these companies are having a grand time floating through the loopholes and gaping omissions of current privacy policy and law.
+
+Update: I should have included the relevant portion from the developers’ agreement:
+
+In addition, the use of any personal information should be limited solely as necessary to provide services or functionality for Your Application (e.g., the use of collected personal information for telemarketing purposes is prohibited (unless expressly consented to by the user)). You and the Application must also take appropriate steps to protect any such location data or personal information from unauthorized disclosure or access.
+
+Similar but more specific to the other stuff. Still leaves a lot to interpretation, though.

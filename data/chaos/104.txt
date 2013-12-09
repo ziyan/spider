@@ -1,0 +1,29 @@
+﻿Intel day 4 March 14, 2010
+Posted by Akhil Mathew in General. 
+Tags: Intel STS
+trackback
+I had the last day of judging today at Intel. The 40 finalists first went to the Capitol to take a bunch of pictures, then to the Einstein statue at the NAS for another one.  We then went in the project exhibition hall.  I met with seven judges, two of who were mathematicians.  In order that future generations of Intelists may face the day of judgment without crushing uncertainty in the morning, I shall briefly describe my experience.
+
+The first two judges I had were mathematics judges.  The first one asked me what I would do if I were giving a talk about my project at a colloquium.  He asked me to explain one of my results, which I initially did incorrectly (having not looked through the older proof in quite some time) but fixed along the way.  He asked me how I had learned algebraic geometry (or, more precisely, that rather small subset I can claim to vaguely understand).   Interestingly, he referred to a specific result in my paper by number (3.10; I didn’t remember what that was for sure)—one of the differences between Intel and ISEF is that the judges read the papers.
+
+The second mathematician asked me to give an overview of my project in detail, so I went into my usual spiel.  She asked me a few questions along the way about how the results were proved.  Finally, she asked where I was going to go to college.  I said that I didn’t know yet.   This was a somewhat longer interview. 
+
+There were others who wanted a brief overview and then left.  A computer scientist who had asked me earlier about certain algorithms and an engineer that asked about the law of atmospheres chatted with me about extensions of those problems. 
+
+The exhibits were then opened to the public.  I met a few RSI 2009 alumni from the D.C. area.  Most people were not mathematicians, which made explaining my project (on representation theory in complex rank) a somewhat difficult task, though there were some that knew, e.g. group theory.  I wasn’t envious of my neighbor Joshua Pfeffer with mobs of people craning to hear about the super Kahler-Ricci flow though owing to me extreme hoarseness despite my consuming two bottles of fluids.  Also, my parents stopped by to say hello and see the other projects.
+
+I’m somewhat tired now, and there’s not that much more I really can say about it without going into technical details.
+
+Comments»
+1.	somebody - March 19, 2010
+Well done Akhil for your prize! This Intel event really is great, the chosen projects are varied and interesting, good stuff.
+
+Reply
+Akhil Mathew - March 20, 2010
+Thanks! It was a lot of fun. And I do realize I stopped the whole liveblogging thing; it just wasn’t feasible because I got back to the hotel pretty late the last couple of days.
+
+Reply
+2.	Vishal Lama - March 24, 2010
+I just read the news myself. Congratulations!
+
+Reply

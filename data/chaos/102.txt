@@ -1,0 +1,43 @@
+﻿Hash functions made easy
+One of the new papers on arXiv this week looks to me like an example of exactly what theoretical algorithms research should aim for: simple algorithms with nontrivial analysis, providing new and practical solutions to an important problem in which previous solutions were unsatisfactory. Unfortunately, the previous solutions were only unsatisfactory in practice, while from the theoretical point of view they were optimal; when this happens, it tends to make papers like this quite difficult to publish in algorithms conferences.
+
+The paper: "The Power of Simple Tabulation Hashing", by Mihai Pătraşcu and Mikkel Thorup, arXiv:1011.5200.
+
+The problem: hashing algorithms are designed to work well with hash functions that are truly random (chosen uniformly from all possible functions that map the keys to be stored in the hash table into indices). But they are actually used with functions that are very nonrandom. How can we design nonrandom or pseudorandom hash functions that can be evaluated efficiently and that cause hashing algorithms to behave as well as they do with random hash functions?
+
+The known solution (Wegman and Carter 1981, etc): find a constant C such that the hash algorithm in question requires C-tuples of hash function values to be independent (each C-tuple of keys should map to each C-tuple of indices with equal probability) but does not require (C+1)-tuples to be independent. Then find a hash function that achieves the desired level of independence. One simple construction for C-wise independent functions is to use a uniformly random polynomial of degree C-1 over a finite field as the hash function. This has the desired theoretical properties: it requires only a small number of random bits (the coefficients of the polynomial) to hash a much larger number of keys, it is C-wise independent, and (when C is constant) it takes O(1) time per hash table value to evaluate. However, because evaluating polynomials involves multiplication, it is slow, especially when C is large, and better alternative solutions work well only for very small values of C.
+
+The "new" solution: break the key into bytes, and let T[i,b] be a table of random numbers indexed by byte position and byte value. Then simply let the hash value h(x) of a key x whose bytes are x0, x1, x2, ... be h(x) = T[0,x0]+T[1,x1]+T[2,x2]+...
+
+Actually, this isn't a new solution at all: it was already described by Wegman and Carter. But it's only 3-independent. The innovation in the new paper is to show that the same hash function can be proven to work well, even for some hash algorithms that require C-independence for C > 3. Specifically:
+
+In chaining (that is, resolving collisions by using linked lists of items that all hash to the same index) the longest chain has length O(log n/log log n) with high probability.
+Linear probing (that is, resolving collisions by placing each item into the nearest empty slot, and performing lookups by searching forwards from the hashed index until finding an empty slot) in a table with n items stored and (1+ε)n slots takes expected time O(1/ε2) per operation.
+Cuckoo hashing (a more complex collision resolution strategy with the advantage that search operations are extremely fast, although updates can be slower) has polynomially small failure probability (but not as good as the linearly small failure probability that one would get with a truly random hash function). This is not good enough to use this function for a dynamic cuckoo hash table, but is good enough for using cuckoo hashing in the static case.
+The tradeoff for using these newly simplified methods is that their analysis becomes a lot more complicated and ad-hoc. But since the analysis isn't the part that has to be implemented, that's probably the right tradeoff to make.
+
+or 
+(Anonymous) 
+2010-11-30 01:20 am UTC (link)
+h(x) = T[0,x0]+T[1,x1]+T[2,x2]+...
+
+Where + means xor...
+(Reply to this) (Thread)
+	
+Re: xor 
+11011110 
+2010-11-30 01:24 am UTC (link)
+You're correct, of course. When I posted this, I considered adding a clarification about that but I don't consider xor and binary integer addition to be very different from each other. Xor is just addition in a different ring (GF(2^32) rather than Z/2^32) and the carries don't make a lot of difference to how pseudorandom the combination is.
+(Reply to this) (Parent) (Thread)
+	
+Re: xor 
+(Anonymous) 
+2010-12-03 08:38 pm UTC (link)
+Actually, for the "plus" version we don't have a proof of minwise independence. It's almost certainly the case that it works, but very messy to think about it formally...
+(Reply to this) (Parent) (Thread)
+	
+Re: xor 
+11011110 
+2010-12-03 08:51 pm UTC (link)
+That's curious. So it doesn't just work automatically for any group. Fortunately, xors are easy to use.
+(Reply to this) (Parent)

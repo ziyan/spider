@@ -1,0 +1,27 @@
+﻿Extra! Extra! Google News redesigned to be more customizable and shareable
+6/30/2010 02:05:00 PM
+There’s an old saying that all news is local. But all news is personal too—we connect with it in different ways depending on our interests, where we live, what we do and a lot of other factors. Today we’re revamping the Google News homepage with several changes designed to make the news that you see more relevant to you. We’re also trying to better highlight interesting stories you didn’t know existed and to make it easier for you to share stories through social networks.
+
+Before:
+
+
+After:
+
+
+The new heart of the homepage is something we call “News for you”: a stream of headlines automatically tailored to your interests. You can help us get it right by using the “Edit personalization” box to specify how much you’re interested in Business, Health, Entertainment, Sports or any subject you want to add (whether it’s the Supreme Court, the World Cup or synthetic biology). You can choose to view the stories by Section view or List view, and reveal more headlines by hovering over the headline with your mouse. We’ll remember your preferences each time you log in. If you don’t want customized Google News, hit “Reset personalization" to clear all personalization preferences. If you haven't previously customized and would prefer not to, simply close the “Edit personalization” box. You can always go back and change it later.
+
+To give you more control over the news that you see, we’re now allowing you to choose which news sources you’d like to see more or less often. You can do so in News Settings. These sources will rank higher or lower for you (but not for anyone else) in Google News search results and story clusters. We’ve also added keyboard shortcuts for easier navigation, like in Gmail or Google Reader. When you’re in Google News, hit the question mark key to pop up a full list of shortcuts.
+
+There are the subjects that interest you and then there’s the major news of the day. To make it easy for you to find the big stories like Hurricane Alex, we’re adding links to topics that many outlets are covering. You’ll find these topics in the Top Stories section on the left side of the homepage as well as in linked keywords above headlines. Clicking on a topic link takes you to a list of related coverage that you can add to your news stream. You can change your preferences any time in “Edit personalization.”
+
+
+We’re also more prominently displaying the Spotlight section, which features stories of more lasting interest than breaking news and has been one of our most popular sections since we introduced it last fall. And then there’s local news; we’re now highlighting weather and headlines about your city or neighborhood in their own section, which you can edit with whichever location you want to follow.
+
+Finally, you can now easily share story clusters with other people via Buzz, Reader, Facebook or Twitter. Just select the drop-down menu marked by an arrow on the top-right of each story cluster. In the drop-down, you can also choose to see more or less of the first news source.
+
+
+The redesigned Google News homepage is rolling out today in the English-language edition in the U.S., and we plan to expand it to all editions in the coming months. We’re making the ability to choose which sources you’ll see more or less often available in all English-language editions worldwide and plan to expand it soon. For more information about these changes, check out the video below or visit our Help Center.
+
+
+
+Posted by Kevin Stolt, Software Engineer

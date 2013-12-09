@@ -1,0 +1,60 @@
+﻿CIDR 2009 TRIP REPORT (POSTED BY STEVEN WHANG)
+This collaborative blog post was written by InfoLab members who attended the recent CIDR conference held Jan. 4-7, 2009 at the Asilomar Conference Grounds. The viewpoints in the blog do not necessarily represent the entire InfoLab. 
+
+Instead of trying to cover all the interesting work presented, we focus on major trends centered on the two keynotes and the Best Paper Award. These three talks covered important research directions for the database community: user interfaces, power-sensitive systems, and new hardware for databases. We then briefly mention works by InfoLab members/alums.
+
+1. User Interfaces
+
+The first keynote by Jeff Heer demonstrated how people can easily collaborate on data analysis. As an example, we were shown visualizations of United States census data over the last 150 years using sense.us, a prototype web application for social visual data analysis. Users can analyze the data (e.g., adding an annotation that the sharp decrease in the number of people with military jobs in the late 1920's was due to the Great Depression) and easily share their results with others (e.g., posting a URL of their view). Hence, the key contribution of sense.us is supporting asynchronous collaboration for visualization. 
+
+
+
+The demonstration clearly showed the importance of a good user interface for database systems. As DBMSs and query languages like SQL are used by a broader audience of programmers, there is a need to provide easier tools for end-user data management and manipulation. While sense.us is already an excellent tool for collaboration, it still remains to be seen how database systems can adopt the underlying science of human interaction. Several issues were raised by the audience including managing groups of collaborators, preserving privacy, and exporting visualizations to other systems. 
+
+Two other works in the conference also focused on user interfaces. A presentation by Yannis Ioannidis discussed the challenges of providing a natural language user interface for databases (e.g., a database should give back an answer like "The director's name is Woody Allen" instead of a table). A presentation by Zachary Ives demonstrated CopyCat, a tool that provides an interface for integrating data without having to design a schema; the CopyCat system "learns" the schema based on copies and pastes made by the user.
+
+
+2. Power-sensitive Systems
+
+The second keynote by James Hamilton proposed a cost and power efficient system for internet-scale services (CEMS project). The first observation made was that server efficiency is key to improving the overall data center power efficiency (nearly 60% of the power delivered to a high-scale data center is delivered to servers). Next, servers were built using low-cost, low-power client or embedded components. The resulting CEMS prototype outperforms a high-scale commercial internet service by 379% in terms of performance/joule. Hence, the prototype is a significant contribution to the recent trend of power-sensitive systems. 
+
+
+
+In addition to the keynote on the CEMS project, which improved hardware for better power efficiency, there was discussion on the software side of improving power efficiency. Mehul Shah's presentation argued that data management software should also be optimized for power efficiency and suggested promising areas in database systems that could improve. Stavros Harizopoulos's "Gong Show" presentation went a step further and suggested that performance should be thrown away in favor of power efficiency! A presentation by Willis Lang proposed two specific techniques that trade power efficiency for performance. 
+
+
+3. New Hardware for Databases
+
+The Best Paper Award was given to "uFLIP: Understanding Flash IO Patterns" (Luc Bouganim et al.), which proposed a benchmark for flash devices. The motivation is that commercially available flash devices do not behave as the flash chips they contain due to the additional layer of block mapping, wear-leveling, and error correction. Consequently, a benchmark is necessary to understand the complex behavior of flash devices (e.g., block writes are not uniform in time) that can help algorithm and system design. The authors compared various flash devices using their uFLIP benchmark and produced helpful guidelines for algorithm development (e.g., random writes should be limited to a focused area of 4-16MB in order to perform nearly as well as sequential writes). 
+
+A natural question to ask is whether we can use an interface for flash memory that allows databases to directly access flash cards (instead of relying on black-box flash devices). In the case of disks, database systems usually access the raw disk (instead of accessing the disk through a file system) and disable the operating system's data caching in order to handle caching themselves. Moreover, database systems sometimes even have full control over processor scheduling and the mapping of page tables where both tasks are usually left to the operating system. We suspect that directly accessing flash cards is currently a difficult task compared to directly accessing disks. 
+
+Another advance in new hardware is using multi-core processors (or chip-level multiprocessors, CMP). Ippodratis Pandis's Gong Show presentation provided various solutions for scaling databases on CMPs.
+
+
+4. Works by InfoLab Members/Alums
+
+InfoLab members Georgia Koutrika and Benjamin Bercovitz presented CourseRank, a popular course evaluation and planning social system that is used by over 9,000 students out of 14,000 at Stanford (most undergrads use CourseRank). Based on their experience with CourseRank, Georgia and Benjamin proposed various research challenges for social sites such as encouraging information discovery (using tag clouds) and enabling flexible recommendations in a declarative fashion. 
+
+InfoLab alum Chris Olston presented a general two-phase approach for interactive querying over web-scale data. The idea is to first supply a query template in advance to the system, which can then prepare auxiliary structures (e.g., materialized views and indexes) to facilitate real-time query responses later on. As a result, interactive querying is possible for a general class of queries and data at a very large scale. 
+
+InfoLab alum Shivnath Babu presented an integrated diagnostic tool for database and SAN administrators. Using an abstraction that ties together the execution path of queries and the SAN, it is possible to diagnose query slowdowns caused by combinations of events across the database and the SAN. 
+
+InfoLab alum Yannis Papakonstantinou presented app2you, a web application creator that lets developers create web applications without doing database coding or designing. The app2you platform presents a tradeoff point between having a wide application scope (e.g., by building applications using Java, Ajax, and SQL) and providing ease of specification (e.g., by simply copying an application template).
+
+The following InfoLab members/alums co-authored papers, but did not give talks:
+Anish Das Sarma (member): "Sailing the Information Ocean with Awareness of Currents: Discovery and Application of Source Dependence"
+Jun Yang (alum): "RIOT: I/O-Efficient Numerical Computing without SQL"
+Ramana Yerneni (alum): "A Scalable Data Platform for a Large Number of Small Applications"
+Janet Wiener (alum): "Visualizing the Robustness of Query Execution"
+Marianne Winslett (alum): "Remembrance: The Unbearable Sentience of Being Digital"
+Jeffrey Naughton (alum): "The Case for a Structured Approach to Managing Unstructured Data"
+
+Check out other blog posts on CIDR 2009 by Joe Hellerstein, Pat Helland, and Leigh Dodds.
+Labels: 2009, CIDR, infolab, trip report
+
+ RAGIB HASAN | JANUARY 31, 2009 12:22 PM |
+Nice job summarizing the main aspects. It was great to meet with you guys.
+
+ STEVEN | FEBRUARY 1, 2009 5:35 PM |
+Hi Ragib, it was great to see you too!

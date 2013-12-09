@@ -1,0 +1,37 @@
+﻿CLUSTERING THE TAGGED WEB (POSTED BY DANIEL RAMAGE)
+I'm looking forward to presenting Clustering the Tagged Web (mirror) at WSDM 2009. The paper is joint work with Paul Heymann, Hector Garcia-Molina, and Christopher D. Manning. We examine how and when social web bookmarks like those found on del.icio.us can be used to improve unsupervised flat clustering algorithms on a web corpus. The one-line summary is that tags should be incorporated as a parallel information channel to page text and to anchor text to gain maximum benefit on broad clustering tasks.
+
+A social web bookmark is like a regular web bookmark of a URL by some web user, except that the social web bookmark is posted to a centralized web site with a set of associated tags. A tag is (usually) a single-word annotation that describes the URL being bookmarked. Earlier this year, del.icio.us, a popular social bookmarking site, had a page up that defined a tag as:
+"A tag is simply a word you use to describe a bookmark. Unlike folders, you make up tags when you need them and you can use as many as you like. The result is a better way to organize your bookmarks and a great way to discover interesting things on the Web." -- del.icio.us
+
+In the screenshot above, the web page of Strunk and White's classic book on writing, The Elements of Style, has been tagged with "writing," "reference," "english," and "grammar" by del.icio.us users.
+
+Why tags? Tags are a rich source of information about a large subset of the web's most relevant pages. We believe they are a particularly useful source of information for automatic web page clustering because, by and large, each is a human-provided annotation of page content. Additionally, new, high quality documents on the web are often tagged before they establish much of a footprint in the web's link graph [Can Social Bookmarking Improve Web Search?]. So making good use of tags promises impact when link structure and anchor text are still spotty.
+
+Given a large set of items (web pages in our case), the goal of a flat clustering algorithm with hard assignments is to coherently group together those items into some smaller number of clusters.
+
+Why clustering? Automatic clusterings of web pages into topical groups can impact the quality of information retrieval on the tagged web in several ways, including: promoting diversity of search results, enabling improved cluster-driven search interfaces like scatter/gather, and improving upon language-model based retrieval algorithms, among others. Plus it's a fairly well understood task, but one in which a new data source like tags really should (and indeed does) have a substantial impact. Our goal in the paper is to show how that impact can best be achieved.
+
+Some of the paper's main findings are:
+Staying within the standard vector space model (VSM), the K-means clustering algorithm can be modified to make effective use of tags as well as page text. We found that weighting all word dimensions in aggregate equally to (or with some constant multiple of) all the tag dimensions resulted in the best performance. In other words, if you normalize tag dimensions and word dimensions independently, then your clustering model improves. This insight may well apply to other tasks in the VSM.
+
+Our experience incorporating tagging in the VSM prompted us to consider other clustering approaches with the potential to more directly model the difference between tags and page text. One such approach is a new hidden-variable clustering model, Multi-Multinomial Latent Dirichlet Allocation (MM-LDA), similar to latent Dirichlet allocation (LDA). Like LDA, MM-LDA assumes that every document is made up of a (weighted) mixture of topics, and that each word comes from the word distribution of one of those topics. MM-LDA also assumes that each tag is analogously chosen from a per-topic tag distribution. (The figure above shows MM-LDA's plate diagram for those who are familiar with Bayesian graphical models and can be safely ignored by those who aren't.) The upshot is that MM-LDA acts as a high performing clustering algorithm that makes even better use of tags and page text by treating each as a set of observations linked only by a shared topic distribution. It's fairly fast and generally outperforms K-means.
+
+Anchor text - the text surrounding links to a target web page - is another kind of web-user provided page annotation, but it acts quite differently than tags, at least from the perspective of web page clustering. Treating anchor text, page text, and tags as independent information channels is again the best way to combine these three types of signal. We found that including tags improves performance even when anchor text was provided to the clustering algorithm. However, including anchor text as an additional source of annotations doesn't really improve on just clustering with words and tags.
+
+If you're trying to infer a relatively small number of clusters in a very diverse set of documents, it makes sense to utilize page text and tags jointly as described above. But if you're looking to cluster a set of pages that are already a specific subset (like pages about Programming Languages), tags often directly encode a sort of cluster membership (like "java" and "python"). So when tags are at the same level of specificity as the clusters you're trying to infer and you have enough tags to avoid sparsity issues, you might do better clustering on tags alone, ignoring page text.
+We invite you to read the paper and I hope to see some of you in Barcelona!
+Labels: clustering, daniel, ramage, socialbookmarking, tagging, wsdm
+
+2 COMMENTS
+ BOB CARPENTER | DECEMBER 8, 2008 10:00 AM |
+What you're calling "MM-LDA" is what Newman, Chemudugunta and Smyth in their KDD '06 paper "Statistical Entity-Topic Models" called "CI-LDA". The "CI" was for "conditionally independent", because the two views (tags and words here; entities and words in their paper) are being generated independently given the document's topic distribution.
+
+They found the CI-LDA model tended to focus some of the K topics on entities and some on words, then went on to develop several more latent topic models to account for the correlations. They also cite a bunch of previous work on related author-topic models. 
+
+There's also a bunch of somewhat related work on co-clustering (or bi-clustering) in two dimensions simultaneously, which is popular in genomic microarray analysis. It's aimed at clustering rows and columns of a co-occurrence matrix to get a single clustering to explain both.
+
+Part of our NIH SBIR involves using similar latent topic models to deal with text along with gene mentions (entities) plus MeSH terms (tags) to cluster query-specific subsets of MEDLINE. I'll be adding some more collapsed Gibbs samplers to LingPipe over the next nine months to deal with a range of these entity-topic-tag models.
+
+ DRAMAGE | DECEMBER 30, 2008 3:16 PM |
+Thanks for the reference to Newman et al. Indeed, that work and this one trace their lineage to Blei and Jordan's SIGIR '03 paper "Modeling annotated data," which extends LDA with the same trick of generating more than one set of observations from the per-document multinomial (in that case, the extra observations were image regions). I look forward to checking out the additions to LingPipe.

@@ -1,0 +1,28 @@
+﻿Skype’s Christmas Present: A Patent Infringement Lawsuit
+
+Robin Wauters
+Dec 27, 2010
+
+
+Poor Skype. A mere day after its key consumer service suffered a major outage, affecting tens of millions of users for hours on end, a patent infringement lawsuit against the company was filed in the United States. Plaintiff is the obscure Gradient Enterprises, a non-practicing entity (also lovingly known as an “obnoxious patent troll” in some parts).
+
+The patent-in-suit is U.S. patent no. 7,669,207, entitled “METHOD FOR DETECTING, REPORTING AND RESPONDING TO NETWORK NODE-LEVEL EVENTS AND A SYSTEM THEREOF”.
+
+The patent application was filed in July 2004 and issued in February of this year.
+
+The description summary reads:
+
+A system for detecting, reporting and responding to network node-level occurrences on a network-wide level includes one or more first mobile agents, each of the one or more first mobile agents is hosted by one of a plurality of nodes in the network.
+
+An event detection system communicates network event information associated with an event detected at one or more of the nodes in the network to the one or more first mobile agents, and a reporting system disseminates from the one or more first mobile agents information describing the detected event to one or more other nodes.
+
+Basically, Gradient claims to have invented network monitoring and security software that works in a decentralized way, with at its core a system capable of distributing control of a network throughout its nodes via mobile agents.
+
+If that sounds vaguely familiar, you may have read this blog post, which attempts to explain what caused Skype’s downtime – from an outsider’s perspective, that is.
+
+Perhaps the downtime, and the closer look at Skype’s “supernode network” was exactly what triggered Gradient Enterprises to file a patent infringement lawsuit against Skype.
+
+Like moths to a flame, so to speak.
+
+Update: the lawsuit was actually filed on December 21, so my speculating that the timing had anything to do with the outage was probably off the mark.
+

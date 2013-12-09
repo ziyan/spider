@@ -1,0 +1,88 @@
+﻿Mi Casa Verde Vera review: Home automation, simplified
+By Thomas Ricker  posted Dec 17th 2010 11:49AM
+Review
+
+
+Home automation and jetpacks are surprisingly similar in that both of these space-age technologies have, for decades, been over promised and under delivered. Who here wouldn't love to tap a single button when exiting the house to activate the alarm, shut off the lights in the kids' rooms, lower the thermostat, and lock all the doors? That's the convenience, the promise left unfilled as we say goodbye to 2010. We live on a planet that still requires humans to manually close the blinds at the end of the day and flip on a light switch some 90 years since the commercial introduction of the incandescent light bulb. How primitive. And it's downright criminal in ecological and financial terms that we still can't easily monitor and control the power usage in our homes let alone the trickle of wattage vampired off the individual electrical sockets feeding our greedy horde of household electronics.
+
+How is this possible given all the advances we've seen? Wireless and sensor technology has advanced far beyond what's required to automate a home. Just look at smartphones, for example, that now ship standard with 3G (and even 4G) data, 802.11n WiFi, Bluetooth, and GPS radios in addition to sensors for motion, temperature, moisture, proximity, and even direction. We don't have the answer to home automation's dilemma -- to dig into that topic we'd require a few thousand more words, at least. All we know for sure is that the biggie consumer electronics companies are reluctant to sort it out. As such, dozens of small companies are left to deal with a mess created by an industry incapable of coalescing around a set of interoperable home automation standards. 
+
+One such company is Mi Casa Verde. A tiny startup that launched its linux-based Vera home automation server back in 2008 with a renewed promise to make home automation setup and control as easy for novices as it is robust for techies and enthusiasts. We've been using a recently launched second generation Vera 2 for a few weeks now. Sure, we haven't quite reached one-button nirvana, but as home automation newbies we're proud to say that we've automated a few helpful in-home lighting situations while skirting the clutches of the Dark Angel sequestered within our fuse box. Better yet, we can control it all from an iPhone -- including the Christmas tree. Click through to see how we did it.
+Mi Casa Verde Vera Review
+
+
+
+
+
+
+
+Hardware
+
+The Mi Casa Verde experience is built around Vera, an unassuming linux-based WiFi router built upon OpenWRT with some custom and commercially licensed third-party software. In other words, it's a dream platform for home automation enthusiasts and tinkerers possessed with enough coding knowledge to exploit the platform's open APIs. The second generation Vera is also great for first time home automators. It features a built-in Sigma Designs Z-Wave module which does away with the sometimes flakey USB Z-Wave dongle required by the first generation Vera. Fortunately, Mi Casa Verde bundles an external battery pack in the box so that you can move Vera into range of fixed Z-Wave devices like built-in wall switches wired into your home's circuitry to create the required association (like pairing, for Bluetooth). The Broadcom BCM5354-based box features a few USB ports for expansion and plugs into your home network via a single Ethernet port. It can be also used in a standalone mode to a manage all your devices. 
+
+Of course, Z-Wave isn't the only home automation "standard." Far from it. X-10 has been around forever while relatively new options like ZigBee and Insteon prove yet again that the best part about standards is that there are so many to choose from. Vera really shines in its ability to handle a wide swath of home automation protocols. So in addition to Z-Wave, Vera supports Insteon and X10 devices. Vera also works with TED, AEON, and RCS energy meters giving you a real-time view of your energy consumption. As if that wasn't enough, Vera supports control of any UPnP device and many serial devices like infrared controllers. As first time home automators, we wanted to keep things simple so we only tested Vera with a handful of Z-Wave devices including two light dimmers that wire into the home wiring like conventional wall switches, a battery-powered three-in-one sensor (motion, temperature, and illumination), and two plug-in socket switches allowing you to automate the power delivery to any household device with a plug.
+
+How It Works
+
+By now you might be wondering what Z-Wave is, exactly. Simply put, Z-Wave is a low-power RF mesh networking protocol designed for the purposes of home automation. As such, it communicates between nodes wirelessly (not over the power lines like your father's X-10 home automation gear) with each Z-Wave device capable of acting as a repeater to carry commands beyond the 100 foot maximum line-of-site transmission range. Z-Wave is optimized for low-bandwidth commands like on / off and raise / lower as well as light duty environmental monitoring for temperature, light, and motion, for example. All these attributes combined make it ideal for embedding inside of household devices like light switches, blind controllers, power sockets, thermostats, alarm systems, door locks and even some home theater remote controls and entertainment systems. 
+
+The Z-Wave Alliance, established in 2005, claims more than 160 manufacturing partners -- most of whom you've never heard of -- creating a variety of "interoperable" devices built around Zensys (owned by Sigma Designs) chipsets. Unfortunately, Z-Wave devices operate on different frequencies depending upon the region sold. So for example, European Z-Wave devices operate at 868.42MHz making them incompatible with their US equivalents operating at 908.42MHz -- a very real pitfall that can easily trip you up when shopping for the best deal on Z-Wave devices on-line. Even then, it's best to choose tried and true combinations of Z-Wave devices to ensure interoperability. It's also worth noting that you won't find any powerhouse consumer names selling iSwitches or Nexus Sensors at your local big box retail centers. Home automation is still in the hands of specialty manufacturers and on-line shops unless you're willing to throw around some serious cash for a propriety, professionally installed solution. 
+
+Each device has to be "paired" or "included" in the Z-Wave network before it can be controlled. Adding devices to Mi Casa Verde's Vera 2 is pretty straight forward. A browser-based wizard can be used to add portable Z-Wave devices like battery-powered remote controls, sensors, and switches -- devices that you can hold within three feet of the Vera 2 for low-power inclusion. Things get a bit more complicated when adding fixed Z-Wave modules like built-in wall dimmers and switches wired into your home's circuitry. Fortunately, Mi Casa Verde includes a small rechargeable battery pack that allows you to power the Vera 2 long enough to add modules in different rooms of the house. In this mode, you must tap the Z-Wave button on the back of the Vera to put it into "include" mode causing the Z-Wave light to flash slowly on the front panel. You can then add each Z-Wave module by triple-tapping (usually, this can vary by device) the appropriate button on the device. Tap Vera's Z-Wave button again when done to save the devices added. You can then reconnect Vera's power and Ethernet cables and begin configuring the newly discovered devices.
+Mi Casa Verde Vera dashboard
+
+
+
+
+
+
+
+Now to the real magic: "scenes." Scenes are a collection of commands and settings for one or more devices that can be triggered by an "event" (a motion sensor is tripped) or "timer" (it's 8:00am on Friday). Again, Vera has you covered here through its useful setup wizard that walks you right into scene creation after you add new devices to your network. Of course, you can also create more advanced scenes on the fly in Vera's dashboard just as soon as you feel comfortable with the concept. As an added bonus, Vera knows about the current weather conditions (after installing the Google Weather developer plugin) and exactly when the sun rises and sets for your location -- that means you can trigger scenes (turn on the porch light 30 minutes before sunset or whenever it's raining) based on these dynamic variables. 
+
+Our setup
+
+In addition to the $249 Vera 2 controller running version 1.1.1047 (UI4) of the MiOS firmware, our Z-Wave test network consists of the following devices scattered throughout the house in the master suite, kitchen, and hallway:
+2x Interact wall dimmer inserts (€61 each)
+2x Interact Plugin Switches (€49.50 each)
+1x EZMotion 3-in-1 multisensor (€100)
+In our testing, things would get weird when we started moving Z-Wave modules like the plug-in switches (that act as repeaters) from room to room. At times, moving the plug-in switches caused other modules to simply disappear from the network or to stop working as configured. To be clear, this has more to do with the Z-Wave discovery protocol than it does Vera. Nevertheless, Vera offers two ways to help you deal with it. First, Vera can "heal" the Z-Wave network, going back through and mapping the wireless associations between each device on the mesh network. This only takes ten minutes or so on our small Z-Wave network but can take hours for particularly complex setups with many devices scattered over a large area. If the heal doesn't work, you can also reset a Z-Wave module back to its virgin state when things get really bad... like dealing with our 3-in-1 sensor.
+
+
+The 3-in-1 EZMotion sensor we've been testing epitomizes the current state of home automation. When it works it's fantastic, but getting it to work is an exercise of extreme patience and sufferance. Note that this isn't criticism of Mi Casa Verde as a company or of Vera as a product -- it's a critique of Z-Wave and the fragmented state of home automation. We nearly went mad trying to get the sensor included and then functioning on our Z-Wave network. After much searching, we finally found a website that explained the adjustable parameters of the sensor. Unfortunately, it didn't explain how to change these on Vera. A forum search on the Mi Casa Verde site eventually unearthed a few threads describing the high-level steps required to include the sensor on Vera and to trigger a Z-Wave light switch when the sensor detected motion. Another thread pointed to a wiki entry that described how to specifically adjust the sensor's default "on time" to 5 minutes instead of the 20 minute default. Yet another forum post described how it was best to configure separate events for on and off in order for the "scene" to operate correctly. As complete Z-Wave newbies, this took us hours to finally get right. But now that it's working, we have to smile everytime the sensor detects our approach and then automatically switches on the hall lights (and then switches them off again after 5 minutes of inactivity). We're living the dream, folks.
+
+
+The rest of our network functions on timers controlled by Vera. The very first scene we created causes the kitchen lights to turn on every Monday through Friday as the family rises and then off again 10 minutes after the kids are shuffled out of the door for school. An additional software timer is setup to turn on the outside Christmas lights every day at dusk and then off again at exactly 11:00pm. Even our Christmas tree is configured to turn on and off at specific times throughout the day in order to maximize holiday cheer. Better yet, the entire setup can be controlled via an iPhone app or any phone with a browser. 
+
+
+
+One thing that makes Vera so compelling to home automators is the free web service that gives you full, "secure" access to Vera from any internet connected device with a browser. It'll even send you email notifications when something happens, like, say, a door is unlocked or a motion sensor is tripped -- it just depends how you configure it. iPhone and iPod touch owners can download a free version of the iVera app to control two lights and two scenes. A whopping $29.99 update gives you full control over all of your devices. There's also the more comprehensive (and complex) SQ Remote app that expands control beyond Vera to any MiOS device (we're told that more are coming from OEMs) and to home entertainment systems via an IR blaster (sold separately). Again, it starts with a limited free version that can be expanded and highly customized for a $29.99 in app purchase. Otherwise, you can always access the Flash-free Vera dashboard from most any smartphone browser or install the custom-built WAP or Smartphone Web Interface Vera plugins from the integrated MiOS Marketplace -- a small app store of sorts. There you'll find interfaces for both generic and Panasonic IP surveillance cameras and Somfy blind controllers and alarm panels. There's even a Squeezebox plugin that gives you the ability to control and monitor your music as long as you're willing to live with the beta classification. But we digress. After testing all of the iPhone access methods we decided to bite the bullet and purchase the $29.99 iVera option as it was the easiest option to setup and use.
+iVera home automation app
+
+
+
+
+
+
+Finally, after automating only a very small portion of our home it's clear that an IT background is only half the battle when it comes to automating it. It also helps to have some plumbing, HVAC, and electrical wiring skills in order to stay safe and not destroy the house or the humanity contained within. We've all but given up on attempting to replace a pair of switches wired into a three-way and we're not about to tackle a soldering job just to fit a modern Danfoss RA plus Z-Wave thermostat to an old bathroom radiator. Some jobs are best left to the pros, assuming you can even find one locally experienced with these niche home automation devices.
+
+Wrap up
+
+We've been intermittently tinkering with two generations of Vera servers and Z-Wave home automation devices for about a year now. To say it's been frustrating would be an understatement. In our opinion, Mi Casa Verde was a bit too ambitious with its first generation product. Instead of starting simple, the company shot from the gate with an overly complex product that was just too intimidating to this first time home automator. But the introduction of the Vera 2 hardware with its fourth generation user interface and second generation scripting engine allows us to whole heartedly recommend Vera to home automation noobs like ourselves. Is it perfect? No. But Mi Casa Verde delivers a solid product that does well to hold back the advanced features until the user feels ready. Miraculously, it also brings some sense of order to the chaotic state of DIY home automation. And honestly, we've only scratched the surface of what Vera and the MiOS engine are capable of. 
+
+We also think that Mi Casa Verde's small, yet enthusiastic user community deserves recognition for the value it adds to the Vera experience. The forums are full of active users that include Mi Casa Verde's own employees and affiliates who are more than happy to offer advice or even lend a hand with some advanced scripting for those who are ready for it. And it won't be too long before you shed those tentative ways with Vera 2. True, those first steps will be frustrating and retrofitting the entire house with Z-Wave devices will be costly. So pick a few small projects and build over time. Just don't give up. Seeing the delight in your child's eyes the first time you switch on the christmas tree lights from your cellphone will make it all worthwhile. And safely switching them off again while out of the house will go a long way towards justifying the cost to a reticent spouse. Besides, this hobby is way cheaper than a jetpack.
+
+Special thanks to zwave4u.com for the Z-Wave test gear.
+42
+
+Leave A Comment
+
+
+aeon, BCM5354, broadcom, broadcom BCM5354, BroadcomBcm5354, home automation, HomeAutomation, insteon, mi casa verde, MiCasaVerde, rcs, review, Sigma Designs, SigmaDesigns, ted, upnp, vera, video, x-10, x10, z wave, z-wave, Zensys, ZWave
+
+
+Fujitsu hybrid energy harvester makes power from light or heat, gets us closer to human...20 days ago
+Proverbial Wallets make your metaphysical money a little more tangible20 days ago
+ReWalk exoskeleton on sale in January, for a price you can’t afford23 days ago
+From Our Partners
+Super-Charge Your Wi-Fi: Upgrading to N14 days ago
+Best Boxes for Streaming Internet Video (And More) to Your TV27 days ago

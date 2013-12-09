@@ -1,0 +1,23 @@
+﻿Lookout Identifies Advanced Android Trojan (But You’re Probably Safe)
+
+Jason Kincaid
+14 hours ago
+The future of computing is mobile, and, unfortunately, the future of malware will probably lie there too. Well-funded mobile security startup Lookout has just posted a blog entry detailing what it calls “the most sophisticated Android malware to date”: a Trojan that’s being “grafted” onto legitimate applications. Fortunately, the odds of you being affected are quite low.
+
+The Trojan in question has only been seen on third-party Android app marketplaces in China, which aren’t accessible without turning on “Unknown Sources” from Android’s settings menu (the vast majority of users only download applications via the official Android Market). And the infected applications request access to far more of the user’s data than they normally would (users have to approve these requests before installing an app), which can tip users off that something is amiss.
+
+But, if you’re unlucky enough to have cleared those hurdles, here are some of the details on what Lookout believes the Trojan is capable of:
+
+Though we have seen Geinimi communicate with a live server and transmit device data, we have yet to observe a fully operational control server sending commands back to the Trojan. Our analysis of Geinimi’s code is ongoing but we have evidence of the following capabilities:
+
+Send location coordinates (fine location)
+Send device identifiers (IMEI and IMSI)
+Download and prompt the user to install an app
+Prompt the user to uninstall an app
+Enumerate and send a list of installed apps to the server
+
+Lookout writes that this is more sophisticated than previously discovered malware because it attempts to hide what it’s doing through encryption and bytecode obfuscation. It also says that this is the first Android malware that could potentially be used to create a botnet, though it hasn’t seen any instances of a server actually communicating with the Trojan yet:
+
+Geinimi is also the first Android malware in the wild that displays botnet-like capabilities. Once the malware is installed on a user’s phone, it has the potential to receive commands from a remote server that allow the owner of that server to control the phone.
+
+One other thing to note: Lookout is in the business of mobile phone security — it offers applications for Android, BlackBerry, and Windows mobile — so it obviously stands to benefit from exposing these exploits.

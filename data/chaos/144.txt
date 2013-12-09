@@ -1,0 +1,35 @@
+﻿Philosophy of the GNU Project
+
+Our development of the GNU free software operating system is motivated by the philosophy of the free software movement. This page provides an introduction to that philosophy, links to the latest articles we have on the subject, and links to further resources.
+
+Latest Articles
+
+Hot off the presses, here are the latest published articles on free software and the GNU project.
+
+When a Company Asks For Your Copyright
+GNU & The Free Software Foundation - Engineering Tech Talk at Google
+Digital economy bill: One clown giveth and the other clown taketh away
+Who Does That Server Really Serve?
+Why I Will Not Sign the Public Domain Manifesto
+On Selling Exceptions to the GNU GPL
+About Free Software
+
+Free software is a matter of freedom: people should be free to use software in all the ways that are socially useful. Software differs from material objects—such as chairs, sandwiches, and gasoline—in that it can be copied and changed much more easily. These possibilities make software as useful as it is; we believe software users should be able to make use of them.
+
+What is Free Software?
+Why Software Should Not Have Owners
+Copyleft: Pragmatic Idealism
+Why Free Software Needs Free Documentation
+Selling Free Software is OK!
+Motives For Writing Free Software
+The Right to Read: A Dystopian Short Story by Richard Stallman
+Why “Open Source” misses the point of Free Software
+Links to more philosophy articles
+
+We have many more articles than can fit on a single page. You can find them on the pages linked here.
+
+Essays and articles. A series of articles describing the philosophy of the free software movement, which is the motivation for our development of the free software operating system GNU.
+Speeches and interviews. Links to interviews and Transcriptions of speeches about free software and the GNU project.
+History of GNU, and discussion of GNU and Linux.
+Third party ideas. These articles give other people's philosophical opinions in support of free software, or related issues, and don't speak for the GNU project—but we more or less agree with them.
+We also keep a list of Organizations that Work for Freedom in Computer Development and Electronic Communications.

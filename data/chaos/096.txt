@@ -1,0 +1,139 @@
+﻿The Free-Form Linguistics Revolution in Mathematica
+November 15, 2010
+Stephen Wolfram
+With the release of Mathematica 8 today, the single most dramatic change is that you don’t have to communicate with Mathematica in the Mathematica language any more: you can just use free-form English instead.
+Wolfram|Alpha has pioneered the concept of specifying computations with free-form linguistic input. And with Mathematica 8, the powerful methods of Wolfram|Alpha become available within the Mathematica environment.
+All one has to do is to type an = at the beginning of a line. Then what follows is taken as free-form linguistic input.
+
+You don’t have to use precise Mathematica syntax. You can type things in just the way you think about them, in free-form English. But what happens is that Mathematica calls on Wolfram|Alpha to try to interpret your input, and turn it into precise Mathematica code.
+In their native forms, Wolfram|Alpha and Mathematica operate in very different ways. Wolfram|Alpha takes free-form linguistic input, and lets you make quick, single, queries. Mathematica requires you to use its precise formal language, but lets you build up programs and computations of arbitrary complexity.
+The exciting thing that’s now happened with Mathematica 8 is that these very different approaches have been brought together—to produce the best of both worlds. One has the freedom and breadth of expression of Wolfram|Alpha. Yet one can build things up with the precision and structure of Mathematica.
+For Mathematica beginners, free-form linguistic input has an obvious and dramatic effect. You can just start typing, however you think about things, and Mathematica should automatically be able to understand you.
+By watching what it does, you’ll probably pretty soon get the hang of Mathematica’s own native language. And sometimes you’ll choose to enter your input in that; sometimes you’ll want to just use free-form linguistics.
+I consider myself a very expert user of Mathematica, and I know the Mathematica language very well. But I’ve been surprised to see that in all sorts of cases, I’m choosing to use free-form linguistic input.
+Sometimes it’s because I can’t quite remember how some particular Mathematica function works in some area that I don’t use very often. Sometimes it’s to pick up the standard Mathematica name of some data object, like a city or a country or a chemical.
+
+And sometimes it’s just faster to enter sloppy free-form linguistics for something I want to do, and let Wolfram|Alpha figure out a reasonable choice of details to fill in.
+At first, I thought one might mostly just use free-form linguistics for one-shot computations: a little like just having access to the Wolfram|Alpha website from inside Mathematica.
+But what I quickly realized (after a very long and difficult process of designing the underlying functionality, I might add) is that that’s not correct. Instead, I routinely found myself using free-form linguistics as an integral part of longer computations—randomly interspersing Mathematica syntax and free-form linguistics on different lines in a Mathematica session, and just using whichever was most convenient for a particular input.
+And here’s an exciting part: in Mathematica 8 the free-form linguistics doesn’t just operate line-by-line. It knows the context in which it’s used in a notebook, so you can use it to build things up.
+You can start with a plot:
+
+Then you can add something to it.
+
+Or do image processing on the result.
+
+In each case, the Wolfram|Alpha engine will synthesize Mathematica code to do what you asked, then apply this code to the result you had before.
+Well, this is the beginning of something very remarkable: the ability to do programming with free-form linguistic input.
+We’re just at the beginning of this process. But already the Wolfram|Alpha engine can handle a wide variety of Mathematica concepts. Like list manipulation, image processing, string manipulation, import-export, and even user interface construction.
+
+And the engine can also deal with variables that exist in your Mathematica session, so you can refer to them by name inside free-form linguistic inputs.
+I think this is all a pretty big deal. You see, in the past, if you wanted to do any serious programming, you really had no choice but to learn a precise formal programming language. But now you can just tell the computer what you want to do using plain English.
+And the big effect of this is going to be that the barrier between programmers and non-programmers will come down. Everyone is going to be able to be a programmer.
+Right now we’re just at the beginning of having the Wolfram|Alpha engine understand all the different things one might want to do with programs. But from what we can already see, it’s quite clear that the concept is going to be very general. Building on the big tower of technology that is Wolfram|Alpha, we’re going to progressively be able to make more and more of programming accessible through plain natural language.
+There are so many exciting things about this. To mention one: in the past one had to distinguish plain English “comments” from actual, active, code. But now, with free-form linguistics, one can have a plain English description that just automatically turns into active code.
+Of course, if you’ve given some vague free-form linguistic input, the Wolfram|Alpha engine may not be able to figure out precisely what you want to do. But the great thing is that you’ll always be able to see—and check—what the engine thought you wanted to do. Because you’ll see the precise Mathematica code it’s generated. And because Mathematica is such a succinct and readable language, it’ll usually be quite easy to tell what precisely that code will do.
+So how does free-form linguistic input really work in a Mathematica session?
+Anything you type after = is sent over the internet to a Wolfram|Alpha server, which tries to generate a Mathematica interpretation of it. Assuming it succeeds, that interpretation is sent back to Mathematica, and evaluated locally in your Mathematica session.
+When your input is sent to the server (unless you’ve set preferences to prevent this) some information on the local context in your Mathematica notebook is sent along as well—to let the Wolfram|Alpha engine know what you might mean by “the image” or the name of a variable that you’re using.
+Needless to say, to use the Wolfram|Alpha engine you have to have a connection to the network. For large secure facilities and the like, we’ve actually developed a Wolfram|Alpha appliance that operates as an onsite “private compute cloud”. But mostly we just assume that in the modern world most people are going to have access to the internet from their computers most of the time.
+Well, here’s another issue: what if the input you give just doesn’t have any reasonable interpretation in Mathematica, or can’t give any reasonable output in Mathematica? Here’s what happens then:
+
+The output you get is what we affectionately call an “Alpha blob”—an inert object that represents the result of your computation as generated by Wolfram|Alpha. Inside the Mathematica notebook, you can copy and paste from inside this “blob”, or you can use standard Mathematica functions to extract pieces of it. You can also often feed it back as part of a piece of free-form linguistic input.
+Most of the time, you’ll be able to use = without thinking much about Wolfram|Alpha. But sometimes it’ll be useful to see the Wolfram|Alpha perspective.
+One important difference between Mathematica and Wolfram|Alpha is that while Mathematica always gives a single output result from a particular input, Wolfram|Alpha typically gives many different output pods.
+Within Mathematica, you can see the complete collection—pretty much as they would appear on the website—by clicking the orange +.
+
+By default, Mathematica will automatically pick a pod to return—typically either the “Input interpretation” pod, or the “Result”, if there is one. And the pod that Mathematica chooses is indicated by an orange arrow.
+But you choose another pod by clicking it. Then you can actually use that pod by re-evaluating the input using Shift-Enter.
+Another reason to expose the whole Wolfram|Alpha-style output is to handle disambiguation of inputs. Let’s say you enter “springfield” as your input. On the Wolfram|Alpha website, you’ll see something that tells you which Springfield Wolfram|Alpha is assuming you mean, then gives you a way to choose a different Springfield.
+If you need to choose a different Springfield inside Mathematica, you can do this by exposing the pods using the +, then clicking the appropriate assumption.
+
+In addition to =, Mathematica 8 lets you type == at the beginning of a line. When you do this, you’ll see the icon change from an orange square, to an orange “Spikey”. And what happens in this case is that instead of getting a single Mathematica-style result, you’ll immediately get a whole Wolfram|Alpha result, with its complete sequence of pods.
+In this form, there are little gray + icons in each pod. Clicking these gives a menu specifying each of the possible forms in which the contents of the pod can be interpreted.
+
+Underlying the whole = and == mechanism is the WolframAlpha function in Mathematica, which is a programmatic way to interface to Wolfram|Alpha, based on the Wolfram|Alpha API. You can use the Wolfram|Alpha function not only to handle linguistics, but also to do things like get data from Wolfram|Alpha.
+It’s worth realizing that when you use == inside Mathematica, you’re getting much richer results than you do on a website. Because everything is represented symbolically inside a Mathematica notebook, you can readily manipulate graphics—for example rotating 3D objects—and copy and paste any piece of output.
+When used inside Mathematica, Wolfram|Alpha also sometimes generates Manipulate[ ] constructs, allowing immediate dynamic interactivity—that is efficiently executed on your computer rather than the Wolfram|Alpha servers.
+When you open a notebook in Mathematica 8, there’s an immediate visual clue that something new is possible:
+
+Clicking this gives a menu:
+
+And from the menu you can select ordinary Mathematica language input, or free-form linguistics—or plain text.
+There’s one more case that’s really convenient in writing programs in Mathematica—control-=.
+The idea of control-= is to provide an inline linguistic assistant. It only handles linguistics that’s directly translatable to Mathematica syntax (since it has no place to put anything else). But assuming that there is a Mathematica translation, within a control-= region you just have to type Return to get it.
+
+Typically control-= will produce a “double-decker” form, containing both the free-form linguistic input, and the Mathematica language form. You can leave this double-decker form—as a kind of “self documenting object”—and Mathematica will interpret it by looking only at the Mathematica language form. Or you can click the upper or lower “decks” to show only one “deck”.
+After working on Mathematica for a couple of decades, it was a strange experience to be working on Wolfram|Alpha. For its design criteria were almost the exact opposite of Mathematica. In Mathematica, there is a precise language, which I have gone to great effort to keep as clean and simple as possible. But in Wolfram|Alpha the whole point is to deal with all the arbitrary messiness of actual human expression, effectively throwing in as much complexity as possible.
+At first in working on Wolfram|Alpha I consciously tried to avoid thinking about how it might fit with Mathematica—to give it in a sense room to grow on its own. But once the character of Wolfram|Alpha was established, I began to think very hard about how it could be connected—and unified—with Mathematica.
+There were many issues. What to do about the fact that Wolfram|Alpha gives many results, but Mathematica sessions have one result for each input. How to deal with ambiguities in Wolfram|Alpha inputs. What to do when Wolfram|Alpha does computations that are not built in to Mathematica. And so on.
+But gradually as we worked through these issues, we began to see that a wonderful unification could be achieved—in which in a sense the power of both Mathematica and Wolfram|Alpha would be greatly amplified.
+I have to say that I was somewhat skeptical about our ability to make Wolfram|Alpha understand not just what amount to queries for knowledge, but also programs and commands. And certainly we are just at the beginning of being able to do this—and over the weeks and months and years to come we will continuously try to update and improve it.
+But I have been most encouraged by how far we have already been able to get. And indeed I have noticed that I myself have now routinely started to rely on free-form linguistics whenever I use Mathematica.
+The arrival of free-form linguistics will surely forever change how Mathematica is used, and learned. After nearly a quarter of a century, we have today a fundamentally new way to communicate with Mathematica. We cannot yet foresee all the consequences, but it is already clear that this is something tremendously important.
+
+Comments
+absolutely amazing, I can’t wait to try it.
+especially how it affects doing simulations and demonstrations,
+Thanks.
+Posted by markNovember 15, 2010 at 5:56 pm
+What a marvellous! Cheers.
+Posted by yuki fujimuraNovember 15, 2010 at 6:56 pm
+that’s truly fantastic!
+Posted by Xah LeeNovember 15, 2010 at 7:44 pm
+Fantastic! Keep up the good work.
+One question: Is speed compromised at all in later versions of Mathematica? With all of this functionality are we losing anything?
+Posted by Nicholas MecholskyNovember 15, 2010 at 7:46 pm
+Good step forward – however! No upgrade and rollout of TableView – which is an undocumented spreadsheet-lite? And no new graphics primitives, especially for solids modeling?
+And does CUDA run on ATI cards which are now standard on new Macs?
+Posted by Robert Prince-WrightNovember 16, 2010 at 12:11 am
+Nous étions plusieurs, parmi les utilisateurs réguliers, à craindre que le développement de Mathematica ne souffre de l’investissement de Wolfram Research dans Wolfram Alpha. Nous voilà pleinement rassurés autant qu’émerveillés. Quel bond en avant ! À l’heure où les politiques, les responsables de l’éducation et les enseignants s’inquiètent de l’image et de l’avenir de l’enseignement scientifique, Wolfram Research montre la voie. Encore faudrait-il que les décideurs connaissent les fantastiques possibilités de Mathematica et prennent conscience du rôle qu’il peut jouer dans la promotion des sciences.
+Congratulations Wolfram Research
+Posted by Bernard VuilleumierNovember 16, 2010 at 2:41 am
+Wow!! Thats What I call a revolution in mathematical Software.Please keep up your good work.
+Posted by Partha SinhaNovember 16, 2010 at 7:17 am
+The free-English interface is powerful for another reason as well: it provides people with little experience with Mathematica an interactive way to learn the language. In my opinion this is huge, as you don’t have to dig help menus and tutorials, thus cutting the workflow because of an unknown command.
+Posted by GeorgiNovember 16, 2010 at 8:25 am
+Very cool. By the way, a detail: I think that Mathematica should use a prettier default stylesheet.
+Posted by Luboš MotlNovember 16, 2010 at 12:13 pm
+@Nicholas Mecholsky:
+Not to worry. Many functions in Mathematica 8, in particular numerical functions and image processing functions, got multi-threading treatment, which means it is actually faster than ever (of course when you have multi-core system, which is highly likely).
+Posted by Yu-Sung ChangNovember 16, 2010 at 6:17 pm
+@Robert Prince-Wright:
+TableView is not fully integrated with Mathematica 8. Probably available in very next version. No solid modeling related primitives, but new primitives include curve constructors (JoinedCurve and FilledCurve) and their variations. And there is of course Texture.
+CUDA is NVIDIA’s proprietary technology, thus not available on ATI hardware. But, Mathematica 8 does support OpenCL, which is standard GPU computing architecture for both, and Mathematica 8 provides easy transition between two standards.
+Posted by Yu-Sung ChangNovember 16, 2010 at 6:23 pm
+One of these days, Mathematica will pass the Turing test.
+Posted by Frank KampasNovember 16, 2010 at 8:21 pm
+Hi,
+I know this is a little bit off topic, but Mmta 8 is said to have code conversion capability. How tight would it be? I mean in terms of memory usage? Would it generate code that could be further shortened?
+Mmta 8 seems to be the most awesome software ever. Thank you Stephen!
+Posted by KevinNovember 16, 2010 at 9:38 pm
+It sounds very impressive, though I wonder how it will end up in my workflow. I’m a bit worried about the internet connectivity requirement. At my office I’m not able to get through our firewall completely (strangely, only about half of the computable data gets through), and on the road, or on visits not being able to evaluate your notebook when required sounds like a problem. Is there a way to pre-cache the necessary data, as there was for the computable data paclets?
+Posted by Sjoerd de VriesNovember 17, 2010 at 9:42 am
+Stephen, this is very impressive stuff.
+However I am disappointed to see, on looking through the list of changes, that once again attention to parallelization is not on the list.
+As I have stated before, the 90s are gone and aren’t ever coming back — the future of computing is parallel. In spite of that fact, however, Mathematica continues to ignore this year after year.
+Sure, we have (machine precision) FFTs and linear algebra that use our 4 or 6 or 12 core machines (eg the latest Mac Pro), but strange as it may seem, some of us use Mathematica for purposes other than (machine precision) FFTs and linear algebra.
+At the very least, can we have the low-lying parallel fruit integrated into Mathematica ASAP? This would be things like
+- Ideally Map, Sum, Table, etc would automatically preprocess their code, determine it’s parallelizable, and auto-parallelize it. In the absence of that, at least have a single local (same-machine) kernel that handles ParallelMap, ParallelSum etc so that we don’t have to export definitions before we use them.
+- Plenty of Mathematica functions (eg numerical integration or plotting functions or much discrete optimization) perform many many repeated evaluations of the same function at different points, a trivially parallelizable problem. Sure, there are a .1% of weird functions that somehow rely on the order in which they are called when being plotted — let the people who want such things tag their functions as Volatile or whatever and let the rest of us with normal functions get a speedup.
+- Entropy Engine. If you’re a heavy user of random numbers (eg simulations or monte carlo integration) you can spend most of your time generating the random bits. Surely it is possible to
+(a) Have a random number generator that utilizes the full width of SSE registers (and on SandyBridge CPUs, the AVX registers) to generate more bits at once and
+(b) generate bits across multiple CPUs (and even a networked cluster) at once?
+What I have in mind is a block of code that generates a “block” of random bits fast, say of order 1KB or 4KB, and that can be spawned to run anywhere. These can be launched as needed, and their results will be stored in a warehouse, so that there is, generally, about 32KB of randomness available for easy access, and when it runs low, new randomness can rapidly be generated by having ALL the various entropy engines running, both locally and across the network.
+Continuing to work on input methods (and likewise on output, as we saw in 6 and 7) is very cool, but is completely orthogonal to the issue of taking advantage of parallelism. There seems no reason why both cannot happen simultaneously as Mathematica moves forward.
+Posted by Maynard HandleyNovember 19, 2010 at 12:25 am
+@Yu-Sung Chang
+“Not to worry. Many functions in Mathematica 8, in particular numerical functions and image processing functions, got multi-threading treatment, which means it is actually faster than ever (of course when you have multi-core system, which is highly likely).”
+Where is this documented or discussed? I try to follow this carefully (see my above comment) and I’ve never seen anything on this issue.
+Posted by Maynard HandleyNovember 19, 2010 at 12:27 am
+@Yu-Sung Chang
+In finance excel is ubiquitous therefore better excel integration would have been nice and given that TableView has been discussed on Mathgroup in the past it seems very strange that this function has been been made a documented function in V8. It is hard to understand the motivations sometimes. There are esoteric financial plots that a tiny number of users might like, but even then have severe limitations, but no widespread integration of things that are everywhere in finance.
+Posted by Dudley BurnsNovember 19, 2010 at 6:18 pm
+Dr. Wolfram,
+Sounds very impressive – another ’step’ in the right direction.
+I do have an idea which I will send to your r&d group which I believe would not only enhance mathematic considerably, but would also be an invaluable tool for investigators and researchers.
+Cool stuff.
+Kealey
+Posted by Larry KealeyDecember 19, 2010 at 7:00 am

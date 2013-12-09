@@ -1,0 +1,33 @@
+﻿Information technology goes global Dec 29th 2010 | from PRINT EDITION
+
+
+CLOUDS bear little resemblance to tanks, particularly when the clouds are of the digital kind. But statistical methods used to count tanks in the second world war may help to answer a question that is on the mind of many technology watchers: How big is the computing cloud?
+
+This is not just a question for geeks. Computing clouds—essentially digital-service factories—are the first truly global utility, accessible from all corners of the planet. They are among the world’s biggest energy hogs and thus account for a lot of carbon dioxide emissions. More happily, they allow firms in developing countries to leapfrog traditional information technology (IT) and benefit from advanced computing services without having to build expensive infrastructure.
+
+The clouds allow computing to be removed from metal boxes under desks and in firms’ basements to remote data centres. Some of these are huge, with several hundred thousand servers (high-powered computers that crunch and dish up data). Users pay for what they use, as with electricity. As with electricity, they can increase their usage quickly and easily.
+
+The “cloud of clouds” has three distinct layers. The outer one, called “software as a service” (SaaS, pronounced sarse), includes web-based applications such as Gmail, Google’s e-mail service, and Salesforce.com, which helps firms keep track of their customers. This layer is by far the easiest to gauge. Many SaaS firms have been around for some time and only offer such services. In a new study Forrester Research, a consultancy, estimates that these services generated sales of $11.7 billion in 2010.
+
+Going one level deeper, there is “platform as a service” (PaaS, pronounced parse), which means an operating system living in the cloud. Such services allow developers to write applications for the web and mobile devices. Offered by Google, Salesforce.com and Microsoft, this market is also fairly easy to measure, since there are only a few providers and their offerings have not really taken off yet. Forrester puts revenues at a mere $311m.
+
+The most interesting layer—the only one that really deserves to be called “cloud computing”, say purists—is “infrastructure as a service” (IaaS, pronounced eye-arse). IaaS offers basic computing services, from number crunching to data storage, which customers can combine to build highly adaptable computer systems. The market leaders are GoGrid, Rackspace and Amazon Web Services, the computing arm of the online retailer, which made headlines for kicking WikiLeaks off its servers.
+
+This layer is the hardest to measure. It is growing rapidly and firms do not report revenue numbers; nor are they very forthcoming with information, arguing unconvincingly that this would help their competitors. Amazon, for instance, only reveals that it now stores more than 200 billion digital “objects” and has to fulfil nearly 200,000 requests for them per second—impressive numbers but not very useful ones (an object can be a small file or an entire movie). Rackspace says it operates nearly 64,000 servers globally, but notes that only some are used for IaaS.
+
+This reluctance to share information has inspired analysts and bloggers to find out more, in particular about Amazon. That is where the tanks come in. During the second world war, the allies were worried that a new German tank could keep them from invading Europe. Intelligence reports about the number of tanks were contradictory. So statisticians were called in to help.
+
+They assumed that the Germans, a notoriously methodical lot, had numbered their tanks in the order they were produced. Based on this assumption, they used the serial numbers of captured tanks to estimate the total. The number they came up with, 256 a month, was low enough for the allies to go ahead with their plans and turned out to be spot-on. German records showed it to be 255.
+
+
+Using this approach, Guy Rosen, a blogger, and Cloudkick, a San Francisco start-up which was recently acquired by Rackspace, have come up with a detailed estimate of the size of at least part of Amazon’s cloud. Mr Rosen decrypted the serial numbers of Amazon’s “virtual machines”, the unit of measurement for buying computing power from the firm. Alex Polvi, the founder of Cloudkick, then used these serial numbers to calculate the total number of virtual computers plugged in every day. This number is approaching 90,000 for Amazon’s data centres on America’s East Coast alone (see chart).
+
+The results suggest that Amazon’s cloud is a bigger business than previously thought. Randy Bias, the boss of Cloudscaling, a IT-engineering firm, did not use these results when he put Amazon’s annual cloud-computing revenues at between $500m and $700m in 2010. And in August UBS, an investment bank, predicted that they will total $500m in 2010 and $750m in 2011.
+
+These numbers give at least an estimate of the size of the market for IaaS. Amazon is by far the market leader with a share of between 80% and 90%, according to Mr Bias. Assuming that Cloudkick’s and Mr Bias’ numbers are correct, revenues generated by computing infrastructure as a service in 2010 may exceed $1 billion.
+
+So how big is the cloud? And how big will it be in, say, ten years? It depends on the definition. If you count web-based applications and online platforms, it is already huge and will become huger. Forrester predicts that it will grow to nearly $56 billion by 2020. But raw computing services, the core of the cloud, is much smaller—and will not get much bigger. Forrester, reckons it will be worth $4 billion in 2020 (although this has much to do with the fact that even in the cloud, the cost of computer hardware will continue to drop, points out Stefan Ried of Forrester).
+
+At any rate, the cloud is not simply “water vapour”, as Larry Ellison, the boss of Oracle, a software giant, has deflatingly suggested. One day the cloud really will be big. Given a little more openness, more people might actually believe that.
+
+from PRINT EDITION | International

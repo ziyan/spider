@@ -1,0 +1,17 @@
+﻿09 November 2010
+Managing group papers
+Every time a major conference deadline (ACL, NIPS, EMNLP, ICML, etc...) comes around, we usually have a slew of papers (>=3, typically) that are getting prepared.  I would say on average 1 doesn't make it, but that's par for the course.
+
+For AI-Stats, whose deadline just passed, I circulated student paper drafts to all of my folks to solicit comments at any level that they desired.  Anywhere from not understanding the problem/motivation to typos or errors in equations.  My experience was that it was useful, both from the perspective of distributing some of my workload and getting an alternative perspective, to keeping everyone abreast of what everyone else is working on.
+
+In fact, it was so successful that two students suggested to me that I require more-or-less complete drafts of papers at least one week in advance so that this can take place.  How you require something like this is another issue, but the suggestion they came up with was that I'll only cover conference travel if this occurs.  It's actually not a bad idea, but I don't know if I'm enough of a hard-ass (or perceived as enough of a hard-ass) to really pull it off.  Maybe I'll try it though.
+
+The bigger question is how to manage such a thing.  I was thinking of installing some conference management software locally (eg., HotCRP, which I really like) and giving students "reviewer" access.  Then, they could upload their drafts, perhaps with an email circulated when a new draft is available, and other students (and me!) could "review" them.  (Again, perhaps with an email circulated -- I'm a big fan of "push" technology: I don't have time to "pull" anymore!)
+
+The only concern I have is that it would be really nice to be able to track updates, or to have the ability for authors to "check off" things that reviewers suggested.  Or to allow discussion.  Or something like that.
+
+I'm curious if anyone has ever tried anything like this and whether it was successful or not.  It seems like if you can get a culture of this established, it could actually be quite useful.
+
+Posted by hal at 11/09/2010 07:41:00 AM | 13 comments Links to this post  
+
+Labels: advising, community

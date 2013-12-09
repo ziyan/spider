@@ -1,0 +1,44 @@
+﻿SPGL1 and TV: Answers from SPGL1 Authors
+By jackdurden
+Following the writing of my previous post, which obtained various interesting comments (many thanks to Gabriel Peyré, Igor Carron and Pierre Vandergheynst), I sent a mail to Michael P. Friedlander and Ewout van den Berg to point them this article and possibly obtain their point of views.
+
+Nicely, they sent me interesting answers (many thanks to them). Here they are (using the notations of the previous post) :
+
+Michael’s answer is about the need of a TV Lasso solver :
+
+“It’s an intriguing project that you describe.  I suppose in principle the theory behind spgl1 should readily extend to TV (though I haven’t thought how a semi-norm might change things).  But I’m not sure how easy it’ll be to solve the “TV-Lasso” subproblems.  Would be great if you can see a way to do it efficiently. “
+
+Ewout on his side explained this :
+
+“The idea you suggest may very well be feasible, as the approach taken in SPGL1 can be extended to other norms (i.e., not just the one-norm), as long as the dual norm is known and there is way to orthogonally project onto the ball induced by the primal norm. In fact, the newly released version of SPGL1 takes advantage of this and now supports two new formulations.
+
+I heard (I haven’t had time to read the paper) that Chambolle has described the dual to the
+TV-norm. Since the derivate of  on the appropriate interval is given by the dual norm on , that part should be fine (for the one norm this gives the infinity norm).
+
+In SPGL1 we solve the Lasso problem using a spectrally projected gradient method, which
+means we need to have an orthogonal projector for the one-norm ball of radius . It is not immediately obvious how to (efficiently) solve the related problem (for a given ):
+
+minimize  subject to .
+
+However, the general approach taken in SPGL1 does not really care about how the Lasso
+subproblem is solved, so if there is any efficient way to solve
+
+minimize  subject to ,
+
+then that would be equally good. Unfortunately it seems the complexification trick (see the previous post) works only from the image to the differences; when working with the differences themselves, additional constraints would be needed to ensure consistency in the image; i.e., that
+summing up the difference of going right first and then down, be equal to the sum of
+going down first and then right.”
+
+In a second mail, Ewout added an explanation on this last remark :
+
+“I was thinking that perhaps, instead of minimizing over the signal it would be possible to minimize over the differences (expressed in complex numbers in the two-dimensional setting). The problem with that is that most complex vectors do not represent difference vectors (i.e., the differences would not add up properly). For such an approach to work, this consistency would have to be enforced by adding some constraints.”
+
+Actually, I saw similar considerations in A. Chambolle‘s paper: “﻿﻿﻿﻿An Algorithm for Total Variation Minimization and Applications”. It is even more clear in the paper he wrote with J.-F. Aujol, “Dual Norms and Image Decomposition Models”. They develop there the notions of TV (semi) norm for different exponent  (i.e. in the  norm used on the  norm of the gradient components) and in particular they answer to the problem of finding and computing the corresponding dual norms. For the usual TV norm, this leads to the G-norm :
+
+
+
+where, as for the continuous setting,  is the discrete divergence operator defined as the adjoint of the finite difference gradient operator  used to defined the TV norm. In other words, , where  and .
+
+Unfortunately, the G norm computation seems not so obvious that the one of its dual counterpart and an optimization method must be used. I don’t know if this could lead to an efficient implementation of a TV spgl1.
+
+This entry was posted on September 2, 2008 at 11:48 pm and is filed under General.	

@@ -1,0 +1,31 @@
+﻿X = G / (C*H*R*O*M - 3)
+Friday, December 10, 2010 | 4:55 PM
+Labels: chrome os
+Yesterday, we posted a demo video with a secret challenge where the first clever person to crack the code would receive a Cr-48. Just 20 hours later, the puzzle was solved correctly by the team at Jamendo. Congratulations!
+
+Here’s how you can find the puzzle and the solution.
+First, around 2:24 in the video, you see the following equations on the board:
+
+
+The constants solve out as follows:
+G = 900.91
+C = 8335727
+H = 269462689
+R = 222647
+O = 694079
+M = 552
+The final equation is written as:
+X = G / (C*H*R*O*M - 3)
+Plugging in the previous answers gets you to:
+900.91 / 191605050401140404051920181525
+At that point, the puzzle changes from math to code where the numbers represent letters. It hints to that by the final equation spelling CHROM3, but we expected people to get stuck here and have to play around for a bit. The first mental leap is that you have to visually identify 900.91 as goo.gl (just like spelling words on a calculator: 9=g,0=o,0=o,9=g,1=l). The division sign is a slash ( / ), so this pretty clearly points to the Google URL shortener. From there, you need to figure out the shortened URL.
+
+The number 191605050401140404051920181525 may confuse people for a bit, but the large number of zeros and the repeated "04" and "05" sequences in it visually allude to pairs within the string. Once you see that, it can be broken up into:
+19 16 05 05 04 01 14 04 04 05 19 20 18 15 25
+If you've gotten this far, you've probably noticed that all of those numbers are between 1 and 26. From here, it's just a straight mapping to letters of the alphabet (A=1, B=2, C=3, etc). Decoding the full string gives you:
+s p e e d a n d d e s t r o y
+Putting everything together, the end result is:
+goo.gl/speedanddestroy
+That URL points to a page where you can fill out a form to request a shiny new Chrome notebook (the form is closed now, of course).
+
+Posted by Chris Lyon, Hardware Engineer, Chrome OS Team

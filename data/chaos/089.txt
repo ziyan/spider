@@ -1,0 +1,360 @@
+﻿Quasilinear well-posedness
+21 February, 2010 in expository, math.AP | Tags: Burgers' equation, quasilinear equations, transport equation, well-posedness | by Terence Tao
+When solving the initial value problem to an ordinary differential equation, such as
+
+
+where  is the unknown solution (taking values in some finite-dimensional vector space ),  is the initial datum, and  is some nonlinear function (which we will take to be smooth for sake of argument), then one can construct a solution locally in time via the Picard iteration method. There are two basic ideas. The first is to use the fundamental theorem of calculus to rewrite the initial value problem (1) as the problem of solving an integral equation,
+
+
+The second idea is to solve this integral equation by the contraction mapping theorem, showing that the integral operator  defined by
+
+
+
+is a contraction on a suitable complete metric space (e.g. a closed ball in the function space ), and thus has a unique fixed point in this space. This method works as long as one only seeks to construct local solutions (for time  in  for sufficiently small ), but the solutions constructed have a number of very good properties, including
+
+Existence: A solution  exists in the space  (and even in ) for  sufficiently small.
+Uniqueness: There is at most one solution  to the initial value problem in the space  (or in smoother spaces, such as ). (For solutions in the weaker space  we use the integral formulation (2) to define the solution concept.)
+Lipschitz continuous dependence on the data: If  is a sequence of initial data converging to , then the associated solutions  converge uniformly to  on  (possibly after shrinking  slightly). In fact we have the Lipschitz bound  for  large enough and , where  is an absolute constant.
+This package of properties is referred to as (Lipschitz) wellposedness.
+
+This method extends to certain partial differential equations, particularly those of a semilinear nature (linear except for lower order nonlinear terms). For instance, if trying to solve an initial value problem of the form
+
+
+
+where now  takes values in a function space  (e.g. a Sobolev space ),  is an initial datum,  is some (differential) operator (independent of ) that is (densely) defined on , and  is a nonlinearity which is also (densely) defined on , then (formally, at least) one can solve this problem by using Duhamel’s formula to convert the problem to that of solving an integral equation
+
+
+
+and one can then hope to show that the associated nonlinear integral operator
+
+
+
+is a contraction in a subset of a suitably chosen function space.
+
+This method turns out to work surprisingly well for many semilinear partial differential equations, and in particular for semilinear parabolic, semilinear dispersive, and semilinear wave equations. As in the ODE case, when the method works, it usually gives the entire package of Lipschitz well-posedness: existence, uniqueness, and Lipschitz continuous dependence on the initial data, for short times at least.
+
+However, when one moves from semilinear initial value problems to quasilinear initial value problems such as
+
+
+
+in which the top order operator  now depends on the solution  itself, then the nature of well-posedness changes; one can still hope to obtain (local) existence and uniqueness, and even continuous dependence on the data, but one usually is forced to give up Lipschitz continuous dependence at the highest available regularity (though one can often recover it at lower regularities). As a consequence, the Picard iteration method is not directly suitable for constructing solutions to such equations.
+
+One can already see this phenomenon with a very simple equation, namely the one-dimensional constant-velocity transport equation
+
+
+where we consider  as part of the initial data. (If one wishes, one could view this equation as a rather trivial example of a system.
+
+
+
+
+
+to emphasis this viewpoint, but this would be somewhat idiosyncratic.) One can solve this equation explicitly of course to get the solution
+
+
+
+In particular, if we look at the solution just at time  for simplicity, we have
+
+
+
+Now let us see how this solution  depends on the parameter . One can ask whether this dependence is Lipschitz in , in some function space :
+
+
+
+for some finite . But using the Newton approximation
+
+
+
+we see that we should only expect such a bound when  (and its translates) lie in . Thus, we see a loss of derivatives phenomenon with regard to Lipschitz well-posedness; if the initial data  is in some regularity space, say , then one only obtains Lipschitz dependence on  in a lower regularity space such as .
+
+We have just seen that if all one knows about the initial data  is that it is bounded in a function space , then one usually cannot hope to make the dependence of  on the velocity parameter  Lipschitz continuous. Indeed, one cannot even make it continuous uniformly in . Given two values of  that are close together, e.g.  and , and a reasonable function space  (e.g. a Sobolev space , or a classical regularity space ) one can easily cook up a function  that is bounded in  but whose two solutions  and  separate in the  norm at time , simply by choosing  to be supported on an interval of width .
+
+(Part of the problem here is that using a subtractive method  to determine the distance between two solutions  is not a physically natural operation when transport mechanisms are present that could cause the key features of  (such as singularities) to be situated in slightly different locations. In such cases, the correct notion of distance may need to take transport into account, e.g. by using metrics of Wasserstein type.)
+
+On the other hand, one still has non-uniform continuous dependence on the initial parameters: if  lies in some reasonable function space , then the map  is continuous in the  topology, even if it is not uniformly continuous with respect to . (More succinctly: translation is a continuous but not uniformly continuous operation in most function spaces.) The reason for this is that we already have established this continuity in the case when  is so smooth that an additional derivative of  lies in ; and such smooth functions tend to be dense in the original space , so the general case can then be established by a limiting argument, approximating a general function in  by a smoother function. We then see that the non-uniformity ultimately comes from the fact that a given function in  may be arbitrarily rough (or concentrated at an arbitrarily fine scale), and so the ability to approximate such a function by a smooth one can be arbitrarily poor.
+
+In many quasilinear PDE, one often encounters qualitatively similar phenomena. Namely, one often has local well-posedness in sufficiently smooth function spaces  (so that if the initial data lies in , then for short times one has existence, uniqueness, and continuous dependence on the data in the topology), but Lipschitz or uniform continuity in the  topology is usually false. However, if the data (and solution) is known to be in a high-regularity function space , one can often recover Lipschitz or uniform continuity in a lower-regularity topology.
+
+Because the continuous dependence on the data in quasilinear equations is necessarily non-uniform, the arguments needed to establish this dependence can be remarkably delicate. As with the simple example of the transport equation, the key is to approximate a rough solution by a smooth solution first, by smoothing out the data (this is the non-uniform step, as it depends on the physical scale (or wavelength) that the data features are located). But for quasilinear equations, keeping the rough and smooth solution together can require a little juggling of function space norms, in particular playing the low-frequency nature of the smooth solution against the high-frequency nature of the residual between the rough and smooth solutions.
+
+Below the fold I will illustrate this phenomenon with one of the simplest quasilinear equations, namely the initial value problem for the inviscid Burgers’ equation
+
+
+which is a modification of the transport equation (3) in which the velocity  is no longer a parameter, but now depends (and is, in this case, actually equal to) the solution. To avoid technicalities we will work only with the classical function spaces  of  times continuously differentiable functions, though one can certainly work with other spaces (such as Sobolev spaces) by exploiting the Sobolev embedding theorem. To avoid having to distinguish continuity from uniform continuity, we shall work in a compact domain by assuming periodicity in space, thus for instance restricting  to the unit circle .
+
+This discussion is inspired by this survey article of Nikolay Tzvetkov, which further explores the distinction between well-posedness and ill-posedness in both semilinear and quasilinear settings.
+
+
+— 1. A priori estimates —
+
+To avoid technicalities let us make the a priori assumption that all solutions of interest are smooth.
+
+The Burgers equation is a pure transport equation: it moves the solution around, but does not increase or decrease its values. As a consequence we obtain an a priori estimate for the  norm:
+
+
+
+To deal with the  norm, we perform the standard trick of differentiating the equation, obtaining
+
+
+
+which we rewrite as a forced transport equation
+
+
+
+Inspecting what this equation does at local maxima in space, one is led (formally, at least) to the differential inequality
+
+
+
+which leads to an a priori estimate of the form
+
+
+for some absolute constant , if  is sufficiently small depending on . More generally, the same arguments give
+
+
+
+for , where  depends only on , and  is sufficiently small depending on . (Actually, if one works a little more carefully, one only needs  sufficiently small depending on .)
+
+The a priori estimates are not quite enough by themselves to establish local existence of solutions in the indicated function spaces, but in practice, once one has a priori estimates, one can usually work a little bit harder to then establish existence, for instance by using a compactness, viscosity, or penalty method. We will not discuss this topic here.
+
+— 2. Lipschitz continuity at low regularity —
+
+Now let us consider two solutions  to Burgers’ equation from two different initial data, thus
+
+
+and
+
+
+We want to say that if  and  are close in some sense, then  and  will stay close at later times. For this, the standard trick is to look at the difference  of the two solutions. Subtracting (6) from (7) we obtain the difference equation for :
+
+
+We can view the evolution equation in (8) as a forced transport equation:
+
+
+
+This leads to a bound for how the  norm of  grows:
+
+
+
+Applying Gronwall’s inequality, one obtains the a priori inequality
+
+
+
+and hence by (5) we have
+
+
+if  is sufficiently small (depending on the  norm of ). Thus we see that we have Lipschitz dependence in the  topology… but only if at least one of the two solutions  already had one higher derivative of regularity, so that it was in  instead.
+
+More generally, by using the trick of differentiating the equation, one can obtain an a priori inequality of the form
+
+
+
+for some  depending only on , for  sufficiently small depending on . Once again, to get Lipschitz continuity at some regularity , one must first assume one higher degree  of regularity on one of the solutions.
+
+This loss of derivatives is unfortunate, but this is at least good enough to recover uniqueness: setting  in, say, (9) we obtain uniqueness of  solutions (locally in time, at least), thanks to the trivial fact that two  functions that agree in  norm automatically agree in  norm also. (One can then boost local uniqueness to global uniqueness by a continuity argument.)
+
+— 3. Non-uniform continuity at high regularity —
+
+Let  be a sequence of  data converging in the  topology to a limit . As and  are then uniformly bounded in , existence theory then gives us solutions ,  to the associated initial value problems
+
+
+and
+
+
+for all  in some uniform time interval .
+
+From (5) we know that the  and  are uniformly bounded in  norm (for small enough). From the Lipschitz continuity (9) we know that  converges to  in  norm. But does  converge to  in the  norm?
+
+The answer is yes, but the proof is remarkably delicate. A direct attempt to control the difference between  and  in , following the lines of the previous argument, requires something to be bounded in . But we only have  and  bounded in .
+
+However, note that in the arguments of the previous section, we don’t need both solutions to be in ; it’s enough for just one solution to be in . Now, while neither  nor  are bounded in  yet, what we can do is to introduce a third solution , which is regularised to lie in  and not just in , while still being initially close to  and hence to  in  norm. The hope is then to show that  and  are both close to  in , which by the triangle inequality will make  and  close to each other.
+
+Unfortunately, in order to get the regularised solution  close to  initially, the  norm of  (and hence of ) may have to be quite large. But we can compensate for this by making the  distance between  and  quite small. The two effects turn out to basically cancel each other and allow one to proceed.
+
+Let’s see how this is done. (The argument here originates from this paper of Bona and Smith.) Consider a solution  which is initially close to  in  norm (and very close in  norm), and also has finite (but potentially large) norm; we will quantify these statements more precisely later.
+
+Once again, we set  and , giving a difference equation which we now write as
+
+
+in order to take advantage of the higher regularity of . For the  norm, we have
+
+
+for  sufficiently small, thanks (9) and the uniform  bounds. For the  norm, we first differentiate (12) to obtain
+
+
+
+and thus
+
+
+
+The first two terms on the RHS are  thanks to the uniform  bounds. The third term is  by (13) and a priori  estimates (here we use the fact that the time of existence for  bounds can be controlled by the  norm). Using Gronwall’s inequality, we conclude that
+
+
+
+and thus
+
+
+
+Similarly one has
+
+
+
+and so by the triangle inequality we have
+
+
+for  sufficiently large.
+
+Note how the  norm in the second term is balanced by the  norm. We can exploit this balance as follows. Let  be a small quantity, and let , where is a suitable approximation to the identity. A little bit of integration by parts using the  bound on  then gives the bounds
+
+
+
+and
+
+
+
+and
+
+
+
+This is not quite enough to get anything useful out of (14). But to do better, we can use the fact that , being uniformly continuous, has some modulus of continuity, thus one has
+
+
+
+as . Using this, one can soon get the improved estimates
+
+
+
+and
+
+
+
+as . Applying (14), we thus see that
+
+
+
+for  sufficiently large, and the continuity claim follows.
+
+14 commentsComments feed for this article
+22 February, 2010 at 1:39 am
+Anonymous
+
+
+Dear Prof. Tao,
+
+If  and V is a finite dimensional vector space, how do we define the derivative of u with respect to t?
+
+thanks
+
+01  Rate This
+Reply
+22 February, 2010 at 9:17 am
+Terence Tao
+
+
+Derivatives of vector-valued functions can be defined in the same way as that of scalar-valued functions, e.g. as limits of Newton quotients . One can also take the derivative of each component.
+
+10  Rate This
+Reply
+22 February, 2010 at 12:22 pm
+Anonymous
+
+
+but in that case do not we need at least a norm? is it a vector space or a norm space?
+
+thanks
+
+01  Rate This
+Reply
+22 February, 2010 at 1:14 pm
+timur
+
+
+You can put a norm on any finite dimensional space by choosing a basis and taking the Euclidean norm w.r.t. that basis. So defined norm will be equivalent to any other norm.
+
+00  Rate This
+Reply
+22 February, 2010 at 6:55 am
+Pedro Lauridsen Ribeiro
+
+
+Dear Prof. Tao,
+
+It often happens when one deals with, say, quasilinear wave equations, that we have equivalence between the energy norm given by the principal symbol of the linearized operator at a certain background field and the one given at the zero section, usually the Minkowski metric. When this happens, one can employ, for instance, a commutator trick and recover the loss of derivatives for higher energy estimates. Do the same ideas apply in the examples you’ve discussed?
+
+00  Rate This
+Reply
+22 February, 2010 at 9:19 am
+Terence Tao
+
+
+One can certainly use commutator estimates to perform the a priori estimates, and obtain higher derivative control on individual solutions with no loss of regularity. Combining this with a penalisation, regularisation, or viscosity method, this is usually enough to get existence and uniqueness. However, when the time comes to do the continuous dependence on the data, which requires one to study differences of solutions rather than solutions themselves, then commutator estimates are not sufficient by themselves to recover all the derivatives needed to close the argument.
+
+30  Rate This
+Reply
+22 February, 2010 at 7:57 am
+PDEbeginner
+
+
+Dear Prof. Tao,
+
+Thanks for the so nice post!
+
+I didn’t quite understand the estimate immediately above (5), is it because  at the maxima? I am also a little worry about exchange the operations  and .
+
+10  Rate This
+Reply
+22 February, 2010 at 9:21 am
+Terence Tao
+
+
+Yes, this is correct. To rigorously justify the derivative of the supremum norm, it is best to work from first principles (i.e. using Newton quotients). (It is also convenient to interpret the derivative in the sense of forward difference quotients only.) Alternatively one can use a comparison or barrier method, solving the associated ODE and using that ODE solution (possibly adding an epsilon drift to gain a bit of room, cf. the standard proof of the maximum principle) as a barrier for the sup norm of the PDE solution via a continuity argument.
+
+Alternatively, as one is dealing here with forced transport equations, one can also use the more elementary method of characteristics (or equivalently, change to Lagrangian coordinates) to achieve the same result.
+
+50  Rate This
+Reply
+1 March, 2010 at 6:36 am
+2010 Feb notes « 逝去日子
+[...] 2, 2010 作者为 曾经话说要如何 7. loss of one order regularity, see Tao’s for space , and my trial for [...]
+00  Rate This
+Reply
+2 March, 2010 at 2:13 pm
+Willie Wong
+
+
+Terry, in the third to last equation, to get the C^2 norm of v_0 to be o(epsilon), don’t you need that P is a symmetric mollifier? Maybe it is easier to just leave it in O(epsilon) since it looks like it is enough to close anyway.
+
+00  Rate This
+Reply
+2 March, 2010 at 2:24 pm
+Willie Wong
+
+
+Ack. I meant 1/epsilon in both cases above.
+
+00  Rate This
+Reply
+2 March, 2010 at 2:32 pm
+Terence Tao
+
+
+Fair enough; I’ve removed the estimate.
+
+00  Rate This
+Reply
+19 March, 2010 at 7:41 am
+bk
+
+
+Dear Terry,
+I have a silly confusion.
+Isn’t there a gap between the estimate (14) and the two above it?
+Seemingly it is not necessarily true that . Right?
+
+00  Rate This
+Reply
+19 March, 2010 at 7:48 am
+bk
+
+
+Instead of saying a gap there, maybe I should say ‘a gap in the reasoning below (14)’ by which I mean when you need  estimate in (14), actually you need it for both of the formula above(14). Am I right?
+
+[Corrected, thanks - T.]

@@ -1,0 +1,38 @@
+Dispersion relation
+
+From DispersiveWiki
+
+Jump to: navigation, search
+The dispersion relation  of a constant coefficient linear evolution equation determines how time oscillations  are linked to spatial oscillations  of wave number k. In other words, the dispersion relation is the function for which the plane waves  solve the equation. Note that for equations which are second-order in time rather than first-order, the dispersion relation is typically double-valued rather than single-valued.
+
+The dispersion relation for the model constant-coefficient linear dispersive and wave equations are as follows.
+
+For the phase rotation equation , the dispersion relation is constant: .
+For the transport equation , the dispersion relation is linear: .
+For the free Schrodinger equation, the dispersion relation is quadratic: .
+(It is common to adjust the constants in this equation to change the dispersion relation to  or .)
+
+For the Airy equation, the dispersion relation is cubic: .
+For the free wave equation, the dispersion relation is .
+For the Klein-Gordon equation, the dispersion relation is .
+Non-time-reversible equations such as the heat equation do not have a dispersion relation, unless one permits  to be complex-valued.
+The principle of stationary phase implies that waves of spatial frequency k will propagate with group velocity . This should be compared with the phase velocity . The group velocity is the more important of the two velocities, as it controls the motion of frequency envelopes and thus of energy and mass, whereas the phase velocity merely controls the apparent motion of crests and troughs, which are of little physical signifiance.
+
+For semilinear equations, we define the dispersion relation by using the dispersion relation of the linear component of the equation. The relationship between spatial oscillation, time oscillation, and velocity should now be considered only as being heuristic (which in general only tends to be accurate in the semi-classical (high-frequency) limit). Note however that the tool of Xs,b spaces can be used to capture this relationship more rigorously.
+
+For variable coefficient or quasilinear equations, the dispersion relation can now depend on the position variable x and time variable t. The relationship between position, frequency, and velocity then becomes one of Hamilton's equations of motion (after identifying frequency with momentum).
+
+For systems (such as those arising from elasticity or electromagnetism), different components of the system may have a different dispersion relation; alternatively, one can keep the dispersion relation unified by viewing it as a tensor rather than a scalar quantity.
+
+Nonlinear effects can generate new spatial and temporal frequencies out of existing oscillations in the system. In some cases these new frequencies will also obey the dispersion relation, in which case we say that the nonlinear interaction is resonant. Generally speaking, we expect the resonant terms in the nonlinearity to be dominant, and one can sometimes use normal form methods to eliminate the non-resonant portion of the nonlinearity. However, many equations and systems have a null structure which eliminates or significantly weakens such resonant interactions. This is often decisive in the low-regularity theory of such equations.
+
+Dispersive equations
+
+An equation is dispersive if different frequencies propagate at different group velocities. Thus, for instance, the phase rotation and transport equations are not dispersive, the Airy, Schrodinger, and Klein-Gordon equations are dispersive, and the wave equation is partly dispersive (the group velocity depends on the direction of frequency but not on the magnitude).
+
+If the group velocity is bounded we say that we have finite speed of propagation, otherwise we have infinite speed of propagation. Thus for instance, the phase rotation, transport, Klein-Gordon, and wave equations have finite speed of propagation, while the Schrodinger and Airy equation has infinite speed of propagation.
+
+Intuitively, a dispersive equation should spread out the physical support of a solution over time. One way to capture this is via dispersive estimates, which in turn lead to Strichartz estimates; when there is infinite speed of propagation, dispersion can also be captured inside local smoothing estimates.
+
+Retrieved from "http://tosio.math.utoronto.ca/wiki/index.php/Dispersion_relation"
+Category: Concept

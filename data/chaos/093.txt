@@ -1,0 +1,87 @@
+﻿Navigating the Blenheim Maze
+December 7, 2010
+Daniel Lichtblau, Scientific Information Group
+I read Jon McLoone’s recent “aMazeing Image Processing in Mathematica” post with some interest.
+It showed how to import an image of a maze, and then use image processing functions in Mathematica (some new to Version 8) to draw paths through the maze. What fun! I then observed, to my dismay, that there was no way to determine a “good” path. Frankly, I was disappointed.
+I decided that there must be ways to do this in Mathematica. One approach would involve forming a graph. We would have vertices at points where the maze path forks, and we would make weighted edges from approximated distances between these vertices. New functionality in Mathematica supports these graph methods. Unfortunately I am not yet familiar with it.
+
+Next I thought there might be a way to emulate an accretion of distances via cellular automata. There are people at Wolfram Research who program with cellular automata on a regular basis. But I’m not one of them. (Indeed, while it would seem an odd pursuit, I gather there are people here who even study them. Apparently this must be done late at night, presumably when the automata are dormant.)
+So I decided to use some old code I’d prepared for a talk back in 2003. It is based on work by James Sethian and others, and is well described in Sethian’s book Level Set Methods and Fast Marching Methods: Evolving Interfaces in Computational Geometry, Fluid Mechanics, Computer Vision, and Materials Science (Cambridge University Press, 1996).
+The idea is to track what is called a “moving front”. In our case the front will consist of those points on the path we’ve not yet traversed that abut points we’ve just hit (that is to say, neighbors of those points that were last on the “front”). We traverse in order, based on the distance from where we began. In a sense we are oozing through the maze. Well, we are not ourselves oozing, but it seems a reasonable metaphor. The “tracking” will simply keep note of how far a point is from where we began. Naturally we’ll begin at the opening of the maze.
+I’ll just crib some of Jon’s code and the aerial photo (data created by Intermap, NAVTEQ, and Getmapping plc) he got from Bing Maps for the next steps.
+
+For the task at hand I prefer to reverse zeros and ones. I’ll then make the ones into a large value. This will be used later to demarcate maze boundaries, so we do not cheat and cross over hedges.
+
+Here is a picture of the maze. The white parts are the open spaces.
+
+I want to clip away the outer regions, so as to obtain just the maze. I’ll especially want to trim the last rows (shown at the bottom of the picture), so that we’ll have a distinct entrance and exit (the entrance will be the path part right near the center, which leads to the wheel-with-spokes region).
+
+Here is where things (briefly) get technical. We want to have a “start” region with values of -1. We then move forward into spaces of zeros and mark them as occupied until we’ve permeated all the pathways that are reachable from the start. First I explicitly tack on a row that is impassable on two sides, with a slim region containing our start: think of it as a doormat leading into a big forest.
+
+We’ll run this to get our set of pathway distances.
+
+Let’s see how this looks graphically.
+
+Of course we immediately observe that this picture gives no hint as to how to actually traverse the maze. At junctures it is not clear which way to turn, and there is nothing to stop us from traveling to a dead end. I first thought maybe I could modify this fast marching method so that we might discover when we hit dead ends or junctures reached by shorter traversals, and then wend our way backward. But I decided this was too hard. The notion that “I’ve no idea what I’m doing, and I don’t even understand my old code” crossed my mind. At this point I’ll remove a few expletives, and just observe that, frankly, I was disappointed.
+The next idea was to sneak in through the exit. After all, we can just as well ooze from there to the entrance. OK, but why do that? I wasn’t so sure myself; the Big Idea was on a slow route to my office that day.
+For this computation we simply use a new last row. This time we move the starting region for our flow to the base of the exit.
+
+We’ll take a peek.
+
+No surprises. Now we overlay these, and things start to look better.
+
+We see quite clearly the path we want. The slight shimmer is just luck of the color function; I’m not particularly adept with graphics.
+So here is the point. When we overlay these, we are in effect summing distances from entrance and exit to each pathway point. On the best path the sum will be approximately constant and equal to the length of that path (approximate because we use numerical approximations throughout the tracking code). Elsewhere the sum will be larger.
+The reader might wonder whether the author just pulled a rabbit out of his hat, knowing all along this would work. In actual fact I was not at all certain, and it was one of those ideas that happened to succeed. Had it not, then I’d have buried it. I do that often. (Sometimes I forget why the idea was so wretched, and exhume it later. I may have missed a career in politics.)
+To extract just that path, we’ll find it’s value and then only take points with distance sums close to that value.
+
+Finally we overlay the shortest path on the maze.
+
+For the morbidly curious, the code (in the download notebook below) we used for the distance tracking weighs in at approximately 160 lines. I thank Wolfram Research colleagues Joel Klein, Rob Knapp, and Michael Trott for helping me with some of the finer points of the Mathematica 8 Compile functionality.
+I think I now understand the early medieval injunction (Babylonian, circa 530 CE): “Ye pour ooze in two byways, before cruising through thy maze.”
+Download notebook
+
+Comments
+The actual quote “Ye pour booze in two byways before cruising through thy daze” is beside the point. The last thing you want to do is get caught in a maze in the first place. I mean, why would you go there? All things (matrixes, dominatrixes, whatever) being equal, of course.
+Posted by Lucile LichtblauDecember 7, 2010 at 1:17 pm
+Turning the input photo to a Graph object in some automated way would certainly be useful…
+Posted by Stan WagonDecember 7, 2010 at 6:09 pm
+Great post, as always, from Dan Lichtblau.
+However, I wonder if this could be simplified. Tell me if I misunderstand something. The text makes clear the exit of the maze is known ahead of time. But then why don’t you just walk uphill from the exit until you reach the entrance? This should never get you trapped. The worst that can happen is two or more parallel lines, so you may not take the optimal path, but there is no notion of optimality in the presented solution either. In the presented solution you could also take the longer path, if two or more are feasible. If you always walk uphill, from the exit, then no dead-end could possibly keep taking you uphill. Thus, you must come out at the entrance. Again, this assumes the exit is known, but the presented solution also makes use of this knowledge.
+Posted by MooniacDecember 8, 2010 at 5:59 pm
+The problem with using only one-direction information is one of too much forking. When you encounter forks in the path you would need to take both to see which is shorter. Then you would need to figure out where the forks were (the oozing, more correctly called a diffusion process, does not explicitly do that). After which, you’d need to prune away all forks that get to the entrance but take longer than the optimal one.
+The oozing tactic does give an optimal path, by the way. We overlay (sum) two distances, one from entrance and one from exit. The way Fast Marching works will guarantee each is the shortest such distance (up to numerical fuzz from discretization). So points that give the minimum value of that sum are of necessity points on to the optimal path.
+Posted by Daniel LichtblauDecember 8, 2010 at 6:17 pm
+Admitting to the reader your own limitations (regarding graph features of v8, cellular automata, etc.), adds a ‘human element’ typically lacking from problem solving examples.
+Thank you for explaining the process, warts and all.
+Posted by RGDecember 10, 2010 at 1:21 am
+http://voofie.com/content/179/solving-unblock-me-recognizing-board-configuration-in-a-screenshot-using-mathematica/
+This article talks about how to use image processing functions in Mathematica to input a game configuration(unblock me) into computer with a screenshot.
+Posted by RossDecember 11, 2010 at 9:52 am
+The “oozing” solution is very neat! I wonder how difficult it would be to get a measure of the distance of the path you have found (in meters say)? I suppose you would need a known reference distance in the image?
+Posted by Mark DDecember 13, 2010 at 6:47 am
+You might like to start up Golly (http://golly.sourceforge.net/), click on Help > Online Archives > Rule Table Repository, then download MazeSolver.zip using the link near the bottom of the page. Golly will open the zip file and display its contents in the help window. Click on the link to open Blenheim.rle.gz and hit return/enter. The zip file contains other example mazes and a couple of Python scripts for creating random mazes.
+Posted by Andrew TrevorrowDecember 13, 2010 at 4:17 pm
+The various pictures of computed paths do not directly indicate the computed distances, but the color changes with a “distance” that is indeed computed in the Notebook code. This distance in units based on the image (so one unit corresponds to one element up/down or left/right in the matrix for the binarized image.
+To get a result in meters one would need to know the scale factor. Ths perhaps could be guestimated from looking at the picture.
+Posted by Daniel LichtblauDecember 13, 2010 at 4:45 pm
+@Stan Wagon
+I had a go at converting the image to a Graph object and using the graph theory tools. I will show the result in a future blog item.
+Posted by Jon McLooneDecember 15, 2010 at 7:56 am
+@Mooniac,
+It has taken me a while to understand what you have in mind, and I’m still not sure I have it right. But yes, it can be done (optimally, even) by only computing all distances from exit. The assumption is that you can perceive the gradient for a few units in all directions, so you always know if the path is getting shorter or not. In case of a fork with a tie, that is, both sides growing smaller as you proceed–and there is one in this maze, at least to approximation within the granularity of the image– you pick either prong. That sentence was probably more complicated than the idea warrants.
+An alternative is to compute distances from either entry or exit, then retract all the ones that are either going to dead ends or longer than necessary paths. It turns out this was relatively straigttforward to code.
+Posted by Daniel LichtblauDecember 16, 2010 at 12:21 pm
+I tried the following..
+mazeImage = original image used in this blog..
+croppedimage = ImageCrop[ImageRotate[mazeImage, 3 Degree], {350, 280}];
+thinMaze = Thinning[DeleteSmallComponents[Binarize[croppedimage]]];
+g = MorphologicalGraph[thinMaze, VertexLabels -> "Name",
+VertexSize -> 2];
+Show[{croppedimage, g}, ImageSize -> 800]
+path = FindShortestPath[EdgeDelete[g, 156 \[UndirectedEdge] 157], 156,
+157];
+Show[{croppedimage,
+HighlightGraph[g, PathGraph[path], VertexLabels -> None,
+GraphHighlightStyle -> “DehighlightHide”]}, ImageSize -> 800]
+Posted by Jaebum JungDecember 21, 2010 at 8:28 am

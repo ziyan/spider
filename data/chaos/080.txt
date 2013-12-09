@@ -1,0 +1,60 @@
+﻿Response.WriteFile -"the server reset the connection"
+Если использовать метод Response.WriteFile, то при отдача больших файлов, начиная с 5МБ, можно часто получить ошибку the server reset the connection.
+Многие советуют переделать отдачу порциями типа:
+try
+{
+// Open the file.
+iStream = new System.IO.FileStream(filepath, System.IO.FileMode.Open, 
+System.IO.FileAccess.Read,System.IO.FileShare.Read);
+
+
+// Total bytes to read:
+dataToRead = iStream.Length;
+
+Response.ContentType = "application/octet-stream";
+Response.AddHeader("Content-Disposition", "attachment; filename=" + filename);
+
+// Read the bytes.
+while (dataToRead > 0)
+{
+// Verify that the client is connected.
+if (Response.IsClientConnected) 
+{
+// Read the data in buffer.
+length = iStream.Read(buffer, 0, 10000);
+
+// Write the data to the current output stream.
+Response.OutputStream.Write(buffer, 0, length);
+
+// Flush the data to the HTML output.
+Response.Flush();
+
+buffer= new Byte[10000];
+dataToRead = dataToRead - length;
+}
+else
+{
+//prevent infinite loop if user disconnects
+dataToRead = -1;
+}
+}
+}
+catch (Exception ex) 
+{
+// Trap the error, if any.
+Response.Write("Error : " + ex.Message);
+}
+
+Но есть более просто способ: всего-то использовать метод Response.TransmitFile
+
+Response.TransmitFile() method sends the file to the client machine without loading it to the Application memory on the server, but Response.WriteFile() method loads the file that is being downloaded in the Application memory area of the server. 
+
+
+Непонятно зачем WriteFile нужен, если он грузит память да к тому же еще и не работает в некоторых случаях...
+
+prahalad комментирует...
+Simple Copy And Paste Jobs At www.visionjobcare.com
+
+Are you really fed up with recession and want to overcome this. If you can manage the time than SMART SOLUTION will show you the way where you can earn from HOME. For more details E-mail us at support.visionjob@gmail.com 
+Visit : http://www.visionjobcare.com/XXX.html
+7:07 AM

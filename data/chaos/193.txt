@@ -1,0 +1,17 @@
+﻿New in Labs: Smart mute and easier ways to unmute
+Wednesday, December 01, 2010 | 4:40 PM
+Posted by Bruce DiBello, Software Engineer
+
+If you subscribe to a lot of mailing lists and like to keep an empty inbox, muting (or preventing a conversation from re-entering your inbox) is an essential feature. We just made a few changes that should make muting even better.
+
+First up is “Smart Mute,” a new Gmail Labs feature that helps solve the problem of conversations that just won’t die. You know the ones I’m talking about: those emails with 10+ people cc’d where everyone replies all, but you lost interest five emails ago. The current mute behavior doesn’t do well in these situations since the messages are addressed to you. You end up with muted messages in your inbox, and the only way to prevent these emails from coming back to your inbox has been to create a custom filter for a specific conversation.
+
+
+If you enable “Smart Mute” from the Labs tab in Gmail Settings, muted conversations will only appear in your inbox if a new message in the conversation is addressed to you and no one else, or a new email in the conversation adds you to the “To” or “Cc” line. Once you enable Smart Mute, mute behavior will change across all versions of Gmail: web, mobile, Android, etc. Try it out and let us know what you think.
+
+Since you’ll likely be muting more than ever, we also added easier ways to unmute muted conversations. Previously, the only way to unmute a conversation was to move it to your inbox -- not super intuitive and useless if the conversation was already in your inbox. Now there are two new ways to unmute a conversation. The first is through an "Unmute" option in the "More actions" menu. You’ll see this when you view or select a muted conversation.
+
+If you’re viewing a muted conversation, you’ll see the second new way to unmute: the "Muted" label next to the subject line now behaves just like all other labels. Clicking on the "X" will remove the Muted label and unmute the conversation. 
+
+
+Hopefully these changes will make it easier to mute and unmute conversations.

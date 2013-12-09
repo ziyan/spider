@@ -1,0 +1,17 @@
+Wave open source next steps: "Wave in a Box"
+Thursday, September 2, 2010 | 5:48 PM
+Since the announcement that we will discontinue development of Google Wave as a standalone product, many people have asked us about the future of the open source code and Wave federation protocol. After spending some time on figuring out our next steps, we'd like to share the plan for our contributions over the coming months.
+We will expand upon the 200K lines of code we've already open sourced (detailed at waveprotocol.org) to flesh out the existing example Wave server and web client into a more complete application or "Wave in a Box."
+This project will include:
+an application bundle including a server and web client supporting real-time collaboration using the same structured conversations as the Google Wave system
+a fast and fully-featured wave panel in the web client with complete support for threaded conversations
+a persistent wave store and search implementation for the server (building on contributed patches to implement a MongoDB store)
+refinements to the client-server protocols
+gadget, robot and data API support
+support for importing wave data from wave.google.com
+the ability to federate across other Wave in a Box instances, with some additional configuration
+This project will not have the full functionality of Google Wave as you know it today. However, we intend to give developers and enterprising users an opportunity to run wave servers and host waves on their own hardware.
+Since the beginning, it has been our vision that the Google Wave protocols could support a new generation of communication and collaboration tools. The response from the developer community to date has been amazing and rewarding. Even more so now, we believe that developers and other projects are a critical part of this story.
+While Wave in a Box will be a functional application, the future of Wave will be defined by your contributions. We hope this project will help the Wave developer community continue to grow and evolve. We'll discuss more technical details of our plan on the Wave Protocol Forum, which is the best place to keep up with the latest progress on the open source project and learn how you can contribute.
+Wave on
+Posted by Alex North, Software Engineer, Google Wave team

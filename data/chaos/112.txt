@@ -1,0 +1,218 @@
+﻿Posted by: yglima | September 25, 2010
+ERT14: Factors, conditional expectation, disintegration and relative product of measures
+After a long hyatus of about three months, I finally have time to write a new post. =)
+
+This post develops necessary machinery to define relative notions of compact and weak mixing systems, seen in the previous posts. These notions are the basic objects used by Furstenberg in his structural theorem, which we shall investigate next month.
+
+A basic concept in Mathematics, exploited in all areas, is Divide and Conquer: in order to analyse a mathematical object, one tries to investigate its smaller components which, in some specific sense, are simpler than the initial one and at the same time give sufficient information to the understanding of the larger structure.
+
+An example of this philosophy occurs when one considers invariant subsets of continuous functions. For example, if such subset is minimal, then every point has dense orbit and, in particular, is recurrent. This simple idea gives a proof of Birkhoff theorem on the existence of recurrent points for continuous transformations defined in compact metric spaces.
+
+Another example is Thurston Geometrization Theorem, in which a compact three-dimensional manifold is broken into the direct sum of prime three-manifolds. These prime three-manifolds are chosen among a set of 8 different geometric structures: spherical, euclidean, hyperbolic and so on.
+
+In terms of measure theory, one has the notion of ergodicity, in which there are no non-trivial invariant sets. In this post, we will discuss another notion on measure theory, that of
+
+1. Factors and extensions
+
+Given two probability measure spaces  and , we usually refer to a measure-preserving map   as a spatial map from  to  such that
+
+it is measurable, that is,  and
+it preserves measure, that is,  for all .
+
+In many situations, the underlying spaces  and   play a secondary role, merely providing the means for defining the -algebras  and  and the measures  and . It will be advantageous to consider the boolean algebras (defined in ERT11)  and  and maps defined from  to . With this, many problems regarding sets of zero measure and transformations not defined in every point are not anymore obstructions for the development of the theory and we only keep the essence of the object in study.
+
+Definition 1 A homomorphism  between two probability measure spaces is an injection  such that
+
+ , for ,
+ , for , and
+ , for .
+In this situation, we say  is a factor of  or that  is an extension of . If  is a bijection,  is called an isomorphism.
+
+We remark that, provided properties (i) to (iii) hold, the map  is necessarily an injection between the two boolean algebras. We leave this as an exercise to reader. Now, let’s see some
+
+Examples.
+
+Every measure space  has a trivial factor: let with the trivial -algebra  and probability . Then  defined by  is a homomorphism.
+Every -algebra   defines the factor   by the inclusion map .
+Actually, the last example represents the general situation.
+
+Lemma 2 If  is a homomorphism, then there exists a -algebra  and an isomorphism between  and 
+
+Proof: Define . The map  is, by definition, an isomorphism. 
+
+In all cases of interest, the homomorphism  is determined by a spatial map from  to . In the spectral point of view, it induces an isometric inclusion from  to   that lifts maps from  to  by the composition map  , for every . We denote this map by . By Lemma 2,  is isometric to .
+
+When , we have an inclusion between two closed Hilbert spaces and so it’s worth to infer who is the orthogonal projection from  to .
+
+2. Conditional expectation
+
+Definition 3 If  is a probability measure space and   a -algebra, the condition expectation of a function  with respect to   is the unique -measurable map  such that
+
+If  is a homomorphism, the conditional expectation of  is the unique function   for which . We denote  by .
+
+By the above definition,  is the unique function from  to  for which 
+
+Remarks. For all properties to be proved, we sometimes assume, by means of Lemma 2, that the factor is defined by a sub--algebra.
+
+Let us check that the above equality really defines a unique function. Consider the probability measure  defined in   by the identity
+
+
+
+Clearly,  is absolutely continuous with respect to the restriction  of   to . By Radon-Nikodym theorem, there is a unique -measurable density function  such that
+
+
+
+This proves  (and so  ) is well-defined and so, for every , there is a map
+
+
+
+It is clearly a linear operator, which is actually bounded. For this last assertion, we make use of Jensen inequality.
+
+Theorem 4 Let  be a convex function. If is such that  , then 
+
+
+For a proof, consult any basic book of probability. Applying Jensen inequality to the function , the boundedness of  follows directly:
+
+
+
+We thus have the
+
+Proposition 5 For every , the conditional expectation  is a linear weak contraction.
+
+The good feature of Proposition 5, although its intrisic importance, is that many properties of conditional expectation can now be proved by means of approximation. We’ll usually do this when dealing with products of functions. The next proposition collects the main properties of the conditional expectation.
+
+Proposition 6 The conditional expectation operator  has the following properties:
+
+ ,
+  whenever ,
+  for every ,
+  whenever , and
+ .
+If  is another homomorphism, then .
+
+Proof: (i). Clear.
+
+(ii). Let . Given , consider the -measurable set . We have
+
+
+
+implying that . As  is arbitrary, .
+
+(iii)  is -measurable and so
+
+
+
+(iv). First, assume  for some . Then . For arbitrary ,
+
+
+
+and so the equality is true in this case. For the general one, proceed by approximation.
+
+(v). Take  in relation (1).
+
+(vi). Let . For every , we have
+
+
+
+
+
+Until now, we didn’t say what the conditional expectation has to do with the orthogonal projection we wanted to investigate in the first time. Let  denote the orthogonal projection of  to . It is a simple fact that
+
+Lemma 7 Restricted to ,  is equal to .
+
+Proof: Assume  and . For each , we have
+
+
+
+by definition. As  is dense in , we conclude the proof.  
+
+3. Measure-preserving systems
+
+We now turn our attention to measure-preserving systems, which is our case of interest. In this section, we return to the usual notation of mathematical letter representing a mps. Consider two mps  and .
+
+Definition 8 A homomorphism  from  to  is a homomorphism  between the measure spaces such that . In this case, we say  is a factor of  or that  is an extension of .
+
+Roughly speaking, what happens is that, if one considers the fibers   of elements of , the dynamics of T among the fibers is exactly the dynamics of . In other words, saying that   is an extension of  means that, after collapsing points into fibers, the remaining dynamics is that of . This is exactly we wanted: to decompose the dynamics  into a simpler one. Again, let’s see some
+
+Examples.
+
+Every mps  has a trivial factor: let  be the trivial measure space defined in Example 1 and  the spatial map in  such that . The map  given by  , , is a homomorphism.
+Consider a mps  and a -algebra  such that . This defines another mps  that is a factor of the initial one by the identity map .
+Given two mps  and , the product mps   (see ERT8) is an extension of both  and  via the projections.
+Given two measure spaces  and , let  be a mps and  a measure-preserving transformations. They induce the skew-product system  defined bythat is an extension of  via the projection  on the first coordinate.
+As in Lemma 2, we have a classification of factors.
+
+Lemma 9 For every homomorphism  between mps, there exists a -algebra   such that  is isomorphic to .
+
+Proof: Let . We have
+
+
+
+and so  is a mps. The same isomorphism between measure spaces defined in Lemma 2 represents an isomorphism between the mps  and , due to the assumption that commutes  and . 
+
+When one has a homomorphism between mps, conditional expectations have the additional property of being compatible with  and , according to the
+
+Proposition 10 Let  be a homomorphism. Then, for each  , one has
+
+
+Proof: Fix . Applying a change of variable, we have
+
+
+
+As , the uniqueness of  guarantees the result. 
+
+4. Disintegration of measures
+
+We now examine what takes place above the points , that is, on the fibers  of a homomorphism  between measure spaces:  should contain  as a sub-measure, in some sense. This is what happens when one considers the disintegration of  with respect to .
+
+Theorem 11 (Rokhlin) Let  be a homomorphism, where  is a compact metric space. Then there exists a measurable map  from  to  satisfying, for every  , the following conditions:
+
+  for -a.e.  and 
+ .
+
+For a proof of Rokhlin’s theorem, we refer the reader to Furstenberg’s book or to these lecture notes from Marcelo Viana.
+
+We call each  a conditional measure and write
+
+
+
+for the disintegration of  with respect to  . By (i), these conditional measures capture the essence of the conditional expectation. It is a simple task to check that the disintegration is unique almost surely. This implies, among other things, the following
+
+Proposition 12 Let  be a homomorphism of mps and  be the disintegration of with respect to  . Then
+
+
+Proof: It is enough to check that  is a disintegration satisfying (i) of Theorem 11. In fact, if , by a change of variables and (2),
+
+
+
+which, by Proposition 10, is equal to
+
+
+
+and so
+
+
+
+proving that . 
+
+5. Relative product of measure spaces
+
+Suppose now that , ,  are measure spaces and ,  homomorphisms. One can form the fibre product space , where  is defined via the disintegrations  and by the integration formula
+
+
+
+This measure space is, in a natural way, an extension of . Actually, if  is the projection map on the first coordinate, then  is a homomorphism.
+
+Definition 13 The measure space  is called the product of  and  relative to .
+
+Remarks.
+
+ is supported on the fibre-product set
+It is a simple task to check that if  is defined in an analogous manner, then , which proves that  is unambiguously an extension of . This also proves that, if  is another extension, then the operation of relative product with respect to  is associative:We denote this measure space simply as . See Furstenberg book for further detail.
+From the probabilistic point of view, the relative product provides a probability space on which both -algebras of events  and  are represented and are independent conditioned upon  . This is corroborated by the next
+
+Proposition 14 If  and , then
+
+where the first expectation refers to the extension , the second to  and the third to  .
+
+Proof: By Rokhlin theorem,

@@ -1,0 +1,28 @@
+﻿WEDNESDAY, OCTOBER 20, 2010
+
+More Clouding
+When you plug your fridge into the mains electricity supply you don't worry about all the technology sitting behind the wall socket -- it just works. Cloud computing is starting to supply IT in a similar fashion. No more worrying about backups, no more wasted hours configuring a new or repaired machine -- just plug into the network, fire up your web browser and away you go.
+
+Researchers have tougher and more specialised IT needs than most, so to realise the same ease of use that the cloud now provides for email or word processing requires work in several areas. One of these areas is to adapt existing established research tools to the cloud, and that is what we plan to do with GATE in the next period. Over the last decade GATE has become a world leader for research and development of text mining algorithms.
+
+Text has become a more and more important communication method in recent decades. Our children's thumbs often spend half the day typing on their tiny phone keypads; our evenings often include sessions on Facebook or writing email to distant friends and relatives. When we interact with the corporations and governmental organisations whose infrastructure and services underpin our daily lives we fill in forms or write emails. When we want to publicise our work for our employer or share details of our leisure activities with a wider audience we create websites, post Twitter messages or make blog entries. Scientists also now use these channels in their work, in addition to publishing in peer-reviewed journals -- a process which has also seen a huge expansion in recent years.
+
+This avalanche of the written word has changed many things, not least the way that scientists gather information from the experiences of their peers. For example, a team at the World Health Organisation's cancer research agency recently found the first evidence of a link between a particular genetic mutation and the risk of lung cancer in smokers. Their experiments require large amounts of costly laboratory time to verify or falsify hypotheses based on samples of mutations in gene sequences from their test subjects. Text mining from previous publications makes it possible for them to reduce this lab time by factoring in probabilities based on asssociation strengths between mutations, environmental factors and active chemicals.
+
+A second area that has been revolutionised by the new world of text concerns a core function that commercial concerns must implement in order to stay in business. Customer relations and market research are no longer just about monitoring the goings on of the corporate call center. Keeping up to date with the public image of your products or services now means coping with the Twitter firehose (45 million posts per day), the comment sections of consumer review sites, or the point-and-click 'contact us' forms from the company website. To do this by hand is now impossible in the general case: the data volume long ago outstripped the possibility of cost-effective manual monitoring. Text mining provides alternative, automatic methods for dealing with this data.
+
+GATE provides four core systems to support scientists experimenting with new text mining algorithms and developers using text mining in their applications:
+
+GATE Developer: an integrated development environment for language processing components
+GATE Embedded: an object library optimised for inclusion in diverse applications
+GATE Teamware: a collaborative annotation environment for high volume factory-style semantic annotation projects built around a workflow engine
+GATE Mímir: (Multi-paradigm Information Management Index and Repository) a massively scaleable multiparadigm index
+Our plan for the next period is to work towards making use of these systems more like electric sockets and fridges!
+
+A caveat: it is important to note that current commercial cloud offerings are not yet appropriate as a drop-in replacement for all academic computing facilities. For example, the cost of running a virtual machine on Amazon's EC2 continuously for 1 year is roughly equivalent to the cost of buying a similar machine. In the latter case the hardware may be expected to perform reliably for at least 3 years, which means that the Amazon option is only cost effective if the cost of hosting a server in your organisation is on the order of 3 times the cost of the server hardware. Careful quantification of the costs is important when moving to the cloud.
+
+See also this previous post on cloud computing.
+
+Permalink. On Blogspot.
+
+POSTED BY HAMISH CUNNINGHAM AT 12:44 PM

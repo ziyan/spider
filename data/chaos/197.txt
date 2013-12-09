@@ -1,0 +1,18 @@
+﻿Spring Cleaning: Comments, offline, and older browser support
+Monday, May 24, 2010 by Mihai Parparita
+Springtime is a great opportunity to clean up, take care of loose ends, and generally spruce things up. Since we still have a few weeks of spring left, the Reader team is taking this opportunity to clean things up a bit.
+Simplifying comments
+Ever since we launched support for comments on shared items, one of the most frequent points of confusion has been "who can comment on my shared items?" (or rather, "why can't I comment on my friends' shared items?"). Up until now, someone had to be in a designated sharing group to be able to comment on a post, even if you were sharing publicly. To make things a lot simpler, we've made it so that if you can see a shared item, you can comment on it.
+For those of you who are sharing publicly, the next time you log in to Reader you'll get a choice between continuing to share publicly and allowing anyone to comment on your shared items, or switching to protected sharing:
+
+Nothing will change for users who already had their shared items protected, since visibility and commenting for their shared items was already consistent. Keep in mind that you can always update who can view and comment on your shared items on the sharing settings page.
+Phasing out support for older browsers
+Reader is joining Docs (and many other sites) in removing support for older browsers, notably Internet Explorer 6, Firefox 1.0 and 2.0, Safari 2.0 and 3.0, and Chrome 1.0, 2.0. and 3.0. Reader is a cutting edge web application, and this will allow us to spend our time improving Reader instead of fixing issues with antiquated browsers. Starting on June 1, users of older browsers will begin to see a notification encouraging them to upgrade to any of Reader’s supported browsers.
+Discontinuing offline access via Gears
+We launched offline support three years ago, but only a minority of Reader users actively use it today. Because supporting offline access requires a large ongoing engineering effort, and because Gears itself is being surpassed by HTML5, we've decided to remove offline support in Reader starting on June 1.
+Of course, we know that offline access is important to some of you, and with the wide range of third party clients that sync with Google Reader, you don’t need to give it up. Depending on your operating system, we recommend taking a look at:
+NetNewsWire (Mac OS X)
+FeedDemon (Windows)
+Liferea (Linux)
+Each of these alternatives will sync your subscriptions and read state with Reader, and continue to provide offline access to your feeds. For more information, please see our help center.
+We realize that removing features and support is not easy, but with this spring cleaning done, we've laid the groundwork for more Reader improvements down the line. We apologize for any inconvenience, and if you have any questions please head over to our forum, or message us on Twitter.

@@ -1,0 +1,189 @@
+﻿The Bourgain-Guth argument for proving restriction theorems
+28 December, 2010 in expository, math.CA | Tags: Jean Bourgain, Larry Guth, restriction conjecture | by Terence Tao
+One of my favourite unsolved problems in harmonic analysis is the restriction problem. This problem, first posed explicitly by Elias Stein, can take many equivalent forms, but one of them is this: one starts with a smooth compact hypersurface  (possibly with boundary) in , such as the unit sphere  in , and equips it with surface measure . One then takes a bounded measurable function  on this surface, and then computes the (inverse) Fourier transform
+
+
+
+of the measure . As  is bounded and  is a finite measure, this is a bounded function on ; from the dominated convergence theorem, it is also continuous. The restriction problem asks whether this Fourier transform also decays in space, and specifically whether  lies in  for some . (This is a natural space to control decay because it is translation invariant, which is compatible on the frequency space side with the modulation invariance of .) By the closed graph theorem, this is the case if and only if there is an estimate of the form
+
+
+
+for some constant  that can depend on  but not on . By a limiting argument, to provide such an estimate, it suffices to prove such an estimate under the additional assumption that  is smooth.
+
+Strictly speaking, the above problem should be called the extension problem, but it is dual to the original formulation of the restriction problem, which asks to find those exponents  for which the Fourier transform of an  function  can be meaningfully restricted to a hypersurface , in the sense that the map  can be continuously defined from  to, say, . A duality argument shows that the exponents  for which the restriction property holds are the dual exponents to the exponents  for which the extension problem holds.
+
+There are several motivations for studying the restriction problem. The problem is connected to the classical question of determining the nature of the convergence of various Fourier summation methods (and specifically, Bochner-Riesz summation); very roughly speaking, if one wishes to perform a partial Fourier transform by restricting the frequencies (possibly using a well-chosen weight) to some region  (such as a ball), then one expects this operation to well behaved if the boundary  of this region has good restriction (or extension) properties. More generally, the restriction problem for a surface  is connected to the behaviour of Fourier multipliers whose symbols are singular at . The problem is also connected to the analysis of various linear PDE such as the Helmholtz equation, Schro\”dinger equation, wave equation, and the (linearised) Korteweg-de Vries equation, because solutions to such equations can be expressed via the Fourier transform in the form  for various surfaces  (the sphere, paraboloid, light cone, and cubic for the Helmholtz, Schrödinger, wave, and linearised Korteweg de Vries equation respectively). A particular family of restriction-type theorems for such surfaces, known as Strichartz estimates, play a foundational role in the nonlinear perturbations of these linear equations (e.g. the nonlinear Schrödinger equation, the nonlinear wave equation, and the Korteweg-de Vries equation). Last, but not least, there is a a fundamental connection between the restriction problem and the Kakeya problem, which roughly speaking concerns how tubes that point in different directions can overlap. Indeed, by superimposing special functions of the type , known as wave packets, and which are concentrated on tubes in various directions, one can “encode” the Kakeya problem inside the restriction problem; in particular, the conjectured solution to the restriction problem implies the conjectured solution to the Kakeya problem. Finally, the restriction problem serves as a simplified toy model for studying discrete exponential sums whose coefficients do not have a well controlled phase; this perspective was, for instance, used by Ben Green when he established Roth’s theorem in the primes by Fourier-analytic methods, which was in turn one of the main inspirations for our later work establishing arbitrarily long progressions in the primes, although we ended up using ergodic-theoretic arguments instead of Fourier-analytic ones and so did not directly use restriction theory in that paper.
+
+The estimate (1) is trivial for  and becomes harder for smaller . The geometry, and more precisely the curvature, of the surface , plays a key role: if  contains a portion which is completely flat, then it is not difficult to concoct an  for which  fails to decay in the normal direction to this flat portion, and so there are no restriction estimates for any finite . Conversely, if  is not infinitely flat at any point, then from the method of stationary phase, the Fourier transform  can be shown to decay at a power rate at infinity, and this together with a standard method known as the  argument can be used to give non-trivial restriction estimates for finite . However, these arguments fall somewhat short of obtaining the best possible exponents . For instance, in the case of the sphere , the Fourier transform  is known to decay at the rate  and no better as , which shows that the condition  is necessary in order for (1) to hold for this surface. The restriction conjecture for  asserts that this necessary condition is also sufficient. However, the -based argument gives only the Tomas-Stein theorem, which in this context gives (1) in the weaker range . (On the other hand, by the nature of the  method, the Tomas-Stein theorem does allow the  norm on the right-hand side to be relaxed to , at which point the Tomas-Stein exponent becomes best possible. The fact that the Tomas-Stein theorem has an  norm on the right-hand side is particularly valuable for applications to PDE, leading in particular to the Strichartz estimates mentioned earlier.)
+
+Over the last two decades, there was a fair amount of work in pushing past the Tomas-Stein barrier. For sake of concreteness let us work just with the restriction problem for the unit sphere  in . Here, the restriction conjecture asserts that (1) holds for all , while the Tomas-Stein theorem gives only . By combining a multiscale analysis approach with some new progress on the Kakeya conjecture, Bourgain was able to obtain the first improvement on this range, establishing the restriction conjecture for . The methods were steadily refined over the years; until recently, the best result (due to myself) was that the conjecture held for all , which proceeded by analysing a “bilinear ” variant of the problem studied previously by Bourgain and by Wolff. This is essentially the limit of that method; the relevant bilinear  estimate fails for . (This estimate was recently established at the endpoint  by Jungjin Lee (personal communication), though this does not quite improve the range of exponents in (1) due to a logarithmic inefficiency in converting the bilinear estimate to a linear one.)
+
+On the other hand, the full range  of exponents in (1) was obtained by Bennett, Carbery, and myself (with an alternate proof later given by Guth), but only under the additional assumption of non-coplanar interactions. In three dimensions, this assumption was enforced by replacing (1) with the weaker trilinear (and localised) variant
+
+
+
+where  and  are arbitrary,  is the ball of radius  in , and  are compact portions of  whose unit normals are never coplanar, thus there is a uniform lower bound
+
+ 
+
+for some  and all . If it were not for this non-coplanarity restriction, (2) would be equivalent to (1) (by setting  and , with the converse implication coming from Hölder’s inequality; the  loss can be removed by a lemma from a paper of mine). At the time we wrote this paper, we tried fairly hard to try to remove this non-coplanarity restriction in order to recover progress on the original restriction conjecture, but without much success.
+
+A few weeks ago, though, Bourgain and Guth found a new way to use multiscale analysis to “interpolate” between the result of Bennett, Carbery and myself (that has optimal exponents, but requires non-coplanar interactions), with a more classical square function estimate of Córdoba that handles the coplanar case. A direct application of this interpolation method already ties with the previous best known result in three dimensions (i.e. that (1) holds for ). But it also allows for the insertion of additional input, such as the best Kakeya estimate currently known in three dimensions, due to Wolff. This enlarges the range slightly to . The method also can extend to variable-coefficient settings, and in some of these cases (where there is so much “compression” going on that no additional Kakeya estimates are available) the estimates are best possible.
+
+As is often the case in this field, there is a lot of technical book-keeping and juggling of parameters in the formal arguments of Bourgain and Guth, but the main ideas and “numerology” can be expressed fairly readily. (In mathematics, numerology refers to the empirically observed relationships between various key exponents and other numerical parameters; in many cases, one can use shortcuts such as dimensional analysis or informal heuristic, to compute these exponents long before the formal argument is completely in place.) Below the fold, I would like to record this numerology for the simplest of the Bourgain-Guth arguments, namely a reproof of (1) for . This is primarily for my own benefit, but may be of interest to other experts in this particular topic. (See also my 2003 lecture notes on the restriction conjecture.)
+
+In order to focus on the ideas in the paper (rather than on the technical details), I will adopt an informal, heuristic approach, for instance by interpreting the uncertainty principle and the pigeonhole principle rather liberally, and by focusing on main terms in a decomposition and ignoring secondary terms. I will also be somewhat vague with regard to asymptotic notation such as . Making the arguments rigorous requires a certain amount of standard but tedious effort (and is one of the main reasons why the Bourgain-Guth paper is as long as it is), which I will not focus on here.
+
+
+— 1. The Córdoba square function estimate —
+
+In two dimensions, the restriction theory is well understood, due to the work of Córdoba, Fefferman, and others. The situation is particularly simple when one looks at bilinear expressions such as
+
+
+
+where , , and  are surface measures on two smooth compact curves  that are transverse in the sense that the unit normals of  are never oriented in the same direction as the unit normals of . (A model case to consider here are two arcs of the unit circle, one near  and one near .) In this case, we can use Plancherel’s theorem to rewrite the above expression as a convolution
+
+
+
+The transversality of  and , combined with the inverse function theorem, shows that  is a non-degenerate pushforward of the tensor product , and so one obtains the basic bilinear restriction estimate
+
+
+
+This estimate (and higher-dimensional analogues thereof) lead to the bilinear  estimates which are of fundamental importance in nonlinear dispersive equations (particularly those in which the nonlinearity contains derivatives).
+
+This bilinear estimate can be localised. Suppose one splits  into arcs  of diameter  for some , which induces a decomposition  of  into components . Similarly decompose . Then we have
+
+
+
+The Fourier transform of  is supported in the Minkowski sum . The transversality of  ensures that these sums are basically disjoint as  varies, so by almost orthogonality one has
+
+
+
+or equivalently
+
+
+
+Actually, this estimate is morally localisable to balls  of radius ; heuristically, we have
+
+
+
+Informally, this is due to the uncertainty principle: localising in space to scale wouuld cause the arcs  in Fourier space to blur out at the scale , but this will not significantly affect the almost disjointness of the Minkowski sums . (To make this rigorous, one would use a smoother cutoff than , and in particular it is convenient to use a cutoff which is compactly supported in Fourier space rather than physical space; we will not discuss these technicalities further here.)
+
+Furthermore, the uncertainty principle suggests to us that  and  are essentially constant on balls  of radius . As such, the expression inside the norm on the right-hand side of (3) is morally constant on such balls, which allows us to apply Hölder’s inequality and conclude that
+
+
+
+for any .
+
+This is a bilinear estimate, but for heuristic purposes it is morally equivalent to the linear estimate
+
+
+
+for , where  and  is the surface measure on a curve  which “exhibits curvature” and such that  is “dominated by transverse interactions”, , and  is partitioned into arcs  of diameter . For the purposes of numerology, we will pretend that (5) is true as stated, though in practice one has to actually work with the bilinearisation (4) instead.
+
+We remark that Córdoba used (a rigorous form of) (5) to establish the restriction conjecture (1) for curves in the plane (such as the unit circle) in the optimal range .
+
+The estimate (5) is a two-dimensional one, but it can be stepped up to a three-dimensional estimate
+
+
+
+for , where ,  is now surface measure on the sphere , which one decomposes into caps  of diameter ,  is supported on the -neighbourhood of a great circle in  with , and  is “dominated by transverse interactions” in a sense that we will not quantify precisely here. This gives efficient control on  in terms of square functions, but only in the “transverse coplanar case” in which the frequencies that dominate  are both coplanar (in the sense that they all lie roughly on the same great circle) and transverse.
+
+— 2. The Bourgain-Guth argument —
+
+Now we sketch how the Bourgain-Guth argument works to establish (1) for . Fix ; we may assume . For each radius , let  be the best constant in the local restriction estimate
+
+
+
+where . To show (1), one has to show that  is bounded uniformly in . Actually, thanks to an “epsilon removal lemma” that I proved some time ago using a variant of the Tomas-Stein argument, it suffices to show that the logarithmic growth estimate  for any .
+
+An effective technique for achieving this is an induction on scales argument, bounding  efficiently in terms of  for various scales  between  and . This technique was introduced by Bourgain, using the intermediate scale  (which is a natural scale for the purposes of approximating spherical caps by disks while still respecting the uncertainty principle). A subsequent paper of Wolff adapted this argument by also relying on scales  that were much closer to . The Bourgain-Guth argument is closer in spirit to this latter approach.
+
+Specifically, one sets  to be a small power of , and divides the sphere  into largish caps  of radius , thus splitting . At the same time, we cover  by smallish balls  of radius . On each such ball , the functions  are morally constant, as per the uncertainty principle. Of course, the amplitude of the  on  depend on ; for each small ball , only a fraction of the  will “dominate” the sum . Roughly speaking, we can then sort the balls  into three classes:
+
+(Non-coplanar case) There exist three dominant caps  which do not lie within  of a great circle.
+(Non-transverse case) All the dominant caps  lie in a cap of size .
+(Transverse coplanar case) All the dominant caps lie within  of a great circle, but at least two of them are at distance  from each other.
+In the first case, one can control  by  non-coplanar interactions of the form , where  are portions of  on non-coplanar portions of the sphere . In this case, one can use (2) and obtain a contribution of  in this case.
+
+It has been known for some time (since a paper of myself, Vargas, and Vega) that the non-transverse case can always be eliminated. Basically, if we group the caps  into larger caps  of radius , and decompose  accordingly, then in the non-transverse case we can morally bound
+
+
+
+and so
+
+
+
+However, a standard parabolic rescaling argument (which, strictly speaking, requires one to generalise the sphere to a larger family of similarly curved surfaces, but let us ignore this technical detail) shows that
+
+
+
+and so (since there are  large caps )
+
+
+
+Since , the exponent of  here is positive, and so this is a good term for the recurrence.
+
+Finally, we deal with the transverse, coplanar case. Here, the main tool is the Córdoba-type square function estimate (6). Being coplanar, there are only about  caps  that contribute here, so we can pay a factor of  and convert the square function to a -function:
+
+
+
+Summing over all such balls, we obtain
+
+
+
+Again, a parabolic rescaling gives
+
+
+
+so the net contribution to  here is . This leads to the recursion
+
+
+
+For , the exponents of  and  are negative, and this allows one to induct on scales and get the required bound .
+
+The argument given above is not optimal; the main inefficiency here is the factor of  that one pays to convert the square function to the function. This factor is only truly present if almost every cap  along a great circle is genuinely contributing to . However, one can use Kakeya estimates to prevent this event from happening too often. Indeed, thanks to the nature of parabolic scaling, the functions  are not merely essentially constant on balls of radius , but are in fact essentially constant on  tubes oriented in the normal direction of . One can use a Kakeya estimate (such as Wolff’s Kakeya estimate) to then prevent these tubes from congregating too often with too high of a multiplicity; quantifying this, Bourgain and Guth were able to relax the constraint  to . Unfortunately, there are still some residual inefficiencies, and even with the full Kakekya conjecture, the argument given in that paper only gets down to .
+
+Comments feed for this article
+28 December, 2010 at 5:06 pm
+Pedro Lauridsen Ribeiro
+
+
+Dear Prof. Tao,
+
+There is an historical question I have about the circle of ideas around the restriction problem, namely the decay estimates coming from stationary
+phase that enter the proof of Strichartz estimates, say, for the Schrödinger and wave / Klein-Gordon operators. When were these decay estimates first proved, and by whom? The oldest reference I know of is a landmark paper on axiomatic quantum field theory due to David Ruelle:
+
+- D. Ruelle, “On the Asymptotic Condition in Quantum Field Theory”.
+Helvetica Physica Acta 35 (1962) 147-163.
+
+He proves the aforementioned estimates for the wave and Klein-Gordon operators, with the purpose of constructing an axiomatic scattering theory for quantum fields following earlier ideas due to Rudolf Haag. As for the Schrödinger operator, I couldn’t track back to anything before Strichartz’s classic Duke Math. J. paper in ’75 and Hörmander’s paper on long range scattering theory (Math. Z. 146 (1976) 69-91). The first reference refers to
+explicit formulae for Green functions in the first volume of Gel’fand-Shilov’s book on generalized functions, whereas the second seems to do everything from scratch.
+
+10  Rate This
+Reply
+28 December, 2010 at 10:13 pm
+Terence Tao
+
+
+The earliest reference I know of is by Littman from 1963, http://www.ams.org/mathscinet-getitem?mr=146521 , where he gives counterexamples to various L^p dispersive inequalities. Another early reference is Segal’s 1976 paper http://www.ams.org/mathscinet-getitem?mr=492892 .
+
+10  Rate This
+Reply
+29 December, 2010 at 6:06 am
+Pedro Lauridsen Ribeiro
+
+
+Oh yes, I had forgotten Segal’s paper. I had seen Littman’s paper quoted in some lecture notes about Strichartz estimates, but only regarding some of the counterexamples you’ve mentioned – to wit, counterexamples to “energy-like” estimates in  for . Like Strichartz, Littman also seems to work with an explicit representation of Green’s functions for the wave operator.
+
+Neither Segal’s paper, nor Littman’s, seem to give earlier references for the proof of  decay estimates using stationary phase, though, which form the other “interpolation tip”. It seems that Ruelle’s paper is the oldest reference with respect to this, after all – however, he was only interested in these decay estimates by themselves, and didn’t try to interpolate them with energy estimates.
+
+00  Rate This
+Reply
+28 December, 2010 at 8:44 pm
+Zaher
+
+
+The left-hand side of the statement of the Bennet-Carbery-Tao result is written above as a product of norms rather than as the $L^{q/3}$ norm of the product.
+
+[Corrected, thanks - T.]

@@ -18,7 +18,7 @@ class Handler(tornado.web.RequestHandler):
 class Redirect(Handler):
 
     def get(self, *args, **kwargs):
-        self.redirect('http://ziyan.github.io/spider/')
+        self.redirect('http://ziyan.me/spider/')
 
 class Capture(Handler):
 

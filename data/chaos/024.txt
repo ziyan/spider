@@ -1,0 +1,92 @@
+ Tablet PCs
+Archos 70 and 101 Internet Tablet review
+By Joanna Stern  posted Dec 24th 2010 12:15PM
+Review
+
+
+We've seen our fair share of budget tablets from the Augens, Cobys, and Viewsonics of the world over the last six months, but let's not forget that before everyone and their mother jumped into the cheap-o Android tablet pool, Archos was already in the shallow end with its own sub-$200 tablets. But, while the company was first to market, products like the Archos 5 and 7 Home Tablet certainly weren't anything to wait in line for -- they both packed slow processors, resistive displays, and ran outdated versions of Google's mobile OS. Whether it was the mediocre reviews or the competition coming up behind them, the French company knew it was time to step it up, and its Archos 70 and 101 attempt to right all those wrongs. The 7- and 10-inch tablet both have Android 2.2, 1GHz ARM Cortex A8 processors, and capacitive screens. Oh, and don't forget the front-facing VGA cameras. With each ringing up at $299, has Archos finally mastered the art of the cheap tablet? Find out in our full review!
+Archos 70 and 101 Internet Tablets
+
+
+
+
+
+
+
+Look and feel
+
+
+It's hard to say what you really notice first about the Archos 70 and 101 -- the incredibly chintzy feel or the extremely slender designs. We'll start with the better of those two, since we truly wish every tablet out there was as thin and light as these slabs. The 70 is only .43 inches thick and .66 pounds, whereas the Galaxy Tab is .4 inches thicker and almost .2 pounds heavier. In fact, it compares better in size and weight to the latest Kindle or Nook Color. Obviously, the .45-inch / 1.1-pound 101 is larger and heavier than the 7-inch version, but even so, it is thinner and lighter than the .5-inch / 1.5-pound iPad. 
+
+What does that mean in real life? Well, that they are much easier to manage than the other tablets out there -- the 70 is very comfortable to hold in one hand when reading a book, and the 101 is easier to handle than the iPad while lying down (although, you'll still probably want to prop it up more often than not). Speaking of propping up the tablets, both of them have integrated plastic kickstands -- the 70's extends from the right back side, while the 101's is centered on the back of the tablet. The one on the 101 can actually be extended quite far, putting it at a nice angle to type on. The stands, like the rest of the tablet, feel extremely flimsy -- these aren't HTC quality by any means (see: Evo 4G, HD 7), but it is really nice to have them integrated into the design, and it certainly saves you from having to pick up an extra accessory.
+
+As we've already seriously hinted, the 70 and 101 look and feel very cheap. Both are primarily made of black plastic, though a squircle-shaped piece on the back, which is adorned with a white Archos logo, feels like it could be made of some sort of metal. And that's really the unappealing part of the designs: there are lots of different shades and types of plastic being used, and they both just look like a toddler that picked out their outfit -- mismatched and untidy. For instance, the bezels aren't flush with the edges and the material covering the edges is different than the one being used on the rear cover. Neither of the devices are what we'd call attractive, especially once they become seeped in fingerprints. We just don't have much confidence in the longevity of the device either. In hand, the materials feel far from solid, and even after wrapping it in a scarf, we worried about keeping it safe from bumps and bruises in our bag. While they won't be winning any design or durability awards, both do have a very well-rounded array of ports, including mini-HDMI, mini-USB, 3.5mm headphone jacks as well as a microSD card slot. The 101 uses its extra edge room to accommodate an additional full size USB port. 
+
+Screen and speakers
+
+
+As you'd expect, the cheap make isn't limited to the surrounding parts of the tablet -- the plastic displays on the 70 and 101 suffer from the same issues. We weren't expecting Gorilla Glass quality here, but both of them are flimsy and when pressed firmly, they start to cave in quite a bit. However, it's the 1024 x 600-resolution LCD on the 101 that's the real eye sore -- when turned off, the uber glossy panel (we're talking mirror glossy) is a metallic greenish color. See what we're talking about? Thankfully, when powered on the color goes away, but there's really no describing how off-putting the discoloration of the screen makes the entire device. With that said, the capacitive displays are actually quite responsive -- tapping and swiping lightly was no issue when navigating the OS and we actually found our fingers to slide quite nicely over the glossy coating. After suffering with the Archos 7 Home tablet's resistive display with a fingernail and stylus, the experience is a breath of fresh air. The accelerometers on both tablets are decently responsive as well -- we managed to steer through Raging Thunder Light on both devices without a problem. 
+
+The displays are also both sufficiently bright; a 720p clip of Black Swan looked crisp and vivid. That was only when watching straight on or just a tad to the right or left of the screen, however, since vertical viewing angles are incredibly bad. Tilting the screens slightly off axis to about 30-degrees caused a ton of color distortion, and if you happen to be standing above the displays while they are propped up on the kickstands, it's nearly impossible to see what is on screen -- seriously, we've had to bend down just to select the home button. We have heard a few cases of people getting units with faulty screens or ones that may have been placed upside down within the unit, but thankfully, our review unit didn't have that issue. 
+
+Camera and speakers
+
+
+We're not sure if it's a hardware or a software problem, but the VGA cameras on both tablets are incredibly sluggish, and when we finally were able to snap some stills, they came out blurry and grainy. Similarly, when we shot some video, the footage was very choppy and the audio wasn't in sync with the video at all. We stuck a few of those stills in the gallery below, but it's really a struggle to get these things to take clear shots. 
+
+Surprisingly, the speakers on the backside of the 101 and on the edges of the 70 are quite loud. The 101 seemed to blast out our tunes at a higher frequency, but still they are both decent for watching a movie. Archos does include a pair of standard 3.5mm headphones in the box, though you'll want to take the money you saved buying one of these tablets and get yourself a more comfortable pair of earbuds -- take it from our irritated inner ears. 
+
+
+Android experience
+
+
+Unlike Samsung (with its Galaxy Tab), Archos has done little to no work on top of Android 2.2, meaning it's really just an enlarged version of the phone experience. Whether or not that works for you is going to depend on what you are looking for in a tablet, but our only real complaints about the OS comes with the lack of preloaded Google applications and Market. Of course, that's become a common issue with a number of these Android tablets -- at least the ones that lack 3G connectivity -- and to make up for that shortcoming, Archos has preloaded its AppsLib store, which currently has over 10,000 apps. While the selection has been improved, some favorites are still missing -- we came up empty handed when we went searching for Pandora and Amazon Kindle. ArchosFans has made it incredibly easy to download the Archos-specific Market apk and sideload it to the devices, and that's exactly what we did. Within a few minutes we had recreated our usual Android experience with our go-to third-party and Google apps, including YouTube. There's no doubt that it's a hassle to do and that it probably wouldn't occur to the average consumer, but at the very least it is an option for those willing to take matters into their own hands. 
+
+Other than that, the Android experience is well, you know, Android-y. There are no physical navigation buttons on the device, so Archos has added a permanent panel with Search, Home, Back and Settings buttons. For the most part those work just fine, though there were a few instances where we found the panel to be sluggish or overlaying an app. Speaking of apps, Archos has preloaded a handful of them, including Touiter for Twitter, eBuddy for chatting, and Aldiko for reading. The stock Android keyboards were fine for inputting text -- though, unsurprisingly, we were able to type at a faster clip on 70 as we couldn't thumb type on the 101's wider display. 
+
+Oh, and don't forget about Archos's superb codec support. As you'd expect from a company with deep PMP roots, the 70 and 101 support AVI, MP4, MKV, MOV, WMV, MPG, PS, TS, VOB, FLV, and loads of others. Both the 70 and 101 come with 8GB of storage -- there's also a 16GB version of the 101 and a 70 with a 250GB hard drive.
+Archos 70 screenshots / test shots
+
+
+
+
+
+
+
+Performance and battery life
+
+
+Compared to the 600MHz CPU powering the Archos 7 Home Tablet, the 1GHz ARM Cortex A8 processor powering the 70 and 101 is a major step up. With the help of its 3D OpenGL ES 2.0 accelerator, both tablets had no issue playing 720p trailers smoothly or handing a game like Racing Lite. (You can even output this to an HDTV with Archos' software, but we didn't get the chance to try that out.) However, the tablet can get annoyingly sluggish at times, and things really started to lag on them when we started to toggle between an app or two and the browser. And as we mentioned above, there were a few times where the onscreen navigation controls just became unresponsive. As for browsing, pages loaded quickly over our home WiFi network and scrolling was smooth -- there was no lag like we experienced with the Galaxy Tab, though Flash is disabled on these for now. Archos is planning to release a Flash plug-in before the end of January that will enable full Flash 10 support as well as hardware acceleration for optimized video decoding, but it's currently waiting on that good ol' Adobe certification. If you're looking for how these fare on Android benchmarks, the 101 consistently scored at around 10 MFLOPS in Linpack and the 70 around 9.5 -- both of those trail behind the Galaxy Tab's 14. (Note: Apparently, it's quite easy to overlock the CPU to 1GHz -- it's down clocked at 800MHz. That should help speed things up, but we didn't test that out.)
+
+Update: Turns out you can get the processor running at 1GHz by selecting the Overdrive option in Power Management menu. That should definitely speed up multitasking and solve some of the issues we had, but be mindful that this will also decrease battery life. 
+
+
+Battery Life
+Archos 70
+6:00
+Archos 101	7:20
+Samsung Galaxy Tab	6:09
+Apple iPad	9:33
+
+
+Both the 70 and 101 provide some impressive battery life. One our video rundown test, which loops the same standard definition video at 65 brightness, the 70 lasted six hours while the 101 lasted seven hours and 20 minutes. That's not as long as the iPad's nine hours and 33 minutes, but it's still a solid showing and both will last you the flight from New York to California. We also found battery life to be very good during average use, but we encountered some issues with standby, so we'd suggest turning off the device completely when you're not using it. We should also mention that the back right side of both the 70 and 101 became quite warm while playing video or just running some applications. It's not totally uncomfortable, but you'll notice it. 
+
+Wrap-up
+
+
+If the Archos 70 and 101 were priced at $399, we'd find a lot of the shortcomings to be unforgivable, but for $299 (and in some places $275), we're just not sure you can beat the duo. Yes, we can all agree that the displays are seriously cruddy and the overall build quality and design, for lack of a better work, suck, but at this point we've just come to expect that for a tablet under $300. That said, the browsing and media experience are quite good, and once you get the Market loaded you've got a solid Android experience. If we were you, we'd still consider shelling out some extra cash to buy a more solid-feeling and better performing option like the iPad or Galaxy Tab -- they will undoubtedly wear better and the experience is more user friendly -- but for the price, Archos still makes the best tablets on the cheap.
+503
+
+Leave A Comment
+
+
+android 2.2, android market, Android2.2, AndroidMarket, AppsLib, AppslibStore, archos, Archos 101, Archos 101 Internet Tablet, Archos 70, Archos 70 Internet Tablet, Archos101, Archos101InternetTablet, Archos70, Archos70InternetTablet, review, video
+
+
+Archos 28, 32, and 70 now available, do not combine to form mythical Archos 1308 hours ago
+ProForm Trailrunner 4.0 treadmill tricks you into exercising with 10-inch Android tablet1 day ago
+BenQ rumored to debut 10.1-inch R100 Android tablet in early 20115 days ago
+From Our Partners
+Samsung Galaxy Tab: Is the Android Tablet an iPad Competitor?20 days ago
+Gift Guide: Apple iPad, the No Brainer Tablet for 201028 days ago
+Root your Nook Color to make a DIY 7-inch Android tablet29 days ago

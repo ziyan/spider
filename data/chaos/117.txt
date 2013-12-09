@@ -1,0 +1,43 @@
+FRIDAY, MAY 21, 2010
+
+Open Data at the National Archives
+The GATE team, Ontotext and SSL have won a contract to help open up the UK National Archive's records of .gov.uk websites (going back through 1997 and comprising some 340 million pages).
+
+I've been quite ignorant about this stuff until recently, and it has been a pleasure to discover that the archives and related organisations are actively pursuing the vision of open data and open knowledge. This project has taken a big step forward in the UK recently, with government funding allocated to publishing more and more material on data.gov.uk in open and accessible forms. The battle is by no means over, but I'm really looking forward to contributing in a small way to this work, and, hopefully, showing how GATE can help improve access to large volumes of government data.
+
+We're going to use GATE and Ontotext's open data systems (which hold the largest subsets of Linked Open Data currently available with full reasoning capabilities) to:
+
+import/store/index structured data in a scaleable semantic repository
+data relevant for the web archive
+in an easy to manipulate form
+using linked data principles
+in the range of 10s of billions of facts
+make links from web archive documents into the structured data
+over 00s of millions of documents and terabytes of plain text
+allow browsing/search/navigation
+from the document space into the structured data space via semantic annotation and vice versa
+via a SPARQL endpoint
+as linguistic annotation structures
+as fulltext
+create scenarios with usage examples, stored queries
+show TNA how to DiY more scenarios
+Quoting from the proposal,
+
+"Sophisticated and complex semantics can transform this archive... but the real trick is to show how simple and straightfoward mechanisms (delivered on modest and fixed budgets) can add value and increase usage in the short and medium terms. ... We aim to bring new methods of search, navigation and information modelling to TNA and in doing so make the web archive a more valuable and popular resource.
+Our experience is that facetted and conceptual search over spaces such as concept hierarchies, specialist terminologies, geography or time can substantialy increase the access routes into textual data and increase usage accordingly."
+
+Text processing technology is inherently inaccurate (think of how often you mis-hear or mis-understand part of a conversation, and then multiply that by the number of times you've seen a computer do something stupid!); what can we do to make this type of access trustworthy?
+
+"Any archive of government publications is an inherently a tool of democracy, and any technology that we apply to such a tool must consider issues relating to reliability of the information that users will be lead to as a result, for example:
+what is the provenance of the information used for structured search and navigation? have there been commercial interests involved? have those interests skewed the distribution of data, and if so how can we make this explicit to the user?
+what is the quality of the annotation? these methods are often less accurate than human performance, and again we must make such inaccuracy a matter of obvious record lest we negatively influence the fidelity of our navigational idioms
+Therefore we will take pains to measure accuracy and record provenance, and make these explicit for all new mechanisms added to the archive."
+
+So open science (and our open source implementations of measurement tools in GATE) will contribute to open data and open government.
+
+More open stuff.
+
+Permalink.
+
+POSTED BY HAMISH CUNNINGHAM AT 12:37 PM  
+LABELS: GATE, OPEN DATA, TNA

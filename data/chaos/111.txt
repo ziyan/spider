@@ -1,0 +1,102 @@
+﻿
+Posted by: matheuscmss | November 2, 2010
+Lyapunov spectrum of Kontsevich-Zorich cocycle on the Hodge bundle of square-tiled cyclic covers II
+Hi! After a month of silence, I’m back to the surface with the second post of the series “Lyapunov spectrum of Kontsevich-Zorich cocycle on the Hodge bundle of square-tiled cyclic covers”. For those of you who are curious to know why I was so quiet lately, the main reason is the significant amount of activity in Paris around moduli spaces of Abelian differentials. For instance, Don Zagier started (October 11, 2010) his course at Collège de France about Teichmüller curves and Hilbert modular surfaces (where he reports on a work in progress joint with Martin Möller), François Labourie started (October 21, 2010) a “groupe de travail” at Orsay about the recent preprint of A. Eskin, M. Kontsevich and A. Zorich about the computation of values of individual Lyapunov exponents of square-tiled cyclic covers (a topic we’ll cover here, of course  ), and Jean-Christophe Yoccoz will start his course at Collège de France about square-tiled surfaces soon (November 17, 2010). Evidently, the material of these activities affect the way I’m organizing the current series of posts, so that’s why I decided to slow down my blogging frequency.
+
+In any case, after our initial post, we’ll continue our discussions by introducing nice structures (stratification by complex spaces) on the Teichmüller and moduli spaces of Abelian differentials and we’ll close today’s post by stating (without proofs) Kontsevich-Zorich’s classification of the connected components of (strata of) moduli spaces of Abelian differentials.
+
+1. Some structures on the set of Abelian differentials
+
+We denote by  the set of Abelian differentials on a Riemann surface of genus , or more precisely, the set of pairs  where  is a compact topological surface of genus  and  is a  -form which is holomorphic with respect to the underlying Riemann surface structure. In this notation, the Teichmüller space of Abelian differentials is the quotient  and the moduli space of Abelian differentials is the quotient . Here  and  (the set of diffeomorphisms isotopic to the identity and the mapping class group resp.) act on the set of Riemann surface structure in the usual manner, while they act on Abelian differentials by pull-back.
+
+Below we’ll put some structures on ,  and .
+
+1.1. Stratification
+
+Given a non-trivial Abelian differential  on a Riemann surface of genus , we can form a list  by collecting the multiplicities of the (finite set of) zeroes of . Observe that any such list  verifies the constraint  in view of Poincaré-Hopf theorem (or alternatively Gauss-Bonnet theorem). Given an unordered list  with , the set  of Abelian differentials whose list of multiplicities of its zeroes coincide with  is called a stratum of . Since the actions of  and  respect the multiplicities of zeroes, the quotients  and  are well-defined. By obvious reasons,  and  are called stratum of  and  (resp.). Notice that, by definition,
+
+
+
+
+
+and
+
+
+
+In other words, the sets ,  and  are naturally “decomposed” into the subsets (strata) ,  and . However, at this stage, we can’t promote this decomposition into disjoint subsets to a stratification because, in the literature, a stratification of a set  is a decomposition  where  is a finite set of indices and the strata  are disjoint manifolds/orbifolds of distinct dimensions. Thus, one can’t call stratification our decomposition of  ,  and  until we put nice manifold/orbifold structures (of different dimension) on the corresponding strata. The introduction of nice complex-analytic manifold/orbifold structures on   and  are the topic of our next subsection.
+
+Remark 1 The curious reader might be asking at this point whether the strata  are non-empty. In fact, this is a natural question because, while the condition  is a necessary condition (in view of Poincaré-Hopf theorem say), it is not completely obvious that this condition is also sufficient. In any case, it is possible to show that the strata  of Abelian differentials are non-empty whenever . For comparison, we note that exact analog result for strata of non-orientable quadratic differentials is false. Indeed, if we denote by  the stratum of non-orientable quadratic differentials with zeroes of orders  and  simple poles, the Poincaré-Hopf theorem says that a necessary condition is , and a theorem of H. Masur and J. Smillie says that this condition is almost sufficient: except for the empty strata  in genera 1 and 2, any strata verifying the previous condition is non-empty. See Masur and Smillie paper for more details.
+
+1.2. Period map and local coordinates
+
+Let  be a stratum, say  , . Given an Abelian differential , we denote by  the set of zeroes of  . It is possible to prove that, for every  , there is an open set  such that, after identifying, for all , the cohomology  with the fixed complex vector space  via the Gauss-Manin connection (i.e., through identification of the integer lattices  and  ), the period map  given by
+
+
+
+
+
+is a local homeomorphism. See e.g. J.-C. Yoccoz’s survey for a proof of this fact based on an important construction called W. Veech’s zippered rectangles.
+
+Remark 2 Concerning the possibility of using Veech’s zippered rectangles to show that the period maps are local homeomorphisms, we vaguely mentioned this particular strategy because the zippered rectangles is a fundamental tool: indeed, besides its usage to put nice structures on , it can be applied to understand the connected components of , make volume estimates for , study the dynamics of Teichmüller flow on   through combinatorial methods (Markov partitions), etc. In other words, Veech’s zippered rectangles is a powerful tool to study global geometry and dynamics on . However, since the long-term goal of our future discussions is not the study of the entire strata , but only the geometry (and dynamics) of strictly smaller loci in these strata, Veech’s zippered rectangles are less effective in this context, so that they will not be part of our topics. Nevertheless, we strongly recommend the reader to consult Yoccoz’s survey for more details on Veech’s zippered rectangles and applications.
+
+Recall that  is a complex vector space isomorphic to . An explicit way to see this fact is by taking  a basis of the absolute homology group , and relative cycles  joining an arbitrarily chosen point  to the other points . Then, the map
+
+
+
+
+
+gives the desired isomorphism. Moreover, by composing the period maps with such isomorphisms, we see that all changes of coordinates are given by affine maps of . In particular, we can also pullback Lebesgue measure on  to get a natural measure   on : indeed,  is well-defined modulo normalization because the changes of coordinates are affine maps; to remedy the normalization problem, we ask that the integral lattice  has covolume 1, i.e., the volume of the torus  is 1.
+
+In resume, by using the period maps as local coordinates,  has a structure of affine complex manifold of complex dimension  and a natural (Lebesgue) measure . Also, it is not hard to check that the action of the modular group  is compatible with the affine complex manifold structure on , so that, by passing to the quotient, one gets that the stratum  of the moduli space of Abelian differentials has the structure of a affine complex orbifold and a natural Lebesgue measure .
+
+Remark 3 Note that, as we emphasized above, after passing to the quotient, is an affine complex orbifold at best. In fact, we can’t expect  to be a manifold since, as we saw in Subsection 1.4 of the previous post, even in the most simple example of genus 1,  is an orbifold but not a manifold. In particular, the fact that the period maps are local homeomorphisms are intimately related to the fact that we were talking specifically about the Teichmüller space of Abelian differentials  (and not of its cousin ).
+
+The following example shows a concrete way to geometrically interpret the role of period maps as local coordinates of the strata .
+
+
+
+Example 1 In the picture above (extracted from Zorich’s survey, Figure 12), we have a polygon  whose corresponding sides , , are identified by translation. After performing these identification, we obtain a Riemann surface equipped with an Abelian differential  (obtained as the quotient of  on the polygon  under the side identifications). It is not to hard to infer from the picture that the vertices of polygon   are all identified to the same point . Furthermore, since the total angle around   is  and  is the unique zero of (of order 2), so that  is a Riemann surface of genus 2 and . Also, it can be checked that the four closed loops  of  obtained by projecting to  the four sides  from  are a basis of the absolute homology group . It follows that, in this case, the period map in a small neighborhood  of  is
+
+where  is a small neighborhood of . Consequently, we see that any Abelian differential  sufficiently close to  can be obtained geometrically by small arbitrary perturbations of the sides  of our initial polygon .
+
+Remark 4 The introduction of nice affine complex structures in the case of non-orientable quadratic differentials is slightly different from the case of Abelian differentials. Given a non-orientable quadratic differential  on a genus Riemann surface , there is a canonical (orienting) double-cover such that , where  is an Abelian differential on . Here,  is a connected Riemann surface because  is non-orientable (otherwise it would be two disjoint copies of ). Also, by writing  where   are odd integers and  are even integers, one can check that  is ramified over singularities of odd orders  while  is regular (i.e., it has two pre-images) over singularities of even orders . It follows that
+
+
+
+In particular, Riemann-Hurwitz formula implies that the genus   of  is . Denote by  the non-trivial involution such that  (i.e.,  interchanges the sheets of the double-covering  ). Observe that  induces an involution  acting on the cohomology group , where ,   is the set of singularities of  and  are the (simple) poles of . Since  is an involution, we can decompose
+
+
+
+where  is the subspace of -invariant cycles and  is the subspace of -anti-invariant cycles. Observe that the Abelian differential  is -anti-invariant: indeed, since  is , we have that ; if   were -invariant, it would follow that , i.e., would be the square of an Abelian differential, and hence an orientable quadratic differential (a contradiction). From this, it is not hard to believe that one can prove that a small neighborhood of  can be identified with a small neighborhood of the -anti-invariant Abelian differential  inside the anti-invariant subspace . Again, the changes of coordinates are locally affine, so that  also comes equipped with a affine complex structure and a natural Lebesgue measure.
+
+At this stage, the terminology stratification used in the previous Subsection is completely justified by now and we pass to a brief discussion of the topology of our strata.
+
+1.3. Connectedness of strata
+
+At first sight, it might be tempting to say that the strata  are always connected, i.e., once we fix the list  of orders of zeroes, one might conjecture that there are no further obstructions to deform an arbitrary Abelian differential  into another arbitrary Abelian differential . However, W. Veech discovered that the stratum  has two connected components. In fact, W. Veech distinguished the connected components of  by means of a combinatorial invariants called extended Rauzy classes, a slightly modified version of Rauzy classes, a combinatorial invariant (composed of pair of permutations with  symbols with , where   is the genus and  is the number of zeroes) introduced by G. Rauzy in his study of interval exchange transformations. Roughly speaking, W. Veech showed that there is a bijective correspondence between connected components of strata and extended Rauzy classes, and, using this fact, he concluded that  has two connected components because he checked (by hand) that there are precisely two extended Rauzy classes associated to this stratum. By a similar strategy, P. Arnoux proved that the stratum  has three connected components. In principle, one could think of pursing the strategy of describing extended Rauzy classes to determine the connected components of strata, but this is a hard combinatorial problem: for instance, when trying to compute extended Rauzy classes associated to connected components of strata of Abelian differentials of genus , one should perform several combinatorial operations with pairs of permutations on an alphabet of  letters. Nevertheless, M. Kontsevich and A. Zorich managed to classify completely the connected components of strata of Abelian differentials with the aid of some invariants from algebraic and geometrical nature: technically speaking, there are exactly three types of connected components of strata — hyperelliptic, even spin and odd spin. The outcome of Kontsevich-Zorich classification are the following results:
+
+Theorem 1 (M. Kontsevich and A. Zorich) Fix .
+
+the minimal stratum  has  connected components;
+ , , has  connected components;
+any , , has  connected components;
+ , , has  connected components;
+all other strata of Abelian differentials of genus  are connected.
+
+The classification of the connected components of strata of Abelian differentials of genus  and  are slightly different:
+
+Theorem 2 (M. Kontsevich and A. Zorich) In genus , the strata  and  are connected. In genus , both of the strata  and  have two connected components, while the other strata in genus  are connected.
+
+For more details, we strongly recommend the original article by M. Kontsevich and A. Zorich.
+
+Remark 5The classification of connected components of strata of non-orientable quadratic differentials was performed by E. Lanneau. For genus , each of the four strata  , , ,  have exactly two connected components, each of the following strata
+
+ (, ),
+
+ (, ),
+
+ (, )
+
+also have exactly two connected components, and all other strata are connected. For genus  , we have that any strata in genus 0 and 1 are connected, and, in genus 2, ,  have exactly two connected components each, while the other strata are connected.
+
+This ends our post. Next time, we will begin talking about dynamics on the (connected components of strata of) moduli spaces of Abelian differentials.

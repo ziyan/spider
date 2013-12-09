@@ -1,0 +1,33 @@
+﻿Browse for a good cause
+Wednesday, December 15, 2010 | 10:00 AM
+Labels: chrome for a cause
+Whether it’s bug fixes to the Chromium open source project, dazzling apps and extensions arriving daily in our Web Store, or boundary-pushing Chrome experiments -- the Chrome community never fails to inspire us with their awesomeness.
+
+This holiday, we wanted to enable the Chrome community to work together for a good cause. Starting today, we invite you to support five worthy causes by counting and “donating” the tabs you open in Chrome.
+
+
+
+
+Everyone’s total tabs will determine a charitable donation made on behalf of the Chrome community, up to one million dollars. Here's what your tabs can do:
+10 tabs = 1 tree planted
+10 tabs = 1 book published and donated
+25 tabs = 1 vaccination treatment provided
+100 tabs = 1 square foot of shelter built
+200 tabs = 1 person's clean water for a year
+To find out more about this effort and the organizations we're partnering with, visit google.com/chrome/intl/en/p/cause/.
+
+Want to participate?
+Get the Chrome for a Cause extension
+Browse the web with Chrome between December 15 - 19
+At the end of each day, you’ll be prompted to click on the extension to submit your tabs
+Choose which charity you’d like to support with that day’s tabs -- you can always support the same charity, or pick a different one each day
+Next week, we’ll be sharing the details of the good deeds you’ve enacted. In the meantime, browse away!
+
+Posted by Sarah Nahm, Product Marketing Manager
+
+
+Added on December 15, 2010:
+
+In order to prevent hackers, spammers and bots from manipulating the extension, and to maintain the integrity of the campaign, we ask that users login with their Google account before submitting their tabs. As part of this step, the account log-in process requires connecting to one of Google's APIs to connect with your account. The Google Contacts API is the lightest of all Google APIs and grants the least permissions. Though we use the Contacts API to verify your account we do not use any of your Contacts data in the Chrome for a Cause promotion.
+
+Rest assured, Google's not going to spam your contact list or send you a single email about this.

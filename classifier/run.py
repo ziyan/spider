@@ -16,31 +16,50 @@ import argparse
 import analyzers
 import tokenizers
 import numpy as np
+from sklearn.feature_extraction import DictVectorizer
 from sklearn import svm, preprocessing, cross_validation
 from sklearn.metrics import precision_recall_curve, auc, classification_report, precision_recall_fscore_support
 import collections
 
 def main(args):
+    # path = utils.get_data_path(args.site[0])
 
-    path = utils.get_data_path(args.site[0])
-    urls = utils.load_urls(path)
+    sites = ['theverge', 'sina', 'qq', 'techcrunch', 'usatoday', 'npr', 'prothomalo']
 
-    # load data
-    data = [utils.load_data(path, id) for id, url in enumerate(urls)]
+    all_continuous_features = []
+    all_discrete_features= []
+    all_labels = []
 
-    # process data
-    processor = processors.Processor(data, tokenizer=tokenizers.GenericTokenizer, analyzer=analyzers.LongestAnalyzer)
-    features = processor.extract()
+    for site in sites:
+        print 'clustering %s ...' % site
 
-    # clustering
-    clusterer = clusterers.DBSCAN()
-    labels = clusterer.cluster(features).labels_
+        path = utils.get_data_path(site)
+        urls = utils.load_urls(path)
 
-    # prepare features
-    clusters, features, labels = processor.prepare(labels)
+        # load data
+        data = [utils.load_data(path, id) for id, url in enumerate(urls)]
 
-    # scale features
-    features = preprocessing.scale(features)
+        # process data
+        processor = processors.Processor(data, tokenizer=tokenizers.GenericTokenizer, analyzer=analyzers.LongestAnalyzer)
+        features = processor.extract()
+
+        # clustering
+        clusterer = clusterers.DBSCAN()
+        labels = clusterer.cluster(features).labels_
+
+        # prepare features
+        continuous_features, discrete_features, labels = processor.prepare(labels)
+        all_continuous_features += continuous_features
+        all_discrete_features += discrete_features
+        all_labels += labels
+
+
+    vectorizer = DictVectorizer()
+    discrete_features = vectorizer.fit_transform(all_discrete_features).toarray()
+    continuous_features = np.array(all_continuous_features)
+    labels = np.array(all_labels).astype(np.float32)
+
+    features = np.hstack([continuous_features, discrete_features]).astype(np.float32)
 
     precisions = []
     recalls = []
@@ -74,6 +93,7 @@ def main(args):
 
     return
 
+    """
     ham = collections.defaultdict(dict)
     spam = collections.defaultdict(dict)
 
@@ -90,6 +110,7 @@ def main(args):
 
     with open(os.path.join(path, 'svm.json'), 'w') as f:
         f.write(json.dumps({'ham': ham, 'spam': spam}, indent=2, ensure_ascii=False).encode('utf8'))
+    """
 
 def parse_args():
     """

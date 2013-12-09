@@ -1,0 +1,42 @@
+﻿Sets of large doubling and a question of Rudin
+
+Posted in math.CA, math.CO, Fourier Analysis, Paper by Mark Lewko on April 2, 2010
+Update (May 2, 2010): After posting this preprint, Stefan Neuwirth informed us that Rudin’s question had been previously answered by Y. Meyers in 1968. It appears that Meyers’ construction doesn’t, however, say anything about the anti-Freiman problem. Indeed Meyers’ set (and all of its subsets) contains a  set of density . Hence, the construction of a  set that doesn’t contain a large  set still appears to be new. A revised version of the paper has been posted reflecting this information.  Most notably, we have changed the title to “On the Structure of Sets of Large Doubling”.
+
+Allison Lewko and I recently arXiv’ed our paper “Sets of Large Doubling and a Question of Rudin“. The paper (1) answers a question of Rudin regarding the structure of  sets (2) negatively answers a question of O’Bryant about the existence of a certain “anti-Freiman” theorem (3) establishes a variant of the (solved) Erdös-Newman conjecture. I’ll briefly describe each of these results below.
+
+— Structure of  sets —
+
+Before describing the problem we will need some notation. Let  and define  to be the number of unordered solutions to the equation  with . We say that  is a  set if  for all . There is a similar concept with sums replaced by differences. Since this concept is harder to describe we will only introduce it in the case . For  we define  to be the number of solutions to the equation  with . If  for all nonzero  we say that  is a set.
+
+Let  be a subset of the integers , and call  an -polynomial if it is a trigonometric polynomial whose Fourier coefficients are supported on  (i.e.  if ). We say that  is a  set (for ) if
+
+
+
+holds for all -polynomials where the constant  only depends on  and . If  is an even integer, we can expand out the  norm in 1. This quickly leads to the following observation: If  is a  set then  is also an  set (, ). One can also easily show using the triangle inequality that the union of two  sets is also a  set. It follows that the finite union of  sets is a  set. In 1960 Rudin asked the following natural question: Is every  set is a finite union of  sets?
+
+In this paper we show that the answer is no in the case of  sets. In fact, we show a bit more than this. One can easily show that a  set is also a  set. Our first counterexample to Rudin’s question proceeded (essentially) by constructing a  set which wasn’t the finite union of  sets. This however raised the following variant of Rudin’s question: Is every  set the mixed finite union of  and  sets? We show that the answer to this question is no as well. To do this we construct a  set, A, which isn’t a finite union of  sets, and a set, , which isn’t the finite union of  sets. We then consider the product set  which one can prove is a  subset of . It isn’t hard to deduce from this that  is a  subset of  that isn’t a mixed finite union of  and  sets. Moreover, one can (essentially) map this example back to  while preserving all of the properties stated above. Generalizing this further, we show that there exists a  set that doesn’t contain (in a sense that can be made precise) a large  or . This should be compared with a related theorem of Pisier which states that every Sidon set contains a large independent set (it is conjectured that a Sidon set is a finite union of independent sets, however this is open).
+
+We have been unable to extend these results to  sets for . Very generally, part of the issue arises from the fact that the current constructions hinges on the existence of arbitrary large binary codes which can correct strictly more than a  fraction of errors. To modify this construction (at least in a direct manner) to address the problem for, say,  sets it appears one would need arbitrary large binary codes that can correct strictly more than a  fraction of errors. However, one can show that such objects do not exist.
+
+— Is there an anti-Freiman theorem? —
+
+ Let  be a finite set of integers and denote the sumset of  as . A trivial inequality is the following
+
+
+
+In fact, it isn’t hard to show that equality only occurs on the left if  is an arithmetic progression and only occurs on the right if  is a  set. A celebrated theorem of Freiman states that if  then  is approximately an arithmetic progression. More precisely, if  is a finite set  satisfying  for some constant , then  is contained in a generalized arithmetic progression of dimension  and size  where  and  depend only on  and not on .
+
+It is natural to ask about the opposite extreme: if , what can one say about the structure of  as a function only of ? A first attempt might be to guess that if  for some positive constant , then can be decomposed into a union of   sets where  and  depend only on . This is easily shown to be false. For example, one can start with a  of  elements contained in the interval  and take its union with the arithmetic progression . It is easy to see that  regardless of . However, the interval  cannot be decomposed as the union of   sets with  and  independent of .
+
+There are two ways one might try to fix this problem: first, we might ask only that  contains a  set of size , where  and  depend only on . (This formulation was posed as an open problem by O’Bryant here). Second, we might ask that  hold for all subsets  for the same value of . Either of these changes would rule out the trivial counterexample given above. In this paper we show that even applying both of these modifications simultaneously is not enough to make the statement true. We provide a sequence of sets where  holds for all of their subsets for the same value of , but if we try to locate a  set, , of density  in  then  must tend to infinity with the size of . As above, our initial construction of such a sequence of ‘s turned out to be  sets. This leads us to the even weaker anti-Freiman conjecture:
+
+(Weak Anti-Freiman) Suppose that  satisfies  and  for all subsets . Then  contains either a  set or a  set of size , where  and  depend only on .
+
+We conclude by showing that even this weaker conjecture fails. The constructions are the same as those used in the  results above. The two problems are connected by the elementary observation that if  is a subset of a set  then  holds where  only depends on the  constant  of the set .
+
+— A variant of the Erdös-Newman conjecture —
+
+In the early 1980′s Erdös and Newman independently made the following conjecture: For every  there exists a  that isn’t a finite union of  sets for any . This conjecture was later confirmed by Erdös for certain values of  using Ramsey theory, and finally resolved completely by Nešetřil and Rödl using Ramsey graphs. One further application of our technique is the following theorem which can be viewed as an analog of the Erdös-Newman problem with the roles of the union size and  reversed.
+
+Theorem 1 For every  there exists a union of   sets that isn’t a finite union of   sets for any .

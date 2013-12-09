@@ -1,0 +1,116 @@
+ACL HLT 2011 : The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies
+
+Link: http://www.acl2011.org/
+ 
+When	 Jun 19, 2011 - Jun 24, 2011
+Where	Portland, Oregon, USA
+Submission Deadline	 Dec 17, 2010
+Notification Due	 Feb 11, 2011
+Final Version Due	 Apr 15, 2011
+Categories    NLP
+
+ 
+Call For Papers
+
+ACL-HLT 2011 Call for Papers 
+
+Joint Conference of 
+the 49th Annual Meeting of the Association for Computational Linguistics 
+and 
+the Human Language Technologies Conference 
+
+June 19 - 24, 2011 
+Portland, Oregon 
+
+http://www.acl2011.org 
+
+Long Paper Submission Deadline: December 17, 2010 
+Short Paper Submission Deadline: February 25, 2011 
+
+The 49th Annual Meeting of the Association for Computational Linguistics and the Human Language Technologies conference will be organized as a single event to be held in Portland, Oregon, on June 19-24, 2011. The conference will cover a broad spectrum of technical areas related to natural language and computation. ACL-HLT 2011 will include full papers, short papers, oral presentations, poster presentations, demonstrations, tutorials, and workshops. The conference is organized by the Association for Computational Linguistics, in cooperation with The North American Chapter of the ACL. 
+
+The conference invites the submission of papers on original and unpublished research on all aspects of computational linguistics, including but not limited to: 
+
+* Discourse, Dialogue, and Pragmatics 
+* Information Extraction 
+* Information Retrieval 
+* Language Resources 
+* Lexical Semantics 
+* Lexicon and ontology development 
+* Linguistic Creativity 
+* Machine Translation 
+* Multilinguality 
+* Multimodal representations and processing 
+* NLP for Web 2.0 
+* NLP in vertical domains, such as biomedical, chemical and legal text 
+* Natural Language Processing Applications 
+* Phonology/Morphology, Tagging and Chunking, Word Segmentation 
+* Question Answering 
+* Sentiment Analysis and Opinion Mining 
+* Spoken Language Processing 
+* Statistical and Machine Learning Methods 
+* Summarization and Generation 
+* Syntax and Parsing 
+* Text Classification 
+* Text Mining 
+* User Studies and Evaluation Methods 
+
+
+IMPORTANT DATES 
+
+Long Submission Deadline: 12/17 
+Long Notification: 02/11 
+Long Camera Ready Deadline: 04/15 
+Short Submission Deadline: 02/25 
+Short Notification: 04/08 
+Short Camera Ready Deadline: 04/22 
+Conference Starts: 06/19 
+
+
+SUBMISSION INFORMATION 
+
+Submissions must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Submissions will be judged on correctness, originality, technical strength, significance, relevance to the conference, and interest to the attendees. 
+
+ACL-HLT 2011 will also accept papers accompanied by the resource (software or data) described in the paper. In addition to the regular review of the research quality of the paper, these papers will also be reviewed for the quality of the resource that is being made available. A separate review process will be organized for the research papers and for the accompanying resources. Papers that are submitted with accompanying software/data will receive additional credit toward the overall evaluation score, and acceptance or rejection decision will be made based on the quality of both the research and the software/data component. 
+
+Long papers: 
+
+Long papers may consist of up to eight (8) pages of content, with two (2) additional pages of references, and will be presented orally or as a poster presentation as determined by the program committee. The decisions as to which papers will be presented orally and which as poster presentations will be based on the nature rather than on the quality of the work. There will be no distinction in the proceedings between full papers presented orally and those presented as poster presentations. The deadline for long papers is December 17, 2010 (PDT). 
+
+Short papers: 
+
+Short papers may consist of up to four (4) pages of content, and two (2) additional pages of references. Short papers will be published in a separate volume, and will be presented orally or as a poster presentations. The deadline for short papers is February 25th. The following types of papers are appropriate for a short paper submission: 
+
+* A small, focused contribution 
+* Work in progress 
+* A negative result 
+* An opinion piece 
+* An interesting application nugget 
+
+
+Format: 
+
+Both long and short paper submissions should follow the two-column format. We strongly recommend the use of ACL LaTeX style files or Microsoft Word style files tailored for this year's conference, which are available on the conference website under Information for Authors. Submissions must conform to the official ACL-HLT 2011 style guidelines, which are contained in the style files, and they must be electronic in PDF. 
+
+As the reviewing will be blind, the paper must not include the authors' names and affiliations. Furthermore, self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ...", must be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ...". Papers that do not conform to these requirements will be rejected without review. 
+
+Authors that choose to also submit the supporting software/data with their paper, will have to ensure that the resource is ready for distribution, with complete README files and all the information required so that the reviewers can evaluate and/or use at least a part of the resource. The software/data component does not have to be anonymized, and it will be evaluated by a different set of reviewers than those reviewing the research component of the paper. The resource associated with papers being accepted for publication at ACL-HLT 2011 will be publicly distributed along with the online version of the conference proceedings. 
+
+Multiple-submission policy: 
+
+Papers that have been or will be submitted to other meetings or publications must provide this information at submission time. If ACL-HLT 2011 accepts a paper, authors must notify the program chairs, indicating which meeting they choose for presentation of their work. ACL-HLT 2011 cannot accept for publication or presentation work that will be (or has been) published elsewhere. 
+
+Related Information
+
+ACL/HLT SS 2011
+ACL/HLT 2011 Student Session
+CoNLL 2011
+Fifteenth Conference on Computational Natural Language Learning
+EMNLP 2011
+Conference on Empirical Methods in Natural Language Processing
+WASSA 2011
+2nd Workshop on Computational Approaches to Subjectivity and Sentiment Analysis
+ACL 2010
+The 48th Annual Meeting of the Association for Computational Linguistics
+BUCC 2011
+4th Workshop on Building and Using Comparable Corpora

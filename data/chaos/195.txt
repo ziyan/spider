@@ -1,0 +1,39 @@
+geo search 2.0: Data In, Data Out
+Thursday, May 22, 2008 at 10:05:00 AM
+Posted by Pamela Fox, Maps API Team
+
+Last week during the geo madness of Where2.0 and WhereCamp, we announced two enhancements in geo search to make it both easier for developers to get their data into our geo search index and easier for developers to get data back out of the index:
+
+Geo Sitemaps: Sitemaps are a protocol that bots use to index content from websites. Last year, we announced the ability to include KML/GeoRSS files in regular sitemaps just like a normal web resource. This year, we announce a special extension for sitemaps that adds geo-specific tags and makes it easier for us to index. To get your geo content indexed as fast as possible, just submit the sitemap to Google Webmaster Central. For more information on creating a KML file to include in a sitemap, read this article in the KML documentation. An example geo sitemap listing a KML and a GeoRSS file is shown below:
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:geo="http://www.google.com/geo/schemas/sitemap/1.0">
+<url>
+   <loc>http://www.example.com/download?format=kml</loc>
+   <geo:geo>
+       <geo:format>kml</geo:format>
+   </geo:geo>
+</url>
+<url>
+   <loc>http://www.example.com/download?format=georss</loc>
+   <geo:geo>
+       <geo:format>georss</geo:format>
+   </geo:geo>
+</url>
+</urlset>
+Geo search in the API: The Local Search API has traditionally been used to return business listings and address geocodes. As of last week, it can now be used to retrieve any of the content we have in our geo index. There are a couple different ways to do this, depending on how you use the API. If you're using the LocalSearchControl, here's some sample code (and live example) that will return blended results:
+var options = {
+  listingTypes : GlocalSearch.TYPE_BLENDED_RESULTS
+}
+map.addControl(new google.maps.LocalSearch(options));
+If you're using the Local Search API from Javascript, here's some sample code to return only results from indexed geo files:
+var ls = new GlocalSearch();
+ls.setRestriction(GSearch.RESTRICT_TYPE, GlocalSearch.TYPE_KMLONLY_RESULTS);
+And finally, if you're using the Local Search API from somewhere other than Javascript - for example, with our new nifty Maps API for Flash - here's some sample AS3 code (and live example) to return only results from indexed geo files PLUS add a site restrict operator to limit it to results from platial.com:
+service.url = 'http://ajax.googleapis.com/ajax/services/search/local';
+service.request.q = "site: platial.com" + " " +  address.text;
+service.request.mrt = "kmlonly";
+service.addEventListener(ResultEvent.RESULT, onServerResponse);
+service.send();
+There are (atleast) two really cool consequences of this news: 1) you'll be able to enable users of your mashups to instantly find international results where previously none existed, and to be able to find results for non-standard searches (e.g. "dog parks"), and 2) by indexing your content, waiting a few weeks, and then using the local search with a "site:yourdomain.com" appended to the query, you get to leverage the power of google search on your own content with barely any code of your own.
+
+So what are you waiting for? Give us your geo sitemap, use our API calls, and let us know what you think in the Maps API, KML, or AJAX API forums.

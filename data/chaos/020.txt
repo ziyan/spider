@@ -1,0 +1,40 @@
+﻿What Facebook Can Give Back To The Web
+
+Adam Rifkin
+Dec 25, 2010
+
+In Time’s Person of the Year 2010 article on Mark Zuckerberg, one fact shouts out to me above all others: 1 in 4 Web pages in the United States is now viewed behind the walls of Facebook.
+
+I enjoy Facebook and would be happy spending a quarter of my Web life there, if I could leave Facebook for the other 75%. But even if I log out completely, most of the Web’s most popular sites are tied to Facebook, through Share or Like or Connect buttons. Facebook is not just another Web site: it is a service that “Facebookizes” every Web site it touches, making me bring all of my friends with me, like luggage. It’s disconcerting being on a Web site that I’m used to browsing anonymously, and seeing my friends’ faces there. And so I have a holiday wish: Facebook, let me dance if I want to, let me leave my friends behind.
+
+For the last twenty years, we’ve enjoyed One Web that is united through the common policy of letting us be whoever we want to be, wherever we go. One Web allows us at times to be cooler than we are in real life, aspirational, anonymous, and/or fanatical about a particular subject. And that is why the Web is wonderful.
+
+Over the last five years, Facebook added a new hat to the One Web haberdashery, by giving us the ability to be a person who is a friend online with the people we have known in real life (as well as people we’ve never met). In 2010 Facebook added Instant Personalization, with the explicit goal of letting us be our Facebook selves everywhere. But in so doing, we have lost the On/Off button: I love being my Facebook self some places, but how do I turn it off on-the-fly?
+
+This presents an opportunity for Facebook to give back to the Web: please let us take off our Facebook hats whenever we want by replacing the Connect button with an On/Off button that lets us see clearly whether we are being Facebookized on any given page of the Web.
+
+One Web is as old as the Web itself: The 1993 New Yorker joke was that on the Internet no one knows you’re a dog. But now you can’t go anywhere without people knowing your pedigree, where you went to obedience school, and the status of your latest puppy love.
+
+What’s wrong with that, you ask? Well, I don’t know how you roll… but I personally spend a lot of my time on the Internet doing things that I’m not ashamed of in principle, but don’t want broadcast to my mom, former schoolmates, and coworkers. Mostly I’d just bore them to tears because almost nobody I know gives a rat’s ass about my obsessive love of Logan Couture of the San Jose Sharks, Showtime TV shows like LOOK, or photos of panda babies. But also… I admit that I waste a lot of time on the Web when I “should” be doing other things. If you put together all the time I’ve spent just looking up song lyrics, watching videos of kittens, and studying cupcake recipes—all perfectly innocent and life-affirming activities, I might add—some small-minded people might think badly of me.
+
+So imagine that every time you looked at any Web page, Facebook could tell all your friends what you were looking at in real time. Would you be OK with that? From a technical point of view, Facebook could do it right now. They have the data from a large percentage of the top websites; they just aren’t exposing it yet. When we talk about the benefits of anonymity, for the average person it amounts to their boss not knowing how much time they’re spending on fantasy football or shoe shopping at work. (Vibram Five Fingers for the win!)
+
+In Facebook’s march to a billion users by 2012, Facebook seems to be everywhere we Web users want to be. Someday soon more than half our Web page views could be on the Facebook-Enhanced Web (FEW) instead of the rest of the World-Wide Web (WWW) that Tim Berners-Lee gave to the world so we could roam it freely like pandas in the bamboo forest.
+
+Remember, the WWW consists of millions of websites, of which Facebook is now the world’s third biggest by unique users. However, if we measure by Web page views, Facebook is bigger than the next 99 websites combined, so the FEW is already huge.
+
+We the Web users have chosen the FEW over the WWW for what seem like good reasons: Facebook promises us a spam-free, porn-free, crime-free world where we can do everything with people we know in real life. Who wouldn’t want that?
+
+Proponents of a stable Web, for one. Facebook has spread its seed all over the Web now—with Facebook Connect and Share and Like buttons everywhere—so much that when Facebook goes down, the Web goes down. Facebook has bequeathed the WWW a single point of failure.
+
+Note that Facebook did this without being closed: they have APIs, and buttons, and export mechanisms. They’re not closed; they’ve just redefined open. I’ve made my peace with the idea that Facebook will be the biggest service on The Open Internet; what we all should want to avoid is a future where Facebook is the Web. That would be as lame as spending eternity in a 1971 Ford Pinto with all of your friends.
+
+Reliability issues aside, there’s a deeper principle at stake here. Facebook has divided the Web into two: the Web with Facebook (your friends), and the Web without Facebook (people cooler than your friends). Our friends are who we are interested in, but they are not what we are interested in.
+
+All the time we spend looking at repetitive posts and photos from people we already know, could be spent instead on the Web meeting new people who are interested in the same things we are. In other words, making cooler friends. Ambient Findability, as I like to call it, means that what (and who!) we find changes who (and what!) we become. Enabling that is what has always made the Web great.
+
+So, in the spirit of One Web and Ambient Findability, I’m asking Facebook on behalf of all Web citizens to give us the benefits of being able to just look at things online without being tracked by you. Give us the option to treat Facebook like every other part of the Web, whenever we want, and I assure you it will benefit us all.
+
+Give us an easy one-click way to truly and totally disconnect from Facebook Connect whenever we want. I’ll still spend just as much time on Facebook, I promise! But now I won’t have to see my friends’ faces every time I look up a restaurant review on Yelp, read the news on the New York Times, or wait for external modules to load on TechCrunch. It’s just an option, and an option confers value… I’m sure the vast majority of users love Facebook Connect and will continue to use it. But having the option to return the rest of One Web to its pre-Facebook status—useful but not fundamentally social—would be the best gift that Zuck could give back to the Web.
+
+Editor’s note: Guest author Adam Rifkin is a Silicon Valley veteran who organizes a networking group for entrepreneurial engineers called 106 Miles. You can read his previous guest posts for TechCrunch here and follow him on Twitter @ifindkarma.

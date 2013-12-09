@@ -1,0 +1,26 @@
+﻿An update on Chrome, the Web Store and Chrome OS
+Tuesday, December 7, 2010 | 11:07 AM
+Labels: chrome os
+On the Chrome team, we’re constantly amazed by the speed of innovation on the web. We designed Chrome to make the web shine, and we hope our upcoming efforts will help support this vibrant ecosystem even more. By making the web faster, helping people discover great apps, and making computers more fun to use, the next year of computing should be even more exciting than the last one.
+
+Chrome
+
+This year, the number of people using Chrome has tripled from 40 to 120 million. Speed is what people love most about Chrome, and we’re always working to make the browser even faster. Therefore we’re bringing Google Instant to the Omnibox, showing search results and loading web pages as you type. We’ve also overhauled V8, Chrome’s JavaScript engine. It now runs complex JavaScript programs up to twice as fast as before. These two features are available in our early access channels and will be rolling out to all users soon.
+
+Chrome Web Store
+
+Today the Chrome Web Store is open for business. Developers have already started uploading apps, and we expect the number to grow over time. Right now the store is only available in the U.S., but will expand to many countries and currencies early next year. The store will be featured prominently in Chrome, helping people discover great apps and developers reach millions of users around the world.
+
+Chrome OS
+
+Last year, we announced our effort to design an operating system that is built and optimized for the web. Many people already spend all their time in a web browser, and by building an operating system that is essentially a browser, we can make computers faster, much simpler and fundamentally more secure.
+
+We’re not done yet, but Chrome OS is at the stage where we need feedback from real users. Some of the features of Chrome OS require new hardware, but we didn’t want to sell pre-beta computers. Instead we’re launching a pilot program where we will give test notebooks to qualified users, developers, schools and businesses. We're starting with the U.S. and will expand to other countries once we get the necessary certifications. To participate in the pilot program, visit the Chrome notebook website.
+
+The test notebooks exist only to test the software—they are black, have no branding, no logos, no stickers, nothing. They do have 12.1 inch screens, full-sized keyboards and touch pads, integrated 3G from Verizon, eight hours of battery life and eight days of standby time. Chrome notebooks are designed to reach the web instantly, are easy to share among friends and family, and simply by logging in, all of your apps, bookmarks and other browser settings are there. Setting up a new machine takes less than a minute. And even at this early stage, we feel there is no consumer or business operating system that is more secure.
+
+In the first half of next year Chrome notebooks will be available for sale from Acer and Samsung. More manufacturers will follow. Also, Chrome OS is designed to work across a wide range of screen sizes and form factors, enabling our partners to deliver computing devices beyond notebooks.
+
+We’re excited to get Chrome notebooks into the hands of users. The data from our test pilots is key to building something wonderful. We look forward to working together to make computers better.
+
+Posted by Linus Upson, VP Engineering and Sundar Pichai, VP Product Management

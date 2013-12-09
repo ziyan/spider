@@ -1,0 +1,66 @@
+ Misc. Gadgets, Wireless
+Mattel Puppy Tweets review
+By Tim Stevens  posted Dec 8th 2010 12:05PM
+Review
+
+
+Though Twitter has become a greater professional tool than we'd imagine anyone ever intended it's still hard to take the service too seriously. We like silly twitterers, whether they be offering pretend writing advice, charting the reclusive tendencies of Hollywood's leading men, or just threatening to force choke any troll who gets in their way. Wouldn't it be fun if your pooch could get in on those antics? No, as it turns out, it isn't all that fun at all.
+Mattel Puppy Tweets
+
+
+
+
+
+
+
+Hardware
+
+Mattel's $30 Puppy Tweets is a medallion intended for attaching to the collar of your four legged friend, the livelier the better. It sports an internal accelerometer, a microphone, and a wireless connection. With that connection it says howdy to a dongle that must be installed on a PC or Mac, upon which you install the Puppy Tweets software. That software, naturally, will need the username and password of the Twitter account it should represent.
+
+Get all that going and when the collar gets in range it will hook up with the dongle to tell it what's shaking. The software reads that and turns it into something funny. Well, ostensibly funny, anyway.
+
+That's all fair enough, but there's one glaring flaw already: the size of this collar. It measures two inches in diameter and is a full inch thick. That may not bother your Dobermans and Malamutes and the like, but put this on a small breed or a very young large breed and you're putting quite a burden on your little pooch. At the very least you'll create the appearance of a pastel-colored ball and chain.
+
+Test puppy
+
+
+Thankfully pooches are not something we're short of at Engadget, though finding one of the right age, size, and mentality took a little work. For this task we chose Yoshi, a nine-month-old chocolate lab mix who's been with us since we rescued her about six months back. She likes to romp and play and pick on her (non-biological) big brother Bowser, rarely sitting still long enough for us to get a blur-free picture.
+
+Like most puppies she especially likes to chew on things, whether they be Nylabone toys, balls, sticks... even rocks if there's nothing else around. At this point you can probably tell where this review is going, but don't ruin the surprise for the other readers.
+
+Yoshi is about 60 pounds at this point; big enough that the size and weight of the Puppy Tweets didn't bother her. In fact she kind of liked it, romping around in the yard and swinging her head so that the device smacked her on alternate sides of her face. This, apparently, is good fun for a dog.
+
+Yoshi has a tendency to make odd noises when she gets excited, but she'll never do them on cue and rarely when there's a camera around. Imagine Chewbacca sleepily grunting in the morning with a mouthful of Listerine and you're not far off. For this reason, and because one of her owners has spent way too much time playing Banjo-Kazooie games, one of her many nicknames is Gruntilda. Her Twitter handle would be @MsGruntilda, then.
+
+Tweets
+
+
+Mattel advertises that the device has up to 500 tweets, and naturally they're classified based on what the sensor detects. After we enabled it we left it sitting around for awhile and it started spewing out things like "Getting up from my nap to tweet clearly demonstrates that I get daily exercise" and "Opening your eyes is overrated." You know, lazy puppy tweets from a presumably lazy puppy that was actually just the desk the device was resting on.
+
+We left the Puppy Tweets on its default, medium frequency, yet inside of a day it was repeating itself. "Getting up from my nap to tweet clearly demonstrates that I get daily exercise" was seen three times within a single 24 hour period, and that's despite it not being very funny the first time.
+
+Things did get a little livelier when clamped to Yoshi, with phrases like "Am I wagging my tail, or is my tail wagging me?" and "Dog - 1. Door-to-door salesman - 0." Cute and, yes, humorous, but completely irrelevant to what was happening in reality. Yes, Yoshi sure does wag her tail a lot, but she wasn't then. And why does the thing say "It's getting late" when it's 6am, or make references to eating her food in the middle of the night, long after her bowl was picked up? You can see all the inanity (plus the occasional hand-coded interjection by the author) yourself at her Twitter account. 
+
+However, there was one very accurate tweet: "You're my best friend, but my chew toy and I have become very close." Unfortunately for the device, in a cruel twist of fate, this chew toy she was referring to was the Puppy Tweets itself.
+
+Chomp
+
+
+The Puppy Tweets has a two-inch clasp that's used to attach it to the collar, which lets it hang down free of a dog's fur and enables the sort of puppy self-flagellation we mentioned above. But, the best part is this lengthy clasp means it's long enough for a dog to chew on it. 
+
+Now, Yoshi isn't the brightest dog we've ever seen (see the above chewing on rocks mention), but within an hour or two she'd figured out how to grab the Tweets with both paws and pull it up so that she could fit it in her mouth. When we corrected her initially she did what all good dogs do: she got up and went into another room, where she could continue doing what she wanted without supervision.
+
+
+
+Within about two hours the Puppy Tweets was in a bad way, still functioning fine but the little hole for the microphone was now a big gash. Bits of blue plastic dotted Yoshi's nose, tooth marks marred the device, and you could tell she was trying to pry off the battery door (which thankfully is screwed in place).
+
+It was clear she wasn't going to stop chewing until she got to the thing's chewy CR2032 core, which we're guessing would have given her a mighty tummy ache and us an expensive trip to the vet. So, we took it away, less than a day after the two came together.
+
+Wrap-up
+
+
+In the Puppy Tweets FAQ is the question "Is puppy tweets safe for my dog?" There's a simple answer given: "Yes." We're not so sure. Unless you have a dog that has zero interest on chewing on things your four-legged friend will find a way to get it into its mouth. Once that happens it's only a matter of time until your $30 doo-dad is a series of plastic shards and silicon internals, and while our dogs have eaten worse, we're not fans of tempting fate.
+
+Is it funny? Yes, at times, but it's not something we'd leave on our dogs unsupervised, and if you have to be there supervising them what's the point of having them tweet? Dogs are funny enough even without applying canned catch phrases, and if your best friends aren't giving you your requisite number of smiles and laughs per day we can think of dozens of silly dog toys they'd enjoy rather more than this thing.
+
+Update: We received tips, conspiracy theories that this thing works without the collar being even enabled -- the idea being that the collar isn't even doing anything at all. We pulled the batteries and left the USB dongle attached to our computer to see what would happen, and indeed we've seen two tweets since then, proving that it keeps tweeting even when the Puppy Tweets is disabled. However, both tweets were of the "resting" variety that we saw when the thing was just sitting on a desk. Also, they're much lower frequency, about once a day. We did notice a different set of tweets when the collar was being worn, so we believe that it is indeed sending accelerometer data. However, the tweets are really no more or less funny or accurate with the collar on than off the dog, which says a lot.

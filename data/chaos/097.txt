@@ -1,0 +1,97 @@
+﻿Mathematica 8!
+November 15, 2010
+Stephen Wolfram
+
+Mathematica 8 is released today! It’s a huge and important release. With dramatic breakthroughs—and major broadening of the whole scope of Mathematica.
+After 8 versions and 22 years most software systems have decayed to slow and lumbering development. But not Mathematica. In fact, with Mathematica it’s quite the opposite. As the years go by, Mathematica development is actually speeding up.
+What has made that happen? Partly it’s our tenacious and broadening pursuit of ambitious long-term goals. But partly, it’s a remarkable reflection—and validation—of the core principles on which Mathematica has always been built.
+Principles like coherent design—which let all parts of the system work together, and make it progressively easier to build new parts. And automation—which allows new layers of functionality to be added without having to worry about the operation of layers underneath.
+And as one indication of the success of our development process, the picture below shows the growth in the number of built-in functions in Mathematica over the course of its history.
+
+There was a kind of “Cambrian explosion” when Mathematica 6 was released, most notably associated with our invention of new ways to structure such a large system. And now, with Mathematica 8, the rapid growth has continued. In fact, never before have there been so many new functions added so quickly—and altogether almost as many new functions as there were functions at all in the original version of Mathematica back in 1988.
+But the point is not just to add new functions—it’s to add whole new areas, and to qualitatively change what’s possible. Some fraction of the new functions in Mathematica 8 are in a sense incremental extensions and improvements to areas that Mathematica already covers. And these things are important in smoothing and polishing the use of Mathematica.
+But the most exciting thing about Mathematica 8 is that once again it’s able to build on the paradigm and principles of Mathematica, and on the existing tower of Mathematica capabilities, and reach new areas where nothing as systematic as Mathematica could ever be done before.
+There are many examples, most listed on New in Mathematica 8.
+
+One example is the new probability and probability distribution capabilities. Where what we have effectively done is to invent a new computable language for talking about probabilities and probability distributions.
+None of this would have been possible without a great many existing capabilities of Mathematica, and the whole structure they define. But the result is a breakthrough, and a whole new area where computation and automation can now routinely be applied.
+As Mathematica has developed over the years, we are always asking “What’s now possible?” And it’s exciting to be able to see that once one has built a tall tower of capabilities, suddenly others come into sight—often capabilities that one never imagined would be possible. And so it is with many of the code compilation and other capabilities of Mathematica 8.
+When we originally released Mathematica it was clear that its formal symbolic structure had great strength in core areas of computation and mathematics. But what about other areas? Graphics? Documents? Data? Subject-specific applications?
+Over the years it has gradually become clear that Mathematica’s symbolic paradigm can tackle all of these, and much more. And perhaps a decade ago we realized that in Mathematica it was realistic in a sense just to “implement everything”. To take every method and algorithm that is fundamental enough to be generally applicable, and implement it in a way that fits together with everything else in Mathematica.
+In Mathematica 8 we see some dramatic fruits from that idea. Very broad built-in image processing. Broad and remarkably general coverage of charting and visualization. Convenient and powerful graph theory and network manipulation. And areas like finance and control theory as well.
+There is a certain clarity that comes when something is implemented in the Mathematica system. And the result tends to be that an area which was formerly accessible only to experts—and even then with some effort—now immediately becomes an area that anyone can use, anytime.
+And so it will be with many areas in Mathematica 8. From probability distributions, to networks, to control systems.
+In a sense, every new version of Mathematica brings new conquests—new areas that are brought into the Mathematica paradigm, and into the domain where systematic computation is now routinely possible.
+But probably the single greatest—and most surprising—new capability of Mathematica 8 is one that cuts across all areas: the integration of Wolfram|Alpha into Mathematica, and the notion of free-form linguistic input.
+I will talk about this in another post, but here suffice it to say that this new capability is a dramatic example of the automation principle of Mathematica. For now, in addition to automating, for example, the selection of algorithms, or the way of presenting a result, one is automating the whole process of communicating with Mathematica.
+During the years that we have been developing Mathematica 8, I have gradually been able to get used to the new capabilities it provides. But looking at the finished product today, it is startling how dramatic the advances from Mathematica 7 have been.
+Mathematica 7 is great. And everything in it remains important, strong, and compatible. But Mathematica 8 adds so much more. Building on Mathematica 7 and the 24-year history of Mathematica before it. But introducing a remarkable collection of new ideas and capabilities.
+I’ve been having a great time using Mathematica 8 during its development. But for me—and our R&D team—the greatest fulfillment comes from actually releasing a new version of Mathematica, and letting all our users begin to absorb what it now makes possible.
+So I am excited today to be able to announce the 8th step in the long journey of Mathematica—the fruit of so much R&D, and the foundation, I expect, for so many important achievements for users of Mathematica: Mathematica 8.
+
+Comments
+Sucesso, Stephen Wolfram!, com o novo Mathematica8!
+Posted by João Maria Araujo dos SantosNovember 15, 2010 at 3:00 pm
+Congratulations! I’m excited to about this release and this new release cycle!
+Posted by mwNovember 15, 2010 at 3:32 pm
+Great!!! I’ve been using Mathematica since the 4th version, and it is still surprising me everyday! I can’t wait to update my Mathematica 7 
+Posted by DiegoNovember 15, 2010 at 4:38 pm
+Wolfram research kindly allowed me to preview the control theory stuff a little while ago
+http://www.walkingrandomly.com/?p=2933
+I’m really looking forward to writing about everything else in ver 8. An awesome release
+Posted by Mike croucherNovember 15, 2010 at 5:51 pm
+Unless the built in functions were continuously released, that graph is misleading.
+Posted by MattNovember 15, 2010 at 8:03 pm
+Cheers, very much looking forward to playing with it.
+Maybe you should give some talks to the many SaaS development companies–YCombinator etc. It sounds like they could use your advice.
+Posted by quasimetricNovember 15, 2010 at 11:09 pm
+Congratulations for the new release.
+I hope in the future the word-processing features of MMA will allow for a ‘native’ two (or more) column layout. So that it will be possible to seamlessly accomodate text, formulas, input and output cells side by side like in any word-processor.
+Posted by PeltioNovember 16, 2010 at 1:01 am
+Excellent work! Congratulations!
+Posted by Dennis La CoteraNovember 16, 2010 at 3:20 am
+Congratulation to the whole Wolfram team!
+Good job!
+Posted by Juraj DurzoNovember 16, 2010 at 2:15 pm
+I was elated to see Mathematica 8 out, but very disappointed that it’s not out for me yet! Please hurry up on Mathematica for Students 8.
+Posted by JasonNovember 16, 2010 at 9:44 pm
+One thing that I’m always worried about when so many features get introduced in a short time period is that the focus is on new “exciting” features and not on the stability of the program itself. Is that something to be concerned about?
+Other than that, i’m really excited for this new release!
+Posted by SilverNovember 17, 2010 at 10:07 pm
+@Matt: how about they have been building functions continuously and approximately linearly with time in their internal releases and every few years in an official one.
+Posted by BoNovember 18, 2010 at 8:35 am
+I would love to see the code that produced the graph.
+Posted by JulianNovember 18, 2010 at 8:54 am
+Congratulations! The new features of Mathematica 8 (Graph theory, wavelet transforms, CUDA support, C-code generation / DLL export) are really impressive. I hope our university upgrades soon, I can’t wait to try this!
+Posted by RegularizedKernelNovember 18, 2010 at 11:28 am
+i’m really excited about this version. especially because of cudalink and the ability of capturing real time from image devices. i think mathematica’s capability of helping the user to develop other applications is quite an asset
+Posted by felipeNovember 18, 2010 at 6:04 pm
+Thank you, mr. Wolfram and Co. Go on and never stop.
+Posted by AritaborianNovember 20, 2010 at 4:28 pm
+Kudos to the Mathematica team for producing another winner and integrating it into Wolfram|Alpha. Also by continuing to support Mathematica For The Rest Of Us by means of the Home Edition. Thanks!
+Posted by Harold W MillerNovember 20, 2010 at 10:59 pm
+As a writer of demonstrations and a user of the Home Edition (only v7.0 available for now), I hope to have very soon access to the exciting new version 8.
+Judging from the documentation, it looks like a very interesting upgrade.
+Congratulations!
+Erik
+Posted by Erik MahieuNovember 21, 2010 at 3:01 am
+Excellent. Look forward to it now!
+Posted by Rethnakaran PulikkoonattuNovember 25, 2010 at 10:26 am
+很激动，我一定要试一试
+Posted by 赵磊November 30, 2010 at 7:29 pm
+Luar biasa. Ini adalah cara baru untuk ber-komunikasi dengan komputer .
+Ada satu tahapan yang hilang yaitu bagaimana mengkonversikan suara manusia [dan binatang] ke dalam bahasa komputer.
+Kelihatannya beberapa tahun lagi seluruh peralatan elektronik [termasuk mesin kendaraan ataupun mesin di pabrik] dapat dikendalikan cukup lewat suara saja.
+Translation: Incredible. This is a new way to communicate with the computer. There is one phase is missing: how to convert the human voice [and animal] into computer language.
+Apparently a few more years all electronic equipment [including vehicle engines or machines in the factory] can be controlled simply by voice alone.
+Posted by WijayaDecember 11, 2010 at 3:16 am
+Congratulations
+but I will stay at version 7 Home Edition
+it’s sufficient for my work in Set Theory
+with infinities beetwen Alpeh_0 and continuum 
+best ragards
+Luke
+Posted by LukeDecember 13, 2010 at 11:02 am
+As a novice or inexperienced (but long term) user Mathematica 8 is another wonderful step in the evolution.
+http://ubpdqn.wordpress.com/2010/12/16/novice/
+Posted by Mark DoorisDecember 16, 2010 at 1:11 am

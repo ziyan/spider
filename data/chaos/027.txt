@@ -1,0 +1,118 @@
+ Cellphones, Mobile Handsets
+Nexus S review
+By Joshua Topolsky  posted Dec 10th 2010 7:58PM
+Review
+
+It can be difficult to review a phone like Google's Nexus S in a world already populated by so many outstanding Android devices. Not only does the manufacturer of this phone make a series of handsets that are all essentially the same (the Galaxy S line), but countless other OEMs are cranking away on hardware for the platform. Of course, the Nexus S is a decidedly different phone altogether. Picking up where the company's Nexus One left off, the S continues Google's legacy of creating standalone, "pure Android" phone experiences, seemingly aimed less at the mainstream and more towards developers. Unlike the failed experiment of the Nexus One, Google appears to be taking a more realistic approach to the S; the phone will be sold through Best Buy (and Carphone Warehouse across the pond), which suggests that the company has bigger plans for this device.
+
+And what a device it is -- the Nexus S boasts a 1GHz Hummingbird CPU, 512MB of RAM, a 4-inch, 800 x 480 curved Super AMOLED display (dubbed the Contour Display), 16GB of storage, a 5 megapixel rear and VGA front-facing camera, and near field communication capabilities. But hardware is only half the story here -- the big news is that the Nexus S showcases the next major evolution of the Android OS, namely, Gingerbread (or version 2.3). The update comes with a slew of new features alongside some UI improvements that show Google isn't slowing down when it comes to pushing its mobile operating system forward. So is the Nexus S a real standout in the Android world, or is it more of the "me too" tech we've seen lately? Read on after the break for the full Engadget review to find out!
+Nexus S review
+
+
+
+
+
+
+Hardware
+
+
+As you can tell by the photos in the gallery, the Nexus S isn't a plain-Jane slab. Sure, it's got similar design leanings as the other devices in the Galaxy S line, but it's also slightly... freaky. For starters, the shape of the ultra-gloss, stipple-graphic black plastic housing curves and pops in all kinds of unusual ways, with a kind of reverse "chin" sprouting out of the lower half, and a very slight curvature to the front of the phone. You've probably heard the fuss over this, but yes, the screen and front glass of the device have a minor, concave curve which sits nicely when nuzzled against your face. It's not a dramatic difference, but it gives the phone a fairly unique look. In general, however, the design doesn't feel wildly different from other Galaxy S phones -- particularly when it comes to materials. Samsung seems focused on using light (and somewhat cheap feeling) plastic for its housings, though they deviated on the Captivate, which we felt was an improvement.
+
+The front of the device is obviously all screen, save for the earpiece. You can see the proximity and light sensors peeking out from behind the glass, as well as that VGA camera. On the left side of the phone you've got a volume rocker, on the right is the power / sleep button, and along the bottom is the Micro USB and headphone jack. The latter has been the cause of some concern amongst potential buyers, but we actually like having the headphone jack access down below. Overall, the design of the phone is sleek and frankly odd enough to make it stand out amongst contemporaries, but we wish that Samsung had utilized more inspiring materials on this model.
+
+Internals
+
+
+As we mentioned, the Nexus S packs in a formidable amount of tech into its small frame (2.48 inches by 4.87 inches, and 0.42 inches thick, in case you were wondering). Any device loaded up with a 1GHz Hummingbird CPU is sure to get our attention, and the performance we've been seeing with the S is nothing short of awesome. On a Neocore benchmark, we scored a terrific 55.6fps, and general use of the OS is lightning fast with nary a hiccup in sight. We also haven't run into any memory issues, and though having 16GB of storage onboard is nice, we would have liked to see a microSD option here as well. Still, the method which Gingerbread utilizes the installed flash memory is excellent, and for those of you who can live with a finite amount of space, this won't be an issue.
+
+Besides the storage and CPU, the device sports a Super AMOLED display at 800 x 480 (235 ppi) which looks gorgeous (if slightly yellowish) to our eyes. The device also has its fair share of wireless radios, including tri-band HSPA (900, 2100, and 1700MHz), and quad-band GSM / EDGE (850, 900, 1800, 1900MHz), WiFi 802.11b/g/n, Bluetooth 2.1+EDR, A-GPS, and that NFC chip you've been hearing all about. There's also a gyroscope, accelerometer, and digital compass inside. We were a little disappointed to discover that Samsung didn't include a notification light on the device -- we like the reassuring blip telling us we've got an email waiting.
+
+As far as that NFC chip is concerned (pictured above), right now there's not a lot to test it with, though Google is hoping that devs will find all kinds of uses for it. Right now it's read only, so you can't write to the device from a target -- that's a security measure right now. When we spoke to reps, they told us that there were three methods of using NFC: read, write, and exchange. Exchange sounds interesting, because it would (in theory) allow you to simply swipe your phone against or near another NFC device and swap contacts (or other info).
+
+
+We did see some strange issues with the display -- while it does look handsome in most settings, we noticed some strange inconsistencies in the panel against certain colors or tones. It was particularly pronounced on solid gray backgrounds (as you can see above). We're not sure the cause of the problem (or if it was simply an issue with the device we had), but it was somewhat troubling. One other thing of note -- we noticed a few missed or latent presses on the touchscreen which occasionally led to stuttery behavior or an opened item that we didn't mean to tap. It's hard to say if this was a software or hardware issue (and we know that sometimes Android devices can be particularly finicky when syncing). It wasn't a deal-breaker by any means, but we saw the issue rear its head a handful of times, and felt it was worth mentioning.
+
+Speakerphone / earpiece / call quality / network
+
+The sound quality on the Nexus S is right up there with some of the best phones we've tested. Speakerphone calls and music came through loud and clear over the external speaker, and we were downright wowed with how loud and clear the earpiece sounded. Even when we were having a conversation in a crowded room, the Nexus S pumped out audio that was crystalline to our ears. Coupled with excellent service on T-Mobile's network, we were not only able to make calls where our iPhone failed, but the clarity and volume of those calls were superb.
+
+Connections on T-Mobile's network were excellent in most places, allowing us to make calls where AT&T's network couldn't, though we did see EDGE data crop up on the Nexus S more than our AT&T devices -- and there's no HSPA+ to be found here (unlike T-Mobile's other flagship Android phones), just in case you were wondering. Still, speed certainly wasn't a major issue, and network throughput was decently strong (though not mind-blowing) when we were on T-Mobile's 3G. We averaged about 1.5 Mbps down and up on T-Mobile with the Nexus S, and a slightly higher 2 Mbps down and 1.5 up on AT&T devices in the wilds of Brooklyn.
+
+Camera
+
+
+We're impressed by the shooter on the Nexus S, but there is something in the quality of its photos that still feel very phone-like to us. In particular, we felt that images looked washed out and grainy even in well lit situations. It could be a fault of the auto white balance or ISO settings, but we certainly were able to produce better results with other phones in this class.
+
+On the bright side, the Nexus S camera seems to excel at low-light images, pulling impressive detail in situations where we expected much less. In fact, we can't say that we've seen a smartphone recently with better low light performance. We're not sure what this is attributable to, but we're certainly happy about it.
+
+Unfortunately for video, the Nexus S is still a slouch -- we're guessing this doesn't have to be the case, but there's no true HD option here. The highest quality video you can shoot is 720 x 480. Kind of a bummer.
+
+As far as the front-facing camera goes, it's pretty standard VGA fare, which mean low-res, grainy, and artifacted. Maybe we're spoiled by all these high resolution shooters, but no matter how you slice it, 640 x 480 is tough to take. We really wish Google would include a native video chat feature with its phones -- we're all for third-party apps, but a dedicated, codified piece of software from the mothership would go a long way to making the presence of this camera more useful. Also, remember how you guys make Google Talk with video chat? It's pretty cool. Obviously this is coming in Honeycomb (Andy Rubin kind of let it slip during his Dive Into Mobile chat), but it would be great to have right now.
+Nexus S camera shots
+
+
+
+
+
+
+
+Battery life
+
+
+The Nexus S' 1500mAh battery showed impressive signs of life in our short period of testing. In heavy use (though not tons of calling), we sustained about 20 hours of life before the phone was crying for its charger. We suspect that amount would be slightly lower if we'd spent a bit more time on calls, but it's still a solid showing considering the amount of downloading apps, screen testing, and general messing around we did with the device.
+
+You'll certainly be able to make it through a day with the Nexus S, but if you're a heavy talker or plan on doing a lot of gaming, you may want to consider a second battery.
+
+Software
+
+
+The big story with the Nexus S isn't really about the hardware. While there are some notable upgrades and changes on the front, what the phone really represents is a gateway to the next stage of Android, version 2.3 -- otherwise known as Gingerbread. For those expecting a sea change in the OS, we'll tell you up front that you'll be disappointed. When we say evolution, we mean it. This is kind of the Snow Leopard of Android updates -- a lot of motion behind the scenes, but not a load of cosmetic and navigational changes. There isn't a ton here that's dramatically different than Froyo, but there are some notable additions that are worth taking a deeper look at.
+
+User interface
+
+Coming from Froyo, you won't see massive changes to the look and feel of Gingerbread, but there are nice tweaks and some cleanup that shows Google is moving in the right direction. For starters, the status bar icons, window shade, dialer, and some applications (and their icons) have gotten a fresh coat of paint. By the looks of things, Google is moving away from the colorful, almost cartoonish look of previous OSs, and dipping into a more somber a sophisticated palette, mostly featuring shaded grays and blacks with green highlights. The company has made some thoughtful choices in terms of user experience as well -- if you're synced with a Google account, your status bar icons go from white to green, and instead of obscuring menus on the camera app, there's now a row of contextual items at your disposal while shooting.
+
+Other little updates include a new orange burst of color which happens when you reach the end of a long list, and added transparency in menus, giving the OS a glassy feel. Additionally, the battery use and task manager have new views to graphically depict usage on the phone. Speaking of task managers, Google has now seen fit to add a proper menu option to the task manager right from the home screen menu. We're guessing the popularity of third-party killers was enough to convince the company that confronting the issue head on wasn't such a bad thing after all. It's a welcome addition here, and we found ourselves reaching for it fairly often (not due to performance issues... just because we're fastidious when it comes to application management).
+
+
+Google has also updated some of its live wallpapers (which look nice, but we're not that fond of). We will say that this time around, whether it's the new OS or that Hummingbird CPU, we didn't see the kind of performance issues when running the wallpapers that we saw on the Nexus One. Still, we prefer to use the phone with static backdrops.
+
+The biggest change you'll notice, however, comes in the form of the new keyboard. Not only has the company cleaned up and refined the look of the onscreen QWERTY, but it's added new functionality for word suggestions, copy, paste, and selection. Additionally, the keyboard finally exhibits more expected multitouch behavior, thanks in part to new threading that the company has added. Those changes allow you to do things like tap the punctuation key and then slide your finger to the character you want. We'd be gushing about what a great addition that is, except Google forgot one important thing -- when you lift your finger off of your selected character, the keyboard should then flip back to the ABCs. It does not. Instead, you're left stranded in the punctuation menu, meaning you've got to tap the toggle again to get back to your QWERTY. What kind of sense does that make? The whole point of being able to slide your finger to another character is to save clicks and time -- but having to click back out defeats the purpose. The intention is good, but the way Apple has it working on the iPhone is a much better, smoother method. Another gripe we have about the keyboard is that Google seems to have shrunk the height of the keys, making the keyboard on the Nexus S's 4-inch display feel cramped. We're not sure of this, but it definitely seems like the company has reduced the keys in size.
+
+
+
+On a slightly brighter note, there are big improvements in word suggestion and selection, including new markers which you can use to grab selections of text. Well, let's be clear -- Google still has major issues with text selection and editing on Android devices. The first striking problem is that there is not a consistent method of selecting text on the device. None. At all. In the browser, you long press on text to bring up your anchors, then drag and tap the center of your selection -- boom, copied text. In text editing fields, however, in order to select a word you must long press on the word, wait for a contextual menu to pop up, and then select "select word" -- a completely counterintuitive process. In the message app you can long press to select only the entire message, and in Google Reader? You can't select any text at all. Even worse, Gmail has a different method for selecting text from an email you're reading, and it's far more obnoxious than any of the others. There, selecting text goes from being mildly annoying to downright silly. Want to grab some text out of an email? Here's your process: hit the menu key, hit "more," hit "select text," and then finally drag your anchors out. Funnily enough, a little cursor appears when you start selecting -- a holdover from Linux? To have this many options and discrepancies over something as simple as copy and paste should be embarrassing to Google. What it mostly is, however, is a pain to the end user.
+
+And that's kind of the crux of our problem with Android in its current state. We don't question the power of the OS, but the fit, finish, and ease of use simply is still not there. There is something disconcerting about an operating system that changes its rules from app to app -- for a mobile interface to work well, it has to be approached holistically and organically. There is something cohesive in OSs like webOS and iOS -- a language that you can easily learn to speak and feel confident about using to get what you want -- that just seems to be missing here.
+
+New apps
+
+There aren't a ton of new pieces inside 2.3, but there are a few notable new additions to the app lineup. The first one is Tags, which is an NFC app which records all of the links you've gathered using the new tech in one easy to locate bag. You can star and delete these links much like Google Reader or Gmail. The second app which is notable is Downloads. This collects anything you've pulled down from the browser in one easy to reach spot. It certainly makes identifying where specific apps or files came from much easier, though it doesn't offer a ton of day-to-day utility.
+
+Under the hood
+
+Besides all the front-end stuff you can see, there's a lot that's less obvious happening in Gingerbread. Firstly, Google has added integrated support for VoIP / SIP calling, which means you can plug in your favorite service and access it through the native menus in the OS. This won't appeal to everyone, but there's definitely a certain segment of users that will be stoked to see this feature.
+
+What really gets our juices flowing, however, is the fact that Google seems to be going full tilt on making Android a gaming platform. The company has enriched the OS with a handful of new APIs and dev tools which improve native code support and set the stage for faster, better looking games (and other graphics-heavy applications as well). It will be exciting to finally see developers taking advantage of the formidable hardware inside a lot of these devices. We don't know if the Nexus S is already utilizing some of these new tools, but as we said before, the OS seems blazingly fast and silky smooth when it comes to animations and transitions.
+
+Wrap-up
+
+
+It seems like every couple of weeks we're saying something along the lines of "x is the best Android smartphone on the market right now." We'd like to tell you differently when it comes to the Nexus S, but the truth is, it really is the best Android device available right now. Sure, we'd prefer it was on Verizon, and yes, there are some issues with the phone and OS that detract from the good bits... but there are also a lot of good bits. We'd been longing for a Galaxy S device that wasn't burdened by Samsung's sometimes-clunky TouchWiz, and in joining forces with Google, the company has more than delivered.
+
+There's no shortage of great phones available right now, and there's no question that 2011 will usher in a flood of devices that make 2010's offerings seem forgettable. Like we said earlier, this isn't a perfect device -- and in fact a lot of what's exciting about this phone is what's happening behind the scenes. It's as if the stage is set for the arrival of Honeycomb along with a slew of features. Still, when it comes to state of the art for Android right now, the buck stops here.
+1090
+
+Leave A Comment
+
+
+android, android 2.3, android 2.3 gingerbread, Android2.3, Android2.3Gingerbread, gingerbread, google, google android, google nexus s, GoogleAndroid, GoogleNexusS, nexus, nexus s, NexusS, nfc, review, samsung
+
+
+Just got a Palm phone? The best apps, accessories, and tips15 hours ago
+Just got an Android phone? The best apps, accessories, and tips2 days ago
+42-inch Nexus S stomps into Best Buy, terrifies shoppers and demos interactive...3 days ago
+From Our Partners
+CNN says Apple¡¯s "antennagate" biggest tech fail of 20101 day ago
+Google sends Android astronauts into space7 days ago
+Sony¡¯s Hirai on the challenges of differentiating a PlayStation Phone and PSP 27 days ago
