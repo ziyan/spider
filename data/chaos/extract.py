@@ -6,7 +6,7 @@ import shutil
 def main():
     extractor = os.path.realpath(os.path.join(os.path.abspath(os.path.dirname(__file__)), '..', '..', 'extractor', 'extractor.coffee'))
 
-    for id in range(91, 98):
+    for id in range(0, 200):
         path = os.path.realpath(os.path.join(os.path.abspath(os.path.dirname(__file__)), 'original', '%d.htm' % id))
         soup = bs4.BeautifulSoup(open(path, 'rb'))
         url = ''
@@ -35,13 +35,13 @@ def main():
                     url = href
                     break
 
+        # For wolfarm alpha.
         if not url:
             for a in soup.select('a[title]'):
                 title = a.get('title')
                 href = a.get('href', '')
 
                 if title.startswith('Permanent Link') and href:
-                    #print a
                     url = href
                     break
         print '%d: %s' % (id, url)
