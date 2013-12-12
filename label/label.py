@@ -39,10 +39,17 @@ def main(args):
 
     # load data
     all_texts = []
+    domains = set()
 
     for id, url in enumerate(urls):
         if not url.strip():
             continue
+        
+        host = url.split('/', 3)[2]
+        if host in domains:
+            continue
+        domains.add(host)
+        print host
 
         page = utils.load_data(path, id)
         processor = processors.Processor([page], tokenizer=tokenizers.GenericTokenizer, analyzer=analyzers.LongestAnalyzer)
@@ -85,13 +92,13 @@ def main(args):
         text_density = float(text_length) / float(area)
 
         # continuous_feature
-        continuous_feature = [text_length, text_density]
+        continuous_feature = [] #text_length, text_density]
         continuous_features.append(continuous_feature)
 
         # discrete features
         discrete_feature = dict()
         discrete_feature = dict(text['computed'].items())
-        discrete_feature['path'] = ' > '.join(text['path'])
+        #discrete_feature['path'] = ' > '.join(text['path'])
         discrete_features.append(discrete_feature)
 
         # label
@@ -103,6 +110,7 @@ def main(args):
     labels = np.array(labels).astype(np.float32)
 
     features = np.hstack([continuous_features, discrete_features]).astype(np.float32)
+    print features.shape
 
     precisions = []
     recalls = []
@@ -115,6 +123,18 @@ def main(args):
 
         clf = svm.SVC(verbose=False, kernel='linear', probability=False, random_state=0, cache_size=2000, class_weight='auto')
         clf.fit(features[train_index], labels[train_index])
+
+        print clf.n_support_
+
+        negatives = []
+        for i in clf.support_[:clf.n_support_[0]]:
+            negatives.append(all_texts[i])
+
+        positives = []
+        for i in clf.support_[clf.n_support_[0]:]:
+            positives.append(all_texts[i])
+
+        stats(negatives, positives)
 
         predicted = clf.predict(features[test_index])
         print classification_report(labels[test_index], predicted)
@@ -135,6 +155,35 @@ def main(args):
         print '%f\t%f\t%f\t%f' % (precisions[label], recalls[label], f1scores[label], supports[label])
 
     return
+
+def stats(negatives, positives):
+    negative_features = set()
+    positives_features = set()
+    negative_counts = collections.defaultdict(lambda: 0)
+    positives_counts = collections.defaultdict(lambda: 0)
+
+    for text in negatives:
+        negative_features |= set(text['computed'].items())
+
+    for text in positives:
+        positives_features |= set(text['computed'].items())
+
+    common = negative_features & positives_features
+
+    for text in negatives:
+        for key, value in text['computed'].iteritems():
+            if (key, value) not in common:
+                negative_counts[(key, value)] += 1
+
+    for text in positives:
+        for key, value in text['computed'].iteritems():
+            if (key, value) not in common:
+                positives_counts[(key, value)] += 1
+
+    print 'negatives: '
+    print list(reversed(sorted(filter(lambda x: x[1] > 1, negative_counts.items()), key=lambda pair: pair[1])))[:10]
+    print 'positives: '
+    print list(reversed(sorted(filter(lambda x: x[1] > 1, positives_counts.items()), key=lambda pair: pair[1])))[:10]
 
 
 def parse_args():
