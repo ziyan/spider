@@ -17,7 +17,7 @@ def load_data(path, id):
 
 def load_gold_text(path, id):
     with open(os.path.join(path, '%03d.txt' % id)) as f:
-        data = f.read()
+        data = f.read().decode('utf8')
     return data
 
 def consolidate_selectors(selectors):

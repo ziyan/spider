@@ -30,22 +30,15 @@ class Processor(object):
             page['descriptions'] = self.tokenizer.tokenize(*page['descriptions'])
             tokens = page['titles'] + page['descriptions']
             for text in page['texts']:
+                text['label'] = 0
                 text['tokens'] = self.tokenizer.tokenize(*text['text'])
                 tokens += text['tokens']
             pages.append(tokens)
 
         self.analyzer = analyzer(*pages)
 
-    def extract(self):
-        """
-        Extract features for clustering
-        """
-
         self.pages = []
         self.texts = []
-
-        continuous_features = []
-        discrete_features = []
 
         for page in self.data:
             for text in page['texts']:
@@ -54,16 +47,26 @@ class Processor(object):
                 self.pages.append(page)
                 self.texts.append(text)
 
-                # continuous features
-                continuous_features.append([
-                    process(page, text)
-                    for key, process in self.CONTINUOUS_FEATURES.iteritems()
-                ])
+    def extract(self):
+        """
+        Extract features for clustering
+        """
 
-                # discrete features
-                discrete_feature = dict(text['computed'].items())
-                discrete_feature['path'] = ' > '.join(text['path'])
-                discrete_features.append(discrete_feature)
+        continuous_features = []
+        discrete_features = []
+
+        for page, text in zip(self.pages, self.texts):
+        
+            # continuous features
+            continuous_features.append([
+                process(page, text)
+                for key, process in self.CONTINUOUS_FEATURES.iteritems()
+            ])
+
+            # discrete features
+            discrete_feature = dict(text['computed'].items())
+            discrete_feature['path'] = ' > '.join(text['path'])
+            discrete_features.append(discrete_feature)
 
         # build numpy array
         continuous_features = preprocessing.scale(np.array(continuous_features))
@@ -73,6 +76,32 @@ class Processor(object):
         discrete_features = vectorizer.fit_transform(discrete_features).toarray()
 
         return np.hstack([continuous_features, discrete_features]).astype(np.float32)
+
+    def prepare2(self):
+        # build features
+        continuous_features = []
+        discrete_features = []
+        labels = []
+
+        for page, text in zip(self.pages, self.texts):
+            text_length = len(text['tokens'])
+            area = text['bound']['height'] * text['bound']['width']
+            text_density = float(text_length) / float(area)
+
+            # continuous_feature
+            continuous_feature = [text_length, text_density]
+            continuous_features.append(continuous_feature)
+
+            # discrete features
+            discrete_feature = dict()
+            discrete_feature = dict(text['computed'].items())
+            discrete_feature['path'] = ' > '.join(text['path'])
+            discrete_features.append(discrete_feature)
+
+            # label
+            labels.append(text['label'])
+
+        return continuous_features, discrete_features, labels
 
     def prepare(self, labels):
         """
