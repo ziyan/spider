@@ -1,8 +1,4 @@
-﻿September 09, 2010
-Customize Your Blog’s Background With Your Own Image
-Posted by Wongoo Lee, Software Engineer
-
-We know that personalizing your blog is important. Although you can adjust templates, layouts, backgrounds and more with our Template Designer, you wanted more ways to make your blog completely unique. 
+﻿We know that personalizing your blog is important. Although you can adjust templates, layouts, backgrounds and more with our Template Designer, you wanted more ways to make your blog completely unique. 
 
 Now you can use your own image as your blog background. Go to Design | Template Designer | Background, click on Background Image, and you’ll see the new “Upload image” option, which allows you to select and upload your image. There are a variety of options such as alignment, repeat, and scroll for how to display your new image. This feature is another graduate from Blogger in Draft. You can find more information in our original announcement.
 

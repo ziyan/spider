@@ -1,8 +1,4 @@
-﻿Love My Maps? Use its Line and Shape Editing in your API Apps!
-Friday, May 16, 2008 at 4:30:00 PM
-Posted by Keith Golden, My Maps team
-
-When we launched the map editing tools in Google Maps, the reaction of developers was "This is cool, but how can I use it on my own site?" As someone who was originally drawn to Google in part because of the Maps API and the great developer community around it, I committed to making the My Maps tools useful for developers on their own sites.
+﻿When we launched the map editing tools in Google Maps, the reaction of developers was "This is cool, but how can I use it on my own site?" As someone who was originally drawn to Google in part because of the Maps API and the great developer community around it, I committed to making the My Maps tools useful for developers on their own sites.
 
 Today, I'm pleased to announce that our user interface functionality for editable polylines and polygons is now part of the Maps API.
 
@@ -14,5 +10,3 @@ var polyline = new GPolyline([]);
 map.addOverlay(polyline);
 polyline.enableDrawing();
 Every click on the map will add a new vertex to the polyline until the user double-clicks or clicks again on the last vertex. You can also call enableDrawing to lets users append vertices to either end of an existing polyline. And just because everyone likes pretty colors, we exposed methods to let you change the style of a polyline or polygon: setStrokeStyle and setFillStyle. Have fun, and let us know what you think in the forum.
-
- View example in its own window.

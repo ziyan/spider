@@ -1,6 +1,4 @@
-﻿Spring Cleaning: Comments, offline, and older browser support
-Monday, May 24, 2010 by Mihai Parparita
-Springtime is a great opportunity to clean up, take care of loose ends, and generally spruce things up. Since we still have a few weeks of spring left, the Reader team is taking this opportunity to clean things up a bit.
+﻿Springtime is a great opportunity to clean up, take care of loose ends, and generally spruce things up. Since we still have a few weeks of spring left, the Reader team is taking this opportunity to clean things up a bit.
 Simplifying comments
 Ever since we launched support for comments on shared items, one of the most frequent points of confusion has been "who can comment on my shared items?" (or rather, "why can't I comment on my friends' shared items?"). Up until now, someone had to be in a designated sharing group to be able to comment on a post, even if you were sharing publicly. To make things a lot simpler, we've made it so that if you can see a shared item, you can comment on it.
 For those of you who are sharing publicly, the next time you log in to Reader you'll get a choice between continuing to share publicly and allowing anyone to comment on your shared items, or switching to protected sharing:

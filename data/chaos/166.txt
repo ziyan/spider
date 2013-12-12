@@ -1,8 +1,4 @@
-﻿Dashing through the snow... with NORAD and Google
-12/23/2010 08:00:00 AM
-(Cross-posted from the Lat Long Blog)
-
-Every Christmas Eve, children all over the world ask themselves—and their parents—questions about Santa’s magical journey. How does Santa visit so many children in one night? Will he eat the cookies I left out? How does he fit all those presents into his sleigh? These childhood mysteries are part of what makes the Santa tradition so special.
+﻿Every Christmas Eve, children all over the world ask themselves—and their parents—questions about Santa’s magical journey. How does Santa visit so many children in one night? Will he eat the cookies I left out? How does he fit all those presents into his sleigh? These childhood mysteries are part of what makes the Santa tradition so special.
 
 There’s one timeless question that we’re proud to say we can help answer: Where in the world is Santa at this very moment? Thanks in part to recent advances in warp-speed GPS technology and some very clever elves (elveneering?) NORAD Tracks Santa is once again prepped and ready to go.
 
@@ -26,6 +22,3 @@ As we approach this year’s Christmas Eve adventure, Santa was able to take a b
 Santa with NORAD, Google and members of the Marine Toys for Tots Foundation (that’s me, the tall guy in the back row clapping)
 
 So don’t forget to visit www.noradsanta.org tomorrow morning starting at 2:00am EST when Santa embarks on his flight. From all of us here at Google, happy holidays and here’s to a very happy New Year!
-
-
-Posted by Brian McClendon, Original Google Engineering Elf

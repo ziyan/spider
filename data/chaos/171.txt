@@ -1,5 +1,4 @@
-﻿An update on China
-6/28/2010 10:45:00 PM
+﻿
 Update July 9: 
 We are very pleased that the government has renewed our ICP license and we look forward to continuing to provide web search and local products to our users in China.
 
@@ -13,5 +12,3 @@ That’s a prospect dreaded by many of our Chinese users, who have been vocal ab
 Over the next few days we’ll end the redirect entirely, taking all our Chinese users to our new landing page—and today we re-submitted our ICP license renewal application based on this approach.
 
 As a company we aspire to make information available to users everywhere, including China. It’s why we have worked so hard to keep Google.cn alive, as well as to continue our research and development work in China. This new approach is consistent with our commitment not to self censor and, we believe, with local law. We are therefore hopeful that our license will be renewed on this basis so we can continue to offer our Chinese users services via Google.cn.
-
-Posted by David Drummond, SVP, Corporate Development and Chief Legal Officer

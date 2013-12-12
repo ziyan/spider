@@ -1,7 +1,4 @@
-﻿X = G / (C*H*R*O*M - 3)
-Friday, December 10, 2010 | 4:55 PM
-Labels: chrome os
-Yesterday, we posted a demo video with a secret challenge where the first clever person to crack the code would receive a Cr-48. Just 20 hours later, the puzzle was solved correctly by the team at Jamendo. Congratulations!
+﻿Yesterday, we posted a demo video with a secret challenge where the first clever person to crack the code would receive a Cr-48. Just 20 hours later, the puzzle was solved correctly by the team at Jamendo. Congratulations!
 
 Here’s how you can find the puzzle and the solution.
 First, around 2:24 in the video, you see the following equations on the board:
@@ -27,5 +24,3 @@ s p e e d a n d d e s t r o y
 Putting everything together, the end result is:
 goo.gl/speedanddestroy
 That URL points to a page where you can fill out a form to request a shiny new Chrome notebook (the form is closed now, of course).
-
-Posted by Chris Lyon, Hardware Engineer, Chrome OS Team

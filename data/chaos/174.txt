@@ -1,7 +1,4 @@
-﻿Browse for a good cause
-Wednesday, December 15, 2010 | 10:00 AM
-Labels: chrome for a cause
-Whether it’s bug fixes to the Chromium open source project, dazzling apps and extensions arriving daily in our Web Store, or boundary-pushing Chrome experiments -- the Chrome community never fails to inspire us with their awesomeness.
+﻿Whether it’s bug fixes to the Chromium open source project, dazzling apps and extensions arriving daily in our Web Store, or boundary-pushing Chrome experiments -- the Chrome community never fails to inspire us with their awesomeness.
 
 This holiday, we wanted to enable the Chrome community to work together for a good cause. Starting today, we invite you to support five worthy causes by counting and “donating” the tabs you open in Chrome.
 

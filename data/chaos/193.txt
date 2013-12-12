@@ -1,8 +1,4 @@
-﻿New in Labs: Smart mute and easier ways to unmute
-Wednesday, December 01, 2010 | 4:40 PM
-Posted by Bruce DiBello, Software Engineer
-
-If you subscribe to a lot of mailing lists and like to keep an empty inbox, muting (or preventing a conversation from re-entering your inbox) is an essential feature. We just made a few changes that should make muting even better.
+﻿If you subscribe to a lot of mailing lists and like to keep an empty inbox, muting (or preventing a conversation from re-entering your inbox) is an essential feature. We just made a few changes that should make muting even better.
 
 First up is “Smart Mute,” a new Gmail Labs feature that helps solve the problem of conversations that just won’t die. You know the ones I’m talking about: those emails with 10+ people cc’d where everyone replies all, but you lost interest five emails ago. The current mute behavior doesn’t do well in these situations since the messages are addressed to you. You end up with muted messages in your inbox, and the only way to prevent these emails from coming back to your inbox has been to create a custom filter for a specific conversation.
 

@@ -1,6 +1,4 @@
-﻿Extra! Extra! Google News redesigned to be more customizable and shareable
-6/30/2010 02:05:00 PM
-There’s an old saying that all news is local. But all news is personal too—we connect with it in different ways depending on our interests, where we live, what we do and a lot of other factors. Today we’re revamping the Google News homepage with several changes designed to make the news that you see more relevant to you. We’re also trying to better highlight interesting stories you didn’t know existed and to make it easier for you to share stories through social networks.
+﻿There’s an old saying that all news is local. But all news is personal too—we connect with it in different ways depending on our interests, where we live, what we do and a lot of other factors. Today we’re revamping the Google News homepage with several changes designed to make the news that you see more relevant to you. We’re also trying to better highlight interesting stories you didn’t know existed and to make it easier for you to share stories through social networks.
 
 Before:
 
@@ -21,7 +19,3 @@ Finally, you can now easily share story clusters with other people via Buzz, Rea
 
 
 The redesigned Google News homepage is rolling out today in the English-language edition in the U.S., and we plan to expand it to all editions in the coming months. We’re making the ability to choose which sources you’ll see more or less often available in all English-language editions worldwide and plan to expand it soon. For more information about these changes, check out the video below or visit our Help Center.
-
-
-
-Posted by Kevin Stolt, Software Engineer

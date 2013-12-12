@@ -1,6 +1,4 @@
-﻿WiFi data collection: An update
-5/14/2010 01:44:00 PM
-Update June 9, 2010: 
+﻿Update June 9, 2010: 
 
 When we announced three weeks ago that we had mistakenly included code in our software that collected samples of payload data from WiFi networks, we said we would ask a third party to review the software at issue, how it worked, and what data it gathered. That report, by the security consulting firm Stroz Friedberg, is now complete and was sent to the interested data protection authorities today. In short, it confirms that Google did indeed collect and store payload data from unencrypted WiFi networks, but not from networks that were encrypted. You can read the report here. We are continuing to work with the relevant authorities to respond to their questions and concerns.
 
@@ -31,5 +29,3 @@ In addition, given the concerns raised, we have decided that it’s best to stop
 This incident highlights just how publicly accessible open, non-password-protected WiFi networks are today. Earlier this year, we encrypted Gmail for all our users, and next week we will start offering an encrypted version of Google Search. For other services users can check that pages are encrypted by looking to see whether the URL begins with “https”, rather than just “http”; browsers will generally show a lock icon when the connection is secure. For more information about how to password-protect your network, read this.
 
 The engineering team at Google works hard to earn your trust—and we are acutely aware that we failed badly here. We are profoundly sorry for this error and are determined to learn all the lessons we can from our mistake.
-
-Posted by Alan Eustace, Senior VP, Engineering & Research

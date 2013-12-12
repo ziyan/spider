@@ -1,10 +1,4 @@
-﻿Gmail for Android: better Priority Inbox support and improved compose
-Thursday, December 09, 2010 | 1:09 PM
-Posted by Paul Westbrook, Gmail for Android team
-
-(Cross posted from the Mobile blog)
-
-When we first released Gmail in Android Market back in September, we said that you’d be getting new stuff faster, and we meant it. After getting thousands of comments on that release, we made a bunch of updates based on your feedback and today we’re launching Gmail for Android 2.3.2.
+﻿When we first released Gmail in Android Market back in September, we said that you’d be getting new stuff faster, and we meant it. After getting thousands of comments on that release, we made a bunch of updates based on your feedback and today we’re launching Gmail for Android 2.3.2.
 
 Priority Inbox
 

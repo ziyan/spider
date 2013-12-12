@@ -1,7 +1,3 @@
-geo search 2.0: Data In, Data Out
-Thursday, May 22, 2008 at 10:05:00 AM
-Posted by Pamela Fox, Maps API Team
-
 Last week during the geo madness of Where2.0 and WhereCamp, we announced two enhancements in geo search to make it both easier for developers to get their data into our geo search index and easier for developers to get data back out of the index:
 
 Geo Sitemaps: Sitemaps are a protocol that bots use to index content from websites. Last year, we announced the ability to include KML/GeoRSS files in regular sitemaps just like a normal web resource. This year, we announce a special extension for sitemaps that adds geo-specific tags and makes it easier for us to index. To get your geo content indexed as fast as possible, just submit the sitemap to Google Webmaster Central. For more information on creating a KML file to include in a sitemap, read this article in the KML documentation. An example geo sitemap listing a KML and a GeoRSS file is shown below:

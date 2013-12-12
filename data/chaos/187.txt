@@ -1,6 +1,4 @@
-﻿September 29, 2010
-Stats Gadgets Graduate from Draft
-Last month we released two new stats gadgets to the Blogger in Draft testing ground; after hearing your feedback and making a few tweaks, we’re happy to announce that they are both now ready for the main stage. The new-and-improved Popular Posts and Blog’s Stats gadgets can be added to your blog right now from the Gadget Directory by clicking Add a gadget from the Design | Page Elements tab.
+﻿Last month we released two new stats gadgets to the Blogger in Draft testing ground; after hearing your feedback and making a few tweaks, we’re happy to announce that they are both now ready for the main stage. The new-and-improved Popular Posts and Blog’s Stats gadgets can be added to your blog right now from the Gadget Directory by clicking Add a gadget from the Design | Page Elements tab.
 
 
 

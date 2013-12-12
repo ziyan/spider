@@ -1,6 +1,4 @@
-﻿This week in search 6/6/10
-6/06/2010 09:59:00 PM
-This is one of a regular series of posts on search experience updates. Look for the label This week in search and subscribe to the series. - Ed.
+﻿This is one of a regular series of posts on search experience updates. Look for the label This week in search and subscribe to the series. - Ed.
 
 We work hard to consistently develop new tools, features and algorithmic changes to help us better understand what you mean when you enter a query into the Google search box—and we ultimately use that understanding to get you the information you're looking for as fast as possible. Understanding is core to our mission—particularly as we strive to be as useful in your everyday tasks. For example, if you search for a local sports team, and there's been a recent game, we'll show you scores. If you're visiting Boston and looking for a restaurant, you'll find tailored search suggestions based on the best Beantown spots. It's these features that enhance the experience of searching and help you find exactly what you're looking for. This week, we've made a few changes that we hope will make Google search even better for you.
 
@@ -24,5 +22,3 @@ A new look for the Google homepage
 Search is more fun when it's personalized. That's why I was delighted to announce our new feature that allows you to personalize your Google homepage with a favorite photo. Whether you choose a picture from your computer, your own Picasa Web Album or a public gallery of photos hosted by Picasa, Google is now yours to personalize. To get started, head to google.com and look for the "Change background image" link in the lower left-hand side of the page. Keep an eye out for more fun announcements with this feature!
 
 Thanks for reading, and stay tuned for more next week.
-
-Posted by Marissa Mayer, VP Search Products & User Experience

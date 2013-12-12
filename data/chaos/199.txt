@@ -1,6 +1,4 @@
-﻿PHP 4 and MySQL 4 End of Life Announcement
-Posted July 23, 2010 by Mark Jaquith. Filed under Hosting.
-Our approach with WordPress has always been to make it run on common server configurations. We want users to have flexibility when choosing a host for their precious content. Because of this strategy, WordPress runs pretty much anywhere. Web hosting platforms, however, change over time, and we occasionally are able to reevaluate some of the requirements for running WordPress. Now is one of those times. You probably guessed it from the title — we’re finally ready to announce the end of support for PHP 4 and MySQL 4!
+﻿Our approach with WordPress has always been to make it run on common server configurations. We want users to have flexibility when choosing a host for their precious content. Because of this strategy, WordPress runs pretty much anywhere. Web hosting platforms, however, change over time, and we occasionally are able to reevaluate some of the requirements for running WordPress. Now is one of those times. You probably guessed it from the title — we’re finally ready to announce the end of support for PHP 4 and MySQL 4!
 
 First up, the announcement that developers really care about. WordPress 3.1, due in late 2010, will be the last version of WordPress to support PHP 4.
 

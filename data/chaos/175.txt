@@ -1,7 +1,4 @@
-﻿An update on Chrome, the Web Store and Chrome OS
-Tuesday, December 7, 2010 | 11:07 AM
-Labels: chrome os
-On the Chrome team, we’re constantly amazed by the speed of innovation on the web. We designed Chrome to make the web shine, and we hope our upcoming efforts will help support this vibrant ecosystem even more. By making the web faster, helping people discover great apps, and making computers more fun to use, the next year of computing should be even more exciting than the last one.
+﻿On the Chrome team, we’re constantly amazed by the speed of innovation on the web. We designed Chrome to make the web shine, and we hope our upcoming efforts will help support this vibrant ecosystem even more. By making the web faster, helping people discover great apps, and making computers more fun to use, the next year of computing should be even more exciting than the last one.
 
 Chrome
 
@@ -22,5 +19,3 @@ The test notebooks exist only to test the software—they are black, have no bra
 In the first half of next year Chrome notebooks will be available for sale from Acer and Samsung. More manufacturers will follow. Also, Chrome OS is designed to work across a wide range of screen sizes and form factors, enabling our partners to deliver computing devices beyond notebooks.
 
 We’re excited to get Chrome notebooks into the hands of users. The data from our test pilots is key to building something wonderful. We look forward to working together to make computers better.
-
-Posted by Linus Upson, VP Engineering and Sundar Pichai, VP Product Management

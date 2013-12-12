@@ -15,6 +15,11 @@ def load_data(path, id):
         data = json.load(f)
     return data
 
+def load_gold_text(path, id):
+    with open(os.path.join(path, '%03d.txt' % id)) as f:
+        data = f.read()
+    return data
+
 def consolidate_selectors(selectors):
 
     for selector1, selector2 in itertools.product(selectors, repeat=2):
