@@ -77,32 +77,6 @@ class Processor(object):
 
         return np.hstack([continuous_features, discrete_features]).astype(np.float32)
 
-    def prepare2(self):
-        # build features
-        continuous_features = []
-        discrete_features = []
-        labels = []
-
-        for page, text in zip(self.pages, self.texts):
-            text_length = len(text['tokens'])
-            area = text['bound']['height'] * text['bound']['width']
-            text_density = float(text_length) / float(area)
-
-            # continuous_feature
-            continuous_feature = [text_length, text_density]
-            continuous_features.append(continuous_feature)
-
-            # discrete features
-            discrete_feature = dict()
-            discrete_feature = dict(text['computed'].items())
-            discrete_feature['path'] = ' > '.join(text['path'])
-            discrete_features.append(discrete_feature)
-
-            # label
-            labels.append(text['label'])
-
-        return continuous_features, discrete_features, labels
-
     def prepare(self, labels):
         """
         Prepare SVM training data.
@@ -130,13 +104,17 @@ class Processor(object):
             cluster['pages'][page['url']]['texts'].append(text)
 
         best_cluster = max(clusters.values(), key=lambda x: x['score'])
-        best_cluster['label'] = 1
+        for page in best_cluster['pages'].values():
+            for text in page['texts']:
+                text['label'] = 1
+        #best_cluster['label'] = 1
 
         # build features
         continuous_features = []
         discrete_features = []
         labels = []
 
+        """
         for id, cluster in clusters.iteritems():
             for page in cluster['pages'].values():
                 for text in page['texts']:
@@ -156,6 +134,25 @@ class Processor(object):
 
                     # label
                     labels.append(cluster['label'])
+        """
+
+        for text in self.texts:
+            text_length = len(text['tokens'])
+            area = text['bound']['height'] * text['bound']['width']
+            text_density = float(text_length) / float(area)
+
+            # continuous_feature
+            continuous_feature = [text_length, text_density]
+            continuous_features.append(continuous_feature)
+
+            # discrete features
+            discrete_feature = dict()
+            discrete_feature = dict(text['computed'].items())
+            discrete_feature['path'] = ' > '.join(text['path'])
+            discrete_features.append(discrete_feature)
+
+            # label
+            labels.append(text['label'])
 
         return continuous_features, discrete_features, labels
 

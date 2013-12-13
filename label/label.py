@@ -39,16 +39,16 @@ def main(args):
 
     # load data
     all_texts = []
-    domains = set()
+    domains = collections.defaultdict(lambda: 0)
 
     for id, url in enumerate(urls):
         if not url.strip():
             continue
         
         host = url.split('/', 3)[2]
-        if host in domains:
+        if domains[host] > 0:
             continue
-        domains.add(host)
+        domains[host] += 1
         print host
 
         page = utils.load_data(path, id)
@@ -92,13 +92,13 @@ def main(args):
         text_density = float(text_length) / float(area)
 
         # continuous_feature
-        continuous_feature = [] #text_length, text_density]
+        continuous_feature = [text_length, text_density]
         continuous_features.append(continuous_feature)
 
         # discrete features
         discrete_feature = dict()
         discrete_feature = dict(text['computed'].items())
-        #discrete_feature['path'] = ' > '.join(text['path'])
+        discrete_feature['path'] = ' > '.join(text['path'])
         discrete_features.append(discrete_feature)
 
         # label
@@ -109,6 +109,9 @@ def main(args):
     continuous_features = np.array(continuous_features)
     labels = np.array(labels).astype(np.float32)
 
+    # scale features
+    features = preprocessing.scale(features)
+
     features = np.hstack([continuous_features, discrete_features]).astype(np.float32)
     print features.shape
 
@@ -117,7 +120,7 @@ def main(args):
     f1scores = []
     supports = []
 
-    rs = cross_validation.KFold(len(labels), n_folds=4, shuffle=True, random_state=0)
+    rs = cross_validation.KFold(len(labels), n_folds=4, shuffle=False, random_state=0)
     for train_index, test_index in rs:
         print 'training size = %d, testing size = %d' % (len(train_index), len(test_index))
 
