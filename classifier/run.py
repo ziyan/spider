@@ -52,6 +52,7 @@ def main(args):
 
     # scale features
     features = preprocessing.scale(features)
+    print features.shape
 
     precisions = []
     recalls = []
@@ -89,6 +90,8 @@ def main(args):
 
     for label in range(2):
         print '%f\t%f\t%f\t%f' % (precisions[label], recalls[label], f1scores[label], supports[label])
+
+    return
 
     negatives = []
     positives = []

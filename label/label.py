@@ -19,6 +19,7 @@ import numpy as np
 from sklearn.feature_extraction import DictVectorizer
 from sklearn import svm, preprocessing, cross_validation
 from sklearn.metrics import precision_recall_curve, auc, classification_report, precision_recall_fscore_support
+import random
 
 def main(args):
 
@@ -38,7 +39,7 @@ def main(args):
     # extract data from each url
 
     # load data
-    all_texts = []
+    pages = []
     domains = collections.defaultdict(lambda: 0)
 
     for id, url in enumerate(urls):
@@ -46,8 +47,8 @@ def main(args):
             continue
         
         host = url.split('/', 3)[2]
-        if domains[host] > 0:
-            continue
+        #if domains[host] > 2:
+        #    continue
         domains[host] += 1
         print host
 
@@ -79,30 +80,63 @@ def main(args):
         for text in clusters[best_label]:
             text['label'] = 1
 
+
+        page_texts = []
         for label, texts in clusters.iteritems():
-            all_texts += texts
+            page_texts += texts
+        random.shuffle(page_texts)
+        pages.append(page_texts)
+
+    random.shuffle(pages)
 
     continuous_features = []
     discrete_features = []
     labels = []
 
-    for text in all_texts:
-        text_length = len(text['tokens'])
-        area = text['bound']['height'] * text['bound']['width']
-        text_density = float(text_length) / float(area)
+    for page in pages:
+        for text in page:
+            text_length = len(text['tokens'])
+            area = text['bound']['height'] * text['bound']['width']
+            text_density = float(text_length) / float(area)
 
-        # continuous_feature
-        continuous_feature = [text_length, text_density]
-        continuous_features.append(continuous_feature)
+            # continuous_feature
+            continuous_feature = [] #text_length, text_density]
+            continuous_features.append(continuous_feature)
 
-        # discrete features
-        discrete_feature = dict()
-        discrete_feature = dict(text['computed'].items())
-        discrete_feature['path'] = ' > '.join(text['path'])
-        discrete_features.append(discrete_feature)
+            # discrete features
+            discrete_feature = dict()
+            discrete_feature = dict(text['computed'].items())
+            discrete_feature['path'] = ' > '.join(text['path'])
+            """
+            discrete_feature['selector'] = ' > '.join([
+                '%s%s%s' % (
+                    selector['name'],
+                    '#' + selector['id'] if selector['id'] else '',
+                    '.' + '.'.join(selector['classes']) if selector['classes'] else '',
+                )
+                for selector in text['selector']
+            ])
+            """
+            discrete_feature['class'] = ' > '.join([
+                '%s%s' % (
+                    selector['name'],
+                    '.' + '.'.join(selector['classes']) if selector['classes'] else '',
+                )
+                for selector in text['selector']
+            ])
+            """
+            discrete_feature['id'] = ' > '.join([
+                '%s%s' % (
+                    selector['name'],
+                    '#' + selector['id'] if selector['id'] else '',
+                )
+                for selector in text['selector']
+            ])
+            """
+            discrete_features.append(discrete_feature)
 
-        # label
-        labels.append(text['label'])
+            # label
+            labels.append(text['label'])
 
     vectorizer = DictVectorizer()
     discrete_features = vectorizer.fit_transform(discrete_features).toarray()
@@ -129,6 +163,7 @@ def main(args):
 
         print clf.n_support_
 
+        """
         negatives = []
         for i in clf.support_[:clf.n_support_[0]]:
             negatives.append(all_texts[i])
@@ -138,7 +173,13 @@ def main(args):
             positives.append(all_texts[i])
 
         stats(negatives, positives)
+        """
 
+        print "training:"
+        predicted = clf.predict(features[train_index])
+        print classification_report(labels[train_index], predicted)
+
+        print "testing:"
         predicted = clf.predict(features[test_index])
         print classification_report(labels[test_index], predicted)
 

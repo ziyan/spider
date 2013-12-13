@@ -142,13 +142,39 @@ class Processor(object):
             text_density = float(text_length) / float(area)
 
             # continuous_feature
-            continuous_feature = [text_length, text_density]
+            continuous_feature = [] #text_length, text_density, float(text_length) / float(len(text['text'])), area]
             continuous_features.append(continuous_feature)
 
             # discrete features
             discrete_feature = dict()
             discrete_feature = dict(text['computed'].items())
             discrete_feature['path'] = ' > '.join(text['path'])
+            """
+            discrete_feature['selector'] = ' > '.join([
+                '%s%s%s' % (
+                    selector['name'],
+                    '#' + selector['id'] if selector['id'] else '',
+                    '.' + '.'.join(selector['classes']) if selector['classes'] else '',
+                )
+                for selector in text['selector']
+            ])
+            """
+            discrete_feature['class'] = ' > '.join([
+                '%s%s' % (
+                    selector['name'],
+                    '.' + '.'.join(selector['classes']) if selector['classes'] else '',
+                )
+                for selector in text['selector']
+            ])
+            """
+            discrete_feature['id'] = ' > '.join([
+                '%s%s' % (
+                    selector['name'],
+                    '#' + selector['id'] if selector['id'] else '',
+                )
+                for selector in text['selector']
+            ])
+            """
             discrete_features.append(discrete_feature)
 
             # label
