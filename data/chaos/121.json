@@ -1,0 +1,5207 @@
+{
+  "body": {
+    "bound": {
+      "height": 2807,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(255, 255, 255)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(102, 102, 102)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(102, 102, 102)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(102, 102, 102)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(102, 102, 102)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(102, 102, 102)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "'lucida sans unicode', 'lucida grande', verdana, 'trebuchet ms', sans-serif",
+      "font-size": "16px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "2807px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "22px",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(102, 102, 102)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "center",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [],
+  "titles": [
+    "Stanford InfoBlog: Simrank++: Putting together 3 simple ideas (Posted by Ioannis Antonellis)"
+  ],
+  "url": "http://infoblog.stanford.edu/2008/06/simrank-putting-together-3-simple-ideas.html",
+  "links": [
+    "http://infoblog.stanford.edu/",
+    "http://infoblog.stanford.edu/2008/05/why-write-blog.html",
+    "http://dbpubs.stanford.edu/pub/2007-32",
+    "http://dbpubs.stanford.edu/pub/2007-32",
+    "http://infoblog.stanford.edu/search/label/click%20graph",
+    "http://infoblog.stanford.edu/search/label/collaborative%20filtering",
+    "http://infoblog.stanford.edu/search/label/ioannis",
+    "http://infoblog.stanford.edu/search/label/link%20analysis",
+    "http://infoblog.stanford.edu/search/label/recommendation%20system",
+    "http://infoblog.stanford.edu/search/label/search%20advertising",
+    "http://infoblog.stanford.edu/search/label/simrank%2B%2B",
+    "http://infoblog.stanford.edu/search/label/sponsored%20search",
+    "http://infoblog.stanford.edu/search/label/yannis",
+    "http://www.blogger.com/comment.g?blogID=7751293754523140922&postID=968902751639847433",
+    "http://www.blogger.com/post-edit.g?blogID=7751293754523140922&postID=968902751639847433&from=pencil",
+    "http://www.blogger.com/profile/08835143972957022099",
+    "http://infoblog.stanford.edu/2008/06/simrank-putting-together-3-simple-ideas.html#comment-7962957629613339350",
+    "http://www.blogger.com/delete-comment.g?blogID=7751293754523140922&postID=7962957629613339350",
+    "http://www.blogger.com/comment.g?blogID=7751293754523140922&postID=968902751639847433",
+    "http://infoblog.stanford.edu/2008/06/%3C$BlogBacklinkURL$%3E",
+    "http://www.blogger.com/delete-backlink.g?blogID=7751293754523140922&postID=968902751639847433&backlinkURL=%3C$BlogBacklinkURLEscaped$%3E",
+    "javascript:BlogThis();",
+    "http://infoblog.stanford.edu/2008/05/why-write-blog.html",
+    "http://infoblog.stanford.edu/2008_05_01_archive.html",
+    "http://infoblog.stanford.edu/2008_06_01_archive.html",
+    "http://infoblog.stanford.edu/2008_07_01_archive.html",
+    "http://infoblog.stanford.edu/2008_08_01_archive.html",
+    "http://infoblog.stanford.edu/2008_09_01_archive.html",
+    "http://infoblog.stanford.edu/2008_10_01_archive.html",
+    "http://infoblog.stanford.edu/2008_11_01_archive.html",
+    "http://infoblog.stanford.edu/2008_12_01_archive.html",
+    "http://infoblog.stanford.edu/2009_01_01_archive.html",
+    "http://i.stanford.edu/",
+    "http://www.stanford.edu/~paraga/",
+    "http://www.stanford.edu/~antonell/",
+    "http://i.stanford.edu/~anishds/",
+    "http://infolab.stanford.edu/people/hector.html",
+    "http://heymann.stanford.edu/",
+    "http://www.stanford.edu/~rmikeda/",
+    "http://www.stanford.edu/~koutrika/",
+    "http://hammerhead.stanford.edu/",
+    "http://infolab.stanford.edu/~paepcke/",
+    "http://www.stanford.edu/~ppapadim/",
+    "http://www.stanford.edu/~dramage/",
+    "http://www.stanford.edu/~euijong/",
+    "http://infolab.stanford.edu/~widom/",
+    "http://www.stanford.edu/",
+    "http://cs.stanford.edu/",
+    "http://i.stanford.edu/",
+    "http://ilpubs.stanford.edu/",
+    "http://infolab.stanford.edu/trio/",
+    "http://infolab.stanford.edu/serf/",
+    "http://theory.stanford.edu/",
+    "http://www.stanford.edu/~sunabar/rain/",
+    "http://ai.stanford.edu/",
+    "http://nlp.stanford.edu/",
+    "http://dags.stanford.edu/",
+    "http://wordgame.stanford.edu/",
+    "http://feeds.feedburner.com/stanfordinfoblog",
+    "http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2096088&loc=en_US",
+    "http://feeds.feedburner.com/stanfordinfoblog",
+    "http://feeds.feedburner.com/stanfordinfoblog",
+    "http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2096088&loc=en_US",
+    "http://www.blogger.com/start",
+    "http://infoblog.stanford.edu/",
+    "http://www.blogger.com/",
+    "http://www.bloggertemplates.org/",
+    "http://www.oinam.com/"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 42,
+        "left": 435,
+        "top": 273,
+        "width": 502
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/dot.gif)",
+        "background-position": "0px 100%",
+        "background-repeat": "repeat-x",
+        "font-size": "12px",
+        "margin-bottom": "20px",
+        "padding-bottom": "20px"
+      },
+      "element": {
+        "classes": [
+          "prev-next"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<span>« <a href=\"http://infoblog.stanford.edu/\">Home</a> | <a href=\"http://infoblog.stanford.edu/2008/05/why-write-blog.html\">Next</a> »</span><span style=\"display:none\"></span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "prev-next"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "« ",
+        "Home",
+        " | ",
+        "Next",
+        " »"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 435,
+        "top": 337,
+        "width": 502
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "georgia, 'lucida sans unicode', 'trebuchet ms', sans-serif",
+        "font-size": "11px",
+        "letter-spacing": "5px",
+        "line-height": "normal",
+        "outline-color": "rgb(51, 51, 51)",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [
+          "post-title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Simrank++: Putting together 3 simple ideas (Posted by Ioannis Antonellis)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "post-968902751639847433",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Simrank++: Putting together 3 simple ideas (Posted by Ioannis Antonellis)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 1886,
+        "left": 435,
+        "top": 383,
+        "width": 502
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "text-align": "justify"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "div"
+      },
+      "html": "Two ideas that really pushed web search further came from two completely different directions.<br><br><span style=\"font-size:130%;\">Two ideas</span><br><br>The first one,<span style=\"font-style: italic;\"> <span style=\"font-weight: bold;\">link analysis</span></span>, came into play as a tool for improving the quality of search results. The idea as people express it today is simple, yet its power has been proven invaluable. The more web pages that link to your web page, the more popular your web page becomes.<br><br>The second idea, <span style=\"font-style: italic; font-weight: bold;\">sponsored search</span>, allowed search engines to  make revenue, grow and keep providing their service for <span style=\"font-style: italic;\">free</span>. The idea again is simple: The search engine sells each keyword to up to 10 advertisers and it displays their ads to the users that issue a query with that keyword. Since the keywords are not real goods that you can easily set a price for, the search engines rely on auctions to determine the price for each keyword. (Had the search engines been able to set fixed keyword prices, many Ph.D. students, including myself, would have no thesis topic to work on...)<br><br><span style=\"font-size:130%;\">Another idea: The wisdom of Crowds<br></span><br>But, my favorite simple idea that has started flooding around recently is that of exploiting the <span style=\"font-style: italic; font-weight: bold;\">wisdom of the crowds</span><span style=\"font-style: italic;\">;</span> the information that the billions of web users provide in all its forms. The most concrete and recent example of a successful application that is based on this idea is Wikipedia. Now that this large repository of knowledge has been created, many researchers have started to think about using it to improve existing data mining methods.<br><br>Another, still under development and immature, set of techniques that are based on the wisdom of the crowds uses click logs as a source of implicit information that web search users provide.<br><br><span style=\"font-size:130%;\">The paper</span><br><br>In our paper <a style=\"border-bottom-style: groove;\" href=\"http://dbpubs.stanford.edu/pub/2007-32\">\"Simrank++: Query Rewriting through link analysis of the Click Graph\"</a>, which will be presented at Auckland, New Zealand in the coming VLDB 2008 conference, we are trying to put all these three ideas into play together. Specifically, we develop a link analysis technique for click graphs that can be used to increase the revenue of a sponsored search engine.<br><br>So, what is a click graph, how exactly do we analyze its link structure and how does this improve the revenue of a search engine?<br><br><span style=\"font-weight: bold;font-size:100%;\">Click graph</span><br><br>The click graph is a bipartite graph with query nodes on one side, ad nodes on the other  and an edge between a query and an ad when a user that issued the query clicked on the ad. In addition, each edge between a query and an ad has associated with it a weight that corresponds to the number of clicks the query brought to the ad.<br><br><span style=\"font-weight: bold;\">How to increase search engine revenue</span><br><br>The potential for revenue increase comes from queries that no advertiser has bid on. Since the search engine has no indication which ads are relevant to those queries, there are no ads it can display. Given such a query, if there was a way to guess which ads are relevant (but for some reason the associated advertisers decided not to bid on it), we could display the relevant ads and keep both the advertisers and the search engine happy.<br><br>The solution comes from the click graph: the wisdom of the crowds. Given a query, we use the click graph to generate a list of query rewrites, i.e., of other queries that are \"similar\" to it.  For example, for the query \"camera,\" the queries \"digital camera\" and \"photography\" may be useful because the user may also be interested in ads for those related queries. The query \"battery\" may also be useful because users that want a camera may also be in the market for a spare battery. Both the query and its rewrites can then be used to find ads.<br><br>The schemes we present analyze the connections in the click graph to identify rewrites that may be useful. Our techniques identify not only queries that are directly connected by an ad (e.g., users that  submit either \"mp3\" or \"i-tunes\" click on ad an for \"iPod\") but also queries that are more indirectly related.<br><br><span style=\"font-weight: bold;\">Simrank++</span><br><br>The intuition of our solution, Simrank++, is the following:<br><ul><li>two queries are similar if they are connected to similar ads and two ads are similar if they are connected to similar queries.<br></li></ul>Sounds confusing, but it reveals the power of recursion. Initially each query/ad is only similar to  itself, but by continuously applying these two rules, you end  up with a similarity score for each pair of queries.<br><br>Are these scores always correct? How can we even define what a correct score is? And how does everything change when you try to take into account the edge weights of the click graph in the computation of the similarity scores?<br><br>The answers to these more detailed questions are in the <a style=\"border-bottom-style: groove;\" href=\"http://dbpubs.stanford.edu/pub/2007-32\">paper</a>...<br>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "post-968902751639847433",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Two ideas that really pushed web search further came from two completely different directions.",
+        "Two ideas",
+        "The first one,",
+        "link analysis",
+        ", came into play as a tool for improving the quality of search results. The idea as people express it today is simple, yet its power has been proven invaluable. The more web pages that link to your web page, the more popular your web page becomes.",
+        "The second idea, ",
+        "sponsored search",
+        ", allowed search engines to  make revenue, grow and keep providing their service for ",
+        "free",
+        ". The idea again is simple: The search engine sells each keyword to up to 10 advertisers and it displays their ads to the users that issue a query with that keyword. Since the keywords are not real goods that you can easily set a price for, the search engines rely on auctions to determine the price for each keyword. (Had the search engines been able to set fixed keyword prices, many Ph.D. students, including myself, would have no thesis topic to work on...)",
+        "Another idea: The wisdom of Crowds",
+        "But, my favorite simple idea that has started flooding around recently is that of exploiting the ",
+        "wisdom of the crowds",
+        ";",
+        " the information that the billions of web users provide in all its forms. The most concrete and recent example of a successful application that is based on this idea is Wikipedia. Now that this large repository of knowledge has been created, many researchers have started to think about using it to improve existing data mining methods.",
+        "Another, still under development and immature, set of techniques that are based on the wisdom of the crowds uses click logs as a source of implicit information that web search users provide.",
+        "The paper",
+        "In our paper ",
+        "\"Simrank++: Query Rewriting through link analysis of the Click Graph\"",
+        ", which will be presented at Auckland, New Zealand in the coming VLDB 2008 conference, we are trying to put all these three ideas into play together. Specifically, we develop a link analysis technique for click graphs that can be used to increase the revenue of a sponsored search engine.",
+        "So, what is a click graph, how exactly do we analyze its link structure and how does this improve the revenue of a search engine?",
+        "Click graph",
+        "The click graph is a bipartite graph with query nodes on one side, ad nodes on the other  and an edge between a query and an ad when a user that issued the query clicked on the ad. In addition, each edge between a query and an ad has associated with it a weight that corresponds to the number of clicks the query brought to the ad.",
+        "How to increase search engine revenue",
+        "The potential for revenue increase comes from queries that no advertiser has bid on. Since the search engine has no indication which ads are relevant to those queries, there are no ads it can display. Given such a query, if there was a way to guess which ads are relevant (but for some reason the associated advertisers decided not to bid on it), we could display the relevant ads and keep both the advertisers and the search engine happy.",
+        "The solution comes from the click graph: the wisdom of the crowds. Given a query, we use the click graph to generate a list of query rewrites, i.e., of other queries that are \"similar\" to it.  For example, for the query \"camera,\" the queries \"digital camera\" and \"photography\" may be useful because the user may also be interested in ads for those related queries. The query \"battery\" may also be useful because users that want a camera may also be in the market for a spare battery. Both the query and its rewrites can then be used to find ads.",
+        "The schemes we present analyze the connections in the click graph to identify rewrites that may be useful. Our techniques identify not only queries that are directly connected by an ad (e.g., users that  submit either \"mp3\" or \"i-tunes\" click on ad an for \"iPod\") but also queries that are more indirectly related.",
+        "Simrank++",
+        "The intuition of our solution, Simrank++, is the following:",
+        "Sounds confusing, but it reveals the power of recursion. Initially each query/ad is only similar to  itself, but by continuously applying these two rules, you end  up with a similarity score for each pair of queries.",
+        "Are these scores always correct? How can we even define what a correct score is? And how does everything change when you try to take into account the edge weights of the click graph in the computation of the similarity scores?",
+        "The answers to these more detailed questions are in the ",
+        "paper",
+        "..."
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 436,
+        "top": 2022,
+        "width": 502
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-position": "0px 0px",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "12px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "justify"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "two queries are similar if they are connected to similar ads and two ads are similar if they are connected to similar queries.<br>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "post-968902751639847433",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "two queries are similar if they are connected to similar ads and two ads are similar if they are connected to similar queries."
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 435,
+        "top": 2286,
+        "width": 502
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "blogger-labels"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Labels: <a rel=\"tag\" href=\"http://infoblog.stanford.edu/search/label/click%20graph\">click graph</a>, <a rel=\"tag\" href=\"http://infoblog.stanford.edu/search/label/collaborative%20filtering\">collaborative filtering</a>, <a rel=\"tag\" href=\"http://infoblog.stanford.edu/search/label/ioannis\">ioannis</a>, <a rel=\"tag\" href=\"http://infoblog.stanford.edu/search/label/link%20analysis\">link analysis</a>, <a rel=\"tag\" href=\"http://infoblog.stanford.edu/search/label/recommendation%20system\">recommendation system</a>, <a rel=\"tag\" href=\"http://infoblog.stanford.edu/search/label/search%20advertising\">search advertising</a>, <a rel=\"tag\" href=\"http://infoblog.stanford.edu/search/label/simrank%2B%2B\">simrank++</a>, <a rel=\"tag\" href=\"http://infoblog.stanford.edu/search/label/sponsored%20search\">sponsored search</a>, <a rel=\"tag\" href=\"http://infoblog.stanford.edu/search/label/yannis\">yannis</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "post-968902751639847433",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blogger-labels"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Labels: ",
+        "click graph",
+        ", ",
+        "collaborative filtering",
+        ", ",
+        "ioannis",
+        ", ",
+        "link analysis",
+        ", ",
+        "recommendation system",
+        ", ",
+        "search advertising",
+        ", ",
+        "simrank++",
+        ", ",
+        "sponsored search",
+        ", ",
+        "yannis"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 435,
+        "top": 2352,
+        "width": 502
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconmeta.gif)",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "font-size": "10px",
+        "line-height": "19px",
+        "margin-top": "20px",
+        "outline-color": "rgb(153, 153, 153)",
+        "padding-left": "20px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "postmetadata"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n\t\t\tThis entry was posted by Ioannis Antonellis, on\n\t\t\tFriday, June 6, 2008.\n\t\t\t\n\t\t\tYou can <a href=\"http://www.blogger.com/comment.g?blogID=7751293754523140922&amp;postID=968902751639847433\" location.href=\"http://www.blogger.com/comment.g?blogID=7751293754523140922&amp;postID=968902751639847433;\">leave your response</a>.\n\t\t\t\n\t\t\t<span class=\"item-control blog-admin pid-1180988930\"><a style=\"border:none;\" href=\"http://www.blogger.com/post-edit.g?blogID=7751293754523140922&amp;postID=968902751639847433&amp;from=pencil\" title=\"Edit Post\"><img class=\"icon-action\" alt=\"\" src=\"http://img2.blogblog.com/img/icon18_edit_allbkg.gif\" height=\"18\" width=\"18\"></a></span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post"
+          ],
+          "id": "post-968902751639847433",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "postmetadata"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\n\t\t\tThis entry was posted by Ioannis Antonellis, on\n\t\t\tFriday, June 6, 2008.\n\t\t\t\n\t\t\tYou can ",
+        "leave your response",
+        ".\n\t\t\t\n\t\t\t"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 435,
+        "top": 2433,
+        "width": 502
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "georgia, 'lucida sans unicode', 'trebuchet ms', sans-serif",
+        "font-size": "11px",
+        "letter-spacing": "5px",
+        "line-height": "normal",
+        "outline-color": "rgb(51, 51, 51)",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "<script type=\"text/javascript\">var a = 1; if(a == 0) {document.write('no comments');} else if(a == 1) {document.write('1 comment');}else{document.write(a+' comments');}</script>1 comment",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "1 comment"
+      ]
+    },
+    {
+      "bound": {
+        "height": 86,
+        "left": 460,
+        "top": 2457,
+        "width": 477
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/dot.gif)",
+        "background-position": "0px 100%",
+        "background-repeat": "repeat-x",
+        "display": "list-item",
+        "font-size": "11px",
+        "list-style-type": "decimal",
+        "margin-bottom": "20px",
+        "padding-bottom": "20px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "comment-7962957629613339350",
+        "name": "li"
+      },
+      "html": "\n\n\t\t<span><span style=\"line-height:16px\" class=\"comment-icon blogger-comment-icon\"><img src=\"http://img2.blogblog.com/img/b16-rounded.gif\" alt=\"Blogger\" style=\"display:inline;\"></span>&nbsp;<a href=\"http://www.blogger.com/profile/08835143972957022099\" rel=\"nofollow\">Paul Heymann</a> | <a href=\"#comment-7962957629613339350\" title=\"\">June 13, 2008 at 2:07 PM</a> | <span class=\"item-control blog-admin pid-1619810002\"><a style=\"border:none;\" href=\"http://www.blogger.com/delete-comment.g?blogID=7751293754523140922&amp;postID=7962957629613339350\" title=\"Delete Comment\"><span class=\"delete-comment-icon\">&nbsp;</span></a></span></span>\n\t\t<p>Hey Yannis, isn't link analysis also the Wisdom of Crowds?  What's up?</p>\n\t",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ol",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ol"
+        },
+        {
+          "classes": [],
+          "id": "comment-7962957629613339350",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Paul Heymann",
+        " | ",
+        "June 13, 2008 at 2:07 PM",
+        " | "
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 461,
+        "top": 2492,
+        "width": 477
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "11px",
+        "list-style-type": "decimal",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Hey Yannis, isn't link analysis also the Wisdom of Crowds?  What's up?",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ol",
+        "li",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ol"
+        },
+        {
+          "classes": [],
+          "id": "comment-7962957629613339350",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Hey Yannis, isn't link analysis also the Wisdom of Crowds?  What's up?"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 435,
+        "top": 2567,
+        "width": 502
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "margin-bottom": "10px",
+        "margin-top": "10px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a href=\"http://www.blogger.com/comment.g?blogID=7751293754523140922&amp;postID=968902751639847433\" location.href=\"http://www.blogger.com/comment.g?blogID=7751293754523140922&amp;postID=968902751639847433;\">leave a response</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "leave a response"
+      ]
+    },
+    {
+      "bound": {
+        "height": 12,
+        "left": 435,
+        "top": 2661,
+        "width": 502
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-family": "georgia, 'lucida sans unicode', 'trebuchet ms', sans-serif",
+        "font-size": "11px",
+        "letter-spacing": "5px",
+        "line-height": "normal",
+        "outline-color": "rgb(51, 51, 51)",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Links to this post (if any)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "backlinks",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Links to this post (if any)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 435,
+        "top": 2685,
+        "width": 502
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "12px",
+        "margin-bottom": "10px",
+        "margin-top": "10px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a class=\"comment-link\" href=\"javascript:BlogThis();\" id=\"b-backlink\">create link here by posting on Blogger</a><br>(or just link from your blog!)",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "backlinks",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "create link here by posting on Blogger",
+        "(or just link from your blog!)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 987,
+        "top": 273,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "outline-color": "rgb(51, 51, 51)",
+        "text-align": "left",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Search",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "search",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Search"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 987,
+        "top": 389,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "outline-color": "rgb(51, 51, 51)",
+        "text-align": "left",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "recent posts",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "posts",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "recent posts"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 987,
+        "top": 423,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infoblog.stanford.edu/2008/05/why-write-blog.html\">Why Write a Blog? (Posted by Paul Heymann)</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "posts",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Why Write a Blog? (Posted by Paul Heymann)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 987,
+        "top": 495,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "outline-color": "rgb(51, 51, 51)",
+        "text-align": "left",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Archives",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "archives",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Archives"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 529,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infoblog.stanford.edu/2008_05_01_archive.html\">May 2008</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "archives",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "May 2008"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 556,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infoblog.stanford.edu/2008_06_01_archive.html\">June 2008</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "archives",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "June 2008"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 583,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infoblog.stanford.edu/2008_07_01_archive.html\">July 2008</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "archives",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "July 2008"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 610,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infoblog.stanford.edu/2008_08_01_archive.html\">August 2008</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "archives",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "August 2008"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 637,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infoblog.stanford.edu/2008_09_01_archive.html\">September 2008</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "archives",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "September 2008"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 664,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infoblog.stanford.edu/2008_10_01_archive.html\">October 2008</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "archives",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "October 2008"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 691,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infoblog.stanford.edu/2008_11_01_archive.html\">November 2008</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "archives",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "November 2008"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 718,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infoblog.stanford.edu/2008_12_01_archive.html\">December 2008</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "archives",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "December 2008"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 745,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infoblog.stanford.edu/2009_01_01_archive.html\">January 2009</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "archives",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "January 2009"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 987,
+        "top": 797,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "outline-color": "rgb(51, 51, 51)",
+        "text-align": "left",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Authors",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Authors"
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 987,
+        "top": 831,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "The <a href=\"http://i.stanford.edu\">InfoLab</a> blog is an unofficial blog of several\n                           members of the Stanford InfoLab and associated friends.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "The ",
+        "InfoLab",
+        " blog is an unofficial blog of several\n                           members of the Stanford InfoLab and associated friends."
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 953,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.stanford.edu/~paraga/\">Parag Agrawal</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Parag Agrawal"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 980,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.stanford.edu/~antonell/\">Ioannis Antonellis</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Ioannis Antonellis"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 1007,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://i.stanford.edu/~anishds/\">Anish Das Sarma</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Anish Das Sarma"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 1034,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infolab.stanford.edu/people/hector.html\">Hector Garcia-Molina</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Hector Garcia-Molina"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 1061,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://heymann.stanford.edu/\">Paul Heymann</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Paul Heymann"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 1088,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.stanford.edu/~rmikeda/\">Robert Ikeda</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Robert Ikeda"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 1115,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.stanford.edu/~koutrika/\">Georgia Koutrika</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Georgia Koutrika"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 1142,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://hammerhead.stanford.edu/\">Bob Mungamuru</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Bob Mungamuru"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 1169,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infolab.stanford.edu/~paepcke/\">Andreas Paepcke</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Andreas Paepcke"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 1196,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.stanford.edu/~ppapadim/\">Panagiotis Papadimitriou</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Panagiotis Papadimitriou"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 1223,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.stanford.edu/~dramage/\">Daniel Ramage</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Daniel Ramage"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 1250,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.stanford.edu/~euijong/\">Steven Whang</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Steven Whang"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 1277,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "page_item"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infolab.stanford.edu/~widom/\">Jennifer Widom</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pages",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "page_item"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Jennifer Widom"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 987,
+        "top": 1329,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "outline-color": "rgb(51, 51, 51)",
+        "text-align": "left",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Links",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Links"
+      ]
+    },
+    {
+      "bound": {
+        "height": 370,
+        "left": 987,
+        "top": 1363,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.stanford.edu/\">Stanford</a>\n                        <ul>\n\t\t\t  <li><a href=\"http://cs.stanford.edu/\">Computer Science</a>\n                          <ul>\n\t\t\t    <li><a href=\"http://i.stanford.edu/\">InfoLab</a>\n                            <ul>\n                              <li><a href=\"http://ilpubs.stanford.edu/\">Publications</a></li>\n                              <li><a href=\"http://infolab.stanford.edu/trio/\">Trio</a></li>\n                              <li><a href=\"http://infolab.stanford.edu/serf/\">SERF</a></li>\n                            </ul></li>\n\t\t\t    <li><a href=\"http://theory.stanford.edu/\">Theory</a>\n                            <ul>\n                              <li><a href=\"http://www.stanford.edu/~sunabar/rain/\">RAIN</a></li>\n                            </ul></li>\n                            <li><a href=\"http://ai.stanford.edu/\">AI Lab (SAIL)</a>\n                            <ul>\n\t\t\t      <li><a href=\"http://nlp.stanford.edu/\">NLP</a></li>\n                              <li><a href=\"http://dags.stanford.edu/\">DAGS</a></li>\n                              <li><a href=\"http://wordgame.stanford.edu/\">WordGames</a></li>\n                            </ul></li>\n                          </ul></li>\n                        </ul>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Stanford"
+      ]
+    },
+    {
+      "bound": {
+        "height": 330,
+        "left": 1003,
+        "top": 1394,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://cs.stanford.edu/\">Computer Science</a>\n                          <ul>\n\t\t\t    <li><a href=\"http://i.stanford.edu/\">InfoLab</a>\n                            <ul>\n                              <li><a href=\"http://ilpubs.stanford.edu/\">Publications</a></li>\n                              <li><a href=\"http://infolab.stanford.edu/trio/\">Trio</a></li>\n                              <li><a href=\"http://infolab.stanford.edu/serf/\">SERF</a></li>\n                            </ul></li>\n\t\t\t    <li><a href=\"http://theory.stanford.edu/\">Theory</a>\n                            <ul>\n                              <li><a href=\"http://www.stanford.edu/~sunabar/rain/\">RAIN</a></li>\n                            </ul></li>\n                            <li><a href=\"http://ai.stanford.edu/\">AI Lab (SAIL)</a>\n                            <ul>\n\t\t\t      <li><a href=\"http://nlp.stanford.edu/\">NLP</a></li>\n                              <li><a href=\"http://dags.stanford.edu/\">DAGS</a></li>\n                              <li><a href=\"http://wordgame.stanford.edu/\">WordGames</a></li>\n                            </ul></li>\n                          </ul>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Computer Science"
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 1019,
+        "top": 1425,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://i.stanford.edu/\">InfoLab</a>\n                            <ul>\n                              <li><a href=\"http://ilpubs.stanford.edu/\">Publications</a></li>\n                              <li><a href=\"http://infolab.stanford.edu/trio/\">Trio</a></li>\n                              <li><a href=\"http://infolab.stanford.edu/serf/\">SERF</a></li>\n                            </ul>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "InfoLab"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1035,
+        "top": 1456,
+        "width": 116
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://ilpubs.stanford.edu/\">Publications</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Publications"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1035,
+        "top": 1483,
+        "width": 114
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infolab.stanford.edu/trio/\">Trio</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Trio"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1035,
+        "top": 1510,
+        "width": 114
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://infolab.stanford.edu/serf/\">SERF</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "SERF"
+      ]
+    },
+    {
+      "bound": {
+        "height": 60,
+        "left": 1019,
+        "top": 1548,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://theory.stanford.edu/\">Theory</a>\n                            <ul>\n                              <li><a href=\"http://www.stanford.edu/~sunabar/rain/\">RAIN</a></li>\n                            </ul>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Theory"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1035,
+        "top": 1579,
+        "width": 116
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.stanford.edu/~sunabar/rain/\">RAIN</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "RAIN"
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 1019,
+        "top": 1617,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://ai.stanford.edu/\">AI Lab (SAIL)</a>\n                            <ul>\n\t\t\t      <li><a href=\"http://nlp.stanford.edu/\">NLP</a></li>\n                              <li><a href=\"http://dags.stanford.edu/\">DAGS</a></li>\n                              <li><a href=\"http://wordgame.stanford.edu/\">WordGames</a></li>\n                            </ul>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "AI Lab (SAIL)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1035,
+        "top": 1648,
+        "width": 116
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://nlp.stanford.edu/\">NLP</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "NLP"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1035,
+        "top": 1675,
+        "width": 114
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://dags.stanford.edu/\">DAGS</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "DAGS"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1035,
+        "top": 1702,
+        "width": 114
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://wordgame.stanford.edu/\">WordGames</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "links",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "WordGames"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 987,
+        "top": 1787,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "outline-color": "rgb(51, 51, 51)",
+        "text-align": "left",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Subscribe",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "side-sec",
+            "subscribe"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Subscribe"
+      ]
+    },
+    {
+      "bound": {
+        "height": 220,
+        "left": 987,
+        "top": 1821,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n                We offer two methods to subscribe to the InfoBlog: <a href=\"http://feeds.feedburner.com/stanfordinfoblog\" rel=\"alternate\" type=\"application/rss+xml\">RSS/Atom</a> (preferred) and <a href=\"http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2096088&amp;loc=en_US\">HTML e-mail</a>.\n                The (highly experimental) HTML e-mail option may disappear, but\n                we know many of our readers only read e-mail, so we are offering it to\n                determine demand.\n                ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "side-sec",
+            "subscribe"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\n                We offer two methods to subscribe to the InfoBlog: ",
+        "RSS/Atom",
+        " (preferred) and ",
+        "HTML e-mail",
+        ".\n                The (highly experimental) HTML e-mail option may disappear, but\n                we know many of our readers only read e-mail, so we are offering it to\n                determine demand.\n                "
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1002,
+        "top": 2053,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a href=\"http://feeds.feedburner.com/stanfordinfoblog\" rel=\"alternate\" type=\"application/rss+xml\"><img src=\"http://www.feedburner.com/fb/images/pub/feed-icon16x16.png\" alt=\"\" style=\"vertical-align:middle;border:0\"></a>&nbsp;<a href=\"http://feeds.feedburner.com/stanfordinfoblog\" rel=\"alternate\" type=\"application/rss+xml\">Subscribe in a reader</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "side-sec",
+            "subscribe"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Subscribe in a reader"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 1002,
+        "top": 2095,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a href=\"http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2096088&amp;loc=en_US\">Subscribe by HTML e-mail (experimental)</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "side-sec",
+            "subscribe"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Subscribe by HTML e-mail (experimental)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 987,
+        "top": 2177,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 51, 51)",
+        "border-left-color": "rgb(51, 51, 51)",
+        "border-right-color": "rgb(51, 51, 51)",
+        "border-top-color": "rgb(51, 51, 51)",
+        "color": "rgb(51, 51, 51)",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "outline-color": "rgb(51, 51, 51)",
+        "text-align": "left",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Admin",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "misc",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Admin"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 987,
+        "top": 2211,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://i.stanford.edu/~heymann/blogger/images/iconarrow.gif)",
+        "background-repeat": "no-repeat",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "margin-bottom": "5px",
+        "padding-left": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.blogger.com/start\">Login</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "misc",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Login"
+      ]
+    },
+    {
+      "bound": {
+        "height": 110,
+        "left": 987,
+        "top": 2263,
+        "width": 165
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a href=\"http://infoblog.stanford.edu/\" title=\"Stanford InfoBlog\">Stanford InfoBlog</a> is powered by <a href=\"http://www.blogger.com\" title=\"Blogger\">Blogger</a> and <a href=\"http://www.bloggertemplates.org\" rel=\"nofollow\">Blogger Templates</a>. Theme is designed by <a href=\"http://www.oinam.com\" title=\"oinam.com\" rel=\"nofollow\">Oinam</a> with some minor modifications by Paul.",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "misc",
+            "side-sec"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Stanford InfoBlog",
+        " is powered by ",
+        "Blogger",
+        " and ",
+        "Blogger Templates",
+        ". Theme is designed by ",
+        "Oinam",
+        " with some minor modifications by Paul."
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 176,
+        "left": 576,
+        "top": 10,
+        "width": 221
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "inline"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissheader",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://i.stanford.edu/~heymann/blogger/images/infowhite.png"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 461,
+        "top": 2458,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "font-size": "10px",
+        "line-height": "16px",
+        "list-style-type": "decimal",
+        "text-align": "left",
+        "text-transform": "uppercase"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ol",
+        "li",
+        "span",
+        "span",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kissmain-1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ol"
+        },
+        {
+          "classes": [],
+          "id": "comment-7962957629613339350",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "blogger-comment-icon",
+            "comment-icon"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://img2.blogblog.com/img/b16-rounded.gif"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1003,
+        "top": 2056,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(204, 51, 0)",
+        "border-left-color": "rgb(204, 51, 0)",
+        "border-right-color": "rgb(204, 51, 0)",
+        "border-top-color": "rgb(204, 51, 0)",
+        "color": "rgb(204, 51, 0)",
+        "display": "inline",
+        "font-size": "11px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "max-width": "100%",
+        "outline-color": "rgb(204, 51, 0)",
+        "text-align": "left",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "p",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "kisswrap",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "kisscontainer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "side-sec",
+            "subscribe"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.feedburner.com/fb/images/pub/feed-icon16x16.png"
+    }
+  ]
+}

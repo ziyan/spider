@@ -1,0 +1,4650 @@
+{
+  "body": {
+    "bound": {
+      "height": 1321,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(255, 255, 255)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(51, 51, 51)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(51, 51, 51)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(51, 51, 51)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(51, 51, 51)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(51, 51, 51)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "'Times New Roman'",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "1321px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "normal",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(51, 51, 51)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "center",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [],
+  "titles": [
+    "Official Google Maps API Blog: geo search 2.0: Data In, Data Out"
+  ],
+  "url": "http://googlemapsapi.blogspot.com/2008/05/geo-search-20-data-in-data-out.html",
+  "links": [
+    "http://googlemapsapi.blogspot.com/2008/05/geo-search-20-data-in-data-out.html#main",
+    "http://googlemapsapi.blogspot.com/2008/05/geo-search-20-data-in-data-out.html#sidebar",
+    "http://googlemapsapi.blogspot.com/2008/05/geo-search-20-data-in-data-out.html",
+    "http://www.google.com/webmasters/",
+    "http://code.google.com/apis/kml/documentation/kmlSearch.html",
+    "http://www.google.com/uds/solutions/localsearch/default.html",
+    "http://gmaps-samples-flash.googlecode.com/svn/trunk/examples/LocalSearcher.html",
+    "http://groups.google.com/group/Google-Maps-API/",
+    "http://groups.google.com/group/kml-support",
+    "http://groups.google.com/group/Google-AJAX-Search-API",
+    "http://googlemapsapi.blogspot.com/2008/05/geo-search-20-data-in-data-out.html",
+    "http://www.blogger.com/post-edit.g?blogID=18549845&postID=8151042001319998318&from=pencil",
+    "http://www.blogger.com/blog-this.g",
+    "http://googlemapsapi.blogspot.com/2008/05/app-engine-local-search-maps-making.html",
+    "http://googlemapsapi.blogspot.com/2008/05/libkml-marches-on.html",
+    "http://googlemapsapi.blogspot.com/",
+    "http://googlemapsapi.blogspot.com/atom.xml",
+    "http://googlemapsapi.blogspot.com/atom.xml",
+    "http://fusion.google.com/add?feedurl=http%3A//googlemapsapi.blogspot.com/atom.xml",
+    "http://feeds.feedburner.com/OfficialGoogleMapsApiBlog",
+    "http://www.blogger.com/rearrange?blogID=18549845&widgetType=HTML&widgetId=HTML5&action=editWidget&sectionId=sidebar",
+    "http://www.google.com/press/blogs/directory.html#tab0",
+    "http://www.blogger.com/rearrange?blogID=18549845&widgetType=HTML&widgetId=HTML6&action=editWidget&sectionId=sidebar",
+    "http://www.blogger.com/rearrange?blogID=18549845&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar",
+    "http://groups-beta.google.com/group/Google-Maps-API",
+    "http://local.google.com/support/bin/answer.py?answer=29435",
+    "http://www.blogger.com/rearrange?blogID=18549845&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar",
+    "http://code.google.com/",
+    "http://www.google.com/apis/maps",
+    "http://www.google.com/apis/maps/documentation/",
+    "http://groups-beta.google.com/group/Google-Maps-API",
+    "http://www.blogger.com/rearrange?blogID=18549845&widgetType=LinkList&widgetId=LinkList1&action=editWidget&sectionId=sidebar",
+    "http://googlemapsmania.blogspot.com/",
+    "http://www.googlesightseeing.com/",
+    "http://www.gearthblog.com/",
+    "http://www.blogger.com/rearrange?blogID=18549845&widgetType=LinkList&widgetId=LinkList2&action=editWidget&sectionId=sidebar",
+    "http://www.google.com/reader/shared/user/10949413115399023739/label/officialgoogleblogs-dev",
+    "http://www.blogger.com/rearrange?blogID=18549845&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=sidebar",
+    "http://www.blogger.com/",
+    "http://www.blogger.com/rearrange?blogID=18549845&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=sidebar",
+    "http://www.blogger.com/",
+    "http://www.blogger.com/rearrange?blogID=18549845&widgetType=BloggerButton&widgetId=BloggerButton1&action=editWidget&sectionId=sidebar",
+    "http://www.google.com/privacy.html",
+    "http://www.google.com/terms_of_service.html",
+    "http://www.blogger.com/rearrange?blogID=18549845&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=footer"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 31,
+        "left": 625,
+        "top": 89,
+        "width": 550
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(146, 146, 146)",
+        "border-left-color": "rgb(146, 146, 146)",
+        "border-right-color": "rgb(146, 146, 146)",
+        "border-top-color": "rgb(146, 146, 146)",
+        "color": "rgb(146, 146, 146)",
+        "cursor": "pointer",
+        "font-family": "Arial, sans-serif",
+        "font-size": "26px",
+        "outline-color": "rgb(146, 146, 146)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "Maps API Blog",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "header-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "logo",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "Maps API Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 29,
+        "left": 405,
+        "top": 185,
+        "width": 625
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(115, 175, 223)",
+        "border-left-color": "rgb(115, 175, 223)",
+        "border-right-color": "rgb(115, 175, 223)",
+        "border-top-color": "rgb(115, 175, 223)",
+        "color": "rgb(115, 175, 223)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "21px",
+        "line-height": "29px",
+        "outline-color": "rgb(115, 175, 223)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "geo search 2.0: Data In, Data Out",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h3",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-title"
+          ],
+          "id": "",
+          "name": "h3"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "geo search 2.0: Data In, Data Out"
+      ]
+    },
+    {
+      "bound": {
+        "height": 14,
+        "left": 405,
+        "top": 216,
+        "width": 625
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "12px",
+        "outline-color": "rgb(102, 102, 102)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "date-header"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Thursday, May 22, 2008\nat\n10:05:00 AM",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "date-header"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Thursday, May 22, 2008\nat\n10:05:00 AM"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 405,
+        "top": 232,
+        "width": 625
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-bottom": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<span class=\"byline-author\">Posted by Pamela Fox, Maps API Team</span>\n\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Posted by Pamela Fox, Maps API Team"
+      ]
+    },
+    {
+      "bound": {
+        "height": 45,
+        "left": 405,
+        "top": 262,
+        "width": 625
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-bottom": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\nLast week during the geo madness of Where2.0 and WhereCamp, we announced two enhancements in geo search to make it both easier for developers to get their data into our geo search index and easier for developers to get data back out of the index:\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\nLast week during the geo madness of Where2.0 and WhereCamp, we announced two enhancements in geo search to make it both easier for developers to get their data into our geo search index and easier for developers to get data back out of the index:\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 105,
+        "left": 445,
+        "top": 322,
+        "width": 585
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<b>Geo Sitemaps:</b> Sitemaps are a protocol that bots use to index content from websites. Last year, we announced the ability to include KML/GeoRSS files in regular sitemaps just like a normal web resource. This year, we announce a special extension for sitemaps that adds geo-specific tags and makes it easier for us to index. To get your geo content indexed as fast as possible, just submit the sitemap to <a href=\"http://www.google.com/webmasters/\">Google Webmaster Central</a>. For more information on creating a KML file to include in a sitemap, read this article in the <a href=\"http://code.google.com/apis/kml/documentation/kmlSearch.html\">KML documentation</a>. An example geo sitemap listing a KML and a GeoRSS file is shown below:",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Geo Sitemaps:",
+        " Sitemaps are a protocol that bots use to index content from websites. Last year, we announced the ability to include KML/GeoRSS files in regular sitemaps just like a normal web resource. This year, we announce a special extension for sitemaps that adds geo-specific tags and makes it easier for us to index. To get your geo content indexed as fast as possible, just submit the sitemap to ",
+        "Google Webmaster Central",
+        ". For more information on creating a KML file to include in a sitemap, read this article in the ",
+        "KML documentation",
+        ". An example geo sitemap listing a KML and a GeoRSS file is shown below:"
+      ]
+    },
+    {
+      "bound": {
+        "height": 165,
+        "left": 445,
+        "top": 439,
+        "width": 585
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "monospace",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "text-align": "left",
+        "white-space": "pre",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "pre"
+      },
+      "html": "&lt;urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"\n        xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"&gt;\n&lt;url&gt;\n   &lt;loc&gt;http://www.example.com/download?format=kml&lt;/loc&gt;\n   &lt;geo:geo&gt;\n       &lt;geo:format&gt;kml&lt;/geo:format&gt;\n   &lt;/geo:geo&gt;\n&lt;/url&gt;\n&lt;url&gt;\n   &lt;loc&gt;http://www.example.com/download?format=georss&lt;/loc&gt;\n   &lt;geo:geo&gt;\n       &lt;geo:format&gt;georss&lt;/geo:format&gt;\n   &lt;/geo:geo&gt;\n&lt;/url&gt;\n&lt;/urlset&gt;\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "pre"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "pre"
+        }
+      ],
+      "text": [
+        "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"\n        xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\">\n<url>\n   <loc>http://www.example.com/download?format=kml</loc>\n   <geo:geo>\n       <geo:format>kml</geo:format>\n   </geo:geo>\n</url>\n<url>\n   <loc>http://www.example.com/download?format=georss</loc>\n   <geo:geo>\n       <geo:format>georss</geo:format>\n   </geo:geo>\n</url>\n</urlset>\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 75,
+        "left": 445,
+        "top": 616,
+        "width": 585
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<b>Geo search in the API: </b> The Local Search API has traditionally been used to return business listings and address geocodes. As of last week, it can now be used to retrieve any of the content we have in our geo index. There are a couple different ways to do this, depending on how you use the API. If you're using the LocalSearchControl, here's some sample code (and <a href=\"http://www.google.com/uds/solutions/localsearch/default.html\">live example</a>) that will return blended results:\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Geo search in the API: ",
+        " The Local Search API has traditionally been used to return business listings and address geocodes. As of last week, it can now be used to retrieve any of the content we have in our geo index. There are a couple different ways to do this, depending on how you use the API. If you're using the LocalSearchControl, here's some sample code (and ",
+        "live example",
+        ") that will return blended results:\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 44,
+        "left": 445,
+        "top": 703,
+        "width": 585
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "monospace",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "text-align": "left",
+        "white-space": "pre",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "pre"
+      },
+      "html": "var options = {\n  listingTypes : GlocalSearch.TYPE_BLENDED_RESULTS\n}\nmap.addControl(new google.maps.LocalSearch(options));\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "pre"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "pre"
+        }
+      ],
+      "text": [
+        "var options = {\n  listingTypes : GlocalSearch.TYPE_BLENDED_RESULTS\n}\nmap.addControl(new google.maps.LocalSearch(options));\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 634,
+        "left": 405,
+        "top": 322,
+        "width": 625
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-bottom": "13px",
+        "margin-top": "13px",
+        "padding-left": "40px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "ul"
+      },
+      "html": "\n<li style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \"><b>Geo Sitemaps:</b> Sitemaps are a protocol that bots use to index content from websites. Last year, we announced the ability to include KML/GeoRSS files in regular sitemaps just like a normal web resource. This year, we announce a special extension for sitemaps that adds geo-specific tags and makes it easier for us to index. To get your geo content indexed as fast as possible, just submit the sitemap to <a href=\"http://www.google.com/webmasters/\">Google Webmaster Central</a>. For more information on creating a KML file to include in a sitemap, read this article in the <a href=\"http://code.google.com/apis/kml/documentation/kmlSearch.html\">KML documentation</a>. An example geo sitemap listing a KML and a GeoRSS file is shown below:</li>\n\n<pre style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">&lt;urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"\n        xmlns:geo=\"http://www.google.com/geo/schemas/sitemap/1.0\"&gt;\n&lt;url&gt;\n   &lt;loc&gt;http://www.example.com/download?format=kml&lt;/loc&gt;\n   &lt;geo:geo&gt;\n       &lt;geo:format&gt;kml&lt;/geo:format&gt;\n   &lt;/geo:geo&gt;\n&lt;/url&gt;\n&lt;url&gt;\n   &lt;loc&gt;http://www.example.com/download?format=georss&lt;/loc&gt;\n   &lt;geo:geo&gt;\n       &lt;geo:format&gt;georss&lt;/geo:format&gt;\n   &lt;/geo:geo&gt;\n&lt;/url&gt;\n&lt;/urlset&gt;\n</pre>\n<li style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \"><b>Geo search in the API: </b> The Local Search API has traditionally been used to return business listings and address geocodes. As of last week, it can now be used to retrieve any of the content we have in our geo index. There are a couple different ways to do this, depending on how you use the API. If you're using the LocalSearchControl, here's some sample code (and <a href=\"http://www.google.com/uds/solutions/localsearch/default.html\">live example</a>) that will return blended results:\n</li>\n<pre style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">var options = {\n  listingTypes : GlocalSearch.TYPE_BLENDED_RESULTS\n}\nmap.addControl(new google.maps.LocalSearch(options));\n</pre>\n\nIf you're using the Local Search API from Javascript, here's some sample code to return only results from indexed geo files:\n<pre>var ls = new GlocalSearch();\nls.setRestriction(GSearch.RESTRICT_TYPE, GlocalSearch.TYPE_KMLONLY_RESULTS);\n</pre>\n\nAnd finally, if you're using the Local Search API from somewhere other than Javascript - for example, with our new nifty Maps API for Flash - here's some sample AS3 code (and <a href=\"http://gmaps-samples-flash.googlecode.com/svn/trunk/examples/LocalSearcher.html\">live example</a>) to return only results from indexed geo files PLUS add a site restrict operator to limit it to results from platial.com:\n\n<pre>service.url = 'http://ajax.googleapis.com/ajax/services/search/local';\nservice.request.q = \"site: platial.com\" + \" \" +  address.text;\nservice.request.mrt = \"kmlonly\";\nservice.addEventListener(ResultEvent.RESULT, onServerResponse);\nservice.send();\n</pre>\n\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        "\n\nIf you're using the Local Search API from Javascript, here's some sample code to return only results from indexed geo files:\n",
+        "\n\nAnd finally, if you're using the Local Search API from somewhere other than Javascript - for example, with our new nifty Maps API for Flash - here's some sample AS3 code (and ",
+        "live example",
+        ") to return only results from indexed geo files PLUS add a site restrict operator to limit it to results from platial.com:\n\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 446,
+        "top": 800,
+        "width": 585
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "monospace",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "text-align": "left",
+        "white-space": "pre",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "pre"
+      },
+      "html": "var ls = new GlocalSearch();\nls.setRestriction(GSearch.RESTRICT_TYPE, GlocalSearch.TYPE_KMLONLY_RESULTS);\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "pre"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "pre"
+        }
+      ],
+      "text": [
+        "var ls = new GlocalSearch();\nls.setRestriction(GSearch.RESTRICT_TYPE, GlocalSearch.TYPE_KMLONLY_RESULTS);\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 55,
+        "left": 446,
+        "top": 904,
+        "width": 585
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "monospace",
+        "font-size": "11px",
+        "margin-bottom": "10px",
+        "margin-top": "10px",
+        "text-align": "left",
+        "white-space": "pre",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "pre"
+      },
+      "html": "service.url = 'http://ajax.googleapis.com/ajax/services/search/local';\nservice.request.q = \"site: platial.com\" + \" \" +  address.text;\nservice.request.mrt = \"kmlonly\";\nservice.addEventListener(ResultEvent.RESULT, onServerResponse);\nservice.send();\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "pre"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "pre"
+        }
+      ],
+      "text": [
+        "service.url = 'http://ajax.googleapis.com/ajax/services/search/local';\nservice.request.q = \"site: platial.com\" + \" \" +  address.text;\nservice.request.mrt = \"kmlonly\";\nservice.addEventListener(ResultEvent.RESULT, onServerResponse);\nservice.send();\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 75,
+        "left": 405,
+        "top": 985,
+        "width": 625
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-bottom": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\nThere are (atleast) two really cool consequences of this news: 1) you'll be able to enable users of your mashups to instantly find international results where previously none existed, and to be able to find results for non-standard searches (e.g. \"dog parks\"), and 2) by indexing your content, waiting a few weeks, and then using the local search with a \"site:yourdomain.com\" appended to the query, you get to leverage the power of google search on your own content with barely any code of your own. \n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\nThere are (atleast) two really cool consequences of this news: 1) you'll be able to enable users of your mashups to instantly find international results where previously none existed, and to be able to find results for non-standard searches (e.g. \"dog parks\"), and 2) by indexing your content, waiting a few weeks, and then using the local search with a \"site:yourdomain.com\" appended to the query, you get to leverage the power of google search on your own content with barely any code of your own. \n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 405,
+        "top": 1075,
+        "width": 625
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-bottom": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\nSo what are you waiting for? Give us your geo sitemap, use our API calls, and let us know what you think in the <a href=\"http://groups.google.com/group/Google-Maps-API/\">Maps API</a>, <a href=\"http://groups.google.com/group/kml-support\">KML</a>, or <a href=\"http://groups.google.com/group/Google-AJAX-Search-API\">AJAX API</a> forums.\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-body"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\nSo what are you waiting for? Give us your geo sitemap, use our API calls, and let us know what you think in the ",
+        "Maps API",
+        ", ",
+        "KML",
+        ", or ",
+        "AJAX API",
+        " forums.\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 405,
+        "top": 1120,
+        "width": 625
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "line-height": "18px",
+        "margin-bottom": "13px",
+        "margin-top": "13px",
+        "outline-color": "rgb(102, 102, 102)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "post-footer-line",
+          "post-footer-line-1"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n<span class=\"post-comment-link\">\n</span>\n<span class=\"post-comment-link\">\n<a href=\"http://googlemapsapi.blogspot.com/2008/05/geo-search-20-data-in-data-out.html\" title=\"permanent link\">Permalink</a>\n</span>\n<span class=\"post-icons\">\n<span class=\"item-control blog-admin pid-1194137269\">\n<a href=\"http://www.blogger.com/post-edit.g?blogID=18549845&amp;postID=8151042001319998318&amp;from=pencil\" title=\"Edit Post\">\n<img alt=\"\" class=\"icon-action\" height=\"18\" src=\"http://img2.blogblog.com/img/icon18_edit_allbkg.gif\" width=\"18\">\n</a>\n</span>\n</span>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post",
+            "uncustomized-post-template"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-footer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "post-footer-line",
+            "post-footer-line-1"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Permalink"
+      ]
+    },
+    {
+      "bound": {
+        "height": 33,
+        "left": 405,
+        "top": 1192,
+        "width": 625
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(115, 175, 223)",
+        "border-left-color": "rgb(115, 175, 223)",
+        "border-right-color": "rgb(115, 175, 223)",
+        "border-top-color": "rgb(115, 175, 223)",
+        "color": "rgb(115, 175, 223)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "21px",
+        "line-height": "29px",
+        "margin-bottom": "10px",
+        "margin-top": "5px",
+        "outline-color": "rgb(115, 175, 223)",
+        "padding-bottom": "4px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h4"
+      },
+      "html": "Links to this post",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comments"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "backlinks-container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "Blog1_backlinks-container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h4"
+        }
+      ],
+      "text": [
+        "Links to this post"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 405,
+        "top": 1240,
+        "width": 625
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-bottom": "13px",
+        "margin-top": "13px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "comment-footer"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n<a class=\"comment-link\" href=\"http://www.blogger.com/blog-this.g\" id=\"Blog1_backlinks-create-link\" target=\"_blank\">Create a Link</a>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-posts"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comments"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "backlinks-container",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "Blog1_backlinks-container",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "comment-footer"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Create a Link"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 405,
+        "top": 1270,
+        "width": 67
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "float": "left",
+        "font-family": "Arial, sans-serif",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "blog-pager-newer-link",
+        "name": "span"
+      },
+      "html": "\n<a class=\"blog-pager-newer-link\" href=\"http://googlemapsapi.blogspot.com/2008/05/app-engine-local-search-maps-making.html\" id=\"Blog1_blog-pager-newer-link\" title=\"Newer Post\">Newer Post</a>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "blog-pager-newer-link",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Newer Post"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 968,
+        "top": 1270,
+        "width": 62
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "float": "right",
+        "font-family": "Arial, sans-serif",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "blog-pager-older-link",
+        "name": "span"
+      },
+      "html": "\n<a class=\"blog-pager-older-link\" href=\"http://googlemapsapi.blogspot.com/2008/05/libkml-marches-on.html\" id=\"Blog1_blog-pager-older-link\" title=\"Older Post\">Older Post</a>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "blog-pager-older-link",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Older Post"
+      ]
+    },
+    {
+      "bound": {
+        "height": 17,
+        "left": 405,
+        "top": 1270,
+        "width": 625
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "margin-bottom": "13px",
+        "margin-top": "13px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "blog-pager"
+        ],
+        "id": "blog-pager",
+        "name": "div"
+      },
+      "html": "\n<span id=\"blog-pager-newer-link\" style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n<a class=\"blog-pager-newer-link\" href=\"http://googlemapsapi.blogspot.com/2008/05/app-engine-local-search-maps-making.html\" id=\"Blog1_blog-pager-newer-link\" title=\"Newer Post\">Newer Post</a>\n</span>\n<span id=\"blog-pager-older-link\" style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">\n<a class=\"blog-pager-older-link\" href=\"http://googlemapsapi.blogspot.com/2008/05/libkml-marches-on.html\" id=\"Blog1_blog-pager-older-link\" title=\"Older Post\">Older Post</a>\n</span>\n<a class=\"home-link\" href=\"http://googlemapsapi.blogspot.com/\">Home</a>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "main-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main",
+            "section"
+          ],
+          "id": "main",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "Blog",
+            "widget"
+          ],
+          "id": "Blog1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "blog-pager"
+          ],
+          "id": "blog-pager",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Home"
+      ]
+    },
+    {
+      "bound": {
+        "height": 92,
+        "left": 1040,
+        "top": 69,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "outline-color": "rgb(102, 102, 102)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<a href=\"http://googlemapsapi.blogspot.com/atom.xml\"><img src=\"http://www.google.com/images/feed-icon.gif\"></a> <a href=\"http://googlemapsapi.blogspot.com/atom.xml\">Site Feed</a><br>\n<a href=\"http://fusion.google.com/add?feedurl=http%3A//googlemapsapi.blogspot.com/atom.xml\"><img border=\"0\" alt=\"Add to Google\" style=\"padding-top:5px;\" width=\"104\" src=\"http://buttons.googlesyndication.com/fusion/add.gif\" height=\"17\"></a>\n<p><a href=\"http://feeds.feedburner.com/OfficialGoogleMapsApiBlog\"><img width=\"88\" style=\"border:0\" alt=\"\" src=\"http://feeds.feedburner.com/~fc/OfficialGoogleMapsApiBlog?bg=99CCFF&amp;fg=444444&amp;anim=0\" height=\"26\"></a></p>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Site Feed"
+      ]
+    },
+    {
+      "bound": {
+        "height": 43,
+        "left": 1040,
+        "top": 190,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "margin-top": "14px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "2px",
+        "padding-top": "7px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "More Blogs from Google",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML6",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "More Blogs from Google"
+      ]
+    },
+    {
+      "bound": {
+        "height": 57,
+        "left": 1040,
+        "top": 238,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "outline-color": "rgb(102, 102, 102)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\nVisit our <a href=\"http://www.google.com/press/blogs/directory.html#tab0\"> directory</a> for more information about Google blogs.\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML6",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\nVisit our ",
+        " directory",
+        " for more information about Google blogs.\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 1040,
+        "top": 311,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "margin-top": "14px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "2px",
+        "padding-top": "7px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Archives",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "BlogArchive",
+            "widget"
+          ],
+          "id": "BlogArchive1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Archives"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 1040,
+        "top": 384,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "margin-top": "14px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "2px",
+        "padding-top": "7px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "We Love Feedback",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "We Love Feedback"
+      ]
+    },
+    {
+      "bound": {
+        "height": 95,
+        "left": 1040,
+        "top": 425,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "margin-bottom": "13px",
+        "margin-top": "13px",
+        "outline-color": "rgb(102, 102, 102)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a href=\"http://groups-beta.google.com/group/Google-Maps-API\">Discuss the Maps API</a> in the official discussion group, or <a href=\"http://local.google.com/support/bin/answer.py?answer=29435\">contact us</a> if you have any questions about this blog.",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Discuss the Maps API",
+        " in the official discussion group, or ",
+        "contact us",
+        " if you have any questions about this blog."
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 1040,
+        "top": 536,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "margin-top": "14px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "2px",
+        "padding-top": "7px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "Links",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "LinkList",
+            "widget"
+          ],
+          "id": "LinkList1",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "Links"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1040,
+        "top": 567,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "3px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://code.google.com/\">Google Code</a>",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "LinkList",
+            "widget"
+          ],
+          "id": "LinkList1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Google Code"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1040,
+        "top": 591,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "3px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.google.com/apis/maps\">Google Maps API</a>",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "LinkList",
+            "widget"
+          ],
+          "id": "LinkList1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Google Maps API"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1040,
+        "top": 615,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "3px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.google.com/apis/maps/documentation/\">Documentation</a>",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "LinkList",
+            "widget"
+          ],
+          "id": "LinkList1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Documentation"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1040,
+        "top": 639,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "3px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://groups-beta.google.com/group/Google-Maps-API\">Discussion Group</a>",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "LinkList",
+            "widget"
+          ],
+          "id": "LinkList1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Discussion Group"
+      ]
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 1040,
+        "top": 677,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "margin-top": "14px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "2px",
+        "padding-top": "7px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "What We're Reading",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "LinkList",
+            "widget"
+          ],
+          "id": "LinkList2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "What We're Reading"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1040,
+        "top": 708,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "3px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://googlemapsmania.blogspot.com/\">Google Maps Mania</a>",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "LinkList",
+            "widget"
+          ],
+          "id": "LinkList2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Google Maps Mania"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1040,
+        "top": 732,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "3px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.googlesightseeing.com/\">Google Sightseeing</a>",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "LinkList",
+            "widget"
+          ],
+          "id": "LinkList2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Google Sightseeing"
+      ]
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1040,
+        "top": 756,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "list-style-type": "none",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "3px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "<a href=\"http://www.gearthblog.com/\">Google Earth Blog</a>",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "LinkList",
+            "widget"
+          ],
+          "id": "LinkList2",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Google Earth Blog"
+      ]
+    },
+    {
+      "bound": {
+        "height": 43,
+        "left": 1040,
+        "top": 794,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "margin-top": "14px",
+        "outline-color": "rgb(102, 102, 102)",
+        "padding-bottom": "2px",
+        "padding-top": "7px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "title"
+        ],
+        "id": "",
+        "name": "h2"
+      },
+      "html": "More Google Dev Blog Posts",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "title"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        "More Google Dev Blog Posts"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 1040,
+        "top": 842,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "outline-color": "rgb(102, 102, 102)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<div id=\"blog_posts\">\n\n<script type=\"text/javascript\">\n\nfunction build_posts(data) {\n  var container = document.getElementById('blog_posts');\n  var list = document.createElement('div');\n  // Loop through all data items returned\n  for (var i=0; i < data.items.length; i++) {\n  \t\n    var item = data.items[i];\nvar listElement= document.createElement('div');\nlistElement.className=\"listelement\";\n\n\t\tvar link = document.createElement('a');\n\t\tlink.appendChild(document.createTextNode(item.title));\n\n\tlink.href = item.alternate.href;\n        listElement.appendChild(link)\n\tlistElement.appendChild(document.createElement('br'));    \n       \n\n\nvar bloglink = document.createElement('a');\nbloglink.appendChild(document.createTextNode(item.origin.title));\nbloglink.href = item.origin.htmlUrl;\nbloglink.className=\"smalllink\";\nlistElement.appendChild(bloglink);\nlist.appendChild(listElement);\n\n\n }\n  container.appendChild(list);\n}\n</script>\n\n\n<script src=\"http://www.google.com/reader/public/javascript/user/10949413115399023739/label/officialgoogleblogs-dev?n=5&amp;callback=build_posts\" type=\"text/javascript\"></script>\n\n\n</div>\n\n<a href=\"http://www.google.com/reader/shared/user/10949413115399023739/label/officialgoogleblogs-dev\">Read more...</a>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML3",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Read more..."
+      ]
+    },
+    {
+      "bound": {
+        "height": 95,
+        "left": 1040,
+        "top": 863,
+        "width": 150
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "outline-color": "rgb(102, 102, 102)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\n<br>\n<i>Google Maps API Blog</i> is powered by Blogger. <a href=\"http://www.blogger.com/\">Start your own weblog</a>.\n<br><br>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML4",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Google Maps API Blog",
+        " is powered by Blogger. ",
+        "Start your own weblog",
+        ".\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 400,
+        "top": 1337,
+        "width": 800
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "widget-content"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "\nCopyright © 2008 Google Inc. All rights reserved.<br>\n   <a href=\"http://www.google.com/privacy.html\">Privacy Policy</a> | \n\t      <a href=\"http://www.google.com/terms_of_service.html\">Terms of Service</a>\n",
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "footer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "footer",
+            "section"
+          ],
+          "id": "footer",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\nCopyright © 2008 Google Inc. All rights reserved.",
+        "Privacy Policy",
+        " | \n\t      ",
+        "Terms of Service"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 16,
+        "left": 1041,
+        "top": 70,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-top-color": "rgb(0, 0, 238)",
+        "color": "rgb(0, 0, 238)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "outline-color": "rgb(0, 0, 238)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.google.com/images/feed-icon.gif"
+    },
+    {
+      "bound": {
+        "height": 22,
+        "left": 1041,
+        "top": 91,
+        "width": 104
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-bottom-style": "solid",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-left-style": "solid",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-right-style": "solid",
+        "border-top-color": "rgb(0, 0, 238)",
+        "border-top-style": "solid",
+        "color": "rgb(0, 0, 238)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "outline-color": "rgb(0, 0, 238)",
+        "padding-top": "5px",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://buttons.googlesyndication.com/fusion/add.gif"
+    },
+    {
+      "bound": {
+        "height": 26,
+        "left": 1041,
+        "top": 131,
+        "width": 88
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-top-color": "rgb(0, 0, 238)",
+        "color": "rgb(0, 0, 238)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "outline-color": "rgb(0, 0, 238)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "HTML",
+            "widget"
+          ],
+          "id": "HTML5",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://feeds.feedburner.com/~fc/OfficialGoogleMapsApiBlog?bg=99CCFF&fg=444444&anim=0"
+    },
+    {
+      "bound": {
+        "height": 30,
+        "left": 1040,
+        "top": 960,
+        "width": 88
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 0, 238)",
+        "border-left-color": "rgb(0, 0, 238)",
+        "border-right-color": "rgb(0, 0, 238)",
+        "border-top-color": "rgb(0, 0, 238)",
+        "color": "rgb(0, 0, 238)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "line-height": "19px",
+        "outline-color": "rgb(0, 0, 238)",
+        "text-align": "left",
+        "word-wrap": "break-word"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "center",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "",
+          "name": "center"
+        },
+        {
+          "classes": [],
+          "id": "outer-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "wrap2",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "sidebar-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "section",
+            "sidebar"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "BloggerButton",
+            "widget"
+          ],
+          "id": "BloggerButton1",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "widget-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.blogger.com/buttons/blogger-powerby-blue.gif"
+    }
+  ]
+}

@@ -1,0 +1,5160 @@
+{
+  "body": {
+    "bound": {
+      "height": 878,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(249, 249, 249)",
+      "background-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/headbg.jpg)",
+      "background-origin": "padding-box",
+      "background-position": "0px 0px",
+      "background-repeat": "no-repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(0, 0, 0)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(0, 0, 0)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(0, 0, 0)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(0, 0, 0)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(0, 0, 0)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "sans-serif",
+      "font-size": "10px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "878px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "normal",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(0, 0, 0)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [],
+  "titles": [
+    "Dispersion relation - DispersiveWiki"
+  ],
+  "url": "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Dispersion_relation",
+  "links": [
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Dispersion_relation#column-one",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Dispersion_relation#searchInput",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Free_Schrodinger_equation",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Airy_equation",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Free_wave_equation",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Klein-Gordon_equation",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/X%5Es,b_spaces",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Resonant",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Normal_form",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Null_structure",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Finite_speed_of_propagation",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Infinite_speed_of_propagation",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Dispersive_estimates",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Strichartz_estimates",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Local_smoothing_estimates",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Dispersion_relation",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Special:Categories",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Category:Concept",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Dispersion_relation",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php?title=Talk:Dispersion_relation&action=edit&redlink=1",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php?title=Dispersion_relation&action=edit",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php?title=Dispersion_relation&action=history",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php?title=Special:UserLogin&returnto=Dispersion_relation",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Main_Page",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Main_Page",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/DispersiveWiki:Community_portal",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/DispersiveWiki:Current_events",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Special:RecentChanges",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Special:Random",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Help:Contents",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Special:Categories",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Category:Concept",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Category:Equations",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Category:Schrodinger",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Category:Wave",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Category:Airy",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Category:Bibliography",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Conferences",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Category:Stubs",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Category:Template",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Help:Editing_FAQ",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Current_events",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Special:WantedPages",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Special:WhatLinksHere/Dispersion_relation",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Special:RecentChangesLinked/Dispersion_relation",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/Special:SpecialPages",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php?title=Dispersion_relation&printable=yes",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php?title=Dispersion_relation&oldid=7034",
+    "http://www.mediawiki.org/",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/DispersiveWiki:Privacy_policy",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/DispersiveWiki:About",
+    "http://wiki.math.toronto.edu/DispersiveWiki/index.php/DispersiveWiki:General_disclaimer"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 40,
+        "left": 167,
+        "top": 36,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(170, 170, 170)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "font-size": "24px",
+        "line-height": "28px",
+        "margin-bottom": "2px",
+        "padding-top": "11px"
+      },
+      "element": {
+        "classes": [
+          "firstHeading"
+        ],
+        "id": "firstHeading",
+        "name": "h1"
+      },
+      "html": "Dispersion relation",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "firstHeading"
+          ],
+          "id": "firstHeading",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "Dispersion relation"
+      ]
+    },
+    {
+      "bound": {
+        "height": 41,
+        "left": 167,
+        "top": 91,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "line-height": "19px",
+        "margin-bottom": "6px",
+        "margin-top": "5px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "The <b>dispersion relation</b> <img class=\"tex\" alt=\"\\, \\omega = \\omega(k)\\!\" src=\"/DispersiveWiki/images/math/7/f/9/7f937b63c588e98cacb6c8f60eb66c65.png\"> of a constant coefficient linear evolution equation determines how time oscillations <img class=\"tex\" alt=\"e^{i\\omega t}_{}\" src=\"/DispersiveWiki/images/math/1/0/7/10702d3119d96c8967b4b03bb92fd467.png\"> are linked to spatial oscillations <img class=\"tex\" alt=\"e^{ik\\cdot x}_{}\" src=\"/DispersiveWiki/images/math/3/c/f/3cff90c203f42ce617853a86eb732eb6.png\"> of wave number <span class=\"texhtml\"><i>k</i></span>.  In other words, the dispersion relation is the function for which the plane waves <img class=\"tex\" alt=\"e^{ik \\cdot x} e^{i \\omega(k) t}\" src=\"/DispersiveWiki/images/math/d/1/5/d15fc415479baa3690917dcb29a2014d.png\"> solve the equation.  Note that for equations which are second-order in time rather than first-order, the dispersion relation is typically double-valued rather than single-valued.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "The ",
+        "dispersion relation",
+        " of a constant coefficient linear evolution equation determines how time oscillations ",
+        " are linked to spatial oscillations ",
+        " of wave number ",
+        "k",
+        ".  In other words, the dispersion relation is the function for which the plane waves ",
+        " solve the equation.  Note that for equations which are second-order in time rather than first-order, the dispersion relation is typically double-valued rather than single-valued.\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 167,
+        "top": 140,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "line-height": "19px",
+        "margin-bottom": "6px",
+        "margin-top": "5px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "The dispersion relation for the model constant-coefficient linear dispersive and wave equations are as follows.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "The dispersion relation for the model constant-coefficient linear dispersive and wave equations are as follows.\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 186,
+        "top": 167,
+        "width": 1402
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "list-item",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "margin-bottom": "1px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": " For the phase rotation equation <img class=\"tex\" alt=\"\\,iu_t + \\omega_0 u = 0\\!\" src=\"/DispersiveWiki/images/math/f/c/d/fcd75d4a557f02b94da52c55c54d1cf5.png\">, the dispersion relation is constant: <img class=\"tex\" alt=\"\\,\\omega(k) = \\omega_0\\!\" src=\"/DispersiveWiki/images/math/6/f/f/6fff8bd7363f2e5a20438aec82b27d5e.png\">.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        " For the phase rotation equation ",
+        ", the dispersion relation is constant: ",
+        ".\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 186,
+        "top": 190,
+        "width": 1402
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "list-item",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "margin-bottom": "1px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": " For the transport equation <img class=\"tex\" alt=\"\\,u_t + v \\cdot u_x = 0\\!\" src=\"/DispersiveWiki/images/math/b/8/1/b81723f4098719b0d18add14658bf3f7.png\">, the dispersion relation is linear: <img class=\"tex\" alt=\"\\,\\omega(k) = -v \\cdot k\\!\" src=\"/DispersiveWiki/images/math/4/a/f/4af7c8ef0420f0c5f02472f2c5f6f41b.png\">.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        " For the transport equation ",
+        ", the dispersion relation is linear: ",
+        ".\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 186,
+        "top": 213,
+        "width": 1402
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "list-item",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "margin-bottom": "1px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": " For the <a href=\"/DispersiveWiki/index.php/Free_Schrodinger_equation\" title=\"Free Schrodinger equation\">free Schrodinger equation</a>, the dispersion relation is quadratic: <img class=\"tex\" alt=\"\\, \\omega(k) = -|k|^2\\!\" src=\"/DispersiveWiki/images/math/e/9/8/e98df32d2db34a7d4df3e458987a8126.png\">.  \n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        " For the ",
+        "free Schrodinger equation",
+        ", the dispersion relation is quadratic: ",
+        ".  \n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 167,
+        "top": 243,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "line-height": "19px",
+        "margin-bottom": "6px",
+        "margin-top": "5px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "(It is common to adjust the constants in this equation to change the dispersion relation to <img class=\"tex\" alt=\"\\,\\omega(k) = +|k|^2\\!\" src=\"/DispersiveWiki/images/math/3/f/1/3f15a208a0e116bdb27c245177673f48.png\"> or <img class=\"tex\" alt=\"\\,\\omega(k) = -|k|^2/2\\!\" src=\"/DispersiveWiki/images/math/7/3/8/7381b336ddbd5dc4932819fb966ae114.png\">.)\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "(It is common to adjust the constants in this equation to change the dispersion relation to ",
+        " or ",
+        ".)\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 186,
+        "top": 274,
+        "width": 1402
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "list-item",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "margin-bottom": "1px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": " For the <a href=\"/DispersiveWiki/index.php/Airy_equation\" title=\"Airy equation\">Airy equation</a>, the dispersion relation is cubic: <img class=\"tex\" alt=\"\\, \\omega(k) = k^3\\!\" src=\"/DispersiveWiki/images/math/5/f/5/5f5c0679ac0060083211730cb9cf7f57.png\">.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        " For the ",
+        "Airy equation",
+        ", the dispersion relation is cubic: ",
+        ".\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 186,
+        "top": 300,
+        "width": 1402
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "list-item",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "margin-bottom": "1px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": " For the <a href=\"/DispersiveWiki/index.php/Free_wave_equation\" title=\"Free wave equation\">free wave equation</a>, the dispersion relation is <img class=\"tex\" alt=\"\\,\\omega(k) = \\pm |k|\\!\" src=\"/DispersiveWiki/images/math/9/c/4/9c4d960fe6f9bb4111f67ddfac47290d.png\">.  \n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        " For the ",
+        "free wave equation",
+        ", the dispersion relation is ",
+        ".  \n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 186,
+        "top": 323,
+        "width": 1402
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "list-item",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "margin-bottom": "1px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": " For the <a href=\"/DispersiveWiki/index.php/Klein-Gordon_equation\" title=\"Klein-Gordon equation\">Klein-Gordon equation</a>, the dispersion relation is <img class=\"tex\" alt=\"\\,\\omega(k) = \\pm \\langle k \\rangle\\!\" src=\"/DispersiveWiki/images/math/e/4/9/e499ed29df020f61df3fd15ebb94a23d.png\">.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        " For the ",
+        "Klein-Gordon equation",
+        ", the dispersion relation is ",
+        ".\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 186,
+        "top": 346,
+        "width": 1402
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "list-item",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "margin-bottom": "1px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": " Non-time-reversible equations such as the heat equation do not have a dispersion relation, unless one permits <img class=\"tex\" alt=\"\\,\\omega(k)\\!\" src=\"/DispersiveWiki/images/math/7/b/e/7be9898da57c15dc2d5dfe7271b56afe.png\"> to be complex-valued.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        " Non-time-reversible equations such as the heat equation do not have a dispersion relation, unless one permits ",
+        " to be complex-valued.\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 42,
+        "left": 167,
+        "top": 373,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "line-height": "19px",
+        "margin-bottom": "6px",
+        "margin-top": "5px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "The principle of stationary phase implies that waves of spatial frequency <span class=\"texhtml\"><i>k</i></span> will propagate with group velocity <img class=\"tex\" alt=\"\\,- \\nabla_k \\omega(k)\\!\" src=\"/DispersiveWiki/images/math/6/d/b/6dbf6efccef9ca6fdaea8696a819f835.png\">.  This should be compared with the phase velocity <img class=\"tex\" alt=\"\\, - k \\omega(k) / |k|^2\\!\" src=\"/DispersiveWiki/images/math/3/1/3/313b390f42c75ef7b972a765595376d9.png\">.  The group velocity is the more important of the two velocities, as it controls the motion of frequency envelopes and thus of energy and mass, whereas the phase velocity merely controls the apparent motion of crests and troughs, which are of little physical signifiance.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "The principle of stationary phase implies that waves of spatial frequency ",
+        "k",
+        " will propagate with group velocity ",
+        ".  This should be compared with the phase velocity ",
+        ".  The group velocity is the more important of the two velocities, as it controls the motion of frequency envelopes and thus of energy and mass, whereas the phase velocity merely controls the apparent motion of crests and troughs, which are of little physical signifiance.\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 43,
+        "left": 167,
+        "top": 423,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "line-height": "19px",
+        "margin-bottom": "6px",
+        "margin-top": "5px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "For semilinear equations, we define the dispersion relation by using the dispersion relation of the linear component of the equation.  The relationship between spatial oscillation, time oscillation, and velocity should now be considered only as being heuristic (which in general only tends to be accurate in the semi-classical (high-frequency) limit).  Note however that the tool of <a href=\"/DispersiveWiki/index.php/X%5Es,b_spaces\" title=\"X^s,b spaces\"><span class=\"texhtml\"><i>X</i><sup><i>s</i>,<i>b</i></sup></span> spaces</a> can be used to capture this relationship more rigorously.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "For semilinear equations, we define the dispersion relation by using the dispersion relation of the linear component of the equation.  The relationship between spatial oscillation, time oscillation, and velocity should now be considered only as being heuristic (which in general only tends to be accurate in the semi-classical (high-frequency) limit).  Note however that the tool of ",
+        "X",
+        "s",
+        ",",
+        "b",
+        " spaces",
+        " can be used to capture this relationship more rigorously.\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 39,
+        "left": 167,
+        "top": 474,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "line-height": "19px",
+        "margin-bottom": "6px",
+        "margin-top": "5px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "For variable coefficient or quasilinear equations, the dispersion relation can now depend on the position variable <span class=\"texhtml\"><i>x</i></span> and time variable <span class=\"texhtml\"><i>t</i></span>.  The relationship between position, frequency, and velocity then becomes one of Hamilton's equations of motion (after identifying frequency with momentum).\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "For variable coefficient or quasilinear equations, the dispersion relation can now depend on the position variable ",
+        "x",
+        " and time variable ",
+        "t",
+        ".  The relationship between position, frequency, and velocity then becomes one of Hamilton's equations of motion (after identifying frequency with momentum).\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 38,
+        "left": 167,
+        "top": 521,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "line-height": "19px",
+        "margin-bottom": "6px",
+        "margin-top": "5px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "For systems (such as those arising from elasticity or electromagnetism), different components of the system may have a different dispersion relation; alternatively, one can keep the dispersion relation unified by viewing it as a tensor rather than a scalar quantity.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "For systems (such as those arising from elasticity or electromagnetism), different components of the system may have a different dispersion relation; alternatively, one can keep the dispersion relation unified by viewing it as a tensor rather than a scalar quantity.\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 57,
+        "left": 167,
+        "top": 567,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "line-height": "19px",
+        "margin-bottom": "6px",
+        "margin-top": "5px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Nonlinear effects can generate new spatial and temporal frequencies out of existing oscillations in the system.  In some cases these new frequencies will also obey the dispersion relation, in which case we say that the nonlinear interaction is <a href=\"/DispersiveWiki/index.php/Resonant\" title=\"Resonant\">resonant</a>.  Generally speaking, we expect the resonant terms in the nonlinearity to be dominant, and one can sometimes use <a href=\"/DispersiveWiki/index.php/Normal_form\" title=\"Normal form\">normal form</a> methods to eliminate the non-resonant portion of the nonlinearity.  However, many equations and systems have a <a href=\"/DispersiveWiki/index.php/Null_structure\" title=\"Null structure\">null structure</a> which eliminates or significantly weakens such resonant interactions.  This is often decisive in the low-regularity theory of such equations.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Nonlinear effects can generate new spatial and temporal frequencies out of existing oscillations in the system.  In some cases these new frequencies will also obey the dispersion relation, in which case we say that the nonlinear interaction is ",
+        "resonant",
+        ".  Generally speaking, we expect the resonant terms in the nonlinearity to be dominant, and one can sometimes use ",
+        "normal form",
+        " methods to eliminate the non-resonant portion of the nonlinearity.  However, many equations and systems have a ",
+        "null structure",
+        " which eliminates or significantly weakens such resonant interactions.  This is often decisive in the low-regularity theory of such equations.\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 167,
+        "top": 632,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(170, 170, 170)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "font-size": "19px",
+        "line-height": "19px",
+        "margin-bottom": "11px",
+        "padding-bottom": "3px",
+        "padding-top": "9px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h2"
+      },
+      "html": " <span class=\"mw-headline\" id=\"Dispersive_equations\"> Dispersive equations </span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "h2"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ],
+      "text": [
+        " Dispersive equations "
+      ]
+    },
+    {
+      "bound": {
+        "height": 38,
+        "left": 167,
+        "top": 676,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "line-height": "19px",
+        "margin-bottom": "6px",
+        "margin-top": "5px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "An equation is <b>dispersive</b> if different frequencies propagate at different group velocities.  Thus, for instance, the phase rotation and transport equations are not dispersive, the Airy, Schrodinger, and Klein-Gordon equations are dispersive, and the wave equation is partly dispersive (the group velocity depends on the direction of frequency but not on the magnitude).\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "An equation is ",
+        "dispersive",
+        " if different frequencies propagate at different group velocities.  Thus, for instance, the phase rotation and transport equations are not dispersive, the Airy, Schrodinger, and Klein-Gordon equations are dispersive, and the wave equation is partly dispersive (the group velocity depends on the direction of frequency but not on the magnitude).\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 38,
+        "left": 167,
+        "top": 722,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "line-height": "19px",
+        "margin-bottom": "6px",
+        "margin-top": "5px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "If the group velocity is bounded we say that we have <a href=\"/DispersiveWiki/index.php/Finite_speed_of_propagation\" title=\"Finite speed of propagation\">finite speed of propagation</a>, otherwise we have <a href=\"/DispersiveWiki/index.php/Infinite_speed_of_propagation\" title=\"Infinite speed of propagation\">infinite speed of propagation</a>.  Thus for instance, the phase rotation, transport, Klein-Gordon, and wave equations have finite speed of propagation, while the Schrodinger and Airy equation has infinite speed of propagation.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "If the group velocity is bounded we say that we have ",
+        "finite speed of propagation",
+        ", otherwise we have ",
+        "infinite speed of propagation",
+        ".  Thus for instance, the phase rotation, transport, Klein-Gordon, and wave equations have finite speed of propagation, while the Schrodinger and Airy equation has infinite speed of propagation.\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 38,
+        "left": 167,
+        "top": 768,
+        "width": 1421
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "line-height": "19px",
+        "margin-bottom": "6px",
+        "margin-top": "5px"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Intuitively, a dispersive equation should spread out the physical support of a solution over time.  One way to capture this is via <a href=\"/DispersiveWiki/index.php/Dispersive_estimates\" title=\"Dispersive estimates\" class=\"mw-redirect\">dispersive estimates</a>, which in turn lead to <a href=\"/DispersiveWiki/index.php/Strichartz_estimates\" title=\"Strichartz estimates\">Strichartz estimates</a>; when there is infinite speed of propagation, dispersion can also be captured inside <a href=\"/DispersiveWiki/index.php/Local_smoothing_estimates\" title=\"Local smoothing estimates\" class=\"mw-redirect\">local smoothing estimates</a>.\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Intuitively, a dispersive equation should spread out the physical support of a solution over time.  One way to capture this is via ",
+        "dispersive estimates",
+        ", which in turn lead to ",
+        "Strichartz estimates",
+        "; when there is infinite speed of propagation, dispersion can also be captured inside ",
+        "local smoothing estimates",
+        ".\n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 173,
+        "top": 826,
+        "width": 1409
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "line-height": "19px"
+      },
+      "element": {
+        "classes": [],
+        "id": "mw-normal-catlinks",
+        "name": "div"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Special:Categories\" title=\"Special:Categories\">Category</a>: <span dir=\"ltr\"><a href=\"/DispersiveWiki/index.php/Category:Concept\" title=\"Category:Concept\">Concept</a></span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "catlinks"
+          ],
+          "id": "catlinks",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "mw-normal-catlinks",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Category",
+        ": ",
+        "Concept"
+      ]
+    },
+    {
+      "bound": {
+        "height": 17,
+        "left": 167,
+        "top": 18,
+        "width": 1199
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "margin-left": "17px",
+        "margin-top": "3px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "ul"
+      },
+      "html": "\n\t\t\t\t <li id=\"ca-nstab-main\" class=\"selected\"><a href=\"/DispersiveWiki/index.php/Dispersion_relation\" title=\"View the content page [ctrl-alt-c]\" accesskey=\"c\">Page</a></li>\n\t\t\t\t <li id=\"ca-talk\" class=\"new\"><a href=\"/DispersiveWiki/index.php?title=Talk:Dispersion_relation&amp;action=edit&amp;redlink=1\" title=\"Discussion about the content page [ctrl-alt-t]\" accesskey=\"t\">Discussion</a></li>\n\t\t\t\t <li id=\"ca-viewsource\"><a href=\"/DispersiveWiki/index.php?title=Dispersion_relation&amp;action=edit\" title=\"This page is protected.\nYou can view its source [ctrl-alt-e]\" accesskey=\"e\">View source</a></li>\n\t\t\t\t <li id=\"ca-history\"><a href=\"/DispersiveWiki/index.php?title=Dispersion_relation&amp;action=history\" title=\"Past revisions of this page [ctrl-alt-h]\" accesskey=\"h\">History</a></li>\n\t\t\t",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "p-cactions",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        "Page",
+        "Discussion",
+        "View source",
+        "History"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 0,
+        "top": 0,
+        "width": 1600
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(47, 111, 171)",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(47, 111, 171)",
+        "border-right-color": "rgb(47, 111, 171)",
+        "border-top-color": "rgb(47, 111, 171)",
+        "color": "rgb(47, 111, 171)",
+        "cursor": "default",
+        "font-size": "11px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "outline-color": "rgb(47, 111, 171)",
+        "padding-left": "34px",
+        "padding-right": "22px",
+        "text-align": "right",
+        "text-transform": "lowercase",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "ul"
+      },
+      "html": "\n\t\t\t\t<li id=\"pt-login\"><a href=\"/DispersiveWiki/index.php?title=Special:UserLogin&amp;returnto=Dispersion_relation\" title=\"You are encouraged to log in; however, it is not mandatory [ctrl-alt-o]\" accesskey=\"o\">Log in / create account</a></li>\n\t\t\t",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "p-personal",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        "Log in / create account"
+      ]
+    },
+    {
+      "bound": {
+        "height": 135,
+        "left": 0,
+        "top": 160,
+        "width": 147
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "margin-bottom": "6px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden"
+      },
+      "element": {
+        "classes": [
+          "generated-sidebar",
+          "portlet"
+        ],
+        "id": "p-orientation",
+        "name": "div"
+      },
+      "html": "\n\t\t<h5>orientation</h5>\n\t\t<div class=\"pBody\">\n\t\t\t<ul>\n\t\t\t\t<li id=\"n-mainpage\"><a href=\"/DispersiveWiki/index.php/Main_Page\" title=\"Visit the main page [ctrl-alt-z]\" accesskey=\"z\">Main Page</a></li>\n\t\t\t\t<li id=\"n-portal\"><a href=\"/DispersiveWiki/index.php/DispersiveWiki:Community_portal\" title=\"About the project, what you can do, where to find things\">Community portal</a></li>\n\t\t\t\t<li id=\"n-Current-projects\"><a href=\"/DispersiveWiki/index.php/DispersiveWiki:Current_events\">Current projects</a></li>\n\t\t\t\t<li id=\"n-recentchanges\"><a href=\"/DispersiveWiki/index.php/Special:RecentChanges\" title=\"The list of recent changes in the wiki [ctrl-alt-r]\" accesskey=\"r\">Recent changes</a></li>\n\t\t\t\t<li id=\"n-randompage\"><a href=\"/DispersiveWiki/index.php/Special:Random\" title=\"Load a random page [ctrl-alt-x]\" accesskey=\"x\">Random page</a></li>\n\t\t\t\t<li id=\"n-help\"><a href=\"/DispersiveWiki/index.php/Help:Contents\" title=\"The place to find out\">Help</a></li>\n\t\t\t</ul>\n\t\t</div>\n\t",
+      "path": [
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-orientation",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "orientation"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 178,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-mainpage",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Main_Page\" title=\"Visit the main page [ctrl-alt-z]\" accesskey=\"z\">Main Page</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-orientation",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-mainpage",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Main Page"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 199,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-portal",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/DispersiveWiki:Community_portal\" title=\"About the project, what you can do, where to find things\">Community portal</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-orientation",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-portal",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Community portal"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 220,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Current-projects",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/DispersiveWiki:Current_events\">Current projects</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-orientation",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Current-projects",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Current projects"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 241,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-recentchanges",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Special:RecentChanges\" title=\"The list of recent changes in the wiki [ctrl-alt-r]\" accesskey=\"r\">Recent changes</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-orientation",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-recentchanges",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Recent changes"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 262,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-randompage",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Special:Random\" title=\"Load a random page [ctrl-alt-x]\" accesskey=\"x\">Random page</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-orientation",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-randompage",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Random page"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 283,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-help",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Help:Contents\" title=\"The place to find out\">Help</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-orientation",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-help",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Help"
+      ]
+    },
+    {
+      "bound": {
+        "height": 173,
+        "left": 0,
+        "top": 315,
+        "width": 147
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "margin-bottom": "6px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden"
+      },
+      "element": {
+        "classes": [
+          "generated-sidebar",
+          "portlet"
+        ],
+        "id": "p-categories",
+        "name": "div"
+      },
+      "html": "\n\t\t<h5>Categories</h5>\n\t\t<div class=\"pBody\">\n\t\t\t<ul>\n\t\t\t\t<li id=\"n-categories\"><a href=\"/DispersiveWiki/index.php/Special:Categories\">Categories</a></li>\n\t\t\t\t<li id=\"n-Concepts\"><a href=\"/DispersiveWiki/index.php/Category:Concept\">Concepts</a></li>\n\t\t\t\t<li id=\"n-Equations\"><a href=\"/DispersiveWiki/index.php/Category:Equations\">Equations</a></li>\n\t\t\t\t<li id=\"n-Schrodinger\"><a href=\"/DispersiveWiki/index.php/Category:Schrodinger\">Schrodinger</a></li>\n\t\t\t\t<li id=\"n-Wave\"><a href=\"/DispersiveWiki/index.php/Category:Wave\">Wave</a></li>\n\t\t\t\t<li id=\"n-Airy\"><a href=\"/DispersiveWiki/index.php/Category:Airy\">Airy</a></li>\n\t\t\t\t<li id=\"n-Bibliography\"><a href=\"/DispersiveWiki/index.php/Category:Bibliography\">Bibliography</a></li>\n\t\t\t\t<li id=\"n-Conferences\"><a href=\"/DispersiveWiki/index.php/Conferences\">Conferences</a></li>\n\t\t\t</ul>\n\t\t</div>\n\t",
+      "path": [
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-categories",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Categories"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 333,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-categories",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Special:Categories\">Categories</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-categories",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-categories",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Categories"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 354,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Concepts",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Category:Concept\">Concepts</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-categories",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Concepts",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Concepts"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 375,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Equations",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Category:Equations\">Equations</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-categories",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Equations",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Equations"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 396,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Schrodinger",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Category:Schrodinger\">Schrodinger</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-categories",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Schrodinger",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Schrodinger"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 417,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Wave",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Category:Wave\">Wave</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-categories",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Wave",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Wave"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 438,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Airy",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Category:Airy\">Airy</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-categories",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Airy",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Airy"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 459,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Bibliography",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Category:Bibliography\">Bibliography</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-categories",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Bibliography",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Bibliography"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 480,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Conferences",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Conferences\">Conferences</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-categories",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Conferences",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Conferences"
+      ]
+    },
+    {
+      "bound": {
+        "height": 116,
+        "left": 0,
+        "top": 512,
+        "width": 147
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "margin-bottom": "6px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden"
+      },
+      "element": {
+        "classes": [
+          "generated-sidebar",
+          "portlet"
+        ],
+        "id": "p-development",
+        "name": "div"
+      },
+      "html": "\n\t\t<h5>development</h5>\n\t\t<div class=\"pBody\">\n\t\t\t<ul>\n\t\t\t\t<li id=\"n-Stubs\"><a href=\"/DispersiveWiki/index.php/Category:Stubs\">Stubs</a></li>\n\t\t\t\t<li id=\"n-Templates\"><a href=\"/DispersiveWiki/index.php/Category:Template\">Templates</a></li>\n\t\t\t\t<li id=\"n-Editing-FAQ\"><a href=\"/DispersiveWiki/index.php/Help:Editing_FAQ\">Editing FAQ</a></li>\n\t\t\t\t<li id=\"n-Things-to-do\"><a href=\"/DispersiveWiki/index.php/Current_events\">Things to do</a></li>\n\t\t\t\t<li id=\"n-Requested-pages\"><a href=\"/DispersiveWiki/index.php/Special:WantedPages\">Requested pages</a></li>\n\t\t\t</ul>\n\t\t</div>\n\t",
+      "path": [
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-development",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "development"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 530,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Stubs",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Category:Stubs\">Stubs</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-development",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Stubs",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Stubs"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 551,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Templates",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Category:Template\">Templates</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-development",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Templates",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Templates"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 572,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Editing-FAQ",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Help:Editing_FAQ\">Editing FAQ</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-development",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Editing-FAQ",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Editing FAQ"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 593,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Things-to-do",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Current_events\">Things to do</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-development",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Things-to-do",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Things to do"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 614,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "n-Requested-pages",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Special:WantedPages\">Requested pages</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "generated-sidebar",
+            "portlet"
+          ],
+          "id": "p-development",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "n-Requested-pages",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Requested pages"
+      ]
+    },
+    {
+      "bound": {
+        "height": 61,
+        "left": 0,
+        "top": 646,
+        "width": 147
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "margin-bottom": "6px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "position": "relative",
+        "z-index": "3"
+      },
+      "element": {
+        "classes": [
+          "portlet"
+        ],
+        "id": "p-search",
+        "name": "div"
+      },
+      "html": "\n\t\t<h5><label for=\"searchInput\">Search</label></h5>\n\t\t<div id=\"searchBody\" class=\"pBody\">\n\t\t\t<form action=\"/DispersiveWiki/index.php\" id=\"searchform\">\n\t\t\t\t<input type=\"hidden\" name=\"title\" value=\"Special:Search\">\n\t\t\t\t<input id=\"searchInput\" title=\"Search DispersiveWiki\" accesskey=\"f\" type=\"search\" name=\"search\">\n\t\t\t\t<input type=\"submit\" name=\"go\" class=\"searchButton\" id=\"searchGoButton\" value=\"Go\" title=\"Go to a page with this exact name if exists\">&nbsp;\n\t\t\t\t<input type=\"submit\" name=\"fulltext\" class=\"searchButton\" id=\"mw-searchButton\" value=\"Search\" title=\"Search the pages for this text\">\n\t\t\t</form>\n\t\t</div>\n\t",
+      "path": [
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "p-search",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Search"
+      ]
+    },
+    {
+      "bound": {
+        "height": 116,
+        "left": 0,
+        "top": 715,
+        "width": 147
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "13px",
+        "margin-bottom": "6px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden"
+      },
+      "element": {
+        "classes": [
+          "portlet"
+        ],
+        "id": "p-tb",
+        "name": "div"
+      },
+      "html": "\n\t\t<h5>Toolbox</h5>\n\t\t<div class=\"pBody\">\n\t\t\t<ul>\n\t\t\t\t<li id=\"t-whatlinkshere\"><a href=\"/DispersiveWiki/index.php/Special:WhatLinksHere/Dispersion_relation\" title=\"List of all wiki pages that link here [ctrl-alt-j]\" accesskey=\"j\">What links here</a></li>\n\t\t\t\t<li id=\"t-recentchangeslinked\"><a href=\"/DispersiveWiki/index.php/Special:RecentChangesLinked/Dispersion_relation\" title=\"Recent changes in pages linked from this page [ctrl-alt-k]\" accesskey=\"k\">Related changes</a></li>\n<li id=\"t-specialpages\"><a href=\"/DispersiveWiki/index.php/Special:SpecialPages\" title=\"List of all special pages [ctrl-alt-q]\" accesskey=\"q\">Special pages</a></li>\n\t\t\t\t<li id=\"t-print\"><a href=\"/DispersiveWiki/index.php?title=Dispersion_relation&amp;printable=yes\" rel=\"alternate\" title=\"Printable version of this page [ctrl-alt-p]\" accesskey=\"p\">Printable version</a></li>\t\t\t\t<li id=\"t-permalink\"><a href=\"/DispersiveWiki/index.php?title=Dispersion_relation&amp;oldid=7034\" title=\"Permanent link to this revision of the page\">Permanent link</a></li>\t\t\t</ul>\n\t\t</div>\n\t",
+      "path": [
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "p-tb",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Toolbox"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 733,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "t-whatlinkshere",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Special:WhatLinksHere/Dispersion_relation\" title=\"List of all wiki pages that link here [ctrl-alt-j]\" accesskey=\"j\">What links here</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "p-tb",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "t-whatlinkshere",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "What links here"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 754,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "t-recentchangeslinked",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Special:RecentChangesLinked/Dispersion_relation\" title=\"Recent changes in pages linked from this page [ctrl-alt-k]\" accesskey=\"k\">Related changes</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "p-tb",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "t-recentchangeslinked",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Related changes"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 775,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "t-specialpages",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php/Special:SpecialPages\" title=\"List of all special pages [ctrl-alt-q]\" accesskey=\"q\">Special pages</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "p-tb",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "t-specialpages",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Special pages"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 796,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "t-print",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php?title=Dispersion_relation&amp;printable=yes\" rel=\"alternate\" title=\"Printable version of this page [ctrl-alt-p]\" accesskey=\"p\">Printable version</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "p-tb",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "t-print",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Printable version"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 817,
+        "width": 113
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-collapse": "collapse",
+        "display": "list-item",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square"
+      },
+      "element": {
+        "classes": [],
+        "id": "t-permalink",
+        "name": "li"
+      },
+      "html": "<a href=\"/DispersiveWiki/index.php?title=Dispersion_relation&amp;oldid=7034\" title=\"Permanent link to this revision of the page\">Permanent link</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-one",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "p-tb",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "pBody"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "t-permalink",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "Permanent link"
+      ]
+    },
+    {
+      "bound": {
+        "height": 17,
+        "left": 17,
+        "top": 887,
+        "width": 1583
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "font-size": "11px",
+        "line-height": "17px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "margin-left": "17px",
+        "margin-top": "3px",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "f-list",
+        "name": "ul"
+      },
+      "html": "\n\t\t<li id=\"lastmod\"> This page was last modified on 24 August 2009, at 14:14.</li>\n\t\t<li id=\"viewcount\">This page has been accessed 28,272 times.</li>\n\t\t<li id=\"privacy\"><a href=\"/DispersiveWiki/index.php/DispersiveWiki:Privacy_policy\" title=\"DispersiveWiki:Privacy policy\">Privacy policy</a></li>\n\t\t<li id=\"about\"><a href=\"/DispersiveWiki/index.php/DispersiveWiki:About\" title=\"DispersiveWiki:About\">About DispersiveWiki</a></li>\n\t\t<li id=\"disclaimer\"><a href=\"/DispersiveWiki/index.php/DispersiveWiki:General_disclaimer\" title=\"DispersiveWiki:General disclaimer\">Disclaimers</a></li>\n\t",
+      "path": [
+        "div",
+        "div",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "footer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "f-list",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        " This page was last modified on 24 August 2009, at 14:14.",
+        "This page has been accessed 28,272 times.",
+        "Privacy policy",
+        "About DispersiveWiki",
+        "Disclaimers"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 20,
+        "left": 315,
+        "top": 93,
+        "width": 76
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/7/f/9/7f937b63c588e98cacb6c8f60eb66c65.png"
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 876,
+        "top": 94,
+        "width": 27
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/1/0/7/10702d3119d96c8967b4b03bb92fd467.png"
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 1093,
+        "top": 93,
+        "width": 33
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/3/c/f/3cff90c203f42ce617853a86eb732eb6.png"
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 303,
+        "top": 113,
+        "width": 79
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/d/1/5/d15fc415479baa3690917dcb29a2014d.png"
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 371,
+        "top": 169,
+        "width": 115
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/f/c/d/fcd75d4a557f02b94da52c55c54d1cf5.png"
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 697,
+        "top": 168,
+        "width": 84
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/6/f/f/6fff8bd7363f2e5a20438aec82b27d5e.png"
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 340,
+        "top": 192,
+        "width": 121
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/b/8/1/b81723f4098719b0d18add14658bf3f7.png"
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 653,
+        "top": 191,
+        "width": 115
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/4/a/f/4af7c8ef0420f0c5f02472f2c5f6f41b.png"
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 594,
+        "top": 214,
+        "width": 110
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/e/9/8/e98df32d2db34a7d4df3e458987a8126.png"
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 688,
+        "top": 244,
+        "width": 109
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/3/f/1/3f15a208a0e116bdb27c245177673f48.png"
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 816,
+        "top": 244,
+        "width": 129
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/7/3/8/7381b336ddbd5dc4932819fb966ae114.png"
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 500,
+        "top": 275,
+        "width": 83
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/5/f/5/5f5c0679ac0060083211730cb9cf7f57.png"
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 494,
+        "top": 301,
+        "width": 101
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/9/c/4/9c4d960fe6f9bb4111f67ddfac47290d.png"
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 513,
+        "top": 324,
+        "width": 106
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/e/4/9/e499ed29df020f61df3fd15ebb94a23d.png"
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 827,
+        "top": 347,
+        "width": 38
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "list-style-image": "url(http://wiki.math.toronto.edu/DispersiveWiki/skins/monobook/bullet.gif)",
+        "list-style-type": "square",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/7/b/e/7be9898da57c15dc2d5dfe7271b56afe.png"
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 796,
+        "top": 375,
+        "width": 77
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/6/d/b/6dbf6efccef9ca6fdaea8696a819f835.png"
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 1168,
+        "top": 374,
+        "width": 103
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "display": "inline",
+        "font-size": "13px",
+        "line-height": "19px",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [
+          "tex"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "p",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "column-content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "bodyContent",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "tex"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/images/math/3/1/3/313b390f42c75ef7b972a765595376d9.png"
+    },
+    {
+      "bound": {
+        "height": 31,
+        "left": 1504,
+        "top": 882,
+        "width": 88
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "none",
+        "background-position": "0% 0%",
+        "background-repeat": "repeat",
+        "border-bottom-color": "rgb(0, 43, 184)",
+        "border-left-color": "rgb(0, 43, 184)",
+        "border-right-color": "rgb(0, 43, 184)",
+        "border-top-color": "rgb(0, 43, 184)",
+        "color": "rgb(0, 43, 184)",
+        "display": "inline",
+        "font-size": "11px",
+        "outline-color": "rgb(0, 43, 184)",
+        "text-align": "center",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "globalWrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "footer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "f-poweredbyico",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://wiki.math.toronto.edu/DispersiveWiki/skins/common/images/poweredby_mediawiki_88x31.png"
+    }
+  ]
+}

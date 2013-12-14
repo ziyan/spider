@@ -1,0 +1,4274 @@
+{
+  "body": {
+    "bound": {
+      "height": 1039,
+      "left": 0,
+      "top": -1,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(255, 255, 255)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(0, 0, 0)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(0, 0, 0)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(0, 0, 0)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(0, 0, 0)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(0, 0, 0)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "'Lucida Grande', Verdana, Lucida, Helvetica, Arial, sans-serif",
+      "font-size": "11px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "1039px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "normal",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(0, 0, 0)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "embed",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [],
+  "titles": [
+    "\n\n        \n            The EuroMatrix Project (Sept. 2006 - Febr. 2009)\n            —\n        \n        EuroMatrix Project website\n    "
+  ],
+  "url": "http://www.euromatrix.net/",
+  "links": [
+    "http://www.euromatrix.net/index.html#documentContent",
+    "http://www.euromatrix.net/index.html#portlet-navigation-tree",
+    "http://www.euromatrix.net/sitemap/index.html",
+    "http://www.euromatrix.net/accessibility-info/index.html",
+    "http://www.euromatrix.net/contact-info/index.html",
+    "http://www.euromatrix.net/search_form/index.html",
+    "http://www.euromatrix.net/index.html",
+    "http://www.euromatrix.net/index.html",
+    "http://www.euromatrixplus.net/",
+    "http://www.euromatrix.net/events/index.html",
+    "http://www.euromatrix.net/press-releases/index.html",
+    "http://www.euromatrix.net/partners/index.html",
+    "http://www.euromatrix.net/about/index.html",
+    "http://www.euromatrix.net/deliverables/index.html",
+    "http://www.euromatrix.net/publications/index.html",
+    "http://www.euromatrix.net/downloads/index.html",
+    "http://www.euromatrix.net/login_form/index.html",
+    "http://www.euromatrix.net/index.html",
+    "http://www.euromatrix.net/sitemap/index.html",
+    "http://www.euromatrix.net/index.html",
+    "http://www.euromatrix.net/events/index.html",
+    "http://www.euromatrix.net/press-releases/index.html",
+    "http://www.euromatrix.net/partners/index.html",
+    "http://www.euromatrix.net/about/index.html",
+    "http://www.euromatrix.net/deliverables/index.html",
+    "http://www.euromatrix.net/publications/index.html",
+    "http://www.euromatrix.net/downloads/index.html",
+    "http://www.euromatrix.net/public-demonstration/index.html",
+    "http://www.euromatrixplus.eu/",
+    "javascript:this.print();",
+    "http://www.euromatrixplus.net/",
+    "http://www.euromatrixplus.net/matrix/",
+    "http://www.ed.ac.uk/",
+    "http://www.cuni.cz/index.php?lng=eng",
+    "http://www.uni-saarland.de/en",
+    "http://www.celct.it/",
+    "http://www.morphologic.hu/index.php?lang=en",
+    "http://www.group-technologies.com/",
+    "http://www.euromatrix.net/deliverables/index.html",
+    "http://www.euromatrix.net/publications/index.html",
+    "http://www.euromatrix.net/downloads/index.html",
+    "http://www.euromatrix.net/public-demonstration/index.html",
+    "http://cordis.europa.eu/ist/",
+    "http://cordis.europa.eu/ist/",
+    "http://plone.org/",
+    "http://plone.org/foundation",
+    "http://plone.org/foundation",
+    "http://creativecommons.org/licenses/GPL/2.0/",
+    "http://plone.org/",
+    "http://www.section508.gov/",
+    "http://www.w3.org/WAI/WCAG1AA-Conformance",
+    "http://validator.w3.org/check/referer",
+    "http://jigsaw.w3.org/css-validator/check/referer?profile=css3&usermedium=all",
+    "http://plone.org/browsersupport"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 1,
+        "left": -1,
+        "top": -1,
+        "width": 1
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "line-height": "16px",
+        "margin-left": "-1px",
+        "margin-top": "-1px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "hiddenStructure"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n            <a accesskey=\"2\" href=\"index.html#documentContent\">Skip to content.</a> |\n\n            <a accesskey=\"6\" href=\"index.html#portlet-navigation-tree\">Skip to navigation</a>\n          ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-top",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hiddenStructure"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Skip to content.",
+        " |\n\n            ",
+        "Skip to navigation"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 1398,
+        "top": 3,
+        "width": 202
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "float": "right",
+        "list-style-type": "none",
+        "margin-top": "1px",
+        "padding-bottom": "3px",
+        "padding-right": "22px",
+        "padding-top": "3px",
+        "unicode-bidi": "normal",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "portal-siteactions",
+        "name": "ul"
+      },
+      "html": "\n\n    <li id=\"siteaction-sitemap\"><a href=\"sitemap/index.html\" accesskey=\"3\" title=\"Site Map\">Site Map</a></li>\n    <li id=\"siteaction-accessibility\"><a href=\"accessibility-info/index.html\" accesskey=\"0\" title=\"Accessibility\">Accessibility</a></li>\n    <li id=\"siteaction-contact\"><a href=\"contact-info/index.html\" accesskey=\"9\" title=\"Contact\">Contact</a></li>\n\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-top",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-header",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-siteactions",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        "Site Map",
+        "Accessibility",
+        "Contact"
+      ]
+    },
+    {
+      "bound": {
+        "height": 1,
+        "left": 1423,
+        "top": 39,
+        "width": 1
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "cursor": "default",
+        "font-weight": "bold",
+        "margin-left": "-1px",
+        "margin-top": "-1px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-align": "right",
+        "text-transform": "lowercase",
+        "unicode-bidi": "normal",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "hiddenStructure"
+        ],
+        "id": "",
+        "name": "label"
+      },
+      "html": "Search Site",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "form",
+        "label"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-top",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-header",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-searchbox",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "hiddenStructure"
+          ],
+          "id": "",
+          "name": "label"
+        }
+      ],
+      "text": [
+        "Search Site"
+      ]
+    },
+    {
+      "bound": {
+        "height": 1,
+        "left": 1423,
+        "top": 63,
+        "width": 1
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "clear": "both",
+        "margin-left": "-1px",
+        "margin-top": "2px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-align": "right",
+        "text-transform": "lowercase",
+        "unicode-bidi": "normal",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "hiddenStructure"
+        ],
+        "id": "portal-advanced-search",
+        "name": "div"
+      },
+      "html": "\n        <a href=\"search_form/index.html\" accesskey=\"5\">\n            Advanced Search…\n        </a>\n    ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-top",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-header",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-searchbox",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hiddenStructure"
+          ],
+          "id": "portal-advanced-search",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\n            Advanced Search…\n        "
+      ]
+    },
+    {
+      "bound": {
+        "height": 128,
+        "left": 26,
+        "top": 15,
+        "width": 1574
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "background-image": "url(http://www.euromatrix.net/portal-logo.png)",
+        "background-repeat": "no-repeat",
+        "font-size": "18px",
+        "margin-bottom": "13px",
+        "margin-left": "26px",
+        "margin-top": "13px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "portal-logo",
+        "name": "h1"
+      },
+      "html": "\n    <a href=\"index.html\" accesskey=\"1\">EuroMatrix Project website</a>\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-top",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-header",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-logo",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "EuroMatrix Project website"
+      ]
+    },
+    {
+      "bound": {
+        "height": 1,
+        "left": -1,
+        "top": 157,
+        "width": 1
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-weight": "bold",
+        "margin-left": "-1px",
+        "margin-top": "-1px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "hiddenStructure"
+        ],
+        "id": "",
+        "name": "h5"
+      },
+      "html": "Sections",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "h5"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-top",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-header",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hiddenStructure"
+          ],
+          "id": "",
+          "name": "h5"
+        }
+      ],
+      "text": [
+        "Sections"
+      ]
+    },
+    {
+      "bound": {
+        "height": 13,
+        "left": 0,
+        "top": 160,
+        "width": 1600
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "list-style-type": "none",
+        "padding-left": "22px",
+        "unicode-bidi": "normal",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "portal-globalnav",
+        "name": "ul"
+      },
+      "html": "\n        <li id=\"portaltab-index_html\" class=\"selected\">\n            <a href=\"index.html\">Home</a></li>\n        <li id=\"portaltab-euromatrixplus\" class=\"plain\">\n            <a href=\"http://www.euromatrixplus.net/\">EuroMatrixPlus</a></li>\n        <li id=\"portaltab-events\" class=\"plain\">\n            <a href=\"events/index.html\" title=\"Events organized by or related to the EuroMatrix project\">Events</a></li>\n        <li id=\"portaltab-press-releases\" class=\"plain\">\n            <a href=\"press-releases/index.html\" title=\"This folder contains all information, press releases and other materials suited for publication.\">Press Releases</a></li>\n        <li id=\"portaltab-partners\" class=\"plain\">\n            <a href=\"partners/index.html\" title=\"Workspaces for the different project partners.\">Partners</a></li>\n        <li id=\"portaltab-about\" class=\"plain\">\n            <a href=\"about/index.html\" title=\"This folder contains informations about the EUROMATRIX project.\">About</a></li>\n        <li id=\"portaltab-deliverables\" class=\"plain\">\n            <a href=\"deliverables/index.html\" title=\"Deliverables of the EuroMatrix project\">Project Deliverables</a></li>\n        <li id=\"portaltab-publications\" class=\"plain\">\n            <a href=\"publications/index.html\" title=\"Publications related to the EuroMatrix project\">Publications</a></li>\n        <li id=\"portaltab-downloads\" class=\"plain\">\n            <a href=\"downloads/index.html\" title=\"Tools and resources created by the EuroMatrix project\">Downloads</a></li>\n<!--\n        <li id=\"portaltab-euromatrix\" class=\"plain\">\n            <a href=\"euromatrix/index.html\"\n               title=\"An overview on available language resources\">The \"EuroMatrix\"</a></li>\n-->\n    ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-top",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-header",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-globalnav",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        "Home",
+        "EuroMatrixPlus",
+        "Events",
+        "Press Releases",
+        "Partners",
+        "About",
+        "Project Deliverables",
+        "Publications",
+        "Downloads"
+      ]
+    },
+    {
+      "bound": {
+        "height": 1,
+        "left": -1,
+        "top": 174,
+        "width": 1
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-weight": "bold",
+        "margin-left": "-1px",
+        "margin-top": "-1px",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "hiddenStructure"
+        ],
+        "id": "",
+        "name": "h5"
+      },
+      "html": "Personal tools",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "h5"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-top",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-personaltools-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hiddenStructure"
+          ],
+          "id": "",
+          "name": "h5"
+        }
+      ],
+      "text": [
+        "Personal tools"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 0,
+        "top": 177,
+        "width": 1600
+      },
+      "computed": {
+        "background-color": "rgb(222, 231, 236)",
+        "border-bottom-color": "rgb(140, 172, 187)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-top-color": "rgb(140, 172, 187)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "padding-left": "33px",
+        "padding-right": "33px",
+        "text-align": "right",
+        "text-transform": "lowercase",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "portal-personaltools",
+        "name": "ul"
+      },
+      "html": "\n   \n\n    \n        <li>\n            <a href=\"login_form/index.html\">\n               Log in\n            </a>\n        </li>\n    \n\n",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-top",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-personaltools-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-personaltools",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        "\n               Log in\n            "
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 0,
+        "top": 196,
+        "width": 1600
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(140, 172, 187)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "line-height": "17px",
+        "padding-left": "22px",
+        "padding-right": "22px",
+        "text-transform": "lowercase",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "portal-breadcrumbs",
+        "name": "div"
+      },
+      "html": "\n\n    <span id=\"breadcrumbs-you-are-here\">You\nare here:</span>\n    <a href=\"index.html\">Home</a>\n    \n\n",
+      "path": [
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-top",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-breadcrumbs",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "You\nare here:",
+        "Home"
+      ]
+    },
+    {
+      "bound": {
+        "height": 17,
+        "left": 34,
+        "top": 239,
+        "width": 130
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "line-height": "17px",
+        "text-transform": "lowercase",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "tile"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Navigation",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "dl",
+        "dt",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-one",
+          "name": "td"
+        },
+        {
+          "classes": [
+            "visualPadding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "portlet-navigation-tree",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "portletHeader"
+          ],
+          "id": "",
+          "name": "dt"
+        },
+        {
+          "classes": [
+            "tile"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Navigation"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 33,
+        "top": 270,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgb(222, 231, 236)",
+        "background-image": "url(http://www.euromatrix.net/site_icon.gif)",
+        "background-position": "0% 3px",
+        "background-repeat": "no-repeat",
+        "border-bottom-color": "rgb(140, 172, 187)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(140, 172, 187)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(140, 172, 187)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(140, 172, 187)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "color": "rgb(67, 105, 118)",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "margin-left": "-1px",
+        "min-height": "17px",
+        "outline-color": "rgb(67, 105, 118)",
+        "padding-bottom": "2px",
+        "padding-left": "18px",
+        "padding-top": "2px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "navTreeCurrentItem",
+          "visualIconPadding"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "\n                       Home\n                       \n                       ",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "dl",
+        "dd",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-one",
+          "name": "td"
+        },
+        {
+          "classes": [
+            "visualPadding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "portlet-navigation-tree",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "lastItem",
+            "portletItem"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "navTreeLevel0",
+            "portletNavigationTree"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "navTreeItem"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "contenttype-plone-site",
+            "visualIcon"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "navTreeCurrentItem",
+            "visualIconPadding"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "\n                       Home\n                       \n                       "
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 33,
+        "top": 294,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(255, 255, 255)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "color": "rgb(67, 105, 118)",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "margin-left": "-1px",
+        "min-height": "17px",
+        "outline-color": "rgb(67, 105, 118)",
+        "padding-bottom": "2px",
+        "padding-left": "18px",
+        "padding-top": "2px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "state-published",
+          "visualIconPadding"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Events",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "dl",
+        "dd",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-one",
+          "name": "td"
+        },
+        {
+          "classes": [
+            "visualPadding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "portlet-navigation-tree",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "lastItem",
+            "portletItem"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "navTreeLevel0",
+            "portletNavigationTree"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "navTreeItem",
+            "visualNoMarker"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "contenttype-folder",
+            "state-published",
+            "visualIcon"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "state-published",
+            "visualIconPadding"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Events"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 33,
+        "top": 318,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(255, 255, 255)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "color": "rgb(67, 105, 118)",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "margin-left": "-1px",
+        "min-height": "17px",
+        "outline-color": "rgb(67, 105, 118)",
+        "padding-bottom": "2px",
+        "padding-left": "18px",
+        "padding-top": "2px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "state-published",
+          "visualIconPadding"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Press Releases",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "dl",
+        "dd",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-one",
+          "name": "td"
+        },
+        {
+          "classes": [
+            "visualPadding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "portlet-navigation-tree",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "lastItem",
+            "portletItem"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "navTreeLevel0",
+            "portletNavigationTree"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "navTreeItem",
+            "visualNoMarker"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "contenttype-folder",
+            "state-published",
+            "visualIcon"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "state-published",
+            "visualIconPadding"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Press Releases"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 33,
+        "top": 342,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(255, 255, 255)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "color": "rgb(67, 105, 118)",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "margin-left": "-1px",
+        "min-height": "17px",
+        "outline-color": "rgb(67, 105, 118)",
+        "padding-bottom": "2px",
+        "padding-left": "18px",
+        "padding-top": "2px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "state-published",
+          "visualIconPadding"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Partners",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "dl",
+        "dd",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-one",
+          "name": "td"
+        },
+        {
+          "classes": [
+            "visualPadding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "portlet-navigation-tree",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "lastItem",
+            "portletItem"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "navTreeLevel0",
+            "portletNavigationTree"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "navTreeItem",
+            "visualNoMarker"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "contenttype-folder",
+            "state-published",
+            "visualIcon"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "state-published",
+            "visualIconPadding"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Partners"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 33,
+        "top": 366,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(255, 255, 255)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "color": "rgb(67, 105, 118)",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "margin-left": "-1px",
+        "min-height": "17px",
+        "outline-color": "rgb(67, 105, 118)",
+        "padding-bottom": "2px",
+        "padding-left": "18px",
+        "padding-top": "2px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "state-published",
+          "visualIconPadding"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "About",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "dl",
+        "dd",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-one",
+          "name": "td"
+        },
+        {
+          "classes": [
+            "visualPadding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "portlet-navigation-tree",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "lastItem",
+            "portletItem"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "navTreeLevel0",
+            "portletNavigationTree"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "navTreeItem",
+            "visualNoMarker"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "contenttype-folder",
+            "state-published",
+            "visualIcon"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "state-published",
+            "visualIconPadding"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "About"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 33,
+        "top": 390,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(255, 255, 255)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "color": "rgb(67, 105, 118)",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "margin-left": "-1px",
+        "min-height": "17px",
+        "outline-color": "rgb(67, 105, 118)",
+        "padding-bottom": "2px",
+        "padding-left": "18px",
+        "padding-top": "2px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "state-published",
+          "visualIconPadding"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Project Deliverables",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "dl",
+        "dd",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-one",
+          "name": "td"
+        },
+        {
+          "classes": [
+            "visualPadding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "portlet-navigation-tree",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "lastItem",
+            "portletItem"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "navTreeLevel0",
+            "portletNavigationTree"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "navTreeItem",
+            "visualNoMarker"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "contenttype-folder",
+            "state-published",
+            "visualIcon"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "state-published",
+            "visualIconPadding"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Project Deliverables"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 33,
+        "top": 414,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(255, 255, 255)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "color": "rgb(67, 105, 118)",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "margin-left": "-1px",
+        "min-height": "17px",
+        "outline-color": "rgb(67, 105, 118)",
+        "padding-bottom": "2px",
+        "padding-left": "18px",
+        "padding-top": "2px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "state-published",
+          "visualIconPadding"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Publications",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "dl",
+        "dd",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-one",
+          "name": "td"
+        },
+        {
+          "classes": [
+            "visualPadding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "portlet-navigation-tree",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "lastItem",
+            "portletItem"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "navTreeLevel0",
+            "portletNavigationTree"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "navTreeItem",
+            "visualNoMarker"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "contenttype-folder",
+            "state-published",
+            "visualIcon"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "state-published",
+            "visualIconPadding"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Publications"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 33,
+        "top": 438,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(255, 255, 255)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "color": "rgb(67, 105, 118)",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "margin-left": "-1px",
+        "min-height": "17px",
+        "outline-color": "rgb(67, 105, 118)",
+        "padding-bottom": "2px",
+        "padding-left": "18px",
+        "padding-top": "2px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "state-published",
+          "visualIconPadding"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Downloads",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "dl",
+        "dd",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-one",
+          "name": "td"
+        },
+        {
+          "classes": [
+            "visualPadding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "portlet-navigation-tree",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "lastItem",
+            "portletItem"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "navTreeLevel0",
+            "portletNavigationTree"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "navTreeItem",
+            "visualNoMarker"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "contenttype-folder",
+            "state-published",
+            "visualIcon"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "state-published",
+            "visualIconPadding"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Downloads"
+      ]
+    },
+    {
+      "bound": {
+        "height": 40,
+        "left": 33,
+        "top": 462,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(255, 255, 255)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "color": "rgb(67, 105, 118)",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "margin-left": "-1px",
+        "min-height": "17px",
+        "outline-color": "rgb(67, 105, 118)",
+        "padding-bottom": "2px",
+        "padding-left": "18px",
+        "padding-top": "2px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "state-published",
+          "visualIconPadding"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Public Demonstration",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "dl",
+        "dd",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-one",
+          "name": "td"
+        },
+        {
+          "classes": [
+            "visualPadding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "portlet-navigation-tree",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "lastItem",
+            "portletItem"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "navTreeLevel0",
+            "portletNavigationTree"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "navTreeItem",
+            "visualNoMarker"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "contenttype-document",
+            "state-published",
+            "visualIcon"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "state-published",
+            "visualIconPadding"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Public Demonstration"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 33,
+        "top": 503,
+        "width": 131
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-left-style": "solid",
+        "border-left-width": "1px",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-right-style": "solid",
+        "border-right-width": "1px",
+        "border-top-color": "rgb(255, 255, 255)",
+        "border-top-style": "solid",
+        "border-top-width": "1px",
+        "color": "rgb(67, 105, 118)",
+        "line-height": "17px",
+        "list-style-type": "none",
+        "margin-bottom": "1px",
+        "margin-left": "-1px",
+        "min-height": "17px",
+        "outline-color": "rgb(67, 105, 118)",
+        "padding-bottom": "2px",
+        "padding-left": "18px",
+        "padding-top": "2px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "state-published",
+          "visualIconPadding"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "EuroMatrixPlus",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "dl",
+        "dd",
+        "ul",
+        "li",
+        "div",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-one",
+          "name": "td"
+        },
+        {
+          "classes": [
+            "visualPadding"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "portlet"
+          ],
+          "id": "portlet-navigation-tree",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "lastItem",
+            "portletItem"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "navTreeLevel0",
+            "portletNavigationTree"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "navTreeItem",
+            "visualNoMarker"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "contenttype-link",
+            "state-published",
+            "visualIcon"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "state-published",
+            "visualIconPadding"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "EuroMatrixPlus"
+      ]
+    },
+    {
+      "bound": {
+        "height": 1,
+        "left": 1560,
+        "top": 241,
+        "width": 1
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(118, 121, 124)",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(118, 121, 124)",
+        "border-right-color": "rgb(118, 121, 124)",
+        "border-top-color": "rgb(118, 121, 124)",
+        "color": "rgb(118, 121, 124)",
+        "font-size": "12px",
+        "font-weight": "bold",
+        "margin-left": "-1px",
+        "margin-top": "-1px",
+        "outline-color": "rgb(118, 121, 124)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-align": "right",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "hiddenStructure"
+        ],
+        "id": "",
+        "name": "h5"
+      },
+      "html": "Document Actions",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "h5"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentActions"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hiddenStructure"
+          ],
+          "id": "",
+          "name": "h5"
+        }
+      ],
+      "text": [
+        "Document Actions"
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 199,
+        "top": 238,
+        "width": 1378
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(140, 172, 187)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "1px",
+        "border-collapse": "collapse",
+        "font-size": "19px",
+        "margin-bottom": "4px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "documentFirstHeading"
+        ],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "The EuroMatrix Project (Sept. 2006 - Febr. 2009)",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentFirstHeading"
+          ],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "The EuroMatrix Project (Sept. 2006 - Febr. 2009)"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 199,
+        "top": 281,
+        "width": 1378
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "For the follow-up project EuroMatrixPlus (March 2009 - February 2012) please see the <span class=\"link-external\"><a href=\"http://www.euromatrixplus.net\">new Website</a></span><br>",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "plain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "For the follow-up project EuroMatrixPlus (March 2009 - February 2012) please see the ",
+        "new Website"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 199,
+        "top": 304,
+        "width": 1378
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Summary",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "plain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Summary"
+      ]
+    },
+    {
+      "bound": {
+        "height": 90,
+        "left": 199,
+        "top": 327,
+        "width": 1378
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "font-size": "12px",
+        "line-height": "18px",
+        "margin-bottom": "9px",
+        "text-align": "justify",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "EuroMatrix aims at a major push in machine translation (MT) technology applying the most advanced MT technologies systematically to all pairs of EU languages. Special attention is being paid to the languages of the new and near-term prospective member states. As part of this application development, EuroMatrix designs and investigates novel combinations of statistical techniques and linguistic knowledge sources as well as hybrid MT architectures. <br>EuroMatrix addresses urgent European economic and social needs by concentrating on European languages and on high-quality translation to be employed for the publication of technical, social, legal and political documents.<br>EuroMatrix aims at enriching the statistical MT approach with novel learning paradigms and experiment with new combinations of methods and resources from statistical MT, rule-based MT, shallow language processing and computational lexicography/morphology.",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "plain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "EuroMatrix aims at a major push in machine translation (MT) technology applying the most advanced MT technologies systematically to all pairs of EU languages. Special attention is being paid to the languages of the new and near-term prospective member states. As part of this application development, EuroMatrix designs and investigates novel combinations of statistical techniques and linguistic knowledge sources as well as hybrid MT architectures. ",
+        "EuroMatrix addresses urgent European economic and social needs by concentrating on European languages and on high-quality translation to be employed for the publication of technical, social, legal and political documents.",
+        "EuroMatrix aims at enriching the statistical MT approach with novel learning paradigms and experiment with new combinations of methods and resources from statistical MT, rule-based MT, shallow language processing and computational lexicography/morphology."
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 199,
+        "top": 428,
+        "width": 1378
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Project Objectives",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "plain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Project Objectives"
+      ]
+    },
+    {
+      "bound": {
+        "height": 126,
+        "left": 199,
+        "top": 451,
+        "width": 1378
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "font-size": "12px",
+        "line-height": "18px",
+        "margin-bottom": "9px",
+        "text-align": "justify",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "• Translation systems for all pairs of EU languages, with a special focus on the languages of new and near-term prospective member states<br>• Efficient inclusion of linguistic knowledge into statistical machine translation<br>• The development and testing of hybrid architectures for the integration of rule-based and statistical approaches<br>• Organization, analysis and interpretation of a competitive annual international evaluation of machine translation with a strong focus on European economic and social needs<br>• The provision of open source machine translation technology including research tools, software and data<br>• A systematically compiled and constantly updated detailed survey of the state of MT technology for all EU language pairs based on the developed systematic translation between all EU languages, the comparative MT evaluations and an <span class=\"link-external\"><a href=\"http://www.euromatrixplus.net/matrix/\">inventory</a></span> (<em>now hosted by EuroMatrixPlus</em>) of available and needed tools, components, lingware and data.<br>",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "plain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "• Translation systems for all pairs of EU languages, with a special focus on the languages of new and near-term prospective member states",
+        "• Efficient inclusion of linguistic knowledge into statistical machine translation",
+        "• The development and testing of hybrid architectures for the integration of rule-based and statistical approaches",
+        "• Organization, analysis and interpretation of a competitive annual international evaluation of machine translation with a strong focus on European economic and social needs",
+        "• The provision of open source machine translation technology including research tools, software and data",
+        "• A systematically compiled and constantly updated detailed survey of the state of MT technology for all EU language pairs based on the developed systematic translation between all EU languages, the comparative MT evaluations and an ",
+        "inventory",
+        " (",
+        "now hosted by EuroMatrixPlus",
+        ") of available and needed tools, components, lingware and data."
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 199,
+        "top": 588,
+        "width": 1378
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Experienced Project Partners",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "plain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Experienced Project Partners"
+      ]
+    },
+    {
+      "bound": {
+        "height": 36,
+        "left": 199,
+        "top": 611,
+        "width": 1378
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "font-size": "12px",
+        "line-height": "18px",
+        "margin-bottom": "9px",
+        "text-align": "justify",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "EUROMATRIX brings together internationally recognised, highly effective, experienced research groups in machine translation, and several relevant industrial partners. The consortium consists of <span class=\"link-external\"><a href=\"http://www.ed.ac.uk/\">Edinburgh University</a></span>, <span class=\"link-external\"><a href=\"http://www.cuni.cz/index.php?lng=eng\">Charles University</a></span>, <span class=\"link-external\"><a href=\"http://www.uni-saarland.de/en\">Saarland University</a></span>, <span class=\"link-external\"><a href=\"http://www.celct.it/\">CELCT</a></span>, and the two SMEs <span class=\"link-external\"><a href=\"http://www.morphologic.hu/index.php?lang=en\">MorphoLogic</a></span> and <span class=\"link-external\"><a href=\"http://www.group-technologies.com/\">GROUP Technologies AG</a></span>.<br>",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "plain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "EUROMATRIX brings together internationally recognised, highly effective, experienced research groups in machine translation, and several relevant industrial partners. The consortium consists of ",
+        "Edinburgh University",
+        ", ",
+        "Charles University",
+        ", ",
+        "Saarland University",
+        ", ",
+        "CELCT",
+        ", and the two SMEs ",
+        "MorphoLogic",
+        " and ",
+        "GROUP Technologies AG",
+        "."
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 199,
+        "top": 673,
+        "width": 1378
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Project Results",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "plain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Project Results"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 199,
+        "top": 696,
+        "width": 1378
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "font-size": "12px",
+        "line-height": "18px",
+        "margin-bottom": "9px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "Please see the corresponding folders of this website for <a href=\"deliverables/index.html\">deliverables</a>, <a href=\"publications/index.html\">publications</a>, code and other <a href=\"downloads/index.html\">downloadable resources</a>, as well as links to <a href=\"public-demonstration/index.html\">public demonstrators</a> developed in the project.<br>",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "plain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Please see the corresponding folders of this website for ",
+        "deliverables",
+        ", ",
+        "publications",
+        ", code and other ",
+        "downloadable resources",
+        ", as well as links to ",
+        "public demonstrators",
+        " developed in the project."
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 199,
+        "top": 746,
+        "width": 1378
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "margin-bottom": "3px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "h3"
+      },
+      "html": "Acknowledgement",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "h3"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "plain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ],
+      "text": [
+        "Acknowledgement"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 199,
+        "top": 769,
+        "width": 1378
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "font-size": "12px",
+        "line-height": "18px",
+        "margin-bottom": "9px",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "The EUROMATRIX project is funded by the <span class=\"link-external\"><a href=\"http://cordis.europa.eu/ist/\">EU Information Society Technology program</a></span>.",
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "plain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "The EUROMATRIX project is funded by the ",
+        "EU Information Society Technology program",
+        "."
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 0,
+        "top": 940,
+        "width": 1600
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "line-height": "16px",
+        "margin-bottom": "2px",
+        "margin-top": "2px",
+        "text-align": "center",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n    \n    The\n    <a href=\"http://plone.org\">Plone<sup>®</sup> CMS — Open Source Content Management System</a>\n    is\n    ©\n    2000-<span>2012</span>\n    by the\n    <a href=\"http://plone.org/foundation\">Plone Foundation</a>\n    et al.\n    \n",
+      "path": [
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-footer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\n    \n    The\n    ",
+        "Plone",
+        "®",
+        " CMS — Open Source Content Management System",
+        "\n    is\n    ©\n    2000-",
+        "2012",
+        "\n    by the\n    ",
+        "Plone Foundation",
+        "\n    et al.\n    \n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 0,
+        "top": 963,
+        "width": 1600
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "line-height": "16px",
+        "margin-bottom": "2px",
+        "margin-top": "2px",
+        "text-align": "center",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n    \n    Plone<sup>®</sup> and the Plone logo are registered trademarks of the\n        <a href=\"http://plone.org/foundation\">Plone Foundation</a>.\n    \n\n    \n    Distributed under the\n        <a href=\"http://creativecommons.org/licenses/GPL/2.0/\">GNU GPL license</a>.\n    \n",
+      "path": [
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-footer",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\n    \n    Plone",
+        "®",
+        " and the Plone logo are registered trademarks of the\n        ",
+        "Plone Foundation",
+        ".\n    \n\n    \n    Distributed under the\n        ",
+        "GNU GPL license",
+        ".\n    \n"
+      ]
+    },
+    {
+      "bound": {
+        "height": 67,
+        "left": 0,
+        "top": 1009,
+        "width": 1600
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "margin-bottom": "22px",
+        "padding-bottom": "11px",
+        "padding-top": "5px",
+        "text-align": "center",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "portal-colophon",
+        "name": "div"
+      },
+      "html": "\n      \n\n      <a href=\"http://plone.org\" class=\"colophonIcon colophonIconPlone\" title=\"This Plone site was built using Plone CMS, the Open Source Content Management System. Click for more information.\">\n        Powered by Plone CMS, the Open Source Content Management System\n      </a>\n\n      \n\n      <p class=\"discreet\">\n        This site conforms to the following standards:\n      </p>\n\n      <div class=\"colophonWrapper\">\n      <ul>\n    <li>\n      <a href=\"http://www.section508.gov\" class=\"colophonIcon colophonIcon508\" title=\"This Plone site conforms to the US Government Section 508 Accessibility Guidelines.\">\n        Section 508\n      </a>\n    </li>\n    <li>\n      <a href=\"http://www.w3.org/WAI/WCAG1AA-Conformance\" class=\"colophonIcon colophonIconWAI\" title=\"This Plone site conforms to the W3C-WAI Web Content Accessibility Guidelines.\">\n        WCAG\n      </a>\n    </li>\n    <li>\n      <a href=\"http://validator.w3.org/check/referer\" class=\"colophonIcon colophonIconXHTML\" title=\"This Plone site is valid XHTML.\">\n        Valid XHTML\n      </a>\n    </li>\n    <li>\n      <a href=\"http://jigsaw.w3.org/css-validator/check/referer?profile=css3&amp;usermedium=all\" class=\"colophonIcon colophonIconCSS\" title=\"This Plone site was built with valid CSS.\">\n        Valid CSS\n      </a>\n    </li>\n    <li>\n      <a href=\"http://plone.org/browsersupport\" class=\"colophonIcon colophonIconAnyBrowser\" title=\"This Plone site is usable in any web browser.\">\n        Usable in any browser\n      </a>\n    </li>\n      </ul>\n      </div>\n\n    ",
+      "path": [
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-colophon",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "\n        Powered by Plone CMS, the Open Source Content Management System\n      "
+      ]
+    },
+    {
+      "bound": {
+        "height": 14,
+        "left": 1,
+        "top": 1030,
+        "width": 1600
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(118, 121, 124)",
+        "border-left-color": "rgb(118, 121, 124)",
+        "border-right-color": "rgb(118, 121, 124)",
+        "border-top-color": "rgb(118, 121, 124)",
+        "color": "rgb(118, 121, 124)",
+        "font-size": "9px",
+        "line-height": "14px",
+        "margin-bottom": "7px",
+        "outline-color": "rgb(118, 121, 124)",
+        "text-align": "center",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [
+          "discreet"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "\n        This site conforms to the following standards:\n      ",
+      "path": [
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-colophon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "discreet"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "\n        This site conforms to the following standards:\n      "
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 596,
+        "top": 1053,
+        "width": 82
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "display": "table-cell",
+        "font-size": "9px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-left": "2px",
+        "margin-right": "2px",
+        "padding-left": "1px",
+        "padding-right": "1px",
+        "text-align": "center",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n      <a href=\"http://www.section508.gov\" class=\"colophonIcon colophonIcon508\" title=\"This Plone site conforms to the US Government Section 508 Accessibility Guidelines.\">\n        Section 508\n      </a>\n    ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-colophon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "colophonWrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "\n        Section 508\n      "
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 677,
+        "top": 1053,
+        "width": 82
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "display": "table-cell",
+        "font-size": "9px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-left": "2px",
+        "margin-right": "2px",
+        "padding-left": "1px",
+        "padding-right": "1px",
+        "text-align": "center",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n      <a href=\"http://www.w3.org/WAI/WCAG1AA-Conformance\" class=\"colophonIcon colophonIconWAI\" title=\"This Plone site conforms to the W3C-WAI Web Content Accessibility Guidelines.\">\n        WCAG\n      </a>\n    ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-colophon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "colophonWrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "\n        WCAG\n      "
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 760,
+        "top": 1053,
+        "width": 82
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "display": "table-cell",
+        "font-size": "9px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-left": "2px",
+        "margin-right": "2px",
+        "padding-left": "1px",
+        "padding-right": "1px",
+        "text-align": "center",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n      <a href=\"http://validator.w3.org/check/referer\" class=\"colophonIcon colophonIconXHTML\" title=\"This Plone site is valid XHTML.\">\n        Valid XHTML\n      </a>\n    ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-colophon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "colophonWrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "\n        Valid XHTML\n      "
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 842,
+        "top": 1053,
+        "width": 82
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "display": "table-cell",
+        "font-size": "9px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-left": "2px",
+        "margin-right": "2px",
+        "padding-left": "1px",
+        "padding-right": "1px",
+        "text-align": "center",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n      <a href=\"http://jigsaw.w3.org/css-validator/check/referer?profile=css3&amp;usermedium=all\" class=\"colophonIcon colophonIconCSS\" title=\"This Plone site was built with valid CSS.\">\n        Valid CSS\n      </a>\n    ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-colophon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "colophonWrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "\n        Valid CSS\n      "
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 925,
+        "top": 1053,
+        "width": 82
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "display": "table-cell",
+        "font-size": "9px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-left": "2px",
+        "margin-right": "2px",
+        "padding-left": "1px",
+        "padding-right": "1px",
+        "text-align": "center",
+        "unicode-bidi": "normal"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "li"
+      },
+      "html": "\n      <a href=\"http://plone.org/browsersupport\" class=\"colophonIcon colophonIconAnyBrowser\" title=\"This Plone site is usable in any web browser.\">\n        Usable in any browser\n      </a>\n    ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-colophon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "colophonWrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "\n        Usable in any browser\n      "
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 16,
+        "left": 1561,
+        "top": 245,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(67, 105, 118)",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(67, 105, 118)",
+        "border-right-color": "rgb(67, 105, 118)",
+        "border-top-color": "rgb(67, 105, 118)",
+        "color": "rgb(67, 105, 118)",
+        "display": "inline",
+        "font-size": "12px",
+        "line-height": "18px",
+        "list-style-type": "none",
+        "outline-color": "rgb(67, 105, 118)",
+        "text-align": "right",
+        "unicode-bidi": "normal",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [],
+        "id": "icon-print",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentActions"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "icon-print",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.euromatrix.net/print_icon.gif"
+    },
+    {
+      "bound": {
+        "height": 51,
+        "left": 838,
+        "top": 813,
+        "width": 100
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(67, 105, 118)",
+        "border-collapse": "collapse",
+        "border-left-color": "rgb(67, 105, 118)",
+        "border-right-color": "rgb(67, 105, 118)",
+        "border-top-color": "rgb(67, 105, 118)",
+        "color": "rgb(67, 105, 118)",
+        "display": "inline",
+        "font-size": "12px",
+        "outline-color": "rgb(67, 105, 118)",
+        "text-align": "-webkit-center",
+        "unicode-bidi": "normal",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "div",
+        "div",
+        "div",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "visual-portal-wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "portal-columns",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "portal-column-content",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "documentContent"
+          ],
+          "id": "region-content",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "plain"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.euromatrix.net/ist-logo.gif"
+    }
+  ]
+}

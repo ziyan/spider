@@ -1,0 +1,4214 @@
+{
+  "body": {
+    "bound": {
+      "height": 4000,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(255, 255, 255)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(0, 0, 0)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(0, 0, 0)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(0, 0, 0)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(0, 0, 0)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(0, 0, 0)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "Verdana, Arial, Helvetica, sans-serif",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "4000px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "normal",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(0, 0, 0)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [
+    "Rather than just linking to the gallery of photos from my recent trip to Korea , I thought I'd try describing the context for a few of them here. My trip started in Daejeon , a city that grew out of the confluence of two train lines in the early 20th century. Daejeon is also the home of KAIST ,…"
+  ],
+  "titles": [
+    "11011110: Photos from Korea",
+    "Photos from Korea"
+  ],
+  "url": "http://11011110.livejournal.com/210978.html",
+  "links": [
+    "http://www.livejournal.com/shop/diskquota.bml",
+    "http://11011110.livejournal.com/210978.html#",
+    "http://www.livejournal.com/identity/login.bml?type=openid",
+    "http://www.livejournal.com/identity/login.bml?type=google",
+    "http://www.livejournal.com/identity/login.bml?type=mailru",
+    "http://www.livejournal.com/identity/login.bml?type=vkontakte",
+    "http://www.livejournal.com/",
+    "http://www.livejournal.com/",
+    "http://www.livejournal.com/create.bml",
+    "http://www.livejournal.com/search/",
+    "http://www.livejournal.com/interests.bml",
+    "http://www.livejournal.com/schools/",
+    "http://www.livejournal.com/browse/",
+    "http://www.livejournal.com/syn/",
+    "http://www.livejournal.com/radio/",
+    "http://www.livejournal.com/latest",
+    "http://www.livejournal.com/shop/",
+    "http://www.livejournal.com/shop/vgift.bml",
+    "http://www.livejournal.com/shop/theme/",
+    "http://www.livejournal.com/shop/userheads.bml",
+    "http://www.livejournal.com/shop/domain_ru.bml",
+    "http://www.livejournal.com/extra/",
+    "http://www.livejournal.com/devices",
+    "http://www.livejournal.com/chat/",
+    "http://www.livejournal.com/download/",
+    "http://www.livejournal.com/manage/settings/?cat=display",
+    "http://www.livejournal.com/create.bml",
+    "http://www.livejournal.com/lostinfo.bml",
+    "http://www.livejournal.com/identity/login.bml?type=facebook",
+    "http://www.livejournal.com/identity/login.bml?type=twitter",
+    "http://11011110.livejournal.com/210978.html#login-more",
+    "http://11011110.livejournal.com/profile",
+    "http://11011110.livejournal.com/",
+    "http://11011110.livejournal.com/2010/",
+    "http://11011110.livejournal.com/2010/12/",
+    "http://11011110.livejournal.com/2010/12/19/",
+    "http://www.livejournal.com/go.bml?journal=11011110&itemid=210978&dir=prev",
+    "http://11011110.livejournal.com/210978.html#",
+    "http://www.livejournal.com/go.bml?journal=11011110&itemid=210978&dir=next",
+    "http://www.ics.uci.edu/~eppstein/pix/korea/index.html",
+    "http://en.wikipedia.org/wiki/Daejeon",
+    "http://en.wikipedia.org/wiki/KAIST",
+    "http://www.ics.uci.edu/~eppstein/pix/korea/Daejeon1.html",
+    "http://en.wikipedia.org/wiki/Deoksugung",
+    "http://www.ics.uci.edu/~eppstein/pix/korea/Deoksugung1.html",
+    "http://en.wikipedia.org/wiki/Sejong_the_Great",
+    "http://www.ics.uci.edu/~eppstein/pix/korea/Sejong.html",
+    "http://en.wikipedia.org/wiki/Seoul_Plaza",
+    "http://www.ics.uci.edu/~eppstein/pix/korea/SeoulPlaza.html",
+    "http://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor1.html",
+    "http://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor3.html",
+    "http://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor6.html",
+    "http://www.google.com/images?q=korea+graffiti",
+    "http://11011110.livejournal.com/tag/korea",
+    "http://11011110.livejournal.com/tag/landscape",
+    "http://11011110.livejournal.com/tag/photography",
+    "http://11011110.livejournal.com/profile",
+    "http://11011110.livejournal.com/",
+    "http://11011110.livejournal.com/210825.html",
+    "http://11011110.livejournal.com/profile",
+    "http://11011110.livejournal.com/",
+    "http://11011110.livejournal.com/211407.html",
+    "http://11011110.livejournal.com/210978.html?mode=reply#add_comment",
+    "javascript:void(0);",
+    "http://11011110.livejournal.com/210978.html#letidor",
+    "http://11011110.livejournal.com/210978.html#user",
+    "http://11011110.livejournal.com/210978.html#facebook",
+    "http://11011110.livejournal.com/210978.html#twitter",
+    "http://11011110.livejournal.com/210978.html#openid",
+    "http://11011110.livejournal.com/210978.html#google",
+    "http://11011110.livejournal.com/210978.html#mailru",
+    "http://11011110.livejournal.com/210978.html#vkontakte",
+    "http://11011110.livejournal.com/210978.html#anonymous",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "http://www.livejournal.com/support/faq/66.html",
+    "http://www.google.com/intl/en/policies/",
+    "http://www.livejournal.com/support/faq/46.html",
+    "http://11011110.livejournal.com/210978.html?mode=reply#add_comment",
+    "http://www.youtube.com/watch?v=-LMebrVm-uU",
+    "http://rutube.ru/video/70c4508fead154868d5cf5207109169a",
+    "http://vimeo.com/59545564",
+    "http://vine.co/v/bjHh0zHdgZT",
+    "http://instagram.com/p/ayfd2QSm29/"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 45,
+        "left": 18,
+        "top": 15,
+        "width": 220
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgba(0, 0, 0, 0)",
+        "border-left-color": "rgba(0, 0, 0, 0)",
+        "border-right-color": "rgba(0, 0, 0, 0)",
+        "border-top-color": "rgba(0, 0, 0, 0)",
+        "color": "rgba(0, 0, 0, 0)",
+        "font-family": "a",
+        "font-size": "0px",
+        "line-height": "0px",
+        "outline-color": "rgba(0, 0, 0, 0)",
+        "text-decoration": "underline"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "\n\t\t\t\t\t\tLiveJournal\n\t\t\t\t\t",
+      "path": [
+        "div",
+        "header",
+        "p",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "s-logo"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "\n\t\t\t\t\t\tLiveJournal\n\t\t\t\t\t"
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 27,
+        "top": 73,
+        "width": 50
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "float": "left",
+        "font-family": "Arial, Verdana, Helvetica, sans-serif",
+        "font-weight": "bold",
+        "line-height": "27px",
+        "list-style-type": "none",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "7px",
+        "padding-right": "7px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "s-navmenu-rootlink"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<span>Home</span>",
+      "path": [
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "s-navbar",
+            "s-show-local-menu"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "s-navmenu"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "horizon-menu-home",
+            "s-navmenu-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "s-navmenu-rootlink"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Home"
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 79,
+        "top": 73,
+        "width": 125
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "float": "left",
+        "font-family": "Arial, Verdana, Helvetica, sans-serif",
+        "font-weight": "bold",
+        "line-height": "27px",
+        "list-style-type": "none",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "7px",
+        "padding-right": "7px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "s-navmenu-rootlink"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Create an account",
+      "path": [
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "s-navbar",
+            "s-show-local-menu"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "s-navmenu"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "horizon-menu-create",
+            "s-navmenu-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "s-navmenu-rootlink"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Create an account"
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 206,
+        "top": 73,
+        "width": 62
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "float": "left",
+        "font-family": "Arial, Verdana, Helvetica, sans-serif",
+        "font-weight": "bold",
+        "line-height": "27px",
+        "list-style-type": "none",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "7px",
+        "padding-right": "7px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "s-navmenu-rootlink"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Explore",
+      "path": [
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "s-navbar",
+            "s-show-local-menu"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "s-navmenu"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "horizon-menu-explore",
+            "s-navmenu-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "s-navmenu-rootlink"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Explore"
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 270,
+        "top": 73,
+        "width": 47
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "float": "left",
+        "font-family": "Arial, Verdana, Helvetica, sans-serif",
+        "font-weight": "bold",
+        "line-height": "27px",
+        "list-style-type": "none",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "7px",
+        "padding-right": "7px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "s-navmenu-rootlink"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Shop",
+      "path": [
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "s-navbar",
+            "s-show-local-menu"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "s-navmenu"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "horizon-menu-shop",
+            "s-navmenu-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "s-navmenu-rootlink"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Shop"
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 319,
+        "top": 73,
+        "width": 72
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "float": "left",
+        "font-family": "Arial, Verdana, Helvetica, sans-serif",
+        "font-weight": "bold",
+        "line-height": "27px",
+        "list-style-type": "none",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "7px",
+        "padding-right": "7px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "s-navmenu-rootlink"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "LJ Extras",
+      "path": [
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "s-navbar",
+            "s-show-local-menu"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "s-navmenu"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "horizon-menu-apps",
+            "s-navmenu-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "s-navmenu-rootlink"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "LJ Extras"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 1193,
+        "top": 70,
+        "width": 186
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "table-cell",
+        "font-size": "11px",
+        "margin-left": "40px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "dd"
+      },
+      "html": "<label><input type=\"checkbox\" name=\"remember_me\" value=\"1\" tabindex=\"4\"> Remember Me</label>",
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "dl",
+        "dd"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-lj"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-lj-remember"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "dd"
+        }
+      ],
+      "text": [
+        " Remember Me"
+      ]
+    },
+    {
+      "bound": {
+        "height": 13,
+        "left": 1193,
+        "top": 87,
+        "width": 186
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 102, 153)",
+        "border-left-color": "rgb(51, 102, 153)",
+        "border-right-color": "rgb(51, 102, 153)",
+        "border-top-color": "rgb(51, 102, 153)",
+        "color": "rgb(51, 102, 153)",
+        "font-size": "11px",
+        "outline-color": "rgb(51, 102, 153)",
+        "text-align": "left",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "ul"
+      },
+      "html": "\n\t\t\t\t\t\t\t\t\t\t<li>English</li>\n\t\t\t\t\t\t\t\t\t\t<li>Español</li>\n\t\t\t\t\t\t\t\t\t\t<li>Deutsch</li>\n\t\t\t\t\t\t\t\t\t\t<li>Русский…</li>\n\t\t\t\t\t\t\t\t\t",
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "dl",
+        "dd",
+        "a",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-lj"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-langs"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        "English",
+        "Español",
+        "Deutsch",
+        "Русский…"
+      ]
+    },
+    {
+      "bound": {
+        "height": 13,
+        "left": 1403,
+        "top": 15,
+        "width": 177
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "11px",
+        "margin-bottom": "2px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "s-login-option"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a href=\"http://www.livejournal.com/create.bml\">Create an Account</a>",
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-options"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-option"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Create an Account"
+      ]
+    },
+    {
+      "bound": {
+        "height": 13,
+        "left": 1403,
+        "top": 32,
+        "width": 177
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "11px",
+        "margin-bottom": "2px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "s-login-option"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a href=\"http://www.livejournal.com/lostinfo.bml\">Forgot your login or password?</a>",
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-options"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-option"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Forgot your login or password?"
+      ]
+    },
+    {
+      "bound": {
+        "height": 42,
+        "left": 25,
+        "top": 110,
+        "width": 1550
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-author-userinfo"
+        ],
+        "id": "",
+        "name": "dd"
+      },
+      "html": " 0xDE (<span class=\"ljuser  i-ljuser     \" lj:user=\"11011110\"><a href=\"http://11011110.livejournal.com/profile\"><img width=\"16\" height=\"16\" class=\"i-ljuser-userhead\" src=\"http://l-stat.livejournal.com/img/userinfo.gif?v=17080?v=110.2\"></a><a href=\"http://11011110.livejournal.com/\" class=\"i-ljuser-username\"><b>11011110</b></a></span>) wrote,<br> <span class=\"b-singlepost-author-date\"><a href=\"http://11011110.livejournal.com/2010/\">2010</a>-<a href=\"http://11011110.livejournal.com/2010/12/\">12</a>-<a href=\"http://11011110.livejournal.com/2010/12/19/\">19</a> 12:55:00</span> ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "dl",
+        "dd"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-about"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-author"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "b-singlepost-author-userinfo"
+          ],
+          "id": "",
+          "name": "dd"
+        }
+      ],
+      "text": [
+        " 0xDE (",
+        "11011110",
+        ") wrote,",
+        "2010",
+        "-",
+        "12",
+        "-",
+        "19",
+        " 12:55:00"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 756,
+        "top": 233,
+        "width": 24
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "cursor": "pointer",
+        "display": "inline-block",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "15px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "position": "relative",
+        "text-align": "center",
+        "text-decoration": "underline",
+        "text-indent": "30px"
+      },
+      "element": {
+        "classes": [
+          "b-controls",
+          "b-controls-prev"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<i class=\"b-controls-bg\"></i>Previous",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-about"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-standout"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-linkbar",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-linkbar-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-controls",
+            "b-controls-prev"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Previous"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 789,
+        "top": 233,
+        "width": 24
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "cursor": "pointer",
+        "display": "inline-block",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "15px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "position": "relative",
+        "text-align": "center",
+        "text-decoration": "underline",
+        "text-indent": "30px"
+      },
+      "element": {
+        "classes": [
+          "b-controls",
+          "b-controls-share",
+          "js-lj-share"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "\n                <i class=\"b-controls-bg\"></i>Share\n            ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-about"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-standout"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-linkbar",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-linkbar-item",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-controls",
+            "b-controls-share",
+            "js-lj-share"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Share\n            "
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 822,
+        "top": 233,
+        "width": 24
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "cursor": "pointer",
+        "display": "inline-block",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "15px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "position": "relative",
+        "text-align": "center",
+        "text-decoration": "underline",
+        "text-indent": "30px"
+      },
+      "element": {
+        "classes": [
+          "b-controls",
+          "b-controls-next"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<i class=\"b-controls-bg\"></i>Next",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-about"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-standout"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-linkbar",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-linkbar-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-controls",
+            "b-controls-next"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Next"
+      ]
+    },
+    {
+      "bound": {
+        "height": 36,
+        "left": 25,
+        "top": 282,
+        "width": 1550
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, Verdana, Helvetica, sans-serif",
+        "font-size": "30px",
+        "font-weight": "bold",
+        "line-height": "36px",
+        "margin-bottom": "15px",
+        "margin-top": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-title"
+        ],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "     Photos from Korea  ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-title"
+          ],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "     Photos from Korea  "
+      ]
+    },
+    {
+      "bound": {
+        "height": 4465,
+        "left": 25,
+        "top": 335,
+        "width": 1550
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "margin-bottom": "19px",
+        "margin-top": "10px",
+        "position": "relative",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-body"
+        ],
+        "id": "",
+        "name": "article"
+      },
+      "html": " Rather than just linking to the gallery of <a href=\"http://www.ics.uci.edu/~eppstein/pix/korea/index.html\">photos from my recent trip to Korea</a>, I thought I'd try describing the context for a few of them here.<br><br><a name=\"cutid1\"></a>My trip started in <a href=\"http://en.wikipedia.org/wiki/Daejeon\">Daejeon</a>, a city that grew out of the confluence of two train lines in the early 20th century. Daejeon is also the home of <a href=\"http://en.wikipedia.org/wiki/KAIST\">KAIST</a>, where I gave a departmental colloquium. Unfortunately the weather didn't cooperate so I didn't get to see much of the city except for the view from my hotel. Something about the juxtaposition of large and small scale buildings, and the utilitarian shapes of the buildings, gave the cityscape an appearance that I found intriguingly cluttered.<br><br><div align=\"center\"><a href=\"http://www.ics.uci.edu/~eppstein/pix/korea/Daejeon1.html\"><img src=\"http://www.ics.uci.edu/~eppstein/pix/korea/Daejeon1-m.jpg\" border=\"2\" style=\"border-color:black;\"></a></div><br><br>To get from Daejeon to Jeju, where ISAAC was being held, I needed to take the Daejeon subway to the train station, the train from Daejeon to Seoul, the Seoul subway to Gimpo airport, and then a plane to Jeju (it seems that almost all flights from Gimpo now go to Jeju, since the rest of Korea can now be reached quickly by train and most of the international traffic to Seoul goes through the other airport, Incheon). But between my arrival in Seoul and my flight, there was time for a couple of hours of sightseeing, which included a visit to <a href=\"http://en.wikipedia.org/wiki/Deoksugung\">Deoksugung</a>, one of the former royal palaces. What struck me here was the contrast between the serenity of the palace site and the surrounding big city.<br><br><div align=\"center\"><a href=\"http://www.ics.uci.edu/~eppstein/pix/korea/Deoksugung1.html\"><img src=\"http://www.ics.uci.edu/~eppstein/pix/korea/Deoksugung1-m.jpg\" border=\"2\" style=\"border-color:black;\"></a></div><br><br>The palace grounds also feature a large statue of <a href=\"http://en.wikipedia.org/wiki/Sejong_the_Great\">Sejong</a>, possibly the greatest of the Korean kings, who was responsible for the creation of the highly-logical Korean alphabet. I saw several other statues of heroic historic Koreans in other parts of the city but didn't get the story behind them; on one of my later flights, I read about a statue of a famous admiral, now being removed for restoration, that is quite controversial because of some of the historical detail about his armor and pose that it gets wrong.<br><br><div align=\"center\"><a href=\"http://www.ics.uci.edu/~eppstein/pix/korea/Sejong.html\"><img src=\"http://www.ics.uci.edu/~eppstein/pix/korea/Sejong-m.jpg\" border=\"2\" style=\"border-color:black;\"></a></div><br><br><a href=\"http://en.wikipedia.org/wiki/Seoul_Plaza\">Seoul Plaza</a>, near the palace, was in the process of being turned into an ice skating rink for the winter. Apparently after the Korean Olympic success in figure skating, skating has become much more popular. A nearby building was being renovated and the temporary wall around it was decorated with a large graphic design made of postcards.<br><br><div align=\"center\"><a href=\"http://www.ics.uci.edu/~eppstein/pix/korea/SeoulPlaza.html\"><img src=\"http://www.ics.uci.edu/~eppstein/pix/korea/SeoulPlaza-m.jpg\" border=\"2\" style=\"border-color:black;\"></a></div><br><br>I found some time while in Jeju to get away from the conference and visit the marketplace (mostly dominated by stalls full of dried fish), which I found quite picturesque, but the light did not cooperate for photography. On the day after the conference, before my flight home, it was sunny and I took another walk out to the harbor area of the town. The harbor is a working fishing area, not really set up to look pretty for the tourists, but there are some nice towers marking its entrance.<br><br><div align=\"center\"><a href=\"http://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor1.html\"><img src=\"http://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor1-m.jpg\" border=\"2\" style=\"border-color:black;\"></a></div><br><br>The fishing boats are all set up with long chains of electric lights, which I guess attract the fish to the surface at night.<br><br><div align=\"center\"><a href=\"http://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor3.html\"><img src=\"http://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor3-m.jpg\" border=\"2\" style=\"border-color:black;\"></a></div><br><br>This is also where they dry some of the fish, although not on a large enough scale to supply all of the stalls at the market.<br><br><div align=\"center\"><a href=\"http://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor6.html\"><img src=\"http://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor6-m.jpg\" border=\"2\" style=\"border-color:black;\"></a></div><br><br>Notable for its omission: my usual complement of graffiti photos. From what I could tell, Korea does not have graffiti. <a href=\"http://www.google.com/images?q=korea+graffiti\">Google disagrees</a>, but at least, I didn't see any.<a name=\"cutid1-end\"></a> ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "article"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-body"
+          ],
+          "id": "",
+          "name": "article"
+        }
+      ],
+      "text": [
+        " Rather than just linking to the gallery of ",
+        "photos from my recent trip to Korea",
+        ", I thought I'd try describing the context for a few of them here.",
+        "My trip started in ",
+        "Daejeon",
+        ", a city that grew out of the confluence of two train lines in the early 20th century. Daejeon is also the home of ",
+        "KAIST",
+        ", where I gave a departmental colloquium. Unfortunately the weather didn't cooperate so I didn't get to see much of the city except for the view from my hotel. Something about the juxtaposition of large and small scale buildings, and the utilitarian shapes of the buildings, gave the cityscape an appearance that I found intriguingly cluttered.",
+        "To get from Daejeon to Jeju, where ISAAC was being held, I needed to take the Daejeon subway to the train station, the train from Daejeon to Seoul, the Seoul subway to Gimpo airport, and then a plane to Jeju (it seems that almost all flights from Gimpo now go to Jeju, since the rest of Korea can now be reached quickly by train and most of the international traffic to Seoul goes through the other airport, Incheon). But between my arrival in Seoul and my flight, there was time for a couple of hours of sightseeing, which included a visit to ",
+        "Deoksugung",
+        ", one of the former royal palaces. What struck me here was the contrast between the serenity of the palace site and the surrounding big city.",
+        "The palace grounds also feature a large statue of ",
+        "Sejong",
+        ", possibly the greatest of the Korean kings, who was responsible for the creation of the highly-logical Korean alphabet. I saw several other statues of heroic historic Koreans in other parts of the city but didn't get the story behind them; on one of my later flights, I read about a statue of a famous admiral, now being removed for restoration, that is quite controversial because of some of the historical detail about his armor and pose that it gets wrong.",
+        "Seoul Plaza",
+        ", near the palace, was in the process of being turned into an ice skating rink for the winter. Apparently after the Korean Olympic success in figure skating, skating has become much more popular. A nearby building was being renovated and the temporary wall around it was decorated with a large graphic design made of postcards.",
+        "I found some time while in Jeju to get away from the conference and visit the marketplace (mostly dominated by stalls full of dried fish), which I found quite picturesque, but the light did not cooperate for photography. On the day after the conference, before my flight home, it was sunny and I took another walk out to the harbor area of the town. The harbor is a working fishing area, not really set up to look pretty for the tourists, but there are some nice towers marking its entrance.",
+        "The fishing boats are all set up with long chains of electric lights, which I guess attract the fish to the surface at night.",
+        "This is also where they dry some of the fish, although not on a large enough scale to supply all of the stalls at the market.",
+        "Notable for its omission: my usual complement of graffiti photos. From what I could tell, Korea does not have graffiti. ",
+        "Google disagrees",
+        ", but at least, I didn't see any."
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 25,
+        "top": 4842,
+        "width": 1550
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-tags",
+          "ljtags"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": " <strong>Tags:</strong> <a href=\"http://11011110.livejournal.com/tag/korea\">korea</a>, <a href=\"http://11011110.livejournal.com/tag/landscape\">landscape</a>, <a href=\"http://11011110.livejournal.com/tag/photography\">photography</a> ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-tags",
+            "ljtags"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Tags:",
+        "korea",
+        ", ",
+        "landscape",
+        ", ",
+        "photography"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 1630,
+        "top": 3897,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "cursor": "col-resize",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "font-size": "14px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "position": "relative",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-prevnext-item",
+          "b-singlepost-prevnext-prev"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": " <span class=\"b-singlepost-prevnext-author\"><span class=\"ljuser  i-ljuser     \" lj:user=\"11011110\"><a href=\"http://11011110.livejournal.com/profile\"><img width=\"16\" height=\"16\" class=\"i-ljuser-userhead\" src=\"http://l-stat.livejournal.com/img/userinfo.gif?v=17080?v=110.2\"></a><a href=\"http://11011110.livejournal.com/\" class=\"i-ljuser-username\"><b>11011110</b></a></span>:</span> <a href=\"http://11011110.livejournal.com/210825.html\" class=\"b-singlepost-prevnext-link\" title=\"Report from ISAAC\"><span class=\"b-singlepost-prevnext-arrow\">←</span><span class=\"b-singlepost-prevnext-inner\">Report from ISAAC</span></a> ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-prev"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "11011110",
+        ":"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1606,
+        "top": 3910,
+        "width": 21
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "font-family": "Times, serif",
+        "font-size": "21px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "position": "absolute",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-prevnext-arrow"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "←",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-prev"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-link"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-arrow"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "←"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1631,
+        "top": 3912,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "14px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-align": "left",
+        "text-overflow": "ellipsis",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-prevnext-inner"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Report from ISAAC",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-prev"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-link"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-inner"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Report from ISAAC"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 1630,
+        "top": 3935,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "cursor": "col-resize",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "font-size": "14px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-top": "6px",
+        "position": "relative",
+        "text-align": "right"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-prevnext-item",
+          "b-singlepost-prevnext-next"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": " <span class=\"b-singlepost-prevnext-author\"><span class=\"ljuser  i-ljuser     \" lj:user=\"11011110\"><a href=\"http://11011110.livejournal.com/profile\"><img width=\"16\" height=\"16\" class=\"i-ljuser-userhead\" src=\"http://l-stat.livejournal.com/img/userinfo.gif?v=17080?v=110.2\"></a><a href=\"http://11011110.livejournal.com/\" class=\"i-ljuser-username\"><b>11011110</b></a></span>:</span> <a href=\"http://11011110.livejournal.com/211407.html\" class=\"b-singlepost-prevnext-link\" title=\"Multiterminal planar flow\"><span class=\"b-singlepost-prevnext-arrow\">→</span><span class=\"b-singlepost-prevnext-inner\">Multiterminal planar flow</span></a> ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-next"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "11011110",
+        ":"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1835,
+        "top": 3948,
+        "width": 21
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "font-family": "Times, serif",
+        "font-size": "21px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "position": "absolute",
+        "text-align": "right"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-prevnext-arrow"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "→",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-next"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-link"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-arrow"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "→"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1631,
+        "top": 3950,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "14px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-align": "right",
+        "text-overflow": "ellipsis",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-prevnext-inner"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Multiterminal planar flow",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-next"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-link"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-inner"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Multiterminal planar flow"
+      ]
+    },
+    {
+      "bound": {
+        "height": 34,
+        "left": 25,
+        "top": 4937,
+        "width": 199
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline-block",
+        "font-family": "Arial, sans-serif",
+        "font-size": "17px",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "padding-left": "30px",
+        "padding-right": "12px",
+        "position": "relative",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-addcomment"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<span class=\"b-addcomment-inner\"><i class=\"b-addcomment-icon\"></i>Post a new comment</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-grove",
+            "b-grove-3comments",
+            "ljtimes-disabled"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-xylem",
+            "b-xylem-first"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-xylem-cells"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-xylem-cell",
+            "b-xylem-cell-add"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-addcomment"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Post a new comment"
+      ]
+    },
+    {
+      "bound": {
+        "height": 34,
+        "left": 490,
+        "top": 4937,
+        "width": 620
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "float": "left",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [
+          "b-xylem-cell",
+          "b-xylem-cell-amount"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "   <span class=\"js-amount\">  0 comments  </span>   ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-grove",
+            "b-grove-3comments",
+            "ljtimes-disabled"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-xylem",
+            "b-xylem-first"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-xylem-cells"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-xylem-cell",
+            "b-xylem-cell-amount"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "  0 comments  "
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 370,
+        "top": 5044,
+        "width": 860
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "11px",
+        "padding-bottom": "5px",
+        "padding-left": "5px",
+        "padding-right": "5px",
+        "padding-top": "5px",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [
+          "s-footer-copyright"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "Copyright © 1999 LiveJournal, Inc.  All rights reserved.",
+      "path": [
+        "footer",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-footer",
+            "s-footer-lite"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "s-footer-nav-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-footer-copyright"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Copyright © 1999 LiveJournal, Inc.  All rights reserved."
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 16,
+        "left": 1401,
+        "top": 55,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 102, 153)",
+        "border-left-color": "rgb(51, 102, 153)",
+        "border-right-color": "rgb(51, 102, 153)",
+        "border-top-color": "rgb(51, 102, 153)",
+        "color": "rgb(51, 102, 153)",
+        "display": "inline",
+        "font-size": "11px",
+        "outline-color": "rgb(51, 102, 153)",
+        "text-align": "left",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "p",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-options"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-more"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "i-auth"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/icons/facebook-16.png?v=29916"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1421,
+        "top": 55,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 102, 153)",
+        "border-left-color": "rgb(51, 102, 153)",
+        "border-right-color": "rgb(51, 102, 153)",
+        "border-top-color": "rgb(51, 102, 153)",
+        "color": "rgb(51, 102, 153)",
+        "display": "inline",
+        "font-size": "11px",
+        "outline-color": "rgb(51, 102, 153)",
+        "text-align": "left",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "p",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-options"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-more"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "i-auth"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/icons/twitter-16.png?v=29916"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1441,
+        "top": 55,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 102, 153)",
+        "border-left-color": "rgb(51, 102, 153)",
+        "border-right-color": "rgb(51, 102, 153)",
+        "border-top-color": "rgb(51, 102, 153)",
+        "color": "rgb(51, 102, 153)",
+        "display": "inline",
+        "font-size": "11px",
+        "outline-color": "rgb(51, 102, 153)",
+        "text-align": "left",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "p",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-options"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-more"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "i-auth",
+            "i-loginpopup-show"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/icons/showmore.gif?v=11430"
+    },
+    {
+      "bound": {
+        "height": 100,
+        "left": 25,
+        "top": 110,
+        "width": 100
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "text-align": "left",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "dl",
+        "dt",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-about"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-author"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "b-singlepost-author-userpic"
+          ],
+          "id": "",
+          "name": "dt"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-userpic.livejournal.com/32525224/7784841"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 189,
+        "top": 114,
+        "width": 17
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "outline-color": "rgb(0, 81, 183)",
+        "padding-right": "1px",
+        "text-align": "left",
+        "vertical-align": "text-bottom",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "i-ljuser-userhead"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "dl",
+        "dd",
+        "span",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-about"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-author"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "b-singlepost-author-userinfo"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "i-ljuser",
+            "ljuser"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "i-ljuser-userhead"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/userinfo.gif?v=17080?v=110.2"
+    },
+    {
+      "bound": {
+        "height": 452,
+        "left": 463,
+        "top": 462,
+        "width": 676
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "2px",
+        "border-left-style": "solid",
+        "border-left-width": "2px",
+        "border-right-style": "solid",
+        "border-right-width": "2px",
+        "border-top-style": "solid",
+        "border-top-width": "2px",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "max-width": "100%",
+        "outline-color": "rgb(0, 81, 183)",
+        "text-align": "-webkit-center"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "article",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-body"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.ics.uci.edu/~eppstein/pix/korea/Daejeon1-m.jpg"
+    },
+    {
+      "bound": {
+        "height": 675,
+        "left": 575,
+        "top": 1045,
+        "width": 452
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "2px",
+        "border-left-style": "solid",
+        "border-left-width": "2px",
+        "border-right-style": "solid",
+        "border-right-width": "2px",
+        "border-top-style": "solid",
+        "border-top-width": "2px",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "max-width": "100%",
+        "outline-color": "rgb(0, 81, 183)",
+        "text-align": "-webkit-center"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "article",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-body"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.ics.uci.edu/~eppstein/pix/korea/Deoksugung1-m.jpg"
+    },
+    {
+      "bound": {
+        "height": 452,
+        "left": 463,
+        "top": 1851,
+        "width": 676
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "2px",
+        "border-left-style": "solid",
+        "border-left-width": "2px",
+        "border-right-style": "solid",
+        "border-right-width": "2px",
+        "border-top-style": "solid",
+        "border-top-width": "2px",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "max-width": "100%",
+        "outline-color": "rgb(0, 81, 183)",
+        "text-align": "-webkit-center"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "article",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-body"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.ics.uci.edu/~eppstein/pix/korea/Sejong-m.jpg"
+    },
+    {
+      "bound": {
+        "height": 452,
+        "left": 463,
+        "top": 2413,
+        "width": 676
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "2px",
+        "border-left-style": "solid",
+        "border-left-width": "2px",
+        "border-right-style": "solid",
+        "border-right-width": "2px",
+        "border-top-style": "solid",
+        "border-top-width": "2px",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "max-width": "100%",
+        "outline-color": "rgb(0, 81, 183)",
+        "text-align": "-webkit-center"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "article",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-body"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.ics.uci.edu/~eppstein/pix/korea/SeoulPlaza-m.jpg"
+    },
+    {
+      "bound": {
+        "height": 452,
+        "left": 463,
+        "top": 2996,
+        "width": 676
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "2px",
+        "border-left-style": "solid",
+        "border-left-width": "2px",
+        "border-right-style": "solid",
+        "border-right-width": "2px",
+        "border-top-style": "solid",
+        "border-top-width": "2px",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "max-width": "100%",
+        "outline-color": "rgb(0, 81, 183)",
+        "text-align": "-webkit-center"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "article",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-body"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor1-m.jpg"
+    },
+    {
+      "bound": {
+        "height": 452,
+        "left": 463,
+        "top": 3537,
+        "width": 676
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "2px",
+        "border-left-style": "solid",
+        "border-left-width": "2px",
+        "border-right-style": "solid",
+        "border-right-width": "2px",
+        "border-top-style": "solid",
+        "border-top-width": "2px",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "max-width": "100%",
+        "outline-color": "rgb(0, 81, 183)",
+        "text-align": "-webkit-center"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "article",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-body"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor3-m.jpg"
+    },
+    {
+      "bound": {
+        "height": 676,
+        "left": 575,
+        "top": 4078,
+        "width": 452
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-style": "solid",
+        "border-bottom-width": "2px",
+        "border-left-style": "solid",
+        "border-left-width": "2px",
+        "border-right-style": "solid",
+        "border-right-width": "2px",
+        "border-top-style": "solid",
+        "border-top-width": "2px",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "max-width": "100%",
+        "outline-color": "rgb(0, 81, 183)",
+        "text-align": "-webkit-center"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "article",
+        "div",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-body"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.ics.uci.edu/~eppstein/pix/korea/JejuHarbor6-m.jpg"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1631,
+        "top": 3890,
+        "width": 17
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "14px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "padding-right": "1px",
+        "text-align": "left",
+        "vertical-align": "text-bottom",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "i-ljuser-userhead"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "span",
+        "span",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-prev"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-author"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "i-ljuser",
+            "ljuser"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "i-ljuser-userhead"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/userinfo.gif?v=17080?v=110.2"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1744,
+        "top": 3932,
+        "width": 17
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "14px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "padding-right": "1px",
+        "text-align": "right",
+        "vertical-align": "text-bottom",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "i-ljuser-userhead"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "span",
+        "span",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-next"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-author"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "i-ljuser",
+            "ljuser"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "i-ljuser-userhead"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/userinfo.gif?v=17080?v=110.2"
+    },
+    {
+      "bound": {
+        "height": 1,
+        "left": 0,
+        "top": 5074,
+        "width": 1
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "font-size": "0px",
+        "line-height": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "hello-world",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://xc3.services.livejournal.com/ljcounter?d=srv:bil1-ws45,r:0,j:7784841,uri:%22%2F210978.html%22,ref:%22https:%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D13%26ved%3D0CEkQFjAM%26url%3Dhttp%253A%252F%252F11011110.livejournal.com%252F210978.html%26ei%3DAhqlUqHSGIrqoASI5YLoBQ%26usg%3DAFQjCNF3iEDYT2J8a79JkP8091ekXa27gg%26sig2%3DhjqFZl0P2csm_GJ_OLGg1A%26bvm%3Dbv.57752919,d.cGU%22,vig:0,extra:AHbJiQB2yYkAAzgi"
+    }
+  ]
+}

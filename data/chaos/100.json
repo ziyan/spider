@@ -1,0 +1,4591 @@
+{
+  "body": {
+    "bound": {
+      "height": 4000,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(255, 255, 255)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(0, 0, 0)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(0, 0, 0)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(0, 0, 0)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(0, 0, 0)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(0, 0, 0)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "Verdana, Arial, Helvetica, sans-serif",
+      "font-size": "13px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "4000px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "normal",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "disc",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(0, 0, 0)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "static",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [
+    "I've spent most of the past week in Korea, for the 21st International Symposium on Algorithms and Computation (ISAAC). Somehow I had the impression of Korea in December as being a very cold place, but although I needed to bundle up a little for a day of sightseeing in Seoul (and although we were…"
+  ],
+  "titles": [
+    "11011110: Report from ISAAC",
+    "Report from ISAAC"
+  ],
+  "url": "http://11011110.livejournal.com/210825.html",
+  "links": [
+    "http://www.livejournal.com/shop/diskquota.bml",
+    "http://11011110.livejournal.com/210825.html#",
+    "http://www.livejournal.com/identity/login.bml?type=openid",
+    "http://www.livejournal.com/identity/login.bml?type=google",
+    "http://www.livejournal.com/identity/login.bml?type=mailru",
+    "http://www.livejournal.com/identity/login.bml?type=vkontakte",
+    "http://www.livejournal.com/",
+    "http://www.livejournal.com/",
+    "http://www.livejournal.com/create.bml",
+    "http://www.livejournal.com/search/",
+    "http://www.livejournal.com/interests.bml",
+    "http://www.livejournal.com/schools/",
+    "http://www.livejournal.com/browse/",
+    "http://www.livejournal.com/syn/",
+    "http://www.livejournal.com/radio/",
+    "http://www.livejournal.com/latest",
+    "http://www.livejournal.com/shop/",
+    "http://www.livejournal.com/shop/vgift.bml",
+    "http://www.livejournal.com/shop/theme/",
+    "http://www.livejournal.com/shop/userheads.bml",
+    "http://www.livejournal.com/shop/domain_ru.bml",
+    "http://www.livejournal.com/extra/",
+    "http://www.livejournal.com/devices",
+    "http://www.livejournal.com/chat/",
+    "http://www.livejournal.com/download/",
+    "http://www.livejournal.com/manage/settings/?cat=display",
+    "http://www.livejournal.com/create.bml",
+    "http://www.livejournal.com/lostinfo.bml",
+    "http://www.livejournal.com/identity/login.bml?type=facebook",
+    "http://www.livejournal.com/identity/login.bml?type=twitter",
+    "http://11011110.livejournal.com/210825.html#login-more",
+    "http://11011110.livejournal.com/profile",
+    "http://11011110.livejournal.com/",
+    "http://11011110.livejournal.com/2010/",
+    "http://11011110.livejournal.com/2010/12/",
+    "http://11011110.livejournal.com/2010/12/17/",
+    "http://www.livejournal.com/go.bml?journal=11011110&itemid=210825&dir=prev",
+    "http://11011110.livejournal.com/210825.html#",
+    "http://www.livejournal.com/go.bml?journal=11011110&itemid=210825&dir=next",
+    "http://dx.doi.org/10.1007/978-3-642-17517-6_9",
+    "http://dx.doi.org/10.1007/978-3-642-17514-5_8",
+    "http://dx.doi.org/10.1007/978-3-642-17514-5_22",
+    "http://11011110.livejournal.com/199437.html",
+    "http://11011110.livejournal.com/200285.html",
+    "http://11011110.livejournal.com/199317.html",
+    "http://11011110.livejournal.com/tag/conferences",
+    "http://11011110.livejournal.com/tag/korea",
+    "http://11011110.livejournal.com/tag/talks",
+    "http://11011110.livejournal.com/profile",
+    "http://11011110.livejournal.com/",
+    "http://11011110.livejournal.com/210592.html",
+    "http://11011110.livejournal.com/profile",
+    "http://11011110.livejournal.com/",
+    "http://11011110.livejournal.com/210978.html",
+    "http://11011110.livejournal.com/210825.html?mode=reply#add_comment",
+    "javascript:void(0);",
+    "http://11011110.livejournal.com/210825.html#letidor",
+    "http://11011110.livejournal.com/210825.html#user",
+    "http://11011110.livejournal.com/210825.html#facebook",
+    "http://11011110.livejournal.com/210825.html#twitter",
+    "http://11011110.livejournal.com/210825.html#openid",
+    "http://11011110.livejournal.com/210825.html#google",
+    "http://11011110.livejournal.com/210825.html#mailru",
+    "http://11011110.livejournal.com/210825.html#vkontakte",
+    "http://11011110.livejournal.com/210825.html#anonymous",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "javascript:void(0);",
+    "http://www.livejournal.com/support/faq/66.html",
+    "http://www.livejournal.com/support/faq/46.html",
+    "http://11011110.livejournal.com/210825.html?thread=580745#t580745",
+    "http://11011110.livejournal.com/210825.html?thread=580745#t580745",
+    "http://11011110.livejournal.com/210825.html?thread=580745#t580745",
+    "http://11011110.livejournal.com/210825.html?replyto=580745",
+    "http://11011110.livejournal.com/210825.html?mode=reply#add_comment",
+    "http://www.youtube.com/watch?v=-LMebrVm-uU",
+    "http://rutube.ru/video/70c4508fead154868d5cf5207109169a",
+    "http://vimeo.com/59545564",
+    "http://vine.co/v/bjHh0zHdgZT",
+    "http://instagram.com/p/ayfd2QSm29/"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 45,
+        "left": 18,
+        "top": 15,
+        "width": 220
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgba(0, 0, 0, 0)",
+        "border-left-color": "rgba(0, 0, 0, 0)",
+        "border-right-color": "rgba(0, 0, 0, 0)",
+        "border-top-color": "rgba(0, 0, 0, 0)",
+        "color": "rgba(0, 0, 0, 0)",
+        "font-family": "a",
+        "font-size": "0px",
+        "line-height": "0px",
+        "outline-color": "rgba(0, 0, 0, 0)",
+        "text-decoration": "underline"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": "\n\t\t\t\t\t\tLiveJournal\n\t\t\t\t\t",
+      "path": [
+        "div",
+        "header",
+        "p",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "s-logo"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "\n\t\t\t\t\t\tLiveJournal\n\t\t\t\t\t"
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 27,
+        "top": 73,
+        "width": 50
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "float": "left",
+        "font-family": "Arial, Verdana, Helvetica, sans-serif",
+        "font-weight": "bold",
+        "line-height": "27px",
+        "list-style-type": "none",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "7px",
+        "padding-right": "7px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "s-navmenu-rootlink"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<span>Home</span>",
+      "path": [
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "s-navbar",
+            "s-show-local-menu"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "s-navmenu"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "horizon-menu-home",
+            "s-navmenu-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "s-navmenu-rootlink"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Home"
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 79,
+        "top": 73,
+        "width": 125
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "float": "left",
+        "font-family": "Arial, Verdana, Helvetica, sans-serif",
+        "font-weight": "bold",
+        "line-height": "27px",
+        "list-style-type": "none",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "7px",
+        "padding-right": "7px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "s-navmenu-rootlink"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Create an account",
+      "path": [
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "s-navbar",
+            "s-show-local-menu"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "s-navmenu"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "horizon-menu-create",
+            "s-navmenu-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "s-navmenu-rootlink"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Create an account"
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 206,
+        "top": 73,
+        "width": 62
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "float": "left",
+        "font-family": "Arial, Verdana, Helvetica, sans-serif",
+        "font-weight": "bold",
+        "line-height": "27px",
+        "list-style-type": "none",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "7px",
+        "padding-right": "7px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "s-navmenu-rootlink"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Explore",
+      "path": [
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "s-navbar",
+            "s-show-local-menu"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "s-navmenu"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "horizon-menu-explore",
+            "s-navmenu-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "s-navmenu-rootlink"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Explore"
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 270,
+        "top": 73,
+        "width": 47
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "float": "left",
+        "font-family": "Arial, Verdana, Helvetica, sans-serif",
+        "font-weight": "bold",
+        "line-height": "27px",
+        "list-style-type": "none",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "7px",
+        "padding-right": "7px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "s-navmenu-rootlink"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "Shop",
+      "path": [
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "s-navbar",
+            "s-show-local-menu"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "s-navmenu"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "horizon-menu-shop",
+            "s-navmenu-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "s-navmenu-rootlink"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Shop"
+      ]
+    },
+    {
+      "bound": {
+        "height": 27,
+        "left": 319,
+        "top": 73,
+        "width": 72
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(255, 255, 255)",
+        "border-left-color": "rgb(255, 255, 255)",
+        "border-right-color": "rgb(255, 255, 255)",
+        "border-top-color": "rgb(255, 255, 255)",
+        "color": "rgb(255, 255, 255)",
+        "float": "left",
+        "font-family": "Arial, Verdana, Helvetica, sans-serif",
+        "font-weight": "bold",
+        "line-height": "27px",
+        "list-style-type": "none",
+        "outline-color": "rgb(255, 255, 255)",
+        "padding-left": "7px",
+        "padding-right": "7px",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "s-navmenu-rootlink"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "LJ Extras",
+      "path": [
+        "div",
+        "header",
+        "nav",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-header"
+          ],
+          "id": "",
+          "name": "header"
+        },
+        {
+          "classes": [
+            "s-navbar",
+            "s-show-local-menu"
+          ],
+          "id": "",
+          "name": "nav"
+        },
+        {
+          "classes": [
+            "s-navmenu"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "horizon-menu-apps",
+            "s-navmenu-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "s-navmenu-rootlink"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "LJ Extras"
+      ]
+    },
+    {
+      "bound": {
+        "height": 15,
+        "left": 1193,
+        "top": 70,
+        "width": 186
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "table-cell",
+        "font-size": "11px",
+        "margin-left": "40px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "dd"
+      },
+      "html": "<label><input type=\"checkbox\" name=\"remember_me\" value=\"1\" tabindex=\"4\"> Remember Me</label>",
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "dl",
+        "dd"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-lj"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-lj-remember"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "dd"
+        }
+      ],
+      "text": [
+        " Remember Me"
+      ]
+    },
+    {
+      "bound": {
+        "height": 13,
+        "left": 1193,
+        "top": 87,
+        "width": 186
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 102, 153)",
+        "border-left-color": "rgb(51, 102, 153)",
+        "border-right-color": "rgb(51, 102, 153)",
+        "border-top-color": "rgb(51, 102, 153)",
+        "color": "rgb(51, 102, 153)",
+        "font-size": "11px",
+        "outline-color": "rgb(51, 102, 153)",
+        "text-align": "left",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "ul"
+      },
+      "html": "\n\t\t\t\t\t\t\t\t\t\t<li>English</li>\n\t\t\t\t\t\t\t\t\t\t<li>Español</li>\n\t\t\t\t\t\t\t\t\t\t<li>Deutsch</li>\n\t\t\t\t\t\t\t\t\t\t<li>Русский…</li>\n\t\t\t\t\t\t\t\t\t",
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "dl",
+        "dd",
+        "a",
+        "ul"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-lj"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-langs"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        }
+      ],
+      "text": [
+        "English",
+        "Español",
+        "Deutsch",
+        "Русский…"
+      ]
+    },
+    {
+      "bound": {
+        "height": 13,
+        "left": 1403,
+        "top": 15,
+        "width": 177
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "11px",
+        "margin-bottom": "2px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "s-login-option"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a href=\"http://www.livejournal.com/create.bml\">Create an Account</a>",
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-options"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-option"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Create an Account"
+      ]
+    },
+    {
+      "bound": {
+        "height": 13,
+        "left": 1403,
+        "top": 32,
+        "width": 177
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "11px",
+        "margin-bottom": "2px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "s-login-option"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "<a href=\"http://www.livejournal.com/lostinfo.bml\">Forgot your login or password?</a>",
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-options"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-option"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Forgot your login or password?"
+      ]
+    },
+    {
+      "bound": {
+        "height": 42,
+        "left": 25,
+        "top": 110,
+        "width": 1550
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-author-userinfo"
+        ],
+        "id": "",
+        "name": "dd"
+      },
+      "html": " 0xDE (<span class=\"ljuser  i-ljuser     \" lj:user=\"11011110\"><a href=\"http://11011110.livejournal.com/profile\"><img width=\"16\" height=\"16\" class=\"i-ljuser-userhead\" src=\"http://l-stat.livejournal.com/img/userinfo.gif?v=17080?v=110.2\"></a><a href=\"http://11011110.livejournal.com/\" class=\"i-ljuser-username\"><b>11011110</b></a></span>) wrote,<br> <span class=\"b-singlepost-author-date\"><a href=\"http://11011110.livejournal.com/2010/\">2010</a>-<a href=\"http://11011110.livejournal.com/2010/12/\">12</a>-<a href=\"http://11011110.livejournal.com/2010/12/17/\">17</a> 22:55:00</span> ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "dl",
+        "dd"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-about"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-author"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "b-singlepost-author-userinfo"
+          ],
+          "id": "",
+          "name": "dd"
+        }
+      ],
+      "text": [
+        " 0xDE (",
+        "11011110",
+        ") wrote,",
+        "2010",
+        "-",
+        "12",
+        "-",
+        "17",
+        " 22:55:00"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 756,
+        "top": 233,
+        "width": 24
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "cursor": "pointer",
+        "display": "inline-block",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "15px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "position": "relative",
+        "text-align": "center",
+        "text-decoration": "underline",
+        "text-indent": "30px"
+      },
+      "element": {
+        "classes": [
+          "b-controls",
+          "b-controls-prev"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<i class=\"b-controls-bg\"></i>Previous",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-about"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-standout"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-linkbar",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-linkbar-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-controls",
+            "b-controls-prev"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Previous"
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 789,
+        "top": 233,
+        "width": 24
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "cursor": "pointer",
+        "display": "inline-block",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "15px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "position": "relative",
+        "text-align": "center",
+        "text-decoration": "underline",
+        "text-indent": "30px"
+      },
+      "element": {
+        "classes": [
+          "b-controls",
+          "b-controls-share",
+          "js-lj-share"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "\n                <i class=\"b-controls-bg\"></i>Share\n            ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-about"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-standout"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-linkbar",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-linkbar-item",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-controls",
+            "b-controls-share",
+            "js-lj-share"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Share\n            "
+      ]
+    },
+    {
+      "bound": {
+        "height": 24,
+        "left": 822,
+        "top": 233,
+        "width": 24
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "cursor": "pointer",
+        "display": "inline-block",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "15px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "position": "relative",
+        "text-align": "center",
+        "text-decoration": "underline",
+        "text-indent": "30px"
+      },
+      "element": {
+        "classes": [
+          "b-controls",
+          "b-controls-next"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<i class=\"b-controls-bg\"></i>Next",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-about"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-standout"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-linkbar",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-linkbar-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-controls",
+            "b-controls-next"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Next"
+      ]
+    },
+    {
+      "bound": {
+        "height": 36,
+        "left": 25,
+        "top": 282,
+        "width": 1550
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, Verdana, Helvetica, sans-serif",
+        "font-size": "30px",
+        "font-weight": "bold",
+        "line-height": "36px",
+        "margin-bottom": "15px",
+        "margin-top": "15px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-title"
+        ],
+        "id": "",
+        "name": "h1"
+      },
+      "html": "     Report from ISAAC  ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "h1"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-title"
+          ],
+          "id": "",
+          "name": "h1"
+        }
+      ],
+      "text": [
+        "     Report from ISAAC  "
+      ]
+    },
+    {
+      "bound": {
+        "height": 632,
+        "left": 25,
+        "top": 335,
+        "width": 1550
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "margin-bottom": "19px",
+        "margin-top": "10px",
+        "position": "relative",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-body"
+        ],
+        "id": "",
+        "name": "article"
+      },
+      "html": " I've spent most of the past week in Korea, for the 21st International Symposium on Algorithms and Computation (ISAAC). Somehow I had the impression of Korea in December as being a very cold place, but although I needed to bundle up a little for a day of sightseeing in Seoul (and although we were treated one morning at the conference to the pretty sight of snow falling over the ocean) it's been quite mild here in Jeju where the conference has been held. And the food and hospitality here have been outstanding.<br><br>As usual there were too many good talks to cover them all in any detail, so let me just summarize one per day.<br><br><a name=\"cutid1\"></a>Iwama, Seto, Takai, and Tamaki had a nice result on <a href=\"http://dx.doi.org/10.1007/978-3-642-17517-6_9\">exact algorithms for 3-SAT</a>, presented the first morning, although I'd already seen Iwama speak about the same result in Dagstuhl. Roughly speaking, there are two main approaches to exact 3-SAT algorithms: backtracking (order the variables and recursively try all settings of the variables) and local search (repeatedly try flipping a variable that will satisfy an unsatisfied clause). The backtracking approach works better when there are many satisfying assignments while the local search approach works better when there are fewer; based on this tradeoff, a previous paper of Iwama and Tamaki had shown how to combine the two approaches by using the same random starting assignment for both of them, achieving a worst-case running time better than either method alone. Separately, Hofmeister et al had shown that a non-uniform random distribution on the starting assignment (one that avoids certain obviously-wrong combinations of variables) can work better for the local search approach than a uniform distribution; but this method didn't work in combination with the backtracking approach. The new paper works by choosing a uniformly random assignment, applying the backtracking algorithm to it, modifying the assignment in a careful way to make its distribution conform to the nonuniform distribution of Hofmeister et al, and applying the local search method to the modified assignment. It achieves a record time of O(1.32113<sup>n</sup>) to solve 3-SAT instances with n variables.<br><br>On the second day, Gu and Tamaki presented a paper on the <a href=\"http://dx.doi.org/10.1007/978-3-642-17514-5_8\">branchwidth of planar graphs</a>. Branchwidth is like treewidth in many respects, but with the important difference that, for planar graphs, optimal branch-decompositions can be constructed in polynomial time; this makes it advantageous to use for FPT and approximation algorithms, compared to treewidth because one doesn't lose an additional factor by approximating it. It was also known that (again, in planar graphs) branchwidth is between g and cg, where the largest grid-graph minor has size g&nbsp;x&nbsp;g, and c is some constant, previously known to be at most 4. The value of c is important because, through this dependence between branchwidth and grid minor size, it shows up in the exponent in the time bounds for FPT algorithms on planar graphs. The new paper shows that c&nbsp;≤&nbsp;3; it also shows that c cannot be reduced below two, by presenting a simple example of a graph with branchwidth twice as large as its grid minor size: a cylindrical grid formed by g concentric cycles, each of length 2g.<br><br>I didn't think I would be able to see John Augustine's talk on <a href=\"http://dx.doi.org/10.1007/978-3-642-17514-5_22\">the CNN problem</a>, Friday morning, because I was scheduled to be the session chair for the other parallel session. But one of the sets of authors from my session had transportation difficulties that prevented them from getting to the conference, freeing a time slot at the end of the session and allowing me to move to the other one. In the version of the problem considered by Augustine, a point is moving continuously in the (L1-metric) plane under the control of an adversary, and the algorithm most move a second point so that, at all times, the algorithm's point and the adversary's point are on a common horizontal or vertical line. The cost to the algorithm is the L1 distance its point moves, and the quality of an algorithm is its competitive ratio, the ratio between the cost it actually achieves and the optimal cost that it could have achieved if only it knew the adversary's future moves. The difference between Augustine's version of the problem and previously considered versions is that in his problem the adversary's point must move continuously, where previously it was allowed to jump around arbitrarily, but it also generalizes another previously considered special case in which the adversary's point was only allowed to jump along horizontal or vertical lines. Augustine's algorithm alternates between two strategies, one in which it moves like a chess rook, keeping the adversary's point to its left on a horizontal line, and a second in which it moves like a chess bishop, trying to get its point closer to the adversary's point. He shows that his method achieves a competitive ratio of 3&nbsp;+&nbsp;2√3, improving a ratio of 9 for the more restrictive problem in which the adversary's motion is restricted to horizontal and vertical lines.<br><br>My own talks were on <a href=\"http://11011110.livejournal.com/199437.html\">regular labelings</a> and <a href=\"http://11011110.livejournal.com/200285.html\">flow in one-crossing-minor-free graphs</a>; I also had a paper on <a href=\"http://11011110.livejournal.com/199317.html\">finding cliques</a>, presented by my co-author Darren Strash (a student of Mike Goodrich at UCI).<a name=\"cutid1-end\"></a> ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "article"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-body"
+          ],
+          "id": "",
+          "name": "article"
+        }
+      ],
+      "text": [
+        " I've spent most of the past week in Korea, for the 21st International Symposium on Algorithms and Computation (ISAAC). Somehow I had the impression of Korea in December as being a very cold place, but although I needed to bundle up a little for a day of sightseeing in Seoul (and although we were treated one morning at the conference to the pretty sight of snow falling over the ocean) it's been quite mild here in Jeju where the conference has been held. And the food and hospitality here have been outstanding.",
+        "As usual there were too many good talks to cover them all in any detail, so let me just summarize one per day.",
+        "Iwama, Seto, Takai, and Tamaki had a nice result on ",
+        "exact algorithms for 3-SAT",
+        ", presented the first morning, although I'd already seen Iwama speak about the same result in Dagstuhl. Roughly speaking, there are two main approaches to exact 3-SAT algorithms: backtracking (order the variables and recursively try all settings of the variables) and local search (repeatedly try flipping a variable that will satisfy an unsatisfied clause). The backtracking approach works better when there are many satisfying assignments while the local search approach works better when there are fewer; based on this tradeoff, a previous paper of Iwama and Tamaki had shown how to combine the two approaches by using the same random starting assignment for both of them, achieving a worst-case running time better than either method alone. Separately, Hofmeister et al had shown that a non-uniform random distribution on the starting assignment (one that avoids certain obviously-wrong combinations of variables) can work better for the local search approach than a uniform distribution; but this method didn't work in combination with the backtracking approach. The new paper works by choosing a uniformly random assignment, applying the backtracking algorithm to it, modifying the assignment in a careful way to make its distribution conform to the nonuniform distribution of Hofmeister et al, and applying the local search method to the modified assignment. It achieves a record time of O(1.32113",
+        "n",
+        ") to solve 3-SAT instances with n variables.",
+        "On the second day, Gu and Tamaki presented a paper on the ",
+        "branchwidth of planar graphs",
+        ". Branchwidth is like treewidth in many respects, but with the important difference that, for planar graphs, optimal branch-decompositions can be constructed in polynomial time; this makes it advantageous to use for FPT and approximation algorithms, compared to treewidth because one doesn't lose an additional factor by approximating it. It was also known that (again, in planar graphs) branchwidth is between g and cg, where the largest grid-graph minor has size g x g, and c is some constant, previously known to be at most 4. The value of c is important because, through this dependence between branchwidth and grid minor size, it shows up in the exponent in the time bounds for FPT algorithms on planar graphs. The new paper shows that c ≤ 3; it also shows that c cannot be reduced below two, by presenting a simple example of a graph with branchwidth twice as large as its grid minor size: a cylindrical grid formed by g concentric cycles, each of length 2g.",
+        "I didn't think I would be able to see John Augustine's talk on ",
+        "the CNN problem",
+        ", Friday morning, because I was scheduled to be the session chair for the other parallel session. But one of the sets of authors from my session had transportation difficulties that prevented them from getting to the conference, freeing a time slot at the end of the session and allowing me to move to the other one. In the version of the problem considered by Augustine, a point is moving continuously in the (L1-metric) plane under the control of an adversary, and the algorithm most move a second point so that, at all times, the algorithm's point and the adversary's point are on a common horizontal or vertical line. The cost to the algorithm is the L1 distance its point moves, and the quality of an algorithm is its competitive ratio, the ratio between the cost it actually achieves and the optimal cost that it could have achieved if only it knew the adversary's future moves. The difference between Augustine's version of the problem and previously considered versions is that in his problem the adversary's point must move continuously, where previously it was allowed to jump around arbitrarily, but it also generalizes another previously considered special case in which the adversary's point was only allowed to jump along horizontal or vertical lines. Augustine's algorithm alternates between two strategies, one in which it moves like a chess rook, keeping the adversary's point to its left on a horizontal line, and a second in which it moves like a chess bishop, trying to get its point closer to the adversary's point. He shows that his method achieves a competitive ratio of 3 + 2√3, improving a ratio of 9 for the more restrictive problem in which the adversary's motion is restricted to horizontal and vertical lines.",
+        "My own talks were on ",
+        "regular labelings",
+        " and ",
+        "flow in one-crossing-minor-free graphs",
+        "; I also had a paper on ",
+        "finding cliques",
+        ", presented by my co-author Darren Strash (a student of Mike Goodrich at UCI)."
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 25,
+        "top": 988,
+        "width": 1550
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-tags",
+          "ljtags"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": " <strong>Tags:</strong> <a href=\"http://11011110.livejournal.com/tag/conferences\">conferences</a>, <a href=\"http://11011110.livejournal.com/tag/korea\">korea</a>, <a href=\"http://11011110.livejournal.com/tag/talks\">talks</a> ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-tags",
+            "ljtags"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Tags:",
+        "conferences",
+        ", ",
+        "korea",
+        ", ",
+        "talks"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 1630,
+        "top": 3897,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "cursor": "col-resize",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "font-size": "14px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "position": "relative",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-prevnext-item",
+          "b-singlepost-prevnext-prev"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": " <span class=\"b-singlepost-prevnext-author\"><span class=\"ljuser  i-ljuser     \" lj:user=\"11011110\"><a href=\"http://11011110.livejournal.com/profile\"><img width=\"16\" height=\"16\" class=\"i-ljuser-userhead\" src=\"http://l-stat.livejournal.com/img/userinfo.gif?v=17080?v=110.2\"></a><a href=\"http://11011110.livejournal.com/\" class=\"i-ljuser-username\"><b>11011110</b></a></span>:</span> <a href=\"http://11011110.livejournal.com/210592.html\" class=\"b-singlepost-prevnext-link\" title=\"How not to present algorithms\"><span class=\"b-singlepost-prevnext-arrow\">←</span><span class=\"b-singlepost-prevnext-inner\">How not to present algorithms</span></a> ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-prev"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "11011110",
+        ":"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1606,
+        "top": 3910,
+        "width": 21
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "font-family": "Times, serif",
+        "font-size": "21px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "position": "absolute",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-prevnext-arrow"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "←",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-prev"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-link"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-arrow"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "←"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1631,
+        "top": 3912,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "14px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-align": "left",
+        "text-overflow": "ellipsis",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-prevnext-inner"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "How not to present algorithms",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-prev"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-link"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-inner"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "How not to present algorithms"
+      ]
+    },
+    {
+      "bound": {
+        "height": 32,
+        "left": 1630,
+        "top": 3935,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "cursor": "col-resize",
+        "display": "list-item",
+        "font-family": "Arial, sans-serif",
+        "font-size": "14px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "margin-top": "6px",
+        "position": "relative",
+        "text-align": "right"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-prevnext-item",
+          "b-singlepost-prevnext-next"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": " <span class=\"b-singlepost-prevnext-author\"><span class=\"ljuser  i-ljuser     \" lj:user=\"11011110\"><a href=\"http://11011110.livejournal.com/profile\"><img width=\"16\" height=\"16\" class=\"i-ljuser-userhead\" src=\"http://l-stat.livejournal.com/img/userinfo.gif?v=17080?v=110.2\"></a><a href=\"http://11011110.livejournal.com/\" class=\"i-ljuser-username\"><b>11011110</b></a></span>:</span> <a href=\"http://11011110.livejournal.com/210978.html\" class=\"b-singlepost-prevnext-link\" title=\"Photos from Korea\"><span class=\"b-singlepost-prevnext-arrow\">→</span><span class=\"b-singlepost-prevnext-inner\">Photos from Korea</span></a> ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-next"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "11011110",
+        ":"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 1835,
+        "top": 3948,
+        "width": 21
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "font-family": "Times, serif",
+        "font-size": "21px",
+        "line-height": "20px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "position": "absolute",
+        "text-align": "right"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-prevnext-arrow"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "→",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-next"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-link"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-arrow"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "→"
+      ]
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1631,
+        "top": 3950,
+        "width": 200
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "14px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "overflow-x": "hidden",
+        "overflow-y": "hidden",
+        "text-align": "right",
+        "text-overflow": "ellipsis",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "b-singlepost-prevnext-inner"
+        ],
+        "id": "",
+        "name": "span"
+      },
+      "html": "Photos from Korea",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "a",
+        "span"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-next"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-link"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-inner"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ],
+      "text": [
+        "Photos from Korea"
+      ]
+    },
+    {
+      "bound": {
+        "height": 34,
+        "left": 25,
+        "top": 1083,
+        "width": 199
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline-block",
+        "font-family": "Arial, sans-serif",
+        "font-size": "17px",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "padding-left": "30px",
+        "padding-right": "12px",
+        "position": "relative",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-addcomment"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": "<span class=\"b-addcomment-inner\"><i class=\"b-addcomment-icon\"></i>Post a new comment</span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-grove",
+            "b-grove-3comments",
+            "ljtimes-disabled"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-xylem",
+            "b-xylem-first"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-xylem-cells"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-xylem-cell",
+            "b-xylem-cell-add"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-addcomment"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        "Post a new comment"
+      ]
+    },
+    {
+      "bound": {
+        "height": 34,
+        "left": 490,
+        "top": 1083,
+        "width": 620
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "list-item",
+        "float": "left",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "34px",
+        "list-style-type": "none",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [
+          "b-xylem-cell",
+          "b-xylem-cell-amount"
+        ],
+        "id": "",
+        "name": "li"
+      },
+      "html": "   <span class=\"js-amount\">  1 comment  </span>   ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "ul",
+        "li"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-grove",
+            "b-grove-3comments",
+            "ljtimes-disabled"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-xylem",
+            "b-xylem-first"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-xylem-cells"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-xylem-cell",
+            "b-xylem-cell-amount"
+          ],
+          "id": "",
+          "name": "li"
+        }
+      ],
+      "text": [
+        "  1 comment  "
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 137,
+        "top": 1174,
+        "width": 1438
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "margin-bottom": "8px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-leaf-username"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": " <span class=\"b-leaf-username-name\">Anonymous</span>  ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-grove",
+            "b-grove-3comments",
+            "ljtimes-disabled"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree",
+            "b-tree-root"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree-twig",
+            "b-tree-twig-1"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf"
+          ],
+          "id": "t580745",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-header"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-details"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-username"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "Anonymous"
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 137,
+        "top": 1205,
+        "width": 223
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(76, 119, 163)",
+        "border-left-color": "rgb(76, 119, 163)",
+        "border-right-color": "rgb(76, 119, 163)",
+        "border-top-color": "rgb(76, 119, 163)",
+        "color": "rgb(76, 119, 163)",
+        "float": "left",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "margin-bottom": "8px",
+        "margin-right": "22px",
+        "outline-color": "rgb(76, 119, 163)",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-leaf-meta"
+        ],
+        "id": "",
+        "name": "p"
+      },
+      "html": "  <span class=\"b-leaf-createdtime\">December 20 2010, 09:28:28 UTC</span>   <span class=\"b-leaf-shorttime\">2 years ago</span>   ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-grove",
+            "b-grove-3comments",
+            "ljtimes-disabled"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree",
+            "b-tree-root"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree-twig",
+            "b-tree-twig-1"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf"
+          ],
+          "id": "t580745",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-header"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-details"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-meta"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "December 20 2010, 09:28:28 UTC"
+      ]
+    },
+    {
+      "bound": {
+        "height": 18,
+        "left": 384,
+        "top": 1207,
+        "width": 20
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline-block",
+        "font-family": "Arial, sans-serif",
+        "line-height": "18px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "text-align": "left",
+        "text-decoration": "underline",
+        "visibility": "hidden",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "a"
+      },
+      "html": " link ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-grove",
+            "b-grove-3comments",
+            "ljtimes-disabled"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree",
+            "b-tree-root"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree-twig",
+            "b-tree-twig-1"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf"
+          ],
+          "id": "t580745",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-header"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-details"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-actions"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-leaf-actions-item",
+            "b-leaf-actions-permalink"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        " link "
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 425,
+        "top": 1207,
+        "width": 50
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-bottom-style": "dotted",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "cursor": "pointer",
+        "display": "inline-block",
+        "font-family": "Arial, sans-serif",
+        "line-height": "18px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "text-align": "left",
+        "visibility": "hidden",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "b-pseudo"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": " Collapse ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-grove",
+            "b-grove-3comments",
+            "ljtimes-disabled"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree",
+            "b-tree-root"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree-twig",
+            "b-tree-twig-1"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf"
+          ],
+          "id": "t580745",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-header"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-details"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-actions"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-leaf-actions-collapse",
+            "b-leaf-actions-item"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-pseudo"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        " Collapse "
+      ]
+    },
+    {
+      "bound": {
+        "height": 21,
+        "left": 25,
+        "top": 1271,
+        "width": 1550
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "font-weight": "bold",
+        "line-height": "21px",
+        "margin-bottom": "7px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-leaf-subject"
+        ],
+        "id": "",
+        "name": "h4"
+      },
+      "html": "Thanks...",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "h4"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-grove",
+            "b-grove-3comments",
+            "ljtimes-disabled"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree",
+            "b-tree-root"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree-twig",
+            "b-tree-twig-1"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf"
+          ],
+          "id": "t580745",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-article"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-subject"
+          ],
+          "id": "",
+          "name": "h4"
+        }
+      ],
+      "text": [
+        "Thanks..."
+      ]
+    },
+    {
+      "bound": {
+        "height": 93,
+        "left": 25,
+        "top": 1271,
+        "width": 1550
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [
+          "b-leaf-article"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": " <h4 class=\"b-leaf-subject\" style=\"border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: red; border-right-color: red; border-bottom-color: red; border-left-color: red; \">Thanks...</h4> David... appreciate the mention. I'd like to also give a quick shoutout to my coauthor Nick Gravin.<br><br>John. ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-grove",
+            "b-grove-3comments",
+            "ljtimes-disabled"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree",
+            "b-tree-root"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree-twig",
+            "b-tree-twig-1"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf"
+          ],
+          "id": "t580745",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-article"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        " David... appreciate the mention. I'd like to also give a quick shoutout to my coauthor Nick Gravin.",
+        "John. "
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 25,
+        "top": 1373,
+        "width": 33
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-bottom-style": "dotted",
+        "border-bottom-width": "1px",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "cursor": "pointer",
+        "display": "inline-block",
+        "font-family": "Arial, sans-serif",
+        "line-height": "18px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "text-align": "left",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "b-pseudo"
+        ],
+        "id": "",
+        "name": "a"
+      },
+      "html": " Reply ",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "ul",
+        "li",
+        "a"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-grove",
+            "b-grove-3comments",
+            "ljtimes-disabled"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree",
+            "b-tree-root"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree-twig",
+            "b-tree-twig-1"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf"
+          ],
+          "id": "t580745",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-footer"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-actions"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-leaf-actions-item",
+            "b-leaf-actions-reply"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-pseudo"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ],
+      "text": [
+        " Reply "
+      ]
+    },
+    {
+      "bound": {
+        "height": 23,
+        "left": 370,
+        "top": 3970,
+        "width": 860
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "11px",
+        "padding-bottom": "5px",
+        "padding-left": "5px",
+        "padding-right": "5px",
+        "padding-top": "5px",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [
+          "s-footer-copyright"
+        ],
+        "id": "",
+        "name": "div"
+      },
+      "html": "Copyright © 1999 LiveJournal, Inc.  All rights reserved.",
+      "path": [
+        "footer",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-footer",
+            "s-footer-lite"
+          ],
+          "id": "",
+          "name": "footer"
+        },
+        {
+          "classes": [
+            "s-footer-nav-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-footer-copyright"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "Copyright © 1999 LiveJournal, Inc.  All rights reserved."
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 16,
+        "left": 1401,
+        "top": 55,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 102, 153)",
+        "border-left-color": "rgb(51, 102, 153)",
+        "border-right-color": "rgb(51, 102, 153)",
+        "border-top-color": "rgb(51, 102, 153)",
+        "color": "rgb(51, 102, 153)",
+        "display": "inline",
+        "font-size": "11px",
+        "outline-color": "rgb(51, 102, 153)",
+        "text-align": "left",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "p",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-options"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-more"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "i-auth"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/icons/facebook-16.png?v=29916"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1421,
+        "top": 55,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 102, 153)",
+        "border-left-color": "rgb(51, 102, 153)",
+        "border-right-color": "rgb(51, 102, 153)",
+        "border-top-color": "rgb(51, 102, 153)",
+        "color": "rgb(51, 102, 153)",
+        "display": "inline",
+        "font-size": "11px",
+        "outline-color": "rgb(51, 102, 153)",
+        "text-align": "left",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "p",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-options"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-more"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "i-auth"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/icons/twitter-16.png?v=29916"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1441,
+        "top": 55,
+        "width": 16
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(51, 102, 153)",
+        "border-left-color": "rgb(51, 102, 153)",
+        "border-right-color": "rgb(51, 102, 153)",
+        "border-top-color": "rgb(51, 102, 153)",
+        "color": "rgb(51, 102, 153)",
+        "display": "inline",
+        "font-size": "11px",
+        "outline-color": "rgb(51, 102, 153)",
+        "text-align": "left",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "form",
+        "fieldset",
+        "p",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_loginform",
+            "s-login"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "lj_login_form"
+          ],
+          "id": "login",
+          "name": "form"
+        },
+        {
+          "classes": [
+            "s-login-options"
+          ],
+          "id": "",
+          "name": "fieldset"
+        },
+        {
+          "classes": [
+            "s-login-more"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "i-auth",
+            "i-loginpopup-show"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/icons/showmore.gif?v=11430"
+    },
+    {
+      "bound": {
+        "height": 100,
+        "left": 25,
+        "top": 110,
+        "width": 100
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "text-align": "left",
+        "vertical-align": "middle"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "dl",
+        "dt",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-about"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-author"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "b-singlepost-author-userpic"
+          ],
+          "id": "",
+          "name": "dt"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-userpic.livejournal.com/32934265/7784841"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 189,
+        "top": 114,
+        "width": 17
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "outline-color": "rgb(0, 81, 183)",
+        "padding-right": "1px",
+        "text-align": "left",
+        "vertical-align": "text-bottom",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "i-ljuser-userhead"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "dl",
+        "dd",
+        "span",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-about"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-author"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "b-singlepost-author-userinfo"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "i-ljuser",
+            "ljuser"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "i-ljuser-userhead"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/userinfo.gif?v=17080?v=110.2"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1631,
+        "top": 3890,
+        "width": 17
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "14px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "padding-right": "1px",
+        "text-align": "left",
+        "vertical-align": "text-bottom",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "i-ljuser-userhead"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "span",
+        "span",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-prev"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-author"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "i-ljuser",
+            "ljuser"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "i-ljuser-userhead"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/userinfo.gif?v=17080?v=110.2"
+    },
+    {
+      "bound": {
+        "height": 16,
+        "left": 1744,
+        "top": 3932,
+        "width": 17
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(0, 81, 183)",
+        "border-left-color": "rgb(0, 81, 183)",
+        "border-right-color": "rgb(0, 81, 183)",
+        "border-top-color": "rgb(0, 81, 183)",
+        "color": "rgb(0, 81, 183)",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "14px",
+        "line-height": "16px",
+        "list-style-type": "none",
+        "outline-color": "rgb(0, 81, 183)",
+        "padding-right": "1px",
+        "text-align": "right",
+        "vertical-align": "text-bottom",
+        "white-space": "nowrap"
+      },
+      "element": {
+        "classes": [
+          "i-ljuser-userhead"
+        ],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "ul",
+        "li",
+        "span",
+        "span",
+        "a",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-items"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-item",
+            "b-singlepost-prevnext-next"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "b-singlepost-prevnext-author"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "i-ljuser",
+            "ljuser"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "i-ljuser-userhead"
+          ],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/userinfo.gif?v=17080?v=110.2"
+    },
+    {
+      "bound": {
+        "height": 100,
+        "left": 25,
+        "top": 1164,
+        "width": 100
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-collapse": "collapse",
+        "display": "inline",
+        "font-family": "Arial, sans-serif",
+        "font-size": "15px",
+        "line-height": "21px",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "article",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "div",
+        "span",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [
+            "s-content-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-content"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "s-text-wrapper"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-singlepost",
+            "ng-scope"
+          ],
+          "id": "",
+          "name": "article"
+        },
+        {
+          "classes": [
+            "b-grove",
+            "b-grove-3comments",
+            "ljtimes-disabled"
+          ],
+          "id": "comments",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree",
+            "b-tree-root"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-tree-twig",
+            "b-tree-twig-1"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf"
+          ],
+          "id": "t580745",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-inner"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-header"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-userpic"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "b-leaf-userpic-inner"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://l-stat.livejournal.com/img/userpics/userpic-anonymous.png?v=15821"
+    },
+    {
+      "bound": {
+        "height": 1,
+        "left": 0,
+        "top": 4000,
+        "width": 1
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "font-size": "0px",
+        "line-height": "0px",
+        "text-align": "left"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "hello-world",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://xc3.services.livejournal.com/ljcounter?d=srv:bil1-ws42,r:0,j:7784841,uri:%22%2F210825.html%22,ref:%22https:%2F%2Fwww.google.com%2F%22,vig:0,extra:AHbJiQB2yYkAAzeJ"
+    }
+  ]
+}
