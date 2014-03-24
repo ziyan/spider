@@ -19,5 +19,5 @@ $ ->
     element.src = '//www.google-analytics.com/analytics.js'
     script.parentNode.insertBefore element, script
 
-    window.ga 'create', 'UA-34085887-2', 'ziyan.github.io'
+    window.ga 'create', 'UA-34085887-1', 'ziyan.github.io'
     window.ga 'send', 'pageview'
