@@ -1,0 +1,1 @@
+javascript:(function(){window.__spider_url='https://spider.ziyan.net';var s=document.createElement('script');s.async=1;s.src='https://d3ltuim8m8ytq2.cloudfront.net/spider/spider.js';document.body.appendChild(s)})()
