@@ -87,7 +87,7 @@ def main(args):
         random.shuffle(page_texts)
         pages.append(page_texts)
 
-    random.shuffle(pages)
+    #random.shuffle(pages)
 
     continuous_features = []
     discrete_features = []

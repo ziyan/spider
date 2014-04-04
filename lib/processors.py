@@ -147,8 +147,8 @@ class Processor(object):
 
             # discrete features
             discrete_feature = dict()
-            discrete_feature = dict(text['computed'].items())
-            discrete_feature['path'] = ' > '.join(text['path'])
+            #discrete_feature = dict(text['computed'].items())
+            #discrete_feature['path'] = ' > '.join(text['path'])
             """
             discrete_feature['selector'] = ' > '.join([
                 '%s%s%s' % (
